@@ -453,7 +453,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2991877883"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -888,8 +892,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -936,13 +940,12 @@
       "related_works": [
         "https://openalex.org/W3201594851",
         "https://openalex.org/W2007218904",
-        "https://openalex.org/W7140063934",
+        "https://openalex.org/W4413684105",
         "https://openalex.org/W2000061974",
         "https://openalex.org/W3036591066",
         "https://openalex.org/W2044475616",
         "https://openalex.org/W2934075027",
         "https://openalex.org/W3127689467",
-        "https://openalex.org/W4239821348",
         "https://openalex.org/W2031485164"
       ],
       "abstract_inverted_index": {
@@ -1743,7 +1746,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -1792,7 +1795,11 @@
         "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1970024393"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -2288,27 +2295,27 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2861,7 +2868,11 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3020833061"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -3308,8 +3319,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3958,7 +3969,11 @@
         "raw_source_name": "International Journal of Coal Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2042373016"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4103,11 +4118,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 0.3858,
+      "fwci": 0.3857,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.68212501,
+        "value": 0.6821889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4373,9 +4388,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.875,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -4388,8 +4403,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -4418,10 +4433,9 @@
       ],
       "related_works": [
         "https://openalex.org/W2350971892",
-        "https://openalex.org/W7167186980",
+        "https://openalex.org/W7062039640",
         "https://openalex.org/W2036242646",
         "https://openalex.org/W2118850941",
-        "https://openalex.org/W2617043958",
         "https://openalex.org/W2356881213",
         "https://openalex.org/W2512626307",
         "https://openalex.org/W3093697837",
@@ -4455,7 +4469,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4504,10 +4518,18 @@
         "raw_source_name": "Siliciclastic Reservoirs of the Arabian Plate",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W3003836963",
-        "display_name": "Siliciclastic Reservoirs of the Arabian Plate"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W3003836963",
+          "display_name": "Siliciclastic Reservoirs of the Arabian Plate",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2991480490",
+        "https://openalex.org/W3003836963"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -4629,11 +4651,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7496,
+      "fwci": 0.7462,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.6560999,
+        "value": 0.65380906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4944,8 +4966,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -6216,7 +6238,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-12-05T00:00:00"
     },
     {
@@ -6261,7 +6283,11 @@
         "raw_source_name": "First EAGE Workshop on Tight Gas Reservoirs 2009",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2029365051"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -6673,8 +6699,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7067,7 +7093,11 @@
         "raw_source_name": "",
         "raw_type": "Thesis"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2276535086"
+      ],
+      "child_works_count": 0,
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -7301,8 +7331,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7366,7 +7396,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2587344789"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -7735,8 +7769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8375,7 +8409,11 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4246415414"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -8723,8 +8761,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

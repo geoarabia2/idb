@@ -17,7 +17,7 @@
     ],
     "full_name": "Mohamed Omar Abouelresh",
     "works_count": 54,
-    "cited_by_count": 1111,
+    "cited_by_count": 1112,
     "summary_stats": {
       "2yr_mean_citedness": 6.166666666666667,
       "h_index": 19,
@@ -438,7 +438,7 @@
         "year": 2026,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 136
+        "cited_by_count": 137
       }
     ],
     "display_name_alternatives": [
@@ -454,7 +454,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5039010638",
-    "updated_date": "2026-11-13T15:08:24",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -515,7 +515,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2147937847"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2024,7 +2028,11 @@
         "raw_source_name": "International Journal of Coal Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2619365378"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2885,7 +2893,11 @@
         "raw_source_name": "Sustainability",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2980007598"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4148,7 +4160,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4200222560"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4997,7 +5013,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2530113942"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5604,7 +5624,11 @@
         "raw_source_name": "Journal of Energy Resources Technology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2923679761"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6856,10 +6880,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -6870,7 +6898,11 @@
         "raw_source_name": "SPE Kuwait Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2761490684"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -7091,11 +7123,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.1673,
+      "fwci": 16.1764,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.99345238,
+        "value": 0.99345433,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -7355,10 +7387,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -7373,14 +7409,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -7901,7 +7937,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -7932,10 +7968,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -7946,7 +7986,11 @@
         "raw_source_name": "SPE Kuwait Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2979948665"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -8169,11 +8213,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 27.9612,
+      "fwci": 27.7477,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.99821826,
+        "value": 0.99799644,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -8413,10 +8457,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -9100,7 +9148,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-10-18T00:00:00"
     },
     {
@@ -9145,7 +9193,11 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3000577598"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -10396,7 +10448,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4296311853"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10702,11 +10758,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 3.2838,
+      "fwci": 3.2942,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.92459827,
+        "value": 0.92495256,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11338,13 +11394,12 @@
       "related_works": [
         "https://openalex.org/W4291718810",
         "https://openalex.org/W3014355492",
-        "https://openalex.org/W7097365092",
         "https://openalex.org/W4404013892",
         "https://openalex.org/W1980881493",
         "https://openalex.org/W1984702065",
-        "https://openalex.org/W6946139757",
+        "https://openalex.org/W2994740273",
         "https://openalex.org/W2982997906",
-        "https://openalex.org/W4393392458",
+        "https://openalex.org/W7143452396",
         "https://openalex.org/W2195444931"
       ],
       "abstract_inverted_index": {
@@ -12050,7 +12105,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-09-20T00:00:00"
     },
     {
@@ -12086,6 +12141,7 @@
             "cwts-core",
             "doaj",
             "jufo-1",
+            "oarl",
             "poland-20",
             "russia-white-list-1"
           ],
@@ -12107,7 +12163,11 @@
         "raw_source_name": "International Journal of Geoheritage and Parks",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4391289093"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12295,11 +12355,11 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 5.4604,
+      "fwci": 5.4029,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.96554867,
+        "value": 0.96487226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12578,6 +12638,7 @@
               "cwts-core",
               "doaj",
               "jufo-1",
+              "oarl",
               "poland-20",
               "russia-white-list-1"
             ],
@@ -12650,6 +12711,7 @@
             "cwts-core",
             "doaj",
             "jufo-1",
+            "oarl",
             "poland-20",
             "russia-white-list-1"
           ],
@@ -12673,9 +12735,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.7605999708175659,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -12766,7 +12828,7 @@
         "https://openalex.org/W4389683017",
         "https://openalex.org/W4311524999",
         "https://openalex.org/W4308565005",
-        "https://openalex.org/W7111631392",
+        "https://openalex.org/W4386087164",
         "https://openalex.org/W4381856447",
         "https://openalex.org/W2489444333",
         "https://openalex.org/W2494872625",
@@ -13243,7 +13305,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-01-28T00:00:00"
     },
     {
@@ -13305,7 +13367,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4387404935"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14459,7 +14525,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4381856447"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15046,7 +15116,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4389683017"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15758,7 +15832,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4391847286"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16023,11 +16101,11 @@
         "value_usd": 3690
       },
       "apc_paid": null,
-      "fwci": 4.3229,
+      "fwci": 4.2773,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.94686475,
+        "value": 0.94616788,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16336,9 +16414,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -16521,7 +16599,11 @@
         "raw_source_name": "Open Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2150830456"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17924,7 +18006,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2967083983"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18193,11 +18279,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 3.0281,
+      "fwci": 3.0244,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.89997544,
+        "value": 0.89985248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18661,7 +18747,6 @@
         "https://openalex.org/W2090166221",
         "https://openalex.org/W2923413028",
         "https://openalex.org/W2770315162",
-        "https://openalex.org/W4285611916",
         "https://openalex.org/W4319766246"
       ],
       "abstract_inverted_index": null,
@@ -18699,7 +18784,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-08-22T00:00:00"
     },
     {
@@ -18754,7 +18839,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2997589548"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19101,11 +19190,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.3826,
+      "fwci": 1.3775,
       "has_fulltext": false,
-      "cited_by_count": 28,
+      "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.76336317,
+        "value": 0.76264495,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19480,9 +19569,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -19590,7 +19679,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -19617,7 +19706,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-01-10T00:00:00"
     },
     {
@@ -19681,7 +19770,11 @@
         "raw_source_name": "ACS Omega",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3091516652"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21299,7 +21392,11 @@
         "raw_source_name": "International Journal of Coal Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4392857507"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21687,11 +21784,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 2.5027,
+      "fwci": 2.4763,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.87896464,
+        "value": 0.87728102,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22175,7 +22272,11 @@
         "raw_source_name": "Ecological Frontiers",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4413136238"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22664,11 +22765,11 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 1.6885,
+      "fwci": 1.662,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.79406961,
+        "value": 0.79069875,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22956,9 +23057,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.8518999814987183,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -23098,7 +23199,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2994097002"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23226,11 +23331,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.3248,
+      "fwci": 1.3232,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.76933781,
+        "value": 0.76905425,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23642,11 +23747,10 @@
         "https://openalex.org/W2618281084",
         "https://openalex.org/W4390583382",
         "https://openalex.org/W3119340749",
-        "https://openalex.org/W7167166801",
+        "https://openalex.org/W6991199340",
         "https://openalex.org/W4226156786",
         "https://openalex.org/W7214688979",
         "https://openalex.org/W4307402412",
-        "https://openalex.org/W6991199340",
         "https://openalex.org/W7135199808",
         "https://openalex.org/W2287024948"
       ],
@@ -23673,7 +23777,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -23735,7 +23839,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4396703642"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24021,11 +24129,11 @@
         "value_usd": 3690
       },
       "apc_paid": null,
-      "fwci": 1.5926,
+      "fwci": 1.5759,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.79885162,
+        "value": 0.7975365,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24325,9 +24433,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.8125,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -24477,7 +24585,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4414420317"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25062,9 +25174,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -25205,7 +25317,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4414622608"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25904,7 +26020,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2194937686"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26032,11 +26152,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.2943,
+      "fwci": 1.294,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.8124145,
+        "value": 0.81234505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26392,13 +26512,12 @@
         "https://openalex.org/W6827245530"
       ],
       "related_works": [
-        "https://openalex.org/W6979924331",
+        "https://openalex.org/W576717911",
         "https://openalex.org/W2247162875",
         "https://openalex.org/W3164766444",
         "https://openalex.org/W2565826940",
         "https://openalex.org/W1980652809",
         "https://openalex.org/W6884734255",
-        "https://openalex.org/W1623015668",
         "https://openalex.org/W2277601593",
         "https://openalex.org/W2780355563",
         "https://openalex.org/W3156886951"
@@ -26426,7 +26545,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26457,10 +26576,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -26471,7 +26594,11 @@
         "raw_source_name": "Unconventional Resources Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2320801438"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -26536,11 +26663,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2256,
+      "fwci": 3.2213,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89545278,
+        "value": 0.89524922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26721,10 +26848,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -26823,7 +26954,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26854,10 +26985,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -26868,7 +27003,11 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2896631363"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -27129,11 +27268,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5743,
+      "fwci": 0.5749,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.60804233,
+        "value": 0.60853041,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27487,10 +27626,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -27505,9 +27648,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -28388,7 +28531,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2018-10-26T00:00:00"
     },
     {
@@ -28419,10 +28562,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -28433,7 +28580,11 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2621001098"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -28736,11 +28887,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5837,
+      "fwci": 3.5948,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.92491061,
+        "value": 0.92085689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29068,10 +29219,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -29086,9 +29241,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -30025,7 +30180,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -30086,7 +30241,11 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4309553920"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30365,11 +30524,11 @@
         "value_usd": 3280
       },
       "apc_paid": null,
-      "fwci": 0.6188,
+      "fwci": 0.616,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.53132832,
+        "value": 0.5294765,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30715,9 +30874,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -30872,7 +31031,7 @@
         "https://openalex.org/W2373871511",
         "https://openalex.org/W2153211086",
         "https://openalex.org/W3208722672",
-        "https://openalex.org/W2349637630",
+        "https://openalex.org/W836871277",
         "https://openalex.org/W4321392729"
       ],
       "abstract_inverted_index": null,
@@ -30890,7 +31049,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-11-28T00:00:00"
     },
     {
@@ -30952,7 +31111,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7171417135"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31311,11 +31474,11 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 5.2016,
+      "fwci": 5.2037,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92390971,
+        "value": 0.92413098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31722,11 +31885,9 @@
         "https://openalex.org/W2494872625",
         "https://openalex.org/W2501943970",
         "https://openalex.org/W1999720051",
-        "https://openalex.org/W2515174743",
         "https://openalex.org/W3212500212",
         "https://openalex.org/W2489444333",
         "https://openalex.org/W4391289093",
-        "https://openalex.org/W3161265955",
         "https://openalex.org/W6941209286"
       ],
       "abstract_inverted_index": null,
@@ -31736,7 +31897,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2026-07-28T00:00:00"
     },
     {
@@ -31767,10 +31928,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -31781,7 +31946,11 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2473460885"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -31996,11 +32165,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2117,
+      "fwci": 2.2103,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.84533832,
+        "value": 0.84519351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32281,10 +32450,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -33026,7 +33199,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-07-22T00:00:00"
     },
     {
@@ -33085,7 +33258,11 @@
         "raw_source_name": "Stratigraphy",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3036591066"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33433,7 +33610,7 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W7140063934",
+        "https://openalex.org/W4413684105",
         "https://openalex.org/W3015554722",
         "https://openalex.org/W7038508405",
         "https://openalex.org/W7167160060",
@@ -33467,7 +33644,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-06-25T00:00:00"
     },
     {
@@ -33529,7 +33706,11 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3119340749"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33717,11 +33898,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.7766,
+      "fwci": 0.775,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.65217391,
+        "value": 0.65117709,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34070,12 +34251,11 @@
         "https://openalex.org/W3123815568",
         "https://openalex.org/W2332274108",
         "https://openalex.org/W2618281084",
-        "https://openalex.org/W7167180540",
+        "https://openalex.org/W7057430537",
         "https://openalex.org/W4205876232",
-        "https://openalex.org/W7167166801",
+        "https://openalex.org/W6991199340",
         "https://openalex.org/W2090166221",
-        "https://openalex.org/W2930570841",
-        "https://openalex.org/W6991199340"
+        "https://openalex.org/W2930570841"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -34096,7 +34276,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-01-18T00:00:00"
     },
     {
@@ -34154,7 +34334,11 @@
         "raw_source_name": "Micropaleontology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4288852600"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -34543,9 +34727,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -35218,10 +35402,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -35232,7 +35420,11 @@
         "raw_source_name": "ADIPEC",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4307665242"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -35611,11 +35803,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.8954,
+      "fwci": 4.9052,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.94589178,
+        "value": 0.946,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35851,10 +36043,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -36595,7 +36791,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-11-04T00:00:00"
     },
     {
@@ -36649,7 +36845,11 @@
         "raw_source_name": "Journal of Petroleum and Mining Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2961227834"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -37605,10 +37805,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310316678",
+          "host_organization_name": "Society of Exploration Geophysicists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316678"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Exploration Geophysicists"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -37619,7 +37823,11 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4291718810"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -37736,11 +37944,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9582,
+      "fwci": 1.9621,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.81195725,
+        "value": 0.81233333,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38055,10 +38263,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310316678",
+            "host_organization_name": "Society of Exploration Geophysicists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316678"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Exploration Geophysicists"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -38597,7 +38809,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-08-16T00:00:00"
     },
     {
@@ -38628,10 +38840,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -38642,7 +38858,11 @@
         "raw_source_name": "Proceedings of the 3rd Unconventional Resources Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2261408142"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -38683,11 +38903,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6128,
+      "fwci": 1.6107,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.79634668,
+        "value": 0.79595016,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38887,10 +39107,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -38921,9 +39145,9 @@
         "https://openalex.org/W2530113942",
         "https://openalex.org/W2114110904",
         "https://openalex.org/W2507843047",
-        "https://openalex.org/W7096177008",
+        "https://openalex.org/W2027495294",
         "https://openalex.org/W2784559745",
-        "https://openalex.org/W7167166801",
+        "https://openalex.org/W6991199340",
         "https://openalex.org/W2911704410"
       ],
       "abstract_inverted_index": null,
@@ -38933,7 +39157,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -38978,7 +39202,11 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2930395346"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -39159,11 +39387,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1509,
+      "fwci": 2.1344,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.83942094,
+        "value": 0.83081033,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39518,7 +39746,7 @@
         "https://openalex.org/W3119340749",
         "https://openalex.org/W2332274108",
         "https://openalex.org/W2090166221",
-        "https://openalex.org/W7167180540",
+        "https://openalex.org/W7057430537",
         "https://openalex.org/W2930570841",
         "https://openalex.org/W3014593358",
         "https://openalex.org/W4205876232",
@@ -40329,7 +40557,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-04-11T00:00:00"
     },
     {
@@ -40378,7 +40606,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2090166221"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -41378,7 +41610,11 @@
         "raw_source_name": "Journal of Geological Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2073573915"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -41443,11 +41679,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7588,
+      "fwci": 0.7599,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.70940636,
+        "value": 0.70958223,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41858,7 +42094,6 @@
         "https://openalex.org/W2324271774",
         "https://openalex.org/W1831292277",
         "https://openalex.org/W2040462048",
-        "https://openalex.org/W1996038827",
         "https://openalex.org/W427361454",
         "https://openalex.org/W160590000",
         "https://openalex.org/W2351123594"
@@ -42283,7 +42518,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -42332,7 +42567,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2037039087"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -43156,7 +43395,11 @@
         "raw_source_name": "Fifth EAGE Workshop on Rock Physics",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3123815568"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -44109,7 +44352,11 @@
         "raw_source_name": "Bulletin of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3175054679"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -44727,10 +44974,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -44741,7 +44992,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4392643134"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -45254,10 +45509,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -45284,10 +45543,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -45300,14 +45563,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -45795,7 +46058,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-03-12T00:00:00"
     },
     {
@@ -45844,7 +46107,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2047125414"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -46393,7 +46660,11 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2332274108"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -46958,7 +47229,7 @@
         "https://openalex.org/W3119340749",
         "https://openalex.org/W2923413028",
         "https://openalex.org/W2921464572",
-        "https://openalex.org/W7167180540",
+        "https://openalex.org/W7057430537",
         "https://openalex.org/W1976595108"
       ],
       "abstract_inverted_index": {
@@ -47775,7 +48046,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -47820,7 +48091,11 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2923413028"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -49216,7 +49491,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2965273680"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -49819,7 +50098,11 @@
         "raw_source_name": "Ecological Genetics and Genomics",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7125380001"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -50758,14 +51041,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         },
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -50821,9 +51104,8 @@
         "https://openalex.org/W4413136238"
       ],
       "related_works": [
-        "https://openalex.org/W7123341405",
-        "https://openalex.org/W4413136238",
         "https://openalex.org/W7160852745",
+        "https://openalex.org/W4413136238",
         "https://openalex.org/W4283798827",
         "https://openalex.org/W4387747365",
         "https://openalex.org/W7163997366",
@@ -50834,7 +51116,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2026-01-23T00:00:00"
     },
     {
@@ -50894,7 +51176,11 @@
         "raw_source_name": "Ecological Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7204596775"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -51620,14 +51906,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.9599999785423279,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         },
         {
-          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
           "score": 0.40450000762939453,
-          "id": "https://metadata.un.org/sdg/2"
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
@@ -52429,7 +52715,11 @@
         "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7223204922"
+      ],
+      "child_works_count": 0,
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -53057,9 +53347,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.8125,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],

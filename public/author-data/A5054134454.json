@@ -479,7 +479,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2939888277"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1987,7 +1991,11 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1970514128"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3385,7 +3393,11 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2056293580"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3452,11 +3464,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.5016,
+      "fwci": 0.498,
       "has_fulltext": false,
       "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.5706085,
+        "value": 0.5670073,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3801,7 +3813,6 @@
         "https://openalex.org/W1997529960",
         "https://openalex.org/W2045808131",
         "https://openalex.org/W2089253931",
-        "https://openalex.org/W7045449580",
         "https://openalex.org/W4412266846",
         "https://openalex.org/W634859199",
         "https://openalex.org/W2586859698"
@@ -3869,7 +3880,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3930,7 +3941,11 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2045808131"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4123,11 +4138,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.5131,
+      "fwci": 3.4858,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.92130959,
+        "value": 0.91532847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4529,12 +4544,10 @@
         "https://openalex.org/W6833248542"
       ],
       "related_works": [
-        "https://openalex.org/W7045449580",
         "https://openalex.org/W2043876474",
         "https://openalex.org/W2101376016",
         "https://openalex.org/W2262636503",
         "https://openalex.org/W2620415727",
-        "https://openalex.org/W6989548995",
         "https://openalex.org/W2056293580",
         "https://openalex.org/W1968596323",
         "https://openalex.org/W2242798685",
@@ -4591,7 +4604,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4642,7 +4655,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3128695080"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4855,11 +4872,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.886,
+      "fwci": 1.8681,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.83859649,
+        "value": 0.83719662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5206,9 +5223,8 @@
         "https://openalex.org/W1981140311",
         "https://openalex.org/W7167665245",
         "https://openalex.org/W1973737829",
-        "https://openalex.org/W1594577404",
-        "https://openalex.org/W6995545347",
         "https://openalex.org/W2025474462",
+        "https://openalex.org/W6995545347",
         "https://openalex.org/W3150378705"
       ],
       "abstract_inverted_index": {
@@ -5674,7 +5690,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -5735,7 +5751,11 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2068101248"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6270,7 +6290,11 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2003091363"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6573,11 +6597,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.7184,
+      "fwci": 2.7207,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.89253139,
+        "value": 0.89263074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7005,14 +7029,12 @@
         "https://openalex.org/W6941469787"
       ],
       "related_works": [
-        "https://openalex.org/W1993385114",
         "https://openalex.org/W2242798685",
         "https://openalex.org/W2043876474",
         "https://openalex.org/W2262636503",
         "https://openalex.org/W2028018572",
         "https://openalex.org/W2101376016",
         "https://openalex.org/W2757585333",
-        "https://openalex.org/W7045449580",
         "https://openalex.org/W2045808131",
         "https://openalex.org/W3104964971"
       ],
@@ -7071,7 +7093,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7102,10 +7124,18 @@
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7167665245",
+          "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2620415727",
+        "https://openalex.org/W7167665245"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -7269,11 +7299,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3636,
+      "fwci": 1.3599,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.69230769,
+        "value": 0.69146006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7530,7 +7560,6 @@
         "https://openalex.org/W2262636503",
         "https://openalex.org/W2045808131",
         "https://openalex.org/W3200997594",
-        "https://openalex.org/W7045449580",
         "https://openalex.org/W2101376016",
         "https://openalex.org/W2757585333",
         "https://openalex.org/W3217653615"
@@ -8124,7 +8153,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -8181,7 +8210,11 @@
         "raw_source_name": "Revue de Micropaléontologie",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2578994892"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8809,7 +8842,11 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1973948464"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9038,11 +9075,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.3592,
+      "fwci": 1.3604,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.76536682,
+        "value": 0.76558373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9439,10 +9476,9 @@
       "related_works": [
         "https://openalex.org/W7009168766",
         "https://openalex.org/W7134248514",
-        "https://openalex.org/W7132406850",
         "https://openalex.org/W893262576",
         "https://openalex.org/W4380485406",
-        "https://openalex.org/W4231792700",
+        "https://openalex.org/W2173416375",
         "https://openalex.org/W4211107588",
         "https://openalex.org/W2804279384",
         "https://openalex.org/W2245416543",
@@ -9491,7 +9527,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9552,7 +9588,11 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2043876474"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9777,11 +9817,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.5534,
+      "fwci": 1.5547,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.79431593,
+        "value": 0.79450608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10115,10 +10155,8 @@
       "related_works": [
         "https://openalex.org/W2101376016",
         "https://openalex.org/W2262636503",
-        "https://openalex.org/W7045449580",
         "https://openalex.org/W2045808131",
         "https://openalex.org/W2242798685",
-        "https://openalex.org/W1993385114",
         "https://openalex.org/W2003091363",
         "https://openalex.org/W2620415727",
         "https://openalex.org/W2460204969",
@@ -10159,7 +10197,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10218,7 +10256,11 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2062313136"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10354,11 +10396,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 2.1019,
+      "fwci": 2.1064,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.87735342,
+        "value": 0.86961236,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10651,9 +10693,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10683,7 +10725,6 @@
         "https://openalex.org/W3177271903"
       ],
       "related_works": [
-        "https://openalex.org/W7045449580",
         "https://openalex.org/W2045808131",
         "https://openalex.org/W2262636503",
         "https://openalex.org/W3019306654",
@@ -10733,7 +10774,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10764,10 +10805,18 @@
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7167665245",
+          "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2303823290",
+        "https://openalex.org/W7167665245"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -10884,11 +10933,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9091,
+      "fwci": 0.9066,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.6043956,
+        "value": 0.60330579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11317,7 +11366,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11348,10 +11397,18 @@
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7167665245",
+          "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W3103362397",
+        "https://openalex.org/W7167665245"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -11570,11 +11627,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9091,
+      "fwci": 0.9066,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.6043956,
+        "value": 0.60330579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12136,7 +12193,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-11-23T00:00:00"
     },
     {
@@ -12182,7 +12239,11 @@
         "raw_source_name": "IPC, Sep 2008, Bonn, Germany. pp.215",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2262636503"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -12323,7 +12384,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2,
+      "fwci": 3.9375,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
@@ -12603,11 +12664,9 @@
       "related_works": [
         "https://openalex.org/W2043876474",
         "https://openalex.org/W2101376016",
-        "https://openalex.org/W7045449580",
-        "https://openalex.org/W2460204969",
         "https://openalex.org/W2045808131",
+        "https://openalex.org/W2460204969",
         "https://openalex.org/W2242798685",
-        "https://openalex.org/W1993385114",
         "https://openalex.org/W2620415727",
         "https://openalex.org/W2003091363",
         "https://openalex.org/W2757585333"
@@ -13400,7 +13459,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13431,10 +13490,18 @@
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7167665245",
+          "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W3146536654",
+        "https://openalex.org/W7167665245"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -13635,11 +13702,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3636,
+      "fwci": 1.3599,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.69230769,
+        "value": 0.69146006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14236,7 +14303,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -14293,7 +14360,11 @@
         "raw_source_name": "Revue de Micropaléontologie",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2233849553"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15254,10 +15325,18 @@
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7167665245",
+          "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W3150378705",
+        "https://openalex.org/W7167665245"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -15371,17 +15450,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4545,
+      "fwci": 0.4533,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.47527473,
+        "value": 0.4738292,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 94
+        "max": 93
       },
       "biblio": {
         "volume": null,
@@ -16245,712 +16324,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-04-13T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2618687283",
-      "doi": null,
-      "title": "A Distinctive Marginal Marine Palynological Assemblage from the Pridoli of Northwestern Saudi Arabia. In : , Bonn, September 2008",
-      "display_name": "A Distinctive Marginal Marine Palynological Assemblage from the Pridoli of Northwestern Saudi Arabia. In : , Bonn, September 2008",
-      "publication_year": 2008,
-      "publication_date": "2008-09-22",
-      "ids": {
-        "openalex": "https://openalex.org/W2618687283",
-        "mag": "2618687283"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "pmh:oai:HAL:insu-00376390v1",
-        "doi": null,
-        "is_oa": false,
-        "landing_page_url": "https://hal.science/insu-00376390v1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I4405252976",
-          "host_organization_name": "Centre pour la Communication Scientifique Directe",
-          "host_organization_lineage": [
-            "https://openalex.org/I4405252976"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "IPC, Sep 2008, Bonn, Germany. pp.12",
-        "raw_type": "info:eu-repo/semantics/conferenceObject"
-      },
-      "volume": null,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5054134454",
-            "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S. Al-Hajri",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5029025019",
-            "display_name": "Jacques Verniers",
-            "orcid": "https://orcid.org/0000-0002-2939-7684",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2939-7684"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Jacques Verniers",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111534349",
-            "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Florentin Paris",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5033590467",
-            "display_name": "Mansour H. Al-Ruwaili",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mansour Al-Ruwaili",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044489988",
-            "display_name": "Philippe Steemans",
-            "orcid": "https://orcid.org/0000-0003-1183-6324",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1183-6324"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Philippe Steemans",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5090141705",
-            "display_name": "Alain Le Hérissé",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Alain Le Hérissé",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "2",
-        "issue": null,
-        "first_page": "12",
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9990000128746033,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10955",
-          "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.0003000000142492354,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/pridoli",
-          "display_name": "Pridoli",
-          "score": 0.8130000233650208
-        },
-        {
-          "id": "https://openalex.org/keywords/chitinozoans",
-          "display_name": "chitinozoans",
-          "score": 0.9539999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/acritarchs",
-          "display_name": "acritarchs",
-          "score": 0.8849999904632568
-        },
-        {
-          "id": "https://openalex.org/keywords/scolecodonts",
-          "display_name": "scolecodonts",
-          "score": 0.9890000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/miospores",
-          "display_name": "miospores",
-          "score": 0.9440000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-correlation",
-          "display_name": "stratigraphic correlation",
-          "score": 0.7139999866485596
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777798969",
-          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
-          "display_name": "Assemblage (archaeology)",
-          "level": 2,
-          "score": 0.962836503982544
-        },
-        {
-          "id": "https://openalex.org/C162501224",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynology",
-          "level": 3,
-          "score": 0.8833560943603516
-        },
-        {
-          "id": "https://openalex.org/C97316735",
-          "wikidata": "https://www.wikidata.org/wiki/Q342747",
-          "display_name": "Acritarch",
-          "level": 2,
-          "score": 0.7849065065383911
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5444409251213074
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5137832760810852
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.42147159576416016
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3125271201133728
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.23293083906173706
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.22620537877082825
-        },
-        {
-          "id": "https://openalex.org/C2780618852",
-          "wikidata": "https://www.wikidata.org/wiki/Q79932",
-          "display_name": "Pollen",
-          "level": 2,
-          "score": 0.10718289017677307
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "pmh:oai:HAL:insu-00376390v1",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://hal.science/insu-00376390v1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I4405252976",
-            "host_organization_name": "Centre pour la Communication Scientifique Directe",
-            "host_organization_lineage": [
-              "https://openalex.org/I4405252976"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "IPC, Sep 2008, Bonn, Germany. pp.12",
-          "raw_type": "info:eu-repo/semantics/conferenceObject"
-        },
-        {
-          "id": "mag:2618687283",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://hal.archives-ouvertes.fr/insu-00376390",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W7027756717",
-        "https://openalex.org/W2233849553",
-        "https://openalex.org/W7045449580",
-        "https://openalex.org/W2045808131",
-        "https://openalex.org/W2062313136",
-        "https://openalex.org/W7167665245",
-        "https://openalex.org/W3150378705",
-        "https://openalex.org/W2922199854",
-        "https://openalex.org/W1967324986",
-        "https://openalex.org/W4367040421"
-      ],
-      "abstract_inverted_index": {
-        "This": [
-          0,
-          84
-        ],
-        "paper": [
-          1
-        ],
-        "describes": [
-          2
-        ],
-        "a": [
-          3,
-          7,
-          14,
-          29
-        ],
-        "rare": [
-          4
-        ],
-        "occurrence": [
-          5
-        ],
-        "of": [
-          6,
-          24,
-          97
-        ],
-        "rich": [
-          8
-        ],
-        "and": [
-          9,
-          32,
-          52,
-          56,
-          75
-        ],
-        "diverse": [
-          10
-        ],
-        "palynological": [
-          11
-        ],
-        "assemblage": [
-          12,
-          26,
-          43,
-          85
-        ],
-        "from": [
-          13,
-          92
-        ],
-        "controversial": [
-          15
-        ],
-        "stratigraphic": [
-          16
-        ],
-        "unit": [
-          17
-        ],
-        "in": [
-          18,
-          101
-        ],
-        "northwestern": [
-          19,
-          102
-        ],
-        "Saudi": [
-          20
-        ],
-        "Arabia.": [
-          21
-        ],
-        "The": [
-          22,
-          42
-        ],
-        "composition": [
-          23
-        ],
-        "this": [
-          25
-        ],
-        "strongly": [
-          27
-        ],
-        "suggests": [
-          28
-        ],
-        "Pridoli": [
-          30,
-          81
-        ],
-        "age": [
-          31,
-          82
-        ],
-        "therefore": [
-          33
-        ],
-        "it": [
-          34
-        ],
-        "is": [
-          35
-        ],
-        "referred": [
-          36
-        ],
-        "her": [
-          37
-        ],
-        "to": [
-          38
-        ],
-        "the": [
-          39,
-          80,
-          93,
-          98
-        ],
-        "Tawil": [
-          40
-        ],
-        "Formation.": [
-          41
-        ],
-        "encountered": [
-          44
-        ],
-        "contains": [
-          45
-        ],
-        "very": [
-          46,
-          87
-        ],
-        "characteristic": [
-          47
-        ],
-        "chitinozoans,": [
-          48
-        ],
-        "acritarchs,": [
-          49
-        ],
-        "tasmanities,": [
-          50
-        ],
-        "scolecodonts": [
-          51
-        ],
-        "some": [
-          53
-        ],
-        "land-derived": [
-          54
-        ],
-        "miospores": [
-          55
-        ],
-        "hilate": [
-          57
-        ],
-        "spores.": [
-          58
-        ],
-        "Chitinozoans": [
-          59
-        ],
-        "such": [
-          60
-        ],
-        "as": [
-          61
-        ],
-        "Margachitina": [
-          62
-        ],
-        "elegans,": [
-          63
-        ],
-        "Ancyrochitina": [
-          64,
-          67
-        ],
-        "fragilis": [
-          65
-        ],
-        "brevis,": [
-          66
-        ],
-        "fragilis,": [
-          68
-        ],
-        "Sphaerochitina": [
-          69
-        ],
-        "sphaerocephala,": [
-          70
-        ],
-        "Urnochitina": [
-          71
-        ],
-        "urna,": [
-          72
-        ],
-        "Pseudochlathrochitina": [
-          73
-        ],
-        "carmenchui": [
-          74
-        ],
-        "Lagenochitina": [
-          76
-        ],
-        "brevicollis": [
-          77
-        ],
-        "confers": [
-          78
-        ],
-        "with": [
-          79,
-          89
-        ],
-        "assignment.": [
-          83
-        ],
-        "correlates": [
-          86
-        ],
-        "well": [
-          88,
-          100
-        ],
-        "Assemblage": [
-          90
-        ],
-        "D": [
-          91
-        ],
-        "Alternances": [
-          94
-        ],
-        "Greso-Argileuses": [
-          95
-        ],
-        "Formation": [
-          96
-        ],
-        "A1-61": [
-          99
-        ],
-        "Libya.": [
-          103
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-08T12:12:28.789561",
-      "created_date": "2017-06-05T00:00:00"
     },
     {
       "id": "https://openalex.org/W2242798685",
@@ -16995,7 +16370,11 @@
         "raw_source_name": "IPC, Sep 2009, Bonn, Germany. pp.216",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2242798685"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -17133,11 +16512,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.8222,
+      "fwci": 7.8667,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.92022792,
+        "value": 0.92067989,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17388,14 +16767,13 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W2003091363",
-        "https://openalex.org/W1993385114",
         "https://openalex.org/W2043876474",
         "https://openalex.org/W2101376016",
         "https://openalex.org/W2262636503",
         "https://openalex.org/W2620415727",
         "https://openalex.org/W2028018572",
         "https://openalex.org/W2757585333",
-        "https://openalex.org/W7045449580",
+        "https://openalex.org/W2045808131",
         "https://openalex.org/W2073022137"
       ],
       "abstract_inverted_index": {
@@ -18097,8 +17475,715 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2618687283",
+      "doi": null,
+      "title": "A Distinctive Marginal Marine Palynological Assemblage from the Pridoli of Northwestern Saudi Arabia. In : , Bonn, September 2008",
+      "display_name": "A Distinctive Marginal Marine Palynological Assemblage from the Pridoli of Northwestern Saudi Arabia. In : , Bonn, September 2008",
+      "publication_year": 2008,
+      "publication_date": "2008-09-22",
+      "ids": {
+        "openalex": "https://openalex.org/W2618687283",
+        "mag": "2618687283"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:HAL:insu-00376390v1",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://hal.science/insu-00376390v1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
+          "host_organization_lineage": [
+            "https://openalex.org/I4405252976"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "IPC, Sep 2008, Bonn, Germany. pp.12",
+        "raw_type": "info:eu-repo/semantics/conferenceObject"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2618687283"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054134454",
+            "display_name": "Sa’id A. Al-Hajri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Al-Hajri",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029025019",
+            "display_name": "Jacques Verniers",
+            "orcid": "https://orcid.org/0000-0002-2939-7684",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2939-7684"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jacques Verniers",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111534349",
+            "display_name": "Florentin Paris",
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Florentin Paris",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033590467",
+            "display_name": "Mansour H. Al-Ruwaili",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mansour Al-Ruwaili",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044489988",
+            "display_name": "Philippe Steemans",
+            "orcid": "https://orcid.org/0000-0003-1183-6324",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1183-6324"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Philippe Steemans",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5090141705",
+            "display_name": "Alain Le Hérissé",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alain Le Hérissé",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "2",
+        "issue": null,
+        "first_page": "12",
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.0003000000142492354,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/pridoli",
+          "display_name": "Pridoli",
+          "score": 0.8130000233650208
+        },
+        {
+          "id": "https://openalex.org/keywords/chitinozoans",
+          "display_name": "chitinozoans",
+          "score": 0.9539999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/acritarchs",
+          "display_name": "acritarchs",
+          "score": 0.8849999904632568
+        },
+        {
+          "id": "https://openalex.org/keywords/scolecodonts",
+          "display_name": "scolecodonts",
+          "score": 0.9890000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/miospores",
+          "display_name": "miospores",
+          "score": 0.9440000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-correlation",
+          "display_name": "stratigraphic correlation",
+          "score": 0.7139999866485596
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777798969",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Assemblage (archaeology)",
+          "level": 2,
+          "score": 0.962836503982544
+        },
+        {
+          "id": "https://openalex.org/C162501224",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynology",
+          "level": 3,
+          "score": 0.8833560943603516
+        },
+        {
+          "id": "https://openalex.org/C97316735",
+          "wikidata": "https://www.wikidata.org/wiki/Q342747",
+          "display_name": "Acritarch",
+          "level": 2,
+          "score": 0.7849065065383911
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5444409251213074
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5137832760810852
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.42147159576416016
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3125271201133728
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.23293083906173706
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.22620537877082825
+        },
+        {
+          "id": "https://openalex.org/C2780618852",
+          "wikidata": "https://www.wikidata.org/wiki/Q79932",
+          "display_name": "Pollen",
+          "level": 2,
+          "score": 0.10718289017677307
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:HAL:insu-00376390v1",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hal.science/insu-00376390v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
+            "host_organization_lineage": [
+              "https://openalex.org/I4405252976"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "IPC, Sep 2008, Bonn, Germany. pp.12",
+          "raw_type": "info:eu-repo/semantics/conferenceObject"
+        },
+        {
+          "id": "mag:2618687283",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hal.archives-ouvertes.fr/insu-00376390",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W7027756717",
+        "https://openalex.org/W2233849553",
+        "https://openalex.org/W2045808131",
+        "https://openalex.org/W2062313136",
+        "https://openalex.org/W7167665245",
+        "https://openalex.org/W3150378705",
+        "https://openalex.org/W2922199854",
+        "https://openalex.org/W1967324986",
+        "https://openalex.org/W4367040421"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          84
+        ],
+        "paper": [
+          1
+        ],
+        "describes": [
+          2
+        ],
+        "a": [
+          3,
+          7,
+          14,
+          29
+        ],
+        "rare": [
+          4
+        ],
+        "occurrence": [
+          5
+        ],
+        "of": [
+          6,
+          24,
+          97
+        ],
+        "rich": [
+          8
+        ],
+        "and": [
+          9,
+          32,
+          52,
+          56,
+          75
+        ],
+        "diverse": [
+          10
+        ],
+        "palynological": [
+          11
+        ],
+        "assemblage": [
+          12,
+          26,
+          43,
+          85
+        ],
+        "from": [
+          13,
+          92
+        ],
+        "controversial": [
+          15
+        ],
+        "stratigraphic": [
+          16
+        ],
+        "unit": [
+          17
+        ],
+        "in": [
+          18,
+          101
+        ],
+        "northwestern": [
+          19,
+          102
+        ],
+        "Saudi": [
+          20
+        ],
+        "Arabia.": [
+          21
+        ],
+        "The": [
+          22,
+          42
+        ],
+        "composition": [
+          23
+        ],
+        "this": [
+          25
+        ],
+        "strongly": [
+          27
+        ],
+        "suggests": [
+          28
+        ],
+        "Pridoli": [
+          30,
+          81
+        ],
+        "age": [
+          31,
+          82
+        ],
+        "therefore": [
+          33
+        ],
+        "it": [
+          34
+        ],
+        "is": [
+          35
+        ],
+        "referred": [
+          36
+        ],
+        "her": [
+          37
+        ],
+        "to": [
+          38
+        ],
+        "the": [
+          39,
+          80,
+          93,
+          98
+        ],
+        "Tawil": [
+          40
+        ],
+        "Formation.": [
+          41
+        ],
+        "encountered": [
+          44
+        ],
+        "contains": [
+          45
+        ],
+        "very": [
+          46,
+          87
+        ],
+        "characteristic": [
+          47
+        ],
+        "chitinozoans,": [
+          48
+        ],
+        "acritarchs,": [
+          49
+        ],
+        "tasmanities,": [
+          50
+        ],
+        "scolecodonts": [
+          51
+        ],
+        "some": [
+          53
+        ],
+        "land-derived": [
+          54
+        ],
+        "miospores": [
+          55
+        ],
+        "hilate": [
+          57
+        ],
+        "spores.": [
+          58
+        ],
+        "Chitinozoans": [
+          59
+        ],
+        "such": [
+          60
+        ],
+        "as": [
+          61
+        ],
+        "Margachitina": [
+          62
+        ],
+        "elegans,": [
+          63
+        ],
+        "Ancyrochitina": [
+          64,
+          67
+        ],
+        "fragilis": [
+          65
+        ],
+        "brevis,": [
+          66
+        ],
+        "fragilis,": [
+          68
+        ],
+        "Sphaerochitina": [
+          69
+        ],
+        "sphaerocephala,": [
+          70
+        ],
+        "Urnochitina": [
+          71
+        ],
+        "urna,": [
+          72
+        ],
+        "Pseudochlathrochitina": [
+          73
+        ],
+        "carmenchui": [
+          74
+        ],
+        "Lagenochitina": [
+          76
+        ],
+        "brevicollis": [
+          77
+        ],
+        "confers": [
+          78
+        ],
+        "with": [
+          79,
+          89
+        ],
+        "assignment.": [
+          83
+        ],
+        "correlates": [
+          86
+        ],
+        "well": [
+          88,
+          100
+        ],
+        "Assemblage": [
+          90
+        ],
+        "D": [
+          91
+        ],
+        "Alternances": [
+          94
+        ],
+        "Greso-Argileuses": [
+          95
+        ],
+        "Formation": [
+          96
+        ],
+        "A1-61": [
+          99
+        ],
+        "Libya.": [
+          103
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2017-06-05T00:00:00"
     },
     {
       "id": "https://openalex.org/W1994226798",
@@ -18158,7 +18243,11 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1994226798"
+      ],
+      "child_works_count": 0,
       "type": "editorial",
       "is_traditional": true,
       "indexed_in": [
@@ -18626,8 +18715,7 @@
         "https://openalex.org/W7015201249",
         "https://openalex.org/W6996804795",
         "https://openalex.org/W2942542075",
-        "https://openalex.org/W7033151876",
-        "https://openalex.org/W232988240"
+        "https://openalex.org/W7033151876"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -18660,7 +18748,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18717,7 +18805,11 @@
         "raw_source_name": "Revue de Micropaléontologie",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2766978595"
+      ],
+      "child_works_count": 0,
       "type": "editorial",
       "is_traditional": true,
       "indexed_in": [
@@ -19224,7 +19316,11 @@
         "raw_source_name": "Geoarabia, 562-563 (1998)",
         "raw_type": "http://purl.org/coar/resource_type/c_3248"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W132386466"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [],
@@ -19549,19 +19645,19 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W2254075074",
-        "https://openalex.org/W1594577404",
+        "https://openalex.org/W2025474462",
         "https://openalex.org/W2240720927",
         "https://openalex.org/W7167665245",
         "https://openalex.org/W2977967517",
         "https://openalex.org/W2586174234",
         "https://openalex.org/W177621377",
         "https://openalex.org/W1981140311",
-        "https://openalex.org/W6887773996",
+        "https://openalex.org/W3193308600",
         "https://openalex.org/W2942542075"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19607,7 +19703,11 @@
         "raw_source_name": "CIMP meeting 2015, Bergen, Norway [NO], Septembre 17-18 2015",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2245420052"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -20053,7 +20153,11 @@
         "raw_source_name": "CIMP Symposium and Workshops, Pisa, Italy [IT], 11-15 September",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2254075074"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -20360,18 +20464,18 @@
       "related_works": [
         "https://openalex.org/W132386466",
         "https://openalex.org/W2240720927",
-        "https://openalex.org/W1594577404",
+        "https://openalex.org/W2025474462",
         "https://openalex.org/W177621377",
         "https://openalex.org/W2246329403",
         "https://openalex.org/W423970471",
         "https://openalex.org/W2241654484",
         "https://openalex.org/W2246188262",
         "https://openalex.org/W3120513487",
-        "https://openalex.org/W6887773996"
+        "https://openalex.org/W3193308600"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20417,7 +20521,11 @@
         "raw_source_name": "Geo2000, 4th Middle East Geosciences Conference and Exhibition, Bahrain, Bahrain [BH], 25-27 March",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2263524228"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -21541,7 +21649,11 @@
         "raw_source_name": "XIV IPC, Salvador do Bahia, Brazil [BR], 23-28 Octobre 2016",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2548034072"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -22044,7 +22156,11 @@
         "raw_source_name": "PPMB-MVP meeting, Liège, Belgium [BE], December 21, 2016",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2561168856"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -22485,20 +22601,19 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W7030073962",
+        "https://openalex.org/W2229258847",
         "https://openalex.org/W2885189505",
         "https://openalex.org/W2223500686",
         "https://openalex.org/W928617416",
         "https://openalex.org/W2310206415",
-        "https://openalex.org/W6989645554",
-        "https://openalex.org/W7030495327",
+        "https://openalex.org/W1558519699",
+        "https://openalex.org/W2607119231",
         "https://openalex.org/W2287578339",
-        "https://openalex.org/W2264756502",
-        "https://openalex.org/W1558519699"
+        "https://openalex.org/W2264756502"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-01-06T00:00:00"
     },
     {
@@ -22544,7 +22659,11 @@
         "raw_source_name": "EPPC 2018, Dublin, Ireland [IE], from 12-08-2018 to 18-08-2018",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2890573972"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -22980,7 +23099,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3200997594"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -23373,10 +23496,18 @@
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7167665245",
+          "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W7167903877",
+        "https://openalex.org/W7167665245"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -23525,7 +23656,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2026-07-11T00:00:00"
     }
   ]

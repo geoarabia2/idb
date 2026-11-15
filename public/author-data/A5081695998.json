@@ -257,7 +257,7 @@
       {
         "id": "https://openalex.org/T13102",
         "display_name": "Soil and Environmental Studies",
-        "value": 0.0000257,
+        "value": 0.0000256,
         "subfield": {
           "id": "https://openalex.org/subfields/1111",
           "display_name": "Soil Science"
@@ -487,7 +487,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081695998",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5081695998",
-    "updated_date": "2026-11-12T13:17:38",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -549,7 +549,11 @@
         "raw_source_name": "Geological Society of America Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2064401694"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3191,7 +3195,11 @@
         "raw_source_name": "Ore Geology Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2054796881"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4068,7 +4076,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2145047298"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4806,7 +4818,11 @@
         "raw_source_name": "Geochemistry",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2068448172"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5128,11 +5144,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.3152,
+      "fwci": 0.3134,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.57429386,
+        "value": 0.57173309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5566,7 +5582,6 @@
       "related_works": [
         "https://openalex.org/W1579568896",
         "https://openalex.org/W4408905654",
-        "https://openalex.org/W4399749461",
         "https://openalex.org/W2018286601",
         "https://openalex.org/W4303022271",
         "https://openalex.org/W1549108222",
@@ -5638,7 +5653,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5699,7 +5714,11 @@
         "raw_source_name": "Geological Magazine",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2594487706"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7312,7 +7331,11 @@
         "raw_source_name": "Ore Geology Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1998093513"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7913,7 +7936,11 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2471286038"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9113,7 +9140,11 @@
         "raw_source_name": "Ore Geology Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3007461299"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9724,7 +9755,11 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2979223134"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11175,7 +11210,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W654973716"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11851,552 +11890,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2731342583",
-      "doi": null,
-      "title": "Extensional deformations in Yemen since Oligocene and the Africa- Arabia-Somalia triple junction",
-      "display_name": "Extensional deformations in Yemen since Oligocene and the Africa- Arabia-Somalia triple junction",
-      "publication_year": 1991,
-      "publication_date": "1991-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2731342583",
-        "mag": "2731342583"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:2731342583",
-        "doi": null,
-        "is_oa": false,
-        "landing_page_url": "https://squ.pure.elsevier.com/en/publications/extensional-deformations-in-yemen-since-oligocene-and-the-africa-",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": null
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5090851866",
-            "display_name": "Philippe Huchon",
-            "orcid": "https://orcid.org/0000-0002-8463-7054",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8463-7054"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I29607241",
-              "display_name": "École Normale Supérieure - PSL",
-              "ror": "https://ror.org/05a0dhs15",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Philippe Huchon",
-          "raw_affiliation_strings": [
-            "École Normale Superieure"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-8463-7054",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "École Normale Superieure",
-              "institution_ids": [
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5010202057",
-            "display_name": "F. Jestin",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I29607241",
-              "display_name": "École Normale Supérieure - PSL",
-              "ror": "https://ror.org/05a0dhs15",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "F. Jestin",
-          "raw_affiliation_strings": [
-            "École Normale Superieure"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "École Normale Superieure",
-              "institution_ids": [
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113538519",
-            "display_name": "J. M. Cantagrel",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I29607241",
-              "display_name": "École Normale Supérieure - PSL",
-              "ror": "https://ror.org/05a0dhs15",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J. M. Cantagrel",
-          "raw_affiliation_strings": [
-            "École Normale Superieure"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "École Normale Superieure",
-              "institution_ids": [
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Jean‐Michel Gaulier",
-            "orcid": "https://orcid.org/0000-0003-1111-4671",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1111-4671"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I29607241",
-              "display_name": "École Normale Supérieure - PSL",
-              "ror": "https://ror.org/05a0dhs15",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jean‐Michel Gaulier",
-          "raw_affiliation_strings": [
-            "École Normale Superieure"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-1111-4671",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "École Normale Superieure",
-              "institution_ids": [
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081695998",
-            "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8467-4528"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S. Al Khirbash",
-          "raw_affiliation_strings": [
-            "Earth Science"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Science",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5053551014",
-            "display_name": "A. Gafaneh",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I29607241",
-              "display_name": "École Normale Supérieure - PSL",
-              "ror": "https://ror.org/05a0dhs15",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. Gafaneh",
-          "raw_affiliation_strings": [
-            "École Normale Superieure"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "École Normale Superieure",
-              "institution_ids": [
-                "https://openalex.org/I29607241"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.8984,
-      "has_fulltext": false,
-      "cited_by_count": 54,
-      "citation_normalized_percentile": {
-        "value": 0.83484487,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "5",
-        "issue": "2",
-        "first_page": "141",
-        "last_page": "163"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.9785000085830688,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9785000085830688,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.007300000172108412,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.0066999997943639755,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/extensional-deformation",
-          "display_name": "extensional deformation",
-          "score": 0.9779999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/oligocene",
-          "display_name": "Oligocene",
-          "score": 0.6779999732971191
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-rifting",
-          "display_name": "continental rifting",
-          "score": 0.6050000190734863
-        },
-        {
-          "id": "https://openalex.org/keywords/rift-basin-evolution",
-          "display_name": "rift basin evolution",
-          "score": 0.38199999928474426
-        },
-        {
-          "id": "https://openalex.org/keywords/yemen",
-          "display_name": "Yemen",
-          "score": 0.3019999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-peninsula",
-          "display_name": "Arabian Peninsula",
-          "score": 0.30799999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/neogene-tectonics",
-          "display_name": "Neogene tectonics",
-          "score": 0.6840000152587891
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2778282194",
-          "wikidata": "https://www.wikidata.org/wiki/Q1199041",
-          "display_name": "Triple junction",
-          "level": 2,
-          "score": 0.8103722333908081
-        },
-        {
-          "id": "https://openalex.org/C136137745",
-          "wikidata": "https://www.wikidata.org/wiki/Q19515659",
-          "display_name": "Extensional definition",
-          "level": 3,
-          "score": 0.7750710248947144
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7664425373077393
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5355849862098694
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.4272296130657196
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.1942349374294281
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.10850423574447632
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:2731342583",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://squ.pure.elsevier.com/en/publications/extensional-deformations-in-yemen-since-oligocene-and-the-africa-",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W1848315063",
-        "https://openalex.org/W3021881531",
-        "https://openalex.org/W1995261659",
-        "https://openalex.org/W2126129982",
-        "https://openalex.org/W2273476344",
-        "https://openalex.org/W6922577538",
-        "https://openalex.org/W8849618",
-        "https://openalex.org/W2924626499",
-        "https://openalex.org/W4395052801",
-        "https://openalex.org/W2030597955"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-12T09:40:04.860316",
-      "created_date": "2017-07-14T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2141742967",
       "doi": "https://doi.org/10.1007/s00410-010-0521-3",
       "title": "Petrogenesis of early cretaceous carbonatite and ultramafic lamprophyres in a diatreme in the Batain Nappes, Eastern Oman continental margin",
@@ -12454,7 +11947,11 @@
         "raw_source_name": "Contributions to Mineralogy and Petrology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2141742967"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13463,7 +12960,11 @@
         "raw_source_name": "Water, Air, and Soil Pollution",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2056057901"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13864,11 +13365,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.9288,
+      "fwci": 0.9295,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.72801972,
+        "value": 0.72822443,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14214,13 +13715,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.7811999917030334
         },
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land",
           "score": 0.4390000104904175
         }
       ],
@@ -14294,7 +13795,6 @@
         "https://openalex.org/W2183793515",
         "https://openalex.org/W2556533614",
         "https://openalex.org/W2185563299",
-        "https://openalex.org/W7098281143",
         "https://openalex.org/W2612926881",
         "https://openalex.org/W2106203241",
         "https://openalex.org/W4416944572",
@@ -14355,7 +13855,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14415,7 +13915,11 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2093634178"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14877,8 +14381,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 1
         }
       ],
@@ -15135,7 +14639,11 @@
         "raw_source_name": "Geochemistry",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2522633957"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15729,7 +15237,11 @@
         "raw_source_name": "Journal of Geophysical Research: Solid Earth",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3174995639"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16843,6 +16355,556 @@
       "created_date": "2021-07-05T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2731342583",
+      "doi": null,
+      "title": "Extensional deformations in Yemen since Oligocene and the Africa- Arabia-Somalia triple junction",
+      "display_name": "Extensional deformations in Yemen since Oligocene and the Africa- Arabia-Somalia triple junction",
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2731342583",
+        "mag": "2731342583"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2731342583",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://squ.pure.elsevier.com/en/publications/extensional-deformations-in-yemen-since-oligocene-and-the-africa-",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2731342583"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5090851866",
+            "display_name": "Philippe Huchon",
+            "orcid": "https://orcid.org/0000-0002-8463-7054",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8463-7054"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29607241",
+              "display_name": "École Normale Supérieure - PSL",
+              "ror": "https://ror.org/05a0dhs15",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Philippe Huchon",
+          "raw_affiliation_strings": [
+            "École Normale Superieure"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8463-7054",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "École Normale Superieure",
+              "institution_ids": [
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010202057",
+            "display_name": "F. Jestin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29607241",
+              "display_name": "École Normale Supérieure - PSL",
+              "ror": "https://ror.org/05a0dhs15",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "F. Jestin",
+          "raw_affiliation_strings": [
+            "École Normale Superieure"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "École Normale Superieure",
+              "institution_ids": [
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113538519",
+            "display_name": "J. M. Cantagrel",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29607241",
+              "display_name": "École Normale Supérieure - PSL",
+              "ror": "https://ror.org/05a0dhs15",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. M. Cantagrel",
+          "raw_affiliation_strings": [
+            "École Normale Superieure"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "École Normale Superieure",
+              "institution_ids": [
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Jean‐Michel Gaulier",
+            "orcid": "https://orcid.org/0000-0003-1111-4671",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1111-4671"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29607241",
+              "display_name": "École Normale Supérieure - PSL",
+              "ror": "https://ror.org/05a0dhs15",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean‐Michel Gaulier",
+          "raw_affiliation_strings": [
+            "École Normale Superieure"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1111-4671",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "École Normale Superieure",
+              "institution_ids": [
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081695998",
+            "display_name": "Salah Al‐Khirbash",
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Al Khirbash",
+          "raw_affiliation_strings": [
+            "Earth Science"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Science",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5053551014",
+            "display_name": "A. Gafaneh",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29607241",
+              "display_name": "École Normale Supérieure - PSL",
+              "ror": "https://ror.org/05a0dhs15",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Gafaneh",
+          "raw_affiliation_strings": [
+            "École Normale Superieure"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "École Normale Superieure",
+              "institution_ids": [
+                "https://openalex.org/I29607241"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.894,
+      "has_fulltext": false,
+      "cited_by_count": 54,
+      "citation_normalized_percentile": {
+        "value": 0.83477011,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "5",
+        "issue": "2",
+        "first_page": "141",
+        "last_page": "163"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.9785000085830688,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9785000085830688,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.007300000172108412,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.0066999997943639755,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/extensional-deformation",
+          "display_name": "extensional deformation",
+          "score": 0.9779999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/oligocene",
+          "display_name": "Oligocene",
+          "score": 0.6779999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-rifting",
+          "display_name": "continental rifting",
+          "score": 0.6050000190734863
+        },
+        {
+          "id": "https://openalex.org/keywords/rift-basin-evolution",
+          "display_name": "rift basin evolution",
+          "score": 0.38199999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/yemen",
+          "display_name": "Yemen",
+          "score": 0.3019999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.30799999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/neogene-tectonics",
+          "display_name": "Neogene tectonics",
+          "score": 0.6840000152587891
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778282194",
+          "wikidata": "https://www.wikidata.org/wiki/Q1199041",
+          "display_name": "Triple junction",
+          "level": 2,
+          "score": 0.8103722333908081
+        },
+        {
+          "id": "https://openalex.org/C136137745",
+          "wikidata": "https://www.wikidata.org/wiki/Q19515659",
+          "display_name": "Extensional definition",
+          "level": 3,
+          "score": 0.7750710248947144
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7664425373077393
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5355849862098694
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.4272296130657196
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.1942349374294281
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.10850423574447632
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2731342583",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://squ.pure.elsevier.com/en/publications/extensional-deformations-in-yemen-since-oligocene-and-the-africa-",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1848315063",
+        "https://openalex.org/W3021881531",
+        "https://openalex.org/W1995261659",
+        "https://openalex.org/W2126129982",
+        "https://openalex.org/W2273476344",
+        "https://openalex.org/W6922577538",
+        "https://openalex.org/W8849618",
+        "https://openalex.org/W2924626499",
+        "https://openalex.org/W7147377913",
+        "https://openalex.org/W2030597955"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2017-07-14T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2053678930",
       "doi": "https://doi.org/10.1007/s12517-013-1189-6",
       "title": "Rare earth element mobility during laterization of mafic rocks of the Oman ophiolite",
@@ -16897,7 +16959,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2053678930"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17591,7 +17657,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1559635086"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17922,11 +17992,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.2955,
+      "fwci": 0.2932,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.59631527,
+        "value": 0.58481375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18258,7 +18328,7 @@
         "https://openalex.org/W1966337220",
         "https://openalex.org/W2222589954",
         "https://openalex.org/W3158713842",
-        "https://openalex.org/W4210835199",
+        "https://openalex.org/W4307993565",
         "https://openalex.org/W12646806",
         "https://openalex.org/W243495114",
         "https://openalex.org/W2055209548"
@@ -18306,7 +18376,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18364,7 +18434,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2030597955"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19052,10 +19126,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4233909369",
-        "display_name": "The Geology of the Arabian-Nubian Shield"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4233909369",
+          "display_name": "The Geology of the Arabian-Nubian Shield",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W3188862868",
+        "https://openalex.org/W4233909369"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -19274,7 +19356,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6869,
+      "fwci": 3.685,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
@@ -19691,7 +19773,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-08-16T00:00:00"
     },
     {
@@ -19748,7 +19830,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408303375"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20802,7 +20888,11 @@
         "raw_source_name": "Terra Nova",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2000435038"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21837,7 +21927,11 @@
         "raw_source_name": "Clay Minerals",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2771693883"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22009,11 +22103,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.3277,
+      "fwci": 0.3265,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.52196551,
+        "value": 0.52025085,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22414,13 +22508,12 @@
         "https://openalex.org/W3146943782"
       ],
       "related_works": [
-        "https://openalex.org/W7097155569",
+        "https://openalex.org/W2023512520",
         "https://openalex.org/W4394934957",
         "https://openalex.org/W2040112125",
         "https://openalex.org/W4387827553",
         "https://openalex.org/W2000695593",
         "https://openalex.org/W3197787898",
-        "https://openalex.org/W2023512520",
         "https://openalex.org/W2021702071",
         "https://openalex.org/W2040792103",
         "https://openalex.org/W1994223614"
@@ -23040,7 +23133,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-12-22T00:00:00"
     },
     {
@@ -23098,7 +23191,11 @@
         "raw_source_name": "Journal of Geography (Chigaku Zasshi)",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2327941769"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24527,7 +24624,11 @@
         "raw_source_name": "International Journal of Earth &amp; Environmental Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2938872149"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25958,7 +26059,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2900888322"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26662,7 +26767,11 @@
         "raw_source_name": "Sultan Qaboos University Journal for Science [SQUJS]",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2610540159"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27637,7 +27746,11 @@
         "raw_source_name": "Geochemistry",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2896309226"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -28488,7 +28601,11 @@
         "raw_source_name": "Sultan Qaboos University Journal for Science [SQUJS]",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2946528701"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29903,10 +30020,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -29917,7 +30038,11 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3114582657"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -30131,10 +30256,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -30177,7 +30306,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-01-05T00:00:00"
     },
     {
@@ -30225,7 +30354,11 @@
         "raw_source_name": "Journal of King Abdulaziz University-Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2315513079"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31189,7 +31322,11 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4392685312"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -32229,7 +32366,11 @@
         "raw_source_name": "ETD collection for University of Nebraska-Lincoln",
         "raw_type": "text"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2278301637"
+      ],
+      "child_works_count": 0,
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -32571,7 +32712,7 @@
         "https://openalex.org/W2900134647",
         "https://openalex.org/W2187218867",
         "https://openalex.org/W2909486426",
-        "https://openalex.org/W7096139296",
+        "https://openalex.org/W2079865096",
         "https://openalex.org/W2909634139",
         "https://openalex.org/W1599232593",
         "https://openalex.org/W812101099",
@@ -33353,7 +33494,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -33384,7 +33525,11 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2327184118"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -34918,7 +35063,11 @@
         "raw_source_name": "Graduate Student Theses, Dissertations, & Professional Papers",
         "raw_type": "thesis"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2463796432"
+      ],
+      "child_works_count": 0,
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -35248,7 +35397,11 @@
         "raw_source_name": "International Kimberlite Conference Extended Abstracts: 2008",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4231050176"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -36009,7 +36162,11 @@
         "raw_source_name": "International Kimberlite Conference Extended Abstracts: 2008",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4249711171"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -36714,12 +36871,12 @@
         "https://openalex.org/W4237058890",
         "https://openalex.org/W4247735938",
         "https://openalex.org/W2901686071",
-        "https://openalex.org/W7096848978",
+        "https://openalex.org/W2137756444",
         "https://openalex.org/W4230729259"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -36749,7 +36906,11 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4392685114"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -37637,7 +37798,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394361529"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -38181,7 +38346,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394388818"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -38664,7 +38833,7 @@
         "https://openalex.org/W2979223134",
         "https://openalex.org/W2091796504",
         "https://openalex.org/W2789928414",
-        "https://openalex.org/W6990028929",
+        "https://openalex.org/W2090080717",
         "https://openalex.org/W2303661421",
         "https://openalex.org/W2034109969",
         "https://openalex.org/W3042754979"
@@ -38684,7 +38853,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-31T12:09:11.096373",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-04-08T00:00:00"
     },
     {
@@ -38730,7 +38899,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394416517"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -39687,7 +39860,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394481069"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -40257,7 +40434,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394483835"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -40794,7 +40975,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394512921"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -41353,7 +41538,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394540382"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -41905,7 +42094,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394546243"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -42454,7 +42647,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394562908"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -42951,7 +43148,7 @@
         "https://openalex.org/W2979223134",
         "https://openalex.org/W2091796504",
         "https://openalex.org/W2789928414",
-        "https://openalex.org/W6990028929",
+        "https://openalex.org/W2090080717",
         "https://openalex.org/W2303661421",
         "https://openalex.org/W2034109969",
         "https://openalex.org/W3042754979"
@@ -42971,7 +43168,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-31T12:09:11.096373",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-04-08T00:00:00"
     },
     {
@@ -43028,7 +43225,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4403538850"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -44419,7 +44620,11 @@
         "raw_source_name": "Sultan Qaboos University Journal For Science",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4416921287"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -45616,7 +45821,11 @@
         "raw_source_name": null,
         "raw_type": "Text"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7130379539"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -46118,7 +46327,11 @@
         "raw_source_name": null,
         "raw_type": "Text"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7130398866"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -46613,7 +46826,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7155875033"
+      ],
+      "child_works_count": 0,
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -47391,7 +47608,11 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7160132457"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -47928,8 +48149,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.7811999917030334
         }
       ],
@@ -48011,7 +48232,11 @@
         "raw_source_name": "Sultan Qaboos University Journal For Science",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7160451049"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [

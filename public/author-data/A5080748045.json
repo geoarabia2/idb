@@ -462,7 +462,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4388205616"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -785,11 +789,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.5487,
+      "fwci": 4.5055,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.95723868,
+        "value": 0.95675322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1152,7 +1156,7 @@
         "https://openalex.org/W2600089442",
         "https://openalex.org/W4412853043",
         "https://openalex.org/W2767534216",
-        "https://openalex.org/W4231612273",
+        "https://openalex.org/W2063804344",
         "https://openalex.org/W2381283715",
         "https://openalex.org/W2134260018",
         "https://openalex.org/W2377829933",
@@ -1177,7 +1181,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-11-02T00:00:00"
     },
     {
@@ -1238,7 +1242,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4399072009"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1562,11 +1570,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 3.8678,
+      "fwci": 3.8271,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.93683923,
+        "value": 0.93640511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1972,7 +1980,11 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4307414375"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2281,11 +2293,11 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 2.0093,
+      "fwci": 2.0019,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.84140417,
+        "value": 0.84074831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2979,7 +2991,6 @@
         "https://openalex.org/W6726145131"
       ],
       "related_works": [
-        "https://openalex.org/W4281767628",
         "https://openalex.org/W4366273379",
         "https://openalex.org/W4322001693",
         "https://openalex.org/W4404212907",
@@ -3640,7 +3651,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-11-01T00:00:00"
     },
     {
@@ -3699,7 +3710,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4390201985"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4553,7 +4568,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3122970365"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5350,7 +5369,11 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4387996609"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5628,11 +5651,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.1989,
+      "fwci": 2.175,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.86122692,
+        "value": 0.85985796,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6806,7 +6829,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2901499799"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7088,11 +7115,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.0831,
+      "fwci": 1.0736,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.72434559,
+        "value": 0.72197927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7518,7 +7545,7 @@
         "https://openalex.org/W3023908258",
         "https://openalex.org/W2809048657",
         "https://openalex.org/W2915017519",
-        "https://openalex.org/W7167186980",
+        "https://openalex.org/W7062039640",
         "https://openalex.org/W4224293735",
         "https://openalex.org/W2770118770",
         "https://openalex.org/W3190305429"
@@ -7554,7 +7581,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2018-11-29T00:00:00"
     },
     {
@@ -7613,7 +7640,11 @@
         "raw_source_name": "Micropaleontology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3129777047"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8563,7 +8594,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4366273379"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8925,17 +8960,17 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.0156,
+      "fwci": 1.0069,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.65884244,
+        "value": 0.65671883,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 91,
-        "max": 97
+        "max": 96
       },
       "biblio": {
         "volume": "452",
@@ -9319,7 +9354,6 @@
         "https://openalex.org/W4307414375"
       ],
       "related_works": [
-        "https://openalex.org/W4281767628",
         "https://openalex.org/W4307414375",
         "https://openalex.org/W4409425571",
         "https://openalex.org/W2775628958",
@@ -9345,7 +9379,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-04-20T00:00:00"
     },
     {
@@ -9403,7 +9437,11 @@
         "raw_source_name": "Cretaceous Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4405188231"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9648,11 +9686,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 0.686,
+      "fwci": 0.6792,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.56477675,
+        "value": 0.5618537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10189,7 +10227,11 @@
         "raw_source_name": "Geological Quarterly",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1997639027"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10758,10 +10800,10 @@
       ],
       "related_works": [
         "https://openalex.org/W7139227901",
-        "https://openalex.org/W2470194604",
+        "https://openalex.org/W2256747664",
         "https://openalex.org/W2280468624",
         "https://openalex.org/W4399072009",
-        "https://openalex.org/W2186606442",
+        "https://openalex.org/W2315577880",
         "https://openalex.org/W2012468280",
         "https://openalex.org/W2092932879",
         "https://openalex.org/W1488330830",
@@ -11195,7 +11237,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11226,7 +11268,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3108968024"
+      ],
+      "child_works_count": 0,
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [
@@ -11531,13 +11577,13 @@
         "https://openalex.org/W2901499799",
         "https://openalex.org/W3014098635",
         "https://openalex.org/W2770118770",
-        "https://openalex.org/W7167186980",
+        "https://openalex.org/W7062039640",
         "https://openalex.org/W2036475585",
         "https://openalex.org/W3023908258",
         "https://openalex.org/W2809048657",
         "https://openalex.org/W4285713616",
         "https://openalex.org/W4224293735",
-        "https://openalex.org/W7167174652"
+        "https://openalex.org/W7067074935"
       ],
       "abstract_inverted_index": {
         "78": [
@@ -12096,7 +12142,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-03T10:50:19.383937",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-12-07T00:00:00"
     },
     {
@@ -12156,7 +12202,11 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4414002716"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12783,7 +12833,11 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7204230483"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14364,7 +14418,11 @@
         "raw_source_name": "Facies",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7218853228"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [

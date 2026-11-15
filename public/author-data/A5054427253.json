@@ -499,7 +499,11 @@
         "raw_source_name": "Energy Procedia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2101795741"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -1038,11 +1042,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 25.7494,
+      "fwci": 26.1287,
       "has_fulltext": false,
       "cited_by_count": 178,
       "citation_normalized_percentile": {
-        "value": 0.9983148,
+        "value": 0.99864865,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1498,22 +1502,22 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.571399986743927,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.571399986743927
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1856,7 +1860,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2287111010"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2174,11 +2182,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6194,
+      "fwci": 2.5932,
       "has_fulltext": false,
       "cited_by_count": 94,
       "citation_normalized_percentile": {
-        "value": 0.89064559,
+        "value": 0.88931153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2510,8 +2518,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -2580,7 +2588,6 @@
       "related_works": [
         "https://openalex.org/W2972134149",
         "https://openalex.org/W2954113145",
-        "https://openalex.org/W4299307649",
         "https://openalex.org/W2968599283",
         "https://openalex.org/W2947835304",
         "https://openalex.org/W3154314550",
@@ -3731,7 +3738,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3790,7 +3797,11 @@
         "raw_source_name": "Palaeontology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1580174060"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3974,11 +3985,11 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 3.3247,
+      "fwci": 3.3004,
       "has_fulltext": false,
       "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.92024887,
+        "value": 0.91936097,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4292,8 +4303,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -4322,8 +4333,7 @@
         "https://openalex.org/W2972134149",
         "https://openalex.org/W2968599283",
         "https://openalex.org/W2954113145",
-        "https://openalex.org/W2327228832",
-        "https://openalex.org/W4299307649"
+        "https://openalex.org/W2327228832"
       ],
       "abstract_inverted_index": {
         "1": [
@@ -4714,7 +4724,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4774,7 +4784,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2041622963"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5291,8 +5305,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -5445,7 +5459,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2571373978"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5618,11 +5636,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5624,
+      "fwci": 0.5559,
       "has_fulltext": false,
       "cited_by_count": 73,
       "citation_normalized_percentile": {
-        "value": 0.6336611,
+        "value": 0.62952646,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5955,8 +5973,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -5981,7 +5999,7 @@
         "https://openalex.org/W4384103667"
       ],
       "related_works": [
-        "https://openalex.org/W7067750922",
+        "https://openalex.org/W2803380870",
         "https://openalex.org/W4287110371",
         "https://openalex.org/W2732159209",
         "https://openalex.org/W3026637527",
@@ -6590,7 +6608,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-01-13T00:00:00"
     },
     {
@@ -6641,7 +6659,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1542845244"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6780,11 +6802,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5546,
+      "fwci": 3.556,
       "has_fulltext": true,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.90741018,
+        "value": 0.90747251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7188,8 +7210,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf",
@@ -7275,8 +7297,7 @@
         "https://openalex.org/W81898466",
         "https://openalex.org/W2000671504",
         "https://openalex.org/W2110801167",
-        "https://openalex.org/W7037708768",
-        "https://openalex.org/W4318240016",
+        "https://openalex.org/W2083572911",
         "https://openalex.org/W7064830407"
       ],
       "abstract_inverted_index": {
@@ -8935,7 +8956,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8996,7 +9017,11 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2891114019"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9552,9 +9577,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -9567,8 +9592,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -9792,7 +9817,11 @@
         "raw_source_name": "International Journal of Greenhouse Gas Control",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2093096931"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10383,22 +10412,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.4000000059604645,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -10585,7 +10614,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2954113145"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10672,11 +10705,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6194,
+      "fwci": 2.5932,
       "has_fulltext": true,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.89064559,
+        "value": 0.88931153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10994,8 +11027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf",
@@ -11103,7 +11136,6 @@
         "https://openalex.org/W7002204905"
       ],
       "related_works": [
-        "https://openalex.org/W4299307649",
         "https://openalex.org/W2287111010",
         "https://openalex.org/W1955525387",
         "https://openalex.org/W2268160356",
@@ -11466,7 +11498,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -11526,7 +11558,11 @@
         "raw_source_name": "International Journal of Greenhouse Gas Control",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1979422933"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12117,7 +12153,7 @@
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.92277654,
+        "value": 0.92276122,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12479,9 +12515,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -12494,8 +12530,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -12517,7 +12553,6 @@
         "https://openalex.org/W6904260457",
         "https://openalex.org/W4411889295",
         "https://openalex.org/W3009552679",
-        "https://openalex.org/W3041677051",
         "https://openalex.org/W7119494606",
         "https://openalex.org/W7140318264",
         "https://openalex.org/W7126425407",
@@ -12582,7 +12617,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12633,7 +12668,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2581167478"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13144,8 +13183,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -14355,7 +14394,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4231436524"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14911,8 +14954,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -15874,7 +15917,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1496924522"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16062,11 +16109,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1406,
+      "fwci": 3.1467,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.88811341,
+        "value": 0.88833261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16431,8 +16478,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -16464,7 +16511,6 @@
         "https://openalex.org/W4285719527"
       ],
       "related_works": [
-        "https://openalex.org/W4297813047",
         "https://openalex.org/W3023665096",
         "https://openalex.org/W1604102604",
         "https://openalex.org/W7125688480",
@@ -17136,7 +17182,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17198,7 +17244,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2915017519"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17864,8 +17914,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -18084,7 +18134,11 @@
         "raw_source_name": "Comptes Rendus. Géoscience",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4381681826"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18714,8 +18768,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -19668,7 +19722,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2188233270"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19740,11 +19798,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8835,
+      "fwci": 0.8738,
       "has_fulltext": true,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.69125434,
+        "value": 0.68790397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20040,17 +20098,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf",
@@ -20568,7 +20626,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3127056474"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20669,11 +20731,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8834,
+      "fwci": 0.8738,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.69119795,
+        "value": 0.68790397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20994,8 +21056,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf",
@@ -21594,7 +21656,11 @@
         "raw_source_name": "Comptes Rendus. Géoscience",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1056795926"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22229,9 +22295,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         }
       ],
       "study_designs": [],
@@ -22249,8 +22315,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1056795926.pdf",
@@ -22799,7 +22865,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1604102604"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22971,11 +23041,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2433,
+      "fwci": 2.2476,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.85045438,
+        "value": 0.85074735,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23336,8 +23406,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -23382,7 +23452,6 @@
       ],
       "related_works": [
         "https://openalex.org/W3023665096",
-        "https://openalex.org/W4297813047",
         "https://openalex.org/W1496924522",
         "https://openalex.org/W7143308777",
         "https://openalex.org/W3047259851",
@@ -24399,7 +24468,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -24448,10 +24517,18 @@
         "raw_source_name": "Siliciclastic Reservoirs of the Arabian Plate",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W3003836963",
-        "display_name": "Siliciclastic Reservoirs of the Arabian Plate"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W3003836963",
+          "display_name": "Siliciclastic Reservoirs of the Arabian Plate",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2993258028",
+        "https://openalex.org/W3003836963"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -24674,11 +24751,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2489,
+      "fwci": 2.2387,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.85110471,
+        "value": 0.85053038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24954,8 +25031,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -25009,9 +25086,8 @@
         "https://openalex.org/W7055719650"
       ],
       "related_works": [
-        "https://openalex.org/W4297813047",
-        "https://openalex.org/W7125688480",
         "https://openalex.org/W1496924522",
+        "https://openalex.org/W7125688480",
         "https://openalex.org/W4388308604",
         "https://openalex.org/W2068315623",
         "https://openalex.org/W2594660138",
@@ -25531,7 +25607,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -25582,7 +25658,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2968599283"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25669,16 +25749,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2209,
+      "fwci": 0.2185,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.43089282,
+        "value": 0.42474608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -25947,7 +26027,7 @@
           "doi": null,
           "is_oa": true,
           "landing_page_url": "http://hdl.handle.net/2434/30360",
-          "pdf_url": "http://hdl.handle.net/2434/30360",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306400516",
             "display_name": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
@@ -26014,8 +26094,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf",
@@ -26065,7 +26145,6 @@
         "https://openalex.org/W1580174060",
         "https://openalex.org/W2954113145",
         "https://openalex.org/W2030390706",
-        "https://openalex.org/W4299307649",
         "https://openalex.org/W629854860",
         "https://openalex.org/W2979942938",
         "https://openalex.org/W2268160356",
@@ -26402,7 +26481,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-08-22T00:00:00"
     },
     {
@@ -26453,7 +26532,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2979942938"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26522,11 +26605,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4417,
+      "fwci": 0.4369,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.54784514,
+        "value": 0.54312096,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26822,8 +26905,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf",
@@ -26848,7 +26931,6 @@
         "https://openalex.org/W4250150430",
         "https://openalex.org/W2968599283",
         "https://openalex.org/W2954113145",
-        "https://openalex.org/W4299307649",
         "https://openalex.org/W2626328579",
         "https://openalex.org/W2182452885",
         "https://openalex.org/W2268160356",
@@ -27338,7 +27420,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-10-18T00:00:00"
     },
     {
@@ -27393,7 +27475,11 @@
         "raw_source_name": "Energy Procedia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2006757505"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -27698,11 +27784,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7746,
+      "fwci": 0.7755,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.66703387,
+        "value": 0.66712593,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28125,22 +28211,22 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.878000020980835,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.878000020980835
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2006757505.pdf",
@@ -28157,7 +28243,6 @@
         "https://openalex.org/W4410077187",
         "https://openalex.org/W2372870922",
         "https://openalex.org/W4410331471",
-        "https://openalex.org/W2323079723",
         "https://openalex.org/W2064711933",
         "https://openalex.org/W1995447502",
         "https://openalex.org/W7137884252",
@@ -28945,7 +29030,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -28996,7 +29081,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2972134149"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29067,11 +29156,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8834,
+      "fwci": 0.8738,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.69119795,
+        "value": 0.68790397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29364,8 +29453,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf",
@@ -29399,7 +29488,6 @@
         "https://openalex.org/W2287111010",
         "https://openalex.org/W2954113145",
         "https://openalex.org/W2979942938",
-        "https://openalex.org/W4299307649",
         "https://openalex.org/W3154314550",
         "https://openalex.org/W1955525387",
         "https://openalex.org/W2947835304",
@@ -29853,7 +29941,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -29884,10 +29972,18 @@
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W3122357362",
-        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W3122357362",
+          "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W28724452",
+        "https://openalex.org/W3122357362"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -30000,16 +30096,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9862,
+      "fwci": 0.9623,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.68785047,
+        "value": 0.68007663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 88,
         "max": 95
       },
       "biblio": {
@@ -30273,8 +30369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -30708,7 +30804,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30770,7 +30866,11 @@
         "raw_source_name": "Comptes Rendus. Géoscience",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4385358246"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31721,8 +31821,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -32442,7 +32542,11 @@
         "raw_source_name": "Greenhouse Gas Control Technologies 7",
         "raw_type": "book-chapter"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W50354605"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -32814,17 +32918,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -32916,7 +33020,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2139545889"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33209,8 +33317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33589,7 +33697,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3023665096"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -33736,11 +33848,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7092,
+      "fwci": 6.5977,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.93934837,
+        "value": 0.93822785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34080,17 +34192,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34098,9 +34210,8 @@
       "related_works": [
         "https://openalex.org/W6885035001",
         "https://openalex.org/W6922112943",
-        "https://openalex.org/W4297813047",
-        "https://openalex.org/W1604102604",
         "https://openalex.org/W1496924522",
+        "https://openalex.org/W1604102604",
         "https://openalex.org/W1975010201",
         "https://openalex.org/W7125688480",
         "https://openalex.org/W7167181268",
@@ -34411,7 +34522,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -34441,7 +34552,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W57810535"
+      ],
+      "child_works_count": 0,
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -34702,8 +34817,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34712,9 +34827,8 @@
         "https://openalex.org/W1968584894",
         "https://openalex.org/W2974207299",
         "https://openalex.org/W4242332294",
-        "https://openalex.org/W3077796930",
-        "https://openalex.org/W2140551189",
         "https://openalex.org/W7148398267",
+        "https://openalex.org/W2140551189",
         "https://openalex.org/W2943315204",
         "https://openalex.org/W1905930015",
         "https://openalex.org/W2907934357",
@@ -35141,7 +35255,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -35199,7 +35313,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3133750168"
+      ],
+      "child_works_count": 0,
       "type": "editorial",
       "is_traditional": true,
       "indexed_in": [
@@ -35570,8 +35688,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -35694,7 +35812,11 @@
         "raw_source_name": "Energy Procedia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2037835118"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -36404,27 +36526,27 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         },
         {
-          "score": 0.5378999710083008,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5378999710083008
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2037835118.pdf",
@@ -37325,7 +37447,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2039093430"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -37608,8 +37734,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37624,7 +37750,7 @@
         "https://openalex.org/W3188718830",
         "https://openalex.org/W6991576013",
         "https://openalex.org/W3043255605",
-        "https://openalex.org/W4239521625"
+        "https://openalex.org/W2010427172"
       ],
       "abstract_inverted_index": {
         "Various": [
@@ -37889,7 +38015,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -37935,7 +38061,11 @@
         "raw_source_name": "14ème Congrès français de sédimentologie, Nov 2013, Paris, France",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2794473719"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -38377,21 +38507,20 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W4392482023",
-        "https://openalex.org/W2626806739",
         "https://openalex.org/W788048221",
         "https://openalex.org/W2563068881",
         "https://openalex.org/W2770723457",
         "https://openalex.org/W417040591",
         "https://openalex.org/W7128867342",
-        "https://openalex.org/W4392358633",
+        "https://openalex.org/W641852717",
         "https://openalex.org/W2218520907",
         "https://openalex.org/W3126977582"
       ],
@@ -39360,7 +39489,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2018-04-06T00:00:00"
     },
     {
@@ -39406,7 +39535,11 @@
         "raw_source_name": "14ème Congrès français de sédimentologie, Nov 2013, Paris, France",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2979132266"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -39755,17 +39888,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.6618000268936157
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40711,7 +40844,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3159567963"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -41129,8 +41266,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41179,7 +41316,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3196741789"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -41602,17 +41743,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41626,12 +41767,11 @@
         "https://openalex.org/W6928925187",
         "https://openalex.org/W2747008725",
         "https://openalex.org/W2988336596",
-        "https://openalex.org/W6926475923",
         "https://openalex.org/W2607900424"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-11T09:32:39.932853",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-09-13T00:00:00"
     }
   ]

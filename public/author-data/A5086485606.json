@@ -486,7 +486,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5086485606",
-    "updated_date": "2026-11-13T15:08:24",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -547,7 +547,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2056353799"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1361,7 +1365,11 @@
         "raw_source_name": "Facies",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2008659547"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1965,10 +1973,18 @@
         "raw_source_name": "The Geology of Central Europe Volume 2: Mesozoic and Cenozoic",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W2214509940",
-        "display_name": "The Geology of Central Europe Volume 2: Mesozoic and Cenozoic"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W2214509940",
+          "display_name": "The Geology of Central Europe Volume 2: Mesozoic and Cenozoic",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W3111467629",
+        "https://openalex.org/W2214509940"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -2079,7 +2095,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.2383,
+      "fwci": 14.2482,
       "has_fulltext": false,
       "cited_by_count": 97,
       "citation_normalized_percentile": {
@@ -3051,7 +3067,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-12-21T00:00:00"
     },
     {
@@ -3111,7 +3127,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2078052519"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3969,7 +3989,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4387747437"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5221,10 +5245,18 @@
         "raw_source_name": "Defining the Critical Role and Impact of Sedimentology in a Sustainable Future",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7202164125",
-        "display_name": "Defining the Critical Role and Impact of Sedimentology in a Sustainable Future"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7202164125",
+          "display_name": "Defining the Critical Role and Impact of Sedimentology in a Sustainable Future",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4375950791",
+        "https://openalex.org/W7202164125"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -5510,11 +5542,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 28.164,
+      "fwci": 28.0969,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.99697275,
+        "value": 0.99699399,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6893,7 +6925,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-05-10T00:00:00"
     },
     {
@@ -6950,7 +6982,11 @@
         "raw_source_name": "Geoenergy Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4376879793"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7179,11 +7215,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 2.9605,
+      "fwci": 2.9518,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.91605803,
+        "value": 0.91557467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7646,9 +7682,8 @@
         "https://openalex.org/W4316169353"
       ],
       "related_works": [
-        "https://openalex.org/W4313122740",
         "https://openalex.org/W6964850447",
-        "https://openalex.org/W7131548649",
+        "https://openalex.org/W7152641705",
         "https://openalex.org/W4405016377",
         "https://openalex.org/W3081524168",
         "https://openalex.org/W4200544730",
@@ -7672,7 +7707,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-05-18T00:00:00"
     },
     {
@@ -7731,7 +7766,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4400487005"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7964,11 +8003,11 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 3.8678,
+      "fwci": 3.8271,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.93683923,
+        "value": 0.93640511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9082,7 +9121,11 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2073591847"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10322,7 +10365,11 @@
         "raw_source_name": "Terra Nova",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2037741551"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11291,7 +11338,11 @@
         "raw_source_name": "Terra Nova",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2076390156"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12673,10 +12724,18 @@
         "raw_source_name": "Cyclostratigraphy",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W1488397535",
-        "display_name": "Cyclostratigraphy"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W1488397535",
+          "display_name": "Cyclostratigraphy: Approaches and Case Histories",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2201314899",
+        "https://openalex.org/W1488397535"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -12741,11 +12800,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.321,
+      "fwci": 0.3218,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.48317308,
+        "value": 0.48441247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14109,7 +14168,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14162,10 +14221,18 @@
         "raw_source_name": "Coastal Systems and Continental Margins",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W598551091",
-        "display_name": "Sequence Stratigraphy and Depositional Response to Eustatic, Tectonic and Climatic Forcing"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W598551091",
+          "display_name": "Sequence Stratigraphy and Depositional Response to Eustatic, Tectonic and Climatic Forcing",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W88001942",
+        "https://openalex.org/W598551091"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -14220,16 +14287,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5563,
+      "fwci": 1.5476,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.72098214,
+        "value": 0.71919192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -14682,7 +14749,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14740,7 +14807,11 @@
         "raw_source_name": "First Break",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2142600636"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15346,7 +15417,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1994728886"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16051,7 +16126,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1964921771"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16277,16 +16356,16 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.681,
+      "fwci": 1.6562,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.8184785,
+        "value": 0.81446541,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 97
       },
       "biblio": {
@@ -16801,7 +16880,11 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2757732133"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18414,7 +18497,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2518333663"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19134,7 +19221,11 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2742221252"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20188,7 +20279,11 @@
         "raw_source_name": "Basin Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3210145828"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21312,7 +21407,11 @@
         "raw_source_name": "Geoenergy Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4386964722"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21521,11 +21620,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.2565,
+      "fwci": 1.2429,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.73178479,
+        "value": 0.72881865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21851,9 +21950,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22022,10 +22121,18 @@
         "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
         "raw_type": "other"
       },
-      "volume": {
-        "id": "https://openalex.org/W1527927531",
-        "display_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W1527927531",
+          "display_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1502840963",
+        "https://openalex.org/W1527927531"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -22432,7 +22539,7 @@
       },
       "cited_by_percentile_year": {
         "min": 88,
-        "max": 96
+        "max": 95
       },
       "biblio": {
         "volume": null,
@@ -22690,7 +22797,6 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W7039898228",
         "https://openalex.org/W2978813386",
         "https://openalex.org/W2335719342",
         "https://openalex.org/W2161810801",
@@ -22781,7 +22887,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22825,7 +22931,11 @@
         "raw_source_name": "51st U.S. Rock Mechanics/Geomechanics Symposium",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2785371066"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -23311,7 +23421,11 @@
         "raw_source_name": "85th EAGE Annual Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4399186169"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -24288,7 +24402,11 @@
         "raw_source_name": "Geoenergy Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7124737262"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24625,11 +24743,11 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.6211,
+      "fwci": 1.6007,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.74992633,
+        "value": 0.74847805,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24989,9 +25107,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -25098,478 +25216,6 @@
       "created_date": "2026-01-20T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1596249279",
-      "doi": "https://doi.org/10.1002/9781444303131.ch3",
-      "title": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
-      "display_name": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
-      "publication_year": 2008,
-      "publication_date": "2008-11-28",
-      "ids": {
-        "openalex": "https://openalex.org/W1596249279",
-        "doi": "https://doi.org/10.1002/9781444303131.ch3",
-        "mag": "1596249279"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1002/9781444303131.ch3",
-        "doi": "https://doi.org/10.1002/9781444303131.ch3",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306464293",
-          "display_name": "Wiley eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
-        "raw_type": "other"
-      },
-      "volume": {
-        "id": "https://openalex.org/W1527927531",
-        "display_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction"
-      },
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5025692814",
-            "display_name": "Zbynek Veselovský",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210109027",
-              "display_name": "Ipark (Norway)",
-              "ror": "https://ror.org/01mr84c03",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210109027"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Zbynek Veselovský",
-          "raw_affiliation_strings": [
-            "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I4210109027"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086838587",
-            "display_name": "Thilo Bechstädt",
-            "orcid": "https://orcid.org/0000-0001-9898-0198",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9898-0198"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I223822909",
-              "display_name": "Heidelberg University",
-              "ror": "https://ror.org/038t36y30",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thilo Bechstädt",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5086485606",
-            "display_name": "Rainer Zühlke",
-            "orcid": "https://orcid.org/0000-0001-8629-983X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8629-983X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I223822909",
-              "display_name": "Heidelberg University",
-              "ror": "https://ror.org/038t36y30",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Rainer Zühlke",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5025692814",
-        "https://openalex.org/A5086485606"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I223822909",
-        "https://openalex.org/I4210109027"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "65",
-        "last_page": "96"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.48539999127388,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.48539999127388,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0.23819999396800995,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.10350000113248825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/structural-modeling",
-          "display_name": "structural modeling",
-          "score": 0.7269999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-forward-modeling",
-          "display_name": "forward stratigraphic modelling",
-          "score": 0.9819999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/basin-evolution",
-          "display_name": "basin evolution",
-          "score": 0.9350000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/basin-modeling",
-          "display_name": "basin modeling",
-          "score": 0.40799999237060547
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.8848481178283691
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.767388641834259
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5673245191574097
-        },
-        {
-          "id": "https://openalex.org/C175454506",
-          "wikidata": "https://www.wikidata.org/wiki/Q7445308",
-          "display_name": "Sedimentary basin analysis",
-          "level": 4,
-          "score": 0.4608362317085266
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3241288661956787
-        },
-        {
-          "id": "https://openalex.org/C200646496",
-          "wikidata": "https://www.wikidata.org/wiki/Q785020",
-          "display_name": "Sedimentary basin",
-          "level": 3,
-          "score": 0.15300682187080383
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1002/9781444303131.ch3",
-          "doi": "https://doi.org/10.1002/9781444303131.ch3",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306464293",
-            "display_name": "Wiley eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
-          "raw_type": "other"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2896518030",
-        "https://openalex.org/W2737747468",
-        "https://openalex.org/W2074778199",
-        "https://openalex.org/W64631222",
-        "https://openalex.org/W587699443",
-        "https://openalex.org/W3121457176",
-        "https://openalex.org/W6981858812",
-        "https://openalex.org/W6907822357",
-        "https://openalex.org/W2011300084",
-        "https://openalex.org/W2298439675"
-      ],
-      "abstract_inverted_index": {
-        "This": [
-          0
-        ],
-        "chapter": [
-          1
-        ],
-        "contains": [
-          2
-        ],
-        "sections": [
-          3
-        ],
-        "titled:": [
-          4
-        ],
-        "Introduction": [
-          5
-        ],
-        "Structural": [
-          6
-        ],
-        "Balancing": [
-          7
-        ],
-        "Basin": [
-          8,
-          12
-        ],
-        "Modelling": [
-          9
-        ],
-        "Discussion": [
-          10
-        ],
-        "OF": [
-          11
-        ],
-        "Evolution": [
-          13
-        ],
-        "Summary": [
-          14
-        ],
-        "Acknowledgements": [
-          15
-        ],
-        "References": [
-          16
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-07T11:25:07.637180",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2257218972",
       "doi": null,
       "title": "Seismic stratigraphy and numerical basin modeling of the southern Brazilian margin (Campos, Santos, and Pelotas basins)",
@@ -25596,7 +25242,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2257218972"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -26843,7 +26493,11 @@
         "raw_source_name": "Zeitschrift der Deutschen Gesellschaft für Geowissenschaften",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2769096285"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27251,6 +26905,486 @@
       "created_date": "2017-12-04T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1596249279",
+      "doi": "https://doi.org/10.1002/9781444303131.ch3",
+      "title": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
+      "display_name": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
+      "publication_year": 2008,
+      "publication_date": "2008-11-28",
+      "ids": {
+        "openalex": "https://openalex.org/W1596249279",
+        "doi": "https://doi.org/10.1002/9781444303131.ch3",
+        "mag": "1596249279"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1002/9781444303131.ch3",
+        "doi": "https://doi.org/10.1002/9781444303131.ch3",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306464293",
+          "display_name": "Wiley eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
+        "raw_type": "other"
+      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W1527927531",
+          "display_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1596249279",
+        "https://openalex.org/W1527927531"
+      ],
+      "child_works_count": 0,
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025692814",
+            "display_name": "Zbynek Veselovský",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210109027",
+              "display_name": "Ipark (Norway)",
+              "ror": "https://ror.org/01mr84c03",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210109027"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Zbynek Veselovský",
+          "raw_affiliation_strings": [
+            "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I4210109027"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086838587",
+            "display_name": "Thilo Bechstädt",
+            "orcid": "https://orcid.org/0000-0001-9898-0198",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9898-0198"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223822909",
+              "display_name": "Heidelberg University",
+              "ror": "https://ror.org/038t36y30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thilo Bechstädt",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5086485606",
+            "display_name": "Rainer Zühlke",
+            "orcid": "https://orcid.org/0000-0001-8629-983X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8629-983X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223822909",
+              "display_name": "Heidelberg University",
+              "ror": "https://ror.org/038t36y30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Rainer Zühlke",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5025692814",
+        "https://openalex.org/A5086485606"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I223822909",
+        "https://openalex.org/I4210109027"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "65",
+        "last_page": "96"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 0.48539999127388,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.48539999127388,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.23819999396800995,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.10350000113248825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/structural-modeling",
+          "display_name": "structural modeling",
+          "score": 0.7269999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-forward-modeling",
+          "display_name": "forward stratigraphic modelling",
+          "score": 0.9819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/basin-evolution",
+          "display_name": "basin evolution",
+          "score": 0.9350000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/basin-modeling",
+          "display_name": "basin modeling",
+          "score": 0.40799999237060547
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.8848481178283691
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.767388641834259
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5673245191574097
+        },
+        {
+          "id": "https://openalex.org/C175454506",
+          "wikidata": "https://www.wikidata.org/wiki/Q7445308",
+          "display_name": "Sedimentary basin analysis",
+          "level": 4,
+          "score": 0.4608362317085266
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3241288661956787
+        },
+        {
+          "id": "https://openalex.org/C200646496",
+          "wikidata": "https://www.wikidata.org/wiki/Q785020",
+          "display_name": "Sedimentary basin",
+          "level": 3,
+          "score": 0.15300682187080383
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1002/9781444303131.ch3",
+          "doi": "https://doi.org/10.1002/9781444303131.ch3",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306464293",
+            "display_name": "Wiley eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
+          "raw_type": "other"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2896518030",
+        "https://openalex.org/W2737747468",
+        "https://openalex.org/W2074778199",
+        "https://openalex.org/W64631222",
+        "https://openalex.org/W587699443",
+        "https://openalex.org/W3121457176",
+        "https://openalex.org/W6981858812",
+        "https://openalex.org/W6907822357",
+        "https://openalex.org/W2011300084",
+        "https://openalex.org/W2298439675"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "chapter": [
+          1
+        ],
+        "contains": [
+          2
+        ],
+        "sections": [
+          3
+        ],
+        "titled:": [
+          4
+        ],
+        "Introduction": [
+          5
+        ],
+        "Structural": [
+          6
+        ],
+        "Balancing": [
+          7
+        ],
+        "Basin": [
+          8,
+          12
+        ],
+        "Modelling": [
+          9
+        ],
+        "Discussion": [
+          10
+        ],
+        "OF": [
+          11
+        ],
+        "Evolution": [
+          13
+        ],
+        "Summary": [
+          14
+        ],
+        "Acknowledgements": [
+          15
+        ],
+        "References": [
+          16
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2086944217",
       "doi": "https://doi.org/10.3997/2214-4609.20144202",
       "title": "Thermo-hydraulic Modeling of the Permo-carboniferous in the Upper Rhine Valley",
@@ -27296,7 +27430,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2086944217"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -27674,14 +27812,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.875
+          "score": 0.875,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -27912,7 +28050,11 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2211243306"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -28847,7 +28989,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3022953079"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30006,7 +30152,11 @@
         "raw_source_name": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA ; Vol. 102 No. 3 (1996)",
         "raw_type": "info:eu-repo/semantics/article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2305307140"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30432,12 +30582,12 @@
         "https://openalex.org/W2916313759",
         "https://openalex.org/W4324361296",
         "https://openalex.org/W6983472854",
-        "https://openalex.org/W7006573756",
+        "https://openalex.org/W3207559982",
         "https://openalex.org/W2750834023"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30482,7 +30632,11 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1506630614"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30863,7 +31017,6 @@
         "https://openalex.org/W4297916350",
         "https://openalex.org/W2116272763",
         "https://openalex.org/W18418577",
-        "https://openalex.org/W7096360210",
         "https://openalex.org/W2897294387",
         "https://openalex.org/W40375989"
       ],
@@ -31341,7 +31494,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31398,7 +31551,11 @@
         "raw_source_name": "First Break",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1515371129"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -31860,7 +32017,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1544530319"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -32343,12 +32504,12 @@
         "https://openalex.org/W2270732416",
         "https://openalex.org/W3015835696",
         "https://openalex.org/W2746770864",
-        "https://openalex.org/W6887948411",
+        "https://openalex.org/W2565988939",
         "https://openalex.org/W3010221509"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32397,7 +32558,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1977546504"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -32906,7 +33071,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2091878469"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -33840,7 +34009,11 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2325932125"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -34740,7 +34913,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2330815650"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -35598,7 +35775,11 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2332027107"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -36289,7 +36470,11 @@
         "raw_source_name": "Annual Meeting Expanded Abstracts - American Association of Petroleum Geologists",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2753681549"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -36546,9 +36731,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -36606,10 +36791,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -36620,7 +36809,11 @@
         "raw_source_name": "Abu Dhabi International Petroleum Exhibition &amp; Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2900447501"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -37041,10 +37234,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -38059,7 +38256,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2018-11-16T00:00:00"
     },
     {
@@ -38089,7 +38286,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2908719499"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -38365,7 +38566,11 @@
         "raw_source_name": "EAEJA",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3012475910"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -38744,7 +38949,7 @@
         "https://openalex.org/W3184402127",
         "https://openalex.org/W7154464376",
         "https://openalex.org/W3146370789",
-        "https://openalex.org/W7019344602",
+        "https://openalex.org/W4404078402",
         "https://openalex.org/W2975295359",
         "https://openalex.org/W6929993884",
         "https://openalex.org/W1990185742",
@@ -38753,7 +38958,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-03-23T00:00:00"
     },
     {
@@ -38799,7 +39004,11 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3042754757"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -39159,7 +39368,11 @@
         "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4200187165"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -39625,7 +39838,7 @@
       "related_works": [
         "https://openalex.org/W3210145828",
         "https://openalex.org/W4285147384",
-        "https://openalex.org/W7052114569",
+        "https://openalex.org/W1972768340",
         "https://openalex.org/W1543320525",
         "https://openalex.org/W1964069208",
         "https://openalex.org/W1535236791",
@@ -40480,7 +40693,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -40524,7 +40737,11 @@
         "raw_source_name": "83rd EAGE Annual Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4285147384"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -41431,7 +41648,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4410225556"
+      ],
+      "child_works_count": 0,
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -41892,10 +42113,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -41906,7 +42131,11 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4414226490"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -42495,10 +42724,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -43312,7 +43545,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43342,10 +43575,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310316678",
+          "host_organization_name": "Society of Exploration Geophysicists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316678"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Exploration Geophysicists"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -43356,7 +43593,11 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7147648611"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -43776,10 +44017,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310316678",
+            "host_organization_name": "Society of Exploration Geophysicists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316678"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Exploration Geophysicists"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -43794,9 +44039,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -44081,7 +44326,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2026-04-02T00:00:00"
     }
   ]

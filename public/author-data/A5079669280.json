@@ -379,7 +379,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5079669280",
-    "updated_date": "2026-11-13T15:08:24",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2016-10-28T00:00:00"
   },
   "works": [
@@ -449,7 +449,11 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3132684617"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -775,11 +779,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 4.0366,
+      "fwci": 4.0294,
       "has_fulltext": true,
       "cited_by_count": 95,
       "citation_normalized_percentile": {
-        "value": 0.95108164,
+        "value": 0.95095704,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1308,9 +1312,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.9786999821662903,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -1353,8 +1357,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132684617.pdf",
@@ -1450,7 +1454,7 @@
         "https://openalex.org/W3204795485",
         "https://openalex.org/W3216296512",
         "https://openalex.org/W3208964426",
-        "https://openalex.org/W6912922150",
+        "https://openalex.org/W4288033128",
         "https://openalex.org/W4317738920",
         "https://openalex.org/W2794129889",
         "https://openalex.org/W4221060314",
@@ -1922,7 +1926,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -1987,7 +1991,11 @@
         "raw_source_name": "Environmental Pollution",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3129040100"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2726,9 +2734,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -2754,8 +2762,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -2926,7 +2934,11 @@
         "raw_source_name": "Science of The Total Environment",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4386468571"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3203,11 +3215,11 @@
         "currency": "USD",
         "value_usd": 3790
       },
-      "fwci": 6.2326,
+      "fwci": 6.2143,
       "has_fulltext": true,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.9811906,
+        "value": 0.98109433,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3640,19 +3652,19 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
+          "score": 0.965499997138977,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -3683,8 +3695,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386468571.pdf",
@@ -3812,14 +3824,13 @@
         "https://openalex.org/W7033572882"
       ],
       "related_works": [
-        "https://openalex.org/W4360595612",
         "https://openalex.org/W2093818226",
         "https://openalex.org/W2038824790",
         "https://openalex.org/W7151978414",
         "https://openalex.org/W1606262993",
         "https://openalex.org/W88759331",
         "https://openalex.org/W1969007912",
-        "https://openalex.org/W7097288626",
+        "https://openalex.org/W1933620454",
         "https://openalex.org/W2358937886",
         "https://openalex.org/W1561251157"
       ],
@@ -4457,7 +4468,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-09-07T00:00:00"
     },
     {
@@ -4518,7 +4529,11 @@
         "raw_source_name": "Frontiers in Environmental Science",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2583394094"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5269,8 +5284,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2583394094.pdf",
@@ -6131,7 +6146,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3109758233"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6623,8 +6642,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -6777,7 +6796,11 @@
         "raw_source_name": "Marine Pollution Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4205176598"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7525,14 +7548,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -7553,8 +7576,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -7759,7 +7782,11 @@
         "raw_source_name": "MethodsX",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3145666038"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8558,9 +8585,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -8591,8 +8618,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3145666038.pdf",
@@ -9234,7 +9261,11 @@
         "raw_source_name": "Science of The Total Environment",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4385287273"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9940,8 +9971,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385287273.pdf",
@@ -10486,7 +10517,11 @@
         "raw_source_name": "Plant Stress",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4413289789"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10715,11 +10750,11 @@
         "currency": "USD",
         "value_usd": 2310
       },
-      "fwci": 2.9548,
+      "fwci": 2.9086,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89919717,
+        "value": 0.89711063,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11138,14 +11173,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "score": 0.9599999785423279,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.9599999785423279
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -11173,8 +11208,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -11953,7 +11988,11 @@
         "raw_source_name": "Science of The Total Environment",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3150907985"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12186,11 +12225,11 @@
         "currency": "EUR",
         "value_usd": 3176
       },
-      "fwci": 1.8807,
+      "fwci": 1.8784,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.83451258,
+        "value": 0.82910399,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12669,8 +12708,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3150907985.pdf",
@@ -12779,7 +12818,7 @@
         "https://openalex.org/W7214987620",
         "https://openalex.org/W2091735807",
         "https://openalex.org/W3201665486",
-        "https://openalex.org/W7095533825"
+        "https://openalex.org/W2013921138"
       ],
       "abstract_inverted_index": {
         "2018": [
@@ -13408,7 +13447,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -13463,7 +13502,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3133550770"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14029,8 +14072,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -14168,7 +14211,11 @@
         "raw_source_name": "Geoenergy Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4385707698"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14517,11 +14564,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.3646,
+      "fwci": 1.3516,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.77231228,
+        "value": 0.77040912,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14974,8 +15021,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -15022,7 +15069,6 @@
         "https://openalex.org/W3157841642"
       ],
       "related_works": [
-        "https://openalex.org/W4312714196",
         "https://openalex.org/W2743149546",
         "https://openalex.org/W2787903191",
         "https://openalex.org/W2945220428",
@@ -15048,7 +15094,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-08-10T00:00:00"
     },
     {
@@ -15103,7 +15149,11 @@
         "raw_source_name": "Petrophysics – The SPWLA Journal of Formation Evaluation and Reservoir Description",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3089140590"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15528,8 +15578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15637,7 +15687,11 @@
         "raw_source_name": "Marine Pollution Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3122332124"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15955,11 +16009,11 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 1.3433,
+      "fwci": 1.3417,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.74456237,
+        "value": 0.74257685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16303,8 +16357,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -16378,7 +16432,7 @@
         "https://openalex.org/W3131001014",
         "https://openalex.org/W1913919463",
         "https://openalex.org/W2013921138",
-        "https://openalex.org/W7134550599"
+        "https://openalex.org/W766802787"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -16403,7 +16457,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-01T11:40:01.658920",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-02-01T00:00:00"
     },
     {
@@ -16457,7 +16511,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4291014806"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17064,8 +17122,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291014806.pdf",
@@ -17196,7 +17254,11 @@
         "raw_source_name": "Petrophysics – The SPWLA Journal of Formation Evaluation and Reservoir Description",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4297991379"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17661,8 +17723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18132,7 +18194,11 @@
         "raw_source_name": "Gas Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4393167241"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18361,11 +18427,11 @@
         "value_usd": 3450
       },
       "apc_paid": null,
-      "fwci": 1.3651,
+      "fwci": 1.3507,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.76831936,
+        "value": 0.76605839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18679,8 +18745,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -18812,7 +18878,11 @@
         "raw_source_name": "Geomatics, Natural Hazards and Risk",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4295775983"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19615,8 +19685,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -20206,7 +20276,11 @@
         "raw_source_name": "Geo-Bio Interfaces",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4407260658"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21124,14 +21198,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
+          "score": 0.9786999821662903,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -21186,8 +21260,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407260658.pdf",
@@ -21945,7 +22019,11 @@
         "raw_source_name": "Journal of Natural Gas Geoscience",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408699740"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22549,8 +22627,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -23157,7 +23235,11 @@
         "raw_source_name": "Biochemistry and Biophysics Reports",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4410781702"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23972,8 +24054,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410781702.pdf",
@@ -24628,7 +24710,11 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 9,
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -24731,7 +24817,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6917,
+      "fwci": 1.6639,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
@@ -24967,14 +25053,13 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W4407139685",
         "https://openalex.org/W2329021473",
         "https://openalex.org/W4241854385",
         "https://openalex.org/W4294636483",
@@ -24982,7 +25067,7 @@
         "https://openalex.org/W2188088257",
         "https://openalex.org/W4249605102",
         "https://openalex.org/W4396585202",
-        "https://openalex.org/W7206920201",
+        "https://openalex.org/W4309776840",
         "https://openalex.org/W7019250275"
       ],
       "abstract_inverted_index": null,
@@ -24992,7 +25077,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25048,10 +25133,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414526869",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -25156,11 +25249,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2341,
+      "fwci": 3.2253,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85257985,
+        "value": 0.85276074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25457,8 +25550,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -25522,7 +25615,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -25578,10 +25671,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414527071",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -25686,11 +25787,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2341,
+      "fwci": 3.2253,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85257985,
+        "value": 0.85276074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26135,8 +26236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -26188,9 +26289,8 @@
       "related_works": [
         "https://openalex.org/W2164013862",
         "https://openalex.org/W7011308305",
-        "https://openalex.org/W7139369547",
-        "https://openalex.org/W2087179158",
         "https://openalex.org/W2273837354",
+        "https://openalex.org/W2087179158",
         "https://openalex.org/W128690774",
         "https://openalex.org/W2735690591",
         "https://openalex.org/W4255318880",
@@ -26204,7 +26304,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -26235,10 +26335,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -26249,7 +26353,11 @@
         "raw_source_name": "2010 International Computer Engineering Conference (ICENCO)",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2538484312"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -26437,8 +26545,8 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
+        "min": 88,
+        "max": 93
       },
       "biblio": {
         "volume": "9",
@@ -26641,10 +26749,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319808",
+            "host_organization_name": "Institute of Electrical and Electronics Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319808"
+            ],
+            "host_organization_lineage_names": [
+              "Institute of Electrical and Electronics Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -26693,8 +26805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -27231,7 +27343,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -27287,7 +27399,11 @@
         "raw_source_name": "Journal of Coastal Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4405637401"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27511,11 +27627,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2287,
+      "fwci": 0.2264,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.37632661,
+        "value": 0.3733244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27788,17 +27904,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28521,10 +28637,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414526211",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -28629,11 +28753,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2341,
+      "fwci": 3.2253,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85257985,
+        "value": 0.85276074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28961,8 +29085,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -29016,7 +29140,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29061,7 +29185,11 @@
         "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3207158966"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -29623,7 +29751,7 @@
           "doi": null,
           "is_oa": true,
           "landing_page_url": "http://hdl.handle.net/10576/24291",
-          "pdf_url": "http://hdl.handle.net/10576/24291",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306400014",
             "display_name": "Qatar University QSpace (Qatar University)",
@@ -29703,8 +29831,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207158966.pdf",
@@ -30361,7 +30489,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-10-25T00:00:00"
     },
     {
@@ -30406,7 +30534,11 @@
         "raw_source_name": "University of the Future: Re-Imagining Research and Higher Education",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3111727931"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -30873,8 +31005,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111727931.pdf",
@@ -31331,7 +31463,11 @@
         "raw_source_name": "University of the Future: Re-Imagining Research and Higher Education",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3111736389"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -31957,8 +32093,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111736389.pdf",
@@ -31968,7 +32104,7 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W3178596172",
-        "https://openalex.org/W4245896235",
+        "https://openalex.org/W2043130845",
         "https://openalex.org/W2994434476",
         "https://openalex.org/W4362584973",
         "https://openalex.org/W2915361100",
@@ -32550,7 +32686,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-12-21T00:00:00"
     },
     {
@@ -32595,7 +32731,11 @@
         "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3205612556"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -33096,22 +33236,22 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8518999814987183,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.8518999814987183
+          "id": "https://metadata.un.org/sdg/15"
         },
         {
+          "score": 0.7778000235557556,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7778000235557556
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205612556.pdf",
@@ -33833,7 +33973,11 @@
         "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3205848438"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -34704,17 +34848,17 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205848438.pdf",
@@ -35272,7 +35416,11 @@
         "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3207614801"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -35913,8 +36061,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207614801.pdf",
@@ -35929,9 +36077,9 @@
         "https://openalex.org/W3025450731",
         "https://openalex.org/W2025377893",
         "https://openalex.org/W2037855043",
-        "https://openalex.org/W4238395399",
+        "https://openalex.org/W2121701357",
         "https://openalex.org/W4252705079",
-        "https://openalex.org/W4235983779",
+        "https://openalex.org/W2026241695",
         "https://openalex.org/W3196857913"
       ],
       "abstract_inverted_index": {
@@ -36324,7 +36472,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-10-25T00:00:00"
     },
     {
@@ -36370,7 +36518,11 @@
         "raw_source_name": "Goldschmidt2022 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4312290890"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -37012,8 +37164,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312290890.pdf",
@@ -37022,7 +37174,6 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W7123382046",
         "https://openalex.org/W3018222231",
         "https://openalex.org/W3033677812",
         "https://openalex.org/W3209291198",
@@ -37030,12 +37181,11 @@
         "https://openalex.org/W4240141882",
         "https://openalex.org/W131646286",
         "https://openalex.org/W7066683326",
-        "https://openalex.org/W2894660745",
         "https://openalex.org/W4389562329"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-01-04T00:00:00"
     },
     {
@@ -37081,7 +37231,11 @@
         "raw_source_name": "Goldschmidt2022 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4312435439"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -37567,8 +37721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312435439.pdf",
@@ -37636,7 +37790,11 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4389562204"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -38063,8 +38221,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562204.pdf",
@@ -38132,7 +38290,11 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408523099"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -38608,8 +38770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408523099.pdf",
@@ -38626,12 +38788,12 @@
         "https://openalex.org/W4245405488",
         "https://openalex.org/W7165799940",
         "https://openalex.org/W2522314650",
-        "https://openalex.org/W7097839979",
+        "https://openalex.org/W1921415069",
         "https://openalex.org/W3029110667"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-03-18T00:00:00"
     },
     {
@@ -38687,10 +38849,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414525727",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -39162,8 +39332,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -39236,7 +39406,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -39292,10 +39462,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414526823",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -39843,8 +40021,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -39897,7 +40075,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -39953,10 +40131,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414527380",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -40507,8 +40693,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -40552,19 +40738,18 @@
       ],
       "related_works": [
         "https://openalex.org/W4414526869",
-        "https://openalex.org/W4390912696",
+        "https://openalex.org/W4410842440",
         "https://openalex.org/W4414526823",
         "https://openalex.org/W4414525727",
         "https://openalex.org/W7129221447",
         "https://openalex.org/W2746142737",
         "https://openalex.org/W2044475616",
-        "https://openalex.org/W4410842440",
         "https://openalex.org/W2990128836",
         "https://openalex.org/W4411431705"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40620,10 +40805,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414551392",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -41135,8 +41328,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -41216,7 +41409,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-09-27T00:00:00"
     },
     {
@@ -41272,10 +41465,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414551442",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -41817,8 +42018,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -41916,7 +42117,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41972,10 +42173,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4414525693",
-        "display_name": "Geological Evolution of Qatar and the Arabian Peninsula"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4414525693",
+          "display_name": "Geological Evolution of Qatar and the Arabian Peninsula",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4414551901",
+        "https://openalex.org/W4414525693"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -42384,8 +42593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -42407,7 +42616,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

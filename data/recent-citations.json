@@ -1,259 +1,107 @@
 [
   {
-    "workId": "https://openalex.org/W7203945740",
-    "doi": "https://doi.org/10.1016/j.acags.2026.100397",
-    "title": "Explainable artificial intelligence using convolutional neural networks for sedimentary structure classification",
-    "venue": "Applied Computing and Geosciences",
-    "publicationDate": "2026-08-21",
-    "year": 2026,
-    "allAuthors": [
-      "Ammar J. Abdlmutalib",
-      "Korhan Ayrancı",
-      "Umair bin Waheed",
-      "James A. MacEachern"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 1
-  },
-  {
-    "workId": "https://openalex.org/W7162288164",
-    "doi": "https://doi.org/10.1016/j.mineng.2026.110395",
-    "title": "Review of global lithium landscape: deposits, extraction technologies, environmental and economic considerations, and the prospects in Saudi Arabia",
-    "venue": "Minerals Engineering",
-    "publicationDate": "2026-05-25",
-    "year": 2026,
-    "allAuthors": [
-      "Khaled Ahmed Mohammed Al-Raeeini",
-      "Murtada Saleh Aljawad",
-      "Abduljamiu Olalekan Amao",
-      "Muhammad Zaka Emad",
-      "Basem Zoheir"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 1
-  },
-  {
-    "workId": "https://openalex.org/W4286265175",
-    "doi": "https://doi.org/10.1016/j.asej.2022.101894",
-    "title": "Sandstone groundwater salinization modelling using physicochemical variables in Southern Saudi Arabia: Application of novel data intelligent algorithms",
-    "venue": "Ain Shams Engineering Journal",
-    "publicationDate": "2022-07-20",
-    "year": 2022,
-    "allAuthors": [
-      "Sani Isah Abba",
-      "Mohammed Benaafi",
-      "Abdullahi Garba Usman",
-      "Isam H. Aljundi"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 48
-  },
-  {
-    "workId": "https://openalex.org/W4387404935",
-    "doi": "https://doi.org/10.1007/s12371-023-00879-w",
-    "title": "Jabal Al-Qarah, Saudi Arabia—from a Local Tourist Spot and Cultural World Heritage to a Geoheritage Site of Possible Global Relevance",
-    "venue": "Geoheritage",
-    "publicationDate": "2023-10-05",
+    "workId": "https://openalex.org/W4388818709",
+    "doi": "https://doi.org/10.1038/s41598-023-47681-w",
+    "title": "Experimental and digital investigations of heterogeneity in lower cretaceous carbonate reservoir using fractal and multifractal concepts",
+    "venue": "Scientific Reports",
+    "publicationDate": "2023-11-20",
     "year": 2023,
     "allAuthors": [
-      "Subhajit Sen",
-      "Piotr Migoń",
-      "Ali Hassan Almusabeh",
-      "Mohamed Omar Abouelresh"
+      "Mohamed Soufiane Jouini",
+      "Abdulquadri O. Alabere",
+      "Mohammad Alsuwaidi",
+      "Sadoon Morad",
+      "Fateh Bouchaala",
+      "Osama A. Al Jallad"
     ],
-    "addedAt": "2026-11-14",
+    "addedAt": "2026-11-15",
     "citedByCount": 1,
-    "citationsTotal": 22
+    "citationsTotal": 40
   },
   {
-    "workId": "https://openalex.org/W2047038378",
-    "doi": "https://doi.org/10.1016/j.orggeochem.2009.10.003",
-    "title": "Occurrence of retene in upper Silurian–lower Devonian sediments from North Africa: Origin and implications",
-    "venue": "Organic Geochemistry",
-    "publicationDate": "2009-10-15",
-    "year": 2009,
+    "workId": "https://openalex.org/W4407864579",
+    "doi": "https://doi.org/10.1016/j.palaeo.2025.112838",
+    "title": "Cenomanian-Turonian astronomical calibration and orbital forcing in Central Tunisia",
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "publicationDate": "2025-02-23",
+    "year": 2025,
     "allAuthors": [
-      "Maria‐Fernanda Romero‐Sarmiento",
-      "Armelle Riboulleau",
-      "Marco Vecoli",
-      "Gerard J M Versteegh"
+      "Ahmed Abdeldaim",
+      "Sherif Farouk",
+      "Wolfgang Ruebsam",
+      "Zaineb Elamri",
+      "Mohammad Alsuwaidi",
+      "Khaled M. Al-Kahtany"
     ],
-    "addedAt": "2026-11-14",
+    "addedAt": "2026-11-15",
     "citedByCount": 1,
-    "citationsTotal": 50
+    "citationsTotal": 8
   },
   {
-    "workId": "https://openalex.org/W4400871393",
-    "doi": "https://doi.org/10.1016/j.geoen.2024.213152",
-    "title": "Bridging the gap: Integrating static and dynamic data for improved permeability modeling and super k zone detection in vuggy reservoirs",
-    "venue": "Geoenergy Science and Engineering",
-    "publicationDate": "2024-07-22",
-    "year": 2024,
-    "allAuthors": [
-      "Jean Carlos Rangel Gavidia",
-      "SeyedMehdi Mohammadizadeh",
-      "Guilherme Furlan Chinelatto",
-      "Mateus Basso",
-      "João Paulo da Ponte Souza",
-      "L. Portillo",
-      "Hassan A. Eltom",
-      "Alexandre Campane Vidal",
-      "Robert H. Goldstein"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 39
-  },
-  {
-    "workId": "https://openalex.org/W7118183296",
-    "doi": "https://doi.org/10.3390/hydrology13010018",
-    "title": "Flood Hazard Assessment Under Subsidence-Influenced Terrain Using Deformation-Adjusted DEM in an Oil and Gas Field",
-    "venue": "Hydrology",
-    "publicationDate": "2026-01-04",
-    "year": 2026,
-    "allAuthors": [
-      "Mohammed Al Sulaimani",
-      "Rifaat M. Abdalla",
-      "Mohammed El-Diasty",
-      "Amani Humaid Al Abri",
-      "Mohamed A. K. El‐Ghali",
-      "Ahmed Tabook"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 1
-  },
-  {
-    "workId": "https://openalex.org/W2797614480",
-    "doi": "https://doi.org/10.1038/s41559-018-0518-2",
-    "title": "Homo sapiens in Arabia by 85,000 years ago",
-    "venue": "Nature Ecology & Evolution",
-    "publicationDate": "2018-04-09",
-    "year": 2018,
-    "allAuthors": [
-      "Huw S. Groucutt",
-      "Rainer Grün",
-      "Iyad S. Zalmout",
-      "Nick Drake",
-      "Simon James Armitage",
-      "Ian Candy",
-      "Richard Clark‐Wilson",
-      "Julien Louys",
-      "Paul S. Breeze",
-      "Mathieu Duval",
-      "Laura Tabitha Buck",
-      "Tracy L. Kivell",
-      "Emma Pomeroy",
-      "Nicholas B. Stephens",
-      "Jay T. Stock",
-      "Mathew Stewart",
-      "Gilbert James Price",
-      "Leslie P. J. Kinsley",
-      "Wing Wai Sung",
-      "Abdullah Alsharekh",
-      "Abdulaziz Al-Omari",
-      "Muhammad Zahir",
-      "Abdullah M. Memesh",
-      "Ammar J. Abdulshakoor",
-      "Abdu M. Al-Masary",
-      "Ahmed A. Bahameem",
-      "Khaled M. S. Al Murayyi",
-      "Badr Zahrani",
-      "Eleanor M. L. Scerri",
-      "Michael D. Petraglia"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 2,
-    "citationsTotal": 193
-  },
-  {
-    "workId": "https://openalex.org/W2591900046",
-    "doi": "https://doi.org/10.1016/j.ara.2017.02.002",
-    "title": "Prehistory and palaeoenvironments of the western Nefud Desert, Saudi Arabia",
-    "venue": "Archaeological Research in Asia",
-    "publicationDate": "2017-03-08",
-    "year": 2017,
-    "allAuthors": [
-      "Paul S. Breeze",
-      "Huw S. Groucutt",
-      "Nick Drake",
-      "Julien Louys",
-      "Eleanor M. L. Scerri",
-      "Simon James Armitage",
-      "Iyad S. Zalmout",
-      "Abdullah M. Memesh",
-      "Mohammed A. Haptari",
-      "Saleh A. Soubhi",
-      "Adel H. Matari",
-      "Muhammad Zahir",
-      "Abdulaziz Al-Omari",
-      "Abdullah Alsharekh",
-      "Michael D. Petraglia"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 37
-  },
-  {
-    "workId": "https://openalex.org/W2400592313",
-    "doi": "https://doi.org/10.1155/2016/1259094",
-    "title": "Morphological Analysis of White Cement Clinker Minerals: Discussion on the Crystallization-Related Defects",
-    "venue": "International Journal of Analytical Chemistry",
-    "publicationDate": "2016-01-01",
-    "year": 2016,
-    "allAuthors": [
-      "Mohamed Benmohamed",
-      "Rabah Alouani",
-      "Amel Jmayai",
-      "Abdesslem Ben Haj Amara",
-      "Hafsia Ben Rhaiem"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 32
-  },
-  {
-    "workId": "https://openalex.org/W2422944524",
-    "doi": "https://doi.org/10.1007/s12517-016-2548-x",
-    "title": "Performance of seismic arrays in the presence of weathering layer variations",
-    "venue": "Arabian Journal of Geosciences",
-    "publicationDate": "2016-06-01",
-    "year": 2016,
-    "allAuthors": [
-      "Jubran Akram",
-      "Abdullatif Abdulrahman Al-Shuhail"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 3
-  },
-  {
-    "workId": "https://openalex.org/W3081524168",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104687",
-    "title": "Fully automated carbonate petrography using deep convolutional neural networks",
+    "workId": "https://openalex.org/W4410301689",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2025.107463",
+    "title": "Cyclostratigraphy of the Cenomanian-Turonian boundary in Jordan",
     "venue": "Marine and Petroleum Geology",
-    "publicationDate": "2020-09-02",
+    "publicationDate": "2025-05-12",
+    "year": 2025,
+    "allAuthors": [
+      "Sherif Farouk",
+      "Ahmed Abdeldaim",
+      "Fayez Ahmad",
+      "Wolfgang Ruebsam",
+      "Mohammad Alsuwaidi",
+      "Khaled M. Al-Kahtany"
+    ],
+    "addedAt": "2026-11-15",
+    "citedByCount": 1,
+    "citationsTotal": 5
+  },
+  {
+    "workId": "https://openalex.org/W2997589548",
+    "doi": "https://doi.org/10.1016/j.petrol.2020.106923",
+    "title": "Carbon dioxide EGR and sequestration in mature and immature shale: Adsorption study",
+    "venue": "Journal of Petroleum Science and Engineering",
+    "publicationDate": "2020-01-07",
     "year": 2020,
     "allAuthors": [
-      "Ardiansyah Koeshidayatullah",
-      "Michele Morsilli",
-      "Daniel J. Lehrmann",
-      "Khalid A. Al-Ramadan",
-      "Jonathan L. Payne"
+      "Mohamed Mahmoud",
+      "Ahmed Hamza",
+      "Ibnelwlaeed A. Hussein",
+      "Mohammed Eliebid",
+      "Muhammad Shahzad Kamal",
+      "Mohamed Omar Abouelresh",
+      "REYAD AWWAD SHAWABKEH",
+      "Mohammed Jaber Al-Marri"
     ],
-    "addedAt": "2026-11-14",
+    "addedAt": "2026-11-15",
     "citedByCount": 1,
-    "citationsTotal": 101
+    "citationsTotal": 29
   },
   {
-    "workId": "https://openalex.org/W3025546462",
-    "doi": "https://doi.org/10.1016/j.epsl.2020.116291",
-    "title": "Origin and evolution of fault-controlled hydrothermal dolomitization fronts: A new insight",
-    "venue": "Earth and Planetary Science Letters",
-    "publicationDate": "2020-05-12",
+    "workId": "https://openalex.org/W4394996795",
+    "doi": "https://doi.org/10.1016/j.jece.2024.112847",
+    "title": "Geomechanical modeling of CO2 sequestration: A review focused on CO2 injection and monitoring",
+    "venue": "Journal of environmental chemical engineering",
+    "publicationDate": "2024-04-22",
+    "year": 2024,
+    "allAuthors": [
+      "Sikandar Khan",
+      "Yehia Abel Khulief",
+      "Ruben Juanes",
+      "Salem Bashmal",
+      "Muhammad Usman",
+      "Abdullatif Abdulrahman Al-Shuhail"
+    ],
+    "addedAt": "2026-11-15",
+    "citedByCount": 1,
+    "citationsTotal": 59
+  },
+  {
+    "workId": "https://openalex.org/W3010966532",
+    "doi": "https://doi.org/10.1111/sed.12729",
+    "title": "Evaluating new fault‐controlled hydrothermal dolomitization models: Insights from the Cambrian Dolomite, Western Canadian Sedimentary Basin",
+    "venue": "Sedimentology",
+    "publicationDate": "2020-03-11",
     "year": 2020,
     "allAuthors": [
       "Ardiansyah Koeshidayatullah",
@@ -261,102 +109,78 @@
       "Jack Stacey",
       "Peter Koenraad Swart",
       "Adrian Joseph Boyce",
+      "Hamish A. Robertson",
+      "Fiona Whitaker",
       "Cathy Hollis"
     ],
-    "addedAt": "2026-11-14",
+    "addedAt": "2026-11-15",
     "citedByCount": 1,
-    "citationsTotal": 84
+    "citationsTotal": 99
   },
   {
-    "workId": "https://openalex.org/W4412083068",
-    "doi": "https://doi.org/10.1007/s10661-025-14348-0",
-    "title": "Long-term trends in heavy metal contamination of marine sediments in the Arabian Gulf: A meta-analysis",
-    "venue": "Environmental Monitoring and Assessment",
-    "publicationDate": "2025-07-08",
+    "workId": "https://openalex.org/W4406872080",
+    "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
+    "title": "Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost",
+    "venue": "Carbon Capture Science & Technology",
+    "publicationDate": "2025-01-27",
     "year": 2025,
     "allAuthors": [
-      "Selvara Swetha",
-      "S. Veerasingam",
-      "Sankaran Rajendran",
-      "Hassan Hassan",
-      "Muhammad Zia U. R. Rahman Hashmi",
-      "Hamood Abdulla Alsaadi",
-      "Nelson Guillermo Rangel-Buitrago",
-      "Fadhil Sadooni"
+      "Feras Rowaihy",
+      "Ali Hamieh",
+      "Naser A. Odeh",
+      "Mohamad Issa Hejazi",
+      "Mohammed Al-Juaied",
+      "Abdulkader M. Afifi",
+      "Hussein Hoteit"
     ],
-    "addedAt": "2026-11-14",
+    "addedAt": "2026-11-15",
     "citedByCount": 1,
-    "citationsTotal": 34
+    "citationsTotal": 23
   },
   {
-    "workId": "https://openalex.org/W4410781702",
-    "doi": "https://doi.org/10.1016/j.bbrep.2025.102064",
-    "title": "Characterizing carbonate mineral-forming bacterial strains and their carbonic anhydrase activities in two coastal sabkhas",
-    "venue": "Biochemistry and Biophysics Reports",
-    "publicationDate": "2025-05-27",
-    "year": 2025,
+    "workId": "https://openalex.org/W2922003475",
+    "doi": "https://doi.org/10.2113/geoarabia1503155",
+    "title": "Orbital-forcing glacio-eustasy: A sequence-stratigraphic time scale",
+    "venue": "GeoArabia",
+    "publicationDate": "2010-07-01",
+    "year": 2010,
     "allAuthors": [
-      "Khaled Naja",
-      "Sara H. Al-Hadidi",
-      "Hadil Elsayed",
-      "Jassim Abdulla A Al-Khayat",
-      "Fadhil Sadooni",
-      "Hamad Al-Saad Al-Kuwari",
-      "Zulfa Ali Al Disi"
+      "Robley K. Matthews",
+      "Moujahed I. Al-Husseini"
     ],
-    "addedAt": "2026-11-14",
+    "addedAt": "2026-11-15",
     "citedByCount": 1,
-    "citationsTotal": 3
+    "citationsTotal": 31
   },
   {
-    "workId": "https://openalex.org/W4407066027",
-    "doi": "https://doi.org/10.1190/tle44020142.1",
-    "title": "Intelligent seismic workflows: The power of generative AI and language models",
-    "venue": "The Leading Edge",
-    "publicationDate": "2025-02-01",
-    "year": 2025,
+    "workId": "https://openalex.org/W2138821921",
+    "doi": "https://doi.org/10.1306/04211009178",
+    "title": "The impact of diagenesis on the heterogeneity of sandstone reservoirs: A review of the role of depositional facies and sequence stratigraphy",
+    "venue": "AAPG Bulletin",
+    "publicationDate": "2010-07-20",
+    "year": 2010,
     "allAuthors": [
-      "Rayan Kanfar",
-      "Abdulmohsen Alali",
-      "Thierry-Laurent D. Tonellot",
-      "Hussain Salim",
-      "Oleg Ovcharenko"
+      "Sadoon Morad",
+      "Khalid A. Al-Ramadan",
+      "Marcelo Ketzer",
+      "Luiz Fernando De Ros"
     ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 5
+    "addedAt": "2026-11-15",
+    "citedByCount": 2,
+    "citationsTotal": 774
   },
   {
-    "workId": "https://openalex.org/W2049128482",
-    "doi": "https://doi.org/10.2516/ogst:1996049",
-    "title": "Sedimentary Basins of the Republic of Yemen : Their Structural Evolution and Geological Characteristics",
-    "venue": "Revue de l Institut Français du Pétrole",
-    "publicationDate": "1996-11-01",
-    "year": 1996,
+    "workId": "https://openalex.org/W2007218904",
+    "doi": "https://doi.org/10.1016/j.revpalbo.2014.08.014",
+    "title": "Lithostratigraphy and depositional history of Upper Ordovician and lowermost Silurian sediments recovered from the Qusaiba-1 shallow core hole, Qasim region, central Saudi Arabia",
+    "venue": "Review of Palaeobotany and Palynology",
+    "publicationDate": "2014-09-16",
+    "year": 2014,
     "allAuthors": [
-      "Z. R. Beydoun",
-      "Mustafa Abdullatif As-Saruri",
-      "Rasheed Baraba"
+      "John Melvin"
     ],
-    "addedAt": "2026-11-14",
+    "addedAt": "2026-11-15",
     "citedByCount": 1,
-    "citationsTotal": 88
-  },
-  {
-    "workId": "https://openalex.org/W2008659547",
-    "doi": "https://doi.org/10.1007/bf02539736",
-    "title": "Anisian (middle triassic) buildups of the Northern Dolomites (Italy): The recovery of reef communities after the permian/triassic crisis",
-    "venue": "Facies",
-    "publicationDate": "1993-12-01",
-    "year": 1993,
-    "allAuthors": [
-      "Baba Senowbari‐Daryan",
-      "Rainer Zühlke",
-      "Thilo Bechstädt",
-      "Erik Flügel"
-    ],
-    "addedAt": "2026-11-14",
-    "citedByCount": 1,
-    "citationsTotal": 128
+    "citationsTotal": 33
   }
 ]

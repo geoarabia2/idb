@@ -164,7 +164,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000361,
+        "value": 0.000036,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -440,7 +440,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5055315910",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5055315910",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -492,7 +492,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2944267028"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -533,11 +537,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1571,
+      "fwci": 1.1408,
       "has_fulltext": true,
       "cited_by_count": 134,
       "citation_normalized_percentile": {
-        "value": 0.75679663,
+        "value": 0.75337187,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -903,8 +907,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2944267028.pdf",
@@ -963,11 +967,11 @@
         "https://openalex.org/W4285713616",
         "https://openalex.org/W2195678586",
         "https://openalex.org/W2989098440",
-        "https://openalex.org/W7167172319",
+        "https://openalex.org/W7056975950",
         "https://openalex.org/W3023908258",
         "https://openalex.org/W4295035066",
         "https://openalex.org/W2809048657",
-        "https://openalex.org/W7167174652"
+        "https://openalex.org/W7067074935"
       ],
       "abstract_inverted_index": {
         "ABSTRACT": [
@@ -1913,7 +1917,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-05-16T00:00:00"
     },
     {
@@ -1973,7 +1977,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1978905410"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2084,11 +2092,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 5.0674,
+      "fwci": 5.0508,
       "has_fulltext": false,
       "cited_by_count": 95,
       "citation_normalized_percentile": {
-        "value": 0.94297304,
+        "value": 0.94133142,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2326,8 +2334,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -2355,7 +2363,7 @@
         "https://openalex.org/W134648490",
         "https://openalex.org/W1997589020",
         "https://openalex.org/W647003414",
-        "https://openalex.org/W3152403234",
+        "https://openalex.org/W205489788",
         "https://openalex.org/W2031690282",
         "https://openalex.org/W1527007538",
         "https://openalex.org/W3017301102",
@@ -2424,7 +2432,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2475,7 +2483,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2954735392"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2920,8 +2932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -4072,7 +4084,11 @@
         "raw_source_name": "Volumina Jurassica",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1565182374"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -4111,11 +4127,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.828,
+      "fwci": 0.8281,
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.66756659,
+        "value": 0.66762642,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4450,8 +4466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -4493,7 +4509,7 @@
         "https://openalex.org/W2195678586",
         "https://openalex.org/W3023908258",
         "https://openalex.org/W2946023000",
-        "https://openalex.org/W3077796930",
+        "https://openalex.org/W7148398267",
         "https://openalex.org/W2594660138"
       ],
       "abstract_inverted_index": {
@@ -5239,7 +5255,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5300,7 +5316,11 @@
         "raw_source_name": "Global and Planetary Change",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3125192756"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6053,13 +6073,13 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 1,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 1
         },
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
@@ -6082,8 +6102,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -6314,7 +6334,11 @@
         "raw_source_name": "Micropaleontology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4295035066"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6355,11 +6379,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9201,
+      "fwci": 0.9137,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.67866255,
+        "value": 0.67662566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6716,8 +6740,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6731,7 +6755,7 @@
         "https://openalex.org/W2195678586",
         "https://openalex.org/W650689462",
         "https://openalex.org/W4285713616",
-        "https://openalex.org/W7036187171",
+        "https://openalex.org/W4300838955",
         "https://openalex.org/W2897366742"
       ],
       "abstract_inverted_index": {
@@ -7485,7 +7509,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-09-09T00:00:00"
     },
     {
@@ -7536,7 +7560,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2286584084"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7909,16 +7937,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -8749,7 +8777,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2956369912"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8814,11 +8846,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2828,
+      "fwci": 3.297,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.92679901,
+        "value": 0.91977939,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9177,8 +9209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -9241,7 +9273,7 @@
       "related_works": [
         "https://openalex.org/W3119359546",
         "https://openalex.org/W2589678812",
-        "https://openalex.org/W2063670076",
+        "https://openalex.org/W1548783368",
         "https://openalex.org/W2324047992",
         "https://openalex.org/W2073254592",
         "https://openalex.org/W2000395061",
@@ -10157,7 +10189,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-07-23T00:00:00"
     },
     {
@@ -10208,7 +10240,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2984433358"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10249,11 +10285,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1907,
+      "fwci": 0.1888,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.41915326,
+        "value": 0.41161536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10551,8 +10587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2984433358.pdf",
@@ -11031,7 +11067,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1531273367"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11386,8 +11426,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1531273367.pdf",
@@ -12712,10 +12752,18 @@
         "raw_source_name": "Recent Developments in Applied Biostratigraphy",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W2172067920",
-        "display_name": "Recent Developments in Applied Biostratigraphy"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W2172067920",
+          "display_name": "Recent Developments in Applied Biostratigraphy",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2980927449",
+        "https://openalex.org/W2172067920"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -13014,8 +13062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13421,7 +13469,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-10-25T00:00:00"
     },
     {
@@ -13483,7 +13531,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1972254595"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13881,16 +13933,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -14017,7 +14069,11 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2079191931"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14086,11 +14142,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 0.6748,
+      "fwci": 0.6861,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.64354528,
+        "value": 0.64818682,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14402,8 +14458,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -14416,8 +14472,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -14468,7 +14524,6 @@
         "https://openalex.org/W2956369912",
         "https://openalex.org/W2327500306",
         "https://openalex.org/W1994549122",
-        "https://openalex.org/W1987139917",
         "https://openalex.org/W2589678812"
       ],
       "abstract_inverted_index": null,
@@ -14490,7 +14545,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14539,10 +14594,18 @@
         "raw_source_name": "Landmarks in Foraminiferal Micropalaeontology",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W2172620601",
-        "display_name": "Landmarks in Foraminiferal Micropalaeontology"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W2172620601",
+          "display_name": "Landmarks in Foraminiferal Micropalaeontology: History and Development",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2764087124",
+        "https://openalex.org/W2172620601"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -14583,11 +14646,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3561,
+      "fwci": 5.4007,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96130046,
+        "value": 0.95514487,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14843,8 +14906,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -15316,7 +15379,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -15361,7 +15424,11 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3021168380"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -15726,8 +15793,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16340,7 +16407,11 @@
         "raw_source_name": "Micropaleontology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4288831739"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16381,11 +16452,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1548,
+      "fwci": 0.1543,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.37722612,
+        "value": 0.37559194,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16658,16 +16729,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16676,7 +16747,6 @@
         "https://openalex.org/W2891403346",
         "https://openalex.org/W2022021220",
         "https://openalex.org/W3002311488",
-        "https://openalex.org/W7015109539",
         "https://openalex.org/W2099944320",
         "https://openalex.org/W4378217769",
         "https://openalex.org/W1969142187",
@@ -17407,7 +17477,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-07-30T00:00:00"
     },
     {
@@ -17441,11 +17511,13 @@
           "host_organization_name": "CRC Press",
           "host_organization_lineage": [
             "https://openalex.org/P4310320584",
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
             "CRC Press",
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "ebook platform"
         },
@@ -17457,10 +17529,18 @@
         "raw_source_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4392894987",
-        "display_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4392894987",
+          "display_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4392895071",
+        "https://openalex.org/W4392894987"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -17815,11 +17895,13 @@
             "host_organization_name": "CRC Press",
             "host_organization_lineage": [
               "https://openalex.org/P4310320584",
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
               "CRC Press",
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "ebook platform"
           },
@@ -17838,8 +17920,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18319,7 +18401,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-03-18T00:00:00"
     },
     {
@@ -18381,7 +18463,11 @@
         "raw_source_name": "Geologia Croatica",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2106561307"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18862,37 +18948,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:hrcak.srce.hr:3686",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://hrcak.srce.hr/3686",
-          "pdf_url": "http://hrcak.srce.hr/3686",
-          "source": {
-            "id": "https://openalex.org/S4306400071",
-            "display_name": "University of Zagreb University Computing Centre (SRCE)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I181343428",
-            "host_organization_name": "University of Zagreb",
-            "host_organization_lineage": [
-              "https://openalex.org/I181343428"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Geologia Croatica",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
           "id": "pmh:oai:doaj.org/article:5c679785733f4d3cb009312f96ccf639",
           "doi": null,
           "is_oa": true,
@@ -18920,6 +18975,37 @@
           "is_published": false,
           "raw_source_name": "Geologia Croatica, Vol 57, Iss 1, Pp 67-71 (2004)",
           "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:hrcak.srce.hr:3686",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://hrcak.srce.hr/3686",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400071",
+            "display_name": "University of Zagreb University Computing Centre (SRCE)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I181343428",
+            "host_organization_name": "University of Zagreb",
+            "host_organization_lineage": [
+              "https://openalex.org/I181343428"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geologia Croatica",
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
@@ -18979,8 +19065,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2106561307.pdf",
@@ -19294,7 +19380,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19343,7 +19429,11 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2006020514"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -19744,8 +19834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20137,7 +20227,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2309143216"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -20496,16 +20590,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 1,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20513,7 +20607,7 @@
       "related_works": [
         "https://openalex.org/W2162652774",
         "https://openalex.org/W2258293659",
-        "https://openalex.org/W2913885959",
+        "https://openalex.org/W56290118",
         "https://openalex.org/W2184014542",
         "https://openalex.org/W2062472070",
         "https://openalex.org/W2887733756",
@@ -20524,7 +20618,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20575,7 +20669,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2987449810"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21001,8 +21099,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -21418,7 +21516,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3021857390"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -21750,8 +21852,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22340,7 +22442,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3022293227"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -22694,8 +22800,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23240,7 +23346,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3023468867"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -23628,8 +23738,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24177,7 +24287,11 @@
         "raw_source_name": null,
         "raw_type": "peer-review"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3108917045"
+      ],
+      "child_works_count": 0,
       "type": "peer-review",
       "is_traditional": false,
       "indexed_in": [
@@ -24419,8 +24533,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24485,7 +24599,11 @@
         "raw_source_name": "Volumina Jurassica",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W862223865"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -24767,8 +24885,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24783,11 +24901,11 @@
         "https://openalex.org/W3134864009",
         "https://openalex.org/W3118359703",
         "https://openalex.org/W3138456400",
-        "https://openalex.org/W4246951692"
+        "https://openalex.org/W2159708894"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     }
   ]

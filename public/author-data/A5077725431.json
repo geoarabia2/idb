@@ -588,7 +588,11 @@
         "raw_source_name": null,
         "raw_type": "edited-book"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2282472653"
+      ],
+      "child_works_count": 10,
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -953,7 +957,6 @@
       "related_works": [
         "https://openalex.org/W2022842844",
         "https://openalex.org/W2973294836",
-        "https://openalex.org/W207135715",
         "https://openalex.org/W1599080018",
         "https://openalex.org/W4408686309",
         "https://openalex.org/W4312606440",
@@ -1674,7 +1677,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1723,10 +1726,18 @@
         "raw_source_name": "Foreland Basins and Fold Belts",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W1573262718",
-        "display_name": "Foreland Basins and Fold Belts"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W1573262718",
+          "display_name": "Foreland Basins and Fold Belts",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1543099629",
+        "https://openalex.org/W1573262718"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -1795,11 +1806,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7194,
+      "fwci": 1.7158,
       "has_fulltext": false,
       "cited_by_count": 211,
       "citation_normalized_percentile": {
-        "value": 0.80922432,
+        "value": 0.80882353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2192,7 +2203,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2255,7 +2266,11 @@
         "raw_source_name": "The Geographical Journal",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2321939636"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2312,11 +2327,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 15.3948,
+      "fwci": 15.2607,
       "has_fulltext": false,
       "cited_by_count": 169,
       "citation_normalized_percentile": {
-        "value": 0.99464525,
+        "value": 0.99432892,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2569,8 +2584,7 @@
         "https://openalex.org/W1987197011",
         "https://openalex.org/W2326859350",
         "https://openalex.org/W2321027416",
-        "https://openalex.org/W4246194870",
-        "https://openalex.org/W2025785710",
+        "https://openalex.org/W2129205371",
         "https://openalex.org/W1898416375",
         "https://openalex.org/W2230940251",
         "https://openalex.org/W1496855129",
@@ -2632,7 +2646,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2691,7 +2705,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2122379499"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2807,16 +2825,16 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 3.7798,
+      "fwci": 3.7406,
       "has_fulltext": false,
       "cited_by_count": 105,
       "citation_normalized_percentile": {
-        "value": 0.92030317,
+        "value": 0.91020882,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -3161,7 +3179,7 @@
         "https://openalex.org/W134648490",
         "https://openalex.org/W2321929226",
         "https://openalex.org/W1978905410",
-        "https://openalex.org/W3152403234",
+        "https://openalex.org/W205489788",
         "https://openalex.org/W33769580",
         "https://openalex.org/W3169602749",
         "https://openalex.org/W2078711059",
@@ -3798,7 +3816,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3858,7 +3876,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1978905410"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3969,11 +3991,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 5.0674,
+      "fwci": 5.0508,
       "has_fulltext": false,
       "cited_by_count": 95,
       "citation_normalized_percentile": {
-        "value": 0.94297304,
+        "value": 0.94133142,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4240,7 +4262,7 @@
         "https://openalex.org/W134648490",
         "https://openalex.org/W1997589020",
         "https://openalex.org/W647003414",
-        "https://openalex.org/W3152403234",
+        "https://openalex.org/W205489788",
         "https://openalex.org/W2031690282",
         "https://openalex.org/W1527007538",
         "https://openalex.org/W3017301102",
@@ -4309,7 +4331,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4361,7 +4383,11 @@
         "raw_source_name": "Quarterly Journal of the Geological Society of London",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2147650435"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5366,7 +5392,11 @@
         "raw_source_name": "Revue de l'Institut Français du Pétrole",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2049128482"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5494,11 +5524,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8234,
+      "fwci": 0.8239,
       "has_fulltext": false,
       "cited_by_count": 88,
       "citation_normalized_percentile": {
-        "value": 0.75065617,
+        "value": 0.75081967,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5868,7 +5898,6 @@
         "https://openalex.org/W323717955",
         "https://openalex.org/W2084074194",
         "https://openalex.org/W3194975745",
-        "https://openalex.org/W2503812676",
         "https://openalex.org/W2016824202",
         "https://openalex.org/W2070538259",
         "https://openalex.org/W3143796486"
@@ -6860,7 +6889,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6914,7 +6943,11 @@
         "raw_source_name": "Revue de l'Institut Français du Pétrole",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2022842844"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6985,11 +7018,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2051,
+      "fwci": 3.2086,
       "has_fulltext": false,
       "cited_by_count": 81,
       "citation_normalized_percentile": {
-        "value": 0.89662028,
+        "value": 0.89674857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7385,7 +7418,6 @@
       "related_works": [
         "https://openalex.org/W2282472653",
         "https://openalex.org/W2973294836",
-        "https://openalex.org/W207135715",
         "https://openalex.org/W1599080018",
         "https://openalex.org/W29339933",
         "https://openalex.org/W2268872210",
@@ -7798,7 +7830,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7857,7 +7889,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2071984317"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7943,16 +7979,16 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 7.7036,
+      "fwci": 7.6304,
       "has_fulltext": false,
       "cited_by_count": 80,
       "citation_normalized_percentile": {
-        "value": 0.97110754,
+        "value": 0.9689441,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -8338,7 +8374,7 @@
       "related_works": [
         "https://openalex.org/W2031690282",
         "https://openalex.org/W2131601849",
-        "https://openalex.org/W3152403234",
+        "https://openalex.org/W205489788",
         "https://openalex.org/W1973778260",
         "https://openalex.org/W2077019434",
         "https://openalex.org/W2102498293",
@@ -9256,7 +9292,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9316,7 +9352,11 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2973294836"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9355,11 +9395,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0665,
+      "fwci": 1.076,
       "has_fulltext": true,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.73282658,
+        "value": 0.73133903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9649,14 +9689,12 @@
       "related_works": [
         "https://openalex.org/W2022842844",
         "https://openalex.org/W2282472653",
-        "https://openalex.org/W207135715",
         "https://openalex.org/W1599080018",
         "https://openalex.org/W435123580",
         "https://openalex.org/W4408686309",
         "https://openalex.org/W6959587393",
         "https://openalex.org/W2129205371",
-        "https://openalex.org/W2025770149",
-        "https://openalex.org/W174839378"
+        "https://openalex.org/W2025770149"
       ],
       "abstract_inverted_index": {
         "43": [
@@ -10187,7 +10225,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-09-26T00:00:00"
     },
     {
@@ -10246,7 +10284,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2104430377"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10355,11 +10397,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.7211,
+      "fwci": 0.7128,
       "has_fulltext": false,
       "cited_by_count": 56,
       "citation_normalized_percentile": {
-        "value": 0.72350125,
+        "value": 0.71986143,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11453,7 +11495,11 @@
         "raw_source_name": "Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2045382172"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11516,16 +11562,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3203,
+      "fwci": 3.3097,
       "has_fulltext": false,
       "cited_by_count": 106,
       "citation_normalized_percentile": {
-        "value": 0.92182802,
+        "value": 0.91631547,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -11802,7 +11848,7 @@
       "related_works": [
         "https://openalex.org/W4392758376",
         "https://openalex.org/W3013498580",
-        "https://openalex.org/W3152403234",
+        "https://openalex.org/W205489788",
         "https://openalex.org/W1966704727",
         "https://openalex.org/W2136905055",
         "https://openalex.org/W4416146786",
@@ -12604,7 +12650,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12664,7 +12710,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2104962054"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13711,7 +13761,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2147400866"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14270,7 +14324,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2031815022"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14333,11 +14391,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2436,
+      "fwci": 1.2444,
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.76014866,
+        "value": 0.76028571,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14657,7 +14715,7 @@
       ],
       "related_works": [
         "https://openalex.org/W2075781751",
-        "https://openalex.org/W2266360584",
+        "https://openalex.org/W7147147934",
         "https://openalex.org/W2048179840",
         "https://openalex.org/W2095063420",
         "https://openalex.org/W2016219895",
@@ -15406,7 +15464,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15466,7 +15524,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1973778260"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15572,11 +15634,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.6273,
+      "fwci": 0.6234,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.71096269,
+        "value": 0.71020882,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15937,7 +15999,7 @@
         "https://openalex.org/W2131601849",
         "https://openalex.org/W2102498293",
         "https://openalex.org/W1487224889",
-        "https://openalex.org/W3152403234",
+        "https://openalex.org/W205489788",
         "https://openalex.org/W2071984317",
         "https://openalex.org/W2152362101",
         "https://openalex.org/W2031690282",
@@ -16003,1069 +16065,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2084051598",
-      "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
-      "title": "SOME OPEN QUESTIONS RELATING TO THE PETROLEUM PROSPECTS OF LEBANON*",
-      "display_name": "SOME OPEN QUESTIONS RELATING TO THE PETROLEUM PROSPECTS OF LEBANON*",
-      "publication_year": 1981,
-      "publication_date": "1981-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2084051598",
-        "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
-        "mag": "2084051598"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1111/j.1747-5457.1981.tb00932.x",
-        "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S198628674",
-          "display_name": "Journal of Petroleum Geology",
-          "issn_l": "0141-6421",
-          "issn": [
-            "0141-6421",
-            "1747-5457"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "poland-70",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5077725431",
-            "display_name": "Z. R. Beydoun",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I98635879",
-              "display_name": "American University of Beirut",
-              "ror": "https://ror.org/04pznsd21",
-              "country_code": "LB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I98635879"
-              ]
-            }
-          ],
-          "countries": [
-            "LB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Z. R. Beydoun",
-          "raw_affiliation_strings": [
-            "**Department of Geology, American University of Beirut, Lebanon"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "**Department of Geology, American University of Beirut, Lebanon",
-              "institution_ids": [
-                "https://openalex.org/I98635879"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5077725431"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I98635879"
-      ],
-      "apc_list": {
-        "value": 3400,
-        "currency": "USD",
-        "value_usd": 3400
-      },
-      "apc_paid": null,
-      "fwci": 0.6629,
-      "has_fulltext": false,
-      "cited_by_count": 39,
-      "citation_normalized_percentile": {
-        "value": 0.72975891,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "3",
-        "issue": "3",
-        "first_page": "303",
-        "last_page": "314"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
-        "score": 0.5952000021934509,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.5952000021934509,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.39500001072883606,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.005499999970197678,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.8180000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/lebanon",
-          "display_name": "Lebanon",
-          "score": 0.6790000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-potential",
-          "display_name": "hydrocarbon potential",
-          "score": 0.6949999928474426
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-succession",
-          "display_name": "stratigraphic succession",
-          "score": 0.7850000262260437
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-evolution",
-          "display_name": "structural evolution",
-          "score": 0.9829999804496765
-        },
-        {
-          "id": "https://openalex.org/keywords/exploration-boreholes",
-          "display_name": "exploration boreholes",
-          "score": 0.8050000071525574
-        },
-        {
-          "id": "https://openalex.org/keywords/source-rocks",
-          "display_name": "source rocks",
-          "score": 0.6539999842643738
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-shows",
-          "display_name": "hydrocarbon shows",
-          "score": 0.5899999737739563
-        },
-        {
-          "id": "https://openalex.org/keywords/late-jurassic",
-          "display_name": "Late Jurassic",
-          "score": 0.492000013589859
-        },
-        {
-          "id": "https://openalex.org/keywords/early-cretaceous",
-          "display_name": "Lower Cretaceous",
-          "score": 0.8370000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/neogene",
-          "display_name": "Neogene",
-          "score": 0.5509999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/paleogeography",
-          "display_name": "paleogeography",
-          "score": 0.8790000081062317
-        },
-        {
-          "id": "https://openalex.org/keywords/exploration-targets",
-          "display_name": "exploration targets",
-          "score": 0.36399999260902405
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8914397954940796
-        },
-        {
-          "id": "https://openalex.org/C179158327",
-          "wikidata": "https://www.wikidata.org/wiki/Q52151",
-          "display_name": "Palaeogeography",
-          "level": 4,
-          "score": 0.8157342672348022
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.756218671798706
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7333199977874756
-        },
-        {
-          "id": "https://openalex.org/C27492601",
-          "wikidata": "https://www.wikidata.org/wiki/Q103924",
-          "display_name": "Neogene",
-          "level": 3,
-          "score": 0.65156489610672
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.6045452952384949
-        },
-        {
-          "id": "https://openalex.org/C126559015",
-          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
-          "display_name": "Source rock",
-          "level": 3,
-          "score": 0.5879033803939819
-        },
-        {
-          "id": "https://openalex.org/C2776662147",
-          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
-          "display_name": "Hydrocarbon exploration",
-          "level": 3,
-          "score": 0.5464417934417725
-        },
-        {
-          "id": "https://openalex.org/C548895740",
-          "wikidata": "https://www.wikidata.org/wiki/Q22656",
-          "display_name": "Petroleum",
-          "level": 2,
-          "score": 0.5366826057434082
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.5338355898857117
-        },
-        {
-          "id": "https://openalex.org/C150560799",
-          "wikidata": "https://www.wikidata.org/wiki/Q502102",
-          "display_name": "Borehole",
-          "level": 2,
-          "score": 0.5312647223472595
-        },
-        {
-          "id": "https://openalex.org/C162284963",
-          "wikidata": "https://www.wikidata.org/wiki/Q17106102",
-          "display_name": "Submarine pipeline",
-          "level": 2,
-          "score": 0.5273894667625427
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.49662572145462036
-        },
-        {
-          "id": "https://openalex.org/C107385308",
-          "wikidata": "https://www.wikidata.org/wiki/Q43521",
-          "display_name": "Geologic time scale",
-          "level": 3,
-          "score": 0.4381582736968994
-        },
-        {
-          "id": "https://openalex.org/C2985768699",
-          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
-          "display_name": "Petroleum exploration",
-          "level": 3,
-          "score": 0.43744540214538574
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.37042802572250366
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.12167450785636902
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.10808548331260681
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C6363049",
-          "wikidata": "https://www.wikidata.org/wiki/Q505748",
-          "display_name": "Volcanism",
-          "level": 3,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1111/j.1747-5457.1981.tb00932.x",
-          "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S198628674",
-            "display_name": "Journal of Petroleum Geology",
-            "issn_l": "0141-6421",
-            "issn": [
-              "0141-6421",
-              "1747-5457"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-70",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Petroleum Geology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "doi:10.1306/bf9ab5ca-0eb6-11d7-8643000102c1865d",
-          "doi": "https://doi.org/10.1306/bf9ab5ca-0eb6-11d7-8643000102c1865d",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1306/bf9ab5ca-0eb6-11d7-8643000102c1865d",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S198628674",
-            "display_name": "Journal of Petroleum Geology",
-            "issn_l": "0141-6421",
-            "issn": [
-              "0141-6421",
-              "1747-5457"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-70",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320338075",
-          "display_name": "Core Research for Evolutional Science and Technology",
-          "ror": "https://ror.org/00097mb19"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 11,
-      "referenced_works": [
-        "https://openalex.org/W127980446",
-        "https://openalex.org/W652503013",
-        "https://openalex.org/W1987197011",
-        "https://openalex.org/W2047474947",
-        "https://openalex.org/W2064255822",
-        "https://openalex.org/W2064936022",
-        "https://openalex.org/W2104837834",
-        "https://openalex.org/W2104962054",
-        "https://openalex.org/W2131878884",
-        "https://openalex.org/W2139364698",
-        "https://openalex.org/W2506393307"
-      ],
-      "related_works": [
-        "https://openalex.org/W2104962054",
-        "https://openalex.org/W2595941192",
-        "https://openalex.org/W2056687199",
-        "https://openalex.org/W2290230403",
-        "https://openalex.org/W2159298897",
-        "https://openalex.org/W1988763526",
-        "https://openalex.org/W4416269312",
-        "https://openalex.org/W2131878884",
-        "https://openalex.org/W2312840915",
-        "https://openalex.org/W2168772769"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          18,
-          133
-        ],
-        "history": [
-          1
-        ],
-        "of": [
-          2,
-          21,
-          38,
-          42,
-          63,
-          84,
-          102,
-          135,
-          170,
-          177,
-          187
-        ],
-        "petroleum": [
-          3,
-          36
-        ],
-        "exploration": [
-          4,
-          25,
-          189
-        ],
-        "in": [
-          5,
-          40,
-          61,
-          107,
-          139,
-          184
-        ],
-        "Lebanon": [
-          6,
-          112
-        ],
-        "and": [
-          7,
-          12,
-          59,
-          73,
-          82,
-          92,
-          97,
-          144,
-          150
-        ],
-        "the": [
-          8,
-          22,
-          35,
-          43,
-          51,
-          57,
-          64,
-          71,
-          100,
-          108,
-          122,
-          140,
-          145,
-          167,
-          175,
-          178,
-          185
-        ],
-        "known": [
-          9
-        ],
-        "stratigraphic": [
-          10
-        ],
-        "succession": [
-          11
-        ],
-        "structural": [
-          13,
-          168
-        ],
-        "evolution": [
-          14
-        ],
-        "are": [
-          15,
-          86,
-          148,
-          180
-        ],
-        "briefly": [
-          16
-        ],
-        "reviewed.": [
-          17
-        ],
-        "negative": [
-          19
-        ],
-        "results": [
-          20,
-          77
-        ],
-        "six": [
-          23
-        ],
-        "relatively‐deep": [
-          24
-        ],
-        "boreholes": [
-          26
-        ],
-        "so": [
-          27
-        ],
-        "far": [
-          28
-        ],
-        "drilled": [
-          29
-        ],
-        "cannot": [
-          30
-        ],
-        "be": [
-          31
-        ],
-        "regarded": [
-          32
-        ],
-        "as": [
-          33,
-          152
-        ],
-        "condemning": [
-          34
-        ],
-        "potential": [
-          37,
-          81
-        ],
-        "Lebanon,": [
-          39
-        ],
-        "view": [
-          41,
-          62
-        ],
-        "fact": [
-          44
-        ],
-        "that": [
-          45
-        ],
-        "none": [
-          46
-        ],
-        "explored": [
-          47
-        ],
-        "formations": [
-          48
-        ],
-        "older": [
-          49
-        ],
-        "than": [
-          50,
-          158
-        ],
-        "earliest": [
-          52
-        ],
-        "exposed": [
-          53
-        ],
-        "(Lower": [
-          54
-        ],
-        "Jurassic)": [
-          55
-        ],
-        "nor": [
-          56
-        ],
-        "offshore,": [
-          58
-        ],
-        "particularly": [
-          60
-        ],
-        "many": [
-          65
-        ],
-        "hydrocarbon": [
-          66,
-          155
-        ],
-        "indications": [
-          67
-        ],
-        "encountered,": [
-          68
-        ],
-        "especially": [
-          69
-        ],
-        "when": [
-          70,
-          121
-        ],
-        "earlier": [
-          72
-        ],
-        "recent": [
-          74
-        ],
-        "geochemical": [
-          75
-        ],
-        "work": [
-          76
-        ],
-        "on": [
-          78,
-          159
-        ],
-        "source": [
-          79
-        ],
-        "rock": [
-          80,
-          118
-        ],
-        "origin": [
-          83
-        ],
-        "shows": [
-          85
-        ],
-        "considered.": [
-          87
-        ],
-        "Correlation": [
-          88
-        ],
-        "with": [
-          89
-        ],
-        "updated": [
-          90
-        ],
-        "surface": [
-          91
-        ],
-        "subsurface": [
-          93
-        ],
-        "data": [
-          94
-        ],
-        "from": [
-          95
-        ],
-        "Syria": [
-          96
-        ],
-        "Jordan": [
-          98
-        ],
-        "enhance": [
-          99
-        ],
-        "probability": [
-          101
-        ],
-        "favourable": [
-          103,
-          114,
-          131
-        ],
-        "seal": [
-          104
-        ],
-        "formation": [
-          105
-        ],
-        "development": [
-          106
-        ],
-        "Late": [
-          109,
-          141,
-          146
-        ],
-        "Triassic": [
-          110
-        ],
-        "under": [
-          111
-        ],
-        "while": [
-          113,
-          166
-        ],
-        "location": [
-          115
-        ],
-        "for": [
-          116
-        ],
-        "source/reservoir": [
-          117
-        ],
-        "facies": [
-          119,
-          128
-        ],
-        "emerges": [
-          120
-        ],
-        "palaeogeography": [
-          123
-        ],
-        "is": [
-          124
-        ],
-        "considered;": [
-          125
-        ],
-        "postulated": [
-          126
-        ],
-        "Palaeozoic": [
-          127
-        ],
-        "also": [
-          129
-        ],
-        "offer": [
-          130
-        ],
-        "potential.": [
-          132
-        ],
-        "effects": [
-          134,
-          169
-        ],
-        "limited": [
-          136,
-          162
-        ],
-        "extrusive": [
-          137
-        ],
-        "phases": [
-          138
-        ],
-        "Jurassic/Early": [
-          142
-        ],
-        "Cretaceous": [
-          143
-        ],
-        "Neogene": [
-          147,
-          171
-        ],
-        "examined": [
-          149
-        ],
-        "considered": [
-          151
-        ],
-        "non‐critical": [
-          153
-        ],
-        "to": [
-          154,
-          192
-        ],
-        "accumulation": [
-          156
-        ],
-        "other": [
-          157
-        ],
-        "a": [
-          160
-        ],
-        "very": [
-          161
-        ],
-        "local": [
-          163
-        ],
-        "structure": [
-          164
-        ],
-        "scale,": [
-          165
-        ],
-        "horizontal": [
-          172
-        ],
-        "displacements": [
-          173
-        ],
-        "along": [
-          174
-        ],
-        "length": [
-          176
-        ],
-        "country": [
-          179
-        ],
-        "taken": [
-          181
-        ],
-        "into": [
-          182
-        ],
-        "account": [
-          183
-        ],
-        "presentation": [
-          186
-        ],
-        "three": [
-          188
-        ],
-        "options": [
-          190
-        ],
-        "designed": [
-          191
-        ],
-        "look": [
-          193
-        ],
-        "thoroughly": [
-          194
-        ],
-        "at": [
-          195
-        ],
-        "pre‐Jurassic": [
-          196
-        ],
-        "prospects.": [
-          197
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17124,7 +16124,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2129205371"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17191,11 +16195,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.9969,
+      "fwci": 0.9825,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.78406828,
+        "value": 0.78122283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17607,7 +16611,6 @@
       "related_works": [
         "https://openalex.org/W2343260203",
         "https://openalex.org/W2025770149",
-        "https://openalex.org/W174839378",
         "https://openalex.org/W4210479303",
         "https://openalex.org/W3033503900",
         "https://openalex.org/W2138203339",
@@ -18602,7 +17605,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18651,10 +17654,18 @@
         "raw_source_name": "The Ocean Basins and Margins",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4255585102",
-        "display_name": "The Ocean Basins and Margins"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4255585102",
+          "display_name": "The Ocean Basins and Margins: Volume 4A The Eastern Mediterranean",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W127980446",
+        "https://openalex.org/W4255585102"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -18717,11 +17728,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5563,
+      "fwci": 0.553,
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.67664671,
+        "value": 0.6746988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19083,7 +18094,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19146,7 +18157,11 @@
         "raw_source_name": "The Geographical Journal",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2051595569"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19203,11 +18218,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 3.8805,
+      "fwci": 3.9265,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.92330827,
+        "value": 0.92428786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19558,7 +18573,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2008608377"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19667,11 +18686,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.5641,
+      "fwci": 2.5669,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.87450298,
+        "value": 0.87465872,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19962,8 +18981,7 @@
         "https://openalex.org/W2034943667",
         "https://openalex.org/W2142063636",
         "https://openalex.org/W2490556860",
-        "https://openalex.org/W1999272582",
-        "https://openalex.org/W7064179527"
+        "https://openalex.org/W1999272582"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -20004,7 +19022,1073 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2084051598",
+      "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
+      "title": "SOME OPEN QUESTIONS RELATING TO THE PETROLEUM PROSPECTS OF LEBANON*",
+      "display_name": "SOME OPEN QUESTIONS RELATING TO THE PETROLEUM PROSPECTS OF LEBANON*",
+      "publication_year": 1981,
+      "publication_date": "1981-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2084051598",
+        "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
+        "mag": "2084051598"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/j.1747-5457.1981.tb00932.x",
+        "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S198628674",
+          "display_name": "Journal of Petroleum Geology",
+          "issn_l": "0141-6421",
+          "issn": [
+            "0141-6421",
+            "1747-5457"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2084051598"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077725431",
+            "display_name": "Z. R. Beydoun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98635879",
+              "display_name": "American University of Beirut",
+              "ror": "https://ror.org/04pznsd21",
+              "country_code": "LB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ],
+          "countries": [
+            "LB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Z. R. Beydoun",
+          "raw_affiliation_strings": [
+            "**Department of Geology, American University of Beirut, Lebanon"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "**Department of Geology, American University of Beirut, Lebanon",
+              "institution_ids": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5077725431"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I98635879"
+      ],
+      "apc_list": {
+        "value": 3400,
+        "currency": "USD",
+        "value_usd": 3400
+      },
+      "apc_paid": null,
+      "fwci": 0.6544,
+      "has_fulltext": false,
+      "cited_by_count": 39,
+      "citation_normalized_percentile": {
+        "value": 0.72604736,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "3",
+        "issue": "3",
+        "first_page": "303",
+        "last_page": "314"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "score": 0.5952000021934509,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.5952000021934509,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.39500001072883606,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.005499999970197678,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/lebanon",
+          "display_name": "Lebanon",
+          "score": 0.6790000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-potential",
+          "display_name": "hydrocarbon potential",
+          "score": 0.6949999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-succession",
+          "display_name": "stratigraphic succession",
+          "score": 0.7850000262260437
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-evolution",
+          "display_name": "structural evolution",
+          "score": 0.9829999804496765
+        },
+        {
+          "id": "https://openalex.org/keywords/exploration-boreholes",
+          "display_name": "exploration boreholes",
+          "score": 0.8050000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/source-rocks",
+          "display_name": "source rocks",
+          "score": 0.6539999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-shows",
+          "display_name": "hydrocarbon shows",
+          "score": 0.5899999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/late-jurassic",
+          "display_name": "Late Jurassic",
+          "score": 0.492000013589859
+        },
+        {
+          "id": "https://openalex.org/keywords/early-cretaceous",
+          "display_name": "Lower Cretaceous",
+          "score": 0.8370000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/neogene",
+          "display_name": "Neogene",
+          "score": 0.5509999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.8790000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/exploration-targets",
+          "display_name": "exploration targets",
+          "score": 0.36399999260902405
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8914397954940796
+        },
+        {
+          "id": "https://openalex.org/C179158327",
+          "wikidata": "https://www.wikidata.org/wiki/Q52151",
+          "display_name": "Palaeogeography",
+          "level": 4,
+          "score": 0.8157342672348022
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.756218671798706
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7333199977874756
+        },
+        {
+          "id": "https://openalex.org/C27492601",
+          "wikidata": "https://www.wikidata.org/wiki/Q103924",
+          "display_name": "Neogene",
+          "level": 3,
+          "score": 0.65156489610672
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.6045452952384949
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.5879033803939819
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.5464417934417725
+        },
+        {
+          "id": "https://openalex.org/C548895740",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Petroleum",
+          "level": 2,
+          "score": 0.5366826057434082
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.5338355898857117
+        },
+        {
+          "id": "https://openalex.org/C150560799",
+          "wikidata": "https://www.wikidata.org/wiki/Q502102",
+          "display_name": "Borehole",
+          "level": 2,
+          "score": 0.5312647223472595
+        },
+        {
+          "id": "https://openalex.org/C162284963",
+          "wikidata": "https://www.wikidata.org/wiki/Q17106102",
+          "display_name": "Submarine pipeline",
+          "level": 2,
+          "score": 0.5273894667625427
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.49662572145462036
+        },
+        {
+          "id": "https://openalex.org/C107385308",
+          "wikidata": "https://www.wikidata.org/wiki/Q43521",
+          "display_name": "Geologic time scale",
+          "level": 3,
+          "score": 0.4381582736968994
+        },
+        {
+          "id": "https://openalex.org/C2985768699",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Petroleum exploration",
+          "level": 3,
+          "score": 0.43744540214538574
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.37042802572250366
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.12167450785636902
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.10808548331260681
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C6363049",
+          "wikidata": "https://www.wikidata.org/wiki/Q505748",
+          "display_name": "Volcanism",
+          "level": 3,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1111/j.1747-5457.1981.tb00932.x",
+          "doi": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1981.tb00932.x",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S198628674",
+            "display_name": "Journal of Petroleum Geology",
+            "issn_l": "0141-6421",
+            "issn": [
+              "0141-6421",
+              "1747-5457"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.1306/bf9ab5ca-0eb6-11d7-8643000102c1865d",
+          "doi": "https://doi.org/10.1306/bf9ab5ca-0eb6-11d7-8643000102c1865d",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1306/bf9ab5ca-0eb6-11d7-8643000102c1865d",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S198628674",
+            "display_name": "Journal of Petroleum Geology",
+            "issn_l": "0141-6421",
+            "issn": [
+              "0141-6421",
+              "1747-5457"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320338075",
+          "display_name": "Core Research for Evolutional Science and Technology",
+          "ror": "https://ror.org/00097mb19"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 11,
+      "referenced_works": [
+        "https://openalex.org/W127980446",
+        "https://openalex.org/W652503013",
+        "https://openalex.org/W1987197011",
+        "https://openalex.org/W2047474947",
+        "https://openalex.org/W2064255822",
+        "https://openalex.org/W2064936022",
+        "https://openalex.org/W2104837834",
+        "https://openalex.org/W2104962054",
+        "https://openalex.org/W2131878884",
+        "https://openalex.org/W2139364698",
+        "https://openalex.org/W2506393307"
+      ],
+      "related_works": [
+        "https://openalex.org/W2104962054",
+        "https://openalex.org/W2595941192",
+        "https://openalex.org/W2056687199",
+        "https://openalex.org/W2290230403",
+        "https://openalex.org/W2159298897",
+        "https://openalex.org/W1988763526",
+        "https://openalex.org/W4416269312",
+        "https://openalex.org/W2131878884",
+        "https://openalex.org/W2312840915",
+        "https://openalex.org/W2168772769"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          18,
+          133
+        ],
+        "history": [
+          1
+        ],
+        "of": [
+          2,
+          21,
+          38,
+          42,
+          63,
+          84,
+          102,
+          135,
+          170,
+          177,
+          187
+        ],
+        "petroleum": [
+          3,
+          36
+        ],
+        "exploration": [
+          4,
+          25,
+          189
+        ],
+        "in": [
+          5,
+          40,
+          61,
+          107,
+          139,
+          184
+        ],
+        "Lebanon": [
+          6,
+          112
+        ],
+        "and": [
+          7,
+          12,
+          59,
+          73,
+          82,
+          92,
+          97,
+          144,
+          150
+        ],
+        "the": [
+          8,
+          22,
+          35,
+          43,
+          51,
+          57,
+          64,
+          71,
+          100,
+          108,
+          122,
+          140,
+          145,
+          167,
+          175,
+          178,
+          185
+        ],
+        "known": [
+          9
+        ],
+        "stratigraphic": [
+          10
+        ],
+        "succession": [
+          11
+        ],
+        "structural": [
+          13,
+          168
+        ],
+        "evolution": [
+          14
+        ],
+        "are": [
+          15,
+          86,
+          148,
+          180
+        ],
+        "briefly": [
+          16
+        ],
+        "reviewed.": [
+          17
+        ],
+        "negative": [
+          19
+        ],
+        "results": [
+          20,
+          77
+        ],
+        "six": [
+          23
+        ],
+        "relatively‐deep": [
+          24
+        ],
+        "boreholes": [
+          26
+        ],
+        "so": [
+          27
+        ],
+        "far": [
+          28
+        ],
+        "drilled": [
+          29
+        ],
+        "cannot": [
+          30
+        ],
+        "be": [
+          31
+        ],
+        "regarded": [
+          32
+        ],
+        "as": [
+          33,
+          152
+        ],
+        "condemning": [
+          34
+        ],
+        "potential": [
+          37,
+          81
+        ],
+        "Lebanon,": [
+          39
+        ],
+        "view": [
+          41,
+          62
+        ],
+        "fact": [
+          44
+        ],
+        "that": [
+          45
+        ],
+        "none": [
+          46
+        ],
+        "explored": [
+          47
+        ],
+        "formations": [
+          48
+        ],
+        "older": [
+          49
+        ],
+        "than": [
+          50,
+          158
+        ],
+        "earliest": [
+          52
+        ],
+        "exposed": [
+          53
+        ],
+        "(Lower": [
+          54
+        ],
+        "Jurassic)": [
+          55
+        ],
+        "nor": [
+          56
+        ],
+        "offshore,": [
+          58
+        ],
+        "particularly": [
+          60
+        ],
+        "many": [
+          65
+        ],
+        "hydrocarbon": [
+          66,
+          155
+        ],
+        "indications": [
+          67
+        ],
+        "encountered,": [
+          68
+        ],
+        "especially": [
+          69
+        ],
+        "when": [
+          70,
+          121
+        ],
+        "earlier": [
+          72
+        ],
+        "recent": [
+          74
+        ],
+        "geochemical": [
+          75
+        ],
+        "work": [
+          76
+        ],
+        "on": [
+          78,
+          159
+        ],
+        "source": [
+          79
+        ],
+        "rock": [
+          80,
+          118
+        ],
+        "origin": [
+          83
+        ],
+        "shows": [
+          85
+        ],
+        "considered.": [
+          87
+        ],
+        "Correlation": [
+          88
+        ],
+        "with": [
+          89
+        ],
+        "updated": [
+          90
+        ],
+        "surface": [
+          91
+        ],
+        "subsurface": [
+          93
+        ],
+        "data": [
+          94
+        ],
+        "from": [
+          95
+        ],
+        "Syria": [
+          96
+        ],
+        "Jordan": [
+          98
+        ],
+        "enhance": [
+          99
+        ],
+        "probability": [
+          101
+        ],
+        "favourable": [
+          103,
+          114,
+          131
+        ],
+        "seal": [
+          104
+        ],
+        "formation": [
+          105
+        ],
+        "development": [
+          106
+        ],
+        "Late": [
+          109,
+          141,
+          146
+        ],
+        "Triassic": [
+          110
+        ],
+        "under": [
+          111
+        ],
+        "while": [
+          113,
+          166
+        ],
+        "location": [
+          115
+        ],
+        "for": [
+          116
+        ],
+        "source/reservoir": [
+          117
+        ],
+        "facies": [
+          119,
+          128
+        ],
+        "emerges": [
+          120
+        ],
+        "palaeogeography": [
+          123
+        ],
+        "is": [
+          124
+        ],
+        "considered;": [
+          125
+        ],
+        "postulated": [
+          126
+        ],
+        "Palaeozoic": [
+          127
+        ],
+        "also": [
+          129
+        ],
+        "offer": [
+          130
+        ],
+        "potential.": [
+          132
+        ],
+        "effects": [
+          134,
+          169
+        ],
+        "limited": [
+          136,
+          162
+        ],
+        "extrusive": [
+          137
+        ],
+        "phases": [
+          138
+        ],
+        "Jurassic/Early": [
+          142
+        ],
+        "Cretaceous": [
+          143
+        ],
+        "Neogene": [
+          147,
+          171
+        ],
+        "examined": [
+          149
+        ],
+        "considered": [
+          151
+        ],
+        "non‐critical": [
+          153
+        ],
+        "to": [
+          154,
+          192
+        ],
+        "accumulation": [
+          156
+        ],
+        "other": [
+          157
+        ],
+        "a": [
+          160
+        ],
+        "very": [
+          161
+        ],
+        "local": [
+          163
+        ],
+        "structure": [
+          164
+        ],
+        "scale,": [
+          165
+        ],
+        "horizontal": [
+          172
+        ],
+        "displacements": [
+          173
+        ],
+        "along": [
+          174
+        ],
+        "length": [
+          176
+        ],
+        "country": [
+          179
+        ],
+        "taken": [
+          181
+        ],
+        "into": [
+          182
+        ],
+        "account": [
+          183
+        ],
+        "presentation": [
+          186
+        ],
+        "three": [
+          188
+        ],
+        "options": [
+          190
+        ],
+        "designed": [
+          191
+        ],
+        "look": [
+          193
+        ],
+        "thoroughly": [
+          194
+        ],
+        "at": [
+          195
+        ],
+        "pre‐Jurassic": [
+          196
+        ],
+        "prospects.": [
+          197
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20063,7 +20147,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2168772769"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21608,7 +21696,11 @@
         "raw_source_name": "Marine Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2064255822"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22034,9 +22126,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22175,7 +22267,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2077019434"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22694,7 +22790,7 @@
         "https://openalex.org/W1973778260",
         "https://openalex.org/W2131601849",
         "https://openalex.org/W2102498293",
-        "https://openalex.org/W3152403234",
+        "https://openalex.org/W205489788",
         "https://openalex.org/W1487224889",
         "https://openalex.org/W2140254068",
         "https://openalex.org/W2071984317",
@@ -23422,7 +23518,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23471,10 +23567,18 @@
         "raw_source_name": "Sedimentary Facies Analysis",
         "raw_type": "other"
       },
-      "volume": {
-        "id": "https://openalex.org/W2478666223",
-        "display_name": "Sedimentary Facies Analysis"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W2478666223",
+          "display_name": "Sedimentary Facies Analysis: A Tribute to the Research and Teaching of Harold G. Reading",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1482204293",
+        "https://openalex.org/W2478666223"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -24766,7 +24870,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -24815,10 +24919,18 @@
         "raw_source_name": "The Ocean Basins and Margins",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4235114216",
-        "display_name": "The Ocean Basins and Margins"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4235114216",
+          "display_name": "The Ocean Basins and Margins",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2281944685",
+        "https://openalex.org/W4235114216"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -24881,11 +24993,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 18.0756,
+      "fwci": 18.0407,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.97007722,
+        "value": 0.96421663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25121,9 +25233,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7778000235557556,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -25257,7 +25369,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25307,7 +25419,11 @@
         "raw_source_name": "Centre national de la recherche scientifique eBooks",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W564464517"
+      ],
+      "child_works_count": 0,
       "type": "book",
       "is_traditional": true,
       "indexed_in": [],
@@ -25571,7 +25687,7 @@
         "https://openalex.org/W2497245004",
         "https://openalex.org/W4388065489",
         "https://openalex.org/W3206297011",
-        "https://openalex.org/W2969887496",
+        "https://openalex.org/W4238924311",
         "https://openalex.org/W7036878554",
         "https://openalex.org/W7219258641"
       ],
@@ -25598,7 +25714,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25657,7 +25773,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2060786586"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26717,7 +26837,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1503097061"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -26998,475 +27122,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1972909589",
-      "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
-      "title": "MIDDLE EAST HYDROCARBON RESERVES ENHANCEMENT, 1975 ‐ 1990 Significant developments and implications for potential future large increases",
-      "display_name": "MIDDLE EAST HYDROCARBON RESERVES ENHANCEMENT, 1975 ‐ 1990 Significant developments and implications for potential future large increases",
-      "publication_year": 1991,
-      "publication_date": "1991-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1972909589",
-        "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
-        "mag": "1972909589"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1111/j.1747-5457.1991.tb00290.x",
-        "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S198628674",
-          "display_name": "Journal of Petroleum Geology",
-          "issn_l": "0141-6421",
-          "issn": [
-            "0141-6421",
-            "1747-5457"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "poland-70",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5077725431",
-            "display_name": "Z. R. Beydoun",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I98635879",
-              "display_name": "American University of Beirut",
-              "ror": "https://ror.org/04pznsd21",
-              "country_code": "LB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I98635879"
-              ]
-            }
-          ],
-          "countries": [
-            "LB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Z. R. Beydoun",
-          "raw_affiliation_strings": [
-            "*American University of Beirut. and Marathon International Petroleum (GB) Ltd., London"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "*American University of Beirut. and Marathon International Petroleum (GB) Ltd., London",
-              "institution_ids": [
-                "https://openalex.org/I98635879"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5077725431"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I98635879"
-      ],
-      "apc_list": {
-        "value": 3400,
-        "currency": "USD",
-        "value_usd": 3400
-      },
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "14",
-        "issue": "1",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.46309998631477356,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.46309998631477356,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12639",
-          "display_name": "Global Energy and Sustainability Research",
-          "score": 0.3361999988555908,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.16030000150203705,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-reserves",
-          "display_name": "hydrocarbon reserves",
-          "score": 0.9110000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/reserve-growth",
-          "display_name": "reserve growth",
-          "score": 0.6299999952316284
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.5139999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/reserve-estimation",
-          "display_name": "reserve estimation",
-          "score": 0.3610000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-and-gas-production",
-          "display_name": "oil and gas production",
-          "score": 0.45500001311302185
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2778805511",
-          "wikidata": "https://www.wikidata.org/wiki/Q1713",
-          "display_name": "Citation",
-          "level": 2,
-          "score": 0.5974578857421875
-        },
-        {
-          "id": "https://openalex.org/C548895740",
-          "wikidata": "https://www.wikidata.org/wiki/Q22656",
-          "display_name": "Petroleum",
-          "level": 2,
-          "score": 0.5839139223098755
-        },
-        {
-          "id": "https://openalex.org/C161191863",
-          "wikidata": "https://www.wikidata.org/wiki/Q199655",
-          "display_name": "Library science",
-          "level": 1,
-          "score": 0.5573797225952148
-        },
-        {
-          "id": "https://openalex.org/C3651065",
-          "wikidata": "https://www.wikidata.org/wiki/Q7204",
-          "display_name": "Middle East",
-          "level": 2,
-          "score": 0.5183585286140442
-        },
-        {
-          "id": "https://openalex.org/C17744445",
-          "wikidata": "https://www.wikidata.org/wiki/Q36442",
-          "display_name": "Political science",
-          "level": 0,
-          "score": 0.35959187150001526
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0.35952335596084595
-        },
-        {
-          "id": "https://openalex.org/C42475967",
-          "wikidata": "https://www.wikidata.org/wiki/Q194292",
-          "display_name": "Operations research",
-          "level": 1,
-          "score": 0.3563690185546875
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.28924840688705444
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.2435150444507599
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.22101670503616333
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.21071270108222961
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.1525392234325409
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1111/j.1747-5457.1991.tb00290.x",
-          "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S198628674",
-            "display_name": "Journal of Petroleum Geology",
-            "issn_l": "0141-6421",
-            "issn": [
-              "0141-6421",
-              "1747-5457"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-70",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Petroleum Geology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "doi:10.1306/bf9ab6dc-0eb6-11d7-8643000102c1865d",
-          "doi": "https://doi.org/10.1306/bf9ab6dc-0eb6-11d7-8643000102c1865d",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1306/bf9ab6dc-0eb6-11d7-8643000102c1865d",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S198628674",
-            "display_name": "Journal of Petroleum Geology",
-            "issn_l": "0141-6421",
-            "issn": [
-              "0141-6421",
-              "1747-5457"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-70",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 5,
-      "referenced_works": [
-        "https://openalex.org/W1969260661",
-        "https://openalex.org/W1972182349",
-        "https://openalex.org/W1987197011",
-        "https://openalex.org/W2165493724",
-        "https://openalex.org/W2321939636"
-      ],
-      "related_works": [
-        "https://openalex.org/W2236445334",
-        "https://openalex.org/W4249923429",
-        "https://openalex.org/W2074178736",
-        "https://openalex.org/W4246194870",
-        "https://openalex.org/W2292956266",
-        "https://openalex.org/W2161669984",
-        "https://openalex.org/W2241973161",
-        "https://openalex.org/W625733446",
-        "https://openalex.org/W4239209408",
-        "https://openalex.org/W2617518632"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1987197011",
       "doi": "https://doi.org/10.2307/1796040",
       "title": "The Petroleum Geology and Resources of the Middle East",
@@ -27526,7 +27181,11 @@
         "raw_source_name": "The Geographical Journal",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1987197011"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27601,11 +27260,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 3.5684,
+      "fwci": 3.6189,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.91126437,
+        "value": 0.91135734,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27856,11 +27515,10 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W2321939636",
-        "https://openalex.org/W4246194870",
+        "https://openalex.org/W2129205371",
         "https://openalex.org/W2326859350",
         "https://openalex.org/W2321027416",
         "https://openalex.org/W2318353742",
-        "https://openalex.org/W2025785710",
         "https://openalex.org/W4229984719",
         "https://openalex.org/W1496855129",
         "https://openalex.org/W2078058972",
@@ -27889,7 +27547,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -27948,7 +27606,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2069737605"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -28015,11 +27677,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.684,
+      "fwci": 0.6778,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.71309579,
+        "value": 0.71026723,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28360,7 +28022,6 @@
         "https://openalex.org/W2022842844",
         "https://openalex.org/W189260940",
         "https://openalex.org/W3034545849",
-        "https://openalex.org/W207135715",
         "https://openalex.org/W4243520492",
         "https://openalex.org/W2268872210",
         "https://openalex.org/W2287638928"
@@ -28989,7 +28650,480 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1972909589",
+      "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
+      "title": "MIDDLE EAST HYDROCARBON RESERVES ENHANCEMENT, 1975 ‐ 1990 Significant developments and implications for potential future large increases",
+      "display_name": "MIDDLE EAST HYDROCARBON RESERVES ENHANCEMENT, 1975 ‐ 1990 Significant developments and implications for potential future large increases",
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1972909589",
+        "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
+        "mag": "1972909589"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/j.1747-5457.1991.tb00290.x",
+        "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S198628674",
+          "display_name": "Journal of Petroleum Geology",
+          "issn_l": "0141-6421",
+          "issn": [
+            "0141-6421",
+            "1747-5457"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1972909589"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077725431",
+            "display_name": "Z. R. Beydoun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98635879",
+              "display_name": "American University of Beirut",
+              "ror": "https://ror.org/04pznsd21",
+              "country_code": "LB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ],
+          "countries": [
+            "LB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Z. R. Beydoun",
+          "raw_affiliation_strings": [
+            "*American University of Beirut. and Marathon International Petroleum (GB) Ltd., London"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "*American University of Beirut. and Marathon International Petroleum (GB) Ltd., London",
+              "institution_ids": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5077725431"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I98635879"
+      ],
+      "apc_list": {
+        "value": 3400,
+        "currency": "USD",
+        "value_usd": 3400
+      },
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "14",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.46309998631477356,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.46309998631477356,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12639",
+          "display_name": "Global Energy and Sustainability Research",
+          "score": 0.3361999988555908,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.16030000150203705,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-reserves",
+          "display_name": "hydrocarbon reserves",
+          "score": 0.9110000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/reserve-growth",
+          "display_name": "reserve growth",
+          "score": 0.6299999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.5139999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/reserve-estimation",
+          "display_name": "reserve estimation",
+          "score": 0.3610000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-and-gas-production",
+          "display_name": "oil and gas production",
+          "score": 0.45500001311302185
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778805511",
+          "wikidata": "https://www.wikidata.org/wiki/Q1713",
+          "display_name": "Citation",
+          "level": 2,
+          "score": 0.5974578857421875
+        },
+        {
+          "id": "https://openalex.org/C548895740",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Petroleum",
+          "level": 2,
+          "score": 0.5839139223098755
+        },
+        {
+          "id": "https://openalex.org/C161191863",
+          "wikidata": "https://www.wikidata.org/wiki/Q199655",
+          "display_name": "Library science",
+          "level": 1,
+          "score": 0.5573797225952148
+        },
+        {
+          "id": "https://openalex.org/C3651065",
+          "wikidata": "https://www.wikidata.org/wiki/Q7204",
+          "display_name": "Middle East",
+          "level": 2,
+          "score": 0.5183585286140442
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.35959187150001526
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.35952335596084595
+        },
+        {
+          "id": "https://openalex.org/C42475967",
+          "wikidata": "https://www.wikidata.org/wiki/Q194292",
+          "display_name": "Operations research",
+          "level": 1,
+          "score": 0.3563690185546875
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.28924840688705444
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.2435150444507599
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.22101670503616333
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.21071270108222961
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.1525392234325409
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1111/j.1747-5457.1991.tb00290.x",
+          "doi": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1111/j.1747-5457.1991.tb00290.x",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S198628674",
+            "display_name": "Journal of Petroleum Geology",
+            "issn_l": "0141-6421",
+            "issn": [
+              "0141-6421",
+              "1747-5457"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.1306/bf9ab6dc-0eb6-11d7-8643000102c1865d",
+          "doi": "https://doi.org/10.1306/bf9ab6dc-0eb6-11d7-8643000102c1865d",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1306/bf9ab6dc-0eb6-11d7-8643000102c1865d",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S198628674",
+            "display_name": "Journal of Petroleum Geology",
+            "issn_l": "0141-6421",
+            "issn": [
+              "0141-6421",
+              "1747-5457"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 5,
+      "referenced_works": [
+        "https://openalex.org/W1969260661",
+        "https://openalex.org/W1972182349",
+        "https://openalex.org/W1987197011",
+        "https://openalex.org/W2165493724",
+        "https://openalex.org/W2321939636"
+      ],
+      "related_works": [
+        "https://openalex.org/W2236445334",
+        "https://openalex.org/W2069737605",
+        "https://openalex.org/W2074178736",
+        "https://openalex.org/W2129205371",
+        "https://openalex.org/W2292956266",
+        "https://openalex.org/W2161669984",
+        "https://openalex.org/W2241973161",
+        "https://openalex.org/W625733446",
+        "https://openalex.org/W2069843399",
+        "https://openalex.org/W2617518632"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -29049,7 +29183,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2131601849"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29424,7 +29562,7 @@
       "related_works": [
         "https://openalex.org/W2102498293",
         "https://openalex.org/W2071984317",
-        "https://openalex.org/W2170000352",
+        "https://openalex.org/W2077019434",
         "https://openalex.org/W2152362101",
         "https://openalex.org/W2134493753",
         "https://openalex.org/W2162221021",
@@ -30001,7 +30139,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30060,7 +30198,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2028765782"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30369,7 +30511,7 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W2017098319",
-        "https://openalex.org/W4231774045",
+        "https://openalex.org/W2078711059",
         "https://openalex.org/W2031682277",
         "https://openalex.org/W1025471249",
         "https://openalex.org/W2319046769",
@@ -30386,7 +30528,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30442,7 +30584,11 @@
         "raw_source_name": "Professional Paper",
         "raw_type": "report-component"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W166150482"
+      ],
+      "child_works_count": 0,
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -30757,9 +30903,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Partnerships for the goals",
           "score": 0.5217000246047974,
-          "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "study_designs": [],
@@ -31287,7 +31433,11 @@
         "raw_source_name": "SG 33: Arabian Plate Hydrocarbon Geology and Potential--A Plate Tectonic Approach",
         "raw_type": "edited-book"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4234645253"
+      ],
+      "child_works_count": 0,
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -31471,7 +31621,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1930218472"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -31703,9 +31857,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -31720,7 +31874,7 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W2273976181",
-        "https://openalex.org/W4246194870",
+        "https://openalex.org/W2129205371",
         "https://openalex.org/W7015159553",
         "https://openalex.org/W2033009447",
         "https://openalex.org/W2318165802",
@@ -31732,7 +31886,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:32:53.992493",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31762,7 +31916,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2265541489"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -31905,7 +32063,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1599080018"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -32135,20 +32297,19 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W207135715",
+        "https://openalex.org/W2282472653",
         "https://openalex.org/W4249657291",
         "https://openalex.org/W435123580",
         "https://openalex.org/W29339933",
-        "https://openalex.org/W4249558735",
+        "https://openalex.org/W2103184619",
         "https://openalex.org/W2287638928",
         "https://openalex.org/W2329021473",
-        "https://openalex.org/W2282472653",
         "https://openalex.org/W2108453424",
         "https://openalex.org/W2313702406"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32207,7 +32368,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1980171695"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -32528,12 +32693,11 @@
         "https://openalex.org/W4235758499",
         "https://openalex.org/W2326859350",
         "https://openalex.org/W2321027416",
-        "https://openalex.org/W1991819572",
-        "https://openalex.org/W2025785710"
+        "https://openalex.org/W1991819572"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32592,7 +32756,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1992842241"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -32898,7 +33066,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2050077771"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33157,7 +33329,6 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W2082539061",
         "https://openalex.org/W4251200113",
         "https://openalex.org/W4243677490",
         "https://openalex.org/W2727909503",
@@ -33170,7 +33341,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -33229,7 +33400,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2167380020"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33485,11 +33660,11 @@
         "https://openalex.org/W3139521322",
         "https://openalex.org/W4252994185",
         "https://openalex.org/W4253721770",
-        "https://openalex.org/W2612415902"
+        "https://openalex.org/W2255117514"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -33519,7 +33694,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2222483929"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -33760,13 +33939,13 @@
         "https://openalex.org/W4252171667",
         "https://openalex.org/W7028705520",
         "https://openalex.org/W2223919590",
-        "https://openalex.org/W6947965018",
+        "https://openalex.org/W2168168701",
         "https://openalex.org/W2229727648",
         "https://openalex.org/W3157790995"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -33796,7 +33975,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2222525464"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34032,7 +34215,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2222593811"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34260,7 +34447,7 @@
         "https://openalex.org/W2224308424",
         "https://openalex.org/W4252171667",
         "https://openalex.org/W4246504648",
-        "https://openalex.org/W6947965018",
+        "https://openalex.org/W2168168701",
         "https://openalex.org/W2150683266",
         "https://openalex.org/W2618138193",
         "https://openalex.org/W2956836343",
@@ -34268,7 +34455,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -34298,7 +34485,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2223919590"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34583,7 +34774,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2224308424"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34785,15 +34980,15 @@
         "https://openalex.org/W2222593811",
         "https://openalex.org/W4251214017",
         "https://openalex.org/W4246504648",
-        "https://openalex.org/W7096573583",
+        "https://openalex.org/W2084453272",
         "https://openalex.org/W2222525464",
         "https://openalex.org/W7028705520",
-        "https://openalex.org/W6947965018",
+        "https://openalex.org/W2168168701",
         "https://openalex.org/W2994217494"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -34823,7 +35018,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2229359170"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -35055,14 +35254,14 @@
         "https://openalex.org/W3123199107",
         "https://openalex.org/W2072404272",
         "https://openalex.org/W1603543312",
-        "https://openalex.org/W7049269503",
+        "https://openalex.org/W820502702",
         "https://openalex.org/W1963643588",
         "https://openalex.org/W2178781801",
         "https://openalex.org/W2466841910"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -35092,7 +35291,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2236445334"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -35312,10 +35515,10 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W4238280174",
-        "https://openalex.org/W4251162895",
+        "https://openalex.org/W1972909589",
         "https://openalex.org/W3020906344",
         "https://openalex.org/W4235783343",
-        "https://openalex.org/W4249923429",
+        "https://openalex.org/W2069737605",
         "https://openalex.org/W1599080018",
         "https://openalex.org/W2970983791",
         "https://openalex.org/W4237552126",
@@ -35324,7 +35527,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -35354,7 +35557,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3190578800"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -35585,7 +35792,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W435123580"
+      ],
+      "child_works_count": 0,
       "type": "book",
       "is_traditional": true,
       "indexed_in": [],
@@ -35812,7 +36023,6 @@
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W1599080018",
-        "https://openalex.org/W207135715",
         "https://openalex.org/W2282472653",
         "https://openalex.org/W57362302",
         "https://openalex.org/W2973294836",
@@ -35824,7 +36034,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -35868,7 +36078,11 @@
         "raw_source_name": "海洋石油",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W912634748"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -36099,7 +36313,7 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W4240930599",
+        "https://openalex.org/W2071984317",
         "https://openalex.org/W922117040",
         "https://openalex.org/W2211861211",
         "https://openalex.org/W2251351466",
@@ -36116,7 +36330,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     }
   ]

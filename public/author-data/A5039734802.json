@@ -540,7 +540,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5039734802",
-    "updated_date": "2026-11-12T13:17:38",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -592,7 +592,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3014355492"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -704,11 +708,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6218,
+      "fwci": 0.6222,
       "has_fulltext": false,
       "cited_by_count": 245,
       "citation_normalized_percentile": {
-        "value": 0.68439108,
+        "value": 0.68457143,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1083,8 +1087,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -1147,7 +1151,6 @@
         "https://openalex.org/W6687819537"
       ],
       "related_works": [
-        "https://openalex.org/W7097365092",
         "https://openalex.org/W4362584973",
         "https://openalex.org/W1980881493",
         "https://openalex.org/W2082295265",
@@ -1649,7 +1652,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-04-10T00:00:00"
     },
     {
@@ -1680,10 +1683,18 @@
         "raw_source_name": "Giant Hydrocarbon Reservoirs of the World",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4237155486",
-        "display_name": "Giant Hydrocarbon Reservoirs of the World"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4237155486",
+          "display_name": "Giant Hydrocarbon Reservoirs of the World: From Rocks to Reservoir Characterization and Modeling",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1927598922",
+        "https://openalex.org/W4237155486"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -1826,11 +1837,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2619,
+      "fwci": 4.254,
       "has_fulltext": false,
       "cited_by_count": 80,
       "citation_normalized_percentile": {
-        "value": 0.91977612,
+        "value": 0.91962617,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2093,8 +2104,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -3790,7 +3801,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3851,7 +3862,11 @@
         "raw_source_name": "Journal of Sedimentary Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2138691371"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4384,8 +4399,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -5269,7 +5284,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2941825081"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5677,8 +5696,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2941825081.pdf",
@@ -6595,10 +6614,18 @@
         "raw_source_name": "Giant Oil and Gas Fields",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W2305072269",
-        "display_name": "Giant Oil and Gas Fields"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W2305072269",
+          "display_name": "Giant Oil and Gas Fields: A Core Workshop",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1552307154",
+        "https://openalex.org/W2305072269"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -7020,8 +7047,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7843,7 +7870,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7887,7 +7914,11 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4252144897"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -8334,8 +8365,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9006,7 +9037,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2292572168"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -9489,8 +9524,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10195,7 +10230,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3022076686"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10693,8 +10732,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -10852,7 +10891,11 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1803742928"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11256,8 +11299,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -12108,7 +12151,11 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2312299597"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12649,8 +12696,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -13286,7 +13333,11 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2973127997"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13850,8 +13901,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -14817,7 +14868,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2774797267"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15439,8 +15494,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.685699999332428,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -15448,8 +15503,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -15626,7 +15681,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2555546878"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15903,11 +15962,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4294,
+      "fwci": 3.3953,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.90641798,
+        "value": 0.90553773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16241,8 +16300,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -17034,7 +17093,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3205126413"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17205,7 +17268,7 @@
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.80871628,
+        "value": 0.80867885,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17564,8 +17627,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -17632,7 +17695,7 @@
         "https://openalex.org/W6697866919"
       ],
       "related_works": [
-        "https://openalex.org/W7019625954",
+        "https://openalex.org/W2994434476",
         "https://openalex.org/W3023246213",
         "https://openalex.org/W3004357108",
         "https://openalex.org/W1700986747",
@@ -17662,7 +17725,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-10-25T00:00:00"
     },
     {
@@ -17726,7 +17789,11 @@
         "raw_source_name": "Current Biology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4411625917"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18605,8 +18672,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 1,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -18653,8 +18720,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -18819,7 +18886,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2607243671"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19338,8 +19409,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -20270,7 +20341,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2944023070"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20337,11 +20412,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3291,
+      "fwci": 2.3271,
       "has_fulltext": true,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.87293922,
+        "value": 0.87269096,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20800,8 +20875,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2944023070.pdf",
@@ -20840,7 +20915,7 @@
       ],
       "related_works": [
         "https://openalex.org/W2053763348",
-        "https://openalex.org/W4236494065",
+        "https://openalex.org/W1971842041",
         "https://openalex.org/W2042357417",
         "https://openalex.org/W3176915617",
         "https://openalex.org/W2595103819",
@@ -21888,7 +21963,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-05-16T00:00:00"
     },
     {
@@ -21933,10 +22008,18 @@
         "raw_source_name": "Sequence Stratigraphic Models for Exploration and Production: Evolving Methodology, Emerging Models, and Application Histories: 22nd Annual",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W2489708704",
-        "display_name": "Sequence Stratigraphic Models for Exploration and Production: Evolving Methodology, Emerging Models, and Application Histories: 22nd Annual"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W2489708704",
+          "display_name": "Sequence Stratigraphic Models for Exploration and Production: Evolving Methodology, Emerging Models, and Application Histories: 22nd Annual",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2500144445",
+        "https://openalex.org/W2489708704"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -22009,11 +22092,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5489,
+      "fwci": 3.5656,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.88964346,
+        "value": 0.88983051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22242,8 +22325,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -22323,7 +22406,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-08-23T00:00:00"
     },
     {
@@ -22383,7 +22466,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2067688778"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22751,8 +22838,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -22808,7 +22895,6 @@
         "https://openalex.org/W4214723657",
         "https://openalex.org/W2121918535",
         "https://openalex.org/W75612471",
-        "https://openalex.org/W7098022525",
         "https://openalex.org/W2146281710",
         "https://openalex.org/W1973082754",
         "https://openalex.org/W2021540698",
@@ -22866,7 +22952,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22896,10 +22982,18 @@
         "raw_source_name": "Memoir 106: Petroleum Systems of the Tethyan Region",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4250163215",
-        "display_name": "Memoir 106: Petroleum Systems of the Tethyan Region"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4250163215",
+          "display_name": "Memoir 106: Petroleum Systems of the Tethyan Region",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4243034119",
+        "https://openalex.org/W4250163215"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -23034,11 +23128,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.3111,
+      "fwci": 6.3477,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.96710526,
+        "value": 0.96078431,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23193,8 +23287,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23203,11 +23297,10 @@
         "https://openalex.org/W4250163215",
         "https://openalex.org/W4242357360",
         "https://openalex.org/W3162357285",
-        "https://openalex.org/W2503812676",
+        "https://openalex.org/W2298840126",
         "https://openalex.org/W4248486317",
         "https://openalex.org/W4299440713",
-        "https://openalex.org/W2479069433",
-        "https://openalex.org/W587884627",
+        "https://openalex.org/W2296398323",
         "https://openalex.org/W6941450261",
         "https://openalex.org/W2505430568"
       ],
@@ -23258,7 +23351,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -23319,7 +23412,11 @@
         "raw_source_name": "Journal of Sedimentary Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2775124168"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23865,8 +23962,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -24686,7 +24783,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2134130095"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24910,11 +25011,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7716,
+      "fwci": 0.7713,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.76225125,
+        "value": 0.76216785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25144,8 +25245,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -25224,11 +25325,10 @@
       "related_works": [
         "https://openalex.org/W2611284609",
         "https://openalex.org/W2101201283",
-        "https://openalex.org/W6986954331",
+        "https://openalex.org/W1822533600",
         "https://openalex.org/W2987574193",
         "https://openalex.org/W2138092443",
         "https://openalex.org/W2332650453",
-        "https://openalex.org/W1932955894",
         "https://openalex.org/W2324026987",
         "https://openalex.org/W2319101939",
         "https://openalex.org/W4312408651"
@@ -25721,7 +25821,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25783,7 +25883,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2795665315"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26046,11 +26150,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.2946,
+      "fwci": 1.2884,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.75723291,
+        "value": 0.74983803,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26412,8 +26516,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -26482,7 +26586,7 @@
         "https://openalex.org/W2320303025",
         "https://openalex.org/W2338771377",
         "https://openalex.org/W2597326286",
-        "https://openalex.org/W7167161114",
+        "https://openalex.org/W6983456263",
         "https://openalex.org/W570692802",
         "https://openalex.org/W3110520361",
         "https://openalex.org/W2141460615",
@@ -26523,7 +26627,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2018-04-13T00:00:00"
     },
     {
@@ -26584,7 +26688,11 @@
         "raw_source_name": "Journal of Sedimentary Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2139650230"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27017,8 +27125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27901,7 +28009,11 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2757732133"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -28615,8 +28727,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -29505,7 +29617,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2978412508"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29939,8 +30055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2978412508.pdf",
@@ -30475,10 +30591,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -30489,7 +30609,11 @@
         "raw_source_name": "Proceedings of the 4th Unconventional Resources Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2597185442"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30668,11 +30792,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3175,
+      "fwci": 3.3155,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.89211101,
+        "value": 0.89200999,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30874,10 +30998,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -30895,8 +31023,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30909,7 +31037,7 @@
         "https://openalex.org/W2964612954",
         "https://openalex.org/W1995064611",
         "https://openalex.org/W3105185564",
-        "https://openalex.org/W4247887725",
+        "https://openalex.org/W2029234955",
         "https://openalex.org/W2762543618",
         "https://openalex.org/W1515237478"
       ],
@@ -30928,7 +31056,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-03-23T00:00:00"
     },
     {
@@ -30987,7 +31115,11 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2768709882"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31597,8 +31729,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -32149,7 +32281,11 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4293329459"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -32868,8 +33004,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -33027,7 +33163,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3021400260"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -33370,8 +33510,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33380,7 +33520,7 @@
         "https://openalex.org/W2620705869",
         "https://openalex.org/W2026768305",
         "https://openalex.org/W3022889094",
-        "https://openalex.org/W4255163653",
+        "https://openalex.org/W2053493272",
         "https://openalex.org/W2562655431",
         "https://openalex.org/W2022210751",
         "https://openalex.org/W3023840164",
@@ -34039,7 +34179,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -34069,7 +34209,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2184740681"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34405,8 +34549,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -35059,7 +35203,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2533249104"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -35444,8 +35592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35453,8 +35601,8 @@
       "related_works": [
         "https://openalex.org/W2965273680",
         "https://openalex.org/W3138456400",
-        "https://openalex.org/W4246951692",
-        "https://openalex.org/W4251819103",
+        "https://openalex.org/W2159708894",
+        "https://openalex.org/W2106845468",
         "https://openalex.org/W649871998",
         "https://openalex.org/W3014098635",
         "https://openalex.org/W7067074935",
@@ -35464,7 +35612,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -35517,7 +35665,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2535213321"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -35908,27 +36060,26 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
         "https://openalex.org/W7066701358",
-        "https://openalex.org/W7167199715",
-        "https://openalex.org/W7212200236",
+        "https://openalex.org/W7167182891",
         "https://openalex.org/W2934337132",
         "https://openalex.org/W2049599949",
         "https://openalex.org/W2200824795",
         "https://openalex.org/W2933151505",
-        "https://openalex.org/W4214766346",
+        "https://openalex.org/W2079442945",
         "https://openalex.org/W7062039640",
         "https://openalex.org/W2931176256"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -35973,7 +36124,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2597944828"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -36391,8 +36546,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36404,10 +36559,9 @@
         "https://openalex.org/W2106664009",
         "https://openalex.org/W2105357406",
         "https://openalex.org/W7098597755",
-        "https://openalex.org/W7100223527",
+        "https://openalex.org/W2089839661",
         "https://openalex.org/W2057186847",
-        "https://openalex.org/W3022654826",
-        "https://openalex.org/W2089839661"
+        "https://openalex.org/W3022654826"
       ],
       "abstract_inverted_index": {
         "12": [
@@ -37109,7 +37263,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-04-07T00:00:00"
     },
     {
@@ -37139,7 +37293,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2908719499"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -37349,8 +37507,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37421,7 +37579,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4312824837"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -37815,8 +37977,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37825,7 +37987,7 @@
         "https://openalex.org/W3203942023",
         "https://openalex.org/W768562113",
         "https://openalex.org/W2986981353",
-        "https://openalex.org/W7073981476",
+        "https://openalex.org/W1534624437",
         "https://openalex.org/W4312251261",
         "https://openalex.org/W3161144706",
         "https://openalex.org/W3090038759",
@@ -37835,7 +37997,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-01-05T00:00:00"
     },
     {
@@ -37887,7 +38049,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4389353987"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -38426,8 +38592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38498,7 +38664,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4403857065"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -39091,8 +39261,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39157,7 +39327,11 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408525198"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -39644,8 +39818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408525198.pdf",
@@ -39660,14 +39834,14 @@
         "https://openalex.org/W7221533513",
         "https://openalex.org/W4255616292",
         "https://openalex.org/W4249212839",
-        "https://openalex.org/W7096154097",
+        "https://openalex.org/W1982522960",
         "https://openalex.org/W4236355732",
         "https://openalex.org/W3212789595",
         "https://openalex.org/W4389561183"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-03-18T00:00:00"
     },
     {
@@ -39719,7 +39893,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4417217385"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -40142,8 +40320,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40152,17 +40330,13 @@
         "https://openalex.org/W2320147323",
         "https://openalex.org/W2342544571",
         "https://openalex.org/W2998186122",
-        "https://openalex.org/W1984052104",
-        "https://openalex.org/W2312375400",
         "https://openalex.org/W2958796111",
-        "https://openalex.org/W262382894",
-        "https://openalex.org/W2726191192",
         "https://openalex.org/W2035707544",
         "https://openalex.org/W4244268863"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-12-11T00:00:00"
     }
   ]

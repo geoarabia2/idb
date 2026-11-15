@@ -483,10 +483,18 @@
         "raw_source_name": "Future Petroleum Provinces of the World",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W188107018",
-        "display_name": "Future Petroleum Provinces of the World"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W188107018",
+          "display_name": "Future Petroleum Provinces of the World",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1525628619",
+        "https://openalex.org/W188107018"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -1084,7 +1092,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1144,7 +1152,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2071064541"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1919,7 +1931,11 @@
         "raw_source_name": "Geological Society of America Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2057186847"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3284,7 +3300,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1540248330"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3351,11 +3371,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.3862,
+      "fwci": 1.3872,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.82977011,
+        "value": 0.82990697,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3647,7 +3667,7 @@
         "https://openalex.org/W1964578975",
         "https://openalex.org/W2900447501",
         "https://openalex.org/W2007218904",
-        "https://openalex.org/W4285611916",
+        "https://openalex.org/W4319766246",
         "https://openalex.org/W2087614875"
       ],
       "abstract_inverted_index": null,
@@ -3693,7 +3713,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-22T09:42:04.148104",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3748,7 +3768,11 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3014593358"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3931,11 +3955,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.1621,
+      "fwci": 1.16,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.75376221,
+        "value": 0.74889984,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4286,12 +4310,11 @@
         "https://openalex.org/W2218327454",
         "https://openalex.org/W2967083983",
         "https://openalex.org/W4407140010",
-        "https://openalex.org/W4285611916",
+        "https://openalex.org/W4319766246",
         "https://openalex.org/W2332274108",
         "https://openalex.org/W2090166221",
         "https://openalex.org/W4361006874",
-        "https://openalex.org/W2770315162",
-        "https://openalex.org/W4319766246"
+        "https://openalex.org/W2770315162"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -4316,7 +4339,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-04-10T00:00:00"
     },
     {
@@ -4376,7 +4399,11 @@
         "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2169570507"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4563,11 +4590,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.0972,
+      "fwci": 1.0995,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.81353981,
+        "value": 0.81399478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4971,7 +4998,7 @@
         "https://openalex.org/W2026768305",
         "https://openalex.org/W1995250506",
         "https://openalex.org/W2562655431",
-        "https://openalex.org/W4248444841",
+        "https://openalex.org/W2070394625",
         "https://openalex.org/W2986632095",
         "https://openalex.org/W4386532202",
         "https://openalex.org/W2375361808"
@@ -5348,7 +5375,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5406,7 +5433,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2106402102"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6013,7 +6044,11 @@
         "raw_source_name": "TURKISH JOURNAL OF EARTH SCIENCES",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2167330935"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6190,11 +6225,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1573,
+      "fwci": 1.157,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.80720673,
+        "value": 0.80715601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6723,7 +6758,6 @@
         "https://openalex.org/W3123652700"
       ],
       "related_works": [
-        "https://openalex.org/W7100077243",
         "https://openalex.org/W4387760936",
         "https://openalex.org/W2067784425",
         "https://openalex.org/W1662605452",
@@ -6731,7 +6765,7 @@
         "https://openalex.org/W3023033146",
         "https://openalex.org/W2920852706",
         "https://openalex.org/W2489797200",
-        "https://openalex.org/W7167195575",
+        "https://openalex.org/W7015017364",
         "https://openalex.org/W4416281414"
       ],
       "abstract_inverted_index": {
@@ -7264,7 +7298,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7324,7 +7358,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2159627547"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8549,6 +8587,322 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2324975818",
+      "doi": "https://doi.org/10.4197/ear.3-1.17",
+      "title": "The Paleozoic Succession and the Influence of the Hercynian Equivalent Movements in the Greater Arabian Basin",
+      "display_name": "The Paleozoic Succession and the Influence of the Hercynian Equivalent Movements in the Greater Arabian Basin",
+      "publication_year": 1990,
+      "publication_date": "1990-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2324975818",
+        "doi": "https://doi.org/10.4197/ear.3-1.17",
+        "mag": "2324975818"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4197/ear.3-1.17",
+        "doi": "https://doi.org/10.4197/ear.3-1.17",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4197/ear.3-1.17",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S98092993",
+          "display_name": "Journal of King Abdulaziz University-Earth Sciences",
+          "issn_l": "1012-8832",
+          "issn": [
+            "1012-8832",
+            "1658-4317"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of King Abdulaziz University-Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2324975818"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061320565",
+            "display_name": "Abdulaziz A. Al-Laboun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "ABDULAZIZ AL-LABOUN",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5061320565"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "3",
+        "issue": "1",
+        "first_page": "201",
+        "last_page": "215"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "score": 0.6650000214576721,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.6650000214576721,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.2329999953508377,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.02979999966919422,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/variscan-orogeny",
+          "display_name": "Variscan orogeny",
+          "score": 0.9240000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-basin-evolution",
+          "display_name": "sedimentary basin evolution",
+          "score": 0.4869999885559082
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.9220780730247498
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.8509474992752075
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.6572986841201782
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6451989412307739
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5664240121841431
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.1402740180492401
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.1341756284236908
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4197/ear.3-1.17",
+          "doi": "https://doi.org/10.4197/ear.3-1.17",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4197/ear.3-1.17",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S98092993",
+            "display_name": "Journal of King Abdulaziz University-Earth Sciences",
+            "issn_l": "1012-8832",
+            "issn": [
+              "1012-8832",
+              "1658-4317"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of King Abdulaziz University-Earth Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2998459675",
+        "https://openalex.org/W2994217494",
+        "https://openalex.org/W2625228962",
+        "https://openalex.org/W2312730272",
+        "https://openalex.org/W2188088257",
+        "https://openalex.org/W2313713952",
+        "https://openalex.org/W4213422609",
+        "https://openalex.org/W3123709743",
+        "https://openalex.org/W2067071233",
+        "https://openalex.org/W2157189007"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1831163486",
       "doi": null,
       "title": "The Devonian of the Arabian Peninsula",
@@ -8575,7 +8929,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1831163486"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -8636,7 +8994,7 @@
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 94
+        "max": 93
       },
       "biblio": {
         "volume": null,
@@ -8836,7 +9194,7 @@
         "https://openalex.org/W2964097576",
         "https://openalex.org/W2586174234",
         "https://openalex.org/W2026129806",
-        "https://openalex.org/W1594577404",
+        "https://openalex.org/W2025474462",
         "https://openalex.org/W2269346349",
         "https://openalex.org/W1965701923",
         "https://openalex.org/W1999461864",
@@ -9421,319 +9779,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2324975818",
-      "doi": "https://doi.org/10.4197/ear.3-1.17",
-      "title": "The Paleozoic Succession and the Influence of the Hercynian Equivalent Movements in the Greater Arabian Basin",
-      "display_name": "The Paleozoic Succession and the Influence of the Hercynian Equivalent Movements in the Greater Arabian Basin",
-      "publication_year": 1990,
-      "publication_date": "1990-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2324975818",
-        "doi": "https://doi.org/10.4197/ear.3-1.17",
-        "mag": "2324975818"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.4197/ear.3-1.17",
-        "doi": "https://doi.org/10.4197/ear.3-1.17",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.4197/ear.3-1.17",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S98092993",
-          "display_name": "Journal of King Abdulaziz University-Earth Sciences",
-          "issn_l": "1012-8832",
-          "issn": [
-            "1012-8832",
-            "1658-4317"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of King Abdulaziz University-Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5061320565",
-            "display_name": "Abdulaziz A. Al-Laboun",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "ABDULAZIZ AL-LABOUN",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5061320565"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 13,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
-      },
-      "biblio": {
-        "volume": "3",
-        "issue": "1",
-        "first_page": "201",
-        "last_page": "215"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
-        "score": 0.6650000214576721,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.6650000214576721,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.2329999953508377,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.02979999966919422,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/variscan-orogeny",
-          "display_name": "Variscan orogeny",
-          "score": 0.9240000247955322
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-basin-evolution",
-          "display_name": "sedimentary basin evolution",
-          "score": 0.4869999885559082
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.9220780730247498
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.8509474992752075
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.6572986841201782
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6451989412307739
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5664240121841431
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.1402740180492401
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.1341756284236908
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.4197/ear.3-1.17",
-          "doi": "https://doi.org/10.4197/ear.3-1.17",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.4197/ear.3-1.17",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S98092993",
-            "display_name": "Journal of King Abdulaziz University-Earth Sciences",
-            "issn_l": "1012-8832",
-            "issn": [
-              "1012-8832",
-              "1658-4317"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of King Abdulaziz University-Earth Sciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2998459675",
-        "https://openalex.org/W2994217494",
-        "https://openalex.org/W2625228962",
-        "https://openalex.org/W2312730272",
-        "https://openalex.org/W2188088257",
-        "https://openalex.org/W4402406838",
-        "https://openalex.org/W4213422609",
-        "https://openalex.org/W3123709743",
-        "https://openalex.org/W2067071233",
-        "https://openalex.org/W2157189007"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9763,7 +9809,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2770811549"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -10874,7 +10924,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1509729631"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -11814,7 +11868,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2035348630"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12086,7 +12144,7 @@
         "https://openalex.org/W1965447572",
         "https://openalex.org/W2057186847",
         "https://openalex.org/W128146078",
-        "https://openalex.org/W4250816096",
+        "https://openalex.org/W2033668534",
         "https://openalex.org/W4230380811",
         "https://openalex.org/W2240149770",
         "https://openalex.org/W2023229502",
@@ -12095,7 +12153,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     }
   ]

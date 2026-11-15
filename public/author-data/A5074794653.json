@@ -22,9 +22,9 @@
     ],
     "full_name": "Abdulkader M. Alafifi",
     "works_count": 76,
-    "cited_by_count": 1978,
+    "cited_by_count": 1979,
     "summary_stats": {
-      "2yr_mean_citedness": 5.7407407407407405,
+      "2yr_mean_citedness": 5.777777777777778,
       "h_index": 17,
       "i10_index": 26
     },
@@ -488,7 +488,7 @@
         "year": 2026,
         "works_count": 5,
         "oa_works_count": 5,
-        "cited_by_count": 307
+        "cited_by_count": 308
       }
     ],
     "display_name_alternatives": [
@@ -509,7 +509,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074794653",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5074794653",
-    "updated_date": "2026-11-12T13:17:38",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -561,7 +561,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2939888277"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2064,7 +2068,11 @@
         "raw_source_name": "Economic Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2099548869"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2157,11 +2165,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8384,
+      "fwci": 2.8293,
       "has_fulltext": false,
       "cited_by_count": 225,
       "citation_normalized_percentile": {
-        "value": 0.8914716,
+        "value": 0.89076465,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2462,13 +2470,11 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W7095527721",
         "https://openalex.org/W1968519088",
         "https://openalex.org/W1972437778",
         "https://openalex.org/W2027233884",
         "https://openalex.org/W2115961538",
         "https://openalex.org/W2093892006",
-        "https://openalex.org/W4243147966",
         "https://openalex.org/W3006483265",
         "https://openalex.org/W4416978434",
         "https://openalex.org/W4385507825"
@@ -2942,7 +2948,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2993,7 +2999,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2998459675"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4485,7 +4495,11 @@
         "raw_source_name": "International Journal of Hydrogen Energy",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4381186266"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5081,14 +5095,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -5261,7 +5275,11 @@
         "raw_source_name": "Energy Conversion and Management: X",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4295806883"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5972,19 +5990,19 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.833299994468689,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.6773999929428101,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
@@ -6830,7 +6848,11 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4385728002"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7675,14 +7697,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8485000133514404,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -8727,7 +8749,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2217301490"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10343,7 +10369,11 @@
         "raw_source_name": "Tectonophysics",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4317726608"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11992,7 +12022,11 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4310197281"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12495,11 +12529,11 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 2.4454,
+      "fwci": 2.446,
       "has_fulltext": true,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.88985174,
+        "value": 0.88985138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13039,14 +13073,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -13142,7 +13176,7 @@
         "https://openalex.org/W6682810784"
       ],
       "related_works": [
-        "https://openalex.org/W7132616483",
+        "https://openalex.org/W2076891688",
         "https://openalex.org/W2078720099",
         "https://openalex.org/W2063302144",
         "https://openalex.org/W2896932507",
@@ -13752,7 +13786,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-11-30T00:00:00"
     },
     {
@@ -13807,7 +13841,11 @@
         "raw_source_name": "Economic Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2027233884"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14859,7 +14897,11 @@
         "raw_source_name": "Frontiers in Earth Science",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4315472881"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14972,8 +15014,10 @@
           "author": {
             "id": "https://openalex.org/A5036090026",
             "display_name": "Giacomo Losi",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0009-0004-9045-466X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0004-9045-466X"
+            ]
           },
           "institutions": [
             {
@@ -15525,11 +15569,11 @@
         "currency": "USD",
         "value_usd": 3295
       },
-      "fwci": 2.8009,
+      "fwci": 2.7817,
       "has_fulltext": true,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.90918095,
+        "value": 0.90819559,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15953,9 +15997,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -16067,7 +16111,7 @@
         "https://openalex.org/W7204439910",
         "https://openalex.org/W7092507402",
         "https://openalex.org/W2069043448",
-        "https://openalex.org/W2742713946",
+        "https://openalex.org/W2390950372",
         "https://openalex.org/W3201799642"
       ],
       "abstract_inverted_index": {
@@ -16762,7 +16806,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-01-11T00:00:00"
     },
     {
@@ -16821,7 +16865,11 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4390943094"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17150,11 +17198,11 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 5.688,
+      "fwci": 5.6281,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.96846518,
+        "value": 0.96788321,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18141,7 +18189,11 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4391289772"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18391,11 +18443,11 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 5.4604,
+      "fwci": 5.4029,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.96554867,
+        "value": 0.96487226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19850,7 +19902,11 @@
         "raw_source_name": "Carbon Capture Science &amp; Technology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4406872080"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20163,11 +20219,11 @@
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 3.6347,
+      "fwci": 3.7674,
       "has_fulltext": false,
-      "cited_by_count": 22,
+      "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.94924853,
+        "value": 0.95264987,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20520,24 +20576,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.7207000255584717,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5925999879837036,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -21372,14 +21428,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2025,
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-01-28T00:00:00"
     },
     {
@@ -21438,7 +21494,11 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4317600200"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22823,7 +22883,11 @@
         "raw_source_name": "BSGF - Earth Sciences Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394778492"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23051,11 +23115,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 4.5504,
+      "fwci": 4.5025,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.95160408,
+        "value": 0.95100365,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24010,7 +24074,11 @@
         "raw_source_name": "International Journal of Greenhouse Gas Control",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4406675261"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24957,9 +25025,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -25694,7 +25762,11 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408878224"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26378,9 +26450,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -27011,7 +27083,11 @@
         "raw_source_name": "Geoenergy",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408846760"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27669,11 +27745,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0927,
+      "fwci": 2.0641,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.84714336,
+        "value": 0.8445942,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28039,14 +28115,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -28962,7 +29038,11 @@
         "raw_source_name": "SPE Reservoir Characterisation and Simulation Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4317791642"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -29545,14 +29625,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -30628,7 +30708,11 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4309699776"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30790,11 +30874,11 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 1.0442,
+      "fwci": 1.0409,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.68310932,
+        "value": 0.68207747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31330,8 +31414,7 @@
         "https://openalex.org/W4318708285",
         "https://openalex.org/W4221071137",
         "https://openalex.org/W4386022979",
-        "https://openalex.org/W2771614399",
-        "https://openalex.org/W2184857597"
+        "https://openalex.org/W2771614399"
       ],
       "abstract_inverted_index": {
         "Most": [
@@ -31919,7 +32002,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-11-29T00:00:00"
     },
     {
@@ -31976,7 +32059,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4388945405"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33397,7 +33484,11 @@
         "raw_source_name": "Communications Earth &amp; Environment",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4409152923"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -35186,9 +35277,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -35910,7 +36001,11 @@
         "raw_source_name": "Meteoritics &amp; Planetary Science",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2219636280"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -37279,7 +37374,11 @@
         "raw_source_name": "AGUFM",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3034546264"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -37696,1392 +37795,6 @@
       "created_date": "2020-06-19T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4392187609",
-      "doi": "https://doi.org/10.2523/iptc-24006-ms",
-      "title": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
-      "display_name": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
-      "publication_year": 2024,
-      "publication_date": "2024-02-12",
-      "ids": {
-        "openalex": "https://openalex.org/W4392187609",
-        "doi": "https://doi.org/10.2523/iptc-24006-ms"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2523/iptc-24006-ms",
-        "doi": "https://doi.org/10.2523/iptc-24006-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363607700",
-          "display_name": "International Petroleum Technology Conference",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Petroleum Technology Conference",
-        "raw_type": "proceedings-article"
-      },
-      "volume": null,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5103178727",
-            "display_name": "Amer Alanazi",
-            "orcid": "https://orcid.org/0000-0002-7508-5913",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7508-5913"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Amer Alanazi",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100394404",
-            "display_name": "Jing Ye",
-            "orcid": "https://orcid.org/0000-0002-0785-9614",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0785-9614"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jing Ye",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074794653",
-            "display_name": "Abdulkader M. Afifi",
-            "orcid": "https://orcid.org/0000-0002-3193-4792",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3193-4792"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader Afifi",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067974945",
-            "display_name": "Hussein Hoteit",
-            "orcid": "https://orcid.org/0000-0002-3900-7272",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3900-7272"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hussein Hoteit",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 6.7778,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.97745594,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 0.7192000150680542,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.7192000150680542,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11007",
-          "display_name": "Hybrid Renewable Energy Systems",
-          "score": 0.2371000051498413,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2102",
-            "display_name": "Energy Engineering and Power Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10811",
-          "display_name": "Hydrogen Storage and Materials",
-          "score": 0.009999999776482582,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2505",
-            "display_name": "Materials Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/underground-hydrogen-storage",
-          "display_name": "underground hydrogen storage",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/saudi-arabia",
-          "display_name": "Saudi Arabia",
-          "score": 0.7710000276565552
-        },
-        {
-          "id": "https://openalex.org/keywords/salt-caverns",
-          "display_name": "salt caverns",
-          "score": 0.8180000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/deep-saline-aquifers",
-          "display_name": "deep saline aquifers",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-reservoirs",
-          "display_name": "hydrocarbon reservoirs",
-          "score": 0.9860000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/site-selection",
-          "display_name": "site selection",
-          "score": 0.777999997138977
-        },
-        {
-          "id": "https://openalex.org/keywords/storage-capacity",
-          "display_name": "storage capacity",
-          "score": 0.7620000243186951
-        },
-        {
-          "id": "https://openalex.org/keywords/red-sea-basin",
-          "display_name": "Red Sea basin",
-          "score": 0.7409999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/circular-carbon-economy",
-          "display_name": "circular carbon economy",
-          "score": 0.8550000190734863
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogen-energy-transition",
-          "display_name": "hydrogen energy transition",
-          "score": 0.36800000071525574
-        },
-        {
-          "id": "https://openalex.org/keywords/low-carbon-economy",
-          "display_name": "low-carbon economy",
-          "score": 0.5669999718666077
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C68044625",
-          "wikidata": "https://www.wikidata.org/wiki/Q1203442",
-          "display_name": "Hydrogen storage",
-          "level": 3,
-          "score": 0.5582460761070251
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.4564419388771057
-        },
-        {
-          "id": "https://openalex.org/C112930515",
-          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
-          "display_name": "Risk analysis (engineering)",
-          "level": 1,
-          "score": 0.3498404920101166
-        },
-        {
-          "id": "https://openalex.org/C512968161",
-          "wikidata": "https://www.wikidata.org/wiki/Q556",
-          "display_name": "Hydrogen",
-          "level": 2,
-          "score": 0.3305248022079468
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.2507438361644745
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.1575724482536316
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2523/iptc-24006-ms",
-          "doi": "https://doi.org/10.2523/iptc-24006-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363607700",
-            "display_name": "International Petroleum Technology Conference",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Petroleum Technology Conference",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Affordable and clean energy",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/7"
-        },
-        {
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/9"
-        },
-        {
-          "display_name": "Climate action",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 90,
-      "referenced_works": [
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1432124432",
-        "https://openalex.org/W1639369028",
-        "https://openalex.org/W2001464505",
-        "https://openalex.org/W2089863898",
-        "https://openalex.org/W2129409811",
-        "https://openalex.org/W2344703370",
-        "https://openalex.org/W2461419449",
-        "https://openalex.org/W2593529559",
-        "https://openalex.org/W2746144576",
-        "https://openalex.org/W2787269185",
-        "https://openalex.org/W2790955802",
-        "https://openalex.org/W2791045271",
-        "https://openalex.org/W2896836752",
-        "https://openalex.org/W2901463992",
-        "https://openalex.org/W2912263470",
-        "https://openalex.org/W2913361982",
-        "https://openalex.org/W2919147569",
-        "https://openalex.org/W2920729072",
-        "https://openalex.org/W2929651773",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2943827029",
-        "https://openalex.org/W2980511818",
-        "https://openalex.org/W2983025427",
-        "https://openalex.org/W2996539876",
-        "https://openalex.org/W3047056239",
-        "https://openalex.org/W3093403940",
-        "https://openalex.org/W3119950469",
-        "https://openalex.org/W3120263324",
-        "https://openalex.org/W3160605717",
-        "https://openalex.org/W3164382478",
-        "https://openalex.org/W3190333702",
-        "https://openalex.org/W3192962771",
-        "https://openalex.org/W3196443853",
-        "https://openalex.org/W3202007182",
-        "https://openalex.org/W3217674584",
-        "https://openalex.org/W4200042478",
-        "https://openalex.org/W4200053550",
-        "https://openalex.org/W4200344755",
-        "https://openalex.org/W4212981320",
-        "https://openalex.org/W4213297735",
-        "https://openalex.org/W4214944104",
-        "https://openalex.org/W4220875243",
-        "https://openalex.org/W4281286051",
-        "https://openalex.org/W4283260162",
-        "https://openalex.org/W4285007039",
-        "https://openalex.org/W4286298160",
-        "https://openalex.org/W4292714510",
-        "https://openalex.org/W4294612867",
-        "https://openalex.org/W4295806883",
-        "https://openalex.org/W4307511257",
-        "https://openalex.org/W4307514743",
-        "https://openalex.org/W4310294508",
-        "https://openalex.org/W4310810109",
-        "https://openalex.org/W4311255578",
-        "https://openalex.org/W4312158510",
-        "https://openalex.org/W4312884655",
-        "https://openalex.org/W4313256179",
-        "https://openalex.org/W4313368048",
-        "https://openalex.org/W4316468234",
-        "https://openalex.org/W4318818627",
-        "https://openalex.org/W4319936556",
-        "https://openalex.org/W4320719921",
-        "https://openalex.org/W4321491514",
-        "https://openalex.org/W4321767624",
-        "https://openalex.org/W4365456076",
-        "https://openalex.org/W4367550380",
-        "https://openalex.org/W4376105402",
-        "https://openalex.org/W4376630439",
-        "https://openalex.org/W4379230158",
-        "https://openalex.org/W4379377042",
-        "https://openalex.org/W4379383047",
-        "https://openalex.org/W4379469447",
-        "https://openalex.org/W4380433655",
-        "https://openalex.org/W4381893393",
-        "https://openalex.org/W4383032438",
-        "https://openalex.org/W4383222055",
-        "https://openalex.org/W4384636672",
-        "https://openalex.org/W4385382885",
-        "https://openalex.org/W4385432334",
-        "https://openalex.org/W4385728002",
-        "https://openalex.org/W4386570479",
-        "https://openalex.org/W4386737236",
-        "https://openalex.org/W4386918076",
-        "https://openalex.org/W6810558780",
-        "https://openalex.org/W6842813928",
-        "https://openalex.org/W6842871623",
-        "https://openalex.org/W6854949533",
-        "https://openalex.org/W6856850674",
-        "https://openalex.org/W7148615639"
-      ],
-      "related_works": [
-        "https://openalex.org/W4386534990",
-        "https://openalex.org/W6945730874",
-        "https://openalex.org/W4400746020",
-        "https://openalex.org/W4405744766",
-        "https://openalex.org/W7125599288",
-        "https://openalex.org/W4411740135",
-        "https://openalex.org/W4386945749",
-        "https://openalex.org/W4393994177",
-        "https://openalex.org/W4413865411",
-        "https://openalex.org/W4407223422"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Hydrogen": [
-          1
-        ],
-        "(H2)": [
-          2
-        ],
-        "is": [
-          3,
-          237
-        ],
-        "anticipated": [
-          4
-        ],
-        "to": [
-          5,
-          14,
-          104,
-          130,
-          155,
-          211,
-          277,
-          325
-        ],
-        "play": [
-          6
-        ],
-        "a": [
-          7,
-          15,
-          65,
-          76,
-          198,
-          223,
-          327
-        ],
-        "crucial": [
-          8
-        ],
-        "role": [
-          9
-        ],
-        "in": [
-          10,
-          42,
-          83,
-          93,
-          110,
-          136,
-          164,
-          179,
-          252,
-          289,
-          309
-        ],
-        "Saudi": [
-          11,
-          45,
-          111,
-          165,
-          310
-        ],
-        "Arabia's": [
-          12,
-          46
-        ],
-        "transition": [
-          13
-        ],
-        "low-carbon": [
-          16
-        ],
-        "economy": [
-          17,
-          63,
-          322
-        ],
-        "as": [
-          18,
-          75
-        ],
-        "an": [
-          19,
-          60
-        ],
-        "alternative": [
-          20
-        ],
-        "clean": [
-          21
-        ],
-        "fuel.": [
-          22
-        ],
-        "The": [
-          23,
-          158,
-          187,
-          217,
-          303
-        ],
-        "conversion": [
-          24
-        ],
-        "of": [
-          25,
-          108,
-          201,
-          219,
-          235,
-          245,
-          306
-        ],
-        "fossil": [
-          26
-        ],
-        "fuels": [
-          27
-        ],
-        "through": [
-          28
-        ],
-        "steam": [
-          29
-        ],
-        "methane": [
-          30
-        ],
-        "reformation": [
-          31
-        ],
-        "produces": [
-          32
-        ],
-        "blue": [
-          33
-        ],
-        "H2,": [
-          34
-        ],
-        "with": [
-          35,
-          263
-        ],
-        "captured": [
-          36
-        ],
-        "carbon": [
-          37,
-          321
-        ],
-        "dioxide": [
-          38
-        ],
-        "(CO2)": [
-          39
-        ],
-        "being": [
-          40
-        ],
-        "stored": [
-          41
-        ],
-        "geological": [
-          43,
-          116,
-          162
-        ],
-        "formations.": [
-          44
-        ],
-        "strategic": [
-          47
-        ],
-        "location": [
-          48
-        ],
-        "and": [
-          49,
-          55,
-          86,
-          95,
-          113,
-          123,
-          126,
-          149,
-          176,
-          194,
-          260,
-          280,
-          286,
-          300
-        ],
-        "recent": [
-          50
-        ],
-        "policies": [
-          51
-        ],
-        "promote": [
-          52
-        ],
-        "renewable": [
-          53
-        ],
-        "energy": [
-          54,
-          138
-        ],
-        "green": [
-          56
-        ],
-        "H2.": [
-          57
-        ],
-        "However,": [
-          58
-        ],
-        "establishing": [
-          59
-        ],
-        "industrial-scale": [
-          61
-        ],
-        "H2-based": [
-          62
-        ],
-        "necessitates": [
-          64
-        ],
-        "suitable": [
-          66,
-          170
-        ],
-        "large-scale": [
-          67
-        ],
-        "storage": [
-          68,
-          72,
-          81,
-          146
-        ],
-        "solution.": [
-          69
-        ],
-        "Underground": [
-          70
-        ],
-        "hydrogen": [
-          71
-        ],
-        "(UHS)": [
-          73
-        ],
-        "emerges": [
-          74
-        ],
-        "prominent": [
-          77
-        ],
-        "option,": [
-          78
-        ],
-        "offering": [
-          79
-        ],
-        "significant": [
-          80
-        ],
-        "capacities": [
-          82
-        ],
-        "the": [
-          84,
-          100,
-          106,
-          137,
-          161,
-          180,
-          184,
-          190,
-          214,
-          241,
-          270,
-          290,
-          294,
-          319
-        ],
-        "Giga-": [
-          85
-        ],
-        "Terra-Watt-hour": [
-          87
-        ],
-        "range,": [
-          88
-        ],
-        "effectively": [
-          89
-        ],
-        "addressing": [
-          90
-        ],
-        "seasonal": [
-          91
-        ],
-        "fluctuations": [
-          92
-        ],
-        "supply": [
-          94
-        ],
-        "demand": [
-          96
-        ],
-        "from": [
-          97
-        ],
-        "renewables.": [
-          98
-        ],
-        "Therefore,": [
-          99
-        ],
-        "present": [
-          101
-        ],
-        "work": [
-          102
-        ],
-        "aims": [
-          103
-        ],
-        "evaluate": [
-          105
-        ],
-        "opportunity": [
-          107
-        ],
-        "UHS": [
-          109,
-          134,
-          215,
-          236,
-          246,
-          275,
-          307
-        ],
-        "Arabia": [
-          112,
-          166,
-          311
-        ],
-        "assess": [
-          114
-        ],
-        "potential": [
-          115,
-          308
-        ],
-        "formations": [
-          117,
-          178
-        ],
-        "(salt": [
-          118
-        ],
-        "caverns,": [
-          119
-        ],
-        "deep": [
-          120,
-          257
-        ],
-        "saline": [
-          121,
-          261
-        ],
-        "aquifers,": [
-          122
-        ],
-        "hydrocarbon": [
-          124
-        ],
-        "reservoirs)": [
-          125
-        ],
-        "key": [
-          127
-        ],
-        "technical": [
-          128
-        ],
-        "challenges": [
-          129
-        ],
-        "be": [
-          131,
-          156
-        ],
-        "addressed": [
-          132
-        ],
-        "for": [
-          133,
-          143,
-          171,
-          197,
-          274
-        ],
-        "integration": [
-          135,
-          316
-        ],
-        "grid.": [
-          139
-        ],
-        "This": [
-          140
-        ],
-        "includes": [
-          141
-        ],
-        "criteria": [
-          142
-        ],
-        "site": [
-          144
-        ],
-        "selection,": [
-          145
-        ],
-        "capacity": [
-          147
-        ],
-        "calculations,": [
-          148
-        ],
-        "other": [
-          150
-        ],
-        "critical": [
-          151
-        ],
-        "scientific": [
-          152
-        ],
-        "research": [
-          153
-        ],
-        "areas": [
-          154
-        ],
-        "studied.": [
-          157
-        ],
-        "paper": [
-          159
-        ],
-        "reviews": [
-          160
-        ],
-        "settings": [
-          163
-        ],
-        "that": [
-          167
-        ],
-        "are": [
-          168,
-          250,
-          297
-        ],
-        "potentially": [
-          169
-        ],
-        "UHS,": [
-          172
-        ],
-        "Red": [
-          173
-        ],
-        "Sea": [
-          174
-        ],
-        "basins,": [
-          175
-        ],
-        "sedimentary": [
-          177,
-          287
-        ],
-        "eastern": [
-          181,
-          291
-        ],
-        "basins": [
-          182,
-          292
-        ],
-        "at": [
-          183,
-          293
-        ],
-        "Arabian": [
-          185,
-          295
-        ],
-        "plate.": [
-          186
-        ],
-        "results": [
-          188
-        ],
-        "highlight": [
-          189
-        ],
-        "requisite": [
-          191
-        ],
-        "fundamental": [
-          192
-        ],
-        "experimental": [
-          193
-        ],
-        "numerical": [
-          195
-        ],
-        "studies": [
-          196
-        ],
-        "complete": [
-          199
-        ],
-        "understanding": [
-          200
-        ],
-        "H2/brine": [
-          202
-        ],
-        "behavior": [
-          203
-        ],
-        "within": [
-          204
-        ],
-        "formation": [
-          205
-        ],
-        "rocks,": [
-          206
-        ],
-        "including": [
-          207
-        ],
-        "geo-bio-chemical": [
-          208
-        ],
-        "reactions": [
-          209
-        ],
-        "prone": [
-          210
-        ],
-        "occur": [
-          212
-        ],
-        "during": [
-          213
-        ],
-        "process.": [
-          216
-        ],
-        "analysis": [
-          218,
-          305
-        ],
-        "H2": [
-          220
-        ],
-        "thermo-physical": [
-          221
-        ],
-        "suggests": [
-          222
-        ],
-        "more": [
-          224,
-          298
-        ],
-        "operational": [
-          225
-        ],
-        "challenge": [
-          226
-        ],
-        "than": [
-          227
-        ],
-        "storing": [
-          228
-        ],
-        "CO2": [
-          229
-        ],
-        "or": [
-          230,
-          266
-        ],
-        "natural": [
-          231
-        ],
-        "gas.": [
-          232
-        ],
-        "Commercial": [
-          233
-        ],
-        "demonstration": [
-          234
-        ],
-        "crucial,": [
-          238
-        ],
-        "while": [
-          239
-        ],
-        "all": [
-          240
-        ],
-        "ongoing": [
-          242
-        ],
-        "field": [
-          243
-        ],
-        "tests": [
-          244
-        ],
-        "(pure": [
-          247
-        ],
-        "H2)": [
-          248
-        ],
-        "worldwide": [
-          249
-        ],
-        "still": [
-          251
-        ],
-        "their": [
-          253,
-          278
-        ],
-        "early": [
-          254
-        ],
-        "stages.": [
-          255
-        ],
-        "Regionally,": [
-          256
-        ],
-        "salt": [
-          258
-        ],
-        "caverns": [
-          259
-        ],
-        "aquifers": [
-          262,
-          285
-        ],
-        "closed": [
-          264
-        ],
-        "structures": [
-          265
-        ],
-        "regional": [
-          267
-        ],
-        "seals": [
-          268
-        ],
-        "provide": [
-          269
-        ],
-        "best": [
-          271
-        ],
-        "structural": [
-          272
-        ],
-        "traps": [
-          273
-        ],
-        "due": [
-          276
-        ],
-        "tight": [
-          279
-        ],
-        "secure": [
-          281
-        ],
-        "seal": [
-          282
-        ],
-        "system.": [
-          283
-        ],
-        "Down-dip": [
-          284
-        ],
-        "packages": [
-          288
-        ],
-        "platform": [
-          296
-        ],
-        "attractive": [
-          299
-        ],
-        "safer": [
-          301
-        ],
-        "options.": [
-          302
-        ],
-        "discussed": [
-          304
-        ],
-        "sheds": [
-          312
-        ],
-        "light": [
-          313
-        ],
-        "on": [
-          314
-        ],
-        "its": [
-          315
-        ],
-        "possibility": [
-          317
-        ],
-        "into": [
-          318
-        ],
-        "circular": [
-          320
-        ],
-        "(CCE)": [
-          323
-        ],
-        "framework": [
-          324
-        ],
-        "achieve": [
-          326
-        ],
-        "net-zero": [
-          328
-        ],
-        "emission": [
-          329
-        ],
-        "by": [
-          330
-        ],
-        "2060.": [
-          331
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2024-02-28T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4213133774",
       "doi": "https://doi.org/10.2523/iptc-22237-ms",
       "title": "The Potential for Underground CO2 Disposal Near Riyadh",
@@ -39122,7 +37835,11 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4213133774"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -39770,19 +38487,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5925999879837036,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5378999710083008,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
@@ -40887,7 +39604,11 @@
         "raw_source_name": "Communications Earth &amp; Environment",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4413118665"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -41054,11 +39775,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.5236,
+      "fwci": 1.5017,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.76797839,
+        "value": 0.76515207,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41427,9 +40148,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -42005,6 +40726,1396 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4392187609",
+      "doi": "https://doi.org/10.2523/iptc-24006-ms",
+      "title": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
+      "display_name": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
+      "publication_year": 2024,
+      "publication_date": "2024-02-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4392187609",
+        "doi": "https://doi.org/10.2523/iptc-24006-ms"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2523/iptc-24006-ms",
+        "doi": "https://doi.org/10.2523/iptc-24006-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363607700",
+          "display_name": "International Petroleum Technology Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Petroleum Technology Conference",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4392187609"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103178727",
+            "display_name": "Amer Alanazi",
+            "orcid": "https://orcid.org/0000-0002-7508-5913",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7508-5913"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amer Alanazi",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100394404",
+            "display_name": "Jing Ye",
+            "orcid": "https://orcid.org/0000-0002-0785-9614",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0785-9614"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jing Ye",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074794653",
+            "display_name": "Abdulkader M. Afifi",
+            "orcid": "https://orcid.org/0000-0002-3193-4792",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3193-4792"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader Afifi",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067974945",
+            "display_name": "Hussein Hoteit",
+            "orcid": "https://orcid.org/0000-0002-3900-7272",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3900-7272"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hussein Hoteit",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 6.7045,
+      "has_fulltext": false,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.97599564,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.7192000150680542,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.7192000150680542,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11007",
+          "display_name": "Hybrid Renewable Energy Systems",
+          "score": 0.2371000051498413,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2102",
+            "display_name": "Energy Engineering and Power Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10811",
+          "display_name": "Hydrogen Storage and Materials",
+          "score": 0.009999999776482582,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/underground-hydrogen-storage",
+          "display_name": "underground hydrogen storage",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.7710000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/salt-caverns",
+          "display_name": "salt caverns",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/deep-saline-aquifers",
+          "display_name": "deep saline aquifers",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.9860000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/site-selection",
+          "display_name": "site selection",
+          "score": 0.777999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/storage-capacity",
+          "display_name": "storage capacity",
+          "score": 0.7620000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/red-sea-basin",
+          "display_name": "Red Sea basin",
+          "score": 0.7409999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/circular-carbon-economy",
+          "display_name": "circular carbon economy",
+          "score": 0.8550000190734863
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogen-energy-transition",
+          "display_name": "hydrogen energy transition",
+          "score": 0.36800000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/low-carbon-economy",
+          "display_name": "low-carbon economy",
+          "score": 0.5669999718666077
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C68044625",
+          "wikidata": "https://www.wikidata.org/wiki/Q1203442",
+          "display_name": "Hydrogen storage",
+          "level": 3,
+          "score": 0.5582460761070251
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4564419388771057
+        },
+        {
+          "id": "https://openalex.org/C112930515",
+          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+          "display_name": "Risk analysis (engineering)",
+          "level": 1,
+          "score": 0.3498404920101166
+        },
+        {
+          "id": "https://openalex.org/C512968161",
+          "wikidata": "https://www.wikidata.org/wiki/Q556",
+          "display_name": "Hydrogen",
+          "level": 2,
+          "score": 0.3305248022079468
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.2507438361644745
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.1575724482536316
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2523/iptc-24006-ms",
+          "doi": "https://doi.org/10.2523/iptc-24006-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363607700",
+            "display_name": "International Petroleum Technology Conference",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Petroleum Technology Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 1,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 1,
+          "display_name": "Industry, innovation and infrastructure"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
+          "display_name": "Climate action"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 90,
+      "referenced_works": [
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1432124432",
+        "https://openalex.org/W1639369028",
+        "https://openalex.org/W2001464505",
+        "https://openalex.org/W2089863898",
+        "https://openalex.org/W2129409811",
+        "https://openalex.org/W2344703370",
+        "https://openalex.org/W2461419449",
+        "https://openalex.org/W2593529559",
+        "https://openalex.org/W2746144576",
+        "https://openalex.org/W2787269185",
+        "https://openalex.org/W2790955802",
+        "https://openalex.org/W2791045271",
+        "https://openalex.org/W2896836752",
+        "https://openalex.org/W2901463992",
+        "https://openalex.org/W2912263470",
+        "https://openalex.org/W2913361982",
+        "https://openalex.org/W2919147569",
+        "https://openalex.org/W2920729072",
+        "https://openalex.org/W2929651773",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2943827029",
+        "https://openalex.org/W2980511818",
+        "https://openalex.org/W2983025427",
+        "https://openalex.org/W2996539876",
+        "https://openalex.org/W3047056239",
+        "https://openalex.org/W3093403940",
+        "https://openalex.org/W3119950469",
+        "https://openalex.org/W3120263324",
+        "https://openalex.org/W3160605717",
+        "https://openalex.org/W3164382478",
+        "https://openalex.org/W3190333702",
+        "https://openalex.org/W3192962771",
+        "https://openalex.org/W3196443853",
+        "https://openalex.org/W3202007182",
+        "https://openalex.org/W3217674584",
+        "https://openalex.org/W4200042478",
+        "https://openalex.org/W4200053550",
+        "https://openalex.org/W4200344755",
+        "https://openalex.org/W4212981320",
+        "https://openalex.org/W4213297735",
+        "https://openalex.org/W4214944104",
+        "https://openalex.org/W4220875243",
+        "https://openalex.org/W4281286051",
+        "https://openalex.org/W4283260162",
+        "https://openalex.org/W4285007039",
+        "https://openalex.org/W4286298160",
+        "https://openalex.org/W4292714510",
+        "https://openalex.org/W4294612867",
+        "https://openalex.org/W4295806883",
+        "https://openalex.org/W4307511257",
+        "https://openalex.org/W4307514743",
+        "https://openalex.org/W4310294508",
+        "https://openalex.org/W4310810109",
+        "https://openalex.org/W4311255578",
+        "https://openalex.org/W4312158510",
+        "https://openalex.org/W4312884655",
+        "https://openalex.org/W4313256179",
+        "https://openalex.org/W4313368048",
+        "https://openalex.org/W4316468234",
+        "https://openalex.org/W4318818627",
+        "https://openalex.org/W4319936556",
+        "https://openalex.org/W4320719921",
+        "https://openalex.org/W4321491514",
+        "https://openalex.org/W4321767624",
+        "https://openalex.org/W4365456076",
+        "https://openalex.org/W4367550380",
+        "https://openalex.org/W4376105402",
+        "https://openalex.org/W4376630439",
+        "https://openalex.org/W4379230158",
+        "https://openalex.org/W4379377042",
+        "https://openalex.org/W4379383047",
+        "https://openalex.org/W4379469447",
+        "https://openalex.org/W4380433655",
+        "https://openalex.org/W4381893393",
+        "https://openalex.org/W4383032438",
+        "https://openalex.org/W4383222055",
+        "https://openalex.org/W4384636672",
+        "https://openalex.org/W4385382885",
+        "https://openalex.org/W4385432334",
+        "https://openalex.org/W4385728002",
+        "https://openalex.org/W4386570479",
+        "https://openalex.org/W4386737236",
+        "https://openalex.org/W4386918076",
+        "https://openalex.org/W6810558780",
+        "https://openalex.org/W6842813928",
+        "https://openalex.org/W6842871623",
+        "https://openalex.org/W6854949533",
+        "https://openalex.org/W6856850674",
+        "https://openalex.org/W7148615639"
+      ],
+      "related_works": [
+        "https://openalex.org/W4386534990",
+        "https://openalex.org/W6945730874",
+        "https://openalex.org/W4400746020",
+        "https://openalex.org/W4405744766",
+        "https://openalex.org/W7125599288",
+        "https://openalex.org/W4411740135",
+        "https://openalex.org/W4386945749",
+        "https://openalex.org/W4393994177",
+        "https://openalex.org/W4413865411",
+        "https://openalex.org/W4407223422"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Hydrogen": [
+          1
+        ],
+        "(H2)": [
+          2
+        ],
+        "is": [
+          3,
+          237
+        ],
+        "anticipated": [
+          4
+        ],
+        "to": [
+          5,
+          14,
+          104,
+          130,
+          155,
+          211,
+          277,
+          325
+        ],
+        "play": [
+          6
+        ],
+        "a": [
+          7,
+          15,
+          65,
+          76,
+          198,
+          223,
+          327
+        ],
+        "crucial": [
+          8
+        ],
+        "role": [
+          9
+        ],
+        "in": [
+          10,
+          42,
+          83,
+          93,
+          110,
+          136,
+          164,
+          179,
+          252,
+          289,
+          309
+        ],
+        "Saudi": [
+          11,
+          45,
+          111,
+          165,
+          310
+        ],
+        "Arabia's": [
+          12,
+          46
+        ],
+        "transition": [
+          13
+        ],
+        "low-carbon": [
+          16
+        ],
+        "economy": [
+          17,
+          63,
+          322
+        ],
+        "as": [
+          18,
+          75
+        ],
+        "an": [
+          19,
+          60
+        ],
+        "alternative": [
+          20
+        ],
+        "clean": [
+          21
+        ],
+        "fuel.": [
+          22
+        ],
+        "The": [
+          23,
+          158,
+          187,
+          217,
+          303
+        ],
+        "conversion": [
+          24
+        ],
+        "of": [
+          25,
+          108,
+          201,
+          219,
+          235,
+          245,
+          306
+        ],
+        "fossil": [
+          26
+        ],
+        "fuels": [
+          27
+        ],
+        "through": [
+          28
+        ],
+        "steam": [
+          29
+        ],
+        "methane": [
+          30
+        ],
+        "reformation": [
+          31
+        ],
+        "produces": [
+          32
+        ],
+        "blue": [
+          33
+        ],
+        "H2,": [
+          34
+        ],
+        "with": [
+          35,
+          263
+        ],
+        "captured": [
+          36
+        ],
+        "carbon": [
+          37,
+          321
+        ],
+        "dioxide": [
+          38
+        ],
+        "(CO2)": [
+          39
+        ],
+        "being": [
+          40
+        ],
+        "stored": [
+          41
+        ],
+        "geological": [
+          43,
+          116,
+          162
+        ],
+        "formations.": [
+          44
+        ],
+        "strategic": [
+          47
+        ],
+        "location": [
+          48
+        ],
+        "and": [
+          49,
+          55,
+          86,
+          95,
+          113,
+          123,
+          126,
+          149,
+          176,
+          194,
+          260,
+          280,
+          286,
+          300
+        ],
+        "recent": [
+          50
+        ],
+        "policies": [
+          51
+        ],
+        "promote": [
+          52
+        ],
+        "renewable": [
+          53
+        ],
+        "energy": [
+          54,
+          138
+        ],
+        "green": [
+          56
+        ],
+        "H2.": [
+          57
+        ],
+        "However,": [
+          58
+        ],
+        "establishing": [
+          59
+        ],
+        "industrial-scale": [
+          61
+        ],
+        "H2-based": [
+          62
+        ],
+        "necessitates": [
+          64
+        ],
+        "suitable": [
+          66,
+          170
+        ],
+        "large-scale": [
+          67
+        ],
+        "storage": [
+          68,
+          72,
+          81,
+          146
+        ],
+        "solution.": [
+          69
+        ],
+        "Underground": [
+          70
+        ],
+        "hydrogen": [
+          71
+        ],
+        "(UHS)": [
+          73
+        ],
+        "emerges": [
+          74
+        ],
+        "prominent": [
+          77
+        ],
+        "option,": [
+          78
+        ],
+        "offering": [
+          79
+        ],
+        "significant": [
+          80
+        ],
+        "capacities": [
+          82
+        ],
+        "the": [
+          84,
+          100,
+          106,
+          137,
+          161,
+          180,
+          184,
+          190,
+          214,
+          241,
+          270,
+          290,
+          294,
+          319
+        ],
+        "Giga-": [
+          85
+        ],
+        "Terra-Watt-hour": [
+          87
+        ],
+        "range,": [
+          88
+        ],
+        "effectively": [
+          89
+        ],
+        "addressing": [
+          90
+        ],
+        "seasonal": [
+          91
+        ],
+        "fluctuations": [
+          92
+        ],
+        "supply": [
+          94
+        ],
+        "demand": [
+          96
+        ],
+        "from": [
+          97
+        ],
+        "renewables.": [
+          98
+        ],
+        "Therefore,": [
+          99
+        ],
+        "present": [
+          101
+        ],
+        "work": [
+          102
+        ],
+        "aims": [
+          103
+        ],
+        "evaluate": [
+          105
+        ],
+        "opportunity": [
+          107
+        ],
+        "UHS": [
+          109,
+          134,
+          215,
+          236,
+          246,
+          275,
+          307
+        ],
+        "Arabia": [
+          112,
+          166,
+          311
+        ],
+        "assess": [
+          114
+        ],
+        "potential": [
+          115,
+          308
+        ],
+        "formations": [
+          117,
+          178
+        ],
+        "(salt": [
+          118
+        ],
+        "caverns,": [
+          119
+        ],
+        "deep": [
+          120,
+          257
+        ],
+        "saline": [
+          121,
+          261
+        ],
+        "aquifers,": [
+          122
+        ],
+        "hydrocarbon": [
+          124
+        ],
+        "reservoirs)": [
+          125
+        ],
+        "key": [
+          127
+        ],
+        "technical": [
+          128
+        ],
+        "challenges": [
+          129
+        ],
+        "be": [
+          131,
+          156
+        ],
+        "addressed": [
+          132
+        ],
+        "for": [
+          133,
+          143,
+          171,
+          197,
+          274
+        ],
+        "integration": [
+          135,
+          316
+        ],
+        "grid.": [
+          139
+        ],
+        "This": [
+          140
+        ],
+        "includes": [
+          141
+        ],
+        "criteria": [
+          142
+        ],
+        "site": [
+          144
+        ],
+        "selection,": [
+          145
+        ],
+        "capacity": [
+          147
+        ],
+        "calculations,": [
+          148
+        ],
+        "other": [
+          150
+        ],
+        "critical": [
+          151
+        ],
+        "scientific": [
+          152
+        ],
+        "research": [
+          153
+        ],
+        "areas": [
+          154
+        ],
+        "studied.": [
+          157
+        ],
+        "paper": [
+          159
+        ],
+        "reviews": [
+          160
+        ],
+        "settings": [
+          163
+        ],
+        "that": [
+          167
+        ],
+        "are": [
+          168,
+          250,
+          297
+        ],
+        "potentially": [
+          169
+        ],
+        "UHS,": [
+          172
+        ],
+        "Red": [
+          173
+        ],
+        "Sea": [
+          174
+        ],
+        "basins,": [
+          175
+        ],
+        "sedimentary": [
+          177,
+          287
+        ],
+        "eastern": [
+          181,
+          291
+        ],
+        "basins": [
+          182,
+          292
+        ],
+        "at": [
+          183,
+          293
+        ],
+        "Arabian": [
+          185,
+          295
+        ],
+        "plate.": [
+          186
+        ],
+        "results": [
+          188
+        ],
+        "highlight": [
+          189
+        ],
+        "requisite": [
+          191
+        ],
+        "fundamental": [
+          192
+        ],
+        "experimental": [
+          193
+        ],
+        "numerical": [
+          195
+        ],
+        "studies": [
+          196
+        ],
+        "complete": [
+          199
+        ],
+        "understanding": [
+          200
+        ],
+        "H2/brine": [
+          202
+        ],
+        "behavior": [
+          203
+        ],
+        "within": [
+          204
+        ],
+        "formation": [
+          205
+        ],
+        "rocks,": [
+          206
+        ],
+        "including": [
+          207
+        ],
+        "geo-bio-chemical": [
+          208
+        ],
+        "reactions": [
+          209
+        ],
+        "prone": [
+          210
+        ],
+        "occur": [
+          212
+        ],
+        "during": [
+          213
+        ],
+        "process.": [
+          216
+        ],
+        "analysis": [
+          218,
+          305
+        ],
+        "H2": [
+          220
+        ],
+        "thermo-physical": [
+          221
+        ],
+        "suggests": [
+          222
+        ],
+        "more": [
+          224,
+          298
+        ],
+        "operational": [
+          225
+        ],
+        "challenge": [
+          226
+        ],
+        "than": [
+          227
+        ],
+        "storing": [
+          228
+        ],
+        "CO2": [
+          229
+        ],
+        "or": [
+          230,
+          266
+        ],
+        "natural": [
+          231
+        ],
+        "gas.": [
+          232
+        ],
+        "Commercial": [
+          233
+        ],
+        "demonstration": [
+          234
+        ],
+        "crucial,": [
+          238
+        ],
+        "while": [
+          239
+        ],
+        "all": [
+          240
+        ],
+        "ongoing": [
+          242
+        ],
+        "field": [
+          243
+        ],
+        "tests": [
+          244
+        ],
+        "(pure": [
+          247
+        ],
+        "H2)": [
+          248
+        ],
+        "worldwide": [
+          249
+        ],
+        "still": [
+          251
+        ],
+        "their": [
+          253,
+          278
+        ],
+        "early": [
+          254
+        ],
+        "stages.": [
+          255
+        ],
+        "Regionally,": [
+          256
+        ],
+        "salt": [
+          258
+        ],
+        "caverns": [
+          259
+        ],
+        "aquifers": [
+          262,
+          285
+        ],
+        "closed": [
+          264
+        ],
+        "structures": [
+          265
+        ],
+        "regional": [
+          267
+        ],
+        "seals": [
+          268
+        ],
+        "provide": [
+          269
+        ],
+        "best": [
+          271
+        ],
+        "structural": [
+          272
+        ],
+        "traps": [
+          273
+        ],
+        "due": [
+          276
+        ],
+        "tight": [
+          279
+        ],
+        "secure": [
+          281
+        ],
+        "seal": [
+          282
+        ],
+        "system.": [
+          283
+        ],
+        "Down-dip": [
+          284
+        ],
+        "packages": [
+          288
+        ],
+        "platform": [
+          296
+        ],
+        "attractive": [
+          299
+        ],
+        "safer": [
+          301
+        ],
+        "options.": [
+          302
+        ],
+        "discussed": [
+          304
+        ],
+        "sheds": [
+          312
+        ],
+        "light": [
+          313
+        ],
+        "on": [
+          314
+        ],
+        "its": [
+          315
+        ],
+        "possibility": [
+          317
+        ],
+        "into": [
+          318
+        ],
+        "circular": [
+          320
+        ],
+        "(CCE)": [
+          323
+        ],
+        "framework": [
+          324
+        ],
+        "achieve": [
+          326
+        ],
+        "net-zero": [
+          328
+        ],
+        "emission": [
+          329
+        ],
+        "by": [
+          330
+        ],
+        "2060.": [
+          331
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-11-04T10:54:05.112534",
+      "created_date": "2024-02-28T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4393994177",
       "doi": "https://doi.org/10.4324/9781003294290-23",
       "title": "Geological hydrogen storage",
@@ -42035,11 +42146,13 @@
           "host_organization_name": "Routledge",
           "host_organization_lineage": [
             "https://openalex.org/P4310319847",
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
             "Routledge",
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "ebook platform"
         },
@@ -42051,10 +42164,18 @@
         "raw_source_name": "The Clean Hydrogen Economy and Saudi Arabia",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4393994415",
-        "display_name": "The Clean Hydrogen Economy and Saudi Arabia"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4393994415",
+          "display_name": "The Clean Hydrogen Economy and Saudi Arabia: Domestic Developments and International Opportunities",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W4393994177",
+        "https://openalex.org/W4393994415"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -42111,17 +42232,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1438,
+      "fwci": 2.1386,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82368421,
+        "value": 0.82396839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 95,
-        "max": 97
+        "max": 96
       },
       "biblio": {
         "volume": null,
@@ -42327,11 +42448,13 @@
             "host_organization_name": "Routledge",
             "host_organization_lineage": [
               "https://openalex.org/P4310319847",
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
               "Routledge",
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "ebook platform"
           },
@@ -42363,11 +42486,13 @@
           "host_organization_name": "Routledge",
           "host_organization_lineage": [
             "https://openalex.org/P4310319847",
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
             "Routledge",
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "ebook platform"
         },
@@ -42381,14 +42506,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.875,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -42923,7 +43048,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-04-06T00:00:00"
     },
     {
@@ -42969,7 +43094,11 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408525344"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -43900,9 +44029,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -43992,7 +44121,11 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2993803229"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -45131,7 +45264,11 @@
         "raw_source_name": "85th EAGE Annual Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4399187534"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -46042,14 +46179,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -46585,10 +46722,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -46599,7 +46740,11 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4414227501"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -46822,11 +46967,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.0366,
+      "fwci": 8.0403,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.91655267,
+        "value": 0.91704649,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -47205,10 +47350,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -47757,7 +47906,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47815,7 +47964,11 @@
         "raw_source_name": "Energy Conversion and Management: X",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7119514191"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -48663,24 +48816,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         },
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.878000020980835,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
@@ -49386,7 +49539,11 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7125606646"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -50207,7 +50364,11 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3021505772"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -51057,7 +51218,11 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3026589541"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -51502,7 +51667,11 @@
         "raw_source_name": "Geol. Soc. Am., Abstr. Programs; (United States)",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W317593416"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -52492,7 +52661,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2188076273"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -53085,7 +53258,11 @@
         "raw_source_name": "EAGE GET 2022",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4312619309"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -53576,14 +53753,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -54021,7 +54198,11 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4389582677"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -54678,14 +54859,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -54750,10 +54931,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -54764,7 +54949,11 @@
         "raw_source_name": "ADIPEC",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4404014166"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -54945,11 +55134,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8401,
+      "fwci": 0.8381,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.5980352,
+        "value": 0.59765412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55170,10 +55359,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -55188,14 +55381,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -56183,7 +56376,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-11-04T00:00:00"
     },
     {
@@ -56231,7 +56424,11 @@
         "raw_source_name": "SSRN Electronic Journal",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4200630664"
+      ],
+      "child_works_count": 0,
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -57165,9 +57362,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -57326,7 +57523,11 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3047358232"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -57724,9 +57925,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -57839,7 +58040,11 @@
         "raw_source_name": "Open-File Report",
         "raw_type": "report-component"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W172805368"
+      ],
+      "child_works_count": 0,
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -58930,7 +59135,11 @@
         "raw_source_name": null,
         "raw_type": "Thesis"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2729691027"
+      ],
+      "child_works_count": 0,
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -59268,7 +59477,7 @@
         "https://openalex.org/W2029549023",
         "https://openalex.org/W2000579525",
         "https://openalex.org/W4416895974",
-        "https://openalex.org/W7097818544",
+        "https://openalex.org/W2105114960",
         "https://openalex.org/W7162676177",
         "https://openalex.org/W2055797115"
       ],
@@ -60087,7 +60296,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-07-14T00:00:00"
     },
     {
@@ -60133,7 +60342,11 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3200141583"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -60469,9 +60682,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -60564,7 +60777,11 @@
         "raw_source_name": "Open-File Report",
         "raw_type": "report-component"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W159236770"
+      ],
+      "child_works_count": 0,
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -61280,10 +61497,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -61294,7 +61515,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3158674173"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -61759,10 +61984,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -61820,10 +62049,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -61836,14 +62069,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -62776,7 +63009,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -62806,10 +63039,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -62820,7 +63057,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4221046955"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -63188,10 +63429,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -63218,10 +63463,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -64140,7 +64389,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -64171,7 +64420,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3175775378"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -65186,10 +65439,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -65200,7 +65457,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4220732712"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -65727,10 +65988,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -65788,10 +66053,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -66479,7 +66748,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -66509,10 +66778,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -66523,7 +66796,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4221081775"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -66978,10 +67255,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -67008,10 +67289,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -67846,7 +68131,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -67876,7 +68161,11 @@
         "raw_source_name": "Western Slope (Western Colorado)",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4293842582"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -68158,7 +68447,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W29339933"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -68381,7 +68674,7 @@
       "related_works": [
         "https://openalex.org/W2108453424",
         "https://openalex.org/W4253860604",
-        "https://openalex.org/W207135715",
+        "https://openalex.org/W2282472653",
         "https://openalex.org/W2287638928",
         "https://openalex.org/W1599080018",
         "https://openalex.org/W4254331893",
@@ -68392,7 +68685,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:32:53.992493",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -68437,7 +68730,11 @@
         "raw_source_name": "Second EAGE Workshop on Deepwater Exploration in Mexico: Knowledge transfer and collaboration from shelf to deepwater",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2946545009"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -69748,7 +70045,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3020889692"
+      ],
+      "child_works_count": 0,
       "type": "book",
       "is_traditional": true,
       "indexed_in": [],
@@ -69990,7 +70291,11 @@
         "raw_source_name": "LPICo",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3030834469"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -70368,10 +70673,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -70382,7 +70691,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3134951203"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -70480,8 +70793,10 @@
           "author": {
             "id": "https://openalex.org/A5036090026",
             "display_name": "Giacomo Losi",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0009-0004-9045-466X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0004-9045-466X"
+            ]
           },
           "institutions": [
             {
@@ -70952,10 +71267,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -71013,10 +71332,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -71029,9 +71352,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -71610,7 +71933,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-03-15T00:00:00"
     },
     {
@@ -71641,10 +71964,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -71655,7 +71982,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3173126168"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -72037,10 +72368,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -72067,10 +72402,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -72101,7 +72440,6 @@
         "https://openalex.org/W4220912487",
         "https://openalex.org/W4403134565",
         "https://openalex.org/W2771614399",
-        "https://openalex.org/W2184857597",
         "https://openalex.org/W2170368461"
       ],
       "abstract_inverted_index": {
@@ -72644,7 +72982,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-06-22T00:00:00"
     },
     {
@@ -72689,7 +73027,11 @@
         "raw_source_name": "2nd Geoscience &amp; Engineering in Energy Transition Conference",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3216158730"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -73106,14 +73448,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -73618,10 +73960,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -73632,7 +73978,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4220710151"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -74095,10 +74445,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -74187,10 +74541,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -74689,7 +75047,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -74734,7 +75092,11 @@
         "raw_source_name": "27e édition de la Réunion des Sciences de la Terre, SGF, CNRS, Laboratoire de Géologie de Lyon ou l’étude de la Terre, des planètes et de l’environnement, Nov 2021, Lyon, France",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4286860098"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -75152,7 +75514,11 @@
         "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4319339551"
+      ],
+      "child_works_count": 0,
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -76071,10 +76437,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -76085,7 +76455,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4322208809"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -76500,10 +76874,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -76530,10 +76908,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -77375,7 +77757,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-02-27T00:00:00"
     },
     {
@@ -77421,7 +77803,11 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4389582524"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -77958,7 +78344,11 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4408524887"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -78524,9 +78914,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -78613,7 +79003,11 @@
         "raw_source_name": "Carbon Capture Science &amp; Technology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4409851979"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -79230,9 +79624,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -79340,7 +79734,6 @@
         "https://openalex.org/W6866054789"
       ],
       "related_works": [
-        "https://openalex.org/W4406604609",
         "https://openalex.org/W7141325614",
         "https://openalex.org/W1994644589",
         "https://openalex.org/W2073377874",
@@ -79893,7 +80286,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-04-27T00:00:00"
     },
     {
@@ -79923,10 +80316,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -79937,7 +80334,11 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4414226779"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -80392,10 +80793,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -80410,14 +80815,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -81358,7 +81763,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -81404,7 +81809,11 @@
         "raw_source_name": "Goldschmidt2025 abstracts",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4415509016"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -81896,14 +82305,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -81924,13 +82333,13 @@
         "https://openalex.org/W6991198463",
         "https://openalex.org/W2084602546",
         "https://openalex.org/W7167183559",
-        "https://openalex.org/W4247991234",
+        "https://openalex.org/W2011459586",
         "https://openalex.org/W7008908020",
         "https://openalex.org/W3016095574"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-10-24T00:00:00"
     },
     {
@@ -81978,7 +82387,11 @@
         "raw_source_name": null,
         "raw_type": "text"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4416993495"
+      ],
+      "child_works_count": 0,
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -83103,7 +83516,11 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7118184412"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -83427,7 +83844,11 @@
         "raw_source_name": null,
         "raw_type": "Poster"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7127915095"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -84452,7 +84873,11 @@
         "raw_source_name": "Marine Geoscience and Energy Resources",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7160142778"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -85126,9 +85551,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -85855,7 +86280,11 @@
         "raw_source_name": null,
         "raw_type": "article-journal"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7220453003"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -86179,11 +86608,11 @@
         "https://openalex.org/W2588554301",
         "https://openalex.org/W2460281620",
         "https://openalex.org/W7018268463",
-        "https://openalex.org/W2521724661"
+        "https://openalex.org/W2170681361"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2026-10-06T00:00:00"
     },
     {
@@ -86242,7 +86671,11 @@
         "raw_source_name": "Journal of Hydrology: Regional Studies",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7222783965"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -86876,9 +87309,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],

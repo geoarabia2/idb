@@ -632,7 +632,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2002898265"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1400,8 +1404,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 297,
@@ -1843,7 +1847,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1982712732"
+      ],
+      "child_works_count": 0,
       "type": "review",
       "is_traditional": true,
       "indexed_in": [
@@ -2944,11 +2952,32 @@
       },
       "sustainable_development_goals": [],
       "study_designs": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5045578611",
+          "display_name": "Geodynamic setting of the Panafrican Orogenesis in Eastern Africa",
+          "funder_award_id": "P12375",
+          "funder_id": "https://openalex.org/F4320321181",
+          "funder_display_name": "Austrian Science Fund"
+        },
+        {
+          "id": "https://openalex.org/G6317786764",
+          "display_name": "Panafrican and older evolution in Tanzania",
+          "funder_award_id": "P15599",
+          "funder_id": "https://openalex.org/F4320321181",
+          "funder_display_name": "Austrian Science Fund"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321181",
+          "display_name": "Austrian Science Fund",
+          "ror": "https://ror.org/013tf3c58"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 305,
@@ -4077,7 +4106,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4137,7 +4166,11 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2029292238"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4635,8 +4668,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 198,
@@ -4973,7 +5006,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2065471838"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5348,8 +5385,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 159,
@@ -6134,7 +6171,11 @@
         "raw_source_name": "Developments in Precambrian Geology",
         "raw_type": "book-chapter"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2139564482"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -6283,11 +6324,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.1405,
+      "fwci": 7.0639,
       "has_fulltext": false,
       "cited_by_count": 342,
       "citation_normalized_percentile": {
-        "value": 0.98207885,
+        "value": 0.98188406,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6507,8 +6548,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -6731,7 +6772,11 @@
         "raw_source_name": "Earth and Planetary Science Letters",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2057248218"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7254,8 +7299,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -7455,7 +7500,11 @@
         "raw_source_name": "American Journal of Science",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2150913154"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7738,11 +7787,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7495,
+      "fwci": 6.749,
       "has_fulltext": true,
       "cited_by_count": 191,
       "citation_normalized_percentile": {
-        "value": 0.97123347,
+        "value": 0.97123138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8075,8 +8124,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150913154.pdf",
@@ -8207,7 +8256,7 @@
       ],
       "related_works": [
         "https://openalex.org/W2064300797",
-        "https://openalex.org/W2345246641",
+        "https://openalex.org/W2057248218",
         "https://openalex.org/W2043043810",
         "https://openalex.org/W7099631818",
         "https://openalex.org/W2790788240",
@@ -8796,7 +8845,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8856,7 +8905,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2150606133"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9332,8 +9385,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -9492,7 +9545,11 @@
         "raw_source_name": "The Open Geology Journal",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2064300797"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9854,8 +9911,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2064300797.pdf",
@@ -10737,7 +10794,11 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2952598493"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11261,8 +11322,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 205,
@@ -11577,7 +11638,11 @@
         "raw_source_name": "South African Journal of Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2766757858"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12044,8 +12109,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -13523,7 +13588,11 @@
         "raw_source_name": "Tectonics",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2551514925"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14032,8 +14101,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 149,
@@ -14816,7 +14885,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1969920122"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14868,11 +14941,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.613,
+      "fwci": 2.5959,
       "has_fulltext": false,
       "cited_by_count": 125,
       "citation_normalized_percentile": {
-        "value": 0.86609608,
+        "value": 0.86514349,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15192,8 +15265,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -15241,7 +15314,6 @@
         "https://openalex.org/W4285719527"
       ],
       "related_works": [
-        "https://openalex.org/W7099497005",
         "https://openalex.org/W7095078321",
         "https://openalex.org/W2076675713",
         "https://openalex.org/W4410537772",
@@ -15249,7 +15321,7 @@
         "https://openalex.org/W2065471838",
         "https://openalex.org/W2050244254",
         "https://openalex.org/W4200061100",
-        "https://openalex.org/W3143481087",
+        "https://openalex.org/W47286678",
         "https://openalex.org/W2909843463"
       ],
       "abstract_inverted_index": null,
@@ -15315,7 +15387,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15374,7 +15446,11 @@
         "raw_source_name": "Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2076675713"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15614,11 +15690,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 3.7254,
+      "fwci": 3.7262,
       "has_fulltext": false,
       "cited_by_count": 113,
       "citation_normalized_percentile": {
-        "value": 0.92111132,
+        "value": 0.9211264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16007,8 +16083,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -16097,12 +16173,10 @@
       ],
       "related_works": [
         "https://openalex.org/W2064300797",
-        "https://openalex.org/W7098724572",
         "https://openalex.org/W2002898265",
         "https://openalex.org/W2017163710",
         "https://openalex.org/W4211141205",
         "https://openalex.org/W1969920122",
-        "https://openalex.org/W7099497005",
         "https://openalex.org/W3194217928",
         "https://openalex.org/W2093510181",
         "https://openalex.org/W3091066744"
@@ -16667,7 +16741,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -16727,7 +16801,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2072299862"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17215,8 +17293,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -17434,7 +17512,11 @@
         "raw_source_name": "Developments in Precambrian Geology",
         "raw_type": "book-chapter"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1523307635"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -17543,11 +17625,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5703,
+      "fwci": 3.5319,
       "has_fulltext": false,
       "cited_by_count": 98,
       "citation_normalized_percentile": {
-        "value": 0.92114695,
+        "value": 0.92028986,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17832,8 +17914,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -18007,7 +18089,11 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2013617939"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18531,8 +18617,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -18725,7 +18811,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2088396347"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19120,8 +19210,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -19312,7 +19402,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2011379108"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19879,8 +19973,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -20096,7 +20190,11 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1976950473"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20228,11 +20326,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 0.9742,
+      "fwci": 0.9735,
       "has_fulltext": false,
       "cited_by_count": 80,
       "citation_normalized_percentile": {
-        "value": 0.72282558,
+        "value": 0.72248537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20546,8 +20644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -20578,14 +20676,13 @@
         "https://openalex.org/W4245000865"
       ],
       "related_works": [
-        "https://openalex.org/W7096925160",
         "https://openalex.org/W2048325671",
         "https://openalex.org/W2041448778",
         "https://openalex.org/W2096858317",
         "https://openalex.org/W2920971914",
         "https://openalex.org/W2140184546",
         "https://openalex.org/W2057248218",
-        "https://openalex.org/W7098602367",
+        "https://openalex.org/W2161010888",
         "https://openalex.org/W2921815909",
         "https://openalex.org/W2065471838"
       ],
@@ -20652,7 +20749,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20713,7 +20810,11 @@
         "raw_source_name": "Tectonophysics",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1964170439"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20823,11 +20924,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 1.4314,
+      "fwci": 1.4197,
       "has_fulltext": false,
       "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.80328617,
+        "value": 0.80115741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21179,8 +21280,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -21235,14 +21336,13 @@
         "https://openalex.org/W6760185008"
       ],
       "related_works": [
-        "https://openalex.org/W7096754091",
         "https://openalex.org/W2055719073",
         "https://openalex.org/W7169676979",
         "https://openalex.org/W2352161181",
         "https://openalex.org/W1981961356",
         "https://openalex.org/W4417119323",
         "https://openalex.org/W2086831064",
-        "https://openalex.org/W7095456847",
+        "https://openalex.org/W2011145781",
         "https://openalex.org/W1948796068",
         "https://openalex.org/W2087556095"
       ],
@@ -21305,7 +21405,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21354,10 +21454,18 @@
         "raw_source_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4246573538",
-        "display_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4246573538",
+          "display_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2902242958",
+        "https://openalex.org/W4246573538"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -21469,11 +21577,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.0825,
+      "fwci": 10.093,
       "has_fulltext": false,
       "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.98615635,
+        "value": 0.98621249,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21803,8 +21911,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 112,
@@ -21973,7 +22081,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2018-12-11T00:00:00"
     },
     {
@@ -22033,7 +22141,11 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2055763048"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22637,8 +22749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -22863,7 +22975,11 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2231770731"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23272,8 +23388,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -23978,7 +24094,11 @@
         "raw_source_name": "Terra Nova",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2020648348"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24704,8 +24824,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -25294,7 +25414,11 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2765962086"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25850,8 +25974,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -26705,10 +26829,18 @@
         "raw_source_name": "Regional Geology Reviews",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W4233909369",
-        "display_name": "The Geology of the Arabian-Nubian Shield"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4233909369",
+          "display_name": "The Geology of the Arabian-Nubian Shield",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W3203604015",
+        "https://openalex.org/W4233909369"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -26756,7 +26888,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.9158,
+      "fwci": 4.9134,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
@@ -27091,8 +27223,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 177,
@@ -27310,7 +27442,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2021-10-11T00:00:00"
     },
     {
@@ -27370,7 +27502,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3014422248"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -28631,8 +28767,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3014422248.pdf",
@@ -28883,7 +29019,11 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2604512930"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29485,8 +29625,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -30313,7 +30453,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4225001827"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30920,8 +31064,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -31084,7 +31228,11 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2181689138"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -31449,8 +31597,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -32059,7 +32207,11 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2079727754"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -32366,8 +32518,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -32497,10 +32649,18 @@
         "raw_source_name": "Geodynamics Series",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W651888335",
-        "display_name": "Terrane Accretion and Orogenic Belts"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W651888335",
+          "display_name": "Terrane Accretion and Orogenic Belts",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1604867301",
+        "https://openalex.org/W651888335"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -32594,11 +32754,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7798,
+      "fwci": 3.7875,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.9185336,
+        "value": 0.91869919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32825,8 +32985,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -32875,12 +33035,9 @@
         "https://openalex.org/W628415951",
         "https://openalex.org/W397990422",
         "https://openalex.org/W1970434311",
-        "https://openalex.org/W3166313418",
         "https://openalex.org/W2999006960",
-        "https://openalex.org/W3170769454",
         "https://openalex.org/W7202169806",
         "https://openalex.org/W7095937911",
-        "https://openalex.org/W3167208841",
         "https://openalex.org/W1968118811"
       ],
       "abstract_inverted_index": null,
@@ -32918,7 +33075,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32978,7 +33135,11 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2045501713"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33117,11 +33278,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1634,
+      "fwci": 2.1384,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.85160702,
+        "value": 0.84988453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33412,8 +33573,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34380,7 +34541,11 @@
         "raw_source_name": "IOP Conference Series: Earth and Environmental Science",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2121511827"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -34464,11 +34629,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6138,
+      "fwci": 3.6753,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.90627063,
+        "value": 0.90622907,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34871,8 +35036,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2121511827.pdf",
@@ -35637,7 +35802,11 @@
         "raw_source_name": "Geological Society, London, Memoirs",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2316672829"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -35837,11 +36006,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7121,
+      "fwci": 0.7034,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.6278286,
+        "value": 0.62339353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36077,8 +36246,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -37172,7 +37341,11 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4250688638"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -37658,8 +37831,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38546,7 +38719,11 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7202169806"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -39473,8 +39650,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -40174,7 +40351,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2010786304"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -40501,8 +40682,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -40611,7 +40792,11 @@
         "raw_source_name": "Economic Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2095963960"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -40948,8 +41133,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41661,7 +41846,11 @@
         "raw_source_name": "Soil Science Society of America Journal",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2073712234"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -42007,8 +42196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42304,7 +42493,11 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2069289256"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -42442,11 +42635,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1607,
+      "fwci": 1.1713,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.79194313,
+        "value": 0.7909591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42713,8 +42906,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42724,7 +42917,7 @@
         "https://openalex.org/W1971403864",
         "https://openalex.org/W126985427",
         "https://openalex.org/W1877517259",
-        "https://openalex.org/W4247625754",
+        "https://openalex.org/W2110662762",
         "https://openalex.org/W1579650159",
         "https://openalex.org/W6885120163",
         "https://openalex.org/W2944885197",
@@ -43760,7 +43953,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -43820,7 +44013,11 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2071206307"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -44181,8 +44378,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44813,7 +45010,11 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2993520237"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -45140,8 +45341,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45203,7 +45404,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2189266572"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -45450,8 +45655,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -45550,7 +45755,11 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2093760763"
+      ],
+      "child_works_count": 0,
       "type": "editorial",
       "is_traditional": true,
       "indexed_in": [
@@ -45841,8 +46050,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -45957,7 +46166,11 @@
         "raw_source_name": "Open-File Report",
         "raw_type": "report-component"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W194073010"
+      ],
+      "child_works_count": 0,
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -46393,8 +46606,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W194073010.pdf",
@@ -47334,7 +47547,11 @@
         "raw_source_name": "Open-File Report",
         "raw_type": "report-component"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W94473743"
+      ],
+      "child_works_count": 0,
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -47728,8 +47945,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W94473743.pdf",
@@ -48488,7 +48705,11 @@
         "raw_source_name": "Economic Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2768236725"
+      ],
+      "child_works_count": 0,
       "type": "book-review",
       "is_traditional": true,
       "indexed_in": [
@@ -48828,8 +49049,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49579,7 +49800,11 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2990161943"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -49918,8 +50143,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49932,13 +50157,13 @@
         "https://openalex.org/W2961723520",
         "https://openalex.org/W3023716218",
         "https://openalex.org/W2206793504",
-        "https://openalex.org/W3145892822",
+        "https://openalex.org/W2364963152",
         "https://openalex.org/W1977782002",
         "https://openalex.org/W2070699579"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2019-12-05T00:00:00"
     },
     {
@@ -49984,7 +50209,11 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3024748811"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -50306,8 +50535,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50320,7 +50549,7 @@
         "https://openalex.org/W3201786938",
         "https://openalex.org/W3092094449",
         "https://openalex.org/W3181491971",
-        "https://openalex.org/W569243625",
+        "https://openalex.org/W2094785860",
         "https://openalex.org/W2220380546",
         "https://openalex.org/W3140723572"
       ],
@@ -50331,7 +50560,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-05-21T00:00:00"
     },
     {
@@ -50377,7 +50606,11 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3170022927"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -50707,8 +50940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50786,7 +51019,11 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W76976277"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -51184,8 +51421,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51543,7 +51780,11 @@
         "raw_source_name": "Open-File Report",
         "raw_type": "report-component"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W154232170"
+      ],
+      "child_works_count": 0,
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -51976,8 +52217,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W154232170.pdf",
@@ -52596,7 +52837,11 @@
         "raw_source_name": "Open-File Report",
         "raw_type": "report-component"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2259552435"
+      ],
+      "child_works_count": 0,
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -53021,8 +53266,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2259552435.pdf",
@@ -53589,7 +53834,11 @@
         "raw_source_name": null,
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2265582025"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -53847,8 +54096,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53913,7 +54162,11 @@
         "raw_source_name": "AGUFM",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3013299034"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -54264,8 +54517,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54337,7 +54590,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3094997048"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -54712,8 +54969,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54785,7 +55042,11 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3096839933"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -55332,8 +55593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55345,14 +55606,14 @@
         "https://openalex.org/W2965071455",
         "https://openalex.org/W2965415624",
         "https://openalex.org/W61268241",
-        "https://openalex.org/W7146531882",
+        "https://openalex.org/W1975968801",
         "https://openalex.org/W2771495605",
         "https://openalex.org/W4389353225",
         "https://openalex.org/W2288101690"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-11-09T00:00:00"
     },
     {
@@ -55398,7 +55659,11 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4394494583"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -55913,8 +56178,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -289,9 +289,9 @@ A5001875934,Geological Studies and Exploration,1959,2014,2015,2026,1,0,817,0,Dec
 A5001881816,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,71,Emerging
 A5001881816,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,71,Emerging
 A5001881816,Geological and Geophysical Studies,1959,2014,2015,2026,0,1,0,71,Emerging
-A5001905156,Geological formations and processes,1959,2014,2015,2026,0,1,0,7,Emerging
-A5001905156,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,7,Emerging
-A5001905156,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,7,Emerging
+A5001905156,Geological formations and processes,1959,2014,2015,2026,0,1,0,8,Emerging
+A5001905156,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,8,Emerging
+A5001905156,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,8,Emerging
 A5001905568,Geological formations and processes,1959,2014,2015,2026,1,0,23,0,Declining
 A5001905568,Paleontology and Evolutionary Biology,1959,2014,2015,2026,1,0,23,0,Declining
 A5001905568,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,0,23,0,Declining
@@ -597,10 +597,10 @@ A5003604424,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,0,Emer
 A5003604424,Marine Plankton and Biogeochemistry,1959,2014,2015,2026,0,1,0,0,Emerging
 A5003604424,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,0,Emerging
 A5003614553,Geological and Geophysical Studies,1959,2014,2015,2026,1,0,12,0,Declining
-A5003614553,Geological formations and processes,1959,2014,2015,2026,11,0,226,0,Declining
+A5003614553,Geological formations and processes,1959,2014,2015,2026,11,0,227,0,Declining
 A5003614553,Geological Studies and Exploration,1959,2014,2015,2026,2,0,23,0,Declining
-A5003614553,Geology and Paleoclimatology Research,1959,2014,2015,2026,9,0,203,0,Declining
-A5003614553,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,10,0,214,0,Declining
+A5003614553,Geology and Paleoclimatology Research,1959,2014,2015,2026,9,0,204,0,Declining
+A5003614553,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,10,0,215,0,Declining
 A5003626586,Drilling and Well Engineering,1959,2014,2015,2026,0,1,0,0,Emerging
 A5003626586,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,1,0,0,Emerging
 A5003626586,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,0,Emerging
@@ -614,10 +614,10 @@ A5003653150,Geological and Geophysical Studies,1959,2014,2015,2026,2,0,26,0,Decl
 A5003654485,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,1,0,6,Emerging
 A5003654485,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,6,Emerging
 A5003654485,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,6,Emerging
-A5003695175,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,28,Emerging
-A5003695175,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,28,Emerging
+A5003695175,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,29,Emerging
+A5003695175,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,29,Emerging
 A5003695175,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,3,0,0,Emerging
-A5003695175,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,28,Emerging
+A5003695175,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,29,Emerging
 A5003695175,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,3,0,0,Emerging
 A5003715968,Geological Studies and Exploration,1959,2014,2015,2026,2,0,0,0,Declining
 A5003715968,Geology and Paleoclimatology Research,1959,2014,2015,2026,3,0,0,0,Declining
@@ -777,13 +777,13 @@ A5004698922,Marine Ecology and Invasive Species,1959,2014,2015,2026,0,1,0,1,Emer
 A5004698922,Microplastics and Plastic Pollution,1959,2014,2015,2026,0,1,0,1,Emerging
 A5004740184,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,31,Emerging
 A5004740184,Geological and Geophysical Studies,1959,2014,2015,2026,0,2,0,0,Emerging
-A5004740184,Geological formations and processes,1959,2014,2015,2026,0,6,0,59,Emerging
+A5004740184,Geological formations and processes,1959,2014,2015,2026,0,6,0,61,Emerging
 A5004740184,Geological Studies and Exploration,1959,2014,2015,2026,0,4,0,28,Emerging
-A5004740184,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,4,0,20,Emerging
+A5004740184,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,4,0,22,Emerging
 A5004740184,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,42,Emerging
 A5004740184,Marine and environmental studies,1959,2014,2015,2026,0,2,0,9,Emerging
 A5004740184,Methane Hydrates and Related Phenomena,1959,2014,2015,2026,0,1,0,11,Emerging
-A5004740184,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,5,0,37,Emerging
+A5004740184,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,5,0,39,Emerging
 A5004745453,Coral and Marine Ecosystems Studies,1959,2014,2015,2026,0,2,0,8,Emerging
 A5004745453,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,2,0,18,Emerging
 A5004745453,Geochemistry and Geologic Mapping,1959,2014,2015,2026,0,2,0,27,Emerging
@@ -1699,9 +1699,9 @@ A5009478389,Neural Networks and Applications,1959,2014,2015,2026,0,1,0,27,Emergi
 A5009478389,Seismic Imaging and Inversion Techniques,1959,2014,2015,2026,0,3,0,194,Emerging
 A5009478389,Ultrasonics and Acoustic Wave Propagation,1959,2014,2015,2026,0,1,0,5,Emerging
 A5009481606,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,36,Emerging
-A5009481606,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,3,0,75,Emerging
-A5009481606,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,75,Emerging
-A5009481606,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,39,Emerging
+A5009481606,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,3,0,76,Emerging
+A5009481606,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,76,Emerging
+A5009481606,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,40,Emerging
 A5009519237,Archaeology and ancient environmental studies,1959,2014,2015,2026,0,1,0,0,Emerging
 A5009519237,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,0,Emerging
 A5009519237,Marine and environmental studies,1959,2014,2015,2026,0,1,0,0,Emerging
@@ -2106,12 +2106,12 @@ A5011018443,Water Quality and Resources Studies,1959,2014,2015,2026,1,0,12,0,Dec
 A5011029867,Electron and X-Ray Spectroscopy Techniques,1959,2014,2015,2026,0,1,0,0,Emerging
 A5011029867,Mineral Processing and Grinding,1959,2014,2015,2026,0,1,0,0,Emerging
 A5011029867,X-ray Spectroscopy and Fluorescence Analysis,1959,2014,2015,2026,0,1,0,0,Emerging
-A5011094295,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,12,0,294,Emerging
+A5011094295,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,12,0,295,Emerging
 A5011094295,Drilling and Well Engineering,1959,2014,2015,2026,0,1,0,23,Emerging
 A5011094295,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,2,0,70,Emerging
 A5011094295,Geological Studies and Exploration,1959,2014,2015,2026,0,1,0,13,Emerging
-A5011094295,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,58,Emerging
-A5011094295,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,11,0,268,Emerging
+A5011094295,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,59,Emerging
+A5011094295,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,11,0,269,Emerging
 A5011094295,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,26,Emerging
 A5011094295,Rock Mechanics and Modeling,1959,2014,2015,2026,0,8,0,143,Emerging
 A5011094295,Seismic Imaging and Inversion Techniques,1959,2014,2015,2026,0,1,0,13,Emerging
@@ -3401,11 +3401,11 @@ A5017337735,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,3,0,74,
 A5017364718,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,42,Emerging
 A5017364718,Geochemistry and Geologic Mapping,1959,2014,2015,2026,0,1,0,42,Emerging
 A5017364718,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,42,Emerging
-A5017372475,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,35,Emerging
-A5017372475,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,70,Emerging
+A5017372475,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,36,Emerging
+A5017372475,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,71,Emerging
 A5017372475,Coal Properties and Utilization,1959,2014,2015,2026,0,2,0,41,Emerging
 A5017372475,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,6,Emerging
-A5017372475,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,76,Emerging
+A5017372475,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,77,Emerging
 A5017411505,Catalysis and Hydrodesulfurization Studies,1959,2014,2015,2026,0,1,0,8,Emerging
 A5017411505,Coal and Its By-products,1959,2014,2015,2026,0,1,0,26,Emerging
 A5017411505,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,3,Emerging
@@ -3573,23 +3573,23 @@ A5018306569,Archaeology and ancient environmental studies,1959,2014,2015,2026,0,
 A5018306569,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,7,0,75,Emerging
 A5018306569,Coastal and Marine Dynamics,1959,2014,2015,2026,0,1,0,15,Emerging
 A5018306569,Drilling and Well Engineering,1959,2014,2015,2026,1,0,4,0,Declining
-A5018306569,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,5,0,103,Emerging
+A5018306569,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,5,0,104,Emerging
 A5018306569,Geochemistry and Elemental Analysis,1959,2014,2015,2026,1,17,1,160,Strong surge
 A5018306569,Geological and Geochemical Analysis,1959,2014,2015,2026,0,4,0,46,Emerging
 A5018306569,Geological and Geophysical Studies,1959,2014,2015,2026,0,2,0,0,Emerging
-A5018306569,Geological formations and processes,1959,2014,2015,2026,1,27,1,247,Strong surge
+A5018306569,Geological formations and processes,1959,2014,2015,2026,1,27,1,249,Strong surge
 A5018306569,Geological Modeling and Analysis,1959,2014,2015,2026,0,1,0,3,Emerging
 A5018306569,Geological Studies and Exploration,1959,2014,2015,2026,0,9,0,83,Emerging
-A5018306569,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,10,0,52,Emerging
+A5018306569,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,10,0,54,Emerging
 A5018306569,Geophysical and Geoelectrical Methods,1959,2014,2015,2026,0,1,0,4,Emerging
 A5018306569,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,4,Emerging
 A5018306569,Groundwater and Isotope Geochemistry,1959,2014,2015,2026,0,3,0,6,Emerging
-A5018306569,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,1,28,1,353,Strong surge
+A5018306569,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,1,28,1,354,Strong surge
 A5018306569,Marine and environmental studies,1959,2014,2015,2026,0,5,0,19,Emerging
 A5018306569,Oil and Gas Production Techniques,1959,2014,2015,2026,1,0,4,0,Declining
-A5018306569,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,14,0,110,Emerging
+A5018306569,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,14,0,112,Emerging
 A5018306569,Petroleum Processing and Analysis,1959,2014,2015,2026,0,1,0,4,Emerging
-A5018306569,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,1,2,4,42,Strong surge
+A5018306569,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,1,2,4,43,Strong surge
 A5018306569,Seismic Imaging and Inversion Techniques,1959,2014,2015,2026,0,1,0,27,Emerging
 A5018333726,Geochemistry and Elemental Analysis,1959,2014,2015,2026,1,0,0,0,Declining
 A5018333726,Geological and Geochemical Analysis,1959,2014,2015,2026,1,0,0,0,Declining
@@ -5620,9 +5620,9 @@ A5028480475,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,3,0,119
 A5028508336,Geochemistry and Geochronology of Asian Mineral Deposits,1959,2014,2015,2026,0,2,0,7,Emerging
 A5028508336,Geochemistry and Geologic Mapping,1959,2014,2015,2026,0,2,0,7,Emerging
 A5028508336,Geological and Geochemical Analysis,1959,2014,2015,2026,0,2,0,7,Emerging
-A5028526938,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,23,Emerging
-A5028526938,Climate Change Policy and Economics,1959,2014,2015,2026,0,1,0,22,Emerging
-A5028526938,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,23,Emerging
+A5028526938,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,24,Emerging
+A5028526938,Climate Change Policy and Economics,1959,2014,2015,2026,0,1,0,23,Emerging
+A5028526938,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,24,Emerging
 A5028526938,Renewable energy and sustainable power systems,1959,2014,2015,2026,0,1,0,1,Emerging
 A5028580948,Archaeology and ancient environmental studies,1959,2014,2015,2026,0,2,0,230,Emerging
 A5028580948,Archaeology and Historical Studies,1959,2014,2015,2026,0,1,0,37,Emerging
@@ -6124,9 +6124,9 @@ A5030457465,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,78,Eme
 A5030457465,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,78,Emerging
 A5030457465,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,78,Emerging
 A5030459624,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,0,Emerging
-A5030459624,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,2,0,98,Emerging
-A5030459624,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,98,Emerging
-A5030459624,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,98,Emerging
+A5030459624,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,2,0,99,Emerging
+A5030459624,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,99,Emerging
+A5030459624,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,99,Emerging
 A5030473697,Climate change and permafrost,1959,2014,2015,2026,1,0,7,0,Declining
 A5030473697,Geological and Geophysical Studies,1959,2014,2015,2026,0,1,0,0,Emerging
 A5030473697,Geological formations and processes,1959,2014,2015,2026,0,1,0,0,Emerging
@@ -6222,9 +6222,9 @@ A5031199375,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,2
 A5031200702,Advanced ceramic materials synthesis,1959,2014,2015,2026,0,1,0,32,Emerging
 A5031200702,Concrete and Cement Materials Research,1959,2014,2015,2026,0,1,0,32,Emerging
 A5031200702,Recycling and utilization of industrial and municipal waste in materials production,1959,2014,2015,2026,0,1,0,32,Emerging
-A5031210408,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,213,Emerging
-A5031210408,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,117,Emerging
-A5031210408,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,118,Emerging
+A5031210408,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,214,Emerging
+A5031210408,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,118,Emerging
+A5031210408,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,119,Emerging
 A5031210408,Environmental Impact and Sustainability,1959,2014,2015,2026,0,1,0,95,Emerging
 A5031210408,Nuclear and radioactivity studies,1959,2014,2015,2026,0,1,0,95,Emerging
 A5031210408,Renewable energy and sustainable power systems,1959,2014,2015,2026,0,1,0,1,Emerging
@@ -7557,10 +7557,10 @@ A5036532218,Geological formations and processes,1959,2014,2015,2026,0,1,0,1,Emer
 A5036532218,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,1,Emerging
 A5036532218,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,2,0,32,Emerging
 A5036557426,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,84,Emerging
-A5036557426,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,3,0,196,Emerging
-A5036557426,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,98,Emerging
+A5036557426,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,3,0,197,Emerging
+A5036557426,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,99,Emerging
 A5036557426,Geological formations and processes,1959,2014,2015,2026,0,1,0,14,Emerging
-A5036557426,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,196,Emerging
+A5036557426,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,197,Emerging
 A5036597341,Geophysical and Geoelectrical Methods,1959,2014,2015,2026,0,2,0,1,Emerging
 A5036597341,Geophysical Methods and Applications,1959,2014,2015,2026,0,4,0,11,Emerging
 A5036597341,Seismic Imaging and Inversion Techniques,1959,2014,2015,2026,0,4,0,11,Emerging
@@ -7643,10 +7643,10 @@ A5036956947,Marine Biology and Ecology Research,1959,2014,2015,2026,0,1,0,1,Emer
 A5036956947,Paleontology and Evolutionary Biology,1959,2014,2015,2026,1,1,8,3,Declining
 A5036956947,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,2,4,18,6,Declining
 A5036956947,Protist diversity and phylogeny,1959,2014,2015,2026,0,1,0,1,Emerging
-A5036995255,Geological formations and processes,1959,2014,2015,2026,0,2,0,11,Emerging
-A5036995255,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,3,0,13,Emerging
+A5036995255,Geological formations and processes,1959,2014,2015,2026,0,2,0,13,Emerging
+A5036995255,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,3,0,15,Emerging
 A5036995255,Marine and environmental studies,1959,2014,2015,2026,0,1,0,2,Emerging
-A5036995255,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,3,0,13,Emerging
+A5036995255,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,3,0,15,Emerging
 A5037027654,Geological and Geochemical Analysis,1959,2014,2015,2026,1,0,0,0,Declining
 A5037027654,Geological formations and processes,1959,2014,2015,2026,1,0,65,0,Declining
 A5037027654,Geology and Paleoclimatology Research,1959,2014,2015,2026,2,0,65,0,Declining
@@ -8086,8 +8086,8 @@ A5038988987,Geological formations and processes,1959,2014,2015,2026,2,0,2,0,Decl
 A5038988987,Geological Studies and Exploration,1959,2014,2015,2026,2,0,2,0,Declining
 A5039010638,Aquatic Ecosystems and Biodiversity,1959,2014,2015,2026,0,1,0,0,Emerging
 A5039010638,Archaeology and Cultural Heritage,1959,2014,2015,2026,0,2,0,22,Emerging
-A5039010638,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,35,Emerging
-A5039010638,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,4,0,97,Emerging
+A5039010638,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,36,Emerging
+A5039010638,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,4,0,98,Emerging
 A5039010638,Coal Properties and Utilization,1959,2014,2015,2026,0,2,0,41,Emerging
 A5039010638,Drilling and Well Engineering,1959,2014,2015,2026,0,1,0,39,Emerging
 A5039010638,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,3,0,9,Emerging
@@ -8106,7 +8106,7 @@ A5039010638,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,3,0,11,E
 A5039010638,Geotourism and Geoheritage Conservation,1959,2014,2015,2026,0,10,0,121,Emerging
 A5039010638,Heavy metals in environment,1959,2014,2015,2026,0,1,0,0,Emerging
 A5039010638,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,7,0,40,Emerging
-A5039010638,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,4,28,266,665,Strong surge
+A5039010638,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,4,28,266,666,Strong surge
 A5039010638,Insect-Plant Interactions and Control,1959,2014,2015,2026,0,1,0,0,Emerging
 A5039010638,Karst Systems and Hydrogeology,1959,2014,2015,2026,0,1,0,22,Emerging
 A5039010638,Landslides and related hazards,1959,2014,2015,2026,0,1,0,22,Emerging
@@ -8712,10 +8712,10 @@ A5041575007,Geological Modeling and Analysis,1959,2014,2015,2026,0,1,0,0,Emergin
 A5041599397,Geological Studies and Exploration,1959,2014,2015,2026,1,0,15,0,Declining
 A5041599397,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,1,0,15,0,Declining
 A5041599397,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,0,15,0,Declining
-A5041641220,Geological formations and processes,1959,2014,2015,2026,0,2,0,11,Emerging
-A5041641220,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,3,0,13,Emerging
+A5041641220,Geological formations and processes,1959,2014,2015,2026,0,2,0,13,Emerging
+A5041641220,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,3,0,15,Emerging
 A5041641220,Marine and environmental studies,1959,2014,2015,2026,0,1,0,2,Emerging
-A5041641220,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,3,0,13,Emerging
+A5041641220,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,3,0,15,Emerging
 A5041673378,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,3,0,72,Emerging
 A5041673378,Geochemistry and Geochronology of Asian Mineral Deposits,1959,2014,2015,2026,0,1,0,32,Emerging
 A5041673378,Geological and Geochemical Analysis,1959,2014,2015,2026,4,3,3614,72,Declining
@@ -10152,9 +10152,9 @@ A5048329245,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,0,16,
 A5048339986,Geological and Geophysical Studies,1959,2014,2015,2026,1,0,47,0,Declining
 A5048339986,Geological Studies and Exploration,1959,2014,2015,2026,1,0,47,0,Declining
 A5048339986,Marine and environmental studies,1959,2014,2015,2026,1,0,47,0,Declining
-A5048362745,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,28,Emerging
-A5048362745,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,28,Emerging
-A5048362745,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,28,Emerging
+A5048362745,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,29,Emerging
+A5048362745,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,29,Emerging
+A5048362745,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,29,Emerging
 A5048429617,Coal and Its By-products,1959,2014,2015,2026,13,16,563,374,Declining
 A5048429617,Coal Properties and Utilization,1959,2014,2015,2026,4,2,178,27,Declining
 A5048429617,Geochemistry and Elemental Analysis,1959,2014,2015,2026,22,22,1344,612,Declining
@@ -10374,10 +10374,10 @@ A5049639227,Geological and Geochemical Analysis,1959,2014,2015,2026,1,0,191,0,De
 A5049649985,Adsorption and biosorption for pollutant removal,1959,2014,2015,2026,0,1,0,6,Emerging
 A5049649985,Advanced machining processes and optimization,1959,2014,2015,2026,0,1,0,21,Emerging
 A5049649985,Calcium Carbonate Crystallization and Inhibition,1959,2014,2015,2026,0,1,0,14,Emerging
-A5049649985,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,72,Emerging
+A5049649985,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,73,Emerging
 A5049649985,Carbon dioxide utilization in catalysis,1959,2014,2015,2026,0,2,0,37,Emerging
 A5049649985,Clay minerals and soil interactions,1959,2014,2015,2026,0,1,0,10,Emerging
-A5049649985,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,1,13,9,195,Strong surge
+A5049649985,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,1,13,9,196,Strong surge
 A5049649985,Coal and Its By-products,1959,2014,2015,2026,0,1,0,0,Emerging
 A5049649985,Coal Properties and Utilization,1959,2014,2015,2026,0,3,0,43,Emerging
 A5049649985,Drilling and Well Engineering,1959,2014,2015,2026,0,5,0,103,Emerging
@@ -10391,7 +10391,7 @@ A5049649985,Groundwater flow and contamination studies,1959,2014,2015,2026,0,1,0
 A5049649985,Heavy Metal Pollution Remediation,1959,2014,2015,2026,0,1,0,6,Emerging
 A5049649985,Hybrid Renewable Energy Systems,1959,2014,2015,2026,0,1,0,4,Emerging
 A5049649985,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,1,9,9,56,Strong surge
-A5049649985,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,31,0,660,Emerging
+A5049649985,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,31,0,661,Emerging
 A5049649985,Hydrogen Storage and Materials,1959,2014,2015,2026,0,1,0,4,Emerging
 A5049649985,Lubricants and Their Additives,1959,2014,2015,2026,0,1,0,39,Emerging
 A5049649985,Machine Learning in Materials Science,1959,2014,2015,2026,0,5,0,276,Emerging
@@ -10471,9 +10471,9 @@ A5050015388,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,1,0
 A5050023168,Catalysis and Hydrodesulfurization Studies,1959,2014,2015,2026,0,1,0,47,Emerging
 A5050023168,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,1,0,47,Emerging
 A5050023168,Petroleum Processing and Analysis,1959,2014,2015,2026,0,1,0,47,Emerging
-A5050034030,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,213,Emerging
-A5050034030,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,117,Emerging
-A5050034030,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,118,Emerging
+A5050034030,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,214,Emerging
+A5050034030,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,118,Emerging
+A5050034030,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,119,Emerging
 A5050034030,Environmental Impact and Sustainability,1959,2014,2015,2026,0,1,0,95,Emerging
 A5050034030,Nuclear and radioactivity studies,1959,2014,2015,2026,0,1,0,95,Emerging
 A5050034030,Renewable energy and sustainable power systems,1959,2014,2015,2026,0,1,0,1,Emerging
@@ -10540,9 +10540,9 @@ A5050302062,Astro and Planetary Science,1959,2014,2015,2026,1,0,149,0,Declining
 A5050302062,Geochemistry and Geochronology of Asian Mineral Deposits,1959,2014,2015,2026,1,0,149,0,Declining
 A5050302062,Geological and Geochemical Analysis,1959,2014,2015,2026,1,0,149,0,Declining
 A5050324042,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,77,Emerging
-A5050324042,Geological formations and processes,1959,2014,2015,2026,0,7,0,102,Emerging
-A5050324042,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,8,0,179,Emerging
-A5050324042,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,8,0,179,Emerging
+A5050324042,Geological formations and processes,1959,2014,2015,2026,0,7,0,104,Emerging
+A5050324042,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,8,0,181,Emerging
+A5050324042,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,8,0,181,Emerging
 A5050328906,Astro and Planetary Science,1959,2014,2015,2026,1,0,4,0,Declining
 A5050328906,Coal and Its By-products,1959,2014,2015,2026,0,1,0,1,Emerging
 A5050328906,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,3,110,18,Declining
@@ -10566,12 +10566,12 @@ A5050425905,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,1,Emer
 A5050425905,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,1,Emerging
 A5050425905,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,1,Emerging
 A5050486511,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,84,Emerging
-A5050486511,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,9,248,272,Growing priority
-A5050486511,Geological and Geochemical Analysis,1959,2014,2015,2026,0,7,0,193,Emerging
+A5050486511,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,9,248,273,Growing priority
+A5050486511,Geological and Geochemical Analysis,1959,2014,2015,2026,0,7,0,194,Emerging
 A5050486511,Geological formations and processes,1959,2014,2015,2026,2,2,198,50,Declining
 A5050486511,Geological Studies and Exploration,1959,2014,2015,2026,1,1,78,44,Declining
 A5050486511,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,26,Emerging
-A5050486511,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,3,8,326,338,Growing priority
+A5050486511,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,3,8,326,339,Growing priority
 A5050486511,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,7,128,127,"Output rising, impact softening"
 A5050492250,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,1,Emerging
 A5050492250,Geological formations and processes,1959,2014,2015,2026,0,1,0,1,Emerging
@@ -10953,10 +10953,10 @@ A5052322577,Geological formations and processes,1959,2014,2015,2026,0,2,0,3,Emer
 A5052322577,Groundwater flow and contamination studies,1959,2014,2015,2026,0,1,0,0,Emerging
 A5052322577,Rock Mechanics and Modeling,1959,2014,2015,2026,0,2,0,3,Emerging
 A5052331702,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,44,Emerging
-A5052331702,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,3,0,75,Emerging
+A5052331702,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,3,0,76,Emerging
 A5052331702,Geological formations and processes,1959,2014,2015,2026,0,1,0,8,Emerging
-A5052331702,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,83,Emerging
-A5052331702,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,39,Emerging
+A5052331702,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,84,Emerging
+A5052331702,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,40,Emerging
 A5052345421,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,2,Emerging
 A5052345421,Geological and Geophysical Studies,1959,2014,2015,2026,0,1,0,2,Emerging
 A5052345421,Geological Studies and Exploration,1959,2014,2015,2026,0,1,0,2,Emerging
@@ -11495,7 +11495,7 @@ A5054922583,Advanced Image Processing Techniques,1959,2014,2015,2026,0,4,0,20,Em
 A5054922583,Advanced Signal Processing Techniques,1959,2014,2015,2026,1,0,0,0,Declining
 A5054922583,Aeolian processes and effects,1959,2014,2015,2026,3,3,13,26,Growing priority
 A5054922583,Astro and Planetary Science,1959,2014,2015,2026,0,1,0,16,Emerging
-A5054922583,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,1,19,0,320,Strong surge
+A5054922583,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,1,19,0,321,Strong surge
 A5054922583,Coastal and Marine Dynamics,1959,2014,2015,2026,0,1,0,15,Emerging
 A5054922583,Computer Graphics and Visualization Techniques,1959,2014,2015,2026,0,1,0,1,Emerging
 A5054922583,Digital Filter Design and Implementation,1959,2014,2015,2026,1,1,0,0,Declining
@@ -11517,12 +11517,12 @@ A5054922583,Geophysical Methods and Applications,1959,2014,2015,2026,10,17,79,99
 A5054922583,Geophysics and Gravity Measurements,1959,2014,2015,2026,0,2,0,13,Emerging
 A5054922583,Geophysics and Sensor Technology,1959,2014,2015,2026,3,5,9,28,Growing priority
 A5054922583,Geotechnical Engineering and Soil Mechanics,1959,2014,2015,2026,0,1,0,0,Emerging
-A5054922583,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,58,Emerging
+A5054922583,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,59,Emerging
 A5054922583,Granular flow and fluidized beds,1959,2014,2015,2026,0,1,0,0,Emerging
 A5054922583,Graph theory and applications,1959,2014,2015,2026,0,1,0,1,Emerging
 A5054922583,Groundwater and Watershed Analysis,1959,2014,2015,2026,0,1,0,1,Emerging
 A5054922583,Groundwater flow and contamination studies,1959,2014,2015,2026,0,1,0,10,Emerging
-A5054922583,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,5,19,21,373,Strong surge
+A5054922583,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,5,19,21,374,Strong surge
 A5054922583,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,6,22,40,302,Strong surge
 A5054922583,Hydrology and Watershed Management Studies,1959,2014,2015,2026,0,2,0,33,Emerging
 A5054922583,Image and Object Detection Techniques,1959,2014,2015,2026,0,1,0,10,Emerging
@@ -11606,11 +11606,11 @@ A5055227985,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,6,Emer
 A5055227985,Geological formations and processes,1959,2014,2015,2026,0,1,0,6,Emerging
 A5055227985,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,6,Emerging
 A5055256846,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,13,Emerging
-A5055256846,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,2,0,52,Emerging
+A5055256846,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,2,0,53,Emerging
 A5055256846,Geophysical and Geoelectrical Methods,1959,2014,2015,2026,0,2,0,1,Emerging
 A5055256846,Geophysical Methods and Applications,1959,2014,2015,2026,0,4,0,11,Emerging
-A5055256846,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,52,Emerging
-A5055256846,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,39,Emerging
+A5055256846,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,53,Emerging
+A5055256846,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,40,Emerging
 A5055256846,Seismic Imaging and Inversion Techniques,1959,2014,2015,2026,0,4,0,11,Emerging
 A5055256846,Seismic Waves and Analysis,1959,2014,2015,2026,0,2,0,10,Emerging
 A5055258700,Evolution and Paleontology Studies,1959,2014,2015,2026,0,1,0,0,Emerging
@@ -11993,17 +11993,17 @@ A5057019022,Evolution and Paleontology Studies,1959,2014,2015,2026,1,0,4,0,Decli
 A5057019022,Paleontology and Evolutionary Biology,1959,2014,2015,2026,1,0,4,0,Declining
 A5057019022,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,0,4,0,Declining
 A5057027693,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,35,Emerging
-A5057027693,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,1,0,39,Emerging
-A5057027693,Geochemistry and Elemental Analysis,1959,2014,2015,2026,20,17,1629,196,Declining
+A5057027693,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,1,0,40,Emerging
+A5057027693,Geochemistry and Elemental Analysis,1959,2014,2015,2026,20,17,1631,196,Declining
 A5057027693,Geological and Geochemical Analysis,1959,2014,2015,2026,3,6,120,51,Declining
 A5057027693,Geological and Geophysical Studies,1959,2014,2015,2026,0,2,0,0,Emerging
-A5057027693,Geological formations and processes,1959,2014,2015,2026,17,16,1509,224,Declining
+A5057027693,Geological formations and processes,1959,2014,2015,2026,17,16,1511,224,Declining
 A5057027693,Geological Studies and Exploration,1959,2014,2015,2026,0,4,0,62,Emerging
-A5057027693,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,16,18,1509,310,Declining
+A5057027693,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,16,18,1511,311,Declining
 A5057027693,Mineralogy and Gemology Studies,1959,2014,2015,2026,2,3,92,5,Declining
 A5057027693,Nuclear materials and radiation effects,1959,2014,2015,2026,1,0,28,0,Declining
 A5057027693,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,4,0,62,Strong surge
-A5057027693,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,39,Emerging
+A5057027693,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,40,Emerging
 A5057087796,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,30,Emerging
 A5057087796,Carbon dioxide utilization in catalysis,1959,2014,2015,2026,0,1,0,30,Emerging
 A5057087796,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,5,0,79,Emerging
@@ -12687,9 +12687,9 @@ A5059881838,Electron and X-Ray Spectroscopy Techniques,1959,2014,2015,2026,0,1,0
 A5059881838,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,13,0,38,Emerging
 A5059881838,Evolution and Paleontology Studies,1959,2014,2015,2026,0,1,0,0,Emerging
 A5059881838,Generative Adversarial Networks and Image Synthesis,1959,2014,2015,2026,0,6,0,112,Emerging
-A5059881838,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,38,12,481,Strong surge
+A5059881838,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,38,12,482,Strong surge
 A5059881838,Geochemistry and Geologic Mapping,1959,2014,2015,2026,0,24,0,304,Emerging
-A5059881838,Geological and Geochemical Analysis,1959,2014,2015,2026,0,21,0,257,Emerging
+A5059881838,Geological and Geochemical Analysis,1959,2014,2015,2026,0,21,0,258,Emerging
 A5059881838,Geological and Geophysical Studies,1959,2014,2015,2026,0,6,0,106,Emerging
 A5059881838,Geological and Geophysical Studies Worldwide,1959,2014,2015,2026,0,2,0,0,Emerging
 A5059881838,Geological formations and processes,1959,2014,2015,2026,4,45,2,585,Strong surge
@@ -12700,7 +12700,7 @@ A5059881838,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0
 A5059881838,Groundwater flow and contamination studies,1959,2014,2015,2026,0,1,0,0,Emerging
 A5059881838,Heavy metals in environment,1959,2014,2015,2026,0,1,0,0,Emerging
 A5059881838,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,3,0,6,Emerging
-A5059881838,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,3,63,0,1064,Strong surge
+A5059881838,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,3,63,0,1065,Strong surge
 A5059881838,Hydrological Forecasting Using AI,1959,2014,2015,2026,0,1,0,0,Emerging
 A5059881838,Hydrology and Sediment Transport Processes,1959,2014,2015,2026,0,1,0,0,Emerging
 A5059881838,Image and Signal Denoising Methods,1959,2014,2015,2026,0,1,0,2,Emerging
@@ -12757,9 +12757,9 @@ A5060053337,Geochemistry and Geochronology of Asian Mineral Deposits,1959,2014,2
 A5060053337,Geological and Geochemical Analysis,1959,2014,2015,2026,14,3,1853,215,Declining
 A5060053337,Geological and Geophysical Studies,1959,2014,2015,2026,2,1,365,16,Declining
 A5060053337,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,2,0,225,0,Declining
-A5060097144,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,58,Emerging
-A5060097144,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,58,Emerging
-A5060097144,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,58,Emerging
+A5060097144,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,59,Emerging
+A5060097144,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,59,Emerging
+A5060097144,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,59,Emerging
 A5060145218,earthquake and tectonic studies,1959,2014,2015,2026,2,5,29,177,Strong surge
 A5060145218,Geological and Geochemical Analysis,1959,2014,2015,2026,1,3,28,27,"Output rising, impact softening"
 A5060145218,Geological and Geophysical Studies,1959,2014,2015,2026,2,2,57,26,Declining
@@ -12858,9 +12858,9 @@ A5060634486,Global Energy Security and Policy,1959,2014,2015,2026,0,1,0,0,Emergi
 A5060634486,Mining and Resource Management,1959,2014,2015,2026,0,1,0,0,Emerging
 A5060634486,"Research, Science, and Academia",1959,2014,2015,2026,0,1,0,2,Emerging
 A5060634486,scientometrics and bibliometrics research,1959,2014,2015,2026,0,1,0,2,Emerging
-A5060638733,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,93,Emerging
-A5060638733,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,58,Emerging
-A5060638733,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,2,0,93,Emerging
+A5060638733,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,94,Emerging
+A5060638733,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,59,Emerging
+A5060638733,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,2,0,94,Emerging
 A5060638733,Rock Mechanics and Modeling,1959,2014,2015,2026,0,1,0,35,Emerging
 A5060667788,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,71,Emerging
 A5060667788,Geochemistry and Geochronology of Asian Mineral Deposits,1959,2014,2015,2026,0,3,0,205,Emerging
@@ -13541,9 +13541,9 @@ A5064039457,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,0
 A5064048318,Geophysics and Sensor Technology,1959,2014,2015,2026,1,1,1,3,Growing priority
 A5064048318,Seismic Imaging and Inversion Techniques,1959,2014,2015,2026,1,1,1,3,Growing priority
 A5064048318,Seismic Waves and Analysis,1959,2014,2015,2026,1,1,1,3,Growing priority
-A5064080624,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,0,851,0,Declining
-A5064080624,Geological formations and processes,1959,2014,2015,2026,2,0,851,0,Declining
-A5064080624,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,2,0,851,0,Declining
+A5064080624,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,0,853,0,Declining
+A5064080624,Geological formations and processes,1959,2014,2015,2026,2,0,853,0,Declining
+A5064080624,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,2,0,853,0,Declining
 A5064116191,Marine Biology and Ecology Research,1959,2014,2015,2026,0,1,0,0,Emerging
 A5064116191,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,0,Emerging
 A5064116191,Protist diversity and phylogeny,1959,2014,2015,2026,0,1,0,0,Emerging
@@ -13849,15 +13849,15 @@ A5065656709,Water Quality and Resources Studies,1959,2014,2015,2026,0,1,0,0,Emer
 A5065663264,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,4,Emerging
 A5065663264,Geochemistry and Geologic Mapping,1959,2014,2015,2026,0,1,0,4,Emerging
 A5065663264,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,4,Emerging
-A5065687785,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,13,0,295,Emerging
+A5065687785,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,13,0,296,Emerging
 A5065687785,Drilling and Well Engineering,1959,2014,2015,2026,0,1,0,23,Emerging
 A5065687785,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,2,0,70,Emerging
 A5065687785,Geography and Environmental Studies,1959,2014,2015,2026,0,2,0,33,Emerging
 A5065687785,Geological and Geophysical Studies,1959,2014,2015,2026,0,2,0,14,Emerging
 A5065687785,Geological Studies and Exploration,1959,2014,2015,2026,0,3,0,40,Emerging
-A5065687785,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,58,Emerging
+A5065687785,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,59,Emerging
 A5065687785,Groundwater and Watershed Analysis,1959,2014,2015,2026,0,1,0,1,Emerging
-A5065687785,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,12,0,269,Emerging
+A5065687785,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,12,0,270,Emerging
 A5065687785,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,27,Emerging
 A5065687785,Hydrology and Watershed Management Studies,1959,2014,2015,2026,0,2,0,33,Emerging
 A5065687785,Land Use and Ecosystem Services,1959,2014,2015,2026,0,1,0,32,Emerging
@@ -14324,10 +14324,10 @@ A5067960214,Astro and Planetary Science,1959,2014,2015,2026,0,1,0,1,Emerging
 A5067960214,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,1,Emerging
 A5067960214,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,1,Emerging
 A5067974945,Atmospheric and Environmental Gas Dynamics,1959,2014,2015,2026,0,1,0,51,Emerging
-A5067974945,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,14,0,358,Emerging
+A5067974945,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,14,0,359,Emerging
 A5067974945,Carbon dioxide utilization in catalysis,1959,2014,2015,2026,0,3,0,18,Emerging
-A5067974945,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,117,Emerging
-A5067974945,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,27,0,507,Emerging
+A5067974945,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,118,Emerging
+A5067974945,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,27,0,508,Emerging
 A5067974945,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,3,0,134,Emerging
 A5067974945,Environmental Impact and Sustainability,1959,2014,2015,2026,0,1,0,95,Emerging
 A5067974945,Geological and Geochemical Analysis,1959,2014,2015,2026,0,2,0,4,Emerging
@@ -14737,9 +14737,9 @@ A5069858788,Seismic Waves and Analysis,1959,2014,2015,2026,0,1,0,0,Emerging
 A5069874341,Geological formations and processes,1959,2014,2015,2026,1,0,18,0,Declining
 A5069874341,Geological Studies and Exploration,1959,2014,2015,2026,1,0,18,0,Declining
 A5069874341,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,1,0,18,0,Declining
-A5069874671,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,213,Emerging
-A5069874671,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,117,Emerging
-A5069874671,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,118,Emerging
+A5069874671,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,4,0,214,Emerging
+A5069874671,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,118,Emerging
+A5069874671,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,119,Emerging
 A5069874671,Environmental Impact and Sustainability,1959,2014,2015,2026,0,1,0,95,Emerging
 A5069874671,Nuclear and radioactivity studies,1959,2014,2015,2026,0,1,0,95,Emerging
 A5069874671,Renewable energy and sustainable power systems,1959,2014,2015,2026,0,1,0,1,Emerging
@@ -15718,11 +15718,11 @@ A5074794653,Advanced Neural Network Applications,1959,2014,2015,2026,0,2,0,0,Eme
 A5074794653,Artistic and Creative Research,1959,2014,2015,2026,1,0,0,0,Declining
 A5074794653,Astro and Planetary Science,1959,2014,2015,2026,0,4,0,18,Emerging
 A5074794653,Atmospheric and Environmental Gas Dynamics,1959,2014,2015,2026,0,1,0,51,Emerging
-A5074794653,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,14,0,358,Emerging
+A5074794653,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,14,0,359,Emerging
 A5074794653,Carbon dioxide utilization in catalysis,1959,2014,2015,2026,0,3,0,18,Emerging
 A5074794653,Cell Image Analysis Techniques,1959,2014,2015,2026,0,2,0,0,Emerging
-A5074794653,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,117,Emerging
-A5074794653,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,26,0,451,Emerging
+A5074794653,Climate Change Policy and Economics,1959,2014,2015,2026,0,2,0,118,Emerging
+A5074794653,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,26,0,452,Emerging
 A5074794653,Digital Holography and Microscopy,1959,2014,2015,2026,0,1,0,0,Emerging
 A5074794653,Domain Adaptation and Few-Shot Learning,1959,2014,2015,2026,0,1,0,0,Emerging
 A5074794653,earthquake and tectonic studies,1959,2014,2015,2026,1,10,13,23,Growing priority
@@ -15905,12 +15905,12 @@ A5075368069,Geological formations and processes,1959,2014,2015,2026,0,1,0,17,Eme
 A5075368069,Geological Studies and Exploration,1959,2014,2015,2026,0,1,0,17,Emerging
 A5075368069,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,17,Emerging
 A5075383401,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,85,Emerging
-A5075383401,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,10,0,238,Emerging
+A5075383401,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,10,0,239,Emerging
 A5075383401,Geochemistry and Geologic Mapping,1959,2014,2015,2026,0,1,0,1,Emerging
-A5075383401,Geological and Geochemical Analysis,1959,2014,2015,2026,0,9,0,212,Emerging
+A5075383401,Geological and Geochemical Analysis,1959,2014,2015,2026,0,9,0,213,Emerging
 A5075383401,Geological formations and processes,1959,2014,2015,2026,0,3,0,29,Emerging
 A5075383401,Geological Studies and Exploration,1959,2014,2015,2026,0,3,0,86,Emerging
-A5075383401,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,11,0,311,Emerging
+A5075383401,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,11,0,312,Emerging
 A5075383401,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,4,0,15,Emerging
 A5075383401,Remote-Sensing Image Classification,1959,2014,2015,2026,0,1,0,1,Emerging
 A5075386163,Air Quality and Health Impacts,1959,2014,2015,2026,0,1,0,33,Emerging
@@ -16145,9 +16145,9 @@ A5076251382,Nanopore and Nanochannel Transport Studies,1959,2014,2015,2026,0,1,0
 A5076251382,Pharmaceutical and Antibiotic Environmental Impacts,1959,2014,2015,2026,0,1,0,0,Emerging
 A5076251382,Water Quality and Pollution Assessment,1959,2014,2015,2026,0,2,0,18,Emerging
 A5076251382,Water Quality and Resources Studies,1959,2014,2015,2026,0,1,0,18,Emerging
-A5076328375,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,1,851,0,Declining
-A5076328375,Geological formations and processes,1959,2014,2015,2026,2,1,851,0,Declining
-A5076328375,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,2,1,851,0,Declining
+A5076328375,Geochemistry and Elemental Analysis,1959,2014,2015,2026,2,1,853,0,Declining
+A5076328375,Geological formations and processes,1959,2014,2015,2026,2,1,853,0,Declining
+A5076328375,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,2,1,853,0,Declining
 A5076335447,Geological Studies and Exploration,1959,2014,2015,2026,0,1,0,19,Emerging
 A5076335447,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,2,0,20,Emerging
 A5076335447,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,20,Emerging
@@ -16402,11 +16402,11 @@ A5077639659,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,2,0,3
 A5077690571,Geochemistry and Elemental Analysis,1959,2014,2015,2026,1,0,342,0,Declining
 A5077690571,Geological and Geochemical Analysis,1959,2014,2015,2026,1,0,342,0,Declining
 A5077690571,Geological and Geophysical Studies,1959,2014,2015,2026,1,0,342,0,Declining
-A5077699688,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,35,Emerging
-A5077699688,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,70,Emerging
+A5077699688,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,36,Emerging
+A5077699688,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,71,Emerging
 A5077699688,Coal Properties and Utilization,1959,2014,2015,2026,0,2,0,41,Emerging
 A5077699688,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,6,Emerging
-A5077699688,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,76,Emerging
+A5077699688,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,4,0,77,Emerging
 A5077716064,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,3,0,55,Emerging
 A5077716064,Geological formations and processes,1959,2014,2015,2026,0,3,0,55,Emerging
 A5077716064,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,55,Emerging
@@ -16580,11 +16580,11 @@ A5078353329,Geological formations and processes,1959,2014,2015,2026,1,0,0,0,Decl
 A5078353329,Geological Studies and Exploration,1959,2014,2015,2026,1,0,0,0,Declining
 A5078353329,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,0,0,0,Declining
 A5078355178,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,85,Emerging
-A5078355178,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,13,0,255,Emerging
-A5078355178,Geological and Geochemical Analysis,1959,2014,2015,2026,0,10,0,212,Emerging
+A5078355178,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,13,0,256,Emerging
+A5078355178,Geological and Geochemical Analysis,1959,2014,2015,2026,0,10,0,213,Emerging
 A5078355178,Geological formations and processes,1959,2014,2015,2026,1,5,0,46,Strong surge
 A5078355178,Geological Studies and Exploration,1959,2014,2015,2026,1,3,0,86,Strong surge
-A5078355178,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,1,12,0,327,Strong surge
+A5078355178,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,1,12,0,328,Strong surge
 A5078355178,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,5,0,15,Emerging
 A5078368010,Geological and Geophysical Studies,1959,2014,2015,2026,1,0,47,0,Declining
 A5078368010,Geological Studies and Exploration,1959,2014,2015,2026,1,0,47,0,Declining
@@ -17301,10 +17301,10 @@ A5081761158,Geological formations and processes,1959,2014,2015,2026,0,1,0,117,Em
 A5081761158,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,117,Emerging
 A5081761158,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,117,Emerging
 A5081766026,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,21,Emerging
-A5081766026,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,2,0,52,Emerging
+A5081766026,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,2,0,53,Emerging
 A5081766026,Geological formations and processes,1959,2014,2015,2026,0,1,0,8,Emerging
-A5081766026,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,60,Emerging
-A5081766026,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,39,Emerging
+A5081766026,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,61,Emerging
+A5081766026,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,0,1,0,40,Emerging
 A5081786715,Electron and X-Ray Spectroscopy Techniques,1959,2014,2015,2026,1,0,8,0,Declining
 A5081786715,Evolution and Paleontology Studies,1959,2014,2015,2026,1,0,17,0,Declining
 A5081786715,Geochemistry and Elemental Analysis,1959,2014,2015,2026,1,0,8,0,Declining
@@ -17317,16 +17317,16 @@ A5081786715,Protist diversity and phylogeny,1959,2014,2015,2026,1,0,17,0,Declini
 A5081811780,Geological and Geochemical Analysis,1959,2014,2015,2026,10,4,915,90,Declining
 A5081811780,Geological and Geophysical Studies,1959,2014,2015,2026,13,3,1119,13,Declining
 A5081811780,Geological and Geophysical Studies Worldwide,1959,2014,2015,2026,1,0,2,0,Declining
-A5081811780,Geological formations and processes,1959,2014,2015,2026,32,8,1194,119,Declining
+A5081811780,Geological formations and processes,1959,2014,2015,2026,32,8,1195,119,Declining
 A5081811780,Geological Studies and Exploration,1959,2014,2015,2026,32,4,1909,19,Declining
-A5081811780,Geology and Paleoclimatology Research,1959,2014,2015,2026,14,8,375,190,Declining
+A5081811780,Geology and Paleoclimatology Research,1959,2014,2015,2026,14,8,376,190,Declining
 A5081811780,Geophysics and Sensor Technology,1959,2014,2015,2026,1,0,57,0,Declining
 A5081811780,Global Energy and Sustainability Research,1959,2014,2015,2026,3,1,67,4,Declining
 A5081811780,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,6,0,78,0,Declining
 A5081811780,Innovation Diffusion and Forecasting,1959,2014,2015,2026,1,1,15,4,Declining
 A5081811780,Market Dynamics and Volatility,1959,2014,2015,2026,0,1,0,4,Emerging
 A5081811780,Paleontology and Evolutionary Biology,1959,2014,2015,2026,2,0,0,0,Declining
-A5081811780,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,38,9,1280,196,Declining
+A5081811780,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,38,9,1281,196,Declining
 A5081811780,Plant Diversity and Evolution,1959,2014,2015,2026,1,0,0,0,Declining
 A5081811780,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,3,0,67,0,Declining
 A5081811780,Seismic Imaging and Inversion Techniques,1959,2014,2015,2026,3,0,87,0,Declining
@@ -17866,16 +17866,16 @@ A5084911171,Marine and coastal plant biology,1959,2014,2015,2026,0,1,0,11,Emergi
 A5084911171,Marine Biology and Ecology Research,1959,2014,2015,2026,0,1,0,11,Emerging
 A5084911171,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,10,Emerging
 A5084911171,Physiological and biochemical adaptations,1959,2014,2015,2026,0,1,0,11,Emerging
-A5084940954,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,6,0,61,Emerging
+A5084940954,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,6,0,62,Emerging
 A5084940954,Carbon dioxide utilization in catalysis,1959,2014,2015,2026,0,1,0,30,Emerging
-A5084940954,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,7,0,61,Emerging
+A5084940954,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,7,0,62,Emerging
 A5084940954,Concrete and Cement Materials Research,1959,2014,2015,2026,0,1,0,0,Emerging
 A5084940954,Drilling and Well Engineering,1959,2014,2015,2026,0,1,0,39,Emerging
 A5084940954,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,0,4,0,38,Emerging
 A5084940954,Fluid Dynamics and Heat Transfer,1959,2014,2015,2026,0,1,0,16,Emerging
 A5084940954,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,1,Emerging
 A5084940954,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,0,Emerging
-A5084940954,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,67,Emerging
+A5084940954,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,3,0,68,Emerging
 A5084940954,Lubricants and Their Additives,1959,2014,2015,2026,0,1,0,39,Emerging
 A5084940954,"Oil, Gas, and Environmental Issues",1959,2014,2015,2026,0,1,0,20,Emerging
 A5084940954,Petroleum Processing and Analysis,1959,2014,2015,2026,0,2,0,36,Emerging
@@ -17911,11 +17911,11 @@ A5085007251,Drilling and Well Engineering,1959,2014,2015,2026,0,2,0,33,Emerging
 A5085007251,Electron and X-Ray Spectroscopy Techniques,1959,2014,2015,2026,0,2,0,30,Emerging
 A5085007251,Enhanced Oil Recovery Techniques,1959,2014,2015,2026,1,4,26,45,Growing priority
 A5085007251,Evolution and Paleontology Studies,1959,2014,2015,2026,0,4,0,9,Emerging
-A5085007251,Geochemistry and Elemental Analysis,1959,2014,2015,2026,17,64,1092,748,Declining
+A5085007251,Geochemistry and Elemental Analysis,1959,2014,2015,2026,17,64,1094,748,Declining
 A5085007251,Geochemistry and Geologic Mapping,1959,2014,2015,2026,0,11,0,135,Emerging
 A5085007251,Geological and Geochemical Analysis,1959,2014,2015,2026,3,10,96,11,Declining
 A5085007251,Geological and Geophysical Studies,1959,2014,2015,2026,1,7,4,145,Strong surge
-A5085007251,Geological formations and processes,1959,2014,2015,2026,23,68,1081,999,"Output rising, impact softening"
+A5085007251,Geological formations and processes,1959,2014,2015,2026,23,68,1083,999,"Output rising, impact softening"
 A5085007251,Geological Modeling and Analysis,1959,2014,2015,2026,2,2,23,7,Declining
 A5085007251,Geological Studies and Exploration,1959,2014,2015,2026,3,8,22,108,Strong surge
 A5085007251,Geology and Paleoclimatology Research,1959,2014,2015,2026,2,7,61,17,Declining
@@ -17928,7 +17928,7 @@ A5085007251,Groundwater and Isotope Geochemistry,1959,2014,2015,2026,0,1,0,19,Em
 A5085007251,Groundwater flow and contamination studies,1959,2014,2015,2026,0,1,0,0,Emerging
 A5085007251,Hybrid Renewable Energy Systems,1959,2014,2015,2026,0,1,0,0,Emerging
 A5085007251,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,10,0,162,Emerging
-A5085007251,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,20,77,1046,1089,Growing priority
+A5085007251,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,20,77,1048,1089,Growing priority
 A5085007251,Hydrogen embrittlement and corrosion behaviors in metals,1959,2014,2015,2026,0,1,0,2,Emerging
 A5085007251,Hydrogen Storage and Materials,1959,2014,2015,2026,0,2,0,2,Emerging
 A5085007251,Hydrological Forecasting Using AI,1959,2014,2015,2026,0,1,0,0,Emerging
@@ -18900,11 +18900,11 @@ A5089914327,Geological formations and processes,1959,2014,2015,2026,1,0,2,0,Decl
 A5089914327,Geological Studies and Exploration,1959,2014,2015,2026,1,0,2,0,Declining
 A5089914327,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,0,2,0,Declining
 A5089996625,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,3,0,85,Emerging
-A5089996625,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,8,0,227,Emerging
-A5089996625,Geological and Geochemical Analysis,1959,2014,2015,2026,0,7,0,201,Emerging
+A5089996625,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,8,0,228,Emerging
+A5089996625,Geological and Geochemical Analysis,1959,2014,2015,2026,0,7,0,202,Emerging
 A5089996625,Geological formations and processes,1959,2014,2015,2026,0,2,0,2,Emerging
 A5089996625,Geological Studies and Exploration,1959,2014,2015,2026,0,2,0,59,Emerging
-A5089996625,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,8,0,272,Emerging
+A5089996625,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,8,0,273,Emerging
 A5089996625,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,3,0,15,Emerging
 A5090002950,Geological formations and processes,1959,2014,2015,2026,1,0,28,0,Declining
 A5090002950,Geological Studies and Exploration,1959,2014,2015,2026,1,0,28,0,Declining
@@ -18967,9 +18967,9 @@ A5090138078,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,3,0,13,Eme
 A5090138078,Geological and Geochemical Analysis,1959,2014,2015,2026,0,3,0,13,Emerging
 A5090138078,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,13,Emerging
 A5090138078,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,2,0,0,Emerging
-A5090138718,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,58,Emerging
-A5090138718,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,58,Emerging
-A5090138718,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,58,Emerging
+A5090138718,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,59,Emerging
+A5090138718,Geothermal Energy Systems and Applications,1959,2014,2015,2026,0,1,0,59,Emerging
+A5090138718,Hydraulic Fracturing and Reservoir Analysis,1959,2014,2015,2026,0,1,0,59,Emerging
 A5090141705,Evolution and Paleontology Studies,1959,2014,2015,2026,2,0,0,0,Declining
 A5090141705,Fern and Epiphyte Biology,1959,2014,2015,2026,2,0,287,0,Declining
 A5090141705,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,0,Emerging
@@ -19084,11 +19084,11 @@ A5090861963,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,3,0,1
 A5090875022,Geological and Geophysical Studies,1959,2014,2015,2026,0,1,0,10,Emerging
 A5090875022,Geological Studies and Exploration,1959,2014,2015,2026,0,1,0,10,Emerging
 A5090875022,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,10,Emerging
-A5090879935,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,28,Emerging
-A5090879935,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,28,Emerging
+A5090879935,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,29,Emerging
+A5090879935,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,1,0,29,Emerging
 A5090879935,Coal and Its By-products,1959,2014,2015,2026,0,1,0,4,Emerging
 A5090879935,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,4,Emerging
-A5090879935,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,32,Emerging
+A5090879935,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,2,0,33,Emerging
 A5090916832,Geological and Geochemical Analysis,1959,2014,2015,2026,3,0,96,0,Declining
 A5090916832,Geological and Geophysical Studies,1959,2014,2015,2026,2,0,91,0,Declining
 A5090916832,Geological and Geophysical Studies Worldwide,1959,2014,2015,2026,1,0,5,0,Declining
@@ -20095,12 +20095,12 @@ A5101941241,Geological Studies and Exploration,1959,2014,2015,2026,0,1,0,9,Emerg
 A5101941241,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,0,Emerging
 A5101941241,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,2,Emerging
 A5101941241,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,4,0,41,Emerging
-A5101975062,Geological formations and processes,1959,2014,2015,2026,0,1,0,4,Emerging
+A5101975062,Geological formations and processes,1959,2014,2015,2026,0,1,0,5,Emerging
 A5101975062,Geological Studies and Exploration,1959,2014,2015,2026,0,1,0,11,Emerging
-A5101975062,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,4,Emerging
+A5101975062,Geology and Paleoclimatology Research,1959,2014,2015,2026,0,1,0,5,Emerging
 A5101975062,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,11,Emerging
 A5101975062,Methane Hydrates and Related Phenomena,1959,2014,2015,2026,0,1,0,11,Emerging
-A5101975062,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,4,Emerging
+A5101975062,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,0,1,0,5,Emerging
 A5102002665,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,1,0,7,Emerging
 A5102002665,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,9,Emerging
 A5102002665,Geological Modeling and Analysis,1959,2014,2015,2026,0,2,0,9,Emerging
@@ -20296,9 +20296,9 @@ A5103003307,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,3
 A5103003307,Marine and environmental studies,1959,2014,2015,2026,0,1,0,2,Emerging
 A5103003307,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,1,0,128,0,Declining
 A5103003307,Remote Sensing and Land Use,1959,2014,2015,2026,1,0,5,0,Declining
-A5103011184,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,98,Emerging
-A5103011184,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,98,Emerging
-A5103011184,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,98,Emerging
+A5103011184,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,99,Emerging
+A5103011184,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,99,Emerging
+A5103011184,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,0,1,0,99,Emerging
 A5103013118,Geochemistry and Elemental Analysis,1959,2014,2015,2026,0,1,0,83,Emerging
 A5103013118,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,83,Emerging
 A5103013118,Geological and Geophysical Studies,1959,2014,2015,2026,0,1,0,83,Emerging
@@ -20493,15 +20493,15 @@ A5103799444,Fern and Epiphyte Biology,1959,2014,2015,2026,2,0,287,0,Declining
 A5103799444,Geochemistry and Elemental Analysis,1959,2014,2015,2026,4,1,35,9,Declining
 A5103799444,Geological and Geochemical Analysis,1959,2014,2015,2026,0,1,0,5,Emerging
 A5103799444,Geological and Geophysical Studies,1959,2014,2015,2026,1,0,0,0,Declining
-A5103799444,Geological formations and processes,1959,2014,2015,2026,20,10,307,97,Declining
+A5103799444,Geological formations and processes,1959,2014,2015,2026,20,10,308,97,Declining
 A5103799444,Geological Modeling and Analysis,1959,2014,2015,2026,1,0,13,0,Declining
-A5103799444,Geological Studies and Exploration,1959,2014,2015,2026,17,5,238,51,Declining
+A5103799444,Geological Studies and Exploration,1959,2014,2015,2026,17,5,239,51,Declining
 A5103799444,Geology and Paleoclimatology Research,1959,2014,2015,2026,3,2,145,38,Declining
 A5103799444,Hydrocarbon exploration and reservoir analysis,1959,2014,2015,2026,8,2,91,2,Declining
 A5103799444,Hydrology and Sediment Transport Processes,1959,2014,2015,2026,1,0,7,0,Declining
 A5103799444,"Oil, Gas, and Environmental Issues",1959,2014,2015,2026,1,0,13,0,Declining
 A5103799444,Paleontology and Evolutionary Biology,1959,2014,2015,2026,1,0,39,0,Declining
-A5103799444,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,9,6,421,61,Declining
+A5103799444,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,9,6,422,61,Declining
 A5103799444,Plant Diversity and Evolution,1959,2014,2015,2026,2,0,287,0,Declining
 A5103799444,Reservoir Engineering and Simulation Methods,1959,2014,2015,2026,2,0,26,0,Declining
 A5103799444,Soil and Environmental Studies,1959,2014,2015,2026,0,1,0,5,Emerging
@@ -22319,9 +22319,9 @@ A5114260129,Paleontology and Stratigraphy of Fossils,1959,2014,2015,2026,2,0,31,
 A5114260588,Geochemistry and Geochronology of Asian Mineral Deposits,1959,2014,2015,2026,1,0,2,0,Declining
 A5114260588,Geological and Geochemical Analysis,1959,2014,2015,2026,1,0,2,0,Declining
 A5114260588,Mineralogy and Gemology Studies,1959,2014,2015,2026,1,0,2,0,Declining
-A5114305640,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,23,Emerging
-A5114305640,Climate Change Policy and Economics,1959,2014,2015,2026,0,1,0,22,Emerging
-A5114305640,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,23,Emerging
+A5114305640,Carbon Dioxide Capture Technologies,1959,2014,2015,2026,0,2,0,24,Emerging
+A5114305640,Climate Change Policy and Economics,1959,2014,2015,2026,0,1,0,23,Emerging
+A5114305640,CO2 Sequestration and Geologic Interactions,1959,2014,2015,2026,0,2,0,24,Emerging
 A5114305640,Renewable energy and sustainable power systems,1959,2014,2015,2026,0,1,0,1,Emerging
 A5114319167,Hygrothermal properties of building materials,1959,2014,2015,2026,0,1,0,6,Emerging
 A5114319167,Materials Engineering and Processing,1959,2014,2015,2026,0,1,0,6,Emerging

@@ -351,7 +351,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4396745839"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -774,13 +778,13 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         },
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
@@ -1388,7 +1392,11 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4396578111"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1499,11 +1507,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9101,
+      "fwci": 0.9005,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.68665694,
+        "value": 0.68448905,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2456,7 +2464,11 @@
         "raw_source_name": "Earth Surface Processes and Landforms",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4410788205"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2771,11 +2783,11 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.5328,
+      "fwci": 1.5152,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.75531247,
+        "value": 0.75364523,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3988,7 +4000,11 @@
         "raw_source_name": "Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3107735373"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5342,7 +5358,11 @@
         "raw_source_name": "Geoheritage",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4366280974"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5419,11 +5439,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.0647,
+      "fwci": 1.0582,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.76819555,
+        "value": 0.76766156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5784,7 +5804,7 @@
         "https://openalex.org/W4249886930"
       ],
       "related_works": [
-        "https://openalex.org/W4226019405",
+        "https://openalex.org/W3134371939",
         "https://openalex.org/W3102071835",
         "https://openalex.org/W2801459528",
         "https://openalex.org/W4402632724",
@@ -5802,7 +5822,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-04-20T00:00:00"
     },
     {
@@ -5861,7 +5881,11 @@
         "raw_source_name": "Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3010622588"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7216,7 +7240,11 @@
         "raw_source_name": "Estudios Geológicos",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4386162512"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7988,7 +8016,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4383343323"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8082,11 +8114,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.5323,
+      "fwci": 0.5291,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.70983246,
+        "value": 0.71056955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8326,8 +8358,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.6000000238418579,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.6000000238418579
         }
       ],
       "study_designs": [],
@@ -8363,7 +8395,7 @@
         "https://openalex.org/W2017853825",
         "https://openalex.org/W2611821728",
         "https://openalex.org/W7205490190",
-        "https://openalex.org/W7097336645",
+        "https://openalex.org/W2045081247",
         "https://openalex.org/W4296687342",
         "https://openalex.org/W2730914956",
         "https://openalex.org/W3127877167",
@@ -8376,7 +8408,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2023-07-07T00:00:00"
     },
     {
@@ -8422,7 +8454,11 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7172210638"
+      ],
+      "child_works_count": 0,
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -9021,8 +9057,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.53329998254776,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.53329998254776
         }
       ],
       "study_designs": [],
@@ -9064,7 +9100,6 @@
         "https://openalex.org/W2038466622",
         "https://openalex.org/W2033009549",
         "https://openalex.org/W2409961123",
-        "https://openalex.org/W7099318795",
         "https://openalex.org/W2514309855",
         "https://openalex.org/W2527057951"
       ],
@@ -9361,7 +9396,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2026-08-03T00:00:00"
     },
     {
@@ -9418,7 +9453,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4293212965"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9939,7 +9978,11 @@
         "raw_source_name": null,
         "raw_type": "JournalArticle"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7155508834"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10891,7 +10934,11 @@
         "raw_source_name": "Journal of Maps",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7155534781"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12144,7 +12191,11 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7162646169"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [

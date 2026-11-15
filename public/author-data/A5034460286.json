@@ -351,7 +351,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034460286",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5034460286",
-    "updated_date": "2026-11-12T13:17:38",
+    "updated_date": "2026-11-14T11:48:19",
     "created_date": "2017-11-17T00:00:00"
   },
   "works": [
@@ -412,7 +412,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3035028305"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -641,11 +645,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.9883,
+      "fwci": 2.983,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.90486667,
+        "value": 0.90160183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1064,7 +1068,6 @@
         "https://openalex.org/W7202138650",
         "https://openalex.org/W4386495999",
         "https://openalex.org/W3030653473",
-        "https://openalex.org/W4380902044",
         "https://openalex.org/W2966824343",
         "https://openalex.org/W4283757143",
         "https://openalex.org/W3171403328",
@@ -1102,7 +1105,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-06-19T00:00:00"
     },
     {
@@ -1162,7 +1165,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3109838794"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1903,7 +1910,11 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2767810597"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2073,11 +2084,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.7036,
+      "fwci": 1.6977,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.80416598,
+        "value": 0.80350531,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2460,14 +2471,13 @@
       ],
       "related_works": [
         "https://openalex.org/W2319218431",
-        "https://openalex.org/W7167175085",
-        "https://openalex.org/W3112828405",
         "https://openalex.org/W7047653358",
+        "https://openalex.org/W3112828405",
         "https://openalex.org/W3170579962",
         "https://openalex.org/W3127689467",
         "https://openalex.org/W7055191586",
         "https://openalex.org/W3084364040",
-        "https://openalex.org/W7167190023",
+        "https://openalex.org/W7055757350",
         "https://openalex.org/W4206405668"
       ],
       "abstract_inverted_index": null,
@@ -2513,7 +2523,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-11-17T00:00:00"
     },
     {
@@ -2574,7 +2584,11 @@
         "raw_source_name": "Applied Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3171403328"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4243,7 +4257,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4399722089"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4635,11 +4653,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.8079,
+      "fwci": 1.801,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.82393787,
+        "value": 0.82363139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4990,7 +5008,7 @@
         "https://openalex.org/W7204783646",
         "https://openalex.org/W4382199751",
         "https://openalex.org/W3005990354",
-        "https://openalex.org/W4380902044"
+        "https://openalex.org/W4386495999"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -5003,7 +5021,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-06-18T00:00:00"
     },
     {
@@ -5062,7 +5080,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4297990441"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6029,7 +6051,11 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4403264229"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6299,11 +6325,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.3651,
+      "fwci": 1.3507,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.76831936,
+        "value": 0.76605839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6784,7 +6810,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4305072486"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7726,7 +7756,11 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4409186521"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8426,7 +8460,11 @@
         "raw_source_name": "Ichnos",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4413162530"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8710,11 +8748,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5109,
+      "fwci": 0.5051,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.50049314,
+        "value": 0.4981662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9812,7 +9850,11 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4416608146"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10608,7 +10650,11 @@
         "raw_source_name": "International Journal of Sediment Research",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4416957423"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10871,11 +10917,11 @@
         "currency": "USD",
         "value_usd": 1400
       },
-      "fwci": 0.4649,
+      "fwci": 0.4657,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.53151279,
+        "value": 0.53291968,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11391,7 +11437,6 @@
         "https://openalex.org/W4402099631",
         "https://openalex.org/W4223471131",
         "https://openalex.org/W4283757143",
-        "https://openalex.org/W4399887669",
         "https://openalex.org/W3102597749",
         "https://openalex.org/W7202138650",
         "https://openalex.org/W3171403328",
@@ -12306,7 +12351,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-12-03T00:00:00"
     },
     {
@@ -12352,7 +12397,11 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3014205103"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -12721,7 +12770,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3084364040"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -13170,7 +13223,7 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W7167190023",
+        "https://openalex.org/W7055757350",
         "https://openalex.org/W3112828405",
         "https://openalex.org/W2767810597",
         "https://openalex.org/W855856635",
@@ -13777,7 +13830,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-09-14T00:00:00"
     },
     {
@@ -13808,7 +13861,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3112828405"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -14364,7 +14421,6 @@
         "https://openalex.org/W3170579962",
         "https://openalex.org/W3084364040",
         "https://openalex.org/W7047653358",
-        "https://openalex.org/W7167175085",
         "https://openalex.org/W3123821561",
         "https://openalex.org/W7014876668",
         "https://openalex.org/W4206405668"
@@ -15072,7 +15128,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2020-12-21T00:00:00"
     },
     {
@@ -15102,10 +15158,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -15116,7 +15176,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4220690352"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -15602,10 +15666,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -15632,10 +15700,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -16350,7 +16422,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -16380,7 +16452,11 @@
         "raw_source_name": "EAGE Middle East Geomechanics Workshop: Lessons Learned &amp; New Frontiers",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4225348738"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -17434,7 +17510,11 @@
         "raw_source_name": "Sixth EAGE Rock Physics Workshop",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4312359787"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -18436,10 +18516,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -18450,7 +18534,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4392646336"
+      ],
+      "child_works_count": 0,
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -18938,10 +19026,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -18968,10 +19060,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -19675,7 +19771,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2024-03-12T00:00:00"
     },
     {
@@ -19734,7 +19830,11 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4407858137"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20379,7 +20479,7 @@
         "https://openalex.org/W4416111159",
         "https://openalex.org/W4404489554",
         "https://openalex.org/W2332337366",
-        "https://openalex.org/W4409383376",
+        "https://openalex.org/W4412518054",
         "https://openalex.org/W7167183889",
         "https://openalex.org/W934966749",
         "https://openalex.org/W7033318049",
@@ -20389,7 +20489,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2025-02-23T00:00:00"
     },
     {
@@ -20437,7 +20537,11 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4416111159"
+      ],
+      "child_works_count": 0,
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -20945,7 +21049,11 @@
         "raw_source_name": "Second EAGE Workshop on Advances in Carbonate Reservoirs: from Prospects to Development",
         "raw_type": "proceedings-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7129290408"
+      ],
+      "child_works_count": 0,
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -21776,7 +21884,11 @@
         "raw_source_name": "Rock Mechanics Bulletin",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7149670784"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23250,10 +23362,18 @@
         "raw_source_name": "The Past is the Key to a Sustainable Future",
         "raw_type": "book-chapter"
       },
-      "volume": {
-        "id": "https://openalex.org/W7202138381",
-        "display_name": "The Past is the Key to a Sustainable Future"
-      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7202138381",
+          "display_name": "The Past is the Key to a Sustainable Future",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W7202138650",
+        "https://openalex.org/W7202138381"
+      ],
+      "child_works_count": 0,
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -24474,7 +24594,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2026-08-11T00:00:00"
     },
     {
@@ -24535,7 +24655,11 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7204783646"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25065,7 +25189,11 @@
         "raw_source_name": "Innovative Infrastructure Solutions",
         "raw_type": "journal-article"
       },
-      "volume": null,
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7211941659"
+      ],
+      "child_works_count": 0,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25693,24 +25821,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 1
         },
         {
-          "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.8799999952316284,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.8799999952316284
         },
         {
-          "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         }
       ],
       "study_designs": [],
