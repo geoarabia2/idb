@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 00:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:47:04 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Fossil palynomorph identification as a testbed for comparing human and language-driven (large language model) intelligence</title>
@@ -299,6 +299,20 @@
       <category>Clay minerals</category>
       <category>Geochemistry</category>
       <description>Topics: Geology, Pyroclastic rock, Hydrothermal circulation, Clay minerals, Geochemistry&#10;Venue: Chemical Geology&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>The fate of supposed plesiosaur vomit from Jurassic delta deposits offshore Norway</title>
+      <link>https://doi.org/10.1017/s0016756826100806</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7221506506</guid>
+      <dc:creator>Dirk Knaust</dc:creator>
+      <dc:publisher>Geological Magazine</dc:publisher>
+      <category>Siliciclastic</category>
+      <category>Geology</category>
+      <category>Paleontology</category>
+      <category>Submarine pipeline</category>
+      <category>Sedimentation</category>
+      <description>Abstract: Abstract Regurgitalites (fossilized vomit) have been recognized as such for a century, but only recently they became better understood and systematically described. Centimetre-sized clumps containing tightly packed skeletal material of invertebrates (e.g. bivalves, serpulids and crinoids) and plant fragments are reported from well-core material offshore Norway for the first time. They occur in numerous wells with continuous cores through Middle to Upper Jurassic (Bathonian to Oxfordian) siliciclastic successions. The clumps mainly occur in delta-front deposits with records of salinity fluctuation due to incoming freshwater. This contrasts with their composition, consisting of stenohaline forms. The tight fabric, diverse composition, co-occurrence of fractured and complete organisms, and etched margins are consistent with an interpretation as regurgitalites. This biologically introduced allochthonous material differs from physically deposited skeletal concentrations (e.g. in storm layers) by their localized distribution (few centimetres). Delta-front environments are dynamic systems with a high sedimentation rate and frequent bioturbation. Consequently, the gastric pellets are subject of reworking and alteration, resulting in their disintegration or incorporation into burrows. An evaluation of potential producers of the regurgitalites – based on functional morphology and stomach content – infers that Cryptoclididae are most likely (although Hybodontiformes cannot be ruled out)…&#10;Topics: Siliciclastic, Geology, Paleontology, Submarine pipeline, Sedimentation&#10;Venue: Geological Magazine&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Diagenetic fluid overprinting of micrite stable isotopes: implications for paleo-elevation reconstruction</title>
@@ -634,7 +648,7 @@
       <category>Organic matter</category>
       <category>Geology</category>
       <category>Total organic carbon</category>
-      <description>Abstract: Organic-rich sediments of the Late Jurassic Lam Member (LM) in the Shabwah depression, southeastern Yemen were investigated using organic geochemical, biomarker and carbon isotope compositions with microscopic observations to assess the organic matter input and evaluate the sedimentary depositional conditions, as well as their role in controlling organic carbon accumulation. The LM samples are characterized by elevated organic matter (OM) and sulfur, reaching maximum values of 8.40 wt% and 18.85 wt%, respectively, indicating marine environment under anoxic and sulfidic conditions, promoting effective preservation of OM during deposition. This interpretation is supported by redox-related biomarker proxies, particularly low Pr/Ph ratio of less than 1.5, and higher abundance of sulfide mineral (FeS) in small size framboidal pyrite form, which it is formed due to sulphidation of iron under poor-oxygenated conditions. The source-related biomarker parameters, along with carbon isotope data also provide evidences of mainly marine (i.e., planktonic-bacterial) organic matter, with low amounts of land-plant input, reflecting mainly hydrogen-rich kerogen as original OM during deposition of the LM sediments. The predominance of marine-derived OM is evidenced by the abundance of alginite, including telalginite and lamalginite, together with diverse bituminite organic matter. The elevated warm-water climate event during the Late Jurassic time associated with anoxic conditions, promoting gr…&#10;Topics: Sedimentary depositional environment, Anoxic waters, Organic matter, Geology, Total organic carbon&#10;Venue: Scientific Reports&#10;Year: 2026&#10;Citations: 1</description>
+      <description>Abstract: Organic-rich sediments of the Late Jurassic Lam Member (LM) in the Shabwah depression, southeastern Yemen were investigated using organic geochemical, biomarker and carbon isotope compositions with microscopic observations to assess the organic matter input and evaluate the sedimentary depositional conditions, as well as their role in controlling organic carbon accumulation. The LM samples are characterized by elevated organic matter (OM) and sulfur, reaching maximum values of 8.40 wt% and 18.85 wt%, respectively, indicating marine environment under anoxic and sulfidic conditions, promoting effective preservation of OM during deposition. This interpretation is supported by redox-related biomarker proxies, particularly low Pr/Ph ratio of less than 1.5, and higher abundance of sulfide mineral (FeS) in small size framboidal pyrite form, which it is formed due to sulphidation of iron under poor-oxygenated conditions. The source-related biomarker parameters, along with carbon isotope data also provide evidences of mainly marine (i.e., planktonic-bacterial) organic matter, with low amounts of land-plant input, reflecting mainly hydrogen-rich kerogen as original OM during deposition of the LM sediments. The predominance of marine-derived OM is evidenced by the abundance of alginite, including telalginite and lamalginite, together with diverse bituminite organic matter. The elevated warm-water climate event during the Late Jurassic time associated with anoxic conditions, promoting gr…&#10;Topics: Sedimentary depositional environment, Anoxic waters, Organic matter, Geology, Total organic carbon&#10;Venue: Scientific Reports&#10;Year: 2026&#10;Citations: 2</description>
     </item>
     <item>
       <title>Oil–Coaly‐Source Rock of Oil Seepages From the West Coast Basin, New Zealand: Insights From Biomarker and Isotopic Investigations Coupled With 1D Basin Modeling Analysis</title>
@@ -1391,20 +1405,6 @@
       <category>Event (particle physics)</category>
       <category>Carbon cycle</category>
       <description>Abstract: The Aptian experienced significant carbon-cycle disruptions, marked by notable paleoclimatic and paleoceanographic shifts. While the mechanisms behind the Aptian oceanic anoxic events (OAE) are relatively well-understood, the interplay between global carbon-cycle dynamics and sea-level changes immediately following the early Aptian OAE1a remains enigmatic. By analyzing a carbonate succession from the western Tethys (eastern Spain), dated using ammonite biostratigraphy as Deshayesites deshayesi and Dufrenoyia furcata zones, we identify a temporal correlation between a sea-level highstand and a subsequent fall, aligning respectively with a global carbon-isotope excursion exceeding +4‰, unprecedented in the Cretaceous, and a sharp negative isotopic shift from +4.3‰ to −0.7‰. The concurrence of these sea-level fluctuations and carbon isotope variations across multiple regions underscores the eustatic origin of sea-level change and its profound impact on global carbon cycling. We propose that during highstand and transgressive stages, sea expansion acted as a carbon sink, facilitating the increased burial of isotopically light carbon. Conversely, rapid sea-level falls likely triggered sediment reworking, reintroducing this light carbon into the dissolved inorganic carbon (DIC) of the global ocean. This study highlights the overlooked role of remobilized sediments as a source of carbon during the Aptian, commonly attributed to volcanic degassing, and emphasizes the immediate and si…&#10;Topics: Aptian, Geology, Anoxic waters, Event (particle physics), Carbon cycle&#10;Venue: Global and Planetary Change&#10;Year: 2026&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution</title>
-      <link>https://doi.org/10.6084/m9.figshare.32095661</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7155508834</guid>
-      <dc:creator>Andrea Pezzotta, Alessia Marinoni, Mohammed H. Al Kindi, Davide Susini, Sam Turner, Michele Zucali, Andrea Zerboni</dc:creator>
-      <dc:publisher>Figshare</dc:publisher>
-      <category>Geology</category>
-      <category>Landform</category>
-      <category>Paleontology</category>
-      <category>Tectonics</category>
-      <category>Cretaceous</category>
-      <description>Abstract: This study presents a comprehensive geomorphological map of the Jebel Akhdar dome in the northern Sultanate of Oman, a prominent carbonate dome formed during the Late Cretaceous obduction of the Semail Ophiolite. The integration of remote sensing observations and field surveys validations permits to recognise landforms at different scales, and thus complete the geomorphological mapping. The research identifies key landforms shaped by complex interactions between tectonics, surface processes, and climate. The region&apos;s landscape reflects a long evolutionary history beginning with Late Cretaceous and Cenozoic tectonic doming and uplift, followed by prevailing exogenous processes during the Miocene-Quaternary, characterised by erosion, karstification, and fluvial and slope processes, with ongoing tectonic activity influencing landscape dynamics. Human interventions have also affected topographic features. Overall, the geomorphology of Jebel Akhdar dome exemplifies the interplay of endogenous and exogenous forces over geological timescales, providing vital insights into landscape evolution in arid environments and complex geodynamic settings.&#10;Topics: Geology, Landform, Paleontology, Tectonics, Cretaceous&#10;Venue: Figshare&#10;Year: 2026&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

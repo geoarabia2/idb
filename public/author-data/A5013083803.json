@@ -706,8 +706,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -1328,8 +1328,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -2600,8 +2600,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -3258,8 +3258,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -3768,8 +3768,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2980323464.pdf",
@@ -5061,7 +5061,7 @@
       "title": "Applications of Wellsite Chemostratigraphy",
       "display_name": "Applications of Wellsite Chemostratigraphy",
       "publication_year": 2018,
-      "publication_date": "2018-01-01",
+      "publication_date": "2018-01-11",
       "ids": {
         "openalex": "https://openalex.org/W2784277501",
         "doi": "https://doi.org/10.1007/978-3-319-71216-1_6",
@@ -5448,8 +5448,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -5487,7 +5487,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -5903,8 +5903,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -6443,8 +6443,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -6962,8 +6962,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -8019,8 +8019,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -8108,7 +8108,7 @@
       "title": "Geochemistry and Mineralogy",
       "display_name": "Geochemistry and Mineralogy",
       "publication_year": 2018,
-      "publication_date": "2018-01-01",
+      "publication_date": "2018-01-11",
       "ids": {
         "openalex": "https://openalex.org/W2783944859",
         "doi": "https://doi.org/10.1007/978-3-319-71216-1_3",
@@ -8229,11 +8229,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.498,
+      "fwci": 0.5038,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.62073171,
+        "value": 0.6253012,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8525,8 +8525,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 152,
@@ -8719,7 +8719,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -8728,7 +8728,7 @@
       "title": "Sampling, Sample Preparation and Analytical Techniques",
       "display_name": "Sampling, Sample Preparation and Analytical Techniques",
       "publication_year": 2018,
-      "publication_date": "2018-01-01",
+      "publication_date": "2018-01-11",
       "ids": {
         "openalex": "https://openalex.org/W2782749006",
         "doi": "https://doi.org/10.1007/978-3-319-71216-1_2",
@@ -8849,11 +8849,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.498,
+      "fwci": 0.5038,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.62073171,
+        "value": 0.6253012,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9185,8 +9185,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -9248,7 +9248,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -9767,8 +9767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -11040,8 +11040,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -12103,8 +12103,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -12220,7 +12220,7 @@
       "title": "Introduction",
       "display_name": "Introduction",
       "publication_year": 2018,
-      "publication_date": "2018-01-01",
+      "publication_date": "2018-01-11",
       "ids": {
         "openalex": "https://openalex.org/W4230495083",
         "doi": "https://doi.org/10.1007/978-3-319-71216-1_1"
@@ -12618,8 +12618,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -12668,7 +12668,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2022-05-11T00:00:00"
     },
     {
@@ -13157,8 +13157,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -13227,7 +13227,7 @@
       "title": "Application of Chemostratigraphy in Clastic, Carbonate and Unconventional Reservoirs",
       "display_name": "Application of Chemostratigraphy in Clastic, Carbonate and Unconventional Reservoirs",
       "publication_year": 2018,
-      "publication_date": "2018-01-01",
+      "publication_date": "2018-01-11",
       "ids": {
         "openalex": "https://openalex.org/W2783558229",
         "doi": "https://doi.org/10.1007/978-3-319-71216-1_5",
@@ -13348,11 +13348,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5312,
+      "fwci": 0.5596,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.60421736,
+        "value": 0.62269939,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13729,8 +13729,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -13794,7 +13794,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -13936,11 +13936,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1547,
+      "fwci": 0.1518,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.37705803,
+        "value": 0.36908345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14199,8 +14199,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -15145,8 +15145,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -15736,8 +15736,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16219,7 +16219,7 @@
       "title": "Production of Chemostratigraphic Correlation Schemes",
       "display_name": "Production of Chemostratigraphic Correlation Schemes",
       "publication_year": 2018,
-      "publication_date": "2018-01-01",
+      "publication_date": "2018-01-11",
       "ids": {
         "openalex": "https://openalex.org/W2783741879",
         "doi": "https://doi.org/10.1007/978-3-319-71216-1_4",
@@ -16340,11 +16340,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.249,
+      "fwci": 0.2519,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.51585366,
+        "value": 0.52048193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16564,8 +16564,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -16660,7 +16660,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -17263,8 +17263,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -17987,8 +17987,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -19468,8 +19468,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19833,8 +19833,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20277,8 +20277,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21358,8 +21358,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22161,8 +22161,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23313,8 +23313,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,

@@ -16,7 +16,7 @@
     ],
     "full_name": "Mohammed A. Al-Masrahy",
     "works_count": 16,
-    "cited_by_count": 275,
+    "cited_by_count": 277,
     "summary_stats": {
       "2yr_mean_citedness": 2.5714285714285716,
       "h_index": 5,
@@ -378,7 +378,7 @@
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 27
+        "cited_by_count": 29
       },
       {
         "year": 2024,
@@ -411,7 +411,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5042665751",
-    "updated_date": "2026-11-14T11:48:19",
+    "updated_date": "2026-11-15T13:39:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -585,11 +585,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 10.2646,
+      "fwci": 10.2178,
       "has_fulltext": true,
-      "cited_by_count": 160,
+      "cited_by_count": 161,
       "citation_normalized_percentile": {
-        "value": 0.98813667,
+        "value": 0.98808767,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1033,7 +1033,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 17
+          "cited_by_count": 18
         },
         {
           "year": 2022,
@@ -1068,7 +1068,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1241,11 +1241,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.6559,
+      "fwci": 2.6447,
       "has_fulltext": false,
-      "cited_by_count": 77,
+      "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.86703493,
+        "value": 0.86649481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1521,9 +1521,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -1640,7 +1640,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2022,
@@ -1679,7 +1679,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3852,7 +3852,7 @@
       "title": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
       "display_name": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
       "publication_year": 2020,
-      "publication_date": "2020-01-01",
+      "publication_date": "2020-01-11",
       "ids": {
         "openalex": "https://openalex.org/W3000146708",
         "doi": "https://doi.org/10.2523/19635-abstract",
@@ -3971,11 +3971,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7061,
+      "fwci": 2.7109,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.8499733,
+        "value": 0.84992017,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5167,7 +5167,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2020-01-23T00:00:00"
     },
     {

@@ -175,7 +175,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0000975,
+        "value": 0.0000974,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T12316",
         "display_name": "Oil Spill Detection and Mitigation",
-        "value": 0.0000735,
+        "value": 0.0000734,
         "subfield": {
           "id": "https://openalex.org/subfields/2310",
           "display_name": "Pollution"
@@ -1313,8 +1313,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -1357,8 +1357,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132684617.pdf",
@@ -2735,8 +2735,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -2762,8 +2762,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -3653,18 +3653,18 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         },
         {
           "score": 0.965499997138977,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         },
         {
           "score": 0.4399999976158142,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -3695,8 +3695,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386468571.pdf",
@@ -5284,8 +5284,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2583394094.pdf",
@@ -6642,8 +6642,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -7549,13 +7549,13 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         },
         {
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -7576,8 +7576,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -8586,8 +8586,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -8618,8 +8618,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3145666038.pdf",
@@ -9971,8 +9971,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385287273.pdf",
@@ -11174,13 +11174,13 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
           "score": 0.9599999785423279,
-          "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -11208,8 +11208,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -12708,8 +12708,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3150907985.pdf",
@@ -14072,8 +14072,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -15021,8 +15021,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -15578,8 +15578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16357,8 +16357,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -17122,8 +17122,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291014806.pdf",
@@ -17723,8 +17723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18745,8 +18745,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -19685,8 +19685,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -20237,7 +20237,7 @@
       "title": "Blue carbon cycling in the coastal areas of Qatar",
       "display_name": "Blue carbon cycling in the coastal areas of Qatar",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-02-07",
       "ids": {
         "openalex": "https://openalex.org/W4407260658",
         "doi": "https://doi.org/10.1180/gbi.2024.8"
@@ -20795,11 +20795,11 @@
         "currency": "USD",
         "value_usd": 3550
       },
-      "fwci": 1.6644,
+      "fwci": 1.6665,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.79094495,
+        "value": 0.79106529,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21199,13 +21199,13 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         },
         {
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -21260,8 +21260,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407260658.pdf",
@@ -21965,7 +21965,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-02-08T00:00:00"
     },
     {
@@ -22627,8 +22627,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -23561,11 +23561,11 @@
         "currency": "USD",
         "value_usd": 2700
       },
-      "fwci": 0.6603,
+      "fwci": 0.647,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.57675688,
+        "value": 0.56883707,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24054,8 +24054,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410781702.pdf",
@@ -25053,8 +25053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25086,7 +25086,7 @@
       "title": "The Paleozoic",
       "display_name": "The Paleozoic",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414526869",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_5"
@@ -25249,11 +25249,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2253,
+      "fwci": 3.2213,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85276074,
+        "value": 0.85380835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25550,8 +25550,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -25615,7 +25615,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -25624,7 +25624,7 @@
       "title": "Surface Geology",
       "display_name": "Surface Geology",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414527071",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_2"
@@ -25787,11 +25787,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2253,
+      "fwci": 3.2213,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85276074,
+        "value": 0.85380835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26236,8 +26236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -26304,7 +26304,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -26805,8 +26805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -27905,16 +27905,16 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28590,7 +28590,7 @@
       "title": "The Late Permian-Early Triassic",
       "display_name": "The Late Permian-Early Triassic",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414526211",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_6"
@@ -28753,11 +28753,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2253,
+      "fwci": 3.2213,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85276074,
+        "value": 0.85380835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29085,8 +29085,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -29140,7 +29140,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29831,8 +29831,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207158966.pdf",
@@ -31005,8 +31005,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111727931.pdf",
@@ -32093,8 +32093,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111736389.pdf",
@@ -33237,21 +33237,21 @@
       "sustainable_development_goals": [
         {
           "score": 0.8518999814987183,
-          "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         },
         {
           "score": 0.7778000235557556,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205612556.pdf",
@@ -34849,16 +34849,16 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205848438.pdf",
@@ -36061,8 +36061,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207614801.pdf",
@@ -37164,8 +37164,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312290890.pdf",
@@ -37721,8 +37721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312435439.pdf",
@@ -38221,8 +38221,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562204.pdf",
@@ -38770,8 +38770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408523099.pdf",
@@ -38802,7 +38802,7 @@
       "title": "The Cretaceous",
       "display_name": "The Cretaceous",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414525727",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_8"
@@ -39332,8 +39332,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -39406,7 +39406,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -39415,7 +39415,7 @@
       "title": "The Cenozoic",
       "display_name": "The Cenozoic",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414526823",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_9"
@@ -40021,8 +40021,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -40075,7 +40075,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -40084,7 +40084,7 @@
       "title": "Ediacaran and Cambrian",
       "display_name": "Ediacaran and Cambrian",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414527380",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_4"
@@ -40693,8 +40693,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -40749,7 +40749,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40758,7 +40758,7 @@
       "title": "The Jurassic",
       "display_name": "The Jurassic",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414551392",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_7"
@@ -41328,8 +41328,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -41409,7 +41409,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-09-27T00:00:00"
     },
     {
@@ -41418,7 +41418,7 @@
       "title": "Structural Configuration and Tectonic History",
       "display_name": "Structural Configuration and Tectonic History",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414551442",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_3"
@@ -42018,8 +42018,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -42117,7 +42117,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42126,7 +42126,7 @@
       "title": "Historical Background and Early Geologic Exploration",
       "display_name": "Historical Background and Early Geologic Exploration",
       "publication_year": 2025,
-      "publication_date": "2025-01-01",
+      "publication_date": "2025-09-26",
       "ids": {
         "openalex": "https://openalex.org/W4414551901",
         "doi": "https://doi.org/10.1007/978-3-031-94394-2_1"
@@ -42593,8 +42593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -42616,7 +42616,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

@@ -305,6 +305,9 @@ https://openalex.org/W1891640327,https://openalex.org/T13177,Geological and Geop
 https://openalex.org/W2152190278,https://openalex.org/T10647,Coastal and Marine Dynamics
 https://openalex.org/W2152190278,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2152190278,https://openalex.org/T12383,Aeolian processes and effects
+https://openalex.org/W2146733514,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W2146733514,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2146733514,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W2977029728,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W2977029728,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2977029728,https://openalex.org/T13193,Geological Studies and Exploration
@@ -335,9 +338,6 @@ https://openalex.org/W1997401669,https://openalex.org/T13193,Geological Studies 
 https://openalex.org/W2131575334,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2131575334,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W2131575334,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W2146733514,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W2146733514,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W2146733514,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W4242811202,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4242811202,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W4242811202,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
@@ -974,6 +974,9 @@ https://openalex.org/W4407035309,https://openalex.org/T11740,Geochemistry and El
 https://openalex.org/W4410349306,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
 https://openalex.org/W4410349306,https://openalex.org/T13067,Geological Modeling and Analysis
 https://openalex.org/W4410349306,https://openalex.org/T13177,Geological and Geophysical Studies
+https://openalex.org/W4410925295,https://openalex.org/T13177,Geological and Geophysical Studies
+https://openalex.org/W4410925295,https://openalex.org/T10110,earthquake and tectonic studies
+https://openalex.org/W4410925295,https://openalex.org/T10413,High-pressure geophysics and materials
 https://openalex.org/W4200082009,https://openalex.org/T10325,Astro and Planetary Science
 https://openalex.org/W4200082009,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W4200082009,https://openalex.org/T10477,Astrophysics and Star Formation Studies
@@ -989,9 +992,6 @@ https://openalex.org/W4405738686,https://openalex.org/T11740,Geochemistry and El
 https://openalex.org/W2538698849,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W2538698849,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W2538698849,https://openalex.org/T13177,Geological and Geophysical Studies
-https://openalex.org/W4410925295,https://openalex.org/T13177,Geological and Geophysical Studies
-https://openalex.org/W4410925295,https://openalex.org/T10110,earthquake and tectonic studies
-https://openalex.org/W4410925295,https://openalex.org/T10413,High-pressure geophysics and materials
 https://openalex.org/W4254090459,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W4254090459,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W4254090459,https://openalex.org/T10110,earthquake and tectonic studies
@@ -1595,12 +1595,12 @@ https://openalex.org/W2556378784,https://openalex.org/T11354,Evolution and Paleo
 https://openalex.org/W3124968926,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W3124968926,https://openalex.org/T10955,Paleontology and Evolutionary Biology
 https://openalex.org/W3124968926,https://openalex.org/T11354,Evolution and Paleontology Studies
-https://openalex.org/W3023363865,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
-https://openalex.org/W3023363865,https://openalex.org/T10955,Paleontology and Evolutionary Biology
-https://openalex.org/W3023363865,https://openalex.org/T11354,Evolution and Paleontology Studies
 https://openalex.org/W3185331725,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W3185331725,https://openalex.org/T10955,Paleontology and Evolutionary Biology
 https://openalex.org/W3185331725,https://openalex.org/T11354,Evolution and Paleontology Studies
+https://openalex.org/W3023363865,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W3023363865,https://openalex.org/T10955,Paleontology and Evolutionary Biology
+https://openalex.org/W3023363865,https://openalex.org/T11354,Evolution and Paleontology Studies
 https://openalex.org/W2529550218,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2529550218,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W2529550218,https://openalex.org/T10955,Paleontology and Evolutionary Biology
@@ -2189,6 +2189,9 @@ https://openalex.org/W3170993674,https://openalex.org/T14224,"Oil, Gas, and Envi
 https://openalex.org/W3015423791,https://openalex.org/T11630,Petroleum Processing and Analysis
 https://openalex.org/W3015423791,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W3015423791,https://openalex.org/T11382,Fluid Dynamics and Heat Transfer
+https://openalex.org/W3093626874,https://openalex.org/T10765,Marine Biology and Ecology Research
+https://openalex.org/W3093626874,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W3093626874,https://openalex.org/T10779,Coastal wetland ecosystem dynamics
 https://openalex.org/W4281667962,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4281667962,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W4281667962,https://openalex.org/T12157,Geochemistry and Geologic Mapping
@@ -2210,9 +2213,6 @@ https://openalex.org/W4398220506,https://openalex.org/T10030,Electrocatalysts fo
 https://openalex.org/W4401435094,https://openalex.org/T11056,Physiological and biochemical adaptations
 https://openalex.org/W4401435094,https://openalex.org/T10765,Marine Biology and Ecology Research
 https://openalex.org/W4401435094,https://openalex.org/T10341,Coral and Marine Ecosystems Studies
-https://openalex.org/W3093626874,https://openalex.org/T10765,Marine Biology and Ecology Research
-https://openalex.org/W3093626874,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
-https://openalex.org/W3093626874,https://openalex.org/T10779,Coastal wetland ecosystem dynamics
 https://openalex.org/W2797578994,https://openalex.org/T10765,Marine Biology and Ecology Research
 https://openalex.org/W2797578994,https://openalex.org/T14047,Marine and environmental studies
 https://openalex.org/W2797578994,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
@@ -3545,12 +3545,12 @@ https://openalex.org/W2606002868,https://openalex.org/T10894,Groundwater flow an
 https://openalex.org/W3122970365,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W3122970365,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W3122970365,https://openalex.org/T11740,Geochemistry and Elemental Analysis
-https://openalex.org/W4307637027,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W4307637027,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
-https://openalex.org/W4307637027,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W2010582339,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W2010582339,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2010582339,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W4307637027,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W4307637027,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W4307637027,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W2979622934,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2979622934,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W2979622934,https://openalex.org/T12383,Aeolian processes and effects
@@ -5861,12 +5861,12 @@ https://openalex.org/W1910697917,https://openalex.org/T10017,Geology and Paleocl
 https://openalex.org/W2560194642,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W2560194642,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W2560194642,https://openalex.org/T10001,Geological and Geochemical Analysis
-https://openalex.org/W2003608007,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
-https://openalex.org/W2003608007,https://openalex.org/T10017,Geology and Paleoclimatology Research
-https://openalex.org/W2003608007,https://openalex.org/T11354,Evolution and Paleontology Studies
 https://openalex.org/W2958787718,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W2958787718,https://openalex.org/T12271,Renewable energy and sustainable power systems
 https://openalex.org/W2958787718,https://openalex.org/T10471,Climate Change Policy and Economics
+https://openalex.org/W2003608007,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W2003608007,https://openalex.org/T10017,Geology and Paleoclimatology Research
+https://openalex.org/W2003608007,https://openalex.org/T11354,Evolution and Paleontology Studies
 https://openalex.org/W2159968487,https://openalex.org/T12129,Global Energy Security and Policy
 https://openalex.org/W2159968487,https://openalex.org/T11588,Atmospheric and Environmental Gas Dynamics
 https://openalex.org/W2159968487,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
@@ -5948,12 +5948,12 @@ https://openalex.org/W4401362486,https://openalex.org/T10399,Hydrocarbon explora
 https://openalex.org/W4396578038,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W4396578038,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W4396578038,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W4366992704,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
-https://openalex.org/W4366992704,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W4366992704,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4410205451,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W4410205451,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W4410205451,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4366992704,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W4366992704,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W4366992704,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W2074542506,https://openalex.org/T10484,Wood Treatment and Properties
 https://openalex.org/W2074542506,https://openalex.org/T11208,Lignin and Wood Chemistry
 https://openalex.org/W2074542506,https://openalex.org/T12713,Forest Ecology and Biodiversity Studies
@@ -5987,9 +5987,9 @@ https://openalex.org/W2564457604,https://openalex.org/T13193,Geological Studies 
 https://openalex.org/W2923770826,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W2923770826,https://openalex.org/T10955,Paleontology and Evolutionary Biology
 https://openalex.org/W2923770826,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W3154374810,https://openalex.org/T12271,Renewable energy and sustainable power systems
-https://openalex.org/W3154374810,https://openalex.org/T11336,Energy and Environment Impacts
 https://openalex.org/W3154374810,https://openalex.org/T12639,Global Energy and Sustainability Research
+https://openalex.org/W3154374810,https://openalex.org/T13870,Environmental and Ecological Studies
+https://openalex.org/W3154374810,https://openalex.org/T12129,Global Energy Security and Policy
 https://openalex.org/W4376480185,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W4376480185,https://openalex.org/T11354,Evolution and Paleontology Studies
 https://openalex.org/W4376480185,https://openalex.org/T10955,Paleontology and Evolutionary Biology
@@ -6047,6 +6047,9 @@ https://openalex.org/W4362555246,https://openalex.org/T11933,Mining and Resource
 https://openalex.org/W3213322169,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W3213322169,https://openalex.org/T10955,Paleontology and Evolutionary Biology
 https://openalex.org/W3213322169,https://openalex.org/T10385,Plant Diversity and Evolution
+https://openalex.org/W2765693573,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2765693573,https://openalex.org/T11588,Atmospheric and Environmental Gas Dynamics
+https://openalex.org/W2765693573,https://openalex.org/T14224,"Oil, Gas, and Environmental Issues"
 https://openalex.org/W4413683841,https://openalex.org/T10102,scientometrics and bibliometrics research
 https://openalex.org/W4413683841,https://openalex.org/T14185,"Research, Science, and Academia"
 https://openalex.org/W4413683841,https://openalex.org/T12639,Global Energy and Sustainability Research
@@ -6086,9 +6089,6 @@ https://openalex.org/W2794951188,https://openalex.org/T10109,Paleontology and St
 https://openalex.org/W2948001292,https://openalex.org/T14280,Big Data Technologies and Applications
 https://openalex.org/W2948001292,https://openalex.org/T13067,Geological Modeling and Analysis
 https://openalex.org/W2948001292,https://openalex.org/T12157,Geochemistry and Geologic Mapping
-https://openalex.org/W2765693573,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W2765693573,https://openalex.org/T11588,Atmospheric and Environmental Gas Dynamics
-https://openalex.org/W2765693573,https://openalex.org/T14224,"Oil, Gas, and Environmental Issues"
 https://openalex.org/W4318312072,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W4318312072,https://openalex.org/T10955,Paleontology and Evolutionary Biology
 https://openalex.org/W4318312072,https://openalex.org/T10385,Plant Diversity and Evolution
@@ -6596,6 +6596,9 @@ https://openalex.org/W4402597823,https://openalex.org/T12615,Climate Change and 
 https://openalex.org/W4404700742,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W4404700742,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4404700742,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W4389915598,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4389915598,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W4389915598,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W3104635880,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W3104635880,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W3104635880,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
@@ -6608,9 +6611,6 @@ https://openalex.org/W4399040557,https://openalex.org/T10109,Paleontology and St
 https://openalex.org/W4409425424,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4409425424,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4409425424,https://openalex.org/T11740,Geochemistry and Elemental Analysis
-https://openalex.org/W4389915598,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4389915598,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W4389915598,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W4395117463,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4395117463,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W4395117463,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
@@ -8987,6 +8987,9 @@ https://openalex.org/W3165010074,https://openalex.org/T13177,Geological and Geop
 https://openalex.org/W2959332765,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2959332765,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W2959332765,https://openalex.org/T13193,Geological Studies and Exploration
+https://openalex.org/W4234571733,https://openalex.org/T13193,Geological Studies and Exploration
+https://openalex.org/W4234571733,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4234571733,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W3171914775,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W3171914775,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W3171914775,https://openalex.org/T13193,Geological Studies and Exploration
@@ -8999,9 +9002,6 @@ https://openalex.org/W2501674867,https://openalex.org/T13177,Geological and Geop
 https://openalex.org/W2561614970,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W2561614970,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W2561614970,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4234571733,https://openalex.org/T13193,Geological Studies and Exploration
-https://openalex.org/W4234571733,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4234571733,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W3140024004,https://openalex.org/T13067,Geological Modeling and Analysis
 https://openalex.org/W3140024004,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W3140024004,https://openalex.org/T10965,Geological formations and processes
@@ -9515,6 +9515,9 @@ https://openalex.org/W4406405554,https://openalex.org/T10004,Soil Carbon and Nit
 https://openalex.org/W7114916553,https://openalex.org/T11002,Indoor Air Quality and Microbial Exposure
 https://openalex.org/W7114916553,https://openalex.org/T12120,Air Quality Monitoring and Forecasting
 https://openalex.org/W7114916553,https://openalex.org/T10121,Building Energy and Comfort Optimization
+https://openalex.org/W7117237644,https://openalex.org/T12247,Microbial Applications in Construction Materials
+https://openalex.org/W7117237644,https://openalex.org/T11278,Calcium Carbonate Crystallization and Inhibition
+https://openalex.org/W7117237644,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W2166281785,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W2166281785,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W2166281785,https://openalex.org/T10965,Geological formations and processes
@@ -9566,9 +9569,6 @@ https://openalex.org/W4405622226,https://openalex.org/T12316,Oil Spill Detection
 https://openalex.org/W4400487522,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W4400487522,https://openalex.org/T11278,Calcium Carbonate Crystallization and Inhibition
 https://openalex.org/W4400487522,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W7117237644,https://openalex.org/T12247,Microbial Applications in Construction Materials
-https://openalex.org/W7117237644,https://openalex.org/T11278,Calcium Carbonate Crystallization and Inhibition
-https://openalex.org/W7117237644,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W7127454235,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W7127454235,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W7127454235,https://openalex.org/T10965,Geological formations and processes
@@ -9887,6 +9887,9 @@ https://openalex.org/W4317726608,https://openalex.org/T13205,Geological and Geop
 https://openalex.org/W4310197281,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W4310197281,https://openalex.org/T10967,Carbon Dioxide Capture Technologies
 https://openalex.org/W4310197281,https://openalex.org/T11588,Atmospheric and Environmental Gas Dynamics
+https://openalex.org/W4406675261,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
+https://openalex.org/W4406675261,https://openalex.org/T10967,Carbon Dioxide Capture Technologies
+https://openalex.org/W4406675261,https://openalex.org/T11593,Carbon dioxide utilization in catalysis
 https://openalex.org/W2027233884,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W2027233884,https://openalex.org/T13442,Geochemistry and Geochronology of Asian Mineral Deposits
 https://openalex.org/W2027233884,https://openalex.org/T13443,Mineralogy and Gemology Studies
@@ -9908,9 +9911,6 @@ https://openalex.org/W4317600200,https://openalex.org/T13193,Geological Studies 
 https://openalex.org/W4394778492,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W4394778492,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W4394778492,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W4406675261,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
-https://openalex.org/W4406675261,https://openalex.org/T10967,Carbon Dioxide Capture Technologies
-https://openalex.org/W4406675261,https://openalex.org/T11593,Carbon dioxide utilization in catalysis
 https://openalex.org/W4408878224,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W4408878224,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4408878224,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
@@ -11585,12 +11585,12 @@ https://openalex.org/W2011379108,https://openalex.org/T13177,Geological and Geop
 https://openalex.org/W1976950473,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W1976950473,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W1976950473,https://openalex.org/T13193,Geological Studies and Exploration
-https://openalex.org/W1964170439,https://openalex.org/T13177,Geological and Geophysical Studies
-https://openalex.org/W1964170439,https://openalex.org/T13193,Geological Studies and Exploration
-https://openalex.org/W1964170439,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W2902242958,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W2902242958,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W2902242958,https://openalex.org/T13193,Geological Studies and Exploration
+https://openalex.org/W1964170439,https://openalex.org/T13177,Geological and Geophysical Studies
+https://openalex.org/W1964170439,https://openalex.org/T13193,Geological Studies and Exploration
+https://openalex.org/W1964170439,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W2055763048,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W2055763048,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W2055763048,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils

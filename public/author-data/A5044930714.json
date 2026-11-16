@@ -9732,7 +9732,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mohammed H. Aljahdali",
           "raw_affiliation_strings": [
             "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz\nUniversity, P.O. Box 80200, Jeddah 21589, Saudi Arabia"
@@ -9848,11 +9848,9 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
-        "https://openalex.org/A5032633264",
         "https://openalex.org/A5053303871"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I185163786",
         "https://openalex.org/I45129253"
       ],
       "apc_list": {
@@ -9865,11 +9863,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.1534,
+      "fwci": 0.1513,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.31753685,
+        "value": 0.3133583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10775,7 +10773,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2021-10-11T00:00:00"
     },
     {
@@ -19289,17 +19287,17 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4106,
+      "fwci": 1.5145,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.78431373,
+        "value": 0.79919273,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 95
+        "max": 96
       },
       "biblio": {
         "volume": null,
@@ -21400,7 +21398,7 @@
       "lineage": [
         "https://openalex.org/W4388043308"
       ],
-      "child_works_count": 0,
+      "child_works_count": 1,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21618,11 +21616,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3107,
+      "fwci": 0.3106,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.4493348,
+        "value": 0.44977511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22521,7 +22519,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2023-11-01T00:00:00"
     },
     {
@@ -24035,9 +24033,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -24642,7 +24640,7 @@
       "lineage": [
         "https://openalex.org/W4416430946"
       ],
-      "child_works_count": 0,
+      "child_works_count": 21,
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25538,11 +25536,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 1.8821,
+      "fwci": 1.8947,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82371678,
+        "value": 0.82506986,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26802,7 +26800,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2025-11-20T00:00:00"
     },
     {
@@ -26811,7 +26809,7 @@
       "title": "Eocene (Priabonian) agglutinated foraminiferal morphogroups from the Rashrashiyah Formation of Saudi Arabia: taxonomy and paleoenvironmental implications",
       "display_name": "Eocene (Priabonian) agglutinated foraminiferal morphogroups from the Rashrashiyah Formation of Saudi Arabia: taxonomy and paleoenvironmental implications",
       "publication_year": 2026,
-      "publication_date": "2026-01-01",
+      "publication_date": "2026-03-01",
       "ids": {
         "openalex": "https://openalex.org/W7133207698",
         "doi": "https://doi.org/10.47894/mpal.72.2.04"
@@ -27043,11 +27041,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5666,
+      "fwci": 2.5297,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77955326,
+        "value": 0.77652099,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27387,9 +27385,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.617900013923645,
-          "display_name": "Life below water"
+          "score": 0.617900013923645
         }
       ],
       "study_designs": [],
@@ -27930,7 +27928,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2026-03-03T00:00:00"
     },
     {
@@ -29131,9 +29129,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -32943,7 +32941,7 @@
       "title": "Calcareous benthic foraminifera from the Middle Upper Eocene Rashrashiyah Formation, Saudi Arabia: Part 1 – Miliolida and Lagenida",
       "display_name": "Calcareous benthic foraminifera from the Middle Upper Eocene Rashrashiyah Formation, Saudi Arabia: Part 1 – Miliolida and Lagenida",
       "publication_year": 2026,
-      "publication_date": "2026-01-01",
+      "publication_date": "2026-04-30",
       "ids": {
         "openalex": "https://openalex.org/W7160127788",
         "doi": "https://doi.org/10.47894/mpal.72.3.04"
@@ -33848,7 +33846,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2026-05-05T00:00:00"
     }
   ]

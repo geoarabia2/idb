@@ -1156,8 +1156,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651
         }
       ],
@@ -1669,7 +1669,7 @@
       "title": "Foraminifera from the Aruma Formation of Central Saudi Arabia",
       "display_name": "Foraminifera from the Aruma Formation of Central Saudi Arabia",
       "publication_year": 2020,
-      "publication_date": "2020-01-01",
+      "publication_date": "2020-03-01",
       "ids": {
         "openalex": "https://openalex.org/W3129777047",
         "doi": "https://doi.org/10.47894/mpal.66.2.07",
@@ -1891,11 +1891,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3948,
+      "fwci": 0.3887,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.46636706,
+        "value": 0.46141479,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2614,7 +2614,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -6762,8 +6762,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 1
         }
       ],

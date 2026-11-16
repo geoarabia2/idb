@@ -7299,11 +7299,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3599,
+      "fwci": 1.4072,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.69146006,
+        "value": 0.7010582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10694,8 +10694,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -10933,11 +10933,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9066,
+      "fwci": 0.9381,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.60330579,
+        "value": 0.61375661,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11627,11 +11627,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9066,
+      "fwci": 0.9381,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.60330579,
+        "value": 0.61375661,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12384,11 +12384,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9375,
+      "fwci": 4.0247,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.86305732,
+        "value": 0.86461538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13702,11 +13702,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3599,
+      "fwci": 1.4072,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.69146006,
+        "value": 0.7010582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15450,11 +15450,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4533,
+      "fwci": 0.4691,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.4738292,
+        "value": 0.48941799,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

@@ -533,11 +533,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3115,
+      "fwci": 1.3588,
       "has_fulltext": false,
       "cited_by_count": 89,
       "citation_normalized_percentile": {
-        "value": 0.74651811,
+        "value": 0.75537634,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6225,11 +6225,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.157,
+      "fwci": 1.1492,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.80715601,
+        "value": 0.80581323,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6592,25 +6592,10 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:CiteSeerX.psu:10.1.1.844.9231",
+          "id": "pmh:oai:dergipark.org.tr:article/143459",
           "doi": null,
           "is_oa": false,
-          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.844.9231",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "http://journals.tubitak.gov.tr/earth/issues/yer-14-23-2/yer-23-2-6-1206-2.pdf",
-          "raw_type": "text"
-        },
-        {
-          "id": "pmh:oai:dergipark.gov.tr:article/143459",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://dergipark.gov.tr/tbtkearth/issue/11975/143459",
+          "landing_page_url": "https://dergipark.org.tr/tr/pub/tbtkearth/issue/11975/143459",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306401840",
@@ -6638,10 +6623,25 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
-          "id": "pmh:oai:dergipark.org.tr:article/143459",
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.844.9231",
           "doi": null,
           "is_oa": false,
-          "landing_page_url": "https://dergipark.org.tr/tr/pub/tbtkearth/issue/11975/143459",
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.844.9231",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://journals.tubitak.gov.tr/earth/issues/yer-14-23-2/yer-23-2-6-1206-2.pdf",
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:dergipark.gov.tr:article/143459",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://dergipark.gov.tr/tbtkearth/issue/11975/143459",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306401840",
@@ -7298,7 +7298,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {

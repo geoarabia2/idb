@@ -4276,8 +4276,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46149998903274536
         }
       ],
@@ -11565,8 +11565,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.8999999761581421
         }
       ],
@@ -13634,8 +13634,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651
         }
       ],
@@ -14225,8 +14225,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1
         }
       ],
@@ -16510,13 +16510,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.965499997138977
         },
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.7811999917030334
         }
       ],
@@ -21462,8 +21462,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.965499997138977
         }
       ],
@@ -30215,11 +30215,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.8481,
+      "fwci": 1.7998,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.80404096,
+        "value": 0.79948659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30798,11 +30798,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.1615,
+      "fwci": 4.2825,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.92913981,
+        "value": 0.9311663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31080,8 +31080,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6618000268936157
         }
       ],
@@ -33126,11 +33126,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.896,
+      "fwci": 0.8798,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.65884738,
+        "value": 0.6543356,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36403,11 +36403,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.6134,
+      "fwci": 0.5999,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.59245334,
+        "value": 0.58413264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42930,19 +42930,44 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "pmh:oai:CiteSeerX.psu:10.1.1.869.1272",
+        "id": "mag:2114217998",
         "doi": null,
         "is_oa": false,
-        "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.869.1272",
+        "landing_page_url": "https://www.iiste.org/Journals/index.php/JJCE/article/download/17947/18324",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S988777817",
+          "display_name": "Jordan Journal of Civil Engineering",
+          "issn_l": "1993-0461",
+          "issn": [
+            "1993-0461",
+            "2225-157X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [
+            "dongbi-c",
+            "poland-40",
+            "russia-white-list-3"
+          ],
+          "host_organization": "https://openalex.org/P4310319221",
+          "host_organization_name": "Jordan University of Science and Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319221"
+          ],
+          "host_organization_lineage_names": [
+            "Jordan University of Science and Technology"
+          ],
+          "type": "journal"
+        },
         "license": null,
         "license_id": null,
-        "version": "submittedVersion",
+        "version": null,
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "http://www.iiste.org/Journals/index.php/JJCE/article/download/17947/18324/",
-        "raw_type": "text"
+        "raw_source_name": "Jordan Journal of Civil Engineering",
+        "raw_type": null
       },
       "parent_works": [],
       "lineage": [
@@ -43281,21 +43306,6 @@
       "locations_count": 2,
       "locations": [
         {
-          "id": "pmh:oai:CiteSeerX.psu:10.1.1.869.1272",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.869.1272",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "http://www.iiste.org/Journals/index.php/JJCE/article/download/17947/18324/",
-          "raw_type": "text"
-        },
-        {
           "id": "mag:2114217998",
           "doi": null,
           "is_oa": false,
@@ -43334,13 +43344,28 @@
           "is_published": false,
           "raw_source_name": "Jordan Journal of Civil Engineering",
           "raw_type": null
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.869.1272",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.869.1272",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://www.iiste.org/Journals/index.php/JJCE/article/download/17947/18324/",
+          "raw_type": "text"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 1
         }
       ],
@@ -43896,7 +43921,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -43905,7 +43930,7 @@
       "title": "Characterization of Composition, Morphology, and Structure of Disi Raw Sandstones in Jordan",
       "display_name": "Characterization of Composition, Morphology, and Structure of Disi Raw Sandstones in Jordan",
       "publication_year": 2017,
-      "publication_date": "2017-01-01",
+      "publication_date": "2017-02-08",
       "ids": {
         "openalex": "https://openalex.org/W2587133564",
         "doi": "https://doi.org/10.1007/978-3-319-52192-3_34",
@@ -44554,7 +44579,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2017-02-17T00:00:00"
     },
     {

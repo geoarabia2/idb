@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 00:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:47:04 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Fossil palynomorph identification as a testbed for comparing human and language-driven (large language model) intelligence</title>
@@ -194,6 +194,15 @@
       <dc:creator>Anas Muhammad Salisu; Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Ignatius Argadestya; Khalid A. Al-Ramadan</dc:creator>
       <dc:publisher>Chemical Geology</dc:publisher>
       <description>Authors: Anas Muhammad Salisu; Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Ignatius Argadestya; Khalid A. Al-Ramadan | Venue: Chemical Geology | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.chemgeo.2026.123729 | OpenAlex: https://openalex.org/W7214226277</description>
+    </item>
+    <item>
+      <title>The fate of supposed plesiosaur vomit from Jurassic delta deposits offshore Norway</title>
+      <link>https://doi.org/10.1017/s0016756826100806</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7221506506</guid>
+      <dc:creator>Dirk Knaust</dc:creator>
+      <dc:publisher>Geological Magazine</dc:publisher>
+      <description>Authors: Dirk Knaust | Venue: Geological Magazine | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1017/s0016756826100806 | OpenAlex: https://openalex.org/W7221506506</description>
     </item>
     <item>
       <title>Diagenetic fluid overprinting of micrite stable isotopes: implications for paleo-elevation reconstruction</title>
@@ -896,15 +905,6 @@
       <dc:creator>Daniel Muñoz‐López; Telm Bover‐Arnal; Adhipa Herlambang; Ardiansyah Koeshidayatullah</dc:creator>
       <dc:publisher>Global and Planetary Change</dc:publisher>
       <description>Authors: Daniel Muñoz‐López; Telm Bover‐Arnal; Adhipa Herlambang; Ardiansyah Koeshidayatullah | Venue: Global and Planetary Change | Year: 2026 | Citations: 1 | DOI: https://doi.org/10.1016/j.gloplacha.2026.105497 | OpenAlex: https://openalex.org/W7155892393</description>
-    </item>
-    <item>
-      <title>Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution</title>
-      <link>https://doi.org/10.6084/m9.figshare.32095661</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7155508834</guid>
-      <dc:creator>Andrea Pezzotta; Alessia Marinoni; Mohammed H. Al Kindi; Davide Susini; Sam Turner; Michele Zucali; Andrea Zerboni</dc:creator>
-      <dc:publisher>Figshare</dc:publisher>
-      <description>Authors: Andrea Pezzotta; Alessia Marinoni; Mohammed H. Al Kindi; Davide Susini; Sam Turner; Michele Zucali; Andrea Zerboni | Venue: Figshare | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.6084/m9.figshare.32095661 | OpenAlex: https://openalex.org/W7155508834</description>
     </item>
   </channel>
 </rss>

@@ -21,7 +21,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 66,
-    "cited_by_count": 5800,
+    "cited_by_count": 5811,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 31,
@@ -519,19 +519,19 @@
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 624
+        "cited_by_count": 629
       },
       {
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 413
+        "cited_by_count": 416
       },
       {
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 439
+        "cited_by_count": 440
       },
       {
         "year": 2024,
@@ -549,7 +549,7 @@
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 463
+        "cited_by_count": 465
       }
     ],
     "display_name_alternatives": [
@@ -569,7 +569,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5103098706",
-    "updated_date": "2026-11-12T13:17:38",
+    "updated_date": "2026-11-15T13:39:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -978,11 +978,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 21.8408,
+      "fwci": 21.8147,
       "has_fulltext": false,
-      "cited_by_count": 830,
+      "cited_by_count": 834,
       "citation_normalized_percentile": {
-        "value": 0.99875531,
+        "value": 0.99875348,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1724,7 +1724,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 86
+          "cited_by_count": 87
         },
         {
           "year": 2025,
@@ -1740,11 +1740,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 63
+          "cited_by_count": 64
         },
         {
           "year": 2021,
-          "cited_by_count": 88
+          "cited_by_count": 90
         },
         {
           "year": 2020,
@@ -1783,7 +1783,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2463,7 +2463,7 @@
       },
       "fwci": 4.514,
       "has_fulltext": false,
-      "cited_by_count": 821,
+      "cited_by_count": 824,
       "citation_normalized_percentile": {
         "value": 1,
         "is_in_top_1_percent": true,
@@ -4063,15 +4063,15 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 70
+          "cited_by_count": 71
         },
         {
           "year": 2022,
-          "cited_by_count": 56
+          "cited_by_count": 57
         },
         {
           "year": 2021,
-          "cited_by_count": 95
+          "cited_by_count": 96
         },
         {
           "year": 2020,
@@ -4106,7 +4106,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4264,9 +4264,9 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 44.0312,
+      "fwci": 43.8147,
       "has_fulltext": false,
-      "cited_by_count": 739,
+      "cited_by_count": 740,
       "citation_normalized_percentile": {
         "value": 1,
         "is_in_top_1_percent": true,
@@ -4909,7 +4909,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 68
+          "cited_by_count": 69
         },
         {
           "year": 2020,
@@ -4948,7 +4948,7 @@
           "cited_by_count": 15
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5106,11 +5106,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.4691,
+      "fwci": 7.4453,
       "has_fulltext": false,
-      "cited_by_count": 508,
+      "cited_by_count": 509,
       "citation_normalized_percentile": {
-        "value": 0.97790773,
+        "value": 0.97781093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6077,7 +6077,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 47
+          "cited_by_count": 48
         },
         {
           "year": 2020,
@@ -6116,7 +6116,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6324,11 +6324,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.0639,
+      "fwci": 7.2588,
       "has_fulltext": false,
       "cited_by_count": 342,
       "citation_normalized_percentile": {
-        "value": 0.98188406,
+        "value": 0.9825784,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11001,11 +11001,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 5.6392,
+      "fwci": 5.6098,
       "has_fulltext": false,
-      "cited_by_count": 108,
+      "cited_by_count": 109,
       "citation_normalized_percentile": {
-        "value": 0.97421415,
+        "value": 0.97408752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11550,7 +11550,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 19
+          "cited_by_count": 20
         },
         {
           "year": 2025,
@@ -11577,7 +11577,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2019-06-27T00:00:00"
     },
     {
@@ -15690,11 +15690,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 3.7262,
+      "fwci": 3.7224,
       "has_fulltext": false,
       "cited_by_count": 113,
       "citation_normalized_percentile": {
-        "value": 0.9211264,
+        "value": 0.92108453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15945,36 +15945,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:CiteSeerX.psu:10.1.1.361.2309",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.361.2309",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "text"
-        },
-        {
-          "id": "pmh:oai:CiteSeerX.psu:10.1.1.418.2173",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.418.2173",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "http://www.mdpi.com/2076-3263/3/3/389/pdf?y=1",
-          "raw_type": "text"
-        },
-        {
           "id": "pmh:oai:digital.library.adelaide.edu.au:2440/92123",
           "doi": null,
           "is_oa": true,
@@ -16033,6 +16003,36 @@
           "is_published": false,
           "raw_source_name": "Geosciences, Vol 3, Iss 3, Pp 389-445 (2013)",
           "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.361.2309",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.361.2309",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.418.2173",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.418.2173",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://www.mdpi.com/2076-3263/3/3/389/pdf?y=1",
+          "raw_type": "text"
         }
       ],
       "best_oa_location": {
@@ -16741,7 +16741,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17625,11 +17625,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5319,
+      "fwci": 3.6294,
       "has_fulltext": false,
       "cited_by_count": 98,
       "citation_normalized_percentile": {
-        "value": 0.92028986,
+        "value": 0.92334495,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20753,6 +20753,682 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2902242958",
+      "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
+      "title": "Constraining the Opening of the Red Sea: Evidence from the Neoproterozoic Margins and Cenozoic Magmatism for a Volcanic Rifted Margin",
+      "display_name": "Constraining the Opening of the Red Sea: Evidence from the Neoproterozoic Margins and Cenozoic Magmatism for a Volcanic Rifted Margin",
+      "publication_year": 2018,
+      "publication_date": "2018-12-04",
+      "ids": {
+        "openalex": "https://openalex.org/W2902242958",
+        "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
+        "mag": "2902242958"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-319-99408-6_4",
+        "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-319-99408-6_4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463937",
+          "display_name": "Springer eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
+        "raw_type": "book-chapter"
+      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4246573538",
+          "display_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2902242958",
+        "https://openalex.org/W4246573538"
+      ],
+      "child_works_count": 0,
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5035240990",
+            "display_name": "Robert J. Stern",
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162577319",
+              "display_name": "The University of Texas at Dallas",
+              "ror": "https://ror.org/049emcs32",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162577319"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Robert J. Stern",
+          "raw_affiliation_strings": [
+            "Geosciences Department, University of Texas at Dallas, Richardson, TX, 75080-0688, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, University of Texas at Dallas, Richardson, TX, 75080-0688, USA",
+              "institution_ids": [
+                "https://openalex.org/I162577319"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103098706",
+            "display_name": "Peter R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387155020",
+              "display_name": "Institut des Sciences de la Mécanique et Applications Industrielles",
+              "ror": "https://ror.org/00nbx9b54",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I201181511",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I4210095849",
+                "https://openalex.org/I4210143116",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4387155020",
+                "https://openalex.org/I4405258625"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter R. Johnson",
+          "raw_affiliation_strings": [
+            "6016 Haines Street, Portland, OR, 97219, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "6016 Haines Street, Portland, OR, 97219, USA",
+              "institution_ids": [
+                "https://openalex.org/I4387155020"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5035240990"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I162577319"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 10.6325,
+      "has_fulltext": false,
+      "cited_by_count": 79,
+      "citation_normalized_percentile": {
+        "value": 0.98696319,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "53",
+        "last_page": "79"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.9965999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.002400000113993883,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.0003000000142492354,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/red-sea-opening",
+          "display_name": "Red Sea opening",
+          "score": 0.9179999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-rifting",
+          "display_name": "continental rifting",
+          "score": 0.7799999713897705
+        },
+        {
+          "id": "https://openalex.org/keywords/volcanic-rifted-margins",
+          "display_name": "volcanic rifted margins",
+          "score": 0.8159999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-shield",
+          "display_name": "Arabian Shield",
+          "score": 0.7900000214576721
+        },
+        {
+          "id": "https://openalex.org/keywords/nubian-shield",
+          "display_name": "Nubian Shield",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/neoproterozoic-basement",
+          "display_name": "Neoproterozoic basement",
+          "score": 0.7300000190734863
+        },
+        {
+          "id": "https://openalex.org/keywords/transpression",
+          "display_name": "transpression",
+          "score": 0.4180000126361847
+        },
+        {
+          "id": "https://openalex.org/keywords/escape-tectonics",
+          "display_name": "tectonic escape",
+          "score": 0.8140000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/palinspastic-reconstruction",
+          "display_name": "palinspastic reconstruction",
+          "score": 0.9120000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanic-crust",
+          "display_name": "oceanic crust",
+          "score": 0.796999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/potential-field-data",
+          "display_name": "potential field data",
+          "score": 0.6340000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/miocene-magmatism",
+          "display_name": "Miocene magmatism",
+          "score": 0.9049999713897705
+        },
+        {
+          "id": "https://openalex.org/keywords/asthenospheric-upwelling",
+          "display_name": "asthenospheric upwelling",
+          "score": 0.9750000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/mantle-partial-melting",
+          "display_name": "mantle partial melting",
+          "score": 0.6039999723434448
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9091697335243225
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.6903762221336365
+        },
+        {
+          "id": "https://openalex.org/C117485682",
+          "wikidata": "https://www.wikidata.org/wiki/Q215920",
+          "display_name": "Seafloor spreading",
+          "level": 2,
+          "score": 0.6698467135429382
+        },
+        {
+          "id": "https://openalex.org/C154200439",
+          "wikidata": "https://www.wikidata.org/wiki/Q238851",
+          "display_name": "Oceanic crust",
+          "level": 4,
+          "score": 0.631606936454773
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6157968044281006
+        },
+        {
+          "id": "https://openalex.org/C2781297371",
+          "wikidata": "https://www.wikidata.org/wiki/Q234852",
+          "display_name": "Basement",
+          "level": 2,
+          "score": 0.5579793453216553
+        },
+        {
+          "id": "https://openalex.org/C2776698055",
+          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
+          "display_name": "Crust",
+          "level": 2,
+          "score": 0.5353261828422546
+        },
+        {
+          "id": "https://openalex.org/C150999391",
+          "wikidata": "https://www.wikidata.org/wiki/Q509037",
+          "display_name": "Terrane",
+          "level": 3,
+          "score": 0.5287389755249023
+        },
+        {
+          "id": "https://openalex.org/C201867031",
+          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
+          "display_name": "Continental margin",
+          "level": 3,
+          "score": 0.5206660032272339
+        },
+        {
+          "id": "https://openalex.org/C141646446",
+          "wikidata": "https://www.wikidata.org/wiki/Q858571",
+          "display_name": "Continental crust",
+          "level": 3,
+          "score": 0.5123564004898071
+        },
+        {
+          "id": "https://openalex.org/C119477230",
+          "wikidata": "https://www.wikidata.org/wiki/Q7950",
+          "display_name": "Plate tectonics",
+          "level": 3,
+          "score": 0.4344812035560608
+        },
+        {
+          "id": "https://openalex.org/C20364790",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069932",
+          "display_name": "Oceanic basin",
+          "level": 3,
+          "score": 0.41195085644721985
+        },
+        {
+          "id": "https://openalex.org/C85124164",
+          "wikidata": "https://www.wikidata.org/wiki/Q2065586",
+          "display_name": "Red beds",
+          "level": 3,
+          "score": 0.4116630256175995
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.3419826626777649
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0.27700385451316833
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.18689313530921936
+        },
+        {
+          "id": "https://openalex.org/C147176958",
+          "wikidata": "https://www.wikidata.org/wiki/Q77590",
+          "display_name": "Civil engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-319-99408-6_4",
+          "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-319-99408-6_4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463937",
+            "display_name": "Springer eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 112,
+      "referenced_works": [
+        "https://openalex.org/W29514864",
+        "https://openalex.org/W145895407",
+        "https://openalex.org/W262490910",
+        "https://openalex.org/W263901215",
+        "https://openalex.org/W305047215",
+        "https://openalex.org/W647003414",
+        "https://openalex.org/W654456267",
+        "https://openalex.org/W656365742",
+        "https://openalex.org/W1490406009",
+        "https://openalex.org/W1542845244",
+        "https://openalex.org/W1583837434",
+        "https://openalex.org/W1608960209",
+        "https://openalex.org/W1950226711",
+        "https://openalex.org/W1963707156",
+        "https://openalex.org/W1967824544",
+        "https://openalex.org/W1968094597",
+        "https://openalex.org/W1968129317",
+        "https://openalex.org/W1971742065",
+        "https://openalex.org/W1974653419",
+        "https://openalex.org/W1978632315",
+        "https://openalex.org/W1979394447",
+        "https://openalex.org/W1981175130",
+        "https://openalex.org/W1981189484",
+        "https://openalex.org/W1982483772",
+        "https://openalex.org/W1982712732",
+        "https://openalex.org/W1983393426",
+        "https://openalex.org/W1994552448",
+        "https://openalex.org/W1996322686",
+        "https://openalex.org/W2000098699",
+        "https://openalex.org/W2000984331",
+        "https://openalex.org/W2001205060",
+        "https://openalex.org/W2001636832",
+        "https://openalex.org/W2002898265",
+        "https://openalex.org/W2003123386",
+        "https://openalex.org/W2006254584",
+        "https://openalex.org/W2006389698",
+        "https://openalex.org/W2008056984",
+        "https://openalex.org/W2008327897",
+        "https://openalex.org/W2011145781",
+        "https://openalex.org/W2012530126",
+        "https://openalex.org/W2012546453",
+        "https://openalex.org/W2012790889",
+        "https://openalex.org/W2015717443",
+        "https://openalex.org/W2018158894",
+        "https://openalex.org/W2023229629",
+        "https://openalex.org/W2023377627",
+        "https://openalex.org/W2024738064",
+        "https://openalex.org/W2024980606",
+        "https://openalex.org/W2026324572",
+        "https://openalex.org/W2027334351",
+        "https://openalex.org/W2028324772",
+        "https://openalex.org/W2029292238",
+        "https://openalex.org/W2034753142",
+        "https://openalex.org/W2035284349",
+        "https://openalex.org/W2036884486",
+        "https://openalex.org/W2037889246",
+        "https://openalex.org/W2043748674",
+        "https://openalex.org/W2048455922",
+        "https://openalex.org/W2052450969",
+        "https://openalex.org/W2054737561",
+        "https://openalex.org/W2055041629",
+        "https://openalex.org/W2055980863",
+        "https://openalex.org/W2056065853",
+        "https://openalex.org/W2066909802",
+        "https://openalex.org/W2077850576",
+        "https://openalex.org/W2079409468",
+        "https://openalex.org/W2080475125",
+        "https://openalex.org/W2084527765",
+        "https://openalex.org/W2085041904",
+        "https://openalex.org/W2089045238",
+        "https://openalex.org/W2090197800",
+        "https://openalex.org/W2090416219",
+        "https://openalex.org/W2091021333",
+        "https://openalex.org/W2096858317",
+        "https://openalex.org/W2098839042",
+        "https://openalex.org/W2109149991",
+        "https://openalex.org/W2114628991",
+        "https://openalex.org/W2120163775",
+        "https://openalex.org/W2120673984",
+        "https://openalex.org/W2127039475",
+        "https://openalex.org/W2127806207",
+        "https://openalex.org/W2129244095",
+        "https://openalex.org/W2136354725",
+        "https://openalex.org/W2139564482",
+        "https://openalex.org/W2140161554",
+        "https://openalex.org/W2143840349",
+        "https://openalex.org/W2145337316",
+        "https://openalex.org/W2146377520",
+        "https://openalex.org/W2146622027",
+        "https://openalex.org/W2147450905",
+        "https://openalex.org/W2147965091",
+        "https://openalex.org/W2150914782",
+        "https://openalex.org/W2160008707",
+        "https://openalex.org/W2160063652",
+        "https://openalex.org/W2161010888",
+        "https://openalex.org/W2163724392",
+        "https://openalex.org/W2164957174",
+        "https://openalex.org/W2170308536",
+        "https://openalex.org/W2171931644",
+        "https://openalex.org/W2174216460",
+        "https://openalex.org/W2226203451",
+        "https://openalex.org/W2335978012",
+        "https://openalex.org/W2339417835",
+        "https://openalex.org/W2377242919",
+        "https://openalex.org/W2500884374",
+        "https://openalex.org/W2519026224",
+        "https://openalex.org/W2551514925",
+        "https://openalex.org/W2570151482",
+        "https://openalex.org/W2612797713",
+        "https://openalex.org/W3013498580",
+        "https://openalex.org/W3087772032",
+        "https://openalex.org/W4285719527"
+      ],
+      "related_works": [
+        "https://openalex.org/W2084527765",
+        "https://openalex.org/W2921766875",
+        "https://openalex.org/W1975351330",
+        "https://openalex.org/W4412442444",
+        "https://openalex.org/W4309708569",
+        "https://openalex.org/W33850520",
+        "https://openalex.org/W2163857023",
+        "https://openalex.org/W2067388253",
+        "https://openalex.org/W659235061",
+        "https://openalex.org/W2079854701"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-15T12:55:33.944570",
+      "created_date": "2018-12-11T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1964170439",
       "doi": "https://doi.org/10.1016/0040-1951(94)00179-d",
       "title": "Magnetically inferred basement structure in central Saudi Arabia",
@@ -21407,682 +22083,6 @@
       ],
       "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2902242958",
-      "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
-      "title": "Constraining the Opening of the Red Sea: Evidence from the Neoproterozoic Margins and Cenozoic Magmatism for a Volcanic Rifted Margin",
-      "display_name": "Constraining the Opening of the Red Sea: Evidence from the Neoproterozoic Margins and Cenozoic Magmatism for a Volcanic Rifted Margin",
-      "publication_year": 2018,
-      "publication_date": "2018-12-04",
-      "ids": {
-        "openalex": "https://openalex.org/W2902242958",
-        "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
-        "mag": "2902242958"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-3-319-99408-6_4",
-        "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-3-319-99408-6_4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463937",
-          "display_name": "Springer eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
-        "raw_type": "book-chapter"
-      },
-      "parent_works": [
-        {
-          "id": "https://openalex.org/W4246573538",
-          "display_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
-          "relationship": "volume"
-        }
-      ],
-      "lineage": [
-        "https://openalex.org/W2902242958",
-        "https://openalex.org/W4246573538"
-      ],
-      "child_works_count": 0,
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5035240990",
-            "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8083-4632"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I162577319",
-              "display_name": "The University of Texas at Dallas",
-              "ror": "https://ror.org/049emcs32",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Robert J. Stern",
-          "raw_affiliation_strings": [
-            "Geosciences Department, University of Texas at Dallas, Richardson, TX, 75080-0688, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, University of Texas at Dallas, Richardson, TX, 75080-0688, USA",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4697-3882"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4387155020",
-              "display_name": "Institut des Sciences de la Mécanique et Applications Industrielles",
-              "ror": "https://ror.org/00nbx9b54",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I201181511",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I4210095849",
-                "https://openalex.org/I4210143116",
-                "https://openalex.org/I4210145102",
-                "https://openalex.org/I4387155020",
-                "https://openalex.org/I4405258625"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Peter R. Johnson",
-          "raw_affiliation_strings": [
-            "6016 Haines Street, Portland, OR, 97219, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "6016 Haines Street, Portland, OR, 97219, USA",
-              "institution_ids": [
-                "https://openalex.org/I4387155020"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5035240990"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I162577319"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 10.093,
-      "has_fulltext": false,
-      "cited_by_count": 78,
-      "citation_normalized_percentile": {
-        "value": 0.98621249,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 93,
-        "max": 99
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "53",
-        "last_page": "79"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.9965999722480774,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9965999722480774,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.002400000113993883,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.0003000000142492354,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/red-sea-opening",
-          "display_name": "Red Sea opening",
-          "score": 0.9179999828338623
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-rifting",
-          "display_name": "continental rifting",
-          "score": 0.7799999713897705
-        },
-        {
-          "id": "https://openalex.org/keywords/volcanic-rifted-margins",
-          "display_name": "volcanic rifted margins",
-          "score": 0.8159999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-shield",
-          "display_name": "Arabian Shield",
-          "score": 0.7900000214576721
-        },
-        {
-          "id": "https://openalex.org/keywords/nubian-shield",
-          "display_name": "Nubian Shield",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/neoproterozoic-basement",
-          "display_name": "Neoproterozoic basement",
-          "score": 0.7300000190734863
-        },
-        {
-          "id": "https://openalex.org/keywords/transpression",
-          "display_name": "transpression",
-          "score": 0.4180000126361847
-        },
-        {
-          "id": "https://openalex.org/keywords/escape-tectonics",
-          "display_name": "tectonic escape",
-          "score": 0.8140000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/palinspastic-reconstruction",
-          "display_name": "palinspastic reconstruction",
-          "score": 0.9120000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanic-crust",
-          "display_name": "oceanic crust",
-          "score": 0.796999990940094
-        },
-        {
-          "id": "https://openalex.org/keywords/potential-field-data",
-          "display_name": "potential field data",
-          "score": 0.6340000033378601
-        },
-        {
-          "id": "https://openalex.org/keywords/miocene-magmatism",
-          "display_name": "Miocene magmatism",
-          "score": 0.9049999713897705
-        },
-        {
-          "id": "https://openalex.org/keywords/asthenospheric-upwelling",
-          "display_name": "asthenospheric upwelling",
-          "score": 0.9750000238418579
-        },
-        {
-          "id": "https://openalex.org/keywords/mantle-partial-melting",
-          "display_name": "mantle partial melting",
-          "score": 0.6039999723434448
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9091697335243225
-        },
-        {
-          "id": "https://openalex.org/C50682988",
-          "wikidata": "https://www.wikidata.org/wiki/Q473935",
-          "display_name": "Rift",
-          "level": 3,
-          "score": 0.6903762221336365
-        },
-        {
-          "id": "https://openalex.org/C117485682",
-          "wikidata": "https://www.wikidata.org/wiki/Q215920",
-          "display_name": "Seafloor spreading",
-          "level": 2,
-          "score": 0.6698467135429382
-        },
-        {
-          "id": "https://openalex.org/C154200439",
-          "wikidata": "https://www.wikidata.org/wiki/Q238851",
-          "display_name": "Oceanic crust",
-          "level": 4,
-          "score": 0.631606936454773
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6157968044281006
-        },
-        {
-          "id": "https://openalex.org/C2781297371",
-          "wikidata": "https://www.wikidata.org/wiki/Q234852",
-          "display_name": "Basement",
-          "level": 2,
-          "score": 0.5579793453216553
-        },
-        {
-          "id": "https://openalex.org/C2776698055",
-          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
-          "display_name": "Crust",
-          "level": 2,
-          "score": 0.5353261828422546
-        },
-        {
-          "id": "https://openalex.org/C150999391",
-          "wikidata": "https://www.wikidata.org/wiki/Q509037",
-          "display_name": "Terrane",
-          "level": 3,
-          "score": 0.5287389755249023
-        },
-        {
-          "id": "https://openalex.org/C201867031",
-          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
-          "display_name": "Continental margin",
-          "level": 3,
-          "score": 0.5206660032272339
-        },
-        {
-          "id": "https://openalex.org/C141646446",
-          "wikidata": "https://www.wikidata.org/wiki/Q858571",
-          "display_name": "Continental crust",
-          "level": 3,
-          "score": 0.5123564004898071
-        },
-        {
-          "id": "https://openalex.org/C119477230",
-          "wikidata": "https://www.wikidata.org/wiki/Q7950",
-          "display_name": "Plate tectonics",
-          "level": 3,
-          "score": 0.4344812035560608
-        },
-        {
-          "id": "https://openalex.org/C20364790",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069932",
-          "display_name": "Oceanic basin",
-          "level": 3,
-          "score": 0.41195085644721985
-        },
-        {
-          "id": "https://openalex.org/C85124164",
-          "wikidata": "https://www.wikidata.org/wiki/Q2065586",
-          "display_name": "Red beds",
-          "level": 3,
-          "score": 0.4116630256175995
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.3419826626777649
-        },
-        {
-          "id": "https://openalex.org/C58097730",
-          "wikidata": "https://www.wikidata.org/wiki/Q176318",
-          "display_name": "Subduction",
-          "level": 3,
-          "score": 0.27700385451316833
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.18689313530921936
-        },
-        {
-          "id": "https://openalex.org/C147176958",
-          "wikidata": "https://www.wikidata.org/wiki/Q77590",
-          "display_name": "Civil engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-3-319-99408-6_4",
-          "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-3-319-99408-6_4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463937",
-            "display_name": "Springer eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310319965",
-            "host_organization_name": "Springer Nature",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Nature"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 112,
-      "referenced_works": [
-        "https://openalex.org/W29514864",
-        "https://openalex.org/W145895407",
-        "https://openalex.org/W262490910",
-        "https://openalex.org/W263901215",
-        "https://openalex.org/W305047215",
-        "https://openalex.org/W647003414",
-        "https://openalex.org/W654456267",
-        "https://openalex.org/W656365742",
-        "https://openalex.org/W1490406009",
-        "https://openalex.org/W1542845244",
-        "https://openalex.org/W1583837434",
-        "https://openalex.org/W1608960209",
-        "https://openalex.org/W1950226711",
-        "https://openalex.org/W1963707156",
-        "https://openalex.org/W1967824544",
-        "https://openalex.org/W1968094597",
-        "https://openalex.org/W1968129317",
-        "https://openalex.org/W1971742065",
-        "https://openalex.org/W1974653419",
-        "https://openalex.org/W1978632315",
-        "https://openalex.org/W1979394447",
-        "https://openalex.org/W1981175130",
-        "https://openalex.org/W1981189484",
-        "https://openalex.org/W1982483772",
-        "https://openalex.org/W1982712732",
-        "https://openalex.org/W1983393426",
-        "https://openalex.org/W1994552448",
-        "https://openalex.org/W1996322686",
-        "https://openalex.org/W2000098699",
-        "https://openalex.org/W2000984331",
-        "https://openalex.org/W2001205060",
-        "https://openalex.org/W2001636832",
-        "https://openalex.org/W2002898265",
-        "https://openalex.org/W2003123386",
-        "https://openalex.org/W2006254584",
-        "https://openalex.org/W2006389698",
-        "https://openalex.org/W2008056984",
-        "https://openalex.org/W2008327897",
-        "https://openalex.org/W2011145781",
-        "https://openalex.org/W2012530126",
-        "https://openalex.org/W2012546453",
-        "https://openalex.org/W2012790889",
-        "https://openalex.org/W2015717443",
-        "https://openalex.org/W2018158894",
-        "https://openalex.org/W2023229629",
-        "https://openalex.org/W2023377627",
-        "https://openalex.org/W2024738064",
-        "https://openalex.org/W2024980606",
-        "https://openalex.org/W2026324572",
-        "https://openalex.org/W2027334351",
-        "https://openalex.org/W2028324772",
-        "https://openalex.org/W2029292238",
-        "https://openalex.org/W2034753142",
-        "https://openalex.org/W2035284349",
-        "https://openalex.org/W2036884486",
-        "https://openalex.org/W2037889246",
-        "https://openalex.org/W2043748674",
-        "https://openalex.org/W2048455922",
-        "https://openalex.org/W2052450969",
-        "https://openalex.org/W2054737561",
-        "https://openalex.org/W2055041629",
-        "https://openalex.org/W2055980863",
-        "https://openalex.org/W2056065853",
-        "https://openalex.org/W2066909802",
-        "https://openalex.org/W2077850576",
-        "https://openalex.org/W2079409468",
-        "https://openalex.org/W2080475125",
-        "https://openalex.org/W2084527765",
-        "https://openalex.org/W2085041904",
-        "https://openalex.org/W2089045238",
-        "https://openalex.org/W2090197800",
-        "https://openalex.org/W2090416219",
-        "https://openalex.org/W2091021333",
-        "https://openalex.org/W2096858317",
-        "https://openalex.org/W2098839042",
-        "https://openalex.org/W2109149991",
-        "https://openalex.org/W2114628991",
-        "https://openalex.org/W2120163775",
-        "https://openalex.org/W2120673984",
-        "https://openalex.org/W2127039475",
-        "https://openalex.org/W2127806207",
-        "https://openalex.org/W2129244095",
-        "https://openalex.org/W2136354725",
-        "https://openalex.org/W2139564482",
-        "https://openalex.org/W2140161554",
-        "https://openalex.org/W2143840349",
-        "https://openalex.org/W2145337316",
-        "https://openalex.org/W2146377520",
-        "https://openalex.org/W2146622027",
-        "https://openalex.org/W2147450905",
-        "https://openalex.org/W2147965091",
-        "https://openalex.org/W2150914782",
-        "https://openalex.org/W2160008707",
-        "https://openalex.org/W2160063652",
-        "https://openalex.org/W2161010888",
-        "https://openalex.org/W2163724392",
-        "https://openalex.org/W2164957174",
-        "https://openalex.org/W2170308536",
-        "https://openalex.org/W2171931644",
-        "https://openalex.org/W2174216460",
-        "https://openalex.org/W2226203451",
-        "https://openalex.org/W2335978012",
-        "https://openalex.org/W2339417835",
-        "https://openalex.org/W2377242919",
-        "https://openalex.org/W2500884374",
-        "https://openalex.org/W2519026224",
-        "https://openalex.org/W2551514925",
-        "https://openalex.org/W2570151482",
-        "https://openalex.org/W2612797713",
-        "https://openalex.org/W3013498580",
-        "https://openalex.org/W3087772032",
-        "https://openalex.org/W4285719527"
-      ],
-      "related_works": [
-        "https://openalex.org/W2084527765",
-        "https://openalex.org/W2921766875",
-        "https://openalex.org/W1975351330",
-        "https://openalex.org/W4412442444",
-        "https://openalex.org/W4309708569",
-        "https://openalex.org/W33850520",
-        "https://openalex.org/W2163857023",
-        "https://openalex.org/W2067388253",
-        "https://openalex.org/W659235061",
-        "https://openalex.org/W2079854701"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 15
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 14
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-14T11:04:58.165337",
-      "created_date": "2018-12-11T00:00:00"
     },
     {
       "id": "https://openalex.org/W2055763048",
@@ -26781,7 +26781,7 @@
       "title": "The Arabian–Nubian Shield, an Introduction: Historic Overview, Concepts, Interpretations, and Future Issues",
       "display_name": "The Arabian–Nubian Shield, an Introduction: Historic Overview, Concepts, Interpretations, and Future Issues",
       "publication_year": 2021,
-      "publication_date": "2021-01-01",
+      "publication_date": "2021-07-30",
       "ids": {
         "openalex": "https://openalex.org/W3203604015",
         "doi": "https://doi.org/10.1007/978-3-030-72995-0_1",
@@ -26888,11 +26888,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.9134,
+      "fwci": 4.9377,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.95427196,
+        "value": 0.95306859,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27442,7 +27442,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2021-10-11T00:00:00"
     },
     {
@@ -34629,11 +34629,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6753,
+      "fwci": 3.5081,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.90622907,
+        "value": 0.90250329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },

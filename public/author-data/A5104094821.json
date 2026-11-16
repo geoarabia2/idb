@@ -18,7 +18,7 @@
     ],
     "full_name": "Khalid A. Al‐Ramadan",
     "works_count": 19,
-    "cited_by_count": 173,
+    "cited_by_count": 174,
     "summary_stats": {
       "2yr_mean_citedness": 6.222222222222222,
       "h_index": 9,
@@ -381,7 +381,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 47
+        "cited_by_count": 48
       }
     ],
     "display_name_alternatives": [
@@ -398,7 +398,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5104094821",
-    "updated_date": "2026-11-14T11:48:19",
+    "updated_date": "2026-11-15T13:39:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -5529,11 +5529,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9038,
+      "fwci": 1.9749,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.82305195,
+        "value": 0.82892691,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9163,11 +9163,11 @@
         "value_usd": 4120
       },
       "apc_paid": null,
-      "fwci": 2.0245,
+      "fwci": 2.0074,
       "has_fulltext": false,
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.84509938,
+        "value": 0.8435842,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9559,7 +9559,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -9578,7 +9578,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2023-01-06T00:00:00"
     },
     {

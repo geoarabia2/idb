@@ -15,7 +15,7 @@
     ],
     "full_name": "HASSAN ABDALLA ELTOM",
     "works_count": 83,
-    "cited_by_count": 731,
+    "cited_by_count": 733,
     "summary_stats": {
       "2yr_mean_citedness": 3.3225806451612905,
       "h_index": 17,
@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000148,
+        "value": 0.0001479,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -411,7 +411,7 @@
         "year": 2022,
         "works_count": 12,
         "oa_works_count": 5,
-        "cited_by_count": 80
+        "cited_by_count": 82
       },
       {
         "year": 2023,
@@ -449,7 +449,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040857714",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5040857714",
-    "updated_date": "2026-11-14T11:48:19",
+    "updated_date": "2026-11-15T13:39:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1552,11 +1552,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 4.3769,
+      "fwci": 4.4822,
       "has_fulltext": false,
-      "cited_by_count": 44,
+      "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.94169049,
+        "value": 0.9431103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1943,7 +1943,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2021,
@@ -1958,7 +1958,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2019-04-01T00:00:00"
     },
     {
@@ -12185,11 +12185,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.4129,
+      "fwci": 7.0246,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.96081923,
+        "value": 0.96460177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13693,16 +13693,16 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.246,
+      "fwci": 2.3903,
       "has_fulltext": false,
-      "cited_by_count": 19,
+      "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.86565465,
+        "value": 0.87554585,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 95,
         "max": 98
       },
       "biblio": {
@@ -14159,10 +14159,10 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -39012,11 +39012,11 @@
         "value_usd": 2495
       },
       "apc_paid": null,
-      "fwci": 0.7867,
+      "fwci": 0.77,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.59105532,
+        "value": 0.5842869,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73800,10 +73800,21 @@
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W6960201772",
+        "https://openalex.org/W2261075976",
+        "https://openalex.org/W7225902749",
+        "https://openalex.org/W7225874614",
+        "https://openalex.org/W4417216981",
+        "https://openalex.org/W53053193",
+        "https://openalex.org/W2971020804",
+        "https://openalex.org/W2472336577",
+        "https://openalex.org/W2364218036",
+        "https://openalex.org/W4389327735"
+      ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2026-11-13T00:00:00"
     },
     {
@@ -74219,10 +74230,21 @@
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W7169071083",
+        "https://openalex.org/W3177269278",
+        "https://openalex.org/W7225903781",
+        "https://openalex.org/W3011278115",
+        "https://openalex.org/W2560789597",
+        "https://openalex.org/W3016760093",
+        "https://openalex.org/W4403857075",
+        "https://openalex.org/W7101425985",
+        "https://openalex.org/W2539336675",
+        "https://openalex.org/W4417539126"
+      ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-15T12:55:33.944570",
       "created_date": "2026-11-13T00:00:00"
     }
   ]
