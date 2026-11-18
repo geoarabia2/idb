@@ -11,11 +11,11 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 7,
-    "cited_by_count": 142,
+    "cited_by_count": 165,
     "summary_stats": {
-      "2yr_mean_citedness": 15.5,
+      "2yr_mean_citedness": 5.75,
       "h_index": 5,
-      "i10_index": 2
+      "i10_index": 3
     },
     "ids": {
       "openalex": "https://openalex.org/A5071165005",
@@ -299,25 +299,25 @@
         "year": 2023,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 16
+        "cited_by_count": 17
       },
       {
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 23
+        "cited_by_count": 24
       },
       {
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 31
+        "cited_by_count": 40
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 43
+        "cited_by_count": 55
       }
     ],
     "display_name_alternatives": [
@@ -327,7 +327,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5071165005",
-    "updated_date": "2026-11-14T11:48:19",
+    "updated_date": "2026-11-16T12:53:42",
     "created_date": "2020-02-07T00:00:00"
   },
   "works": [
@@ -336,6 +336,7 @@
       "doi": "https://doi.org/10.1016/j.cageo.2024.105711",
       "title": "Learning CO 2 plume migration in faulted reservoirs with Graph Neural Networks",
       "display_name": "Learning CO 2 plume migration in faulted reservoirs with Graph Neural Networks",
+      "alternate_titles": [],
       "publication_year": 2024,
       "publication_date": "2024-09-07",
       "ids": {
@@ -665,11 +666,12 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 5.4195,
+      "fwci": 5.5827,
+      "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 47,
+      "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.97559837,
+        "value": 0.97764133,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -684,6 +686,7 @@
         "last_page": "105711"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -982,22 +985,22 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.685699999332428
+          "score": 0.685699999332428,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4402326942.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4402326942.grobid-xml"
       },
-      "referenced_works_count": 47,
+      "referenced_works_count": 56,
       "referenced_works": [
         "https://openalex.org/W1566030289",
         "https://openalex.org/W1570210063",
@@ -1024,11 +1027,14 @@
         "https://openalex.org/W2784733489",
         "https://openalex.org/W2811208018",
         "https://openalex.org/W2981461641",
+        "https://openalex.org/W3004811485",
         "https://openalex.org/W3007913393",
         "https://openalex.org/W3012977591",
         "https://openalex.org/W3016309349",
         "https://openalex.org/W3034190530",
+        "https://openalex.org/W3034655405",
         "https://openalex.org/W3092228416",
+        "https://openalex.org/W3125788111",
         "https://openalex.org/W3152893301",
         "https://openalex.org/W3157798299",
         "https://openalex.org/W3166111822",
@@ -1036,16 +1042,22 @@
         "https://openalex.org/W3183994952",
         "https://openalex.org/W3197308578",
         "https://openalex.org/W3210813904",
+        "https://openalex.org/W4200508844",
         "https://openalex.org/W4221159019",
         "https://openalex.org/W4225370476",
+        "https://openalex.org/W4252917338",
+        "https://openalex.org/W4254447364",
         "https://openalex.org/W4283010154",
         "https://openalex.org/W4285133117",
         "https://openalex.org/W4312617492",
         "https://openalex.org/W4320341235",
         "https://openalex.org/W4323904364",
+        "https://openalex.org/W4389814570",
         "https://openalex.org/W4392059653",
         "https://openalex.org/W4398251086",
-        "https://openalex.org/W4408489371"
+        "https://openalex.org/W4408489371",
+        "https://openalex.org/W7086239750",
+        "https://openalex.org/W7223770389"
       ],
       "related_works": [
         "https://openalex.org/W7143519265",
@@ -1060,21 +1072,22 @@
         "https://openalex.org/W4385608794"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4402326942",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 23
+          "cited_by_count": 30
         },
         {
           "year": 2025,
-          "cited_by_count": 16
+          "cited_by_count": 18
         },
         {
           "year": 2024,
-          "cited_by_count": 8
+          "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2024-09-08T00:00:00"
     },
     {
@@ -1082,6 +1095,7 @@
       "doi": "https://doi.org/10.2523/iptc-19693-ms",
       "title": "Real-Time Well Log Prediction From Drilling Data Using Deep Learning",
       "display_name": "Real-Time Well Log Prediction From Drilling Data Using Deep Learning",
+      "alternate_titles": [],
       "publication_year": 2020,
       "publication_date": "2020-01-11",
       "ids": {
@@ -1306,11 +1320,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 21.1905,
+      "fwci": 19.7768,
+      "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 73,
+      "cited_by_count": 79,
       "citation_normalized_percentile": {
-        "value": 0.99951076,
+        "value": 0.99935075,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1325,6 +1340,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -1737,16 +1753,17 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3003329782.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3003329782.grobid-xml"
       },
-      "referenced_works_count": 20,
+      "referenced_works_count": 22,
       "referenced_works": [
         "https://openalex.org/W15242090",
+        "https://openalex.org/W1903029394",
         "https://openalex.org/W1979518289",
         "https://openalex.org/W2058832429",
         "https://openalex.org/W2068181873",
@@ -1761,6 +1778,7 @@
         "https://openalex.org/W2519091744",
         "https://openalex.org/W2790390066",
         "https://openalex.org/W2792764867",
+        "https://openalex.org/W2883318912",
         "https://openalex.org/W2950220847",
         "https://openalex.org/W4231033096",
         "https://openalex.org/W4256129314",
@@ -2325,14 +2343,15 @@
           229
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3003329782",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 8
         },
         {
           "year": 2025,
-          "cited_by_count": 9
+          "cited_by_count": 13
         },
         {
           "year": 2024,
@@ -2355,7 +2374,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2020-02-07T00:00:00"
     },
     {
@@ -2363,6 +2382,7 @@
       "doi": "https://doi.org/10.1016/j.geoen.2025.214342",
       "title": "Pix2Geomodel: A next-generation reservoir geomodeling with property-to-property translation",
       "display_name": "Pix2Geomodel: A next-generation reservoir geomodeling with property-to-property translation",
+      "alternate_titles": [],
       "publication_year": 2025,
       "publication_date": "2025-12-12",
       "ids": {
@@ -2753,11 +2773,12 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 4.1909,
+      "fwci": 4.1039,
+      "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.93872802,
+        "value": 0.94064352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2772,6 +2793,7 @@
         "last_page": "214342"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -3246,14 +3268,14 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417279471.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4417279471.grobid-xml"
       },
-      "referenced_works_count": 66,
+      "referenced_works_count": 80,
       "referenced_works": [
         "https://openalex.org/W76334744",
         "https://openalex.org/W845365781",
@@ -3263,6 +3285,7 @@
         "https://openalex.org/W1968163704",
         "https://openalex.org/W2019969451",
         "https://openalex.org/W2025160327",
+        "https://openalex.org/W2026019603",
         "https://openalex.org/W2116013899",
         "https://openalex.org/W2147318572",
         "https://openalex.org/W2173520492",
@@ -3272,15 +3295,21 @@
         "https://openalex.org/W2552465644",
         "https://openalex.org/W2585033147",
         "https://openalex.org/W2606759614",
+        "https://openalex.org/W2739748921",
         "https://openalex.org/W2786148941",
+        "https://openalex.org/W2789395321",
         "https://openalex.org/W2790087134",
         "https://openalex.org/W2794330802",
+        "https://openalex.org/W2884129013",
         "https://openalex.org/W2899283552",
         "https://openalex.org/W2904367110",
         "https://openalex.org/W2910507003",
         "https://openalex.org/W2948893225",
+        "https://openalex.org/W2949265864",
+        "https://openalex.org/W2952232639",
         "https://openalex.org/W2962793481",
         "https://openalex.org/W2995831381",
+        "https://openalex.org/W3012449458",
         "https://openalex.org/W3025658083",
         "https://openalex.org/W3034660000",
         "https://openalex.org/W3096679580",
@@ -3299,15 +3328,19 @@
         "https://openalex.org/W4364375188",
         "https://openalex.org/W4379112940",
         "https://openalex.org/W4379233128",
+        "https://openalex.org/W4385490110",
         "https://openalex.org/W4385490607",
         "https://openalex.org/W4385527149",
         "https://openalex.org/W4386332698",
         "https://openalex.org/W4386591428",
+        "https://openalex.org/W4388284198",
         "https://openalex.org/W4389981268",
+        "https://openalex.org/W4390638527",
         "https://openalex.org/W4391446371",
         "https://openalex.org/W4396600525",
         "https://openalex.org/W4399865106",
         "https://openalex.org/W4401020179",
+        "https://openalex.org/W4402285090",
         "https://openalex.org/W4402963373",
         "https://openalex.org/W4403707593",
         "https://openalex.org/W4404093812",
@@ -3318,8 +3351,11 @@
         "https://openalex.org/W4409288082",
         "https://openalex.org/W4409697526",
         "https://openalex.org/W4412972888",
+        "https://openalex.org/W6889815779",
+        "https://openalex.org/W6922739289",
         "https://openalex.org/W6926524906",
         "https://openalex.org/W6945303542",
+        "https://openalex.org/W7030205044",
         "https://openalex.org/W7212370550"
       ],
       "related_works": [
@@ -4117,13 +4153,14 @@
           328
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4417279471",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -4131,6 +4168,7 @@
       "doi": "https://doi.org/10.1190/tle44020142.1",
       "title": "Intelligent seismic workflows: The power of generative AI and language models",
       "display_name": "Intelligent seismic workflows: The power of generative AI and language models",
+      "alternate_titles": [],
       "publication_year": 2025,
       "publication_date": "2025-02-01",
       "ids": {
@@ -4439,16 +4477,17 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1168,
+      "fwci": 3.333,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 5,
+      "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.83951952,
+        "value": 0.92439698,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 96,
         "max": 98
       },
       "biblio": {
@@ -4458,6 +4497,7 @@
         "last_page": "151"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -4693,11 +4733,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 34,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W2113825554",
         "https://openalex.org/W2122322116",
@@ -4715,6 +4755,7 @@
         "https://openalex.org/W3007005426",
         "https://openalex.org/W3027879771",
         "https://openalex.org/W3034025869",
+        "https://openalex.org/W3036167779",
         "https://openalex.org/W3109817817",
         "https://openalex.org/W3114619467",
         "https://openalex.org/W3148740559",
@@ -4732,7 +4773,8 @@
         "https://openalex.org/W4401306886",
         "https://openalex.org/W4405527282",
         "https://openalex.org/W4406800520",
-        "https://openalex.org/W6603963165"
+        "https://openalex.org/W6603963165",
+        "https://openalex.org/W6891747626"
       ],
       "related_works": [
         "https://openalex.org/W7128024285",
@@ -5168,17 +5210,18 @@
           165
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4407066027",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-13T13:42:25.865203",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2025-02-02T00:00:00"
     },
     {
@@ -5186,6 +5229,7 @@
       "doi": "https://doi.org/10.1007/s11004-023-10088-4",
       "title": "Stochastic Geomodeling of Karst Morphology by Dynamic Graph Dissolution",
       "display_name": "Stochastic Geomodeling of Karst Morphology by Dynamic Graph Dissolution",
+      "alternate_titles": [],
       "publication_year": 2023,
       "publication_date": "2023-09-01",
       "ids": {
@@ -5368,16 +5412,17 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.0875,
+      "fwci": 1.2881,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 7,
+      "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.69510853,
+        "value": 0.73987228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 86,
         "max": 97
       },
       "biblio": {
@@ -5387,6 +5432,7 @@
         "last_page": "1231"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -5684,16 +5730,18 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 37,
+      "referenced_works_count": 42,
       "referenced_works": [
         "https://openalex.org/W18847906",
         "https://openalex.org/W71764628",
         "https://openalex.org/W124181313",
+        "https://openalex.org/W612581052",
         "https://openalex.org/W627601976",
+        "https://openalex.org/W1607787316",
         "https://openalex.org/W1821143250",
         "https://openalex.org/W1971861127",
         "https://openalex.org/W1971937094",
@@ -5704,6 +5752,7 @@
         "https://openalex.org/W2026119625",
         "https://openalex.org/W2026158509",
         "https://openalex.org/W2026507537",
+        "https://openalex.org/W2029837300",
         "https://openalex.org/W2040956707",
         "https://openalex.org/W2064451656",
         "https://openalex.org/W2074726871",
@@ -5713,11 +5762,13 @@
         "https://openalex.org/W2160303039",
         "https://openalex.org/W2205745736",
         "https://openalex.org/W2503676979",
+        "https://openalex.org/W2511250684",
         "https://openalex.org/W2543672486",
         "https://openalex.org/W2560013889",
         "https://openalex.org/W2583920684",
         "https://openalex.org/W2751364937",
         "https://openalex.org/W2939373135",
+        "https://openalex.org/W2972756933",
         "https://openalex.org/W2981265119",
         "https://openalex.org/W3018930473",
         "https://openalex.org/W3090636335",
@@ -5740,10 +5791,11 @@
         "https://openalex.org/W2993260832"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4386380008",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -5752,9 +5804,13 @@
         {
           "year": 2024,
           "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2023-09-02T00:00:00"
     },
     {
@@ -5762,6 +5818,7 @@
       "doi": "https://doi.org/10.2523/iptc-24209-ms",
       "title": "Well Placement Optimization for Avoiding Caves Using GANs and POMDPs",
       "display_name": "Well Placement Optimization for Avoiding Caves Using GANs and POMDPs",
+      "alternate_titles": [],
       "publication_year": 2024,
       "publication_date": "2024-02-12",
       "ids": {
@@ -5981,17 +6038,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7717,
+      "fwci": 0.6501,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.53826758,
+        "value": 0.49748892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 93
+        "min": 87,
+        "max": 92
       },
       "biblio": {
         "volume": null,
@@ -6000,6 +6058,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -6197,11 +6256,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 18,
+      "referenced_works_count": 19,
       "referenced_works": [
         "https://openalex.org/W1522301498",
         "https://openalex.org/W1523068772",
@@ -6209,6 +6268,7 @@
         "https://openalex.org/W2156770446",
         "https://openalex.org/W2605135824",
         "https://openalex.org/W2612690371",
+        "https://openalex.org/W2739748921",
         "https://openalex.org/W2765811365",
         "https://openalex.org/W2766527293",
         "https://openalex.org/W2954742730",
@@ -6668,13 +6728,14 @@
           187
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392187405",
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -6682,6 +6743,7 @@
       "doi": "https://doi.org/10.1190/image2023-3905116.1",
       "title": "Spatial statistical analysis and geomodelling of banana holes using point patterns and generative adversarial networks",
       "display_name": "Spatial statistical analysis and geomodelling of banana holes using point patterns and generative adversarial networks",
+      "alternate_titles": [],
       "publication_year": 2023,
       "publication_date": "2023-12-14",
       "ids": {
@@ -6889,6 +6951,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -6904,6 +6967,7 @@
         "last_page": "1048"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -7154,16 +7218,17 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 13,
+      "referenced_works_count": 14,
       "referenced_works": [
         "https://openalex.org/W128839062",
         "https://openalex.org/W1523068772",
         "https://openalex.org/W2559655401",
         "https://openalex.org/W2612690371",
+        "https://openalex.org/W2766527293",
         "https://openalex.org/W2884975835",
         "https://openalex.org/W2948893225",
         "https://openalex.org/W2999905431",
@@ -7410,8 +7475,9 @@
           91
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4389725159",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2023-12-15T00:00:00"
     }
   ]

@@ -14,9 +14,9 @@
     ],
     "full_name": "Ayman Fazea Al-Lehyani",
     "works_count": 9,
-    "cited_by_count": 92,
+    "cited_by_count": 96,
     "summary_stats": {
-      "2yr_mean_citedness": 1.6666666666666667,
+      "2yr_mean_citedness": 0,
       "h_index": 4,
       "i10_index": 3
     },
@@ -313,7 +313,7 @@
         "year": 2018,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 4
+        "cited_by_count": 5
       },
       {
         "year": 2019,
@@ -331,13 +331,13 @@
         "year": 2021,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       },
       {
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 10
+        "cited_by_count": 11
       },
       {
         "year": 2023,
@@ -349,7 +349,7 @@
         "year": 2024,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 4
+        "cited_by_count": 5
       },
       {
         "year": 2025,
@@ -374,7 +374,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059100961",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5059100961",
-    "updated_date": "2026-11-14T11:48:19",
+    "updated_date": "2026-11-16T12:53:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -383,6 +383,7 @@
       "doi": "https://doi.org/10.1190/geo2010-0322.1",
       "title": "A new technique for first-arrival picking of refracted seismic data based on digital image segmentation",
       "display_name": "A new technique for first-arrival picking of refracted seismic data based on digital image segmentation",
+      "alternate_titles": [],
       "publication_year": 2011,
       "publication_date": "2011-09-01",
       "ids": {
@@ -479,14 +480,14 @@
           "is_corresponding": false,
           "raw_author_name": "Wail A. Mousa",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Electrical Engineering Department, Dhahran, . E-mail: wailmousa@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals 1 , Electrical Engineering Department, Dhahran, . E-mail: wailmousa@kfupm.edu.sa ., Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia. E-mail: ; "
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Electrical Engineering Department, Dhahran, . E-mail: wailmousa@kfupm.edu.sa ",
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Electrical Engineering Department, Dhahran, . E-mail: wailmousa@kfupm.edu.sa ., Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -533,13 +534,13 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ., Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ",
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ., Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -580,14 +581,14 @@
           "is_corresponding": false,
           "raw_author_name": "Ayman Al-Lehyani",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ., Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ",
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ., Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -616,17 +617,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6705,
+      "fwci": 0.583,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 61,
+      "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.73692146,
+        "value": 0.70235514,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
-        "max": 100
+        "min": 92,
+        "max": 99
       },
       "biblio": {
         "volume": "76",
@@ -635,6 +637,7 @@
         "last_page": "V89"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -888,11 +891,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 37,
+      "referenced_works_count": 38,
       "referenced_works": [
         "https://openalex.org/W147723833",
         "https://openalex.org/W627907298",
@@ -927,6 +930,7 @@
         "https://openalex.org/W2154433695",
         "https://openalex.org/W2161637621",
         "https://openalex.org/W2992931674",
+        "https://openalex.org/W3213545458",
         "https://openalex.org/W4251468103",
         "https://openalex.org/W4252593548",
         "https://openalex.org/W4252702762",
@@ -1367,6 +1371,7 @@
           194
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1970656602",
       "counts_by_year": [
         {
           "year": 2026,
@@ -1386,11 +1391,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2021,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2020,
@@ -1402,7 +1407,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2017,
@@ -1421,7 +1426,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1429,6 +1434,7 @@
       "doi": "https://doi.org/10.1038/s41598-025-00697-w",
       "title": "Comparative study of laboratory and portable spot permeability measurements in bioturbated carbonate strata",
       "display_name": "Comparative study of laboratory and portable spot permeability measurements in bioturbated carbonate strata",
+      "alternate_titles": [],
       "publication_year": 2025,
       "publication_date": "2025-05-07",
       "ids": {
@@ -1756,11 +1762,12 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 2.3465,
+      "fwci": 2.0519,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.85886642,
+        "value": 0.8403895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1775,6 +1782,7 @@
         "last_page": "15947"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -2177,14 +2185,14 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4410159041.grobid-xml"
       },
-      "referenced_works_count": 43,
+      "referenced_works_count": 44,
       "referenced_works": [
         "https://openalex.org/W27186039",
         "https://openalex.org/W155005340",
@@ -2202,6 +2210,7 @@
         "https://openalex.org/W2166265800",
         "https://openalex.org/W2298279745",
         "https://openalex.org/W2329251205",
+        "https://openalex.org/W2405113840",
         "https://openalex.org/W2583193772",
         "https://openalex.org/W2606002868",
         "https://openalex.org/W2611372570",
@@ -2859,13 +2868,14 @@
           266
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4410159041",
       "counts_by_year": [
         {
           "year": 2026,
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2025-05-08T00:00:00"
     },
     {
@@ -2873,6 +2883,7 @@
       "doi": "https://doi.org/10.1007/s12517-019-4390-4",
       "title": "KFUPM Ghawar digital viscoelastic seismic model",
       "display_name": "KFUPM Ghawar digital viscoelastic seismic model",
+      "alternate_titles": [],
       "publication_year": 2019,
       "publication_date": "2019-03-27",
       "ids": {
@@ -3428,16 +3439,17 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.8717,
+      "fwci": 1.6812,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.83325306,
+        "value": 0.80955367,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 86,
         "max": 97
       },
       "biblio": {
@@ -3447,6 +3459,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -3750,11 +3763,11 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 30,
+      "referenced_works_count": 31,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W1927598922",
@@ -3772,6 +3785,7 @@
         "https://openalex.org/W2136195355",
         "https://openalex.org/W2149852641",
         "https://openalex.org/W2164310172",
+        "https://openalex.org/W2216515686",
         "https://openalex.org/W2270004545",
         "https://openalex.org/W2330820153",
         "https://openalex.org/W2560327523",
@@ -3800,10 +3814,15 @@
         "https://openalex.org/W2164661213"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2924632911",
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
         },
         {
           "year": 2022,
@@ -3818,7 +3837,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2019-04-01T00:00:00"
     },
     {
@@ -3826,6 +3845,7 @@
       "doi": "https://doi.org/10.1007/s12517-013-0836-2",
       "title": "Mapping and attenuation of surface waves side scattered by near-surface diffractors",
       "display_name": "Mapping and attenuation of surface waves side scattered by near-surface diffractors",
+      "alternate_titles": [],
       "publication_year": 2013,
       "publication_date": "2013-01-24",
       "ids": {
@@ -4004,6 +4024,7 @@
       },
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
@@ -4022,6 +4043,7 @@
         "last_page": "771"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -4295,8 +4317,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -4323,6 +4345,7 @@
         "https://openalex.org/W2324992057"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2047497427",
       "counts_by_year": [
         {
           "year": 2019,
@@ -4337,6 +4360,7 @@
       "doi": "https://doi.org/10.2118/194941-ms",
       "title": "Single Station Triaxial Seismic Event Detection, Direction Finding and Polarization Analysis",
       "display_name": "Single Station Triaxial Seismic Event Detection, Direction Finding and Polarization Analysis",
+      "alternate_titles": [],
       "publication_year": 2019,
       "publication_date": "2019-03-13",
       "ids": {
@@ -4562,6 +4586,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
@@ -4580,6 +4605,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -4851,8 +4877,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5591,6 +5617,7 @@
           319
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2921983401",
       "counts_by_year": [
         {
           "year": 2024,
@@ -5605,6 +5632,7 @@
       "doi": null,
       "title": "DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS",
       "display_name": "DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS",
+      "alternate_titles": [],
       "publication_year": 2009,
       "publication_date": "2009-06-13",
       "ids": {
@@ -5687,6 +5715,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": null,
@@ -5698,6 +5727,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -5929,15 +5959,21 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2238788930.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2238788930.grobid-xml"
       },
-      "referenced_works_count": 0,
-      "referenced_works": [],
+      "referenced_works_count": 5,
+      "referenced_works": [
+        "https://openalex.org/W1975096369",
+        "https://openalex.org/W1997893789",
+        "https://openalex.org/W2008341810",
+        "https://openalex.org/W2017622980",
+        "https://openalex.org/W2162171712"
+      ],
       "related_works": [
         "https://openalex.org/W3128723810",
         "https://openalex.org/W3026813299",
@@ -5951,13 +5987,14 @@
         "https://openalex.org/W2537613786"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2238788930",
       "counts_by_year": [
         {
           "year": 2019,
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5965,6 +6002,7 @@
       "doi": "https://doi.org/10.3997/2214-4609.201402605",
       "title": "Integration of geoelectric and seismic data to characterize the near surface of the Dammam dome, Saudi Arabia",
       "display_name": "Integration of geoelectric and seismic data to characterize the near surface of the Dammam dome, Saudi Arabia",
+      "alternate_titles": [],
       "publication_year": 2008,
       "publication_date": "2008-01-01",
       "ids": {
@@ -6164,6 +6202,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -6179,6 +6218,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -6394,8 +6434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6808,6 +6848,7 @@
           179
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2070209977",
       "counts_by_year": [],
       "updated_date": "2026-10-28T10:33:24.094632",
       "created_date": "2016-06-24T00:00:00"
@@ -6817,6 +6858,7 @@
       "doi": "https://doi.org/10.1190/image2025-4308603.1",
       "title": "High-resolution 3D GPR imaging of burrow networks in sedimentary strata",
       "display_name": "High-resolution 3D GPR imaging of burrow networks in sedimentary strata",
+      "alternate_titles": [],
       "publication_year": 2026,
       "publication_date": "2026-02-10",
       "ids": {
@@ -7043,6 +7085,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -7058,6 +7101,7 @@
         "last_page": "1671"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -7305,23 +7349,30 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 11,
+      "referenced_works_count": 18,
       "referenced_works": [
         "https://openalex.org/W27186039",
+        "https://openalex.org/W50307466",
+        "https://openalex.org/W1536360216",
+        "https://openalex.org/W2031942231",
         "https://openalex.org/W2044778400",
         "https://openalex.org/W2093730098",
         "https://openalex.org/W2157891449",
         "https://openalex.org/W2166265800",
         "https://openalex.org/W2684577149",
         "https://openalex.org/W2964560586",
+        "https://openalex.org/W3039195095",
         "https://openalex.org/W3102597749",
         "https://openalex.org/W3128211510",
+        "https://openalex.org/W4293256942",
         "https://openalex.org/W4310209541",
-        "https://openalex.org/W4383894627"
+        "https://openalex.org/W4383894627",
+        "https://openalex.org/W4401750278",
+        "https://openalex.org/W7099887409"
       ],
       "related_works": [
         "https://openalex.org/W7213943562",
@@ -7733,8 +7784,9 @@
           153
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7147214132",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2026-04-02T00:00:00"
     },
     {
@@ -7742,6 +7794,7 @@
       "doi": "https://doi.org/10.1007/s13146-026-01286-2",
       "title": "Assessing the effect of sample size on laboratory acoustic velocity measurements of bioturbated carbonate rocks of Hanifa Formation, Saudi Arabia",
       "display_name": "Assessing the effect of sample size on laboratory acoustic velocity measurements of bioturbated carbonate rocks of Hanifa Formation, Saudi Arabia",
+      "alternate_titles": [],
       "publication_year": 2026,
       "publication_date": "2026-05-26",
       "ids": {
@@ -8220,6 +8273,7 @@
         "value_usd": 3090
       },
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -8235,6 +8289,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -8632,8 +8687,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7162439439.pdf",
@@ -9268,6 +9323,7 @@
           241
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162439439",
       "counts_by_year": [],
       "updated_date": "2026-10-27T15:51:10.671819",
       "created_date": "2026-05-27T00:00:00"

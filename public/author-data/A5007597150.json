@@ -16,9 +16,9 @@
     ],
     "full_name": "Mohammed H. Al Kindi",
     "works_count": 13,
-    "cited_by_count": 37,
+    "cited_by_count": 39,
     "summary_stats": {
-      "2yr_mean_citedness": 2.5714285714285716,
+      "2yr_mean_citedness": 2.6,
       "h_index": 4,
       "i10_index": 1
     },
@@ -272,13 +272,13 @@
         "year": 2025,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 13
+        "cited_by_count": 14
       },
       {
         "year": 2026,
         "works_count": 4,
         "oa_works_count": 4,
-        "cited_by_count": 12
+        "cited_by_count": 13
       }
     ],
     "display_name_alternatives": [
@@ -293,7 +293,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5007597150",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-16T12:53:42",
     "created_date": "2020-03-13T00:00:00"
   },
   "works": [
@@ -302,6 +302,7 @@
       "doi": "https://doi.org/10.1144/sp550-2024-7",
       "title": "Overview of the carbon capture and storage opportunities in Oman",
       "display_name": "Overview of the carbon capture and storage opportunities in Oman",
+      "alternate_titles": [],
       "publication_year": 2024,
       "publication_date": "2024-05-08",
       "ids": {
@@ -403,11 +404,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0539,
+      "fwci": 1.0417,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.69230769,
+        "value": 0.69034602,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -422,6 +424,7 @@
         "last_page": "467"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -777,14 +780,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -795,7 +798,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 63,
+      "referenced_works_count": 64,
       "referenced_works": [
         "https://openalex.org/W5762793",
         "https://openalex.org/W203888015",
@@ -814,6 +817,7 @@
         "https://openalex.org/W2054113323",
         "https://openalex.org/W2063378619",
         "https://openalex.org/W2069188138",
+        "https://openalex.org/W2073722304",
         "https://openalex.org/W2083772074",
         "https://openalex.org/W2085188216",
         "https://openalex.org/W2092453928",
@@ -1325,6 +1329,7 @@
           188
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4396745839",
       "counts_by_year": [
         {
           "year": 2026,
@@ -1332,10 +1337,10 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 6
+          "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2024-05-09T00:00:00"
     },
     {
@@ -1343,6 +1348,7 @@
       "doi": "https://doi.org/10.1144/sp550-2023-220",
       "title": "The search for petroleum in the Sultanate of Oman – the first 120 years",
       "display_name": "The search for petroleum in the Sultanate of Oman – the first 120 years",
+      "alternate_titles": [],
       "publication_year": 2024,
       "publication_date": "2024-05-02",
       "ids": {
@@ -1424,13 +1430,13 @@
           "is_corresponding": true,
           "raw_author_name": "Alan Peter Heward",
           "raw_affiliation_strings": [
-            "23 Croftdown Court",
+            "23 Croftdown Court, Malvern, UK",
             "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-7154-3123",
           "affiliations": [
             {
-              "raw_affiliation_string": "23 Croftdown Court",
+              "raw_affiliation_string": "23 Croftdown Court, Malvern, UK",
               "institution_ids": []
             },
             {
@@ -1452,13 +1458,13 @@
           "is_corresponding": false,
           "raw_author_name": "M. Quentin Morton",
           "raw_affiliation_strings": [
-            "Green Mountain Press",
+            "Green Mountain Press, Aylesford, UK",
             "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Green Mountain Press",
+              "raw_affiliation_string": "Green Mountain Press, Aylesford, UK",
               "institution_ids": []
             },
             {
@@ -1482,13 +1488,13 @@
           "is_corresponding": false,
           "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre",
+            "Earth Sciences Consultancy Centre, Muscat, Sultanate of Oman",
             "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre",
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, Muscat, Sultanate of Oman",
               "institution_ids": []
             },
             {
@@ -1507,16 +1513,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9005,
+      "fwci": 1.0129,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 4,
+      "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.68448905,
+        "value": 0.70647212,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 89,
         "max": 97
       },
       "biblio": {
@@ -1526,6 +1533,7 @@
         "last_page": "447"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -1839,11 +1847,14 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 78,
+      "referenced_works_count": 82,
       "referenced_works": [
         "https://openalex.org/W129587241",
+        "https://openalex.org/W131303653",
         "https://openalex.org/W575412826",
+        "https://openalex.org/W612494449",
         "https://openalex.org/W643068591",
+        "https://openalex.org/W1507916402",
         "https://openalex.org/W1531587811",
         "https://openalex.org/W1542046198",
         "https://openalex.org/W1572495630",
@@ -1902,6 +1913,7 @@
         "https://openalex.org/W3000198898",
         "https://openalex.org/W3004259856",
         "https://openalex.org/W3106505032",
+        "https://openalex.org/W3151831994",
         "https://openalex.org/W3186318625",
         "https://openalex.org/W4210479303",
         "https://openalex.org/W4210694078",
@@ -2396,13 +2408,18 @@
           197
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4396578111",
       "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2024-05-03T00:00:00"
     },
     {
@@ -2410,6 +2427,7 @@
       "doi": "https://doi.org/10.1002/esp.70064",
       "title": "Mineralogical characterisation of aeolian sands using multispectral satellite datasets: Implications for dune field evolution, Wahiba Dune Field, Oman",
       "display_name": "Mineralogical characterisation of aeolian sands using multispectral satellite datasets: Implications for dune field evolution, Wahiba Dune Field, Oman",
+      "alternate_titles": [],
       "publication_year": 2025,
       "publication_date": "2025-05-01",
       "ids": {
@@ -2783,11 +2801,12 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.5152,
+      "fwci": 1.3363,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.75364523,
+        "value": 0.72195513,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2802,6 +2821,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -3123,7 +3143,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 72,
+      "referenced_works_count": 73,
       "referenced_works": [
         "https://openalex.org/W1495168473",
         "https://openalex.org/W1523916934",
@@ -3176,6 +3196,7 @@
         "https://openalex.org/W2330935816",
         "https://openalex.org/W2406027033",
         "https://openalex.org/W2523551229",
+        "https://openalex.org/W2571262864",
         "https://openalex.org/W2597944323",
         "https://openalex.org/W2745963626",
         "https://openalex.org/W2778035589",
@@ -3935,13 +3956,14 @@
           304
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4410788205",
       "counts_by_year": [
         {
           "year": 2026,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2025-05-28T00:00:00"
     },
     {
@@ -3949,6 +3971,7 @@
       "doi": "https://doi.org/10.3390/geosciences10120490",
       "title": "Understanding the Relationship between Large-Scale Fold Structures and Small-Scale Fracture Patterns: A Case Study from the Oman Mountains",
       "display_name": "Understanding the Relationship between Large-Scale Fold Structures and Small-Scale Fracture Patterns: A Case Study from the Oman Mountains",
+      "alternate_titles": [],
       "publication_year": 2020,
       "publication_date": "2020-12-04",
       "ids": {
@@ -4061,16 +4084,17 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.9943,
+      "fwci": 0.934,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.72276008,
+        "value": 0.70810859,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 96
       },
       "biblio": {
@@ -4080,6 +4104,7 @@
         "last_page": "490"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -4443,9 +4468,10 @@
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3107735373.grobid-xml"
       },
-      "referenced_works_count": 50,
+      "referenced_works_count": 51,
       "referenced_works": [
         "https://openalex.org/W27077920",
+        "https://openalex.org/W1508508756",
         "https://openalex.org/W1592324393",
         "https://openalex.org/W1610837456",
         "https://openalex.org/W1744482739",
@@ -5274,6 +5300,7 @@
           352
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3107735373",
       "counts_by_year": [
         {
           "year": 2025,
@@ -5296,7 +5323,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2020-12-07T00:00:00"
     },
     {
@@ -5304,6 +5331,7 @@
       "doi": "https://doi.org/10.1007/s12371-023-00827-8",
       "title": "Use of Quaternary Deposits in the Construction of Fortifications",
       "display_name": "Use of Quaternary Deposits in the Construction of Fortifications",
+      "alternate_titles": [],
       "publication_year": 2023,
       "publication_date": "2023-04-18",
       "ids": {
@@ -5439,16 +5467,17 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.0582,
+      "fwci": 0.8887,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.76766156,
+        "value": 0.74090287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 94,
         "max": 96
       },
       "biblio": {
@@ -5458,6 +5487,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -5764,7 +5794,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 36,
+      "referenced_works_count": 37,
       "referenced_works": [
         "https://openalex.org/W567762552",
         "https://openalex.org/W1508800270",
@@ -5800,6 +5830,7 @@
         "https://openalex.org/W3044570711",
         "https://openalex.org/W3048251238",
         "https://openalex.org/W3098918182",
+        "https://openalex.org/W3135187220",
         "https://openalex.org/W4232929225",
         "https://openalex.org/W4249886930"
       ],
@@ -5816,13 +5847,14 @@
         "https://openalex.org/W3113337651"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4366280974",
       "counts_by_year": [
         {
           "year": 2026,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2023-04-20T00:00:00"
     },
     {
@@ -5830,6 +5862,7 @@
       "doi": "https://doi.org/10.3390/geosciences10030095",
       "title": "Timing, Mechanics and Controls of the Evolution of the Southernmost Part of the Oman Mountains: The Salakh Arch",
       "display_name": "Timing, Mechanics and Controls of the Evolution of the Southernmost Part of the Oman Mountains: The Salakh Arch",
+      "alternate_titles": [],
       "publication_year": 2020,
       "publication_date": "2020-03-01",
       "ids": {
@@ -5942,17 +5975,18 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.166,
+      "fwci": 0.1557,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.45788964,
+        "value": 0.41268017,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
-        "max": 95
+        "min": 86,
+        "max": 94
       },
       "biblio": {
         "volume": "10",
@@ -5961,6 +5995,7 @@
         "last_page": "95"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -6383,7 +6418,7 @@
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3010622588.grobid-xml"
       },
-      "referenced_works_count": 34,
+      "referenced_works_count": 35,
       "referenced_works": [
         "https://openalex.org/W27851335",
         "https://openalex.org/W181754626",
@@ -6414,6 +6449,7 @@
         "https://openalex.org/W2319336632",
         "https://openalex.org/W2320203024",
         "https://openalex.org/W2344547313",
+        "https://openalex.org/W2611829018",
         "https://openalex.org/W2615225651",
         "https://openalex.org/W2954119218",
         "https://openalex.org/W2960608112",
@@ -7165,6 +7201,7 @@
           332
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3010622588",
       "counts_by_year": [
         {
           "year": 2026,
@@ -7179,7 +7216,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2020-03-13T00:00:00"
     },
     {
@@ -7187,6 +7224,7 @@
       "doi": "https://doi.org/10.3989/egeol.44974.631",
       "title": "Correlación de la Formación Marsawdad, Omán, Mioceno Superior (Turoliense-Ventiense), basada en las de cáscaras fósiles de huevos avianos",
       "display_name": "Correlación de la Formación Marsawdad, Omán, Mioceno Superior (Turoliense-Ventiense), basada en las de cáscaras fósiles de huevos avianos",
+      "alternate_titles": [],
       "publication_year": 2023,
       "publication_date": "2023-08-25",
       "ids": {
@@ -7442,17 +7480,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5078,
+      "fwci": 0.4684,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.4721865,
+        "value": 0.44728383,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
-        "max": 95
+        "min": 86,
+        "max": 94
       },
       "biblio": {
         "volume": "79",
@@ -7461,6 +7500,7 @@
         "last_page": "e153"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -7945,6 +7985,7 @@
           61
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4386162512",
       "counts_by_year": [
         {
           "year": 2026,
@@ -7967,6 +8008,7 @@
       "doi": "https://doi.org/10.1007/s12517-023-11546-3",
       "title": "Fire-set mining in an ancient lead mine: Khaf Al Laasif, Al ‘Āmrāt, Oman",
       "display_name": "Fire-set mining in an ancient lead mine: Khaf Al Laasif, Al ‘Āmrāt, Oman",
+      "alternate_titles": [],
       "publication_year": 2023,
       "publication_date": "2023-07-06",
       "ids": {
@@ -8114,17 +8156,18 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.5291,
+      "fwci": 0.4443,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.71056955,
+        "value": 0.67619699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 93
+        "min": 87,
+        "max": 92
       },
       "biblio": {
         "volume": "16",
@@ -8133,6 +8176,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -8357,9 +8401,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -8370,7 +8414,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 16,
+      "referenced_works_count": 20,
       "referenced_works": [
         "https://openalex.org/W1704882056",
         "https://openalex.org/W1985621977",
@@ -8387,7 +8431,11 @@
         "https://openalex.org/W3133998026",
         "https://openalex.org/W3209119810",
         "https://openalex.org/W3215186918",
-        "https://openalex.org/W4244609841"
+        "https://openalex.org/W4244609841",
+        "https://openalex.org/W4299391464",
+        "https://openalex.org/W4386586316",
+        "https://openalex.org/W4406282169",
+        "https://openalex.org/W7029402536"
       ],
       "related_works": [
         "https://openalex.org/W6922559662",
@@ -8402,13 +8450,14 @@
         "https://openalex.org/W6887884313"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4383343323",
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2023-07-07T00:00:00"
     },
     {
@@ -8416,6 +8465,7 @@
       "doi": "https://doi.org/10.5281/zenodo.21758428",
       "title": "Data and code for \"Stone and water governed early human settlement of the desert\"",
       "display_name": "Data and code for \"Stone and water governed early human settlement of the desert\"",
+      "alternate_titles": [],
       "publication_year": 2026,
       "publication_date": "2026-08-02",
       "ids": {
@@ -8514,7 +8564,8 @@
             "display_name": "Osama Samawi",
             "orcid": "https://orcid.org/0009-0001-3693-1929",
             "observed_orcids": [
-              "https://orcid.org/0009-0001-3693-1929"
+              "https://orcid.org/0009-0001-3693-1929",
+              "https://orcid.org/0009-0006-4167-8880"
             ]
           },
           "institutions": [],
@@ -8708,6 +8759,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": null,
@@ -8719,6 +8771,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -9056,9 +9109,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.53329998254776
+          "score": 0.53329998254776,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -9390,13 +9443,14 @@
           108
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7172210638",
       "counts_by_year": [
         {
           "year": 2026,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2026-08-03T00:00:00"
     },
     {
@@ -9404,6 +9458,7 @@
       "doi": "https://doi.org/10.1007/s12517-022-10610-8",
       "title": "An overview of the engineering properties of Cenozoic sedimentary rocks in Oman",
       "display_name": "An overview of the engineering properties of Cenozoic sedimentary rocks in Oman",
+      "alternate_titles": [],
       "publication_year": 2022,
       "publication_date": "2022-08-01",
       "ids": {
@@ -9502,7 +9557,8 @@
             "display_name": "Mei Yin",
             "orcid": "https://orcid.org/0000-0003-4982-381X",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-4982-381X"
+              "https://orcid.org/0000-0003-4982-381X",
+              "https://orcid.org/0000-0002-8854-703X"
             ]
           },
           "institutions": [
@@ -9576,6 +9632,7 @@
       },
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -9591,6 +9648,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -9931,8 +9989,9 @@
         "https://openalex.org/W4213293322"
       ],
       "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4293212965",
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2022-08-27T00:00:00"
     },
     {
@@ -9940,6 +9999,7 @@
       "doi": "https://doi.org/10.6084/m9.figshare.32095661",
       "title": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
       "display_name": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "alternate_titles": [],
       "publication_year": 2026,
       "publication_date": "2026-04-24",
       "ids": {
@@ -10128,6 +10188,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -10143,6 +10204,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -10870,6 +10932,7 @@
           149
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7155508834",
       "counts_by_year": [],
       "updated_date": "2026-10-28T10:33:24.094632",
       "created_date": "2026-04-25T00:00:00"
@@ -10879,6 +10942,7 @@
       "doi": "https://doi.org/10.1080/17445647.2026.2649056",
       "title": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
       "display_name": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "alternate_titles": [],
       "publication_year": 2026,
       "publication_date": "2026-04-24",
       "ids": {
@@ -10980,12 +11044,12 @@
           "is_corresponding": true,
           "raw_author_name": "Andrea Pezzotta",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano"
+            "Università degli Studi di Milano, Milano, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-1093-1576",
           "affiliations": [
             {
-              "raw_affiliation_string": "Università degli Studi di Milano",
+              "raw_affiliation_string": "Università degli Studi di Milano, Milano, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -11020,12 +11084,12 @@
           "is_corresponding": false,
           "raw_author_name": "Alessia Marinoni",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano"
+            "Università degli Studi di Milano, Milano, Italy"
           ],
           "raw_orcid": "https://orcid.org/0009-0000-5841-9830",
           "affiliations": [
             {
-              "raw_affiliation_string": "Università degli Studi di Milano",
+              "raw_affiliation_string": "Università degli Studi di Milano, Milano, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -11047,12 +11111,12 @@
           "is_corresponding": false,
           "raw_author_name": "Mohammed Al Kindi",
           "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre"
+            "Earth Sciences Consultancy Centre, Muscat, Sultanate of Oman"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre",
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, Muscat, Sultanate of Oman",
               "institution_ids": []
             }
           ]
@@ -11079,16 +11143,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I197604219",
-              "display_name": "National Academies of Sciences, Engineering, and Medicine",
-              "ror": "https://ror.org/02eq2w707",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I197604219"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210096172",
               "display_name": "Institute of Environmental Geology and Geoengineering",
               "ror": "https://ror.org/00ytw6m58",
@@ -11097,16 +11151,6 @@
               "lineage": [
                 "https://openalex.org/I4210096172",
                 "https://openalex.org/I4210155236"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210128591",
-              "display_name": "National Research Council",
-              "ror": "https://ror.org/035rrps97",
-              "country_code": "RO",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210128591"
               ]
             },
             {
@@ -11121,29 +11165,25 @@
             }
           ],
           "countries": [
-            "IT",
-            "RO",
-            "US"
+            "IT"
           ],
           "is_corresponding": false,
           "raw_author_name": "Davide Susini",
           "raw_affiliation_strings": [
-            "Institute of Environmental Geology and Geoengineering, National Research Council",
-            "Università di Siena"
+            "Institute of Environmental Geology and Geoengineering, National Research Council, Rome, Italy",
+            "Università di Siena, Siena, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-0526-9407",
           "affiliations": [
             {
-              "raw_affiliation_string": "Institute of Environmental Geology and Geoengineering, National Research Council",
+              "raw_affiliation_string": "Institute of Environmental Geology and Geoengineering, National Research Council, Rome, Italy",
               "institution_ids": [
-                "https://openalex.org/I197604219",
                 "https://openalex.org/I4210096172",
-                "https://openalex.org/I4210128591",
                 "https://openalex.org/I4210155236"
               ]
             },
             {
-              "raw_affiliation_string": "Università di Siena",
+              "raw_affiliation_string": "Università di Siena, Siena, Italy",
               "institution_ids": [
                 "https://openalex.org/I102064193"
               ]
@@ -11178,12 +11218,12 @@
           "is_corresponding": false,
           "raw_author_name": "Sam Turner",
           "raw_affiliation_strings": [
-            "Newcastle University"
+            "Newcastle University, Newcastle, UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-3257-0070",
           "affiliations": [
             {
-              "raw_affiliation_string": "Newcastle University",
+              "raw_affiliation_string": "Newcastle University, Newcastle, UK",
               "institution_ids": [
                 "https://openalex.org/I84884186"
               ]
@@ -11218,12 +11258,12 @@
           "is_corresponding": false,
           "raw_author_name": "Michele Zucali",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano"
+            "Università degli Studi di Milano, Milano, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-3600-7856",
           "affiliations": [
             {
-              "raw_affiliation_string": "Università degli Studi di Milano",
+              "raw_affiliation_string": "Università degli Studi di Milano, Milano, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -11258,12 +11298,12 @@
           "is_corresponding": false,
           "raw_author_name": "Andrea Zerboni",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano"
+            "Università degli Studi di Milano, Milano, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-6844-8528",
           "affiliations": [
             {
-              "raw_affiliation_string": "Università degli Studi di Milano",
+              "raw_affiliation_string": "Università degli Studi di Milano, Milano, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -11272,8 +11312,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5091426946"
       ],
@@ -11291,6 +11331,7 @@
         "value_usd": 778
       },
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -11306,6 +11347,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -11700,10 +11742,12 @@
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
         "grobid_xml": "https://content.openalex.org/works/W7155534781.grobid-xml"
       },
-      "referenced_works_count": 51,
+      "referenced_works_count": 56,
       "referenced_works": [
         "https://openalex.org/W112984935",
+        "https://openalex.org/W622751671",
         "https://openalex.org/W1514213934",
+        "https://openalex.org/W1537425267",
         "https://openalex.org/W1967187046",
         "https://openalex.org/W1977411148",
         "https://openalex.org/W1979820932",
@@ -11717,10 +11761,13 @@
         "https://openalex.org/W2072377673",
         "https://openalex.org/W2079896118",
         "https://openalex.org/W2081229353",
+        "https://openalex.org/W2083772074",
         "https://openalex.org/W2084638152",
         "https://openalex.org/W2095003426",
         "https://openalex.org/W2113162852",
         "https://openalex.org/W2127110316",
+        "https://openalex.org/W2145995786",
+        "https://openalex.org/W2158810224",
         "https://openalex.org/W2158865798",
         "https://openalex.org/W2167767686",
         "https://openalex.org/W2259645488",
@@ -12132,8 +12179,9 @@
           149
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7155534781",
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -12141,6 +12189,7 @@
       "doi": "https://doi.org/10.1111/jpg.70078",
       "title": "The Unexpected Discovery of Paleocene? Coals in Outcrops Thought to Be Cambrian, Al Huqf, Oman",
       "display_name": "The Unexpected Discovery of Paleocene? Coals in Outcrops Thought to Be Cambrian, Al Huqf, Oman",
+      "alternate_titles": [],
       "publication_year": 2026,
       "publication_date": "2026-05-28",
       "ids": {
@@ -12346,6 +12395,7 @@
         "value_usd": 3400
       },
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -12361,6 +12411,7 @@
         "last_page": "1194"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -12729,9 +12780,11 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 19,
+      "referenced_works_count": 22,
       "referenced_works": [
+        "https://openalex.org/W622751671",
         "https://openalex.org/W1005713786",
+        "https://openalex.org/W1524304571",
         "https://openalex.org/W1963803326",
         "https://openalex.org/W2010323934",
         "https://openalex.org/W2085188216",
@@ -12740,6 +12793,7 @@
         "https://openalex.org/W2173675283",
         "https://openalex.org/W2502211481",
         "https://openalex.org/W2510193846",
+        "https://openalex.org/W2521590297",
         "https://openalex.org/W2771693883",
         "https://openalex.org/W2912667456",
         "https://openalex.org/W2938243655",
@@ -13190,8 +13244,9 @@
           188
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162646169",
       "counts_by_year": [],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2026-05-29T00:00:00"
     }
   ]

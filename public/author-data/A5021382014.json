@@ -10,7 +10,7 @@
     ],
     "full_name": "Khalid Al Ramadan",
     "works_count": 7,
-    "cited_by_count": 65,
+    "cited_by_count": 70,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T14047",
         "display_name": "Marine and environmental studies",
-        "value": 0.0000073,
+        "value": 0.0000072,
         "subfield": {
           "id": "https://openalex.org/subfields/1910",
           "display_name": "Oceanography"
@@ -285,6 +285,12 @@
         "cited_by_count": 1
       },
       {
+        "year": 2013,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 1
+      },
+      {
         "year": 2014,
         "works_count": 1,
         "oa_works_count": 1,
@@ -294,13 +300,13 @@
         "year": 2015,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 2
+        "cited_by_count": 3
       },
       {
         "year": 2016,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 2
+        "cited_by_count": 3
       },
       {
         "year": 2017,
@@ -330,7 +336,7 @@
         "year": 2021,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       },
       {
         "year": 2022,
@@ -348,7 +354,7 @@
         "year": 2024,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 6
+        "cited_by_count": 7
       },
       {
         "year": 2025,
@@ -371,7 +377,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5021382014",
-    "updated_date": "2026-11-14T11:48:19",
+    "updated_date": "2026-11-16T12:53:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -380,6 +386,7 @@
       "doi": "https://doi.org/10.1016/j.yqres.2011.10.008",
       "title": "Rapid late Pleistocene/Holocene uplift and coastal evolution of the southern Arabian (Persian) Gulf",
       "display_name": "Rapid late Pleistocene/Holocene uplift and coastal evolution of the southern Arabian (Persian) Gulf",
+      "alternate_titles": [],
       "publication_year": 2011,
       "publication_date": "2011-12-14",
       "ids": {
@@ -849,16 +856,17 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 2.384,
+      "fwci": 2.4338,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 51,
+      "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.85486187,
+        "value": 0.85779096,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 99
       },
       "biblio": {
@@ -868,6 +876,7 @@
         "last_page": "220"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -1156,9 +1165,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -1185,10 +1194,11 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 32,
+      "referenced_works_count": 34,
       "referenced_works": [
         "https://openalex.org/W352719342",
         "https://openalex.org/W578079095",
+        "https://openalex.org/W1512848488",
         "https://openalex.org/W1909880476",
         "https://openalex.org/W1964737423",
         "https://openalex.org/W1970797589",
@@ -1218,7 +1228,8 @@
         "https://openalex.org/W2171496077",
         "https://openalex.org/W2186549523",
         "https://openalex.org/W2482084774",
-        "https://openalex.org/W2606961253"
+        "https://openalex.org/W2606961253",
+        "https://openalex.org/W7015159553"
       ],
       "related_works": [
         "https://openalex.org/W4251002011",
@@ -1602,6 +1613,7 @@
           149
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2053123825",
       "counts_by_year": [
         {
           "year": 2026,
@@ -1625,7 +1637,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2020,
@@ -1645,7 +1657,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2015,
@@ -1656,11 +1668,15 @@
           "cited_by_count": 5
         },
         {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
           "year": 2012,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1668,6 +1684,7 @@
       "doi": "https://doi.org/10.47894/mpal.66.2.07",
       "title": "Foraminifera from the Aruma Formation of Central Saudi Arabia",
       "display_name": "Foraminifera from the Aruma Formation of Central Saudi Arabia",
+      "alternate_titles": [],
       "publication_year": 2020,
       "publication_date": "2020-03-01",
       "ids": {
@@ -1850,22 +1867,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdulkarim Al-Hussaini",
@@ -1877,30 +1882,30 @@
             {
               "raw_affiliation_string": "Saudi ARAMCO",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3887,
+      "fwci": 0.3746,
+      "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.46141479,
+        "value": 0.44501241,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 97
       },
       "biblio": {
@@ -1910,6 +1915,7 @@
         "last_page": "164"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -2588,6 +2594,7 @@
           134
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3129777047",
       "counts_by_year": [
         {
           "year": 2026,
@@ -2599,7 +2606,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2023,
@@ -2614,7 +2621,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-15T12:55:33.944570",
+      "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -2622,6 +2629,7 @@
       "doi": "https://doi.org/10.7494/geotour.2014.37.3",
       "title": "The White Volcanoes of Harrat Khaybar, north of Al-Madinah",
       "display_name": "The White Volcanoes of Harrat Khaybar, north of Al-Madinah",
+      "alternate_titles": [],
       "publication_year": 2014,
       "publication_date": "2014-01-01",
       "ids": {
@@ -2820,6 +2828,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
@@ -2838,6 +2847,7 @@
         "last_page": "3"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -3355,6 +3365,7 @@
           99
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2254901902",
       "counts_by_year": [
         {
           "year": 2026,
@@ -3373,10 +3384,448 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3091193032",
+      "doi": null,
+      "title": "Benthic Foraminifera along a depth transect in western Bahrain: seasonal variations and environmental assessment",
+      "display_name": "Benthic Foraminifera along a depth transect in western Bahrain: seasonal variations and environmental assessment",
+      "alternate_titles": [],
+      "publication_year": 2015,
+      "publication_date": "2015-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3091193032",
+        "mag": "3091193032"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:3091193032",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2015EGUGA..17.8886M/abstract",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306508951",
+          "display_name": "EGU General Assembly Conference Abstracts",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "EGU General Assembly Conference Abstracts",
+        "raw_type": null
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3091193032"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5062234351",
+            "display_name": "Muhammad Arslan",
+            "orcid": "https://orcid.org/0000-0002-9620-6710",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9620-6710",
+              "https://orcid.org/0009-0000-4192-6780"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Arslan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9620-6710",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035815399",
+            "display_name": "Michael A. Kaminski",
+            "orcid": "https://orcid.org/0000-0002-7344-5874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7344-5874"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Michael A. Kaminski",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074883327",
+            "display_name": "Bassam Tawabini",
+            "orcid": "https://orcid.org/0000-0002-0096-2723",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0096-2723"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Bassam Tawabini",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0096-2723",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021382014",
+            "display_name": "Khalid Al Ramadan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al Ramadan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044235421",
+            "display_name": "Lamidi Babalola",
+            "orcid": "https://orcid.org/0000-0002-0052-5603",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0052-5603"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Lamidi Babalola",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5070748180",
+            "display_name": "Fabrizio Frontalini",
+            "orcid": "https://orcid.org/0000-0002-0425-9306",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0425-9306"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Fabrizio Frontalini",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0425-9306",
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.9377,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.77159309,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 92
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "8886",
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10765",
+        "display_name": "Marine Biology and Ecology Research",
+        "score": 0.8442000150680542,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1910",
+          "display_name": "Oceanography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10765",
+          "display_name": "Marine Biology and Ecology Research",
+          "score": 0.8442000150680542,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.04830000177025795,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10341",
+          "display_name": "Coral and Marine Ecosystems Studies",
+          "score": 0.03759999945759773,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/benthic-foraminifera",
+          "display_name": "benthic foraminifera",
+          "score": 1
+        },
+        {
+          "id": "https://openalex.org/keywords/depth-transect",
+          "display_name": "depth transect",
+          "score": 0.9710000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/seasonal-variation",
+          "display_name": "seasonal variation",
+          "score": 0.9490000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-assessment",
+          "display_name": "environmental assessment",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.39100000262260437
+        },
+        {
+          "id": "https://openalex.org/keywords/benthic-communities",
+          "display_name": "benthic communities",
+          "score": 0.5759999752044678
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780368712",
+          "wikidata": "https://www.wikidata.org/wiki/Q107027",
+          "display_name": "Foraminifera",
+          "level": 3,
+          "score": 0.9065096378326416
+        },
+        {
+          "id": "https://openalex.org/C69661492",
+          "wikidata": "https://www.wikidata.org/wiki/Q1447141",
+          "display_name": "Transect",
+          "level": 2,
+          "score": 0.883220374584198
+        },
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.8488448858261108
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.6779178977012634
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.4972670376300812
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.3760523498058319
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.36313948035240173
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.32986295223236084
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:3091193032",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2015EGUGA..17.8886M/abstract",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306508951",
+            "display_name": "EGU General Assembly Conference Abstracts",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "EGU General Assembly Conference Abstracts",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2610545311",
+        "https://openalex.org/W1952020586",
+        "https://openalex.org/W2985360236",
+        "https://openalex.org/W7114825401",
+        "https://openalex.org/W6903854149",
+        "https://openalex.org/W1675899862",
+        "https://openalex.org/W1976745983",
+        "https://openalex.org/W1553861208",
+        "https://openalex.org/W3004492031",
+        "https://openalex.org/W4231595122"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3091193032",
+      "counts_by_year": [
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2020-10-08T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1987587938",
       "doi": "https://doi.org/10.1190/1.3255764",
       "title": "Microfacies approach to reservoir-related outcrop analogy studies of Wadi Waqb member.",
       "display_name": "Microfacies approach to reservoir-related outcrop analogy studies of Wadi Waqb member.",
+      "alternate_titles": [],
       "publication_year": 2009,
       "publication_date": "2009-01-01",
       "ids": {
@@ -3538,6 +3987,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -3553,6 +4003,7 @@
         "last_page": "4232"
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -4250,6 +4701,7 @@
           145
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1987587938",
       "counts_by_year": [],
       "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
@@ -4259,6 +4711,7 @@
       "doi": "https://doi.org/10.3997/2214-4609-pdb.248.328",
       "title": "Integrated Diagenesis and Sequence Stratigraphic Study of Tidal Sandstones: the Adedia Formation (Cambro-Ordovician), Sinai, Egypt",
       "display_name": "Integrated Diagenesis and Sequence Stratigraphic Study of Tidal Sandstones: the Adedia Formation (Cambro-Ordovician), Sinai, Egypt",
+      "alternate_titles": [],
       "publication_year": 2010,
       "publication_date": "2010-01-01",
       "ids": {
@@ -4372,6 +4825,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -4387,6 +4841,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -5177,6 +5632,7 @@
           201
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2175841689",
       "counts_by_year": [],
       "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2016-06-24T00:00:00"
@@ -5186,6 +5642,7 @@
       "doi": "https://doi.org/10.3997/2214-4609-pdb.248.291",
       "title": "Carbonate/Evaporite Sequence Stratigraphy of the Subsurface Late Jurassic Arab-C Member, Khursaniyah Field, Eastern Saudi Arabia",
       "display_name": "Carbonate/Evaporite Sequence Stratigraphy of the Subsurface Late Jurassic Arab-C Member, Khursaniyah Field, Eastern Saudi Arabia",
+      "alternate_titles": [],
       "publication_year": 2010,
       "publication_date": "2010-01-01",
       "ids": {
@@ -5313,6 +5770,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
+      "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
@@ -5328,6 +5786,7 @@
         "last_page": null
       },
       "is_retracted": false,
+      "is_pulled": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -6365,434 +6824,10 @@
           343
         ]
       },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2565148508",
       "counts_by_year": [],
       "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2017-01-06T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3091193032",
-      "doi": null,
-      "title": "Benthic Foraminifera along a depth transect in western Bahrain: seasonal variations and environmental assessment",
-      "display_name": "Benthic Foraminifera along a depth transect in western Bahrain: seasonal variations and environmental assessment",
-      "publication_year": 2015,
-      "publication_date": "2015-04-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3091193032",
-        "mag": "3091193032"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:3091193032",
-        "doi": null,
-        "is_oa": false,
-        "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2015EGUGA..17.8886M/abstract",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306508951",
-          "display_name": "EGU General Assembly Conference Abstracts",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310313756",
-          "host_organization_name": "Copernicus Publications",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310313756"
-          ],
-          "host_organization_lineage_names": [
-            "Copernicus Publications"
-          ],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "EGU General Assembly Conference Abstracts",
-        "raw_type": null
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W3091193032"
-      ],
-      "child_works_count": 0,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5062234351",
-            "display_name": "Muhammad Arslan",
-            "orcid": "https://orcid.org/0000-0002-9620-6710",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9620-6710",
-              "https://orcid.org/0009-0000-4192-6780"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Arslan",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-9620-6710",
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035815399",
-            "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7344-5874"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Michael A. Kaminski",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074883327",
-            "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0096-2723"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Bassam Tawabini",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-0096-2723",
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021382014",
-            "display_name": "Khalid Al Ramadan",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al Ramadan",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044235421",
-            "display_name": "Lamidi Babalola",
-            "orcid": "https://orcid.org/0000-0002-0052-5603",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0052-5603"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Lamidi Babalola",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5070748180",
-            "display_name": "Fabrizio Frontalini",
-            "orcid": "https://orcid.org/0000-0002-0425-9306",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0425-9306"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Fabrizio Frontalini",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-0425-9306",
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "8886",
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10765",
-        "display_name": "Marine Biology and Ecology Research",
-        "score": 0.8442000150680542,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1910",
-          "display_name": "Oceanography"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10765",
-          "display_name": "Marine Biology and Ecology Research",
-          "score": 0.8442000150680542,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.04830000177025795,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10341",
-          "display_name": "Coral and Marine Ecosystems Studies",
-          "score": 0.03759999945759773,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/benthic-foraminifera",
-          "display_name": "benthic foraminifera",
-          "score": 1
-        },
-        {
-          "id": "https://openalex.org/keywords/depth-transect",
-          "display_name": "depth transect",
-          "score": 0.9710000157356262
-        },
-        {
-          "id": "https://openalex.org/keywords/seasonal-variation",
-          "display_name": "seasonal variation",
-          "score": 0.9490000009536743
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-assessment",
-          "display_name": "environmental assessment",
-          "score": 0.9129999876022339
-        },
-        {
-          "id": "https://openalex.org/keywords/persian-gulf",
-          "display_name": "Persian Gulf",
-          "score": 0.39100000262260437
-        },
-        {
-          "id": "https://openalex.org/keywords/benthic-communities",
-          "display_name": "benthic communities",
-          "score": 0.5759999752044678
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780368712",
-          "wikidata": "https://www.wikidata.org/wiki/Q107027",
-          "display_name": "Foraminifera",
-          "level": 3,
-          "score": 0.9065096378326416
-        },
-        {
-          "id": "https://openalex.org/C69661492",
-          "wikidata": "https://www.wikidata.org/wiki/Q1447141",
-          "display_name": "Transect",
-          "level": 2,
-          "score": 0.883220374584198
-        },
-        {
-          "id": "https://openalex.org/C83042747",
-          "wikidata": "https://www.wikidata.org/wiki/Q686881",
-          "display_name": "Benthic zone",
-          "level": 2,
-          "score": 0.8488448858261108
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.6779178977012634
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.4972670376300812
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.3760523498058319
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.36313948035240173
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.32986295223236084
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:3091193032",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2015EGUGA..17.8886M/abstract",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306508951",
-            "display_name": "EGU General Assembly Conference Abstracts",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310313756",
-            "host_organization_name": "Copernicus Publications",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310313756"
-            ],
-            "host_organization_lineage_names": [
-              "Copernicus Publications"
-            ],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "EGU General Assembly Conference Abstracts",
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 1
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2610545311",
-        "https://openalex.org/W1952020586",
-        "https://openalex.org/W2985360236",
-        "https://openalex.org/W7114825401",
-        "https://openalex.org/W6903854149",
-        "https://openalex.org/W1675899862",
-        "https://openalex.org/W1976745983",
-        "https://openalex.org/W1553861208",
-        "https://openalex.org/W3004492031",
-        "https://openalex.org/W4231595122"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
-      "created_date": "2020-10-08T00:00:00"
     }
   ]
 }
