@@ -17,7 +17,7 @@
     ],
     "full_name": "DIRK KNAUST",
     "works_count": 117,
-    "cited_by_count": 3428,
+    "cited_by_count": 3431,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 32,
@@ -246,7 +246,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0002532,
+        "value": 0.0002349,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -263,7 +263,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001491,
+        "value": 0.0001405,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -280,7 +280,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001013,
+        "value": 0.0001012,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -297,7 +297,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0000483,
+        "value": 0.0000444,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -314,7 +314,7 @@
       {
         "id": "https://openalex.org/T12841",
         "display_name": "Echinoderm biology and ecology",
-        "value": 0.0000315,
+        "value": 0.0000299,
         "subfield": {
           "id": "https://openalex.org/subfields/1104",
           "display_name": "Aquatic Science"
@@ -510,7 +510,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 343
+        "cited_by_count": 346
       }
     ],
     "display_name_alternatives": [
@@ -526,7 +526,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5013195813",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-18T16:17:57",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -645,12 +645,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 17.6924,
+      "fwci": 17.5252,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 278,
+      "cited_by_count": 279,
       "citation_normalized_percentile": {
-        "value": 0.99358974,
+        "value": 0.99367089,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -953,8 +953,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -991,7 +991,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 37
+          "cited_by_count": 38
         },
         {
           "year": 2025,
@@ -1030,7 +1030,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -1418,8 +1418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1947,8 +1947,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 258,
@@ -2782,8 +2782,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 255,
@@ -3933,8 +3933,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 152,
@@ -4781,12 +4781,12 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 5.2923,
+      "fwci": 5.0383,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 99,
       "citation_normalized_percentile": {
-        "value": 0.97280335,
+        "value": 0.9703281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4990,8 +4990,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -5541,8 +5541,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 209,
@@ -6638,8 +6638,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -7357,8 +7357,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -7366,8 +7366,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 150,
@@ -8069,8 +8069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2982501932.pdf",
@@ -9186,8 +9186,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -9377,6 +9377,587 @@
       ],
       "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2804652220",
+      "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
+      "title": "Skolithos linearis Haldeman, 1840 at its early Cambrian type locality, Chickies Rock, Pennsylvania: Analysis and designation of a neotype",
+      "display_name": "Skolithos linearis Haldeman, 1840 at its early Cambrian type locality, Chickies Rock, Pennsylvania: Analysis and designation of a neotype",
+      "alternate_titles": [],
+      "publication_year": 2018,
+      "publication_date": "2018-05-26",
+      "ids": {
+        "openalex": "https://openalex.org/W2804652220",
+        "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
+        "mag": "2804652220"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.earscirev.2018.05.009",
+        "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.earscirev.2018.05.009",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S40187045",
+          "display_name": "Earth-Science Reviews",
+          "issn_l": "0012-8252",
+          "issn": [
+            "0012-8252",
+            "1872-6828"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-a",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth-Science Reviews",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2804652220"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013195813",
+            "display_name": "Dirk Knaust",
+            "orcid": "https://orcid.org/0000-0002-1698-2489",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1698-2489"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I49324905",
+              "display_name": "Equinor (Norway)",
+              "ror": "https://ror.org/017mte255",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dirk Knaust",
+          "raw_affiliation_strings": [
+            "Statoil ASA, 4035 Stavanger, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003127435",
+            "display_name": "Roger D. K. Thomas",
+            "orcid": "https://orcid.org/0000-0003-2830-2070",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2830-2070"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173146385",
+              "display_name": "Franklin & Marshall College",
+              "ror": "https://ror.org/04fp4ps48",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I173146385"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roger D.K. Thomas",
+          "raw_affiliation_strings": [
+            "Department of Earth & Environment, Franklin & Marshall College, Lancaster, PA 17604-3003, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Environment, Franklin & Marshall College, Lancaster, PA 17604-3003, USA",
+              "institution_ids": [
+                "https://openalex.org/I173146385"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033708506",
+            "display_name": "H. Allen Curran",
+            "orcid": "https://orcid.org/0000-0002-1477-3798",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1477-3798"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I202524275",
+              "display_name": "Smith College",
+              "ror": "https://ror.org/0497crr92",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I202524275"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "H. Allen Curran",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Clark Science Center, Smith College, 44 College Lane, Northampton, MA 01063, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Clark Science Center, Smith College, 44 College Lane, Northampton, MA 01063, USA",
+              "institution_ids": [
+                "https://openalex.org/I202524275"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013195813"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I49324905"
+      ],
+      "apc_list": {
+        "value": 5120,
+        "currency": "USD",
+        "value_usd": 5120
+      },
+      "apc_paid": null,
+      "fwci": 2.6498,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 79,
+      "citation_normalized_percentile": {
+        "value": 0.90245959,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "185",
+        "issue": null,
+        "first_page": "15",
+        "last_page": "31"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9550999999046326,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9550999999046326,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.03009999915957451,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.010499999858438969,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/skolithos",
+          "display_name": "Skolithos",
+          "score": 0.9409999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.9010000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/neotype-designation",
+          "display_name": "neotype designation",
+          "score": 0.8809999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/early-cambrian",
+          "display_name": "Lower Cambrian",
+          "score": 0.875
+        },
+        {
+          "id": "https://openalex.org/keywords/phoronids",
+          "display_name": "phoronids",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/polychaetes",
+          "display_name": "Polychaeta",
+          "score": 0.9700000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/burrowing",
+          "display_name": "burrowing",
+          "score": 0.39100000262260437
+        },
+        {
+          "id": "https://openalex.org/keywords/taxonomic-revision",
+          "display_name": "taxonomic revision",
+          "score": 0.47999998927116394
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7089018225669861
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6472263932228088
+        },
+        {
+          "id": "https://openalex.org/C2777461261",
+          "wikidata": "https://www.wikidata.org/wiki/Q1973416",
+          "display_name": "Type locality",
+          "level": 3,
+          "score": 0.5105334520339966
+        },
+        {
+          "id": "https://openalex.org/C160937034",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Trace fossil",
+          "level": 2,
+          "score": 0.44992080330848694
+        },
+        {
+          "id": "https://openalex.org/C58642233",
+          "wikidata": "https://www.wikidata.org/wiki/Q8269924",
+          "display_name": "Taxonomy (biology)",
+          "level": 2,
+          "score": 0.15816903114318848
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.12092062830924988
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.11792027950286865
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.earscirev.2018.05.009",
+          "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.earscirev.2018.05.009",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S40187045",
+            "display_name": "Earth-Science Reviews",
+            "issn_l": "0012-8252",
+            "issn": [
+              "0012-8252",
+              "1872-6828"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-a",
+              "jufo-3",
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Earth-Science Reviews",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320312577",
+          "display_name": "Georgia Agricultural Experiment Stations",
+          "ror": "https://ror.org/00te3t702"
+        },
+        {
+          "id": "https://openalex.org/F4320313688",
+          "display_name": "Franklin and Marshall College",
+          "ror": "https://ror.org/04fp4ps48"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 57,
+      "referenced_works": [
+        "https://openalex.org/W165299635",
+        "https://openalex.org/W199967141",
+        "https://openalex.org/W560158229",
+        "https://openalex.org/W560220492",
+        "https://openalex.org/W992825632",
+        "https://openalex.org/W1109724386",
+        "https://openalex.org/W1529976899",
+        "https://openalex.org/W1918548024",
+        "https://openalex.org/W1974997190",
+        "https://openalex.org/W1975115126",
+        "https://openalex.org/W1981546302",
+        "https://openalex.org/W1985539925",
+        "https://openalex.org/W1994549531",
+        "https://openalex.org/W1994904957",
+        "https://openalex.org/W2006145982",
+        "https://openalex.org/W2021627647",
+        "https://openalex.org/W2029068730",
+        "https://openalex.org/W2035986698",
+        "https://openalex.org/W2054672455",
+        "https://openalex.org/W2057310142",
+        "https://openalex.org/W2060489129",
+        "https://openalex.org/W2065787890",
+        "https://openalex.org/W2079382130",
+        "https://openalex.org/W2082114014",
+        "https://openalex.org/W2084927468",
+        "https://openalex.org/W2085416740",
+        "https://openalex.org/W2088800839",
+        "https://openalex.org/W2095323803",
+        "https://openalex.org/W2097256718",
+        "https://openalex.org/W2107647076",
+        "https://openalex.org/W2111949514",
+        "https://openalex.org/W2116180451",
+        "https://openalex.org/W2127103542",
+        "https://openalex.org/W2149147954",
+        "https://openalex.org/W2151846090",
+        "https://openalex.org/W2196554762",
+        "https://openalex.org/W2253532012",
+        "https://openalex.org/W2265178907",
+        "https://openalex.org/W2283659871",
+        "https://openalex.org/W2288079016",
+        "https://openalex.org/W2326347736",
+        "https://openalex.org/W2340368927",
+        "https://openalex.org/W2520392475",
+        "https://openalex.org/W2594678864",
+        "https://openalex.org/W2596117615",
+        "https://openalex.org/W2600750123",
+        "https://openalex.org/W2724294703",
+        "https://openalex.org/W2745923949",
+        "https://openalex.org/W2746381467",
+        "https://openalex.org/W4206317699",
+        "https://openalex.org/W4237810828",
+        "https://openalex.org/W4247794023",
+        "https://openalex.org/W4385643405",
+        "https://openalex.org/W6910513071",
+        "https://openalex.org/W6993082269",
+        "https://openalex.org/W7044046869",
+        "https://openalex.org/W7064418979"
+      ],
+      "related_works": [
+        "https://openalex.org/W2596117615",
+        "https://openalex.org/W2340368927",
+        "https://openalex.org/W4412879343",
+        "https://openalex.org/W2095323803",
+        "https://openalex.org/W2924029404",
+        "https://openalex.org/W2082114014",
+        "https://openalex.org/W2070291594",
+        "https://openalex.org/W2011887770",
+        "https://openalex.org/W1993672772",
+        "https://openalex.org/W2035986698"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2804652220",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-11-18T13:11:19.462570",
+      "created_date": "2018-06-01T00:00:00"
     },
     {
       "id": "https://openalex.org/W293229073",
@@ -9843,8 +10424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -10020,587 +10601,6 @@
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2804652220",
-      "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
-      "title": "Skolithos linearis Haldeman, 1840 at its early Cambrian type locality, Chickies Rock, Pennsylvania: Analysis and designation of a neotype",
-      "display_name": "Skolithos linearis Haldeman, 1840 at its early Cambrian type locality, Chickies Rock, Pennsylvania: Analysis and designation of a neotype",
-      "alternate_titles": [],
-      "publication_year": 2018,
-      "publication_date": "2018-05-26",
-      "ids": {
-        "openalex": "https://openalex.org/W2804652220",
-        "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
-        "mag": "2804652220"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.earscirev.2018.05.009",
-        "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.earscirev.2018.05.009",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S40187045",
-          "display_name": "Earth-Science Reviews",
-          "issn_l": "0012-8252",
-          "issn": [
-            "0012-8252",
-            "1872-6828"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-a",
-            "jufo-3",
-            "norway-2",
-            "poland-200",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth-Science Reviews",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2804652220"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013195813",
-            "display_name": "Dirk Knaust",
-            "orcid": "https://orcid.org/0000-0002-1698-2489",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-1698-2489"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I49324905",
-              "display_name": "Equinor (Norway)",
-              "ror": "https://ror.org/017mte255",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Dirk Knaust",
-          "raw_affiliation_strings": [
-            "Statoil ASA, 4035 Stavanger, Norway"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003127435",
-            "display_name": "Roger D. K. Thomas",
-            "orcid": "https://orcid.org/0000-0003-2830-2070",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2830-2070"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I173146385",
-              "display_name": "Franklin & Marshall College",
-              "ror": "https://ror.org/04fp4ps48",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I173146385"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Roger D.K. Thomas",
-          "raw_affiliation_strings": [
-            "Department of Earth & Environment, Franklin & Marshall College, Lancaster, PA 17604-3003, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Environment, Franklin & Marshall College, Lancaster, PA 17604-3003, USA",
-              "institution_ids": [
-                "https://openalex.org/I173146385"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5033708506",
-            "display_name": "H. Allen Curran",
-            "orcid": "https://orcid.org/0000-0002-1477-3798",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-1477-3798"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I202524275",
-              "display_name": "Smith College",
-              "ror": "https://ror.org/0497crr92",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I202524275"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "H. Allen Curran",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Clark Science Center, Smith College, 44 College Lane, Northampton, MA 01063, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Clark Science Center, Smith College, 44 College Lane, Northampton, MA 01063, USA",
-              "institution_ids": [
-                "https://openalex.org/I202524275"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
-      "apc_list": {
-        "value": 5120,
-        "currency": "USD",
-        "value_usd": 5120
-      },
-      "apc_paid": null,
-      "fwci": 2.6494,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 78,
-      "citation_normalized_percentile": {
-        "value": 0.9014222,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "185",
-        "issue": null,
-        "first_page": "15",
-        "last_page": "31"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9550999999046326,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9550999999046326,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10955",
-          "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.03009999915957451,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.010499999858438969,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/skolithos",
-          "display_name": "Skolithos",
-          "score": 0.9409999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-fossils",
-          "display_name": "trace fossils",
-          "score": 0.9010000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/neotype-designation",
-          "display_name": "neotype designation",
-          "score": 0.8809999823570251
-        },
-        {
-          "id": "https://openalex.org/keywords/early-cambrian",
-          "display_name": "Lower Cambrian",
-          "score": 0.875
-        },
-        {
-          "id": "https://openalex.org/keywords/phoronids",
-          "display_name": "phoronids",
-          "score": 0.7319999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/polychaetes",
-          "display_name": "Polychaeta",
-          "score": 0.9700000286102295
-        },
-        {
-          "id": "https://openalex.org/keywords/burrowing",
-          "display_name": "burrowing",
-          "score": 0.39100000262260437
-        },
-        {
-          "id": "https://openalex.org/keywords/taxonomic-revision",
-          "display_name": "taxonomic revision",
-          "score": 0.47999998927116394
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7089018225669861
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6472263932228088
-        },
-        {
-          "id": "https://openalex.org/C2777461261",
-          "wikidata": "https://www.wikidata.org/wiki/Q1973416",
-          "display_name": "Type locality",
-          "level": 3,
-          "score": 0.5105334520339966
-        },
-        {
-          "id": "https://openalex.org/C160937034",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Trace fossil",
-          "level": 2,
-          "score": 0.44992080330848694
-        },
-        {
-          "id": "https://openalex.org/C58642233",
-          "wikidata": "https://www.wikidata.org/wiki/Q8269924",
-          "display_name": "Taxonomy (biology)",
-          "level": 2,
-          "score": 0.15816903114318848
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.12092062830924988
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.11792027950286865
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.earscirev.2018.05.009",
-          "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.earscirev.2018.05.009",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S40187045",
-            "display_name": "Earth-Science Reviews",
-            "issn_l": "0012-8252",
-            "issn": [
-              "0012-8252",
-              "1872-6828"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-a",
-              "jufo-3",
-              "norway-2",
-              "poland-200",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Earth-Science Reviews",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320312577",
-          "display_name": "Georgia Agricultural Experiment Stations",
-          "ror": "https://ror.org/00te3t702"
-        },
-        {
-          "id": "https://openalex.org/F4320313688",
-          "display_name": "Franklin and Marshall College",
-          "ror": "https://ror.org/04fp4ps48"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 57,
-      "referenced_works": [
-        "https://openalex.org/W165299635",
-        "https://openalex.org/W199967141",
-        "https://openalex.org/W560158229",
-        "https://openalex.org/W560220492",
-        "https://openalex.org/W992825632",
-        "https://openalex.org/W1109724386",
-        "https://openalex.org/W1529976899",
-        "https://openalex.org/W1918548024",
-        "https://openalex.org/W1974997190",
-        "https://openalex.org/W1975115126",
-        "https://openalex.org/W1981546302",
-        "https://openalex.org/W1985539925",
-        "https://openalex.org/W1994549531",
-        "https://openalex.org/W1994904957",
-        "https://openalex.org/W2006145982",
-        "https://openalex.org/W2021627647",
-        "https://openalex.org/W2029068730",
-        "https://openalex.org/W2035986698",
-        "https://openalex.org/W2054672455",
-        "https://openalex.org/W2057310142",
-        "https://openalex.org/W2060489129",
-        "https://openalex.org/W2065787890",
-        "https://openalex.org/W2079382130",
-        "https://openalex.org/W2082114014",
-        "https://openalex.org/W2084927468",
-        "https://openalex.org/W2085416740",
-        "https://openalex.org/W2088800839",
-        "https://openalex.org/W2095323803",
-        "https://openalex.org/W2097256718",
-        "https://openalex.org/W2107647076",
-        "https://openalex.org/W2111949514",
-        "https://openalex.org/W2116180451",
-        "https://openalex.org/W2127103542",
-        "https://openalex.org/W2149147954",
-        "https://openalex.org/W2151846090",
-        "https://openalex.org/W2196554762",
-        "https://openalex.org/W2253532012",
-        "https://openalex.org/W2265178907",
-        "https://openalex.org/W2283659871",
-        "https://openalex.org/W2288079016",
-        "https://openalex.org/W2326347736",
-        "https://openalex.org/W2340368927",
-        "https://openalex.org/W2520392475",
-        "https://openalex.org/W2594678864",
-        "https://openalex.org/W2596117615",
-        "https://openalex.org/W2600750123",
-        "https://openalex.org/W2724294703",
-        "https://openalex.org/W2745923949",
-        "https://openalex.org/W2746381467",
-        "https://openalex.org/W4206317699",
-        "https://openalex.org/W4237810828",
-        "https://openalex.org/W4247794023",
-        "https://openalex.org/W4385643405",
-        "https://openalex.org/W6910513071",
-        "https://openalex.org/W6993082269",
-        "https://openalex.org/W7044046869",
-        "https://openalex.org/W7064418979"
-      ],
-      "related_works": [
-        "https://openalex.org/W2596117615",
-        "https://openalex.org/W2340368927",
-        "https://openalex.org/W4412879343",
-        "https://openalex.org/W2095323803",
-        "https://openalex.org/W2924029404",
-        "https://openalex.org/W2082114014",
-        "https://openalex.org/W2070291594",
-        "https://openalex.org/W2011887770",
-        "https://openalex.org/W1993672772",
-        "https://openalex.org/W2035986698"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2804652220",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 15
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 13
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-11-16T12:05:36.265796",
-      "created_date": "2018-06-01T00:00:00"
     },
     {
       "id": "https://openalex.org/W1582475895",
@@ -11090,8 +11090,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -11105,8 +11105,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -12033,8 +12033,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -13315,12 +13315,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1367,
+      "fwci": 4.8902,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.97110356,
+        "value": 0.96861626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13599,8 +13599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254468177.pdf",
@@ -14562,8 +14562,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 148,
@@ -15431,8 +15431,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 148,
@@ -16069,8 +16069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 105,
@@ -16758,8 +16758,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 120,
@@ -17882,8 +17882,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -17891,8 +17891,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -18832,12 +18832,12 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 4.3254,
+      "fwci": 4.2685,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.94341538,
+        "value": 0.94287427,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18929,62 +18929,62 @@
         {
           "id": "https://openalex.org/keywords/chalk-reservoirs",
           "display_name": "chalk reservoirs",
-          "score": 0.746999979019165
+          "score": 0.7360000014305115
         },
         {
-          "id": "https://openalex.org/keywords/dual-porosity",
-          "display_name": "dual porosity",
-          "score": 0.7480000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-fossils",
-          "display_name": "trace fossils",
-          "score": 0.8009999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/ichnofabric",
-          "display_name": "ichnofabric",
-          "score": 0.9359999895095825
-        },
-        {
-          "id": "https://openalex.org/keywords/thalassinoides",
-          "display_name": "Thalassinoides",
-          "score": 0.8240000009536743
-        },
-        {
-          "id": "https://openalex.org/keywords/zoophycos",
-          "display_name": "Zoophycos",
-          "score": 0.996999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/chondrites",
-          "display_name": "chondrites",
-          "score": 0.9340000152587891
-        },
-        {
-          "id": "https://openalex.org/keywords/nereites",
-          "display_name": "Nereites",
-          "score": 0.7639999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/taenidium",
-          "display_name": "Taenidium",
-          "score": 0.7879999876022339
+          "id": "https://openalex.org/keywords/dual-porosity-system",
+          "display_name": "dual-porosity system",
+          "score": 0.8360000252723694
         },
         {
           "id": "https://openalex.org/keywords/bioturbation",
           "display_name": "bioturbation",
-          "score": 0.7910000085830688
+          "score": 0.7110000252723694
         },
         {
-          "id": "https://openalex.org/keywords/gullfaks-field",
-          "display_name": "Gullfaks field",
-          "score": 0.996999979019165
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.8550000190734863
+        },
+        {
+          "id": "https://openalex.org/keywords/ichnofabric",
+          "display_name": "ichnofabric",
+          "score": 0.902999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/thalassinoides",
+          "display_name": "Thalassinoides",
+          "score": 0.8149999976158142
+        },
+        {
+          "id": "https://openalex.org/keywords/zoophycos",
+          "display_name": "Zoophycos",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/chondrites",
+          "display_name": "chondrites",
+          "score": 0.9539999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/nereites",
+          "display_name": "Nereites",
+          "score": 0.847000002861023
         },
         {
           "id": "https://openalex.org/keywords/reservoir-quality",
           "display_name": "reservoir quality",
-          "score": 0.7490000128746033
+          "score": 0.6119999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/gullfaks-field",
+          "display_name": "Gullfaks field",
+          "score": 0.9940000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity-distribution",
+          "display_name": "porosity distribution",
+          "score": 0.5070000290870667
         }
       ],
       "concepts": [
@@ -19214,15 +19214,8 @@
           "id": "https://openalex.org/G4105950659",
           "display_name": null,
           "funder_award_id": "CGL2015-66835-P",
-          "funder_id": "https://openalex.org/F4320335254",
-          "funder_display_name": "Horizon 2020"
-        },
-        {
-          "id": "https://openalex.org/G5179869149",
-          "display_name": null,
-          "funder_award_id": "792314",
-          "funder_id": "https://openalex.org/F4320335254",
-          "funder_display_name": "Horizon 2020"
+          "funder_id": "https://openalex.org/F4320332999",
+          "funder_display_name": "Horizon 2020 Framework Programme"
         }
       ],
       "funders": [
@@ -19245,16 +19238,11 @@
           "id": "https://openalex.org/F4320332999",
           "display_name": "Horizon 2020 Framework Programme",
           "ror": "https://ror.org/00k4n6c32"
-        },
-        {
-          "id": "https://openalex.org/F4320335254",
-          "display_name": "Horizon 2020",
-          "ror": null
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -19321,7 +19309,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -19686,8 +19674,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 164,
@@ -20591,8 +20579,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -21990,8 +21978,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -23067,8 +23055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -24073,8 +24061,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207939391.pdf",
@@ -24592,8 +24580,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -25131,8 +25119,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -25605,8 +25593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -26604,8 +26592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -27740,8 +27728,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -28407,8 +28395,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -29593,8 +29581,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -32065,8 +32053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -32777,8 +32765,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -33726,8 +33714,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -34381,8 +34369,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -34912,8 +34900,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -35526,8 +35514,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -36470,8 +36458,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -37202,8 +37190,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -38772,8 +38760,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -39822,8 +39810,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -39831,8 +39819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 135,
@@ -40634,8 +40622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -41224,8 +41212,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4396849210.pdf",
@@ -42202,8 +42190,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -42957,8 +42945,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -43506,8 +43494,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -44016,8 +44004,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -44535,8 +44523,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 112,
@@ -45196,8 +45184,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -45772,8 +45760,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -45862,755 +45850,6 @@
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2792460260",
-      "doi": "https://doi.org/10.1111/let.12272",
-      "title": "The fish swimming trace Undichna unisulca from the Silurian of Sweden: probably the oldest vertebrate locomotion trace fossil",
-      "display_name": "The fish swimming trace Undichna unisulca from the Silurian of Sweden: probably the oldest vertebrate locomotion trace fossil",
-      "alternate_titles": [],
-      "publication_year": 2018,
-      "publication_date": "2018-05-08",
-      "ids": {
-        "openalex": "https://openalex.org/W2792460260",
-        "doi": "https://doi.org/10.1111/let.12272",
-        "mag": "2792460260"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1111/let.12272",
-        "doi": "https://doi.org/10.1111/let.12272",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1111/let.12272",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S162783176",
-          "display_name": "Lethaia",
-          "issn_l": "0024-1164",
-          "issn": [
-            "0024-1164",
-            "1502-3931"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "oarl",
-            "poland-100",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310314085",
-          "host_organization_name": "Scandinavian University Press/Universitetsforlaget",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310314085",
-            "https://openalex.org/P4310314126"
-          ],
-          "host_organization_lineage_names": [
-            "Scandinavian University Press/Universitetsforlaget",
-            "Aschehoug"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Lethaia",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2792460260"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013195813",
-            "display_name": "Dirk Knaust",
-            "orcid": "https://orcid.org/0000-0002-1698-2489",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-1698-2489"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I49324905",
-              "display_name": "Equinor (Norway)",
-              "ror": "https://ror.org/017mte255",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Dirk Knaust",
-          "raw_affiliation_strings": [
-            "Statoil ASA, 4035 Stavanger, Norway;"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Norway;",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5049147454",
-            "display_name": "Nicholas J. Minter",
-            "orcid": "https://orcid.org/0000-0002-4246-8539",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4246-8539"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I63072094",
-              "display_name": "University of Portsmouth",
-              "ror": "https://ror.org/03ykbk197",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63072094"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nicholas J. Minter",
-          "raw_affiliation_strings": [
-            "School of Earth and Environmental Sciences, University of Portsmouth, Portsmouth, Hampshire PO1 3QL, UK;"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Earth and Environmental Sciences, University of Portsmouth, Portsmouth, Hampshire PO1 3QL, UK;",
-              "institution_ids": [
-                "https://openalex.org/I63072094"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
-      "apc_list": {
-        "value": 3300,
-        "currency": "USD",
-        "value_usd": 3300
-      },
-      "apc_paid": null,
-      "fwci": 0.7035,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 13,
-      "citation_normalized_percentile": {
-        "value": 0.60694367,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "51",
-        "issue": "4",
-        "first_page": "469",
-        "last_page": "472"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10955",
-        "display_name": "Paleontology and Evolutionary Biology",
-        "score": 0.8432999849319458,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10955",
-          "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.8432999849319458,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.14869999885559082,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11354",
-          "display_name": "Evolution and Paleontology Studies",
-          "score": 0.00419999985024333,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/silurian",
-          "display_name": "Silurian",
-          "score": 0.6359999775886536
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-silurian",
-          "display_name": "Upper Silurian",
-          "score": 0.796999990940094
-        },
-        {
-          "id": "https://openalex.org/keywords/ludlow",
-          "display_name": "Ludlow",
-          "score": 0.7770000100135803
-        },
-        {
-          "id": "https://openalex.org/keywords/gotland",
-          "display_name": "Gotland",
-          "score": 0.9819999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/thelodonts",
-          "display_name": "thelodonts",
-          "score": 0.8479999899864197
-        },
-        {
-          "id": "https://openalex.org/keywords/acanthodians",
-          "display_name": "acanthodians",
-          "score": 0.9940000176429749
-        },
-        {
-          "id": "https://openalex.org/keywords/fish-behavior",
-          "display_name": "fish behavior",
-          "score": 0.4009999930858612
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C160937034",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Trace fossil",
-          "level": 2,
-          "score": 0.9246236085891724
-        },
-        {
-          "id": "https://openalex.org/C2778961482",
-          "wikidata": "https://www.wikidata.org/wiki/Q25241",
-          "display_name": "Vertebrate",
-          "level": 3,
-          "score": 0.8637071847915649
-        },
-        {
-          "id": "https://openalex.org/C107832698",
-          "wikidata": "https://www.wikidata.org/wiki/Q65955",
-          "display_name": "Devonian",
-          "level": 2,
-          "score": 0.7954362630844116
-        },
-        {
-          "id": "https://openalex.org/C2909208804",
-          "wikidata": "https://www.wikidata.org/wiki/Q127282",
-          "display_name": "Fish <Actinopterygii>",
-          "level": 2,
-          "score": 0.7620986700057983
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.678922176361084
-        },
-        {
-          "id": "https://openalex.org/C75291252",
-          "wikidata": "https://www.wikidata.org/wiki/Q1315756",
-          "display_name": "TRACE (psycholinguistics)",
-          "level": 2,
-          "score": 0.6494841575622559
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6011308431625366
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.27159571647644043
-        },
-        {
-          "id": "https://openalex.org/C505870484",
-          "wikidata": "https://www.wikidata.org/wiki/Q180538",
-          "display_name": "Fishery",
-          "level": 1,
-          "score": 0.2366974651813507
-        },
-        {
-          "id": "https://openalex.org/C104317684",
-          "wikidata": "https://www.wikidata.org/wiki/Q7187",
-          "display_name": "Gene",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41895202",
-          "wikidata": "https://www.wikidata.org/wiki/Q8162",
-          "display_name": "Linguistics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1111/let.12272",
-          "doi": "https://doi.org/10.1111/let.12272",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1111/let.12272",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S162783176",
-            "display_name": "Lethaia",
-            "issn_l": "0024-1164",
-            "issn": [
-              "0024-1164",
-              "1502-3931"
-            ],
-            "is_oa": false,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "doaj",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "oarl",
-              "poland-100",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310314085",
-            "host_organization_name": "Scandinavian University Press/Universitetsforlaget",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310314085",
-              "https://openalex.org/P4310314126"
-            ],
-            "host_organization_lineage_names": [
-              "Scandinavian University Press/Universitetsforlaget",
-              "Aschehoug"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Lethaia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 31,
-      "referenced_works": [
-        "https://openalex.org/W605867792",
-        "https://openalex.org/W1522554964",
-        "https://openalex.org/W1559257349",
-        "https://openalex.org/W1681265033",
-        "https://openalex.org/W1939798184",
-        "https://openalex.org/W1968883957",
-        "https://openalex.org/W1988378888",
-        "https://openalex.org/W1998639426",
-        "https://openalex.org/W2003615542",
-        "https://openalex.org/W2004007897",
-        "https://openalex.org/W2004108039",
-        "https://openalex.org/W2007039517",
-        "https://openalex.org/W2028536905",
-        "https://openalex.org/W2040059221",
-        "https://openalex.org/W2070140675",
-        "https://openalex.org/W2073726697",
-        "https://openalex.org/W2073827273",
-        "https://openalex.org/W2080900432",
-        "https://openalex.org/W2098169467",
-        "https://openalex.org/W2104545937",
-        "https://openalex.org/W2156349107",
-        "https://openalex.org/W2159358898",
-        "https://openalex.org/W2163815830",
-        "https://openalex.org/W2256226585",
-        "https://openalex.org/W2268265095",
-        "https://openalex.org/W2328507828",
-        "https://openalex.org/W2428209622",
-        "https://openalex.org/W4233911607",
-        "https://openalex.org/W6949571745",
-        "https://openalex.org/W6968230758",
-        "https://openalex.org/W7066141333"
-      ],
-      "related_works": [
-        "https://openalex.org/W2077530998",
-        "https://openalex.org/W3201125694",
-        "https://openalex.org/W1988378888",
-        "https://openalex.org/W2910552908",
-        "https://openalex.org/W2913956264",
-        "https://openalex.org/W2137813462",
-        "https://openalex.org/W35876562",
-        "https://openalex.org/W3141544603",
-        "https://openalex.org/W4221111143",
-        "https://openalex.org/W2059814207"
-      ],
-      "abstract_inverted_index": {
-        "10": [
-          45
-        ],
-        "The": [
-          0
-        ],
-        "fish": [
-          1,
-          51
-        ],
-        "swimming": [
-          2
-        ],
-        "trace": [
-          3,
-          31
-        ],
-        "Undichna": [
-          4
-        ],
-        "unisulca": [
-          5
-        ],
-        "is": [
-          6
-        ],
-        "reported": [
-          7
-        ],
-        "from": [
-          8,
-          13,
-          33,
-          38
-        ],
-        "a": [
-          9,
-          29
-        ],
-        "sandstone": [
-          10
-        ],
-        "block": [
-          11
-        ],
-        "collected": [
-          12
-        ],
-        "the": [
-          14,
-          25,
-          39,
-          55,
-          59,
-          71
-        ],
-        "Upper": [
-          15
-        ],
-        "Silurian": [
-          16
-        ],
-        "(Ludlow)": [
-          17
-        ],
-        "Burgsvik": [
-          18
-        ],
-        "Formation": [
-          19
-        ],
-        "of": [
-          20,
-          28,
-          61
-        ],
-        "Gotland,": [
-          21
-        ],
-        "Sweden.": [
-          22
-        ],
-        "It": [
-          23
-        ],
-        "represents": [
-          24
-        ],
-        "oldest": [
-          26
-        ],
-        "record": [
-          27
-        ],
-        "vertebrate": [
-          30
-        ],
-        "(apart": [
-          32
-        ],
-        "coprolites),": [
-          34
-        ],
-        "predating": [
-          35
-        ],
-        "previous": [
-          36
-        ],
-        "finds": [
-          37
-        ],
-        "Lower": [
-          40
-        ],
-        "Devonian": [
-          41
-        ],
-        "by": [
-          42
-        ],
-        "at": [
-          43
-        ],
-        "least": [
-          44
-        ],
-        "Ma.": [
-          46
-        ],
-        "A": [
-          47
-        ],
-        "thelodont": [
-          48
-        ],
-        "or": [
-          49,
-          64
-        ],
-        "acanthodian": [
-          50
-        ],
-        "may": [
-          52
-        ],
-        "have": [
-          53
-        ],
-        "produced": [
-          54
-        ],
-        "sinusoidal": [
-          56
-        ],
-        "trails": [
-          57
-        ],
-        "with": [
-          58
-        ],
-        "aid": [
-          60
-        ],
-        "their": [
-          62
-        ],
-        "caudal": [
-          63
-        ],
-        "anal": [
-          65
-        ],
-        "fins": [
-          66
-        ],
-        "while": [
-          67
-        ],
-        "browsing": [
-          68
-        ],
-        "slowly": [
-          69
-        ],
-        "over": [
-          70
-        ],
-        "sediment": [
-          72
-        ],
-        "whilst": [
-          73
-        ],
-        "searching": [
-          74
-        ],
-        "for": [
-          75
-        ],
-        "food.": [
-          76
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2792460260",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-17T12:49:18.490984",
-      "created_date": "2018-03-29T00:00:00"
     },
     {
       "id": "https://openalex.org/W2529550218",
@@ -46738,12 +45977,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6398,
+      "fwci": 1.586,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.80160288,
+        "value": 0.79486962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47090,8 +46329,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2529550218.pdf",
@@ -47557,6 +46796,10 @@
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2529550218",
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -47585,8 +46828,757 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-10-14T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2792460260",
+      "doi": "https://doi.org/10.1111/let.12272",
+      "title": "The fish swimming trace Undichna unisulca from the Silurian of Sweden: probably the oldest vertebrate locomotion trace fossil",
+      "display_name": "The fish swimming trace Undichna unisulca from the Silurian of Sweden: probably the oldest vertebrate locomotion trace fossil",
+      "alternate_titles": [],
+      "publication_year": 2018,
+      "publication_date": "2018-05-08",
+      "ids": {
+        "openalex": "https://openalex.org/W2792460260",
+        "doi": "https://doi.org/10.1111/let.12272",
+        "mag": "2792460260"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/let.12272",
+        "doi": "https://doi.org/10.1111/let.12272",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1111/let.12272",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S162783176",
+          "display_name": "Lethaia",
+          "issn_l": "0024-1164",
+          "issn": [
+            "0024-1164",
+            "1502-3931"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "oarl",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310314085",
+          "host_organization_name": "Scandinavian University Press/Universitetsforlaget",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310314085",
+            "https://openalex.org/P4310314126"
+          ],
+          "host_organization_lineage_names": [
+            "Scandinavian University Press/Universitetsforlaget",
+            "Aschehoug"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Lethaia",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2792460260"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013195813",
+            "display_name": "Dirk Knaust",
+            "orcid": "https://orcid.org/0000-0002-1698-2489",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1698-2489"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I49324905",
+              "display_name": "Equinor (Norway)",
+              "ror": "https://ror.org/017mte255",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dirk Knaust",
+          "raw_affiliation_strings": [
+            "Statoil ASA, 4035 Stavanger, Norway;"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Norway;",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5049147454",
+            "display_name": "Nicholas J. Minter",
+            "orcid": "https://orcid.org/0000-0002-4246-8539",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4246-8539"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63072094",
+              "display_name": "University of Portsmouth",
+              "ror": "https://ror.org/03ykbk197",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63072094"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nicholas J. Minter",
+          "raw_affiliation_strings": [
+            "School of Earth and Environmental Sciences, University of Portsmouth, Portsmouth, Hampshire PO1 3QL, UK;"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Environmental Sciences, University of Portsmouth, Portsmouth, Hampshire PO1 3QL, UK;",
+              "institution_ids": [
+                "https://openalex.org/I63072094"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013195813"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I49324905"
+      ],
+      "apc_list": {
+        "value": 3300,
+        "currency": "USD",
+        "value_usd": 3300
+      },
+      "apc_paid": null,
+      "fwci": 0.7035,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.60694367,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "51",
+        "issue": "4",
+        "first_page": "469",
+        "last_page": "472"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10955",
+        "display_name": "Paleontology and Evolutionary Biology",
+        "score": 0.8432999849319458,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.8432999849319458,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.14869999885559082,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.00419999985024333,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/silurian",
+          "display_name": "Silurian",
+          "score": 0.6359999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-silurian",
+          "display_name": "Upper Silurian",
+          "score": 0.796999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/ludlow",
+          "display_name": "Ludlow",
+          "score": 0.7770000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/gotland",
+          "display_name": "Gotland",
+          "score": 0.9819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/thelodonts",
+          "display_name": "thelodonts",
+          "score": 0.8479999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/acanthodians",
+          "display_name": "acanthodians",
+          "score": 0.9940000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/fish-behavior",
+          "display_name": "fish behavior",
+          "score": 0.4009999930858612
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C160937034",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Trace fossil",
+          "level": 2,
+          "score": 0.9246236085891724
+        },
+        {
+          "id": "https://openalex.org/C2778961482",
+          "wikidata": "https://www.wikidata.org/wiki/Q25241",
+          "display_name": "Vertebrate",
+          "level": 3,
+          "score": 0.8637071847915649
+        },
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.7954362630844116
+        },
+        {
+          "id": "https://openalex.org/C2909208804",
+          "wikidata": "https://www.wikidata.org/wiki/Q127282",
+          "display_name": "Fish <Actinopterygii>",
+          "level": 2,
+          "score": 0.7620986700057983
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.678922176361084
+        },
+        {
+          "id": "https://openalex.org/C75291252",
+          "wikidata": "https://www.wikidata.org/wiki/Q1315756",
+          "display_name": "TRACE (psycholinguistics)",
+          "level": 2,
+          "score": 0.6494841575622559
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6011308431625366
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.27159571647644043
+        },
+        {
+          "id": "https://openalex.org/C505870484",
+          "wikidata": "https://www.wikidata.org/wiki/Q180538",
+          "display_name": "Fishery",
+          "level": 1,
+          "score": 0.2366974651813507
+        },
+        {
+          "id": "https://openalex.org/C104317684",
+          "wikidata": "https://www.wikidata.org/wiki/Q7187",
+          "display_name": "Gene",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1111/let.12272",
+          "doi": "https://doi.org/10.1111/let.12272",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1111/let.12272",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S162783176",
+            "display_name": "Lethaia",
+            "issn_l": "0024-1164",
+            "issn": [
+              "0024-1164",
+              "1502-3931"
+            ],
+            "is_oa": false,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "doaj",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "oarl",
+              "poland-100",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310314085",
+            "host_organization_name": "Scandinavian University Press/Universitetsforlaget",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310314085",
+              "https://openalex.org/P4310314126"
+            ],
+            "host_organization_lineage_names": [
+              "Scandinavian University Press/Universitetsforlaget",
+              "Aschehoug"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Lethaia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 31,
+      "referenced_works": [
+        "https://openalex.org/W605867792",
+        "https://openalex.org/W1522554964",
+        "https://openalex.org/W1559257349",
+        "https://openalex.org/W1681265033",
+        "https://openalex.org/W1939798184",
+        "https://openalex.org/W1968883957",
+        "https://openalex.org/W1988378888",
+        "https://openalex.org/W1998639426",
+        "https://openalex.org/W2003615542",
+        "https://openalex.org/W2004007897",
+        "https://openalex.org/W2004108039",
+        "https://openalex.org/W2007039517",
+        "https://openalex.org/W2028536905",
+        "https://openalex.org/W2040059221",
+        "https://openalex.org/W2070140675",
+        "https://openalex.org/W2073726697",
+        "https://openalex.org/W2073827273",
+        "https://openalex.org/W2080900432",
+        "https://openalex.org/W2098169467",
+        "https://openalex.org/W2104545937",
+        "https://openalex.org/W2156349107",
+        "https://openalex.org/W2159358898",
+        "https://openalex.org/W2163815830",
+        "https://openalex.org/W2256226585",
+        "https://openalex.org/W2268265095",
+        "https://openalex.org/W2328507828",
+        "https://openalex.org/W2428209622",
+        "https://openalex.org/W4233911607",
+        "https://openalex.org/W6949571745",
+        "https://openalex.org/W6968230758",
+        "https://openalex.org/W7066141333"
+      ],
+      "related_works": [
+        "https://openalex.org/W2077530998",
+        "https://openalex.org/W3201125694",
+        "https://openalex.org/W1988378888",
+        "https://openalex.org/W2910552908",
+        "https://openalex.org/W2913956264",
+        "https://openalex.org/W2137813462",
+        "https://openalex.org/W35876562",
+        "https://openalex.org/W3141544603",
+        "https://openalex.org/W4221111143",
+        "https://openalex.org/W2059814207"
+      ],
+      "abstract_inverted_index": {
+        "10": [
+          45
+        ],
+        "The": [
+          0
+        ],
+        "fish": [
+          1,
+          51
+        ],
+        "swimming": [
+          2
+        ],
+        "trace": [
+          3,
+          31
+        ],
+        "Undichna": [
+          4
+        ],
+        "unisulca": [
+          5
+        ],
+        "is": [
+          6
+        ],
+        "reported": [
+          7
+        ],
+        "from": [
+          8,
+          13,
+          33,
+          38
+        ],
+        "a": [
+          9,
+          29
+        ],
+        "sandstone": [
+          10
+        ],
+        "block": [
+          11
+        ],
+        "collected": [
+          12
+        ],
+        "the": [
+          14,
+          25,
+          39,
+          55,
+          59,
+          71
+        ],
+        "Upper": [
+          15
+        ],
+        "Silurian": [
+          16
+        ],
+        "(Ludlow)": [
+          17
+        ],
+        "Burgsvik": [
+          18
+        ],
+        "Formation": [
+          19
+        ],
+        "of": [
+          20,
+          28,
+          61
+        ],
+        "Gotland,": [
+          21
+        ],
+        "Sweden.": [
+          22
+        ],
+        "It": [
+          23
+        ],
+        "represents": [
+          24
+        ],
+        "oldest": [
+          26
+        ],
+        "record": [
+          27
+        ],
+        "vertebrate": [
+          30
+        ],
+        "(apart": [
+          32
+        ],
+        "coprolites),": [
+          34
+        ],
+        "predating": [
+          35
+        ],
+        "previous": [
+          36
+        ],
+        "finds": [
+          37
+        ],
+        "Lower": [
+          40
+        ],
+        "Devonian": [
+          41
+        ],
+        "by": [
+          42
+        ],
+        "at": [
+          43
+        ],
+        "least": [
+          44
+        ],
+        "Ma.": [
+          46
+        ],
+        "A": [
+          47
+        ],
+        "thelodont": [
+          48
+        ],
+        "or": [
+          49,
+          64
+        ],
+        "acanthodian": [
+          50
+        ],
+        "may": [
+          52
+        ],
+        "have": [
+          53
+        ],
+        "produced": [
+          54
+        ],
+        "sinusoidal": [
+          56
+        ],
+        "trails": [
+          57
+        ],
+        "with": [
+          58
+        ],
+        "aid": [
+          60
+        ],
+        "their": [
+          62
+        ],
+        "caudal": [
+          63
+        ],
+        "anal": [
+          65
+        ],
+        "fins": [
+          66
+        ],
+        "while": [
+          67
+        ],
+        "browsing": [
+          68
+        ],
+        "slowly": [
+          69
+        ],
+        "over": [
+          70
+        ],
+        "sediment": [
+          72
+        ],
+        "whilst": [
+          73
+        ],
+        "searching": [
+          74
+        ],
+        "for": [
+          75
+        ],
+        "food.": [
+          76
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2792460260",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2018-03-29T00:00:00"
     },
     {
       "id": "https://openalex.org/W2556378784",
@@ -48285,8 +48277,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -48877,7 +48869,7 @@
         "doi": "https://doi.org/10.1016/j.palaeo.2021.110249",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.palaeo.2021.110249",
-        "pdf_url": null,
+        "pdf_url": "https://doi.org/10.1016/j.palaeo.2021.110249",
         "source": {
           "id": "https://openalex.org/S159210951",
           "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
@@ -49240,12 +49232,12 @@
         "currency": "USD",
         "value_usd": 2900
       },
-      "fwci": 1.1428,
+      "fwci": 1.1408,
       "is_authors_truncated": false,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.70150091,
+        "value": 0.70096869,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49444,7 +49436,7 @@
           "doi": "https://doi.org/10.1016/j.palaeo.2021.110249",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.palaeo.2021.110249",
-          "pdf_url": null,
+          "pdf_url": "https://doi.org/10.1016/j.palaeo.2021.110249",
           "source": {
             "id": "https://openalex.org/S159210951",
             "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
@@ -49519,7 +49511,7 @@
         "doi": "https://doi.org/10.1016/j.palaeo.2021.110249",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.palaeo.2021.110249",
-        "pdf_url": null,
+        "pdf_url": "https://doi.org/10.1016/j.palaeo.2021.110249",
         "source": {
           "id": "https://openalex.org/S159210951",
           "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
@@ -49661,10 +49653,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": true,
+        "pdf": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W3124968926.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W3124968926.grobid-xml"
+      },
       "referenced_works_count": 72,
       "referenced_works": [
         "https://openalex.org/W54684243",
@@ -50277,7 +50272,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2021-02-01T00:00:00"
     },
     {
@@ -50605,8 +50600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51244,8 +51239,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3213121632.pdf",
@@ -52257,8 +52252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -53138,8 +53133,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 166,
@@ -53809,8 +53804,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -54521,8 +54516,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -55056,8 +55051,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -55301,12 +55296,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3278,
+      "fwci": 1.3007,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.77025633,
+        "value": 0.76543611,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55628,8 +55623,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -56721,8 +56716,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 452,
@@ -57696,8 +57691,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -58382,8 +58377,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4380204157.pdf",
@@ -59370,8 +59365,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -59927,8 +59922,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -60477,8 +60472,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -61576,8 +61571,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -62137,8 +62132,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1
         }
       ],
@@ -62146,8 +62141,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -63009,8 +63004,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -63922,8 +63917,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -64826,8 +64821,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -65844,8 +65839,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -66335,8 +66330,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -66857,8 +66852,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -67738,8 +67733,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -68863,8 +68858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -69768,8 +69763,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -70597,8 +70592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -71125,8 +71120,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -72196,8 +72191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -72755,8 +72750,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7160068141.pdf",
@@ -73826,8 +73821,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -74122,885 +74117,6 @@
       ],
       "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2017-01-13T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1994366834",
-      "doi": "https://doi.org/10.3997/2214-4609.20144063",
-      "title": "Importance of Trace Fossils and Bioturbation in Carbonate Reservoir Characterization and Reservoir Quality: Examples from the Khuff Formation",
-      "display_name": "Importance of Trace Fossils and Bioturbation in Carbonate Reservoir Characterization and Reservoir Quality: Examples from the Khuff Formation",
-      "alternate_titles": [],
-      "publication_year": 2011,
-      "publication_date": "2011-11-28",
-      "ids": {
-        "openalex": "https://openalex.org/W1994366834",
-        "doi": "https://doi.org/10.3997/2214-4609.20144063",
-        "mag": "1994366834"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609.20144063",
-        "doi": "https://doi.org/10.3997/2214-4609.20144063",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609.20144063",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4220650854",
-          "display_name": "Proceedings",
-          "issn_l": "2214-4609",
-          "issn": [
-            "2214-4609"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Proceedings",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W1994366834"
-      ],
-      "child_works_count": 0,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013195813",
-            "display_name": "Dirk Knaust",
-            "orcid": "https://orcid.org/0000-0002-1698-2489",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-1698-2489"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I49324905",
-              "display_name": "Equinor (Norway)",
-              "ror": "https://ror.org/017mte255",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Dirk Knaust",
-          "raw_affiliation_strings": [
-            "Statoil;"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Statoil;",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.8676999807357788,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.8676999807357788,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.10170000046491623,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.02199999988079071,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/trace-fossils",
-          "display_name": "trace fossils",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/ichnology",
-          "display_name": "ichnology",
-          "score": 0.9290000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "bioturbation",
-          "score": 0.9919999837875366
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-reservoir-characterization",
-          "display_name": "carbonate reservoir characterization",
-          "score": 0.9399999976158142
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-quality",
-          "display_name": "reservoir quality",
-          "score": 0.9850000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/khuff-formation",
-          "display_name": "Khuff Formation",
-          "score": 0.9309999942779541
-        },
-        {
-          "id": "https://openalex.org/keywords/ichnocoenoses",
-          "display_name": "ichnocoenoses",
-          "score": 0.7509999871253967
-        },
-        {
-          "id": "https://openalex.org/keywords/ichnofabric",
-          "display_name": "ichnofabric",
-          "score": 0.9419999718666077
-        },
-        {
-          "id": "https://openalex.org/keywords/facies-interpretation",
-          "display_name": "facies interpretation",
-          "score": 0.7929999828338623
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "sequence stratigraphy",
-          "score": 0.8140000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-boundaries",
-          "display_name": "sequence boundaries",
-          "score": 0.6200000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/flooding-surfaces",
-          "display_name": "flooding surfaces",
-          "score": 0.9850000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "sabkha",
-          "score": 0.8410000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/tidal-flats",
-          "display_name": "tidal flats",
-          "score": 0.7829999923706055
-        },
-        {
-          "id": "https://openalex.org/keywords/lagoons",
-          "display_name": "lagoons",
-          "score": 0.5830000042915344
-        },
-        {
-          "id": "https://openalex.org/keywords/relative-sea-level",
-          "display_name": "relative sea level",
-          "score": 0.5809999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/guadalupian",
-          "display_name": "Middle Permian",
-          "score": 0.6499999761581421
-        },
-        {
-          "id": "https://openalex.org/keywords/early-triassic",
-          "display_name": "Early Triassic",
-          "score": 0.9520000219345093
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.870884895324707
-        },
-        {
-          "id": "https://openalex.org/C160937034",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Trace fossil",
-          "level": 2,
-          "score": 0.8608983159065247
-        },
-        {
-          "id": "https://openalex.org/C153018869",
-          "wikidata": "https://www.wikidata.org/wiki/Q864907",
-          "display_name": "Bioturbation",
-          "level": 3,
-          "score": 0.8489991426467896
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.8378745317459106
-        },
-        {
-          "id": "https://openalex.org/C186847809",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Ichnology",
-          "level": 3,
-          "score": 0.6831077933311462
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.6430841684341431
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6191856861114502
-        },
-        {
-          "id": "https://openalex.org/C179158327",
-          "wikidata": "https://www.wikidata.org/wiki/Q52151",
-          "display_name": "Palaeogeography",
-          "level": 4,
-          "score": 0.5737723708152771
-        },
-        {
-          "id": "https://openalex.org/C186660238",
-          "wikidata": "https://www.wikidata.org/wiki/Q637600",
-          "display_name": "Sabkha",
-          "level": 4,
-          "score": 0.5639896392822266
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.46533575654029846
-        },
-        {
-          "id": "https://openalex.org/C2778609275",
-          "wikidata": "https://www.wikidata.org/wiki/Q691831",
-          "display_name": "Carbonate platform",
-          "level": 4,
-          "score": 0.45880165696144104
-        },
-        {
-          "id": "https://openalex.org/C104873425",
-          "wikidata": "https://www.wikidata.org/wiki/Q205768",
-          "display_name": "Sedimentology",
-          "level": 2,
-          "score": 0.42180949449539185
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.41995853185653687
-        },
-        {
-          "id": "https://openalex.org/C14641988",
-          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
-          "display_name": "Reservoir modeling",
-          "level": 2,
-          "score": 0.4178130626678467
-        },
-        {
-          "id": "https://openalex.org/C2816523",
-          "wikidata": "https://www.wikidata.org/wiki/Q180184",
-          "display_name": "Sediment",
-          "level": 2,
-          "score": 0.1477990746498108
-        },
-        {
-          "id": "https://openalex.org/C6363049",
-          "wikidata": "https://www.wikidata.org/wiki/Q505748",
-          "display_name": "Volcanism",
-          "level": 3,
-          "score": 0.09570381045341492
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.0925789475440979
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609.20144063",
-          "doi": "https://doi.org/10.3997/2214-4609.20144063",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609.20144063",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4220650854",
-            "display_name": "Proceedings",
-            "issn_l": "2214-4609",
-            "issn": [
-              "2214-4609"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Proceedings",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2982501932",
-        "https://openalex.org/W2312571863",
-        "https://openalex.org/W4385754251",
-        "https://openalex.org/W2245270115",
-        "https://openalex.org/W3046019786",
-        "https://openalex.org/W7018236353",
-        "https://openalex.org/W1990412552",
-        "https://openalex.org/W2001450228",
-        "https://openalex.org/W1530659630"
-      ],
-      "abstract_inverted_index": {
-        "Several": [
-          0
-        ],
-        "aspects": [
-          1
-        ],
-        "of": [
-          2,
-          5,
-          14,
-          17,
-          32,
-          66
-        ],
-        "the": [
-          3,
-          12,
-          19,
-          29,
-          67,
-          76,
-          88,
-          148
-        ],
-        "study": [
-          4
-        ],
-        "trace": [
-          6,
-          33,
-          91
-        ],
-        "fossils": [
-          7,
-          34
-        ],
-        "(ichnology)": [
-          8
-        ],
-        "are": [
-          9,
-          21,
-          115
-        ],
-        "relevant": [
-          10
-        ],
-        "for": [
-          11,
-          47
-        ],
-        "characterization": [
-          13
-        ],
-        "carbonate": [
-          15,
-          64
-        ],
-        "reservoirs,": [
-          16
-        ],
-        "which": [
-          18,
-          55
-        ],
-        "following": [
-          20
-        ],
-        "most": [
-          22
-        ],
-        "important:": [
-          23
-        ],
-        "(1)": [
-          24
-        ],
-        "facies": [
-          25,
-          81
-        ],
-        "interpretation": [
-          26
-        ],
-        "by": [
-          27,
-          40,
-          59
-        ],
-        "utilizing": [
-          28
-        ],
-        "ecological": [
-          30
-        ],
-        "information": [
-          31
-        ],
-        "and": [
-          35,
-          44,
-          49,
-          53,
-          94,
-          106,
-          117,
-          131,
-          146
-        ],
-        "ichnocoenoses;": [
-          36
-        ],
-        "(2)": [
-          37
-        ],
-        "reservoir": [
-          38,
-          51
-        ],
-        "zonation": [
-          39
-        ],
-        "identifying": [
-          41
-        ],
-        "sequence": [
-          42,
-          149
-        ],
-        "boundaries": [
-          43
-        ],
-        "flooding": [
-          45
-        ],
-        "surfaces": [
-          46
-        ],
-        "correlation;": [
-          48
-        ],
-        "(3)": [
-          50
-        ],
-        "quality": [
-          52
-        ],
-        "connectivity,": [
-          54
-        ],
-        "is": [
-          56
-        ],
-        "directly": [
-          57
-        ],
-        "affected": [
-          58
-        ],
-        "bioturbation.": [
-          60
-        ],
-        "The": [
-          61
-        ],
-        "vast": [
-          62
-        ],
-        "shallow-marine": [
-          63
-        ],
-        "platform": [
-          65,
-          105,
-          125
-        ],
-        "Middle": [
-          68,
-          77
-        ],
-        "Permian": [
-          69
-        ],
-        "to": [
-          70,
-          112
-        ],
-        "Lower": [
-          71
-        ],
-        "Triassic": [
-          72
-        ],
-        "Khuff": [
-          73
-        ],
-        "Formation": [
-          74
-        ],
-        "in": [
-          75,
-          87,
-          96,
-          102,
-          107,
-          138
-        ],
-        "East": [
-          78
-        ],
-        "comprises": [
-          79
-        ],
-        "broad": [
-          80
-        ],
-        "belts": [
-          82
-        ],
-        "with": [
-          83,
-          98
-        ],
-        "little": [
-          84
-        ],
-        "significant": [
-          85
-        ],
-        "changes": [
-          86,
-          137
-        ],
-        "lithofacies.": [
-          89
-        ],
-        "However,": [
-          90
-        ],
-        "fossil": [
-          92
-        ],
-        "assemblages": [
-          93
-        ],
-        "ichnofabrics,": [
-          95
-        ],
-        "combination": [
-          97
-        ],
-        "sedimentological": [
-          99
-        ],
-        "observations,": [
-          100
-        ],
-        "serve": [
-          101
-        ],
-        "subdividing": [
-          103
-        ],
-        "this": [
-          104,
-          135
-        ],
-        "distinguishing": [
-          108
-        ],
-        "sub-environments.": [
-          109
-        ],
-        "From": [
-          110
-        ],
-        "proximal": [
-          111
-        ],
-        "distal,": [
-          113
-        ],
-        "these": [
-          114
-        ],
-        "sabkha": [
-          116
-        ],
-        "salina,": [
-          118
-        ],
-        "tidal": [
-          119
-        ],
-        "flat,": [
-          120
-        ],
-        "restricted": [
-          121
-        ],
-        "lagoon,": [
-          122,
-          124
-        ],
-        "open": [
-          123
-        ],
-        "margin,": [
-          126
-        ],
-        "shoreface/inner": [
-          127
-        ],
-        "ramp,": [
-          128
-        ],
-        "slope/outer": [
-          129
-        ],
-        "ramp": [
-          130
-        ],
-        "basin/deeper": [
-          132
-        ],
-        "intra-shelf.": [
-          133
-        ],
-        "In": [
-          134
-        ],
-        "way,": [
-          136
-        ],
-        "relative": [
-          139
-        ],
-        "sea": [
-          140
-        ],
-        "level": [
-          141
-        ],
-        "can": [
-          142
-        ],
-        "be": [
-          143
-        ],
-        "better": [
-          144
-        ],
-        "reconstructed": [
-          145
-        ],
-        "guide": [
-          147
-        ],
-        "stratigraphic": [
-          150
-        ],
-        "interpretation.": [
-          151
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1994366834",
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-14T11:04:58.165337",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2621978939",
@@ -75363,8 +74479,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -75858,8 +74974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -76234,8 +75350,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76634,8 +75750,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -77156,8 +76272,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -77165,8 +76281,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -77947,8 +77063,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -78025,6 +77141,885 @@
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2022-03-05T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1994366834",
+      "doi": "https://doi.org/10.3997/2214-4609.20144063",
+      "title": "Importance of Trace Fossils and Bioturbation in Carbonate Reservoir Characterization and Reservoir Quality: Examples from the Khuff Formation",
+      "display_name": "Importance of Trace Fossils and Bioturbation in Carbonate Reservoir Characterization and Reservoir Quality: Examples from the Khuff Formation",
+      "alternate_titles": [],
+      "publication_year": 2011,
+      "publication_date": "2011-11-28",
+      "ids": {
+        "openalex": "https://openalex.org/W1994366834",
+        "doi": "https://doi.org/10.3997/2214-4609.20144063",
+        "mag": "1994366834"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609.20144063",
+        "doi": "https://doi.org/10.3997/2214-4609.20144063",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609.20144063",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4220650854",
+          "display_name": "Proceedings",
+          "issn_l": "2214-4609",
+          "issn": [
+            "2214-4609"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1994366834"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013195813",
+            "display_name": "Dirk Knaust",
+            "orcid": "https://orcid.org/0000-0002-1698-2489",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1698-2489"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I49324905",
+              "display_name": "Equinor (Norway)",
+              "ror": "https://ror.org/017mte255",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dirk Knaust",
+          "raw_affiliation_strings": [
+            "Statoil;"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Statoil;",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013195813"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I49324905"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 92
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.8676999807357788,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.8676999807357788,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.10170000046491623,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.02199999988079071,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/ichnology",
+          "display_name": "ichnology",
+          "score": 0.9290000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "bioturbation",
+          "score": 0.9919999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-reservoir-characterization",
+          "display_name": "carbonate reservoir characterization",
+          "score": 0.9399999976158142
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.9850000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/khuff-formation",
+          "display_name": "Khuff Formation",
+          "score": 0.9309999942779541
+        },
+        {
+          "id": "https://openalex.org/keywords/ichnocoenoses",
+          "display_name": "ichnocoenoses",
+          "score": 0.7509999871253967
+        },
+        {
+          "id": "https://openalex.org/keywords/ichnofabric",
+          "display_name": "ichnofabric",
+          "score": 0.9419999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/facies-interpretation",
+          "display_name": "facies interpretation",
+          "score": 0.7929999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.8140000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-boundaries",
+          "display_name": "sequence boundaries",
+          "score": 0.6200000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/flooding-surfaces",
+          "display_name": "flooding surfaces",
+          "score": 0.9850000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/sabkha",
+          "display_name": "sabkha",
+          "score": 0.8410000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/tidal-flats",
+          "display_name": "tidal flats",
+          "score": 0.7829999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/lagoons",
+          "display_name": "lagoons",
+          "score": 0.5830000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/relative-sea-level",
+          "display_name": "relative sea level",
+          "score": 0.5809999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/guadalupian",
+          "display_name": "Middle Permian",
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/early-triassic",
+          "display_name": "Early Triassic",
+          "score": 0.9520000219345093
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.870884895324707
+        },
+        {
+          "id": "https://openalex.org/C160937034",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Trace fossil",
+          "level": 2,
+          "score": 0.8608983159065247
+        },
+        {
+          "id": "https://openalex.org/C153018869",
+          "wikidata": "https://www.wikidata.org/wiki/Q864907",
+          "display_name": "Bioturbation",
+          "level": 3,
+          "score": 0.8489991426467896
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.8378745317459106
+        },
+        {
+          "id": "https://openalex.org/C186847809",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Ichnology",
+          "level": 3,
+          "score": 0.6831077933311462
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.6430841684341431
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6191856861114502
+        },
+        {
+          "id": "https://openalex.org/C179158327",
+          "wikidata": "https://www.wikidata.org/wiki/Q52151",
+          "display_name": "Palaeogeography",
+          "level": 4,
+          "score": 0.5737723708152771
+        },
+        {
+          "id": "https://openalex.org/C186660238",
+          "wikidata": "https://www.wikidata.org/wiki/Q637600",
+          "display_name": "Sabkha",
+          "level": 4,
+          "score": 0.5639896392822266
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.46533575654029846
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.45880165696144104
+        },
+        {
+          "id": "https://openalex.org/C104873425",
+          "wikidata": "https://www.wikidata.org/wiki/Q205768",
+          "display_name": "Sedimentology",
+          "level": 2,
+          "score": 0.42180949449539185
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.41995853185653687
+        },
+        {
+          "id": "https://openalex.org/C14641988",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Reservoir modeling",
+          "level": 2,
+          "score": 0.4178130626678467
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.1477990746498108
+        },
+        {
+          "id": "https://openalex.org/C6363049",
+          "wikidata": "https://www.wikidata.org/wiki/Q505748",
+          "display_name": "Volcanism",
+          "level": 3,
+          "score": 0.09570381045341492
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.0925789475440979
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609.20144063",
+          "doi": "https://doi.org/10.3997/2214-4609.20144063",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609.20144063",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4220650854",
+            "display_name": "Proceedings",
+            "issn_l": "2214-4609",
+            "issn": [
+              "2214-4609"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2982501932",
+        "https://openalex.org/W2312571863",
+        "https://openalex.org/W4385754251",
+        "https://openalex.org/W2245270115",
+        "https://openalex.org/W3046019786",
+        "https://openalex.org/W7018236353",
+        "https://openalex.org/W1990412552",
+        "https://openalex.org/W2001450228",
+        "https://openalex.org/W1530659630"
+      ],
+      "abstract_inverted_index": {
+        "Several": [
+          0
+        ],
+        "aspects": [
+          1
+        ],
+        "of": [
+          2,
+          5,
+          14,
+          17,
+          32,
+          66
+        ],
+        "the": [
+          3,
+          12,
+          19,
+          29,
+          67,
+          76,
+          88,
+          148
+        ],
+        "study": [
+          4
+        ],
+        "trace": [
+          6,
+          33,
+          91
+        ],
+        "fossils": [
+          7,
+          34
+        ],
+        "(ichnology)": [
+          8
+        ],
+        "are": [
+          9,
+          21,
+          115
+        ],
+        "relevant": [
+          10
+        ],
+        "for": [
+          11,
+          47
+        ],
+        "characterization": [
+          13
+        ],
+        "carbonate": [
+          15,
+          64
+        ],
+        "reservoirs,": [
+          16
+        ],
+        "which": [
+          18,
+          55
+        ],
+        "following": [
+          20
+        ],
+        "most": [
+          22
+        ],
+        "important:": [
+          23
+        ],
+        "(1)": [
+          24
+        ],
+        "facies": [
+          25,
+          81
+        ],
+        "interpretation": [
+          26
+        ],
+        "by": [
+          27,
+          40,
+          59
+        ],
+        "utilizing": [
+          28
+        ],
+        "ecological": [
+          30
+        ],
+        "information": [
+          31
+        ],
+        "and": [
+          35,
+          44,
+          49,
+          53,
+          94,
+          106,
+          117,
+          131,
+          146
+        ],
+        "ichnocoenoses;": [
+          36
+        ],
+        "(2)": [
+          37
+        ],
+        "reservoir": [
+          38,
+          51
+        ],
+        "zonation": [
+          39
+        ],
+        "identifying": [
+          41
+        ],
+        "sequence": [
+          42,
+          149
+        ],
+        "boundaries": [
+          43
+        ],
+        "flooding": [
+          45
+        ],
+        "surfaces": [
+          46
+        ],
+        "correlation;": [
+          48
+        ],
+        "(3)": [
+          50
+        ],
+        "quality": [
+          52
+        ],
+        "connectivity,": [
+          54
+        ],
+        "is": [
+          56
+        ],
+        "directly": [
+          57
+        ],
+        "affected": [
+          58
+        ],
+        "bioturbation.": [
+          60
+        ],
+        "The": [
+          61
+        ],
+        "vast": [
+          62
+        ],
+        "shallow-marine": [
+          63
+        ],
+        "platform": [
+          65,
+          105,
+          125
+        ],
+        "Middle": [
+          68,
+          77
+        ],
+        "Permian": [
+          69
+        ],
+        "to": [
+          70,
+          112
+        ],
+        "Lower": [
+          71
+        ],
+        "Triassic": [
+          72
+        ],
+        "Khuff": [
+          73
+        ],
+        "Formation": [
+          74
+        ],
+        "in": [
+          75,
+          87,
+          96,
+          102,
+          107,
+          138
+        ],
+        "East": [
+          78
+        ],
+        "comprises": [
+          79
+        ],
+        "broad": [
+          80
+        ],
+        "belts": [
+          82
+        ],
+        "with": [
+          83,
+          98
+        ],
+        "little": [
+          84
+        ],
+        "significant": [
+          85
+        ],
+        "changes": [
+          86,
+          137
+        ],
+        "lithofacies.": [
+          89
+        ],
+        "However,": [
+          90
+        ],
+        "fossil": [
+          92
+        ],
+        "assemblages": [
+          93
+        ],
+        "ichnofabrics,": [
+          95
+        ],
+        "combination": [
+          97
+        ],
+        "sedimentological": [
+          99
+        ],
+        "observations,": [
+          100
+        ],
+        "serve": [
+          101
+        ],
+        "subdividing": [
+          103
+        ],
+        "this": [
+          104,
+          135
+        ],
+        "distinguishing": [
+          108
+        ],
+        "sub-environments.": [
+          109
+        ],
+        "From": [
+          110
+        ],
+        "proximal": [
+          111
+        ],
+        "distal,": [
+          113
+        ],
+        "these": [
+          114
+        ],
+        "sabkha": [
+          116
+        ],
+        "salina,": [
+          118
+        ],
+        "tidal": [
+          119
+        ],
+        "flat,": [
+          120
+        ],
+        "restricted": [
+          121
+        ],
+        "lagoon,": [
+          122,
+          124
+        ],
+        "open": [
+          123
+        ],
+        "margin,": [
+          126
+        ],
+        "shoreface/inner": [
+          127
+        ],
+        "ramp,": [
+          128
+        ],
+        "slope/outer": [
+          129
+        ],
+        "ramp": [
+          130
+        ],
+        "basin/deeper": [
+          132
+        ],
+        "intra-shelf.": [
+          133
+        ],
+        "In": [
+          134
+        ],
+        "way,": [
+          136
+        ],
+        "relative": [
+          139
+        ],
+        "sea": [
+          140
+        ],
+        "level": [
+          141
+        ],
+        "can": [
+          142
+        ],
+        "be": [
+          143
+        ],
+        "better": [
+          144
+        ],
+        "reconstructed": [
+          145
+        ],
+        "guide": [
+          147
+        ],
+        "stratigraphic": [
+          150
+        ],
+        "interpretation.": [
+          151
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1994366834",
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W4283360911",
@@ -78440,8 +78435,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79767,8 +79762,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -81423,8 +81418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4380270079.pdf",
@@ -82697,8 +82692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -83774,8 +83769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -84230,8 +84225,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84649,8 +84644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -85080,8 +85075,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -85374,8 +85369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -85590,8 +85585,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86081,8 +86076,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4280617832.pdf",
@@ -86843,8 +86838,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88112,8 +88107,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88659,8 +88654,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89382,8 +89377,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -89980,8 +89975,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4412684415.pdf",
@@ -90866,8 +90861,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91377,8 +91372,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7778000235557556
         }
       ],
@@ -91386,8 +91381,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7221506506.pdf",

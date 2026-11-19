@@ -1815,12 +1815,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.9401,
+      "fwci": 5.0524,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 114,
       "citation_normalized_percentile": {
-        "value": 0.93229167,
+        "value": 0.93414211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6794,12 +6794,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.5044,
+      "fwci": 8.1313,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.97721496,
+        "value": 0.97610662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8639,12 +8639,12 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 4.3095,
+      "fwci": 4.1376,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.93389158,
+        "value": 0.93115809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9999,12 +9999,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6507,
+      "fwci": 3.5855,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.92461085,
+        "value": 0.92360397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13636,8 +13636,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1
         }
       ],
@@ -19508,12 +19508,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4018,
+      "fwci": 3.4586,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.88973966,
+        "value": 0.89193303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20102,12 +20102,12 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 2.6174,
+      "fwci": 2.5725,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.87821584,
+        "value": 0.87627899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22263,8 +22263,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428
         }
       ],
@@ -22679,12 +22679,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6804,
+      "fwci": 0.6505,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.73211692,
+        "value": 0.72079962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27629,12 +27629,12 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.3507,
+      "fwci": 1.3322,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.753099,
+        "value": 0.7493743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28562,12 +28562,12 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 0.636,
+      "fwci": 0.6232,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.64184864,
+        "value": 0.63486107,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31570,12 +31570,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6292,
+      "fwci": 0.6118,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.66923635,
+        "value": 0.65986204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

@@ -12668,9 +12668,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8485000133514404,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8485000133514404
         }
       ],
       "study_designs": [],
@@ -15983,7 +15983,7 @@
         "last_page": null
       },
       "is_retracted": false,
-      "is_pulled": false,
+      "is_pulled": true,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -17083,7 +17083,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392578018",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2024-03-09T00:00:00"
     },
     {
@@ -19140,9 +19140,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.9853000044822693
         }
       ],
       "study_designs": [],

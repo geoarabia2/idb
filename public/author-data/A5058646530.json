@@ -5500,12 +5500,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 37.6172,
+      "fwci": 38.1783,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 194,
       "citation_normalized_percentile": {
-        "value": 0.99909991,
+        "value": 0.99910873,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -16959,12 +16959,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6688,
+      "fwci": 3.7914,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.91062562,
+        "value": 0.91304348,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18787,12 +18787,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.0924,
+      "fwci": 10.243,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.97749775,
+        "value": 0.97771836,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24304,12 +24304,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.9274,
+      "fwci": 12.1053,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 56,
       "citation_normalized_percentile": {
-        "value": 0.98379838,
+        "value": 0.98395722,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27154,12 +27154,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.0924,
+      "fwci": 10.243,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.97749775,
+        "value": 0.97771836,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31470,12 +31470,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.6548,
+      "fwci": 5.737,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.93674699,
+        "value": 0.9371345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32329,12 +32329,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3402,
+      "fwci": 0.3253,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.63435004,
+        "value": 0.62189434,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48553,7 +48553,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.5194/egusphere-egu24-4386",
@@ -48587,6 +48587,37 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
+        },
+        {
+          "id": "pmh:oai:ora.ox.ac.uk:uuid:6d6542c6-babd-4107-8932-af44c763b93b",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:6d6542c6-babd-4107-8932-af44c763b93b/files/d3r074v70w",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402636",
+            "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I40120149",
+            "host_organization_name": "University of Oxford",
+            "host_organization_lineage": [
+              "https://openalex.org/I40120149"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Hyrax Deposit",
+          "raw_type": "http://purl.org/coar/resource_type/c_db06"
         },
         {
           "id": "doi:10.5287/ora-zbdzob66v",
@@ -49677,7 +49708,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392599299",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2024-03-09T00:00:00"
     }
   ]

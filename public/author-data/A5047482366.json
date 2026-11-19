@@ -12,7 +12,7 @@
     ],
     "full_name": "Hussain F. Al Ajmi",
     "works_count": 17,
-    "cited_by_count": 137,
+    "cited_by_count": 139,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 6,
@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000138,
+        "value": 0.0000137,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -340,7 +340,7 @@
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       },
       {
         "year": 2019,
@@ -364,7 +364,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 14
+        "cited_by_count": 15
       },
       {
         "year": 2023,
@@ -401,7 +401,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5047482366",
-    "updated_date": "2026-11-16T12:53:42",
+    "updated_date": "2026-11-18T16:17:57",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -935,9 +935,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -2285,9 +2285,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -3369,12 +3369,12 @@
         "value_usd": 2390
       },
       "apc_paid": null,
-      "fwci": 1.7684,
+      "fwci": 1.7677,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 25,
+      "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.83445439,
+        "value": 0.83442152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3795,7 +3795,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2021,
@@ -3811,7 +3811,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2017,
@@ -3834,7 +3834,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4853,12 +4853,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.636,
+      "fwci": 0.6232,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.64184864,
+        "value": 0.63486107,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6494,9 +6494,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],

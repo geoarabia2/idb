@@ -5963,12 +5963,12 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 4.6367,
+      "fwci": 4.4249,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.93914665,
+        "value": 0.93576332,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10158,12 +10158,12 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.9648,
+      "fwci": 0.9516,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.69595857,
+        "value": 0.69120566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14743,12 +14743,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0111,
+      "fwci": 1.0266,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.67857143,
+        "value": 0.68219178,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23028,12 +23028,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9648,
+      "fwci": 0.9516,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.69595857,
+        "value": 0.69120566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27814,8 +27814,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],

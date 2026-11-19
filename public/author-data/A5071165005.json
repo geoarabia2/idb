@@ -11,7 +11,7 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 7,
-    "cited_by_count": 165,
+    "cited_by_count": 166,
     "summary_stats": {
       "2yr_mean_citedness": 5.75,
       "h_index": 5,
@@ -317,7 +317,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 55
+        "cited_by_count": 56
       }
     ],
     "display_name_alternatives": [
@@ -327,7 +327,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5071165005",
-    "updated_date": "2026-11-16T12:53:42",
+    "updated_date": "2026-11-18T16:17:57",
     "created_date": "2020-02-07T00:00:00"
   },
   "works": [
@@ -984,8 +984,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -2773,12 +2773,12 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 4.1039,
+      "fwci": 4.4974,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.94064352,
+        "value": 0.9491654,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4157,10 +4157,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2025-12-12T00:00:00"
     },
     {

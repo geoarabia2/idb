@@ -8814,13 +8814,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
           "display_name": "Life below water"
         },
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.685699999332428,
           "display_name": "Climate action"
         }
       ],
@@ -9451,8 +9451,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -13243,8 +13243,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -16360,8 +16360,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -17763,8 +17763,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -19024,6 +19024,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:hrcak.srce.hr:3686",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://hrcak.srce.hr/3686",
+          "pdf_url": "https://hrcak.srce.hr/file/6117",
+          "source": {
+            "id": "https://openalex.org/S4306400071",
+            "display_name": "University of Zagreb University Computing Centre (SRCE)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I181343428",
+            "host_organization_name": "University of Zagreb",
+            "host_organization_lineage": [
+              "https://openalex.org/I181343428"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geologia Croatica",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
           "id": "pmh:oai:doaj.org/article:5c679785733f4d3cb009312f96ccf639",
           "doi": null,
           "is_oa": true,
@@ -19051,37 +19082,6 @@
           "is_published": false,
           "raw_source_name": "Geologia Croatica, Vol 57, Iss 1, Pp 67-71 (2004)",
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:hrcak.srce.hr:3686",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://hrcak.srce.hr/3686",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400071",
-            "display_name": "University of Zagreb University Computing Centre (SRCE)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I181343428",
-            "host_organization_name": "University of Zagreb",
-            "host_organization_lineage": [
-              "https://openalex.org/I181343428"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Geologia Croatica",
-          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
@@ -19459,7 +19459,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20661,8 +20661,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
           "display_name": "Life below water"
         }
       ],

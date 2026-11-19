@@ -684,12 +684,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.678,
+      "fwci": 1.6315,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.81280609,
+        "value": 0.80760626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5800,12 +5800,12 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.3116,
+      "fwci": 1.2873,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.76647132,
+        "value": 0.76206834,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6182,8 +6182,8 @@
           "ror": "https://ror.org/03yez3163"
         },
         {
-          "id": "https://openalex.org/F4320323960",
-          "display_name": "National Plan for Science,Technology and Innovation",
+          "id": "https://openalex.org/F4320335045",
+          "display_name": "National Plan for Science, Technology and Innovation",
           "ror": "https://ror.org/02f81g417"
         }
       ],
@@ -6254,7 +6254,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2018-10-26T00:00:00"
     },
     {
@@ -7049,12 +7049,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.4365,
+      "fwci": 1.3792,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.81992067,
+        "value": 0.81231618,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8420,12 +8420,12 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.2097,
+      "fwci": 0.2039,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.50671141,
+        "value": 0.49440716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17058,9 +17058,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -21145,9 +21145,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.46149998903274536,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -22719,7 +22719,7 @@
         "last_page": null
       },
       "is_retracted": false,
-      "is_pulled": false,
+      "is_pulled": true,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -23640,7 +23640,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392601053",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2024-03-09T00:00:00"
     },
     {

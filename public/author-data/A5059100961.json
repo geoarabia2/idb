@@ -3439,12 +3439,12 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.6812,
+      "fwci": 1.5699,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.80955367,
+        "value": 0.79588221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4590,13 +4590,13 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.00960176,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 93
+        "min": 86,
+        "max": 92
       },
       "biblio": {
         "volume": null,

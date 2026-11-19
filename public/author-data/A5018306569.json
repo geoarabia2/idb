@@ -14,7 +14,7 @@
     ],
     "full_name": "Mohammad Eid Alsuwaidi",
     "works_count": 49,
-    "cited_by_count": 499,
+    "cited_by_count": 500,
     "summary_stats": {
       "2yr_mean_citedness": 4.357142857142857,
       "h_index": 15,
@@ -200,7 +200,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000692,
+        "value": 0.0000691,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -217,7 +217,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000559,
+        "value": 0.0000558,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -392,7 +392,7 @@
         "year": 2026,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 130
+        "cited_by_count": 131
       }
     ],
     "display_name_alternatives": [
@@ -405,7 +405,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5018306569",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5018306569",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-18T16:17:57",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2215,12 +2215,12 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.5601,
+      "fwci": 3.4941,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.91884212,
+        "value": 0.9172844,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3692,1352 +3692,6 @@
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2021-05-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3037512035",
-      "doi": "https://doi.org/10.1115/1.4047589",
-      "title": "Upscaling Reservoir Rock Porosity by Fractal Dimension Using Three-Dimensional Micro-Computed Tomography and Two-Dimensional Scanning Electron Microscope Images",
-      "display_name": "Upscaling Reservoir Rock Porosity by Fractal Dimension Using Three-Dimensional Micro-Computed Tomography and Two-Dimensional Scanning Electron Microscope Images",
-      "alternate_titles": [],
-      "publication_year": 2020,
-      "publication_date": "2020-06-23",
-      "ids": {
-        "openalex": "https://openalex.org/W3037512035",
-        "doi": "https://doi.org/10.1115/1.4047589",
-        "mag": "3037512035"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1115/1.4047589",
-        "doi": "https://doi.org/10.1115/1.4047589",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1115/1.4047589",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S17843412",
-          "display_name": "Journal of Energy Resources Technology",
-          "issn_l": "0195-0738",
-          "issn": [
-            "0195-0738",
-            "1528-8994"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-b",
-            "jufo-1",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-2",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310316053",
-          "host_organization_name": "ASM International",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316053"
-          ],
-          "host_organization_lineage_names": [
-            "ASM International"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Energy Resources Technology",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W3037512035"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5054302045",
-            "display_name": "Muhammad Jawad Munawar",
-            "orcid": "https://orcid.org/0000-0003-3403-7728",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3403-7728"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I172780181",
-              "display_name": "University of the Punjab",
-              "ror": "https://ror.org/011maz450",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I172780181"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210162190",
-              "display_name": "China University of Petroleum, East China",
-              "ror": "https://ror.org/05gbn2817",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210162190"
-              ]
-            }
-          ],
-          "countries": [
-            "AE",
-            "CN",
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Jawad Munawar",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
-            "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan;",
-            "School of Geosciences, China University of Petroleum, Qingdao 266580, China;"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan;",
-              "institution_ids": [
-                "https://openalex.org/I172780181"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Geosciences, China University of Petroleum, Qingdao 266580, China;",
-              "institution_ids": [
-                "https://openalex.org/I4210162190"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5050715529",
-            "display_name": "Sandra Vega",
-            "orcid": "https://orcid.org/0000-0002-5308-1137",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5308-1137"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I8961855",
-              "display_name": "Universidad Nacional Autónoma de México",
-              "ror": "https://ror.org/01tmp8f25",
-              "country_code": "MX",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I8961855"
-              ]
-            }
-          ],
-          "countries": [
-            "AE",
-            "MX"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sandra Vega",
-          "raw_affiliation_strings": [
-            "Centro de Geociencias, Campus Juriquilla, UNAM, Boulevard Juriquilla 3001, Queretaro, Qro 76230, Mexico;",
-            "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centro de Geociencias, Campus Juriquilla, UNAM, Boulevard Juriquilla 3001, Queretaro, Qro 76230, Mexico;",
-              "institution_ids": [
-                "https://openalex.org/I8961855"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030308886",
-            "display_name": "Chengyan Lin",
-            "orcid": "https://orcid.org/0000-0002-2848-9755",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2848-9755",
-              "https://orcid.org/0000-0002-5291-802X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210162190",
-              "display_name": "China University of Petroleum, East China",
-              "ror": "https://ror.org/05gbn2817",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210162190"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Chengyan Lin",
-          "raw_affiliation_strings": [
-            "School of Geosciences, China University of Petroleum, Qingdao 266580, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geosciences, China University of Petroleum, Qingdao 266580, China",
-              "institution_ids": [
-                "https://openalex.org/I4210162190"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5018306569",
-            "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2477-0654"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5101523737",
-            "display_name": "Naveed Ahsan",
-            "orcid": "https://orcid.org/0000-0002-9468-126X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9468-126X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I172780181",
-              "display_name": "University of the Punjab",
-              "ror": "https://ror.org/011maz450",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I172780181"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Naveed Ahsan",
-          "raw_affiliation_strings": [
-            "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I172780181"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5085353990",
-            "display_name": "Ritesh Ramesh Bhakta",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ritesh Ramesh Bhakta",
-          "raw_affiliation_strings": [
-            "Petroleum Institute, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Petroleum Institute, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.1147,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 28,
-      "citation_normalized_percentile": {
-        "value": 0.71023351,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 93,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "143",
-        "issue": "1",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10491",
-        "display_name": "Enhanced Oil Recovery Techniques",
-        "score": 0.524399995803833,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2103",
-          "display_name": "Fuel Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.524399995803833,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2103",
-            "display_name": "Fuel Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.4609000086784363,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.0017000000225380063,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/fractal-dimension",
-          "display_name": "fractal dimension",
-          "score": 0.9819999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-rocks",
-          "display_name": "carbonate rocks",
-          "score": 0.503000020980835
-        },
-        {
-          "id": "https://openalex.org/keywords/sandstone",
-          "display_name": "sandstone",
-          "score": 0.996999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/pore-size-distribution",
-          "display_name": "pore size distribution",
-          "score": 0.7760000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/pore-radius",
-          "display_name": "pore radius",
-          "score": 0.5220000147819519
-        },
-        {
-          "id": "https://openalex.org/keywords/micro-computed-tomography",
-          "display_name": "micro-computed tomography",
-          "score": 0.5899999737739563
-        },
-        {
-          "id": "https://openalex.org/keywords/scanning-electron-microscopy",
-          "display_name": "scanning electron microscopy",
-          "score": 0.6629999876022339
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-rock-characterization",
-          "display_name": "reservoir rock characterization",
-          "score": 0.5600000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/petrophysical-properties",
-          "display_name": "petrophysical properties",
-          "score": 0.6880000233650208
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C26546657",
-          "wikidata": "https://www.wikidata.org/wiki/Q1412452",
-          "display_name": "Fractal dimension",
-          "level": 3,
-          "score": 0.8294578790664673
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.8116140365600586
-        },
-        {
-          "id": "https://openalex.org/C40636538",
-          "wikidata": "https://www.wikidata.org/wiki/Q81392",
-          "display_name": "Fractal",
-          "level": 2,
-          "score": 0.6678163409233093
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6432005763053894
-        },
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.6105033159255981
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.6069861054420471
-        },
-        {
-          "id": "https://openalex.org/C26771246",
-          "wikidata": "https://www.wikidata.org/wiki/Q321095",
-          "display_name": "Scanning electron microscope",
-          "level": 2,
-          "score": 0.5011394023895264
-        },
-        {
-          "id": "https://openalex.org/C163716698",
-          "wikidata": "https://www.wikidata.org/wiki/Q841267",
-          "display_name": "Tomography",
-          "level": 2,
-          "score": 0.47777092456817627
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.4765768051147461
-        },
-        {
-          "id": "https://openalex.org/C136534824",
-          "wikidata": "https://www.wikidata.org/wiki/Q2771020",
-          "display_name": "Lacunarity",
-          "level": 4,
-          "score": 0.45211848616600037
-        },
-        {
-          "id": "https://openalex.org/C112213829",
-          "wikidata": "https://www.wikidata.org/wiki/Q1942237",
-          "display_name": "Core sample",
-          "level": 3,
-          "score": 0.41773998737335205
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.3776455819606781
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0.3210815191268921
-        },
-        {
-          "id": "https://openalex.org/C2164484",
-          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
-          "display_name": "Core (optical fiber)",
-          "level": 2,
-          "score": 0.20760148763656616
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.20352643728256226
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0.15852347016334534
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.13941365480422974
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.11043581366539001
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.07611879706382751
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1115/1.4047589",
-          "doi": "https://doi.org/10.1115/1.4047589",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1115/1.4047589",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S17843412",
-            "display_name": "Journal of Energy Resources Technology",
-            "issn_l": "0195-0738",
-            "issn": [
-              "0195-0738",
-              "1528-8994"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-b",
-              "jufo-1",
-              "norway-1",
-              "poland-100",
-              "russia-white-list-2",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310316053",
-            "host_organization_name": "ASM International",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316053"
-            ],
-            "host_organization_lineage_names": [
-              "ASM International"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Energy Resources Technology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320321399",
-          "display_name": "Abu Dhabi National Oil Company",
-          "ror": "https://ror.org/010e8pt90"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 45,
-      "referenced_works": [
-        "https://openalex.org/W1495166527",
-        "https://openalex.org/W1848031541",
-        "https://openalex.org/W1912624005",
-        "https://openalex.org/W1985367258",
-        "https://openalex.org/W1991539028",
-        "https://openalex.org/W1993244566",
-        "https://openalex.org/W1993853487",
-        "https://openalex.org/W2000642171",
-        "https://openalex.org/W2006976621",
-        "https://openalex.org/W2015025790",
-        "https://openalex.org/W2019718326",
-        "https://openalex.org/W2021107886",
-        "https://openalex.org/W2033020023",
-        "https://openalex.org/W2040310312",
-        "https://openalex.org/W2044445515",
-        "https://openalex.org/W2045396540",
-        "https://openalex.org/W2049439938",
-        "https://openalex.org/W2050294846",
-        "https://openalex.org/W2056510083",
-        "https://openalex.org/W2056915518",
-        "https://openalex.org/W2068692244",
-        "https://openalex.org/W2071373230",
-        "https://openalex.org/W2076174436",
-        "https://openalex.org/W2077444120",
-        "https://openalex.org/W2078206416",
-        "https://openalex.org/W2080794937",
-        "https://openalex.org/W2085038711",
-        "https://openalex.org/W2094957216",
-        "https://openalex.org/W2119894005",
-        "https://openalex.org/W2190108466",
-        "https://openalex.org/W2500000134",
-        "https://openalex.org/W2552936383",
-        "https://openalex.org/W2766322708",
-        "https://openalex.org/W2767354513",
-        "https://openalex.org/W2769954494",
-        "https://openalex.org/W2776735662",
-        "https://openalex.org/W2783349576",
-        "https://openalex.org/W2790562400",
-        "https://openalex.org/W2794587617",
-        "https://openalex.org/W2912147005",
-        "https://openalex.org/W2922390815",
-        "https://openalex.org/W2944280515",
-        "https://openalex.org/W2964631455",
-        "https://openalex.org/W4240494000",
-        "https://openalex.org/W4247431574"
-      ],
-      "related_works": [
-        "https://openalex.org/W4298007541",
-        "https://openalex.org/W4206699756",
-        "https://openalex.org/W2804635689",
-        "https://openalex.org/W1206554051",
-        "https://openalex.org/W2190108466",
-        "https://openalex.org/W2107018484",
-        "https://openalex.org/W7005179013",
-        "https://openalex.org/W2982558200",
-        "https://openalex.org/W7150906419",
-        "https://openalex.org/W3033300794"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Scaling": [
-          1
-        ],
-        "porosity": [
-          2,
-          22,
-          58,
-          184,
-          189,
-          205,
-          223,
-          236
-        ],
-        "of": [
-          3,
-          9,
-          14,
-          21,
-          31,
-          78,
-          92,
-          129,
-          149,
-          164,
-          204
-        ],
-        "sedimentary": [
-          4
-        ],
-        "rocks": [
-          5
-        ],
-        "from": [
-          6,
-          59,
-          136
-        ],
-        "the": [
-          7,
-          12,
-          41,
-          60,
-          64,
-          89,
-          104,
-          119,
-          123,
-          137,
-          150,
-          158,
-          168,
-          175,
-          188,
-          192,
-          207,
-          217
-        ],
-        "scale": [
-          8,
-          13,
-          62
-        ],
-        "measurement": [
-          10
-        ],
-        "to": [
-          11,
-          25,
-          56,
-          63,
-          74,
-          88,
-          157,
-          234
-        ],
-        "interest": [
-          15
-        ],
-        "is": [
-          16,
-          72
-        ],
-        "still": [
-          17
-        ],
-        "a": [
-          18,
-          79,
-          82,
-          162,
-          201,
-          230
-        ],
-        "challenge.": [
-          19
-        ],
-        "Upscaling": [
-          20
-        ],
-        "can": [
-          23
-        ],
-        "assist": [
-          24
-        ],
-        "accurately": [
-          26
-        ],
-        "predict": [
-          27
-        ],
-        "other": [
-          28
-        ],
-        "petrophysical": [
-          29
-        ],
-        "properties": [
-          30,
-          77
-        ],
-        "rock": [
-          32,
-          76
-        ],
-        "at": [
-          33,
-          191
-        ],
-        "multiple": [
-          34
-        ],
-        "scales.": [
-          35
-        ],
-        "In": [
-          36
-        ],
-        "this": [
-          37,
-          145,
-          154
-        ],
-        "study,": [
-          38
-        ],
-        "we": [
-          39
-        ],
-        "use": [
-          40
-        ],
-        "two-dimensional": [
-          42
-        ],
-        "(2D)": [
-          43
-        ],
-        "scanning": [
-          44
-        ],
-        "electron": [
-          45
-        ],
-        "microscope": [
-          46
-        ],
-        "(SEM)": [
-          47
-        ],
-        "and": [
-          48,
-          81,
-          132,
-          170,
-          228
-        ],
-        "three-dimensional": [
-          49
-        ],
-        "(3D)": [
-          50
-        ],
-        "X-ray": [
-          51
-        ],
-        "micro-computed": [
-          52
-        ],
-        "tomography": [
-          53
-        ],
-        "(micro-CT)": [
-          54
-        ],
-        "image": [
-          55,
-          61,
-          138
-        ],
-        "upscale": [
-          57
-        ],
-        "core": [
-          65,
-          193,
-          242
-        ],
-        "plug": [
-          66,
-          194
-        ],
-        "scale.": [
-          67,
-          195
-        ],
-        "A": [
-          68
-        ],
-        "systematic": [
-          69
-        ],
-        "imaging": [
-          70,
-          212
-        ],
-        "plan": [
-          71
-        ],
-        "deployed": [
-          73
-        ],
-        "capture": [
-          75,
-          216
-        ],
-        "carbonate": [
-          80,
-          105,
-          120,
-          176
-        ],
-        "sandstone": [
-          83,
-          109,
-          124,
-          169,
-          208
-        ],
-        "sample,": [
-          84,
-          209
-        ],
-        "which": [
-          85
-        ],
-        "are": [
-          86,
-          115,
-          140,
-          239
-        ],
-        "sensitive": [
-          87
-        ],
-        "fractal": [
-          90,
-          113,
-          133,
-          222
-        ],
-        "nature": [
-          91
-        ],
-        "these": [
-          93
-        ],
-        "rocks.": [
-          94
-        ],
-        "Image": [
-          95
-        ],
-        "analysis": [
-          96,
-          139
-        ],
-        "records": [
-          97
-        ],
-        "wider": [
-          98
-        ],
-        "pore": [
-          99,
-          130,
-          219
-        ],
-        "spectrum": [
-          100
-        ],
-        "(0.12–50": [
-          101
-        ],
-        "µm)": [
-          102
-        ],
-        "in": [
-          103,
-          108,
-          118,
-          122,
-          144,
-          167,
-          174,
-          206
-        ],
-        "sample": [
-          106,
-          177
-        ],
-        "than": [
-          107,
-          121
-        ],
-        "(0.12–30": [
-          110
-        ],
-        "µm).": [
-          111
-        ],
-        "The": [
-          112,
-          147,
-          196,
-          221
-        ],
-        "dimensions": [
-          114,
-          134
-        ],
-        "also": [
-          116
-        ],
-        "higher": [
-          117
-        ],
-        "sample.": [
-          125
-        ],
-        "Median,": [
-          126
-        ],
-        "volume-weighted": [
-          127
-        ],
-        "average": [
-          128
-        ],
-        "radius,": [
-          131
-        ],
-        "derived": [
-          135
-        ],
-        "used": [
-          141
-        ],
-        "as": [
-          142
-        ],
-        "inputs": [
-          143
-        ],
-        "equation.": [
-          146
-        ],
-        "results": [
-          148,
-          160,
-          227
-        ],
-        "present": [
-          151
-        ],
-        "study": [
-          152
-        ],
-        "using": [
-          153
-        ],
-        "equation": [
-          155,
-          224
-        ],
-        "yielded": [
-          156
-        ],
-        "best": [
-          159
-        ],
-        "on": [
-          161
-        ],
-        "resolution": [
-          163,
-          173
-        ],
-        "2.5": [
-          165
-        ],
-        "µm/voxel": [
-          166,
-          172
-        ],
-        "2.01": [
-          171
-        ],
-        "for": [
-          178
-        ],
-        "3D": [
-          179
-        ],
-        "micro-CT": [
-          180,
-          211
-        ],
-        "images,": [
-          181
-        ],
-        "where": [
-          182,
-          210
-        ],
-        "fractal-scaling": [
-          183
-        ],
-        "matches": [
-          185
-        ],
-        "well": [
-          186
-        ],
-        "with": [
-          187
-        ],
-        "measured": [
-          190
-        ],
-        "2D": [
-          197
-        ],
-        "SEM": [
-          198
-        ],
-        "images": [
-          199
-        ],
-        "provided": [
-          200
-        ],
-        "good": [
-          202
-        ],
-        "estimation": [
-          203
-        ],
-        "techniques": [
-          213
-        ],
-        "could": [
-          214
-        ],
-        "not": [
-          215
-        ],
-        "full": [
-          218
-        ],
-        "spectrum.": [
-          220
-        ],
-        "showed": [
-          225
-        ],
-        "promising": [
-          226
-        ],
-        "offers": [
-          229
-        ],
-        "potential": [
-          231
-        ],
-        "alternative": [
-          232
-        ],
-        "way": [
-          233
-        ],
-        "estimate": [
-          235
-        ],
-        "when": [
-          237
-        ],
-        "there": [
-          238
-        ],
-        "no": [
-          240
-        ],
-        "routine": [
-          241
-        ],
-        "measurements": [
-          243
-        ],
-        "available.": [
-          244
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3037512035",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-15T12:55:33.944570",
-      "created_date": "2020-07-02T00:00:00"
     },
     {
       "id": "https://openalex.org/W4391640940",
@@ -11789,12 +10443,12 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.7384,
+      "fwci": 1.7074,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.81396719,
+        "value": 0.81038027,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12336,6 +10990,1352 @@
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
       "created_date": "2019-05-03T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3037512035",
+      "doi": "https://doi.org/10.1115/1.4047589",
+      "title": "Upscaling Reservoir Rock Porosity by Fractal Dimension Using Three-Dimensional Micro-Computed Tomography and Two-Dimensional Scanning Electron Microscope Images",
+      "display_name": "Upscaling Reservoir Rock Porosity by Fractal Dimension Using Three-Dimensional Micro-Computed Tomography and Two-Dimensional Scanning Electron Microscope Images",
+      "alternate_titles": [],
+      "publication_year": 2020,
+      "publication_date": "2020-06-23",
+      "ids": {
+        "openalex": "https://openalex.org/W3037512035",
+        "doi": "https://doi.org/10.1115/1.4047589",
+        "mag": "3037512035"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1115/1.4047589",
+        "doi": "https://doi.org/10.1115/1.4047589",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1115/1.4047589",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S17843412",
+          "display_name": "Journal of Energy Resources Technology",
+          "issn_l": "0195-0738",
+          "issn": [
+            "0195-0738",
+            "1528-8994"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310316053",
+          "host_organization_name": "ASM International",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316053"
+          ],
+          "host_organization_lineage_names": [
+            "ASM International"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Energy Resources Technology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3037512035"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054302045",
+            "display_name": "Muhammad Jawad Munawar",
+            "orcid": "https://orcid.org/0000-0003-3403-7728",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3403-7728"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I172780181",
+              "display_name": "University of the Punjab",
+              "ror": "https://ror.org/011maz450",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I172780181"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210162190",
+              "display_name": "China University of Petroleum, East China",
+              "ror": "https://ror.org/05gbn2817",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210162190"
+              ]
+            }
+          ],
+          "countries": [
+            "AE",
+            "CN",
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Jawad Munawar",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
+            "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan;",
+            "School of Geosciences, China University of Petroleum, Qingdao 266580, China;"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan;",
+              "institution_ids": [
+                "https://openalex.org/I172780181"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Geosciences, China University of Petroleum, Qingdao 266580, China;",
+              "institution_ids": [
+                "https://openalex.org/I4210162190"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050715529",
+            "display_name": "Sandra Vega",
+            "orcid": "https://orcid.org/0000-0002-5308-1137",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5308-1137"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I8961855",
+              "display_name": "Universidad Nacional Autónoma de México",
+              "ror": "https://ror.org/01tmp8f25",
+              "country_code": "MX",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I8961855"
+              ]
+            }
+          ],
+          "countries": [
+            "AE",
+            "MX"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sandra Vega",
+          "raw_affiliation_strings": [
+            "Centro de Geociencias, Campus Juriquilla, UNAM, Boulevard Juriquilla 3001, Queretaro, Qro 76230, Mexico;",
+            "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Geociencias, Campus Juriquilla, UNAM, Boulevard Juriquilla 3001, Queretaro, Qro 76230, Mexico;",
+              "institution_ids": [
+                "https://openalex.org/I8961855"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030308886",
+            "display_name": "Chengyan Lin",
+            "orcid": "https://orcid.org/0000-0002-2848-9755",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2848-9755",
+              "https://orcid.org/0000-0002-5291-802X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210162190",
+              "display_name": "China University of Petroleum, East China",
+              "ror": "https://ror.org/05gbn2817",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210162190"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chengyan Lin",
+          "raw_affiliation_strings": [
+            "School of Geosciences, China University of Petroleum, Qingdao 266580, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geosciences, China University of Petroleum, Qingdao 266580, China",
+              "institution_ids": [
+                "https://openalex.org/I4210162190"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018306569",
+            "display_name": "Mohammad Alsuwaidi",
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Alsuwaidi",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101523737",
+            "display_name": "Naveed Ahsan",
+            "orcid": "https://orcid.org/0000-0002-9468-126X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9468-126X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I172780181",
+              "display_name": "University of the Punjab",
+              "ror": "https://ror.org/011maz450",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I172780181"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Naveed Ahsan",
+          "raw_affiliation_strings": [
+            "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geology, University of the Punjab, Lahore 54590, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I172780181"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5085353990",
+            "display_name": "Ritesh Ramesh Bhakta",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ritesh Ramesh Bhakta",
+          "raw_affiliation_strings": [
+            "Petroleum Institute, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Institute, Khalifa University, P.O. Box 127788, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.0705,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 28,
+      "citation_normalized_percentile": {
+        "value": 0.70134844,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 92,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "143",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10491",
+        "display_name": "Enhanced Oil Recovery Techniques",
+        "score": 0.524399995803833,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2103",
+          "display_name": "Fuel Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.524399995803833,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.4609000086784363,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.0017000000225380063,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/fractal-dimension",
+          "display_name": "fractal dimension",
+          "score": 0.9819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rocks",
+          "display_name": "carbonate rocks",
+          "score": 0.503000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/sandstone",
+          "display_name": "sandstone",
+          "score": 0.996999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/pore-size-distribution",
+          "display_name": "pore size distribution",
+          "score": 0.7760000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/pore-radius",
+          "display_name": "pore radius",
+          "score": 0.5220000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/micro-computed-tomography",
+          "display_name": "micro-computed tomography",
+          "score": 0.5899999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/scanning-electron-microscopy",
+          "display_name": "scanning electron microscopy",
+          "score": 0.6629999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-rock-characterization",
+          "display_name": "reservoir rock characterization",
+          "score": 0.5600000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysical-properties",
+          "display_name": "petrophysical properties",
+          "score": 0.6880000233650208
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C26546657",
+          "wikidata": "https://www.wikidata.org/wiki/Q1412452",
+          "display_name": "Fractal dimension",
+          "level": 3,
+          "score": 0.8294578790664673
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.8116140365600586
+        },
+        {
+          "id": "https://openalex.org/C40636538",
+          "wikidata": "https://www.wikidata.org/wiki/Q81392",
+          "display_name": "Fractal",
+          "level": 2,
+          "score": 0.6678163409233093
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6432005763053894
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.6105033159255981
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.6069861054420471
+        },
+        {
+          "id": "https://openalex.org/C26771246",
+          "wikidata": "https://www.wikidata.org/wiki/Q321095",
+          "display_name": "Scanning electron microscope",
+          "level": 2,
+          "score": 0.5011394023895264
+        },
+        {
+          "id": "https://openalex.org/C163716698",
+          "wikidata": "https://www.wikidata.org/wiki/Q841267",
+          "display_name": "Tomography",
+          "level": 2,
+          "score": 0.47777092456817627
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4765768051147461
+        },
+        {
+          "id": "https://openalex.org/C136534824",
+          "wikidata": "https://www.wikidata.org/wiki/Q2771020",
+          "display_name": "Lacunarity",
+          "level": 4,
+          "score": 0.45211848616600037
+        },
+        {
+          "id": "https://openalex.org/C112213829",
+          "wikidata": "https://www.wikidata.org/wiki/Q1942237",
+          "display_name": "Core sample",
+          "level": 3,
+          "score": 0.41773998737335205
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.3776455819606781
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.3210815191268921
+        },
+        {
+          "id": "https://openalex.org/C2164484",
+          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+          "display_name": "Core (optical fiber)",
+          "level": 2,
+          "score": 0.20760148763656616
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.20352643728256226
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.15852347016334534
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.13941365480422974
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.11043581366539001
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.07611879706382751
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1115/1.4047589",
+          "doi": "https://doi.org/10.1115/1.4047589",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1115/1.4047589",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S17843412",
+            "display_name": "Journal of Energy Resources Technology",
+            "issn_l": "0195-0738",
+            "issn": [
+              "0195-0738",
+              "1528-8994"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-2",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310316053",
+            "host_organization_name": "ASM International",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316053"
+            ],
+            "host_organization_lineage_names": [
+              "ASM International"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Energy Resources Technology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321399",
+          "display_name": "Abu Dhabi National Oil Company",
+          "ror": "https://ror.org/010e8pt90"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W1495166527",
+        "https://openalex.org/W1848031541",
+        "https://openalex.org/W1912624005",
+        "https://openalex.org/W1985367258",
+        "https://openalex.org/W1991539028",
+        "https://openalex.org/W1993244566",
+        "https://openalex.org/W1993853487",
+        "https://openalex.org/W2000642171",
+        "https://openalex.org/W2006976621",
+        "https://openalex.org/W2015025790",
+        "https://openalex.org/W2019718326",
+        "https://openalex.org/W2021107886",
+        "https://openalex.org/W2033020023",
+        "https://openalex.org/W2040310312",
+        "https://openalex.org/W2044445515",
+        "https://openalex.org/W2045396540",
+        "https://openalex.org/W2049439938",
+        "https://openalex.org/W2050294846",
+        "https://openalex.org/W2056510083",
+        "https://openalex.org/W2056915518",
+        "https://openalex.org/W2068692244",
+        "https://openalex.org/W2071373230",
+        "https://openalex.org/W2076174436",
+        "https://openalex.org/W2077444120",
+        "https://openalex.org/W2078206416",
+        "https://openalex.org/W2080794937",
+        "https://openalex.org/W2085038711",
+        "https://openalex.org/W2094957216",
+        "https://openalex.org/W2119894005",
+        "https://openalex.org/W2190108466",
+        "https://openalex.org/W2500000134",
+        "https://openalex.org/W2552936383",
+        "https://openalex.org/W2766322708",
+        "https://openalex.org/W2767354513",
+        "https://openalex.org/W2769954494",
+        "https://openalex.org/W2776735662",
+        "https://openalex.org/W2783349576",
+        "https://openalex.org/W2790562400",
+        "https://openalex.org/W2794587617",
+        "https://openalex.org/W2912147005",
+        "https://openalex.org/W2922390815",
+        "https://openalex.org/W2944280515",
+        "https://openalex.org/W2964631455",
+        "https://openalex.org/W4240494000",
+        "https://openalex.org/W4247431574"
+      ],
+      "related_works": [
+        "https://openalex.org/W4298007541",
+        "https://openalex.org/W4206699756",
+        "https://openalex.org/W2804635689",
+        "https://openalex.org/W1206554051",
+        "https://openalex.org/W2190108466",
+        "https://openalex.org/W2107018484",
+        "https://openalex.org/W7005179013",
+        "https://openalex.org/W2982558200",
+        "https://openalex.org/W7150906419",
+        "https://openalex.org/W3033300794"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Scaling": [
+          1
+        ],
+        "porosity": [
+          2,
+          22,
+          58,
+          184,
+          189,
+          205,
+          223,
+          236
+        ],
+        "of": [
+          3,
+          9,
+          14,
+          21,
+          31,
+          78,
+          92,
+          129,
+          149,
+          164,
+          204
+        ],
+        "sedimentary": [
+          4
+        ],
+        "rocks": [
+          5
+        ],
+        "from": [
+          6,
+          59,
+          136
+        ],
+        "the": [
+          7,
+          12,
+          41,
+          60,
+          64,
+          89,
+          104,
+          119,
+          123,
+          137,
+          150,
+          158,
+          168,
+          175,
+          188,
+          192,
+          207,
+          217
+        ],
+        "scale": [
+          8,
+          13,
+          62
+        ],
+        "measurement": [
+          10
+        ],
+        "to": [
+          11,
+          25,
+          56,
+          63,
+          74,
+          88,
+          157,
+          234
+        ],
+        "interest": [
+          15
+        ],
+        "is": [
+          16,
+          72
+        ],
+        "still": [
+          17
+        ],
+        "a": [
+          18,
+          79,
+          82,
+          162,
+          201,
+          230
+        ],
+        "challenge.": [
+          19
+        ],
+        "Upscaling": [
+          20
+        ],
+        "can": [
+          23
+        ],
+        "assist": [
+          24
+        ],
+        "accurately": [
+          26
+        ],
+        "predict": [
+          27
+        ],
+        "other": [
+          28
+        ],
+        "petrophysical": [
+          29
+        ],
+        "properties": [
+          30,
+          77
+        ],
+        "rock": [
+          32,
+          76
+        ],
+        "at": [
+          33,
+          191
+        ],
+        "multiple": [
+          34
+        ],
+        "scales.": [
+          35
+        ],
+        "In": [
+          36
+        ],
+        "this": [
+          37,
+          145,
+          154
+        ],
+        "study,": [
+          38
+        ],
+        "we": [
+          39
+        ],
+        "use": [
+          40
+        ],
+        "two-dimensional": [
+          42
+        ],
+        "(2D)": [
+          43
+        ],
+        "scanning": [
+          44
+        ],
+        "electron": [
+          45
+        ],
+        "microscope": [
+          46
+        ],
+        "(SEM)": [
+          47
+        ],
+        "and": [
+          48,
+          81,
+          132,
+          170,
+          228
+        ],
+        "three-dimensional": [
+          49
+        ],
+        "(3D)": [
+          50
+        ],
+        "X-ray": [
+          51
+        ],
+        "micro-computed": [
+          52
+        ],
+        "tomography": [
+          53
+        ],
+        "(micro-CT)": [
+          54
+        ],
+        "image": [
+          55,
+          61,
+          138
+        ],
+        "upscale": [
+          57
+        ],
+        "core": [
+          65,
+          193,
+          242
+        ],
+        "plug": [
+          66,
+          194
+        ],
+        "scale.": [
+          67,
+          195
+        ],
+        "A": [
+          68
+        ],
+        "systematic": [
+          69
+        ],
+        "imaging": [
+          70,
+          212
+        ],
+        "plan": [
+          71
+        ],
+        "deployed": [
+          73
+        ],
+        "capture": [
+          75,
+          216
+        ],
+        "carbonate": [
+          80,
+          105,
+          120,
+          176
+        ],
+        "sandstone": [
+          83,
+          109,
+          124,
+          169,
+          208
+        ],
+        "sample,": [
+          84,
+          209
+        ],
+        "which": [
+          85
+        ],
+        "are": [
+          86,
+          115,
+          140,
+          239
+        ],
+        "sensitive": [
+          87
+        ],
+        "fractal": [
+          90,
+          113,
+          133,
+          222
+        ],
+        "nature": [
+          91
+        ],
+        "these": [
+          93
+        ],
+        "rocks.": [
+          94
+        ],
+        "Image": [
+          95
+        ],
+        "analysis": [
+          96,
+          139
+        ],
+        "records": [
+          97
+        ],
+        "wider": [
+          98
+        ],
+        "pore": [
+          99,
+          130,
+          219
+        ],
+        "spectrum": [
+          100
+        ],
+        "(0.12–50": [
+          101
+        ],
+        "µm)": [
+          102
+        ],
+        "in": [
+          103,
+          108,
+          118,
+          122,
+          144,
+          167,
+          174,
+          206
+        ],
+        "sample": [
+          106,
+          177
+        ],
+        "than": [
+          107,
+          121
+        ],
+        "(0.12–30": [
+          110
+        ],
+        "µm).": [
+          111
+        ],
+        "The": [
+          112,
+          147,
+          196,
+          221
+        ],
+        "dimensions": [
+          114,
+          134
+        ],
+        "also": [
+          116
+        ],
+        "higher": [
+          117
+        ],
+        "sample.": [
+          125
+        ],
+        "Median,": [
+          126
+        ],
+        "volume-weighted": [
+          127
+        ],
+        "average": [
+          128
+        ],
+        "radius,": [
+          131
+        ],
+        "derived": [
+          135
+        ],
+        "used": [
+          141
+        ],
+        "as": [
+          142
+        ],
+        "inputs": [
+          143
+        ],
+        "equation.": [
+          146
+        ],
+        "results": [
+          148,
+          160,
+          227
+        ],
+        "present": [
+          151
+        ],
+        "study": [
+          152
+        ],
+        "using": [
+          153
+        ],
+        "equation": [
+          155,
+          224
+        ],
+        "yielded": [
+          156
+        ],
+        "best": [
+          159
+        ],
+        "on": [
+          161
+        ],
+        "resolution": [
+          163,
+          173
+        ],
+        "2.5": [
+          165
+        ],
+        "µm/voxel": [
+          166,
+          172
+        ],
+        "2.01": [
+          171
+        ],
+        "for": [
+          178
+        ],
+        "3D": [
+          179
+        ],
+        "micro-CT": [
+          180,
+          211
+        ],
+        "images,": [
+          181
+        ],
+        "where": [
+          182,
+          210
+        ],
+        "fractal-scaling": [
+          183
+        ],
+        "matches": [
+          185
+        ],
+        "well": [
+          186
+        ],
+        "with": [
+          187
+        ],
+        "measured": [
+          190
+        ],
+        "2D": [
+          197
+        ],
+        "SEM": [
+          198
+        ],
+        "images": [
+          199
+        ],
+        "provided": [
+          200
+        ],
+        "good": [
+          202
+        ],
+        "estimation": [
+          203
+        ],
+        "techniques": [
+          213
+        ],
+        "could": [
+          214
+        ],
+        "not": [
+          215
+        ],
+        "full": [
+          218
+        ],
+        "spectrum.": [
+          220
+        ],
+        "showed": [
+          225
+        ],
+        "promising": [
+          226
+        ],
+        "offers": [
+          229
+        ],
+        "potential": [
+          231
+        ],
+        "alternative": [
+          232
+        ],
+        "way": [
+          233
+        ],
+        "estimate": [
+          235
+        ],
+        "when": [
+          237
+        ],
+        "there": [
+          238
+        ],
+        "no": [
+          240
+        ],
+        "routine": [
+          241
+        ],
+        "measurements": [
+          243
+        ],
+        "available.": [
+          244
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3037512035",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-15T12:55:33.944570",
+      "created_date": "2020-07-02T00:00:00"
     },
     {
       "id": "https://openalex.org/W3133802281",
@@ -15655,12 +15655,12 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.3351,
+      "fwci": 2.3024,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.86612433,
+        "value": 0.86423187,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32061,12 +32061,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.047,
+      "fwci": 1.029,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.76904444,
+        "value": 0.76500682,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33684,17 +33684,17 @@
         "currency": "CHF",
         "value_usd": 2447
       },
-      "fwci": 0.5471,
+      "fwci": 0.6818,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 4,
+      "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.56445022,
+        "value": 0.61419954,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 92,
+        "min": 89,
         "max": 95
       },
       "biblio": {
@@ -34636,6 +34636,10 @@
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4377293771",
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -34644,7 +34648,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2023-05-23T00:00:00"
     },
     {

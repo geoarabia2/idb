@@ -9019,12 +9019,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7421,
+      "fwci": 3.6831,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 118,
       "citation_normalized_percentile": {
-        "value": 0.92273517,
+        "value": 0.92136081,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10460,12 +10460,12 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 5.2759,
+      "fwci": 5.1361,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 111,
       "citation_normalized_percentile": {
-        "value": 0.97188249,
+        "value": 0.97115073,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11319,12 +11319,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0696,
+      "fwci": 2.9836,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 103,
       "citation_normalized_percentile": {
-        "value": 0.91068702,
+        "value": 0.90810502,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13946,12 +13946,12 @@
         "value_usd": 4070
       },
       "apc_paid": null,
-      "fwci": 3.9262,
+      "fwci": 3.8588,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 88,
       "citation_normalized_percentile": {
-        "value": 0.92332108,
+        "value": 0.92198158,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23440,12 +23440,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8817,
+      "fwci": 0.8525,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.65350362,
+        "value": 0.6418379,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27715,12 +27715,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3739,
+      "fwci": 1.2999,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 49,
       "citation_normalized_percentile": {
-        "value": 0.76168612,
+        "value": 0.74782374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31743,12 +31743,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2939,
+      "fwci": 0.2842,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.47241974,
+        "value": 0.45476598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32991,12 +32991,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7686,
+      "fwci": 3.8527,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.91750503,
+        "value": 0.91913215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -43201,7 +43201,7 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 87,
         "max": 93
       },
       "biblio": {

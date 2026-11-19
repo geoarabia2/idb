@@ -20,7 +20,7 @@
     ],
     "full_name": "Abdulkader M. Abed",
     "works_count": 63,
-    "cited_by_count": 1820,
+    "cited_by_count": 1819,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 26,
@@ -282,7 +282,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000444,
+        "value": 0.0000419,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -299,7 +299,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000388,
+        "value": 0.0000387,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -644,7 +644,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5102809672",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5102809672",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-18T16:17:57",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -4303,9 +4303,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -8320,12 +8320,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.159,
+      "fwci": 2.0426,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.84050762,
+        "value": 0.83123018,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12865,9 +12865,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -16106,12 +16106,12 @@
         "value_usd": 2790
       },
       "apc_paid": null,
-      "fwci": 0.8897,
+      "fwci": 0.8765,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.73583852,
+        "value": 0.73190146,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16538,9 +16538,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -16961,12 +16961,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.2967,
+      "fwci": 1.2641,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.74472481,
+        "value": 0.73797135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17660,12 +17660,12 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.2854,
+      "fwci": 0.2787,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.45772575,
+        "value": 0.44494319,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18601,9 +18601,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -21019,14 +21019,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
@@ -22538,12 +22538,12 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.4835,
+      "fwci": 1.4323,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.78609967,
+        "value": 0.77852349,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27431,12 +27431,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.4753,
+      "fwci": 0.4633,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.55955398,
+        "value": 0.54787677,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27743,9 +27743,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -28366,523 +28366,6 @@
         {
           "year": 2013,
           "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-16T12:05:36.265796",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2050128151",
-      "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
-      "title": "A general aspect in the genesis of nodular limestones documented by the Upper Cretaceous limestones of Jordan",
-      "display_name": "A general aspect in the genesis of nodular limestones documented by the Upper Cretaceous limestones of Jordan",
-      "alternate_titles": [],
-      "publication_year": 1980,
-      "publication_date": "1980-05-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2050128151",
-        "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
-        "mag": "2050128151"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/0037-0738(80)90023-8",
-        "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/0037-0738(80)90023-8",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S85417211",
-          "display_name": "Sedimentary Geology",
-          "issn_l": "0037-0738",
-          "issn": [
-            "0037-0738",
-            "1879-0968"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Sedimentary Geology",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2050128151"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7843-4218"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I94509681",
-              "display_name": "Technische Universität Braunschweig",
-              "ror": "https://ror.org/010nsgg66",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I94509681"
-              ]
-            }
-          ],
-          "countries": [
-            "DE",
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader M. Abed",
-          "raw_affiliation_strings": [
-            "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
-            "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G",
-              "institution_ids": [
-                "https://openalex.org/I94509681"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5110508022",
-            "display_name": "Werner Schneider",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I94509681",
-              "display_name": "Technische Universität Braunschweig",
-              "ror": "https://ror.org/010nsgg66",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I94509681"
-              ]
-            }
-          ],
-          "countries": [
-            "DE",
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Werner Schneider",
-          "raw_affiliation_strings": [
-            "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
-            "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G",
-              "institution_ids": [
-                "https://openalex.org/I94509681"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3160,
-        "currency": "USD",
-        "value_usd": 3160
-      },
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 23,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "26",
-        "issue": "4",
-        "first_page": "329",
-        "last_page": "335"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.61080002784729,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.61080002784729,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.3386000096797943,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.02979999966919422,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/nodular-limestone",
-          "display_name": "nodular limestone",
-          "score": 0.9520000219345093
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-cretaceous",
-          "display_name": "Upper Cretaceous",
-          "score": 0.8619999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/biogenic-origin",
-          "display_name": "biogenic origin",
-          "score": 0.48100000619888306
-        },
-        {
-          "id": "https://openalex.org/keywords/burrowing-organisms",
-          "display_name": "burrowing organisms",
-          "score": 0.7699999809265137
-        },
-        {
-          "id": "https://openalex.org/keywords/thalassinoides",
-          "display_name": "Thalassinoides",
-          "score": 0.9480000138282776
-        },
-        {
-          "id": "https://openalex.org/keywords/callianassa",
-          "display_name": "Callianassa",
-          "score": 0.9900000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/ophiomorpha",
-          "display_name": "Ophiomorpha",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/early-diagenesis",
-          "display_name": "early diagenesis",
-          "score": 0.734000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/chert",
-          "display_name": "chert",
-          "score": 0.925000011920929
-        },
-        {
-          "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "bioturbation",
-          "score": 0.47099998593330383
-        },
-        {
-          "id": "https://openalex.org/keywords/jordan",
-          "display_name": "Jordan",
-          "score": 0.3140000104904175
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.8963240385055542
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.89457106590271
-        },
-        {
-          "id": "https://openalex.org/C2780181037",
-          "wikidata": "https://www.wikidata.org/wiki/Q371542",
-          "display_name": "Dolomite",
-          "level": 2,
-          "score": 0.800756573677063
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.7731220126152039
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7655510902404785
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.23021191358566284
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/0037-0738(80)90023-8",
-          "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/0037-0738(80)90023-8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S85417211",
-            "display_name": "Sedimentary Geology",
-            "issn_l": "0037-0738",
-            "issn": [
-              "0037-0738",
-              "1879-0968"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-100",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Sedimentary Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 10,
-      "referenced_works": [
-        "https://openalex.org/W61051762",
-        "https://openalex.org/W197406392",
-        "https://openalex.org/W1493789893",
-        "https://openalex.org/W1580010721",
-        "https://openalex.org/W2025412651",
-        "https://openalex.org/W2073999414",
-        "https://openalex.org/W2076533240",
-        "https://openalex.org/W2150628091",
-        "https://openalex.org/W2343619380",
-        "https://openalex.org/W2598808698"
-      ],
-      "related_works": [
-        "https://openalex.org/W1550093462",
-        "https://openalex.org/W3081586154",
-        "https://openalex.org/W2000979077",
-        "https://openalex.org/W2727497512",
-        "https://openalex.org/W2350547554",
-        "https://openalex.org/W3092592676",
-        "https://openalex.org/W2043617151",
-        "https://openalex.org/W1722185495",
-        "https://openalex.org/W2104061368",
-        "https://openalex.org/W2022895422"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2050128151",
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
         }
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
@@ -29744,6 +29227,523 @@
         }
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2050128151",
+      "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
+      "title": "A general aspect in the genesis of nodular limestones documented by the Upper Cretaceous limestones of Jordan",
+      "display_name": "A general aspect in the genesis of nodular limestones documented by the Upper Cretaceous limestones of Jordan",
+      "alternate_titles": [],
+      "publication_year": 1980,
+      "publication_date": "1980-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2050128151",
+        "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
+        "mag": "2050128151"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/0037-0738(80)90023-8",
+        "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/0037-0738(80)90023-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S85417211",
+          "display_name": "Sedimentary Geology",
+          "issn_l": "0037-0738",
+          "issn": [
+            "0037-0738",
+            "1879-0968"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sedimentary Geology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2050128151"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I94509681",
+              "display_name": "Technische Universität Braunschweig",
+              "ror": "https://ror.org/010nsgg66",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I94509681"
+              ]
+            }
+          ],
+          "countries": [
+            "DE",
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader M. Abed",
+          "raw_affiliation_strings": [
+            "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
+            "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G",
+              "institution_ids": [
+                "https://openalex.org/I94509681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5110508022",
+            "display_name": "Werner Schneider",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I94509681",
+              "display_name": "Technische Universität Braunschweig",
+              "ror": "https://ror.org/010nsgg66",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I94509681"
+              ]
+            }
+          ],
+          "countries": [
+            "DE",
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Werner Schneider",
+          "raw_affiliation_strings": [
+            "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
+            "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan, Amman Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Geology and Palaeontology, Technical University, 3300 Braunschweig F.R.G",
+              "institution_ids": [
+                "https://openalex.org/I94509681"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3160,
+        "currency": "USD",
+        "value_usd": 3160
+      },
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 22,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "26",
+        "issue": "4",
+        "first_page": "329",
+        "last_page": "335"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.61080002784729,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.61080002784729,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.3386000096797943,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.02979999966919422,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/nodular-limestone",
+          "display_name": "nodular limestone",
+          "score": 0.9520000219345093
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-cretaceous",
+          "display_name": "Upper Cretaceous",
+          "score": 0.8619999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/biogenic-origin",
+          "display_name": "biogenic origin",
+          "score": 0.48100000619888306
+        },
+        {
+          "id": "https://openalex.org/keywords/burrowing-organisms",
+          "display_name": "burrowing organisms",
+          "score": 0.7699999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/thalassinoides",
+          "display_name": "Thalassinoides",
+          "score": 0.9480000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/callianassa",
+          "display_name": "Callianassa",
+          "score": 0.9900000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/ophiomorpha",
+          "display_name": "Ophiomorpha",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/early-diagenesis",
+          "display_name": "early diagenesis",
+          "score": 0.734000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/chert",
+          "display_name": "chert",
+          "score": 0.925000011920929
+        },
+        {
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "bioturbation",
+          "score": 0.47099998593330383
+        },
+        {
+          "id": "https://openalex.org/keywords/jordan",
+          "display_name": "Jordan",
+          "score": 0.3140000104904175
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.8963240385055542
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.89457106590271
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.800756573677063
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.7731220126152039
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7655510902404785
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.23021191358566284
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/0037-0738(80)90023-8",
+          "doi": "https://doi.org/10.1016/0037-0738(80)90023-8",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/0037-0738(80)90023-8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S85417211",
+            "display_name": "Sedimentary Geology",
+            "issn_l": "0037-0738",
+            "issn": [
+              "0037-0738",
+              "1879-0968"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sedimentary Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 10,
+      "referenced_works": [
+        "https://openalex.org/W61051762",
+        "https://openalex.org/W197406392",
+        "https://openalex.org/W1493789893",
+        "https://openalex.org/W1580010721",
+        "https://openalex.org/W2025412651",
+        "https://openalex.org/W2073999414",
+        "https://openalex.org/W2076533240",
+        "https://openalex.org/W2150628091",
+        "https://openalex.org/W2343619380",
+        "https://openalex.org/W2598808698"
+      ],
+      "related_works": [
+        "https://openalex.org/W1550093462",
+        "https://openalex.org/W3081586154",
+        "https://openalex.org/W2000979077",
+        "https://openalex.org/W2727497512",
+        "https://openalex.org/W2350547554",
+        "https://openalex.org/W3092592676",
+        "https://openalex.org/W2043617151",
+        "https://openalex.org/W1722185495",
+        "https://openalex.org/W2104061368",
+        "https://openalex.org/W2022895422"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2050128151",
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31699,12 +31699,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3607,
+      "fwci": 3.2714,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.90815591,
+        "value": 0.90600823,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31983,9 +31983,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -39269,12 +39269,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.8087,
+      "fwci": 0.774,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.72162667,
+        "value": 0.70944013,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39930,12 +39930,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.5273,
+      "fwci": 0.5053,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.59387255,
+        "value": 0.57626902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41355,12 +41355,12 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 0.8087,
+      "fwci": 0.774,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.72162667,
+        "value": 0.70944013,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44865,9 +44865,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],

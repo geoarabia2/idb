@@ -2628,7 +2628,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5110747383",
-            "display_name": "Jacques Thierry A",
+            "display_name": "Jacques Thierry",
             "orcid": null,
             "observed_orcids": []
           },
@@ -2756,7 +2756,7 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 2.1377,
+      "fwci": 2.1375,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 69,
@@ -3227,7 +3227,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8924,17 +8924,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3536,
+      "fwci": 4.1623,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.93881119,
+        "value": 0.93515358,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 86,
         "max": 98
       },
       "biblio": {
@@ -15611,7 +15611,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5110747383",
-            "display_name": "Jacques Thierry A",
+            "display_name": "Jacques Thierry",
             "orcid": null,
             "observed_orcids": []
           },
@@ -15636,7 +15636,7 @@
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.76529388,
+        "value": 0.76489404,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15850,7 +15850,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2026-11-07T00:00:00"
     },
     {
@@ -19530,7 +19530,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5110747383",
-            "display_name": "Jacques Thierry A",
+            "display_name": "Jacques Thierry",
             "orcid": null,
             "observed_orcids": []
           },
@@ -20110,12 +20110,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8408,
+      "fwci": 0.8328,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.65715093,
+        "value": 0.65397233,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21055,7 +21055,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23563,7 +23563,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5110747383",
-            "display_name": "Jacques Thierry A",
+            "display_name": "Jacques Thierry",
             "orcid": null,
             "observed_orcids": []
           },
@@ -23587,7 +23587,7 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 5.8099,
+      "fwci": 5.8166,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 91,
@@ -24583,7 +24583,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2017-07-14T00:00:00"
     },
     {
@@ -34616,12 +34616,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7154,
+      "fwci": 0.713,
       "is_authors_truncated": false,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.57097267,
+        "value": 0.56815948,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34907,12 +34907,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "grobid_xml": true,
+        "pdf": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4287110371.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4287110371.grobid-xml"
+      },
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -35940,7 +35949,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2022-07-25T00:00:00"
     },
     {
@@ -39708,8 +39717,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -54960,8 +54969,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4390000104904175,
-          "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -57397,8 +57406,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -59793,8 +59802,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -62192,8 +62201,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -73089,8 +73098,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -74611,8 +74620,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.685699999332428,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],

@@ -646,12 +646,12 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.9578,
+      "fwci": 2.9164,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.90290919,
+        "value": 0.90165111,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1326,12 +1326,12 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.8021,
+      "fwci": 2.7629,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.89610045,
+        "value": 0.89465183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2098,12 +2098,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.4839,
+      "fwci": 1.454,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.77891783,
+        "value": 0.77450192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19650,7 +19650,7 @@
         "last_page": null
       },
       "is_retracted": false,
-      "is_pulled": false,
+      "is_pulled": true,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -20608,7 +20608,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392646336",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2024-03-12T00:00:00"
     },
     {
@@ -21343,7 +21343,7 @@
             "ES"
           ],
           "is_corresponding": false,
-          "raw_author_name": "F. Rodriguez-Tovar",
+          "raw_author_name": "F. Rodríguez-Tovar",
           "raw_affiliation_strings": [
             "Universidad de Granada"
           ],
@@ -21960,7 +21960,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7129290408",
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2026-02-18T00:00:00"
     },
     {
@@ -25980,24 +25980,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/9"
         },
         {
+          "score": 0.9786999821662903,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "score": 0.8799999952316284,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
+          "score": 0.75,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],

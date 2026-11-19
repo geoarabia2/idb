@@ -34,7 +34,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 95,
-    "cited_by_count": 1599,
+    "cited_by_count": 1600,
     "summary_stats": {
       "2yr_mean_citedness": 2.21875,
       "h_index": 22,
@@ -233,7 +233,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001026,
+        "value": 0.0001025,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -250,7 +250,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0001025,
+        "value": 0.0001023,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -267,7 +267,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000763,
+        "value": 0.0000762,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -284,7 +284,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000532,
+        "value": 0.00005,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -301,7 +301,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.00004,
+        "value": 0.0000399,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -425,7 +425,7 @@
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 78
+        "cited_by_count": 79
       },
       {
         "year": 2018,
@@ -512,7 +512,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5044806143",
-    "updated_date": "2026-11-16T12:53:42",
+    "updated_date": "2026-11-18T16:17:57",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2718,12 +2718,12 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.9907,
+      "fwci": 1.9894,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 96,
+      "cited_by_count": 97,
       "citation_normalized_percentile": {
-        "value": 0.82932239,
+        "value": 0.82923043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3227,7 +3227,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2016,
@@ -3250,7 +3250,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3660,12 +3660,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 3.8998,
+      "fwci": 3.8426,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.9262084,
+        "value": 0.92504276,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14460,8 +14460,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6801000237464905,
           "display_name": "Life below water",
+          "score": 0.6801000237464905,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -19533,12 +19533,12 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.8409,
+      "fwci": 0.8275,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.75181028,
+        "value": 0.74797794,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22385,12 +22385,12 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 1.427,
+      "fwci": 1.3936,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.75169439,
+        "value": 0.74568663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39200,8 +39200,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -40006,13 +40006,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "score": 0.5925999879837036,
           "display_name": "Responsible consumption and production",
+          "score": 0.5925999879837036,
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -43070,8 +43070,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -44091,12 +44091,12 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 0.2631,
+      "fwci": 0.2586,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.40067641,
+        "value": 0.39047186,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55479,12 +55479,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4195,
+      "fwci": 0.4079,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.60946853,
+        "value": 0.59871365,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56569,12 +56569,12 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 0.1316,
+      "fwci": 0.1293,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.31403274,
+        "value": 0.30155124,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66760,18 +66760,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
           "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6"
         },
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "score": 0.5142999887466431,
           "display_name": "Sustainable cities and communities",
+          "score": 0.5142999887466431,
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -73011,8 +73011,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -74181,8 +74181,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Life below water",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -75790,693 +75790,10 @@
         "https://openalex.org/W241487776",
         "https://openalex.org/W253015472"
       ],
-      "abstract_inverted_index": {
-        "Development": [
-          0
-        ],
-        "of": [
-          1,
-          8,
-          14,
-          17,
-          25,
-          36,
-          39,
-          62,
-          80,
-          114,
-          133,
-          138,
-          144,
-          170,
-          229,
-          245,
-          258,
-          274,
-          281,
-          288,
-          300,
-          314,
-          320,
-          326,
-          330,
-          335
-        ],
-        "a": [
-          2,
-          33
-        ],
-        "predictive": [
-          3
-        ],
-        "model": [
-          4
-        ],
-        "for": [
-          5,
-          309
-        ],
-        "the": [
-          6,
-          23,
-          37,
-          48,
-          72,
-          115,
-          168,
-          227,
-          249,
-          298,
-          311
-        ],
-        "distribution": [
-          7,
-          38,
-          299,
-          312
-        ],
-        "diagenetic": [
-          9
-        ],
-        "alterations": [
-          10,
-          41,
-          302
-        ],
-        "and": [
-          11,
-          75,
-          78,
-          94,
-          107,
-          117,
-          122,
-          130,
-          140,
-          148,
-          176,
-          181,
-          184,
-          194,
-          202,
-          207,
-          211,
-          213,
-          217,
-          219,
-          232,
-          242,
-          253,
-          260,
-          265,
-          278,
-          283,
-          305,
-          324,
-          328
-        ],
-        "related": [
-          12,
-          331
-        ],
-        "evolution": [
-          13,
-          334
-        ],
-        "reservoir": [
-          15,
-          99,
-          332
-        ],
-        "quality": [
-          16,
-          100,
-          333
-        ],
-        "sandstones": [
-          18,
-          113,
-          132,
-          137,
-          143,
-          153,
-          244,
-          257,
-          273,
-          280,
-          287,
-          336
-        ],
-        "was": [
-          19
-        ],
-        "achieved": [
-          20
-        ],
-        "by": [
-          21,
-          205,
-          237,
-          268
-        ],
-        "integrating": [
-          22
-        ],
-        "knowledge": [
-          24
-        ],
-        "diagenesis": [
-          26
-        ],
-        "to": [
-          27,
-          91
-        ],
-        "sequence": [
-          28,
-          43,
-          92,
-          156
-        ],
-        "stratigraphy.": [
-          29
-        ],
-        "This": [
-          30
-        ],
-        "approach": [
-          31
-        ],
-        "allows": [
-          32
-        ],
-        "better": [
-          34
-        ],
-        "elucidation": [
-          35
-        ],
-        "eogenetic": [
-          40,
-          86,
-          301
-        ],
-        "within": [
-          42
-        ],
-        "stratigraphy,": [
-          44
-        ],
-        "because": [
-          45
-        ],
-        "changes": [
-          46,
-          53
-        ],
-        "in": [
-          47,
-          71,
-          111,
-          127,
-          152,
-          161,
-          182,
-          209,
-          226,
-          240,
-          255,
-          270,
-          284
-        ],
-        "relative": [
-          49
-        ],
-        "sea": [
-          50
-        ],
-        "level": [
-          51
-        ],
-        "induce": [
-          52
-        ],
-        "to:": [
-          54
-        ],
-        "(i)": [
-          55,
-          105
-        ],
-        "pore": [
-          56
-        ],
-        "water": [
-          57
-        ],
-        "chemistry,": [
-          58
-        ],
-        "(ii)": [
-          59,
-          125
-        ],
-        "residence": [
-          60
-        ],
-        "time": [
-          61
-        ],
-        "sediments": [
-          63
-        ],
-        "under": [
-          64
-        ],
-        "certain": [
-          65
-        ],
-        "near-surface": [
-          66
-        ],
-        "geochemical": [
-          67
-        ],
-        "conditions,": [
-          68
-        ],
-        "(iii)": [
-          69,
-          146
-        ],
-        "variations": [
-          70
-        ],
-        "detrital": [
-          73
-        ],
-        "composition,": [
-          74
-        ],
-        "(iv)": [
-          76,
-          158
-        ],
-        "amounts": [
-          77
-        ],
-        "type": [
-          79
-        ],
-        "organic": [
-          81
-        ],
-        "matter.This": [
-          82
-        ],
-        "thesis": [
-          83,
-          295
-        ],
-        "revealed": [
-          84,
-          296
-        ],
-        "that": [
-          85,
-          297
-        ],
-        "alterations,": [
-          87,
-          316
-        ],
-        "which": [
-          88
-        ],
-        "are": [
-          89
-        ],
-        "linked": [
-          90
-        ],
-        "stratigraphy": [
-          93
-        ],
-        "have": [
-          95
-        ],
-        "an": [
-          96
-        ],
-        "impact": [
-          97
-        ],
-        "on": [
-          98
-        ],
-        "evolution,": [
-          101
-        ],
-        "include": [
-          102
-        ],
-        "formation": [
-          103
-        ],
-        "of:": [
-          104
-        ],
-        "pseudomatrix": [
-          106
-        ],
-        "mechanically": [
-          108,
-          149,
-          321
-        ],
-        "infiltrated": [
-          109,
-          150,
-          322
-        ],
-        "clays": [
-          110,
-          151,
-          323
-        ],
-        "fluvial": [
-          112,
-          141,
-          162,
-          171
-        ],
-        "lowstand": [
-          116
-        ],
-        "highstand": [
-          118
-        ],
-        "systems": [
-          119,
-          187
-        ],
-        "tracts": [
-          120,
-          188
-        ],
-        "(LST": [
-          121
-        ],
-        "HST,": [
-          123,
-          134,
-          261
-        ],
-        "respectively),": [
-          124
-        ],
-        "kaolinite": [
-          126,
-          147
-        ],
-        "tide-dominated": [
-          128,
-          214,
-          276,
-          285
-        ],
-        "deltaic": [
-          129,
-          136,
-          142,
-          163,
-          172,
-          215,
-          272,
-          277,
-          286
-        ],
-        "foreshore-shoreface": [
-          131,
-          279
-        ],
-        "Gilbert-type": [
-          135,
-          271
-        ],
-        "LST": [
-          139,
-          173
-        ],
-        "LST,": [
-          145,
-          164,
-          275
-        ],
-        "lying": [
-          154
-        ],
-        "below": [
-          155,
-          175,
-          190,
-          248
-        ],
-        "boundary,": [
-          157
-        ],
-        "K-feldspar": [
-          159
-        ],
-        "overgrowths": [
-          160
-        ],
-        "(v)": [
-          165
-        ],
-        "glaucony": [
-          166
-        ],
-        "towards": [
-          167
-        ],
-        "top": [
-          169
-        ],
-        "immediately": [
-          174,
-          247
-        ],
-        "at": [
-          177,
-          291
-        ],
-        "transgressive": [
-          178,
-          186
-        ],
-        "surface": [
-          179,
-          197
-        ],
-        "(TS)": [
-          180
-        ],
-        "foreshore": [
-          183,
-          210
-        ],
-        "shoreface": [
-          185,
-          212,
-          218,
-          243,
-          256
-        ],
-        "(TST)": [
-          189
-        ],
-        "parasequence": [
-          191
-        ],
-        "boundaries": [
-          192
-        ],
-        "(PB)": [
-          193
-        ],
-        "maximum": [
-          195
-        ],
-        "flooding": [
-          196
-        ],
-        "(MFS),": [
-          198
-        ],
-        "(vi)": [
-          199
-        ],
-        "framboidal": [
-          200
-        ],
-        "pyrite": [
-          201
-        ],
-        "extensive": [
-          203
-        ],
-        "cementation": [
-          204,
-          236,
-          267
-        ],
-        "calcite": [
-          206
-        ],
-        "dolomite": [
-          208
-        ],
-        "TST,": [
-          216,
-          289
-        ],
-        "tidal": [
-          220
-        ],
-        "flat": [
-          221
-        ],
-        "HST": [
-          222,
-          282
-        ],
-        "bioclastic-rich": [
-          223
-        ],
-        "arenites": [
-          224
-        ],
-        "particularly": [
-          225,
-          262,
-          290
-        ],
-        "vicinity": [
-          228
-        ],
-        "PB,": [
-          230,
-          264
-        ],
-        "TS": [
-          231
-        ],
-        "MFS,": [
-          233,
-          250
-        ],
-        "(vii)": [
-          234
-        ],
-        "pervasive": [
-          235
-        ],
-        "iron": [
-          238
-        ],
-        "oxide": [
-          239
-        ],
-        "shoreface-offshore": [
-          241
-        ],
-        "TST": [
-          246,
-          259
-        ],
-        "(viii)": [
-          251
-        ],
-        "zeolites": [
-          252
-        ],
-        "palygroskite": [
-          254
-        ],
-        "above": [
-          263
-        ],
-        "(ix)": [
-          266
-        ],
-        "siderite": [
-          269
-        ],
-        "MFS.": [
-          292
-        ],
-        "Moreover,": [
-          293
-        ],
-        "this": [
-          294
-        ],
-        "strongly": [
-          303
-        ],
-        "control,": [
-          304
-        ],
-        "thus": [
-          306
-        ],
-        "provide": [
-          307
-        ],
-        "information": [
-          308
-        ],
-        "constraining": [
-          310
-        ],
-        "patterns": [
-          313
-        ],
-        "mesogenetic": [
-          315
-        ],
-        "such": [
-          317
-        ],
-        "as": [
-          318
-        ],
-        "illitization": [
-          319
-        ],
-        "dickitization": [
-          325
-        ],
-        "kaolinite,": [
-          327
-        ],
-        "hence": [
-          329
-        ],
-        "during": [
-          337
-        ],
-        "progressive": [
-          338
-        ],
-        "burial.": [
-          339
-        ]
-      },
+      "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W173315559",
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -80504,8 +79821,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -83243,8 +82560,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -85237,8 +84554,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "display_name": "Climate action",
+          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -87477,8 +86794,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -89774,13 +89091,13 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Responsible consumption and production",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/12"
         },
         {
-          "score": 1,
           "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -91239,13 +90556,13 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7207000255584717,
           "display_name": "Industry, innovation and infrastructure",
+          "score": 0.7207000255584717,
           "id": "https://metadata.un.org/sdg/9"
         },
         {
-          "score": 0.5142999887466431,
           "display_name": "Sustainable cities and communities",
+          "score": 0.5142999887466431,
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -93577,7 +92894,7 @@
         "last_page": null
       },
       "is_retracted": false,
-      "is_pulled": false,
+      "is_pulled": true,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
@@ -94649,7 +93966,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7135221865",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2026-03-14T00:00:00"
     }
   ]
