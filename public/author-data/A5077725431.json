@@ -1662,7 +1662,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 17
+          "cited_by_count": 16
         },
         {
           "year": 2015,
@@ -1681,7 +1681,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-18T13:11:19.462570",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2391,12 +2391,12 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 3.2083,
+      "fwci": 3.2103,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 113,
       "citation_normalized_percentile": {
-        "value": 0.89235607,
+        "value": 0.8923821,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3344,11 +3344,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2022,
-          "cited_by_count": 9
+          "cited_by_count": 8
         },
         {
           "year": 2021,
@@ -3391,7 +3391,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22276,8 +22276,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -22482,12 +22482,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5267,
+      "fwci": 0.5338,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.52,
+        "value": 0.52631579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25152,12 +25152,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 15.1357,
+      "fwci": 14.9509,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.9569378,
+        "value": 0.95609319,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25395,8 +25395,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7778000235557556,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -29297,7 +29297,7 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 86,
         "max": 93
       },
       "biblio": {
@@ -31696,8 +31696,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5217000246047974,
-          "display_name": "Partnerships for the goals",
-          "id": "https://metadata.un.org/sdg/17"
+          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals"
         }
       ],
       "study_designs": [],
@@ -32673,8 +32673,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4390000104904175,
-          "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],

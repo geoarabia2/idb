@@ -4,8 +4,22 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 02:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:14:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Beyond carbon stocks: Rethinking blue carbon and climate mitigation along Saudi Arabia&apos;s arid coasts</title>
+      <link>https://doi.org/10.1016/j.marpolbul.2026.120592</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7235887074</guid>
+      <dc:creator>Lolita Marheni, Mohamed Omar Abouelresh, Asif Raihan, Azher Hussain Syed, Luai Muhammad Alhelms</dc:creator>
+      <dc:publisher>Marine Pollution Bulletin</dc:publisher>
+      <category>Blue carbon</category>
+      <category>Environmental science</category>
+      <category>Carbon sink</category>
+      <category>Salt marsh</category>
+      <category>Carbon sequestration</category>
+      <description>Topics: Blue carbon, Environmental science, Carbon sink, Salt marsh, Carbon sequestration&#10;Venue: Marine Pollution Bulletin&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Fossil palynomorph identification as a testbed for comparing human and language-driven (large language model) intelligence</title>
       <link>https://doi.org/10.1016/j.revpalbo.2026.105771</link>
@@ -75,6 +89,20 @@
       <category>Artificial intelligence</category>
       <category>Data mining</category>
       <description>Abstract: Reservoir forecasts depend on facies–petrophysical relationships, yet evaluations of conditional generative adversarial networks (cGANs) can mistake memorization for inference when augmentations from one geomodel layer cross train–test boundaries. Baselines and property information inherent in facies labels are rarely quantified. We test Pix2Pix on six bidirectional facies–property tasks. Fifty-four layers of a seven-class, faulted Cretaceous Masila Basin reservoir model were split into contiguous depth blocks (36 training, 7 validation and 9 test; two buffer layers discarded); augmenting only training layers yielded 1,116 images. Each task used three seeds, three baselines, positional control, five-arm ablation and exact paired sign-permutation tests. Facies–property correlation ratios, the R² ceilings for facies-label-only property estimators, were 0.881 for clay volume (VCL), 0.715 for porosity and 0.213 for log₁₀ permeability; Pix2Pix reached the VCL and porosity ceilings but recovered only half the permeability ceiling. In forward modelling, it outperformed class-mean lookup, achieving R² values of 0.854 for VCL and 0.575 for porosity versus 0.696 and 0.146. Conversely, a one-dimensional Bayes classifier without spatial information outperformed Pix2Pix on all inverse tasks, including 95.6% versus 84.3% pixel accuracy for VCL-to-facies. Permeability remained hardest because facies labels contain little permeability information and omit connectivity, diagenesis and sub-fac…&#10;Topics: Benchmarking, Computer science, Translation (biology), Artificial intelligence, Data mining&#10;Venue: Results in Engineering&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Microbial–mineral coupling in laminated sabkha sediments at millimetre resolution</title>
+      <link>https://doi.org/10.1002/dep2.70092</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7236304434</guid>
+      <dc:creator>Maria Dittrich, Andreas Voegelin, Khoren Avetisyan, Sara Zaferani, Hamad Al-Saad Al-Kuwari, Tomaso R. R. Bontognali, Helmut Bürgmann</dc:creator>
+      <dc:publisher>The Depositional Record</dc:publisher>
+      <category>Authigenic</category>
+      <category>Sabkha</category>
+      <category>Microbial mat</category>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <description>Abstract: Abstract Hypersaline sabkhas represent dynamic environments where microbial activity, mineral precipitation and sedimentary processes interact to produce laminated surface structures. Here, we investigate the coupled microbial, mineralogical and elemental organisation of millimetre‐scale laminae within a six‐centimetre surface profile of the Dohat Faishakh sabkha (Qatar) using high‐resolution amplicon sequencing, X‐ray diffraction (XRD) and X‐ray fluorescence (XRF) mapping. Microbial communities exhibit pronounced vertical stratification, with diversity and composition varying systematically with depth. Surface layers are dominated by Cyanobacteria, while deeper horizons are enriched in anaerobic and halophilic taxa, including sulphate‐reducing and archaeal lineages. Across the profile, alpha diversity decreases with depth, and beta‐diversity analyses reveal distinct community clusters corresponding to sediment layers. Mineralogical analyses show that laminae are composed of mixtures of detrital siliciclastic and authigenic carbonates and evaporites, including aragonite, dolomite, gypsum, bassanite and anhydrite. Elemental mapping reveals mm‐ to cm‐scale periodicity in elemental distributions, indicating cyclical mineral deposition. Statistical integration of microbial and mineralogical datasets demonstrates significant associations between diversity metrics and mineral phases, and clustering analyses identify distinct geomicrobiological groups characterised by co‐occurring m…&#10;Topics: Authigenic, Sabkha, Microbial mat, Geology, Geochemistry&#10;Venue: The Depositional Record&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Air quality estimation failure in scarcest monitoring networks: analysis pipeline</title>
@@ -1250,7 +1278,7 @@
       <category>Geology</category>
       <category>Robustness (evolution)</category>
       <category>Pixel</category>
-      <description>Abstract: Reservoir geomodeling is central to subsurface characterization, but it remains challenging because conditioning data are sparse, geological heterogeneity is strong, and conventional geostatistical workflows often struggle to capture nonlinear relationships between facies and petrophysical properties. This study evaluates the robustness and transferability of Pix2Geomodel on a different and more complex reservoir dataset with reduced vertical support. The new case includes a heterogeneous reservoir-quality classification and only 54 retained layers, providing a stricter test of whether Pix2Pix-based image-to-image translation can preserve facies-property relationships under constrained data conditions. Facies, porosity, permeability, and clay volume (VCL) were extracted from a reference reservoir model, exported as aligned two-dimensional slices, augmented using consistent geometric transformations, and assembled into paired image datasets. Six bidirectional tasks were evaluated: facies to porosity, facies to permeability, facies to VCL, porosity to facies, permeability to facies, and VCL to facies. The Pix2Pix model, consisting of a U-Net generator and PatchGAN discriminator, was evaluated using image-based metrics, visual comparison, and variogram-based spatial-continuity validation. Results show that the model preserves the dominant geological architecture and main spatial-continuity trends. Facies to porosity achieved the highest pixel accuracy and frequency-weighted inte…&#10;Topics: Facies, Petrophysics, Geology, Robustness (evolution), Pixel&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 1</description>
+      <description>Abstract: Reservoir geomodeling is central to subsurface characterization, but it remains challenging because conditioning data are sparse, geological heterogeneity is strong, and conventional geostatistical workflows often struggle to capture nonlinear relationships between facies and petrophysical properties. This study evaluates the robustness and transferability of Pix2Geomodel on a different and more complex reservoir dataset with reduced vertical support. The new case includes a heterogeneous reservoir-quality classification and only 54 retained layers, providing a stricter test of whether Pix2Pix-based image-to-image translation can preserve facies-property relationships under constrained data conditions. Facies, porosity, permeability, and clay volume (VCL) were extracted from a reference reservoir model, exported as aligned two-dimensional slices, augmented using consistent geometric transformations, and assembled into paired image datasets. Six bidirectional tasks were evaluated: facies to porosity, facies to permeability, facies to VCL, porosity to facies, permeability to facies, and VCL to facies. The Pix2Pix model, consisting of a U-Net generator and PatchGAN discriminator, was evaluated using image-based metrics, visual comparison, and variogram-based spatial-continuity validation. Results show that the model preserves the dominant geological architecture and main spatial-continuity trends. Facies to porosity achieved the highest pixel accuracy and frequency-weighted inte…&#10;Topics: Facies, Petrophysics, Geology, Robustness (evolution), Pixel&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 2</description>
     </item>
     <item>
       <title>Reservoir property image slices from the Groningen gas field for image translation and segmentation</title>
@@ -1377,34 +1405,6 @@
       <category>Petrography</category>
       <category>Calcite</category>
       <description>Abstract: This study utilizes inorganic and organic petrography, programmed pyrolysis, carbon and oxygen isotopes, and fluid-inclusion microthermometry of the Lower Cretaceous Thamama Group limestone reservoir in the United Arab Emirates to constrain: (1) the composition, origin, and potential role of primary organic matter in stylolitization, and (2) the origin of diagenetic kaolin, sphalerite, anhydrite, fluorite, and dolomite in the vicinity of stylolites. The organic matter along the stylolites consists predominantly of marine (alginite), with a smaller contribution from terrestrial macerals, including vitrinite and inertinite. The mean random vitrinite reflectance (Ro) ranges from 0.6 to 0.7%, suggesting early stages of the oil window. Low-molecular-weight (LMW) aqueous organic acids, generated through the thermal cracking of organic matter, may have played a role in facilitating the stylolitization process. Stylolitization was accompanied by the dissolution and cementation of host limestones, marked by abundant calcite micro-overgrowths, and blocky calcite cement. The generation of organic acids is supported by the presence of diagenetic kaolin booklets near the stylolites, along with the significant positive correlation between δ 13 C carb and δ 13 C org values. This study provides new insights into the mechanism of stylolite formation, highlighting the potential role of organic matter in this process.&#10;Topics: Stylolite, Diagenesis, Geology, Petrography, Calcite&#10;Venue: Petroleum Geoscience&#10;Year: 2026&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Global carbon cycling linked to eustatic changes in the aftermath of the early Aptian Oceanic Anoxic Event (OAE1a)</title>
-      <link>https://doi.org/10.1016/j.gloplacha.2026.105497</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7155892393</guid>
-      <dc:creator>Daniel Muñoz‐López, Telm Bover‐Arnal, Adhipa Herlambang, Ardiansyah Koeshidayatullah</dc:creator>
-      <dc:publisher>Global and Planetary Change</dc:publisher>
-      <category>Aptian</category>
-      <category>Geology</category>
-      <category>Anoxic waters</category>
-      <category>Event (particle physics)</category>
-      <category>Carbon cycle</category>
-      <description>Abstract: The Aptian experienced significant carbon-cycle disruptions, marked by notable paleoclimatic and paleoceanographic shifts. While the mechanisms behind the Aptian oceanic anoxic events (OAE) are relatively well-understood, the interplay between global carbon-cycle dynamics and sea-level changes immediately following the early Aptian OAE1a remains enigmatic. By analyzing a carbonate succession from the western Tethys (eastern Spain), dated using ammonite biostratigraphy as Deshayesites deshayesi and Dufrenoyia furcata zones, we identify a temporal correlation between a sea-level highstand and a subsequent fall, aligning respectively with a global carbon-isotope excursion exceeding +4‰, unprecedented in the Cretaceous, and a sharp negative isotopic shift from +4.3‰ to −0.7‰. The concurrence of these sea-level fluctuations and carbon isotope variations across multiple regions underscores the eustatic origin of sea-level change and its profound impact on global carbon cycling. We propose that during highstand and transgressive stages, sea expansion acted as a carbon sink, facilitating the increased burial of isotopically light carbon. Conversely, rapid sea-level falls likely triggered sediment reworking, reintroducing this light carbon into the dissolved inorganic carbon (DIC) of the global ocean. This study highlights the overlooked role of remobilized sediments as a source of carbon during the Aptian, commonly attributed to volcanic degassing, and emphasizes the immediate and si…&#10;Topics: Aptian, Geology, Anoxic waters, Event (particle physics), Carbon cycle&#10;Venue: Global and Planetary Change&#10;Year: 2026&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution</title>
-      <link>https://doi.org/10.6084/m9.figshare.32095661</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7155508834</guid>
-      <dc:creator>Andrea Pezzotta, Alessia Marinoni, Mohammed H. Al Kindi, Davide Susini, Sam Turner, Michele Zucali, Andrea Zerboni</dc:creator>
-      <dc:publisher>Figshare</dc:publisher>
-      <category>Geology</category>
-      <category>Landform</category>
-      <category>Paleontology</category>
-      <category>Tectonics</category>
-      <category>Cretaceous</category>
-      <description>Abstract: This study presents a comprehensive geomorphological map of the Jebel Akhdar dome in the northern Sultanate of Oman, a prominent carbonate dome formed during the Late Cretaceous obduction of the Semail Ophiolite. The integration of remote sensing observations and field surveys validations permits to recognise landforms at different scales, and thus complete the geomorphological mapping. The research identifies key landforms shaped by complex interactions between tectonics, surface processes, and climate. The region&apos;s landscape reflects a long evolutionary history beginning with Late Cretaceous and Cenozoic tectonic doming and uplift, followed by prevailing exogenous processes during the Miocene-Quaternary, characterised by erosion, karstification, and fluvial and slope processes, with ongoing tectonic activity influencing landscape dynamics. Human interventions have also affected topographic features. Overall, the geomorphology of Jebel Akhdar dome exemplifies the interplay of endogenous and exogenous forces over geological timescales, providing vital insights into landscape evolution in arid environments and complex geodynamic settings.&#10;Topics: Geology, Landform, Paleontology, Tectonics, Cretaceous&#10;Venue: Figshare&#10;Year: 2026&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

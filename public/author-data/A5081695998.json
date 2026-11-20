@@ -6173,12 +6173,12 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 3.694,
+      "fwci": 3.6371,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.93956906,
+        "value": 0.9384582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8041,12 +8041,12 @@
         "value_usd": 2600
       },
       "apc_paid": null,
-      "fwci": 2.1263,
+      "fwci": 2.1029,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.85565888,
+        "value": 0.85400622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9298,12 +9298,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9864,
+      "fwci": 1.9605,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.82148134,
+        "value": 0.81912262,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11112,14 +11112,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.7811999917030334,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
+          "display_name": "Life on land",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -15027,9 +15027,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -15361,12 +15361,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.7223,
+      "fwci": 0.7129,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.6470097,
+        "value": 0.64241083,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21203,12 +21203,12 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.2842,
+      "fwci": 0.2798,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.45476598,
+        "value": 0.44728088,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26196,10 +26196,14 @@
           "listed_in": [
             "cwts-core"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4404678478",
+          "host_organization_name": "Graphy Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404678478"
+          ],
+          "host_organization_lineage_names": [
+            "Graphy Publications"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -26252,7 +26256,7 @@
           "countries": [
             "OM"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Narasimman Sundararajan",
           "raw_affiliation_strings": [
             "Department of Earth Science, College of Science, Sultan Qaboos University, Muscat, Sultante of Oman"
@@ -26452,16 +26456,20 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5101042799"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I47818738"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7104,
+      "fwci": 0.6995,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.60530822,
+        "value": 0.59979751,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26812,10 +26820,14 @@
             "listed_in": [
               "cwts-core"
             ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4404678478",
+            "host_organization_name": "Graphy Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404678478"
+            ],
+            "host_organization_lineage_names": [
+              "Graphy Publications"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -26846,10 +26858,14 @@
           "listed_in": [
             "cwts-core"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4404678478",
+          "host_organization_name": "Graphy Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404678478"
+          ],
+          "host_organization_lineage_names": [
+            "Graphy Publications"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -27597,7 +27613,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2019-04-25T00:00:00"
     },
     {
@@ -28949,12 +28965,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.1575,
+      "fwci": 0.1536,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.39106006,
+        "value": 0.37726082,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31685,9 +31701,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.7811999917030334,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -32127,12 +32143,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.1394,
+      "fwci": 0.1377,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.35054005,
+        "value": 0.34397163,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39174,887 +39190,6 @@
       "counts_by_year": [],
       "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2022-05-12T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4392685114",
-      "doi": "https://doi.org/10.1190/iceg2023-042.1",
-      "title": "RETRACTED: Geophysical modeling helps interpret subsurface data: Example from North Oman",
-      "display_name": "RETRACTED: Geophysical modeling helps interpret subsurface data: Example from North Oman",
-      "alternate_titles": [],
-      "publication_year": 2024,
-      "publication_date": "2024-03-12",
-      "ids": {
-        "openalex": "https://openalex.org/W4392685114",
-        "doi": "https://doi.org/10.1190/iceg2023-042.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/iceg2023-042.1",
-        "doi": "https://doi.org/10.1190/iceg2023-042.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/iceg2023-042.1",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Global Meeting Abstracts",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W4392685114"
-      ],
-      "child_works_count": 0,
-      "type": "conference-abstract",
-      "is_traditional": false,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5078036264",
-            "display_name": "Mohammed Farfour",
-            "orcid": "https://orcid.org/0000-0001-9023-1782",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9023-1782"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Farfour",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University 1",
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University 1",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5050277999",
-            "display_name": "Talal K. Al-Hosni",
-            "orcid": "https://orcid.org/0000-0003-1272-5204",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1272-5204"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Talal Al-Hosni",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University 1",
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University 1",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081695998",
-            "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8467-4528"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Salah Al-Khirbash",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University 1",
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University 1",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7850-3471"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed A.K. El-Ghali",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University 1",
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University 1",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I47818738"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "1",
-        "issue": null,
-        "first_page": "183",
-        "last_page": "185"
-      },
-      "is_retracted": true,
-      "is_pulled": true,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10572",
-        "display_name": "Geophysical and Geoelectrical Methods",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10572",
-          "display_name": "Geophysical and Geoelectrical Methods",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11609",
-          "display_name": "Geophysical Methods and Applications",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geophysical-modeling",
-          "display_name": "geophysical modeling",
-          "score": 0.9120000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/resistivity-interpretation",
-          "display_name": "resistivity interpretation",
-          "score": 0.6330000162124634
-        },
-        {
-          "id": "https://openalex.org/keywords/cavity-detection",
-          "display_name": "cavity detection",
-          "score": 0.753000020980835
-        },
-        {
-          "id": "https://openalex.org/keywords/petrophysical-properties",
-          "display_name": "petrophysical properties",
-          "score": 0.9409999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/formation-dip",
-          "display_name": "formation dip",
-          "score": 0.7480000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity-and-permeability",
-          "display_name": "porosity and permeability",
-          "score": 0.7639999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/north-oman",
-          "display_name": "North Oman",
-          "score": 0.6029999852180481
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6470625996589661
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.6008486151695251
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/iceg2023-042.1",
-          "doi": "https://doi.org/10.1190/iceg2023-042.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/iceg2023-042.1",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Global Meeting Abstracts",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 3,
-      "referenced_works": [
-        "https://openalex.org/W2129108890",
-        "https://openalex.org/W3014851473",
-        "https://openalex.org/W4206513680"
-      ],
-      "related_works": [
-        "https://openalex.org/W4392685312",
-        "https://openalex.org/W1493889519",
-        "https://openalex.org/W7061435582",
-        "https://openalex.org/W2772861970",
-        "https://openalex.org/W2245319225",
-        "https://openalex.org/W2341143492",
-        "https://openalex.org/W1995261115",
-        "https://openalex.org/W1967729256",
-        "https://openalex.org/W2892369315",
-        "https://openalex.org/W2528393443"
-      ],
-      "abstract_inverted_index": {
-        "Geophysicists": [
-          0
-        ],
-        "use": [
-          1
-        ],
-        "numerous": [
-          2
-        ],
-        "assumptions": [
-          3
-        ],
-        "and": [
-          4,
-          15,
-          25,
-          117,
-          129,
-          182,
-          201,
-          204
-        ],
-        "simplifications": [
-          5
-        ],
-        "to": [
-          6,
-          18,
-          22,
-          80,
-          83,
-          89,
-          115,
-          125,
-          137
-        ],
-        "help": [
-          7,
-          138
-        ],
-        "them": [
-          8,
-          17
-        ],
-        "interpret": [
-          9,
-          140
-        ],
-        "geophysical": [
-          10,
-          26,
-          135
-        ],
-        "data": [
-          11,
-          30,
-          56,
-          143
-        ],
-        "collected": [
-          12,
-          58,
-          144
-        ],
-        "from": [
-          13,
-          59,
-          78,
-          113,
-          145,
-          152
-        ],
-        "subsurface": [
-          14
-        ],
-        "relate": [
-          16
-        ],
-        "geology.": [
-          19
-        ],
-        "However,": [
-          20
-        ],
-        "due": [
-          21
-        ],
-        "geological": [
-          23
-        ],
-        "complications": [
-          24
-        ],
-        "over": [
-          27
-        ],
-        "simplification,": [
-          28
-        ],
-        "the": [
-          29,
-          93,
-          127,
-          141,
-          146,
-          153,
-          158,
-          164,
-          167,
-          186,
-          189,
-          198
-        ],
-        "interpretation": [
-          31
-        ],
-        "faces": [
-          32
-        ],
-        "many": [
-          33
-        ],
-        "challenges": [
-          34,
-          48
-        ],
-        "such": [
-          35
-        ],
-        "as": [
-          36,
-          169,
-          171
-        ],
-        "non-uniqueness,": [
-          37
-        ],
-        "uncertainty,": [
-          38
-        ],
-        "etc.,": [
-          39
-        ],
-        "Geophysical": [
-          40
-        ],
-        "modeling": [
-          41,
-          136,
-          150,
-          190
-        ],
-        "plays": [
-          42
-        ],
-        "a": [
-          43,
-          100,
-          194
-        ],
-        "key": [
-          44
-        ],
-        "role": [
-          45
-        ],
-        "in": [
-          46,
-          62,
-          76,
-          92,
-          109,
-          122
-        ],
-        "reducing": [
-          47
-        ],
-        "associated": [
-          49
-        ],
-        "with": [
-          50
-        ],
-        "interpretation.": [
-          51
-        ],
-        "In": [
-          52
-        ],
-        "this": [
-          53,
-          123
-        ],
-        "study,": [
-          54
-        ],
-        "resistivity": [
-          55,
-          142,
-          159
-        ],
-        "is": [
-          57,
-          68,
-          87,
-          98,
-          103,
-          120,
-          160
-        ],
-        "two": [
-          60,
-          147
-        ],
-        "sites": [
-          61
-        ],
-        "North": [
-          63
-        ],
-        "Oman.": [
-          64
-        ],
-        "The": [
-          65,
-          95,
-          107,
-          149
-        ],
-        "first": [
-          66,
-          154
-        ],
-        "site": [
-          67,
-          97,
-          111,
-          124,
-          155
-        ],
-        "characterized": [
-          69
-        ],
-        "by": [
-          70,
-          163
-        ],
-        "tilted": [
-          71
-        ],
-        "thin": [
-          72
-        ],
-        "layers": [
-          73,
-          108
-        ],
-        "that": [
-          74,
-          102,
-          110,
-          157,
-          179
-        ],
-        "differ": [
-          75
-        ],
-        "lithology": [
-          77
-        ],
-        "sandstone,": [
-          79
-        ],
-        "dolomitic": [
-          81
-        ],
-        "conglomerate,": [
-          82
-        ],
-        "claystone.": [
-          84
-        ],
-        "Resistivity": [
-          85,
-          119
-        ],
-        "method": [
-          86
-        ],
-        "conducted": [
-          88,
-          121
-        ],
-        "delineate": [
-          90
-        ],
-        "groundwater": [
-          91
-        ],
-        "area.": [
-          94
-        ],
-        "second": [
-          96,
-          187
-        ],
-        "near": [
-          99
-        ],
-        "cavity": [
-          101,
-          128,
-          199
-        ],
-        "exposed": [
-          104
-        ],
-        "on": [
-          105
-        ],
-        "surface.": [
-          106
-        ],
-        "vary": [
-          112,
-          180
-        ],
-        "limestone": [
-          114
-        ],
-        "conglomerate": [
-          116
-        ],
-        "Marl.": [
-          118
-        ],
-        "detect": [
-          126
-        ],
-        "predict": [
-          130
-        ],
-        "its": [
-          131,
-          202
-        ],
-        "extension.": [
-          132,
-          206
-        ],
-        "We": [
-          133
-        ],
-        "conduct": [
-          134
-        ],
-        "us": [
-          139,
-          192
-        ],
-        "sites.": [
-          148
-        ],
-        "results": [
-          151
-        ],
-        "showed": [
-          156
-        ],
-        "highly": [
-          161
-        ],
-        "influenced": [
-          162
-        ],
-        "dip": [
-          165
-        ],
-        "of": [
-          166,
-          197
-        ],
-        "formations": [
-          168
-        ],
-        "well": [
-          170
-        ],
-        "their": [
-          172
-        ],
-        "petrophysical": [
-          173
-        ],
-        "properties": [
-          174
-        ],
-        "(porosity,": [
-          175
-        ],
-        "permeability,": [
-          176
-        ],
-        "saturation": [
-          177
-        ],
-        "etc.)": [
-          178
-        ],
-        "laterally": [
-          181
-        ],
-        "vertically.": [
-          183
-        ],
-        "As": [
-          184
-        ],
-        "for": [
-          185
-        ],
-        "site,": [
-          188
-        ],
-        "helped": [
-          191
-        ],
-        "gain": [
-          193
-        ],
-        "good": [
-          195
-        ],
-        "understating": [
-          196
-        ],
-        "response": [
-          200
-        ],
-        "lateral": [
-          203
-        ],
-        "vertical": [
-          205
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392685114",
-      "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
-      "created_date": "2024-03-13T00:00:00"
     },
     {
       "id": "https://openalex.org/W4394361529",
@@ -49872,7 +49007,48 @@
           }
         }
       ],
-      "keywords": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/arabian-shield",
+          "display_name": "Arabian Shield",
+          "score": 0.8360000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/nd-isotopes",
+          "display_name": "Nd isotopes",
+          "score": 0.6119999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/pb-isotopes",
+          "display_name": "lead isotopes",
+          "score": 0.996999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/geochronology",
+          "display_name": "geochronology",
+          "score": 0.6470000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/ophiolite",
+          "display_name": "ophiolite",
+          "score": 0.7950000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/mafic-volcanics",
+          "display_name": "mafic volcanic rock",
+          "score": 0.6930000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-crust-contamination",
+          "display_name": "continental crust contamination",
+          "score": 0.4320000112056732
+        },
+        {
+          "id": "https://openalex.org/keywords/terrane-assembly",
+          "display_name": "terrane assembly",
+          "score": 0.35899999737739563
+        }
+      ],
       "concepts": [
         {
           "id": "https://openalex.org/C150999391",
@@ -50193,7 +49369,18 @@
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W6977381686",
+        "https://openalex.org/W7130379539",
+        "https://openalex.org/W7130398866",
+        "https://openalex.org/W2063208379",
+        "https://openalex.org/W2999006960",
+        "https://openalex.org/W4250688638",
+        "https://openalex.org/W2801335507",
+        "https://openalex.org/W4407515057",
+        "https://openalex.org/W7147208178",
+        "https://openalex.org/W2011145781"
+      ],
       "abstract_inverted_index": {
         "605": [
           125
@@ -50646,7 +49833,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7235155916",
       "counts_by_year": [],
-      "updated_date": "2026-11-18T13:11:19.462570",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2026-11-18T00:00:00"
     }
   ]

@@ -4303,8 +4303,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536,
           "display_name": "Climate action"
         }
       ],
@@ -5305,12 +5305,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5621,
+      "fwci": 3.5248,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.91159008,
+        "value": 0.91020074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7682,12 +7682,12 @@
         "value_usd": 2910
       },
       "apc_paid": null,
-      "fwci": 1.836,
+      "fwci": 1.8147,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.82717989,
+        "value": 0.82542985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12865,8 +12865,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action"
         }
       ],
@@ -16538,8 +16538,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8999999761581421,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -16961,12 +16961,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.2641,
+      "fwci": 1.2476,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.73797135,
+        "value": 0.73463942,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17660,12 +17660,12 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.2787,
+      "fwci": 0.2754,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.44494319,
+        "value": 0.43907801,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18601,8 +18601,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
           "display_name": "Life below water"
         }
       ],
@@ -21019,13 +21019,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.965499997138977,
           "display_name": "Clean water and sanitation"
         },
         {
-          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.7811999917030334,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -22925,1057 +22925,6 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-16T12:05:36.265796",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1965772856",
-      "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
-      "title": "The paleoclimate of the eastern desert of Jordan during marine isotope stage 9",
-      "display_name": "The paleoclimate of the eastern desert of Jordan during marine isotope stage 9",
-      "alternate_titles": [],
-      "publication_year": 2008,
-      "publication_date": "2008-04-26",
-      "ids": {
-        "openalex": "https://openalex.org/W1965772856",
-        "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
-        "mag": "1965772856"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.yqres.2008.02.006",
-        "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.yqres.2008.02.006",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S202995604",
-          "display_name": "Quaternary Research",
-          "issn_l": "0033-5894",
-          "issn": [
-            "0033-5894",
-            "1096-0287"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-b",
-            "erih-plus",
-            "jufo-1",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310311721",
-          "host_organization_name": "Cambridge University Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311721",
-            "https://openalex.org/P4310311702"
-          ],
-          "host_organization_lineage_names": [
-            "Cambridge University Press",
-            "University of Cambridge"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Quaternary Research",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W1965772856"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7843-4218"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulkader M. Abed",
-          "raw_affiliation_strings": [
-            "University of Jordan",
-            "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111725569",
-            "display_name": "Suha Yasin",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Suha Yasin",
-          "raw_affiliation_strings": [
-            "Natural Resources Authority, P. O. Box 7, Amman, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Natural Resources Authority, P. O. Box 7, Amman, Jordan",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5012352321",
-            "display_name": "Rushdi Sadaqa",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rushdi Sadaqa",
-          "raw_affiliation_strings": [
-            "University of Jordan",
-            "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5000000797",
-            "display_name": "Zayed Al-Hawari",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zayed Al-Hawari",
-          "raw_affiliation_strings": [
-            "University of Jordan",
-            "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5102809672"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I114972647"
-      ],
-      "apc_list": {
-        "value": 3550,
-        "currency": "USD",
-        "value_usd": 3550
-      },
-      "apc_paid": null,
-      "fwci": 0.791,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 29,
-      "citation_normalized_percentile": {
-        "value": 0.67050993,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 92,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "69",
-        "issue": "3",
-        "first_page": "458",
-        "last_page": "468"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.9580000042915344,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9580000042915344,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.034299999475479126,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.002300000051036477,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/paleoclimate",
-          "display_name": "paleoclimate",
-          "score": 0.9330000281333923
-        },
-        {
-          "id": "https://openalex.org/keywords/marine-isotope-stage-9",
-          "display_name": "Marine Isotope Stage 9",
-          "score": 0.9359999895095825
-        },
-        {
-          "id": "https://openalex.org/keywords/u-th-dating",
-          "display_name": "U-Th dating",
-          "score": 0.8529999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/azraq-basin",
-          "display_name": "Azraq Basin",
-          "score": 0.7149999737739563
-        },
-        {
-          "id": "https://openalex.org/keywords/paleolakes",
-          "display_name": "paleolakes",
-          "score": 0.6520000100135803
-        },
-        {
-          "id": "https://openalex.org/keywords/charophytes",
-          "display_name": "charophytes",
-          "score": 0.7630000114440918
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-gastropods",
-          "display_name": "fossil gastropods",
-          "score": 0.8569999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/mediterranean-cyclones",
-          "display_name": "Mediterranean cyclones",
-          "score": 0.6439999938011169
-        },
-        {
-          "id": "https://openalex.org/keywords/summer-monsoon",
-          "display_name": "summer monsoon",
-          "score": 0.7450000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/paleohumidity",
-          "display_name": "paleohumidity",
-          "score": 0.5580000281333923
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.834133505821228
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7788916826248169
-        },
-        {
-          "id": "https://openalex.org/C33683781",
-          "wikidata": "https://www.wikidata.org/wiki/Q191069",
-          "display_name": "Paleoclimatology",
-          "level": 3,
-          "score": 0.6880117058753967
-        },
-        {
-          "id": "https://openalex.org/C150772632",
-          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
-          "display_name": "Arid",
-          "level": 2,
-          "score": 0.6263235211372375
-        },
-        {
-          "id": "https://openalex.org/C136996986",
-          "wikidata": "https://www.wikidata.org/wiki/Q42967",
-          "display_name": "Monsoon",
-          "level": 2,
-          "score": 0.5838914513587952
-        },
-        {
-          "id": "https://openalex.org/C4646841",
-          "wikidata": "https://www.wikidata.org/wiki/Q13996",
-          "display_name": "Mediterranean climate",
-          "level": 2,
-          "score": 0.5801857113838196
-        },
-        {
-          "id": "https://openalex.org/C2780518792",
-          "wikidata": "https://www.wikidata.org/wiki/Q2166215",
-          "display_name": "Marine isotope stage",
-          "level": 4,
-          "score": 0.4960959851741791
-        },
-        {
-          "id": "https://openalex.org/C2780181037",
-          "wikidata": "https://www.wikidata.org/wiki/Q371542",
-          "display_name": "Dolomite",
-          "level": 2,
-          "score": 0.4710787832736969
-        },
-        {
-          "id": "https://openalex.org/C14400755",
-          "wikidata": "https://www.wikidata.org/wiki/Q190946",
-          "display_name": "Desert climate",
-          "level": 3,
-          "score": 0.4668130874633789
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.46263378858566284
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4289700388908386
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.39611631631851196
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.3746948540210724
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3094944953918457
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.29546651244163513
-        },
-        {
-          "id": "https://openalex.org/C160464908",
-          "wikidata": "https://www.wikidata.org/wiki/Q26185",
-          "display_name": "Quaternary",
-          "level": 2,
-          "score": 0.19239866733551025
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.17578166723251343
-        },
-        {
-          "id": "https://openalex.org/C186240526",
-          "wikidata": "https://www.wikidata.org/wiki/Q487294",
-          "display_name": "Interglacial",
-          "level": 3,
-          "score": 0.11988842487335205
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.09675410389900208
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.yqres.2008.02.006",
-          "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.yqres.2008.02.006",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S202995604",
-            "display_name": "Quaternary Research",
-            "issn_l": "0033-5894",
-            "issn": [
-              "0033-5894",
-              "1096-0287"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-b",
-              "erih-plus",
-              "jufo-1",
-              "norway-1",
-              "poland-100",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310311721",
-            "host_organization_name": "Cambridge University Press",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311721",
-              "https://openalex.org/P4310311702"
-            ],
-            "host_organization_lineage_names": [
-              "Cambridge University Press",
-              "University of Cambridge"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Quaternary Research",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320323382",
-          "display_name": "University of Jordan",
-          "ror": "https://ror.org/05k89ew48"
-        },
-        {
-          "id": "https://openalex.org/F4320323855",
-          "display_name": "Yarmouk University",
-          "ror": "https://ror.org/004mbaj56"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 45,
-      "referenced_works": [
-        "https://openalex.org/W181607887",
-        "https://openalex.org/W571645596",
-        "https://openalex.org/W582984162",
-        "https://openalex.org/W593287019",
-        "https://openalex.org/W614825625",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W642801666",
-        "https://openalex.org/W647015952",
-        "https://openalex.org/W1497395003",
-        "https://openalex.org/W1547519091",
-        "https://openalex.org/W1654234791",
-        "https://openalex.org/W1968172155",
-        "https://openalex.org/W1970797589",
-        "https://openalex.org/W1979481103",
-        "https://openalex.org/W1990925117",
-        "https://openalex.org/W1991847626",
-        "https://openalex.org/W1998519435",
-        "https://openalex.org/W2020150676",
-        "https://openalex.org/W2020715324",
-        "https://openalex.org/W2025146952",
-        "https://openalex.org/W2029535802",
-        "https://openalex.org/W2038312597",
-        "https://openalex.org/W2039093876",
-        "https://openalex.org/W2040046731",
-        "https://openalex.org/W2049755676",
-        "https://openalex.org/W2066739634",
-        "https://openalex.org/W2067118661",
-        "https://openalex.org/W2072736184",
-        "https://openalex.org/W2073224371",
-        "https://openalex.org/W2080536329",
-        "https://openalex.org/W2082197446",
-        "https://openalex.org/W2093664100",
-        "https://openalex.org/W2121829211",
-        "https://openalex.org/W2127788378",
-        "https://openalex.org/W2161111670",
-        "https://openalex.org/W2161480748",
-        "https://openalex.org/W2184892506",
-        "https://openalex.org/W2285052570",
-        "https://openalex.org/W2464744312",
-        "https://openalex.org/W2474818391",
-        "https://openalex.org/W2505792332",
-        "https://openalex.org/W2746856766",
-        "https://openalex.org/W2769152800",
-        "https://openalex.org/W2886976121",
-        "https://openalex.org/W4248851121"
-      ],
-      "related_works": [
-        "https://openalex.org/W1993400503",
-        "https://openalex.org/W3135362120",
-        "https://openalex.org/W6958880680",
-        "https://openalex.org/W2897318453",
-        "https://openalex.org/W1993718309",
-        "https://openalex.org/W4417114575",
-        "https://openalex.org/W7065515362",
-        "https://openalex.org/W2790411380",
-        "https://openalex.org/W7001715093",
-        "https://openalex.org/W3209056349"
-      ],
-      "abstract_inverted_index": {
-        "9": [
-          99
-        ],
-        "50": [
-          73
-        ],
-        "330": [
-          21
-        ],
-        "Two": [
-          0
-        ],
-        "Cardium": [
-          1
-        ],
-        "horizons": [
-          2
-        ],
-        "from": [
-          3,
-          132
-        ],
-        "the": [
-          4,
-          9,
-          35,
-          43,
-          77,
-          86,
-          91,
-          126,
-          133
-        ],
-        "topmost": [
-          5
-        ],
-        "Azraq": [
-          6,
-          78
-        ],
-        "Formation": [
-          7
-        ],
-        "in": [
-          8,
-          90,
-          100
-        ],
-        "eastern": [
-          10,
-          92
-        ],
-        "desert": [
-          11,
-          93
-        ],
-        "of": [
-          12,
-          37,
-          45,
-          71,
-          88,
-          94,
-          109,
-          128
-        ],
-        "Jordan": [
-          13,
-          101
-        ],
-        "were": [
-          14
-        ],
-        "investigated": [
-          15
-        ],
-        "and": [
-          16,
-          27,
-          32,
-          40,
-          65,
-          96
-        ],
-        "dated": [
-          17
-        ],
-        "by": [
-          18
-        ],
-        "U/Th": [
-          19
-        ],
-        "at": [
-          20,
-          55
-        ],
-        "ka;": [
-          22
-        ],
-        "MIS": [
-          23,
-          98,
-          123
-        ],
-        "9.": [
-          24,
-          124
-        ],
-        "Fossil": [
-          25
-        ],
-        "diversity": [
-          26
-        ],
-        "abundance,": [
-          28
-        ],
-        "especially": [
-          29
-        ],
-        "for": [
-          30
-        ],
-        "Charophytes": [
-          31
-        ],
-        "gastropods": [
-          33
-        ],
-        "with": [
-          34,
-          119
-        ],
-        "absence": [
-          36
-        ],
-        "palygorskite,": [
-          38
-        ],
-        "dolomite": [
-          39
-        ],
-        "evaporites,": [
-          41
-        ],
-        "suggest": [
-          42
-        ],
-        "presence": [
-          44,
-          87
-        ],
-        "a": [
-          46,
-          52
-        ],
-        "fresh": [
-          47
-        ],
-        "water": [
-          48
-        ],
-        "lake": [
-          49,
-          60
-        ],
-        "changing": [
-          50
-        ],
-        "to": [
-          51
-        ],
-        "brackish": [
-          53
-        ],
-        "environment": [
-          54
-        ],
-        "certain": [
-          56
-        ],
-        "time": [
-          57
-        ],
-        "intervals.": [
-          58
-        ],
-        "A": [
-          59
-        ],
-        "or": [
-          61
-        ],
-        "possibly": [
-          62
-        ],
-        "several": [
-          63
-        ],
-        "smaller": [
-          64
-        ],
-        "shallower": [
-          66
-        ],
-        "lakes": [
-          67,
-          89
-        ],
-        "occupied": [
-          68
-        ],
-        "an": [
-          69
-        ],
-        "area": [
-          70
-        ],
-        "about": [
-          72
-        ],
-        "km": [
-          74
-        ],
-        "wide": [
-          75
-        ],
-        "within": [
-          76
-        ],
-        "Basin.": [
-          79
-        ],
-        "The": [
-          80,
-          107
-        ],
-        "present-day": [
-          81
-        ],
-        "arid": [
-          82
-        ],
-        "climate": [
-          83
-        ],
-        "cannot": [
-          84,
-          135
-        ],
-        "support": [
-          85
-        ],
-        "Jordan,": [
-          95
-        ],
-        "thus": [
-          97
-        ],
-        "must": [
-          102
-        ],
-        "have": [
-          103
-        ],
-        "been": [
-          104
-        ],
-        "much": [
-          105
-        ],
-        "wetter.": [
-          106
-        ],
-        "source": [
-          108
-        ],
-        "humidity": [
-          110
-        ],
-        "was": [
-          111
-        ],
-        "most": [
-          112
-        ],
-        "probably": [
-          113
-        ],
-        "more": [
-          114
-        ],
-        "intense": [
-          115
-        ],
-        "Mediterranean": [
-          116
-        ],
-        "cyclones": [
-          117
-        ],
-        "associated": [
-          118
-        ],
-        "warmer": [
-          120
-        ],
-        "than": [
-          121
-        ],
-        "present": [
-          122
-        ],
-        "However,": [
-          125
-        ],
-        "possibility": [
-          127
-        ],
-        "summer": [
-          129
-        ],
-        "monsoon": [
-          130
-        ],
-        "rain": [
-          131
-        ],
-        "south": [
-          134
-        ],
-        "be": [
-          136
-        ],
-        "fully": [
-          137
-        ],
-        "excluded.": [
-          138
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1965772856",
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
           "cited_by_count": 2
         }
       ],
@@ -27743,8 +26692,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.965499997138977,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -28369,6 +27318,1057 @@
         }
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1965772856",
+      "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
+      "title": "The paleoclimate of the eastern desert of Jordan during marine isotope stage 9",
+      "display_name": "The paleoclimate of the eastern desert of Jordan during marine isotope stage 9",
+      "alternate_titles": [],
+      "publication_year": 2008,
+      "publication_date": "2008-04-26",
+      "ids": {
+        "openalex": "https://openalex.org/W1965772856",
+        "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
+        "mag": "1965772856"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.yqres.2008.02.006",
+        "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.yqres.2008.02.006",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S202995604",
+          "display_name": "Quaternary Research",
+          "issn_l": "0033-5894",
+          "issn": [
+            "0033-5894",
+            "1096-0287"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "erih-plus",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310311721",
+          "host_organization_name": "Cambridge University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311721",
+            "https://openalex.org/P4310311702"
+          ],
+          "host_organization_lineage_names": [
+            "Cambridge University Press",
+            "University of Cambridge"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Quaternary Research",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1965772856"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulkader M. Abed",
+          "raw_affiliation_strings": [
+            "University of Jordan",
+            "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111725569",
+            "display_name": "Suha Yasin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Suha Yasin",
+          "raw_affiliation_strings": [
+            "Natural Resources Authority, P. O. Box 7, Amman, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Natural Resources Authority, P. O. Box 7, Amman, Jordan",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012352321",
+            "display_name": "Rushdi Sadaqa",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rushdi Sadaqa",
+          "raw_affiliation_strings": [
+            "University of Jordan",
+            "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5000000797",
+            "display_name": "Zayed Al-Hawari",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zayed Al-Hawari",
+          "raw_affiliation_strings": [
+            "University of Jordan",
+            "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102809672"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114972647"
+      ],
+      "apc_list": {
+        "value": 3550,
+        "currency": "USD",
+        "value_usd": 3550
+      },
+      "apc_paid": null,
+      "fwci": 0.9521,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 29,
+      "citation_normalized_percentile": {
+        "value": 0.70294677,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 92,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "69",
+        "issue": "3",
+        "first_page": "458",
+        "last_page": "468"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.9580000042915344,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9580000042915344,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.034299999475479126,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.002300000051036477,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/paleoclimate",
+          "display_name": "paleoclimate",
+          "score": 0.9330000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/marine-isotope-stage-9",
+          "display_name": "Marine Isotope Stage 9",
+          "score": 0.9359999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/u-th-dating",
+          "display_name": "U-Th dating",
+          "score": 0.8529999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/azraq-basin",
+          "display_name": "Azraq Basin",
+          "score": 0.7149999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/paleolakes",
+          "display_name": "paleolakes",
+          "score": 0.6520000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/charophytes",
+          "display_name": "charophytes",
+          "score": 0.7630000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-gastropods",
+          "display_name": "fossil gastropods",
+          "score": 0.8569999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/mediterranean-cyclones",
+          "display_name": "Mediterranean cyclones",
+          "score": 0.6439999938011169
+        },
+        {
+          "id": "https://openalex.org/keywords/summer-monsoon",
+          "display_name": "summer monsoon",
+          "score": 0.7450000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/paleohumidity",
+          "display_name": "paleohumidity",
+          "score": 0.5580000281333923
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.834133505821228
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7788916826248169
+        },
+        {
+          "id": "https://openalex.org/C33683781",
+          "wikidata": "https://www.wikidata.org/wiki/Q191069",
+          "display_name": "Paleoclimatology",
+          "level": 3,
+          "score": 0.6880117058753967
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.6263235211372375
+        },
+        {
+          "id": "https://openalex.org/C136996986",
+          "wikidata": "https://www.wikidata.org/wiki/Q42967",
+          "display_name": "Monsoon",
+          "level": 2,
+          "score": 0.5838914513587952
+        },
+        {
+          "id": "https://openalex.org/C4646841",
+          "wikidata": "https://www.wikidata.org/wiki/Q13996",
+          "display_name": "Mediterranean climate",
+          "level": 2,
+          "score": 0.5801857113838196
+        },
+        {
+          "id": "https://openalex.org/C2780518792",
+          "wikidata": "https://www.wikidata.org/wiki/Q2166215",
+          "display_name": "Marine isotope stage",
+          "level": 4,
+          "score": 0.4960959851741791
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.4710787832736969
+        },
+        {
+          "id": "https://openalex.org/C14400755",
+          "wikidata": "https://www.wikidata.org/wiki/Q190946",
+          "display_name": "Desert climate",
+          "level": 3,
+          "score": 0.4668130874633789
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.46263378858566284
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4289700388908386
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.39611631631851196
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.3746948540210724
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3094944953918457
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.29546651244163513
+        },
+        {
+          "id": "https://openalex.org/C160464908",
+          "wikidata": "https://www.wikidata.org/wiki/Q26185",
+          "display_name": "Quaternary",
+          "level": 2,
+          "score": 0.19239866733551025
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.17578166723251343
+        },
+        {
+          "id": "https://openalex.org/C186240526",
+          "wikidata": "https://www.wikidata.org/wiki/Q487294",
+          "display_name": "Interglacial",
+          "level": 3,
+          "score": 0.11988842487335205
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.09675410389900208
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.yqres.2008.02.006",
+          "doi": "https://doi.org/10.1016/j.yqres.2008.02.006",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.yqres.2008.02.006",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S202995604",
+            "display_name": "Quaternary Research",
+            "issn_l": "0033-5894",
+            "issn": [
+              "0033-5894",
+              "1096-0287"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-b",
+              "erih-plus",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310311721",
+            "host_organization_name": "Cambridge University Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311721",
+              "https://openalex.org/P4310311702"
+            ],
+            "host_organization_lineage_names": [
+              "Cambridge University Press",
+              "University of Cambridge"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Quaternary Research",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        },
+        {
+          "id": "https://openalex.org/F4320323855",
+          "display_name": "Yarmouk University",
+          "ror": "https://ror.org/004mbaj56"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W181607887",
+        "https://openalex.org/W571645596",
+        "https://openalex.org/W582984162",
+        "https://openalex.org/W593287019",
+        "https://openalex.org/W614825625",
+        "https://openalex.org/W625735752",
+        "https://openalex.org/W642801666",
+        "https://openalex.org/W647015952",
+        "https://openalex.org/W1497395003",
+        "https://openalex.org/W1547519091",
+        "https://openalex.org/W1654234791",
+        "https://openalex.org/W1968172155",
+        "https://openalex.org/W1970797589",
+        "https://openalex.org/W1979481103",
+        "https://openalex.org/W1990925117",
+        "https://openalex.org/W1991847626",
+        "https://openalex.org/W1998519435",
+        "https://openalex.org/W2020150676",
+        "https://openalex.org/W2020715324",
+        "https://openalex.org/W2025146952",
+        "https://openalex.org/W2029535802",
+        "https://openalex.org/W2038312597",
+        "https://openalex.org/W2039093876",
+        "https://openalex.org/W2040046731",
+        "https://openalex.org/W2049755676",
+        "https://openalex.org/W2066739634",
+        "https://openalex.org/W2067118661",
+        "https://openalex.org/W2072736184",
+        "https://openalex.org/W2073224371",
+        "https://openalex.org/W2080536329",
+        "https://openalex.org/W2082197446",
+        "https://openalex.org/W2093664100",
+        "https://openalex.org/W2121829211",
+        "https://openalex.org/W2127788378",
+        "https://openalex.org/W2161111670",
+        "https://openalex.org/W2161480748",
+        "https://openalex.org/W2184892506",
+        "https://openalex.org/W2285052570",
+        "https://openalex.org/W2464744312",
+        "https://openalex.org/W2474818391",
+        "https://openalex.org/W2505792332",
+        "https://openalex.org/W2746856766",
+        "https://openalex.org/W2769152800",
+        "https://openalex.org/W2886976121",
+        "https://openalex.org/W4248851121"
+      ],
+      "related_works": [
+        "https://openalex.org/W1993400503",
+        "https://openalex.org/W3135362120",
+        "https://openalex.org/W6958880680",
+        "https://openalex.org/W2897318453",
+        "https://openalex.org/W1993718309",
+        "https://openalex.org/W4417114575",
+        "https://openalex.org/W7065515362",
+        "https://openalex.org/W2790411380",
+        "https://openalex.org/W7001715093",
+        "https://openalex.org/W3209056349"
+      ],
+      "abstract_inverted_index": {
+        "9": [
+          99
+        ],
+        "50": [
+          73
+        ],
+        "330": [
+          21
+        ],
+        "Two": [
+          0
+        ],
+        "Cardium": [
+          1
+        ],
+        "horizons": [
+          2
+        ],
+        "from": [
+          3,
+          132
+        ],
+        "the": [
+          4,
+          9,
+          35,
+          43,
+          77,
+          86,
+          91,
+          126,
+          133
+        ],
+        "topmost": [
+          5
+        ],
+        "Azraq": [
+          6,
+          78
+        ],
+        "Formation": [
+          7
+        ],
+        "in": [
+          8,
+          90,
+          100
+        ],
+        "eastern": [
+          10,
+          92
+        ],
+        "desert": [
+          11,
+          93
+        ],
+        "of": [
+          12,
+          37,
+          45,
+          71,
+          88,
+          94,
+          109,
+          128
+        ],
+        "Jordan": [
+          13,
+          101
+        ],
+        "were": [
+          14
+        ],
+        "investigated": [
+          15
+        ],
+        "and": [
+          16,
+          27,
+          32,
+          40,
+          65,
+          96
+        ],
+        "dated": [
+          17
+        ],
+        "by": [
+          18
+        ],
+        "U/Th": [
+          19
+        ],
+        "at": [
+          20,
+          55
+        ],
+        "ka;": [
+          22
+        ],
+        "MIS": [
+          23,
+          98,
+          123
+        ],
+        "9.": [
+          24,
+          124
+        ],
+        "Fossil": [
+          25
+        ],
+        "diversity": [
+          26
+        ],
+        "abundance,": [
+          28
+        ],
+        "especially": [
+          29
+        ],
+        "for": [
+          30
+        ],
+        "Charophytes": [
+          31
+        ],
+        "gastropods": [
+          33
+        ],
+        "with": [
+          34,
+          119
+        ],
+        "absence": [
+          36
+        ],
+        "palygorskite,": [
+          38
+        ],
+        "dolomite": [
+          39
+        ],
+        "evaporites,": [
+          41
+        ],
+        "suggest": [
+          42
+        ],
+        "presence": [
+          44,
+          87
+        ],
+        "a": [
+          46,
+          52
+        ],
+        "fresh": [
+          47
+        ],
+        "water": [
+          48
+        ],
+        "lake": [
+          49,
+          60
+        ],
+        "changing": [
+          50
+        ],
+        "to": [
+          51
+        ],
+        "brackish": [
+          53
+        ],
+        "environment": [
+          54
+        ],
+        "certain": [
+          56
+        ],
+        "time": [
+          57
+        ],
+        "intervals.": [
+          58
+        ],
+        "A": [
+          59
+        ],
+        "or": [
+          61
+        ],
+        "possibly": [
+          62
+        ],
+        "several": [
+          63
+        ],
+        "smaller": [
+          64
+        ],
+        "shallower": [
+          66
+        ],
+        "lakes": [
+          67,
+          89
+        ],
+        "occupied": [
+          68
+        ],
+        "an": [
+          69
+        ],
+        "area": [
+          70
+        ],
+        "about": [
+          72
+        ],
+        "km": [
+          74
+        ],
+        "wide": [
+          75
+        ],
+        "within": [
+          76
+        ],
+        "Basin.": [
+          79
+        ],
+        "The": [
+          80,
+          107
+        ],
+        "present-day": [
+          81
+        ],
+        "arid": [
+          82
+        ],
+        "climate": [
+          83
+        ],
+        "cannot": [
+          84,
+          135
+        ],
+        "support": [
+          85
+        ],
+        "Jordan,": [
+          95
+        ],
+        "thus": [
+          97
+        ],
+        "must": [
+          102
+        ],
+        "have": [
+          103
+        ],
+        "been": [
+          104
+        ],
+        "much": [
+          105
+        ],
+        "wetter.": [
+          106
+        ],
+        "source": [
+          108
+        ],
+        "humidity": [
+          110
+        ],
+        "was": [
+          111
+        ],
+        "most": [
+          112
+        ],
+        "probably": [
+          113
+        ],
+        "more": [
+          114
+        ],
+        "intense": [
+          115
+        ],
+        "Mediterranean": [
+          116
+        ],
+        "cyclones": [
+          117
+        ],
+        "associated": [
+          118
+        ],
+        "warmer": [
+          120
+        ],
+        "than": [
+          121
+        ],
+        "present": [
+          122
+        ],
+        "However,": [
+          125
+        ],
+        "possibility": [
+          127
+        ],
+        "summer": [
+          129
+        ],
+        "monsoon": [
+          130
+        ],
+        "rain": [
+          131
+        ],
+        "south": [
+          134
+        ],
+        "be": [
+          136
+        ],
+        "fully": [
+          137
+        ],
+        "excluded.": [
+          138
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1965772856",
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31983,8 +31983,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6618000268936157,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -39177,7 +39177,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5036357784",
-            "display_name": "Mohammad Atallah",
+            "display_name": "Mohammad Y. Atallah",
             "orcid": "https://orcid.org/0000-0001-7542-4965",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7542-4965"
@@ -39269,12 +39269,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.774,
+      "fwci": 0.7691,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.70944013,
+        "value": 0.7079339,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39701,7 +39701,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -39930,12 +39930,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.5053,
+      "fwci": 0.4981,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.57626902,
+        "value": 0.57109617,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41263,7 +41263,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5036357784",
-            "display_name": "Mohammad Atallah",
+            "display_name": "Mohammad Y. Atallah",
             "orcid": "https://orcid.org/0000-0001-7542-4965",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7542-4965"
@@ -41355,12 +41355,12 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 0.774,
+      "fwci": 0.7691,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.70944013,
+        "value": 0.7079339,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41843,882 +41843,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1504794539",
-      "doi": null,
-      "title": "On the Origin and Evolution of the Petra Siq from Geological Perspective, Is It Natural or Man Made?",
-      "display_name": "On the Origin and Evolution of the Petra Siq from Geological Perspective, Is It Natural or Man Made?",
-      "alternate_titles": [],
-      "publication_year": 2012,
-      "publication_date": "2012-09-27",
-      "ids": {
-        "openalex": "https://openalex.org/W1504794539",
-        "mag": "1504794539"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:1504794539",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306515139",
-          "display_name": "Jordan Journal for History and Archaeology",
-          "issn_l": "1996-9546",
-          "issn": [
-            "1996-9546"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [
-            "poland-20",
-            "russia-white-list-4"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Jordan Journal for History and Archaeology",
-        "raw_type": null
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W1504794539"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7843-4218"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdul Kader Abed",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072065896",
-            "display_name": "Alaa Al-Katib",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Alaa Al-Katib",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A. D. Allan",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A. D. Allan",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5083663071",
-            "display_name": "Shahd Al-Barghouti",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Shahd Al-Barghouti",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5002390526",
-            "display_name": "Tareq Khair Allah",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Tareq Khair Allah",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
-      },
-      "biblio": {
-        "volume": "6",
-        "issue": "2",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13372",
-        "display_name": "Archaeology and Historical Studies",
-        "score": 0.37380000948905945,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1204",
-          "display_name": "Archeology (arts and humanities)"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/12",
-          "display_name": "Arts and Humanities"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13372",
-          "display_name": "Archaeology and Historical Studies",
-          "score": 0.37380000948905945,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1204",
-            "display_name": "Archeology (arts and humanities)"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12456",
-          "display_name": "Geotourism and Geoheritage Conservation",
-          "score": 0.16990000009536743,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10161",
-          "display_name": "Rock Mechanics and Modeling",
-          "score": 0.08860000222921371,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/quartz-sandstone",
-          "display_name": "quartz sandstone",
-          "score": 0.7429999709129333
-        },
-        {
-          "id": "https://openalex.org/keywords/erosion-rate-estimation",
-          "display_name": "erosion rate estimation",
-          "score": 0.5339999794960022
-        },
-        {
-          "id": "https://openalex.org/keywords/nabataean-period",
-          "display_name": "Nabataean period",
-          "score": 0.609000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/rose-diagrams",
-          "display_name": "rose diagrams",
-          "score": 0.36899998784065247
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5868366360664368
-        },
-        {
-          "id": "https://openalex.org/C18555067",
-          "wikidata": "https://www.wikidata.org/wiki/Q8375051",
-          "display_name": "Joint (building)",
-          "level": 2,
-          "score": 0.5040589570999146
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.4356829822063446
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.4161062240600586
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.36100566387176514
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.2959449887275696
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.24925696849822998
-        },
-        {
-          "id": "https://openalex.org/C147176958",
-          "wikidata": "https://www.wikidata.org/wiki/Q77590",
-          "display_name": "Civil engineering",
-          "level": 1,
-          "score": 0.19008955359458923
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.14320489764213562
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:1504794539",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306515139",
-            "display_name": "Jordan Journal for History and Archaeology",
-            "issn_l": "1996-9546",
-            "issn": [
-              "1996-9546"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [
-              "poland-20",
-              "russia-white-list-4"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Jordan Journal for History and Archaeology",
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": {
-        "id": "mag:1504794539",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306515139",
-          "display_name": "Jordan Journal for History and Archaeology",
-          "issn_l": "1996-9546",
-          "issn": [
-            "1996-9546"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [
-            "poland-20",
-            "russia-white-list-4"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Jordan Journal for History and Archaeology",
-        "raw_type": null
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2264876358",
-        "https://openalex.org/W6989697461",
-        "https://openalex.org/W134204570",
-        "https://openalex.org/W3036301491",
-        "https://openalex.org/W2339831516",
-        "https://openalex.org/W2795985458",
-        "https://openalex.org/W2883196136",
-        "https://openalex.org/W3009297550",
-        "https://openalex.org/W2010822855",
-        "https://openalex.org/W2807178481"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          186
-        ],
-        "38": [
-          74
-        ],
-        "1100": [
-          85
-        ],
-        "Ancient": [
-          0
-        ],
-        "Petra": [
-          1
-        ],
-        "is": [
-          2,
-          67
-        ],
-        "predominantly": [
-          3
-        ],
-        "carved": [
-          4
-        ],
-        "in": [
-          5,
-          94
-        ],
-        "the": [
-          6,
-          12,
-          22,
-          27,
-          36,
-          41,
-          54,
-          77,
-          80,
-          95,
-          107,
-          111,
-          114,
-          125,
-          129,
-          137,
-          146,
-          155,
-          166,
-          171,
-          180,
-          193,
-          196
-        ],
-        "colorful,": [
-          7
-        ],
-        "hematitic,": [
-          8
-        ],
-        "quartz": [
-          9,
-          24
-        ],
-        "sandstone": [
-          10,
-          25
-        ],
-        "of": [
-          11,
-          26,
-          35,
-          62,
-          76,
-          79,
-          102,
-          110,
-          113,
-          116,
-          128,
-          131,
-          149,
-          170,
-          173,
-          179,
-          195
-        ],
-        "Late": [
-          13
-        ],
-        "Cambrian": [
-          14
-        ],
-        "Umm": [
-          15
-        ],
-        "Ishrin": [
-          16
-        ],
-        "Formation": [
-          17
-        ],
-        "with": [
-          18,
-          90,
-          124,
-          136
-        ],
-        "minor": [
-          19
-        ],
-        "activity": [
-          20
-        ],
-        "within": [
-          21
-        ],
-        "white": [
-          23
-        ],
-        "Early": [
-          28
-        ],
-        "Ordovician": [
-          29
-        ],
-        "Disi": [
-          30
-        ],
-        "Formation.": [
-          31
-        ],
-        "The": [
-          32
-        ],
-        "entire": [
-          33
-        ],
-        "length": [
-          34
-        ],
-        "Siq": [
-          37,
-          55,
-          81,
-          96,
-          115,
-          181
-        ],
-        "also": [
-          38
-        ],
-        "runs": [
-          39
-        ],
-        "through": [
-          40,
-          50
-        ],
-        "former": [
-          42
-        ],
-        "rock": [
-          43
-        ],
-        "unit.": [
-          44
-        ],
-        "This": [
-          45,
-          143
-        ],
-        "article": [
-          46
-        ],
-        "seeks": [
-          47
-        ],
-        "to": [
-          48,
-          164
-        ],
-        "demonstrate": [
-          49
-        ],
-        "geological": [
-          51,
-          64,
-          92
-        ],
-        "evidence": [
-          52
-        ],
-        "that": [
-          53,
-          106,
-          145,
-          177
-        ],
-        "originated": [
-          56
-        ],
-        "and": [
-          57,
-          66,
-          82,
-          97,
-          118,
-          133,
-          161
-        ],
-        "developed": [
-          58
-        ],
-        "naturally": [
-          59
-        ],
-        "by": [
-          60
-        ],
-        "means": [
-          61,
-          144
-        ],
-        "normal": [
-          63
-        ],
-        "processes": [
-          65
-        ],
-        "not": [
-          68
-        ],
-        "man-made.": [
-          69
-        ],
-        "To": [
-          70
-        ],
-        "achieve": [
-          71
-        ],
-        "this": [
-          72,
-          103
-        ],
-        "goal,": [
-          73
-        ],
-        "trends": [
-          75,
-          87,
-          109,
-          127
-        ],
-        "bends": [
-          78,
-          112
-        ],
-        "more": [
-          83
-        ],
-        "than": [
-          84
-        ],
-        "joint": [
-          86,
-          158
-        ],
-        "were": [
-          88
-        ],
-        "measured": [
-          89
-        ],
-        "a": [
-          91
-        ],
-        "compass": [
-          93
-        ],
-        "its": [
-          98
-        ],
-        "surroundings.": [
-          99
-        ],
-        "Rose": [
-          100
-        ],
-        "diagrams": [
-          101
-        ],
-        "data": [
-          104
-        ],
-        "show": [
-          105
-        ],
-        "major": [
-          108,
-          126,
-          138,
-          157
-        ],
-        "60-70": [
-          117,
-          132
-        ],
-        "150-160": [
-          119,
-          141
-        ],
-        "degrees": [
-          120,
-          135
-        ],
-        "coincide": [
-          121
-        ],
-        "almost": [
-          122
-        ],
-        "exactly": [
-          123
-        ],
-        "joints": [
-          130
-        ],
-        "140-150": [
-          134
-        ],
-        "class": [
-          139
-        ],
-        "at": [
-          140
-        ],
-        "degrees.": [
-          142
-        ],
-        "flood": [
-          147
-        ],
-        "water": [
-          148
-        ],
-        "Wadi": [
-          150
-        ],
-        "Musa": [
-          151
-        ],
-        "has": [
-          152
-        ],
-        "acted": [
-          153
-        ],
-        "on": [
-          154
-        ],
-        "two": [
-          156
-        ],
-        "sets,": [
-          159
-        ],
-        "eroding": [
-          160
-        ],
-        "enlarging": [
-          162
-        ],
-        "them": [
-          163
-        ],
-        "form": [
-          165
-        ],
-        "Siq.": [
-          167
-        ],
-        "Simple": [
-          168
-        ],
-        "calculations": [
-          169
-        ],
-        "rate": [
-          172
-        ],
-        "erosion": [
-          174,
-          178
-        ],
-        "tentatively": [
-          175
-        ],
-        "indicate": [
-          176
-        ],
-        "might": [
-          182
-        ],
-        "have": [
-          183
-        ],
-        "started": [
-          184
-        ],
-        "some": [
-          185
-        ],
-        "million": [
-          187
-        ],
-        "years": [
-          188
-        ],
-        "before": [
-          189,
-          192
-        ],
-        "present,": [
-          190
-        ],
-        "long": [
-          191
-        ],
-        "arrival": [
-          194
-        ],
-        "Nabataeans.": [
-          197
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1504794539",
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -44865,8 +43990,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 1,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -45428,6 +44553,881 @@
         }
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1504794539",
+      "doi": null,
+      "title": "On the Origin and Evolution of the Petra Siq from Geological Perspective, Is It Natural or Man Made?",
+      "display_name": "On the Origin and Evolution of the Petra Siq from Geological Perspective, Is It Natural or Man Made?",
+      "alternate_titles": [],
+      "publication_year": 2012,
+      "publication_date": "2012-09-27",
+      "ids": {
+        "openalex": "https://openalex.org/W1504794539",
+        "mag": "1504794539"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:1504794539",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306515139",
+          "display_name": "Jordan Journal for History and Archaeology",
+          "issn_l": "1996-9546",
+          "issn": [
+            "1996-9546"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [
+            "poland-20",
+            "russia-white-list-4"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Jordan Journal for History and Archaeology",
+        "raw_type": null
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1504794539"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdul Kader Abed",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072065896",
+            "display_name": "Alaa Al-Katib",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alaa Al-Katib",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A. D. Allan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. D. Allan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083663071",
+            "display_name": "Shahd Al-Barghouti",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Shahd Al-Barghouti",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5002390526",
+            "display_name": "Tareq Khair Allah",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tareq Khair Allah",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 92
+      },
+      "biblio": {
+        "volume": "6",
+        "issue": "2",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13372",
+        "display_name": "Archaeology and Historical Studies",
+        "score": 0.37380000948905945,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1204",
+          "display_name": "Archeology (arts and humanities)"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13372",
+          "display_name": "Archaeology and Historical Studies",
+          "score": 0.37380000948905945,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1204",
+            "display_name": "Archeology (arts and humanities)"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12456",
+          "display_name": "Geotourism and Geoheritage Conservation",
+          "score": 0.16990000009536743,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10161",
+          "display_name": "Rock Mechanics and Modeling",
+          "score": 0.08860000222921371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/quartz-sandstone",
+          "display_name": "quartz sandstone",
+          "score": 0.7429999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/erosion-rate-estimation",
+          "display_name": "erosion rate estimation",
+          "score": 0.5339999794960022
+        },
+        {
+          "id": "https://openalex.org/keywords/nabataean-period",
+          "display_name": "Nabataean period",
+          "score": 0.609000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/rose-diagrams",
+          "display_name": "rose diagrams",
+          "score": 0.36899998784065247
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5868366360664368
+        },
+        {
+          "id": "https://openalex.org/C18555067",
+          "wikidata": "https://www.wikidata.org/wiki/Q8375051",
+          "display_name": "Joint (building)",
+          "level": 2,
+          "score": 0.5040589570999146
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.4356829822063446
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.4161062240600586
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.36100566387176514
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.2959449887275696
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.24925696849822998
+        },
+        {
+          "id": "https://openalex.org/C147176958",
+          "wikidata": "https://www.wikidata.org/wiki/Q77590",
+          "display_name": "Civil engineering",
+          "level": 1,
+          "score": 0.19008955359458923
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.14320489764213562
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:1504794539",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306515139",
+            "display_name": "Jordan Journal for History and Archaeology",
+            "issn_l": "1996-9546",
+            "issn": [
+              "1996-9546"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [
+              "poland-20",
+              "russia-white-list-4"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Jordan Journal for History and Archaeology",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "mag:1504794539",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://journals.ju.edu.jo/JJHA/article/download/3268/2836",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306515139",
+          "display_name": "Jordan Journal for History and Archaeology",
+          "issn_l": "1996-9546",
+          "issn": [
+            "1996-9546"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [
+            "poland-20",
+            "russia-white-list-4"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Jordan Journal for History and Archaeology",
+        "raw_type": null
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2264876358",
+        "https://openalex.org/W6989697461",
+        "https://openalex.org/W134204570",
+        "https://openalex.org/W3036301491",
+        "https://openalex.org/W2339831516",
+        "https://openalex.org/W2795985458",
+        "https://openalex.org/W2883196136",
+        "https://openalex.org/W3009297550",
+        "https://openalex.org/W2010822855",
+        "https://openalex.org/W2807178481"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          186
+        ],
+        "38": [
+          74
+        ],
+        "1100": [
+          85
+        ],
+        "Ancient": [
+          0
+        ],
+        "Petra": [
+          1
+        ],
+        "is": [
+          2,
+          67
+        ],
+        "predominantly": [
+          3
+        ],
+        "carved": [
+          4
+        ],
+        "in": [
+          5,
+          94
+        ],
+        "the": [
+          6,
+          12,
+          22,
+          27,
+          36,
+          41,
+          54,
+          77,
+          80,
+          95,
+          107,
+          111,
+          114,
+          125,
+          129,
+          137,
+          146,
+          155,
+          166,
+          171,
+          180,
+          193,
+          196
+        ],
+        "colorful,": [
+          7
+        ],
+        "hematitic,": [
+          8
+        ],
+        "quartz": [
+          9,
+          24
+        ],
+        "sandstone": [
+          10,
+          25
+        ],
+        "of": [
+          11,
+          26,
+          35,
+          62,
+          76,
+          79,
+          102,
+          110,
+          113,
+          116,
+          128,
+          131,
+          149,
+          170,
+          173,
+          179,
+          195
+        ],
+        "Late": [
+          13
+        ],
+        "Cambrian": [
+          14
+        ],
+        "Umm": [
+          15
+        ],
+        "Ishrin": [
+          16
+        ],
+        "Formation": [
+          17
+        ],
+        "with": [
+          18,
+          90,
+          124,
+          136
+        ],
+        "minor": [
+          19
+        ],
+        "activity": [
+          20
+        ],
+        "within": [
+          21
+        ],
+        "white": [
+          23
+        ],
+        "Early": [
+          28
+        ],
+        "Ordovician": [
+          29
+        ],
+        "Disi": [
+          30
+        ],
+        "Formation.": [
+          31
+        ],
+        "The": [
+          32
+        ],
+        "entire": [
+          33
+        ],
+        "length": [
+          34
+        ],
+        "Siq": [
+          37,
+          55,
+          81,
+          96,
+          115,
+          181
+        ],
+        "also": [
+          38
+        ],
+        "runs": [
+          39
+        ],
+        "through": [
+          40,
+          50
+        ],
+        "former": [
+          42
+        ],
+        "rock": [
+          43
+        ],
+        "unit.": [
+          44
+        ],
+        "This": [
+          45,
+          143
+        ],
+        "article": [
+          46
+        ],
+        "seeks": [
+          47
+        ],
+        "to": [
+          48,
+          164
+        ],
+        "demonstrate": [
+          49
+        ],
+        "geological": [
+          51,
+          64,
+          92
+        ],
+        "evidence": [
+          52
+        ],
+        "that": [
+          53,
+          106,
+          145,
+          177
+        ],
+        "originated": [
+          56
+        ],
+        "and": [
+          57,
+          66,
+          82,
+          97,
+          118,
+          133,
+          161
+        ],
+        "developed": [
+          58
+        ],
+        "naturally": [
+          59
+        ],
+        "by": [
+          60
+        ],
+        "means": [
+          61,
+          144
+        ],
+        "normal": [
+          63
+        ],
+        "processes": [
+          65
+        ],
+        "not": [
+          68
+        ],
+        "man-made.": [
+          69
+        ],
+        "To": [
+          70
+        ],
+        "achieve": [
+          71
+        ],
+        "this": [
+          72,
+          103
+        ],
+        "goal,": [
+          73
+        ],
+        "trends": [
+          75,
+          87,
+          109,
+          127
+        ],
+        "bends": [
+          78,
+          112
+        ],
+        "more": [
+          83
+        ],
+        "than": [
+          84
+        ],
+        "joint": [
+          86,
+          158
+        ],
+        "were": [
+          88
+        ],
+        "measured": [
+          89
+        ],
+        "a": [
+          91
+        ],
+        "compass": [
+          93
+        ],
+        "its": [
+          98
+        ],
+        "surroundings.": [
+          99
+        ],
+        "Rose": [
+          100
+        ],
+        "diagrams": [
+          101
+        ],
+        "data": [
+          104
+        ],
+        "show": [
+          105
+        ],
+        "major": [
+          108,
+          126,
+          138,
+          157
+        ],
+        "60-70": [
+          117,
+          132
+        ],
+        "150-160": [
+          119,
+          141
+        ],
+        "degrees": [
+          120,
+          135
+        ],
+        "coincide": [
+          121
+        ],
+        "almost": [
+          122
+        ],
+        "exactly": [
+          123
+        ],
+        "joints": [
+          130
+        ],
+        "140-150": [
+          134
+        ],
+        "class": [
+          139
+        ],
+        "at": [
+          140
+        ],
+        "degrees.": [
+          142
+        ],
+        "flood": [
+          147
+        ],
+        "water": [
+          148
+        ],
+        "Wadi": [
+          150
+        ],
+        "Musa": [
+          151
+        ],
+        "has": [
+          152
+        ],
+        "acted": [
+          153
+        ],
+        "on": [
+          154
+        ],
+        "two": [
+          156
+        ],
+        "sets,": [
+          159
+        ],
+        "eroding": [
+          160
+        ],
+        "enlarging": [
+          162
+        ],
+        "them": [
+          163
+        ],
+        "form": [
+          165
+        ],
+        "Siq.": [
+          167
+        ],
+        "Simple": [
+          168
+        ],
+        "calculations": [
+          169
+        ],
+        "rate": [
+          172
+        ],
+        "erosion": [
+          174,
+          178
+        ],
+        "tentatively": [
+          175
+        ],
+        "indicate": [
+          176
+        ],
+        "might": [
+          182
+        ],
+        "have": [
+          183
+        ],
+        "started": [
+          184
+        ],
+        "some": [
+          185
+        ],
+        "million": [
+          187
+        ],
+        "years": [
+          188
+        ],
+        "before": [
+          189,
+          192
+        ],
+        "present,": [
+          190
+        ],
+        "long": [
+          191
+        ],
+        "arrival": [
+          194
+        ],
+        "Nabataeans.": [
+          197
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1504794539",
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-04T10:54:05.112534",
       "created_date": "2016-06-24T00:00:00"
     },
     {

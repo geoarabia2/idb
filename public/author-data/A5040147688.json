@@ -869,12 +869,12 @@
         "currency": "USD",
         "value_usd": 3750
       },
-      "fwci": 18.6856,
+      "fwci": 18.3862,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 344,
       "citation_normalized_percentile": {
-        "value": 0.99839296,
+        "value": 0.9983698,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2192,7 +2192,7 @@
       "display_name": "The Deep-Time Digital Earth program: data-driven discovery in geosciences",
       "alternate_titles": [],
       "publication_year": 2021,
-      "publication_date": "2021-02-09",
+      "publication_date": "2021-02-11",
       "ids": {
         "openalex": "https://openalex.org/W3132519602",
         "doi": "https://doi.org/10.1093/nsr/nwab027",
@@ -3052,12 +3052,12 @@
         "currency": "USD",
         "value_usd": 0
       },
-      "fwci": 12.1407,
+      "fwci": 12.0674,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 150,
+      "cited_by_count": 151,
       "citation_normalized_percentile": {
-        "value": 0.98954621,
+        "value": 0.98940791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3957,7 +3957,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 35
+          "cited_by_count": 36
         },
         {
           "year": 2025,
@@ -3980,7 +3980,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -5465,7 +5465,7 @@
         "doi": "https://doi.org/10.1144/sp450.2",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1144/sp450.2",
-        "pdf_url": null,
+        "pdf_url": "https://doi.org/10.1144/sp450.2",
         "source": {
           "id": "https://openalex.org/S29311329",
           "display_name": "Geological Society London Special Publications",
@@ -5549,22 +5549,22 @@
           "is_corresponding": true,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "Asselian Thuringian",
             "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
+            "Asselian Thuringian",
             "Chuanshanian North America",
             "Saxonian Autunian Russia Western Europe China"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Asselian Thuringian",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
+            },
+            {
+              "raw_affiliation_string": "Asselian Thuringian",
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Chuanshanian North America",
@@ -5588,12 +5588,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8897,
+      "fwci": 2.8696,
       "is_authors_truncated": false,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.90474868,
+        "value": 0.9047014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5756,7 +5756,7 @@
           "doi": "https://doi.org/10.1144/sp450.2",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1144/sp450.2",
-          "pdf_url": null,
+          "pdf_url": "https://doi.org/10.1144/sp450.2",
           "source": {
             "id": "https://openalex.org/S29311329",
             "display_name": "Geological Society London Special Publications",
@@ -5830,7 +5830,7 @@
         "doi": "https://doi.org/10.1144/sp450.2",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1144/sp450.2",
-        "pdf_url": null,
+        "pdf_url": "https://doi.org/10.1144/sp450.2",
         "source": {
           "id": "https://openalex.org/S29311329",
           "display_name": "Geological Society London Special Publications",
@@ -5886,10 +5886,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2560194642.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2560194642.grobid-xml"
+      },
       "referenced_works_count": 150,
       "referenced_works": [
         "https://openalex.org/W2826207",
@@ -6460,7 +6463,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-12-16T00:00:00"
     },
     {
@@ -7538,1846 +7541,6 @@
         }
       ],
       "updated_date": "2026-11-17T12:49:18.490984",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2148258822",
-      "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
-      "title": "Marine and terrestrial environmental changes in NW Europe preceding carbon release at the Paleocene–Eocene transition",
-      "display_name": "Marine and terrestrial environmental changes in NW Europe preceding carbon release at the Paleocene–Eocene transition",
-      "alternate_titles": [],
-      "publication_year": 2012,
-      "publication_date": "2012-09-07",
-      "ids": {
-        "openalex": "https://openalex.org/W2148258822",
-        "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
-        "mag": "2148258822"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.epsl.2012.08.011",
-        "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S119230507",
-          "display_name": "Earth and Planetary Science Letters",
-          "issn_l": "0012-821X",
-          "issn": [
-            "0012-821X",
-            "1385-013X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-a",
-            "jufo-3",
-            "norway-2",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth and Planetary Science Letters",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2148258822"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040877678",
-            "display_name": "Sev Kender",
-            "orcid": "https://orcid.org/0000-0003-4216-3214",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4216-3214"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Sev Kender",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9881-1578"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michael H. Stephenson",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011190539",
-            "display_name": "James B. Riding",
-            "orcid": "https://orcid.org/0000-0002-5529-8989",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5529-8989"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "James B. Riding",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5004366843",
-            "display_name": "Melanie J. Leng",
-            "orcid": "https://orcid.org/0000-0003-1115-5166",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1115-5166"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I153648349",
-              "display_name": "University of Leicester",
-              "ror": "https://ror.org/04h699437",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I153648349"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Melanie J. Leng",
-          "raw_affiliation_strings": [
-            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
-            "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5108496764",
-            "display_name": "Robert Knox",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert W.O’B Knox",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052136489",
-            "display_name": "Victoria L. Peck",
-            "orcid": "https://orcid.org/0000-0002-7948-6853",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7948-6853"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1319328641",
-              "display_name": "British Antarctic Survey",
-              "ror": "https://ror.org/01rhff309",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1319328641",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Victoria L. Peck",
-          "raw_affiliation_strings": [
-            "British Antarctic Survey, High Cross, Madingley Road, Cambridge, CB3 0ET, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Antarctic Survey, High Cross, Madingley Road, Cambridge, CB3 0ET, UK",
-              "institution_ids": [
-                "https://openalex.org/I1319328641"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053968941",
-            "display_name": "Christopher P. Kendrick",
-            "orcid": "https://orcid.org/0000-0003-0382-4868",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0382-4868"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christopher P. Kendrick",
-          "raw_affiliation_strings": [
-            "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5088883559",
-            "display_name": "Michael A. Ellis",
-            "orcid": "https://orcid.org/0000-0002-6613-3565",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6613-3565"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michael A. Ellis",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5059413560",
-            "display_name": "Christopher H. Vane",
-            "orcid": "https://orcid.org/0000-0002-8150-3640",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8150-3640"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christopher H. Vane",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5047807640",
-            "display_name": "Rachel J. Jamieson",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I98677209",
-              "display_name": "University of Edinburgh",
-              "ror": "https://ror.org/01nrxwf90",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I98677209"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rachel Jamieson",
-          "raw_affiliation_strings": [
-            "School of Geosciences, University of Edinburgh, Edinburgh, EH9 3JW, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geosciences, University of Edinburgh, Edinburgh, EH9 3JW, UK",
-              "institution_ids": [
-                "https://openalex.org/I98677209"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040877678"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139290333"
-      ],
-      "apc_list": {
-        "value": 4670,
-        "currency": "USD",
-        "value_usd": 4670
-      },
-      "apc_paid": {
-        "value": 4670,
-        "currency": "USD",
-        "value_usd": 4670
-      },
-      "fwci": 2.4095,
-      "is_authors_truncated": false,
-      "has_fulltext": true,
-      "cited_by_count": 112,
-      "citation_normalized_percentile": {
-        "value": 0.88401697,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 87,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "353-354",
-        "issue": null,
-        "first_page": "108",
-        "last_page": "120"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9682999849319458,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9682999849319458,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.02889999933540821,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.0006000000284984708,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/paleocene-eocene-thermal-maximum",
-          "display_name": "Paleocene-Eocene Thermal Maximum",
-          "score": 0.9190000295639038
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-isotope-excursion",
-          "display_name": "carbon isotope excursion",
-          "score": 0.8889999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/north-sea-basin",
-          "display_name": "North Sea Basin",
-          "score": 0.8560000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/north-atlantic-igneous-province",
-          "display_name": "North Atlantic Igneous Province",
-          "score": 0.8360000252723694
-        },
-        {
-          "id": "https://openalex.org/keywords/vegetation-change",
-          "display_name": "vegetation change",
-          "score": 0.6029999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/pollen-and-spore-assemblages",
-          "display_name": "spore-pollen assemblages",
-          "score": 0.9259999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/sea-level-rise",
-          "display_name": "sea level rise",
-          "score": 0.7099999785423279
-        },
-        {
-          "id": "https://openalex.org/keywords/water-cycle",
-          "display_name": "water cycle",
-          "score": 0.7559999823570251
-        },
-        {
-          "id": "https://openalex.org/keywords/magmatic-intrusion",
-          "display_name": "magma intrusion",
-          "score": 0.5370000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonic-uplift",
-          "display_name": "tectonic uplift",
-          "score": 0.734000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/angiosperm-diversification",
-          "display_name": "angiosperm diversification",
-          "score": 0.7680000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoclimate",
-          "display_name": "paleoclimate",
-          "score": 0.46700000762939453
-        },
-        {
-          "id": "https://openalex.org/keywords/global-warming",
-          "display_name": "global warming",
-          "score": 0.5109999775886536
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8272843360900879
-        },
-        {
-          "id": "https://openalex.org/C199285206",
-          "wikidata": "https://www.wikidata.org/wiki/Q749602",
-          "display_name": "Terrigenous sediment",
-          "level": 3,
-          "score": 0.66054368019104
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.4936143159866333
-        },
-        {
-          "id": "https://openalex.org/C162501224",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynology",
-          "level": 3,
-          "score": 0.49314969778060913
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.4507206082344055
-        },
-        {
-          "id": "https://openalex.org/C15739521",
-          "wikidata": "https://www.wikidata.org/wiki/Q602963",
-          "display_name": "Glacial period",
-          "level": 2,
-          "score": 0.4450426399707794
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.35559916496276855
-        },
-        {
-          "id": "https://openalex.org/C2780618852",
-          "wikidata": "https://www.wikidata.org/wiki/Q79932",
-          "display_name": "Pollen",
-          "level": 2,
-          "score": 0.22935178875923157
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.13348200917243958
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.epsl.2012.08.011",
-          "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S119230507",
-            "display_name": "Earth and Planetary Science Letters",
-            "issn_l": "0012-821X",
-            "issn": [
-              "0012-821X",
-              "1385-013X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-a",
-              "jufo-3",
-              "norway-2",
-              "poland-140",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Earth and Planetary Science Letters",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:pure.ed.ac.uk:openaire/ce67ac34-ed16-43a6-9bcf-7546ae112b25",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.research.ed.ac.uk/files/10536654/Marine_and_terrestrial_environmental_changes_in_NW_Europe_preceding.pdf",
-          "pdf_url": "https://www.research.ed.ac.uk/files/10536654/Marine_and_terrestrial_environmental_changes_in_NW_Europe_preceding.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306400321",
-            "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I98677209",
-            "host_organization_name": "University of Edinburgh",
-            "host_organization_lineage": [
-              "https://openalex.org/I98677209"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Kender, S, Stephenson, M H, Riding, J B, Leng, M J, Knox, R W OB, Peck, V L, Kendrick, C P, Ellis, M A, Vane, C H & Jamieson, R 2012, 'Marine and terrestrial environmental changes in NW Europe preceding carbon release at the Paleocene-Eocene transition', Earth and Planetary Science Letters, vol. 353-354, pp. 108-120. https://doi.org/10.1016/j.epsl.2012.08.011",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:nora.nerc.ac.uk:19896",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/19896/1/Kender_et_al_2012_paper_submission.pdf",
-          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/19896/1/Kender_et_al_2012_paper_submission.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306400758",
-            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I141816643",
-            "host_organization_name": "Natural Environment Research Council",
-            "host_organization_lineage": [
-              "https://openalex.org/I141816643"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Publication - Article"
-        },
-        {
-          "id": "pmh:oai:lra.le.ac.uk:2381/13941",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/2381/13941",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402365",
-            "display_name": "Leicester Research Archive (University of Leicester)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I153648349",
-            "host_organization_name": "University of Leicester",
-            "host_organization_lineage": [
-              "https://openalex.org/I153648349"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scopus",
-          "raw_type": "Journal Article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.epsl.2012.08.011",
-        "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S119230507",
-          "display_name": "Earth and Planetary Science Letters",
-          "issn_l": "0012-821X",
-          "issn": [
-            "0012-821X",
-            "1385-013X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-a",
-            "jufo-3",
-            "norway-2",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth and Planetary Science Letters",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
-        }
-      ],
-      "study_designs": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G6231553600",
-          "display_name": null,
-          "funder_award_id": "nigl010001",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G7621085223",
-          "display_name": null,
-          "funder_award_id": "bgs05002",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G8233085225",
-          "display_name": null,
-          "funder_award_id": "bas0100024",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320321464",
-          "display_name": "British Geological Survey",
-          "ror": "https://ror.org/04a7gbp98"
-        },
-        {
-          "id": "https://openalex.org/F4320334631",
-          "display_name": "Natural Environment Research Council",
-          "ror": "https://ror.org/02b5d8509"
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2148258822.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2148258822.grobid-xml"
-      },
-      "referenced_works_count": 78,
-      "referenced_works": [
-        "https://openalex.org/W368328615",
-        "https://openalex.org/W655934160",
-        "https://openalex.org/W762417136",
-        "https://openalex.org/W1513231985",
-        "https://openalex.org/W1575909775",
-        "https://openalex.org/W1587430167",
-        "https://openalex.org/W1607700841",
-        "https://openalex.org/W1630322587",
-        "https://openalex.org/W1644120728",
-        "https://openalex.org/W1862378376",
-        "https://openalex.org/W1877298222",
-        "https://openalex.org/W1913138165",
-        "https://openalex.org/W1964116684",
-        "https://openalex.org/W1971561874",
-        "https://openalex.org/W1974975954",
-        "https://openalex.org/W1978656522",
-        "https://openalex.org/W1981139463",
-        "https://openalex.org/W1983794578",
-        "https://openalex.org/W1991143586",
-        "https://openalex.org/W1992935628",
-        "https://openalex.org/W1995194920",
-        "https://openalex.org/W1997132607",
-        "https://openalex.org/W1999872574",
-        "https://openalex.org/W2000380079",
-        "https://openalex.org/W2001815118",
-        "https://openalex.org/W2002027097",
-        "https://openalex.org/W2002706814",
-        "https://openalex.org/W2002859026",
-        "https://openalex.org/W2005476891",
-        "https://openalex.org/W2006456454",
-        "https://openalex.org/W2009607369",
-        "https://openalex.org/W2018557271",
-        "https://openalex.org/W2030155770",
-        "https://openalex.org/W2031387033",
-        "https://openalex.org/W2035044646",
-        "https://openalex.org/W2041743483",
-        "https://openalex.org/W2044880652",
-        "https://openalex.org/W2047652555",
-        "https://openalex.org/W2052285067",
-        "https://openalex.org/W2062252463",
-        "https://openalex.org/W2072249057",
-        "https://openalex.org/W2075184082",
-        "https://openalex.org/W2075429173",
-        "https://openalex.org/W2080338039",
-        "https://openalex.org/W2084137546",
-        "https://openalex.org/W2089498979",
-        "https://openalex.org/W2089999514",
-        "https://openalex.org/W2094953080",
-        "https://openalex.org/W2101510715",
-        "https://openalex.org/W2102085718",
-        "https://openalex.org/W2103107131",
-        "https://openalex.org/W2104285468",
-        "https://openalex.org/W2106454978",
-        "https://openalex.org/W2115089629",
-        "https://openalex.org/W2115736417",
-        "https://openalex.org/W2123364849",
-        "https://openalex.org/W2130957548",
-        "https://openalex.org/W2138382314",
-        "https://openalex.org/W2138511808",
-        "https://openalex.org/W2138691699",
-        "https://openalex.org/W2151218709",
-        "https://openalex.org/W2158170945",
-        "https://openalex.org/W2158997625",
-        "https://openalex.org/W2161925018",
-        "https://openalex.org/W2167889578",
-        "https://openalex.org/W2167901675",
-        "https://openalex.org/W2168587835",
-        "https://openalex.org/W2172067920",
-        "https://openalex.org/W2183707334",
-        "https://openalex.org/W2233314480",
-        "https://openalex.org/W2267844404",
-        "https://openalex.org/W2492677964",
-        "https://openalex.org/W2607175956",
-        "https://openalex.org/W2769152800",
-        "https://openalex.org/W2981141663",
-        "https://openalex.org/W2989049194",
-        "https://openalex.org/W4247316109",
-        "https://openalex.org/W6983849185"
-      ],
-      "related_works": [
-        "https://openalex.org/W2146462680",
-        "https://openalex.org/W7134216934",
-        "https://openalex.org/W6995526161",
-        "https://openalex.org/W2972544905",
-        "https://openalex.org/W2616930273",
-        "https://openalex.org/W4389507105",
-        "https://openalex.org/W2737677846",
-        "https://openalex.org/W1989056337",
-        "https://openalex.org/W819221587",
-        "https://openalex.org/W2151479210"
-      ],
-      "abstract_inverted_index": {
-        "54": [
-          42
-        ],
-        "Environmental": [
-          0
-        ],
-        "changes": [
-          1,
-          112,
-          265
-        ],
-        "associated": [
-          2
-        ],
-        "with": [
-          3,
-          179,
-          199,
-          230
-        ],
-        "the": [
-          4,
-          19,
-          27,
-          33,
-          37,
-          45,
-          64,
-          100,
-          104,
-          116,
-          136,
-          170,
-          174,
-          210,
-          225,
-          279
-        ],
-        "Paleocene–Eocene": [
-          5
-        ],
-        "thermal": [
-          6
-        ],
-        "maximum": [
-          7
-        ],
-        "(PETM,": [
-          8
-        ],
-        "∼56": [
-          9
-        ],
-        "Ma)": [
-          10
-        ],
-        "have": [
-          11,
-          62,
-          250
-        ],
-        "not": [
-          12
-        ],
-        "yet": [
-          13
-        ],
-        "been": [
-          14
-        ],
-        "documented": [
-          15
-        ],
-        "in": [
-          16,
-          71,
-          85,
-          99,
-          193,
-          204
-        ],
-        "detail": [
-          17,
-          87
-        ],
-        "from": [
-          18,
-          81,
-          146,
-          158,
-          190,
-          220,
-          252
-        ],
-        "North": [
-          20,
-          28
-        ],
-        "Sea": [
-          21
-        ],
-        "Basin.": [
-          22
-        ],
-        "Located": [
-          23
-        ],
-        "within": [
-          24,
-          88,
-          173,
-          278
-        ],
-        "proximity": [
-          25
-        ],
-        "to": [
-          26,
-          113,
-          141,
-          206,
-          241,
-          258,
-          285,
-          293
-        ],
-        "Atlantic": [
-          29
-        ],
-        "igneous": [
-          30
-        ],
-        "province": [
-          31
-        ],
-        "(NAIP),": [
-          32
-        ],
-        "Kilda": [
-          34
-        ],
-        "Basin,": [
-          35
-        ],
-        "and": [
-          36,
-          73,
-          95,
-          122,
-          129,
-          154,
-          164,
-          172,
-          245,
-          275
-        ],
-        "northern": [
-          38
-        ],
-        "rain": [
-          39
-        ],
-        "belt": [
-          40
-        ],
-        "(paleolatitude": [
-          41
-        ],
-        "°N)": [
-          43
-        ],
-        "during": [
-          44,
-          209
-        ],
-        "PETM,": [
-          46
-        ],
-        "this": [
-          47
-        ],
-        "is": [
-          48,
-          79
-        ],
-        "a": [
-          49,
-          89,
-          108,
-          147,
-          215,
-          231,
-          289
-        ],
-        "critical": [
-          50
-        ],
-        "region": [
-          51
-        ],
-        "for": [
-          52,
-          103,
-          181
-        ],
-        "testing": [
-          53
-        ],
-        "proposed": [
-          54
-        ],
-        "triggers": [
-          55
-        ],
-        "of": [
-          56,
-          110,
-          235,
-          254
-        ],
-        "atmospheric": [
-          57
-        ],
-        "carbon": [
-          58,
-          67
-        ],
-        "release": [
-          59
-        ],
-        "that": [
-          60
-        ],
-        "may": [
-          61,
-          185,
-          249
-        ],
-        "caused": [
-          63
-        ],
-        "global": [
-          65,
-          207
-        ],
-        "negative": [
-          66
-        ],
-        "isotope": [
-          68
-        ],
-        "excursion": [
-          69
-        ],
-        "(CIE)": [
-          70
-        ],
-        "marine": [
-          72
-        ],
-        "terrestrial": [
-          74
-        ],
-        "environments.": [
-          75
-        ],
-        "The": [
-          76
-        ],
-        "CIE": [
-          77,
-          176,
-          226
-        ],
-        "onset": [
-          78,
-          171
-        ],
-        "identified": [
-          80
-        ],
-        "organic": [
-          82
-        ],
-        "matter": [
-          83
-        ],
-        "δ13C": [
-          84
-        ],
-        "exceptional": [
-          86
-        ],
-        "highly": [
-          90
-        ],
-        "expanded": [
-          91
-        ],
-        "sedimentary": [
-          92
-        ],
-        "sequence.": [
-          93
-        ],
-        "Pollen": [
-          94
-        ],
-        "spore": [
-          96
-        ],
-        "assemblages": [
-          97
-        ],
-        "analysed": [
-          98
-        ],
-        "same": [
-          101
-        ],
-        "samples": [
-          102
-        ],
-        "first": [
-          105
-        ],
-        "time": [
-          106
-        ],
-        "allow": [
-          107
-        ],
-        "reconstruction": [
-          109
-        ],
-        "possible": [
-          111
-        ],
-        "vegetation": [
-          114,
-          277
-        ],
-        "on": [
-          115
-        ],
-        "surrounding": [
-          117
-        ],
-        "landmass.": [
-          118
-        ],
-        "Multiproxy": [
-          119
-        ],
-        "palynological,": [
-          120
-        ],
-        "geochemical,": [
-          121
-        ],
-        "sedimentologic": [
-          123
-        ],
-        "records": [
-          124
-        ],
-        "demonstrate": [
-          125
-        ],
-        "enhanced": [
-          126,
-          160,
-          201
-        ],
-        "halocline": [
-          127
-        ],
-        "stratification": [
-          128
-        ],
-        "terrigenous": [
-          130,
-          165
-        ],
-        "deposition": [
-          131,
-          166
-        ],
-        "well": [
-          132
-        ],
-        "before": [
-          133,
-          224
-        ],
-        "(103": [
-          134
-        ],
-        "yrs)": [
-          135
-        ],
-        "CIE,": [
-          137,
-          281
-        ],
-        "interpreted": [
-          138,
-          187
-        ],
-        "as": [
-          139,
-          188
-        ],
-        "due": [
-          140,
-          257
-        ],
-        "either": [
-          142
-        ],
-        "tectonic": [
-          143
-        ],
-        "uplift": [
-          144
-        ],
-        "possibly": [
-          145,
-          157
-        ],
-        "nearby": [
-          148
-        ],
-        "magmatic": [
-          149
-        ],
-        "intrusion,": [
-          150
-        ],
-        "or": [
-          151
-        ],
-        "increased": [
-          152,
-          167
-        ],
-        "precipitation": [
-          153,
-          194
-        ],
-        "fluvial": [
-          155
-        ],
-        "runoff": [
-          156
-        ],
-        "an": [
-          159,
-          191,
-          200
-        ],
-        "hydrologic": [
-          161,
-          202
-        ],
-        "cycle.": [
-          162
-        ],
-        "Stratification": [
-          163
-        ],
-        "further": [
-          168
-        ],
-        "at": [
-          169
-        ],
-        "earliest": [
-          175
-        ],
-        "which,": [
-          177
-        ],
-        "coupled": [
-          178
-        ],
-        "evidence": [
-          180,
-          213
-        ],
-        "sea": [
-          182,
-          260
-        ],
-        "level": [
-          183,
-          261
-        ],
-        "rise,": [
-          184,
-          262
-        ],
-        "be": [
-          186
-        ],
-        "resulting": [
-          189
-        ],
-        "increase": [
-          192
-        ],
-        "over": [
-          195
-        ],
-        "NW": [
-          196
-        ],
-        "Europe": [
-          197
-        ],
-        "consistent": [
-          198
-        ],
-        "cycle": [
-          203
-        ],
-        "response": [
-          205
-        ],
-        "warming": [
-          208
-        ],
-        "PETM.": [
-          211
-        ],
-        "Palynological": [
-          212
-        ],
-        "indicates": [
-          214
-        ],
-        "flora": [
-          216
-        ],
-        "dominated": [
-          217
-        ],
-        "by": [
-          218,
-          267
-        ],
-        "pollen": [
-          219,
-          239,
-          283
-        ],
-        "coastal": [
-          221,
-          255
-        ],
-        "swamp": [
-          222
-        ],
-        "conifers": [
-          223
-        ],
-        "was": [
-          227
-        ],
-        "abruptly": [
-          228
-        ],
-        "replaced": [
-          229
-        ],
-        "more": [
-          232,
-          272
-        ],
-        "diverse": [
-          233,
-          273
-        ],
-        "assemblage": [
-          234
-        ],
-        "generalist": [
-          236
-        ],
-        "species": [
-          237
-        ],
-        "including": [
-          238,
-          282
-        ],
-        "similar": [
-          240,
-          284
-        ],
-        "modern": [
-          242,
-          286
-        ],
-        "alder,": [
-          243
-        ],
-        "fern,": [
-          244
-        ],
-        "fungal": [
-          246
-        ],
-        "spores.": [
-          247
-        ],
-        "This": [
-          248
-        ],
-        "resulted": [
-          251
-        ],
-        "flooding": [
-          253
-        ],
-        "areas": [
-          256
-        ],
-        "relative": [
-          259
-        ],
-        "and/or": [
-          263
-        ],
-        "ecologic": [
-          264
-        ],
-        "forced": [
-          266
-        ],
-        "climate.": [
-          268
-        ],
-        "A": [
-          269
-        ],
-        "shift": [
-          270
-        ],
-        "towards": [
-          271
-        ],
-        "angiosperm": [
-          274
-        ],
-        "pteridophyte": [
-          276
-        ],
-        "early": [
-          280
-        ],
-        "hickory,": [
-          287
-        ],
-        "documents": [
-          288
-        ],
-        "long": [
-          290
-        ],
-        "term": [
-          291
-        ],
-        "change": [
-          292
-        ],
-        "regional": [
-          294
-        ],
-        "vegetation.": [
-          295
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2148258822",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 18
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 13
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-18T13:11:19.462570",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10905,6 +9068,1846 @@
         }
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2148258822",
+      "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
+      "title": "Marine and terrestrial environmental changes in NW Europe preceding carbon release at the Paleocene–Eocene transition",
+      "display_name": "Marine and terrestrial environmental changes in NW Europe preceding carbon release at the Paleocene–Eocene transition",
+      "alternate_titles": [],
+      "publication_year": 2012,
+      "publication_date": "2012-09-07",
+      "ids": {
+        "openalex": "https://openalex.org/W2148258822",
+        "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
+        "mag": "2148258822"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.epsl.2012.08.011",
+        "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S119230507",
+          "display_name": "Earth and Planetary Science Letters",
+          "issn_l": "0012-821X",
+          "issn": [
+            "0012-821X",
+            "1385-013X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-3",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth and Planetary Science Letters",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2148258822"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040877678",
+            "display_name": "Sev Kender",
+            "orcid": "https://orcid.org/0000-0003-4216-3214",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4216-3214"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sev Kender",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9881-1578"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011190539",
+            "display_name": "James B. Riding",
+            "orcid": "https://orcid.org/0000-0002-5529-8989",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5529-8989"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James B. Riding",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004366843",
+            "display_name": "Melanie J. Leng",
+            "orcid": "https://orcid.org/0000-0003-1115-5166",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1115-5166"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I153648349",
+              "display_name": "University of Leicester",
+              "ror": "https://ror.org/04h699437",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I153648349"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Melanie J. Leng",
+          "raw_affiliation_strings": [
+            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
+            "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
+              "institution_ids": [
+                "https://openalex.org/I153648349"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108496764",
+            "display_name": "Robert Knox",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert W.O’B Knox",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052136489",
+            "display_name": "Victoria L. Peck",
+            "orcid": "https://orcid.org/0000-0002-7948-6853",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7948-6853"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1319328641",
+              "display_name": "British Antarctic Survey",
+              "ror": "https://ror.org/01rhff309",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1319328641",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Victoria L. Peck",
+          "raw_affiliation_strings": [
+            "British Antarctic Survey, High Cross, Madingley Road, Cambridge, CB3 0ET, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Antarctic Survey, High Cross, Madingley Road, Cambridge, CB3 0ET, UK",
+              "institution_ids": [
+                "https://openalex.org/I1319328641"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053968941",
+            "display_name": "Christopher P. Kendrick",
+            "orcid": "https://orcid.org/0000-0003-0382-4868",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0382-4868"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher P. Kendrick",
+          "raw_affiliation_strings": [
+            "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088883559",
+            "display_name": "Michael A. Ellis",
+            "orcid": "https://orcid.org/0000-0002-6613-3565",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6613-3565"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael A. Ellis",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059413560",
+            "display_name": "Christopher H. Vane",
+            "orcid": "https://orcid.org/0000-0002-8150-3640",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8150-3640"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher H. Vane",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5047807640",
+            "display_name": "Rachel J. Jamieson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rachel Jamieson",
+          "raw_affiliation_strings": [
+            "School of Geosciences, University of Edinburgh, Edinburgh, EH9 3JW, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geosciences, University of Edinburgh, Edinburgh, EH9 3JW, UK",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040877678"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139290333"
+      ],
+      "apc_list": {
+        "value": 4670,
+        "currency": "USD",
+        "value_usd": 4670
+      },
+      "apc_paid": {
+        "value": 4670,
+        "currency": "USD",
+        "value_usd": 4670
+      },
+      "fwci": 2.4019,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 111,
+      "citation_normalized_percentile": {
+        "value": 0.88413098,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "353-354",
+        "issue": null,
+        "first_page": "108",
+        "last_page": "120"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9682999849319458,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9682999849319458,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.02889999933540821,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.0006000000284984708,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/paleocene-eocene-thermal-maximum",
+          "display_name": "Paleocene-Eocene Thermal Maximum",
+          "score": 0.9190000295639038
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-isotope-excursion",
+          "display_name": "carbon isotope excursion",
+          "score": 0.8889999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/north-sea-basin",
+          "display_name": "North Sea Basin",
+          "score": 0.8560000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/north-atlantic-igneous-province",
+          "display_name": "North Atlantic Igneous Province",
+          "score": 0.8360000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/vegetation-change",
+          "display_name": "vegetation change",
+          "score": 0.6029999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/pollen-and-spore-assemblages",
+          "display_name": "spore-pollen assemblages",
+          "score": 0.9259999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/sea-level-rise",
+          "display_name": "sea level rise",
+          "score": 0.7099999785423279
+        },
+        {
+          "id": "https://openalex.org/keywords/water-cycle",
+          "display_name": "water cycle",
+          "score": 0.7559999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/magmatic-intrusion",
+          "display_name": "magma intrusion",
+          "score": 0.5370000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonic-uplift",
+          "display_name": "tectonic uplift",
+          "score": 0.734000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/angiosperm-diversification",
+          "display_name": "angiosperm diversification",
+          "score": 0.7680000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoclimate",
+          "display_name": "paleoclimate",
+          "score": 0.46700000762939453
+        },
+        {
+          "id": "https://openalex.org/keywords/global-warming",
+          "display_name": "global warming",
+          "score": 0.5109999775886536
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8272843360900879
+        },
+        {
+          "id": "https://openalex.org/C199285206",
+          "wikidata": "https://www.wikidata.org/wiki/Q749602",
+          "display_name": "Terrigenous sediment",
+          "level": 3,
+          "score": 0.66054368019104
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4936143159866333
+        },
+        {
+          "id": "https://openalex.org/C162501224",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynology",
+          "level": 3,
+          "score": 0.49314969778060913
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4507206082344055
+        },
+        {
+          "id": "https://openalex.org/C15739521",
+          "wikidata": "https://www.wikidata.org/wiki/Q602963",
+          "display_name": "Glacial period",
+          "level": 2,
+          "score": 0.4450426399707794
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.35559916496276855
+        },
+        {
+          "id": "https://openalex.org/C2780618852",
+          "wikidata": "https://www.wikidata.org/wiki/Q79932",
+          "display_name": "Pollen",
+          "level": 2,
+          "score": 0.22935178875923157
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.13348200917243958
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.epsl.2012.08.011",
+          "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S119230507",
+            "display_name": "Earth and Planetary Science Letters",
+            "issn_l": "0012-821X",
+            "issn": [
+              "0012-821X",
+              "1385-013X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-a",
+              "jufo-3",
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Earth and Planetary Science Letters",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:pure.ed.ac.uk:openaire/ce67ac34-ed16-43a6-9bcf-7546ae112b25",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.research.ed.ac.uk/files/10536654/Marine_and_terrestrial_environmental_changes_in_NW_Europe_preceding.pdf",
+          "pdf_url": "https://www.research.ed.ac.uk/files/10536654/Marine_and_terrestrial_environmental_changes_in_NW_Europe_preceding.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400321",
+            "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I98677209",
+            "host_organization_name": "University of Edinburgh",
+            "host_organization_lineage": [
+              "https://openalex.org/I98677209"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Kender, S, Stephenson, M H, Riding, J B, Leng, M J, Knox, R W OB, Peck, V L, Kendrick, C P, Ellis, M A, Vane, C H & Jamieson, R 2012, 'Marine and terrestrial environmental changes in NW Europe preceding carbon release at the Paleocene-Eocene transition', Earth and Planetary Science Letters, vol. 353-354, pp. 108-120. https://doi.org/10.1016/j.epsl.2012.08.011",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:19896",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/19896/1/Kender_et_al_2012_paper_submission.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/19896/1/Kender_et_al_2012_paper_submission.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        },
+        {
+          "id": "pmh:oai:lra.le.ac.uk:2381/13941",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/2381/13941",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402365",
+            "display_name": "Leicester Research Archive (University of Leicester)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I153648349",
+            "host_organization_name": "University of Leicester",
+            "host_organization_lineage": [
+              "https://openalex.org/I153648349"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scopus",
+          "raw_type": "Journal Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.epsl.2012.08.011",
+        "doi": "https://doi.org/10.1016/j.epsl.2012.08.011",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.epsl.2012.08.011",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S119230507",
+          "display_name": "Earth and Planetary Science Letters",
+          "issn_l": "0012-821X",
+          "issn": [
+            "0012-821X",
+            "1385-013X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-3",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth and Planetary Science Letters",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903
+        }
+      ],
+      "study_designs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G6231553600",
+          "display_name": null,
+          "funder_award_id": "nigl010001",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        },
+        {
+          "id": "https://openalex.org/G7621085223",
+          "display_name": null,
+          "funder_award_id": "bgs05002",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        },
+        {
+          "id": "https://openalex.org/G8233085225",
+          "display_name": null,
+          "funder_award_id": "bas0100024",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321464",
+          "display_name": "British Geological Survey",
+          "ror": "https://ror.org/04a7gbp98"
+        },
+        {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2148258822.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2148258822.grobid-xml"
+      },
+      "referenced_works_count": 78,
+      "referenced_works": [
+        "https://openalex.org/W368328615",
+        "https://openalex.org/W655934160",
+        "https://openalex.org/W762417136",
+        "https://openalex.org/W1513231985",
+        "https://openalex.org/W1575909775",
+        "https://openalex.org/W1587430167",
+        "https://openalex.org/W1607700841",
+        "https://openalex.org/W1630322587",
+        "https://openalex.org/W1644120728",
+        "https://openalex.org/W1862378376",
+        "https://openalex.org/W1877298222",
+        "https://openalex.org/W1913138165",
+        "https://openalex.org/W1964116684",
+        "https://openalex.org/W1971561874",
+        "https://openalex.org/W1974975954",
+        "https://openalex.org/W1978656522",
+        "https://openalex.org/W1981139463",
+        "https://openalex.org/W1983794578",
+        "https://openalex.org/W1991143586",
+        "https://openalex.org/W1992935628",
+        "https://openalex.org/W1995194920",
+        "https://openalex.org/W1997132607",
+        "https://openalex.org/W1999872574",
+        "https://openalex.org/W2000380079",
+        "https://openalex.org/W2001815118",
+        "https://openalex.org/W2002027097",
+        "https://openalex.org/W2002706814",
+        "https://openalex.org/W2002859026",
+        "https://openalex.org/W2005476891",
+        "https://openalex.org/W2006456454",
+        "https://openalex.org/W2009607369",
+        "https://openalex.org/W2018557271",
+        "https://openalex.org/W2030155770",
+        "https://openalex.org/W2031387033",
+        "https://openalex.org/W2035044646",
+        "https://openalex.org/W2041743483",
+        "https://openalex.org/W2044880652",
+        "https://openalex.org/W2047652555",
+        "https://openalex.org/W2052285067",
+        "https://openalex.org/W2062252463",
+        "https://openalex.org/W2072249057",
+        "https://openalex.org/W2075184082",
+        "https://openalex.org/W2075429173",
+        "https://openalex.org/W2080338039",
+        "https://openalex.org/W2084137546",
+        "https://openalex.org/W2089498979",
+        "https://openalex.org/W2089999514",
+        "https://openalex.org/W2094953080",
+        "https://openalex.org/W2101510715",
+        "https://openalex.org/W2102085718",
+        "https://openalex.org/W2103107131",
+        "https://openalex.org/W2104285468",
+        "https://openalex.org/W2106454978",
+        "https://openalex.org/W2115089629",
+        "https://openalex.org/W2115736417",
+        "https://openalex.org/W2123364849",
+        "https://openalex.org/W2130957548",
+        "https://openalex.org/W2138382314",
+        "https://openalex.org/W2138511808",
+        "https://openalex.org/W2138691699",
+        "https://openalex.org/W2151218709",
+        "https://openalex.org/W2158170945",
+        "https://openalex.org/W2158997625",
+        "https://openalex.org/W2161925018",
+        "https://openalex.org/W2167889578",
+        "https://openalex.org/W2167901675",
+        "https://openalex.org/W2168587835",
+        "https://openalex.org/W2172067920",
+        "https://openalex.org/W2183707334",
+        "https://openalex.org/W2233314480",
+        "https://openalex.org/W2267844404",
+        "https://openalex.org/W2492677964",
+        "https://openalex.org/W2607175956",
+        "https://openalex.org/W2769152800",
+        "https://openalex.org/W2981141663",
+        "https://openalex.org/W2989049194",
+        "https://openalex.org/W4247316109",
+        "https://openalex.org/W6983849185"
+      ],
+      "related_works": [
+        "https://openalex.org/W2146462680",
+        "https://openalex.org/W7134216934",
+        "https://openalex.org/W6995526161",
+        "https://openalex.org/W2972544905",
+        "https://openalex.org/W2616930273",
+        "https://openalex.org/W4389507105",
+        "https://openalex.org/W2737677846",
+        "https://openalex.org/W1989056337",
+        "https://openalex.org/W819221587",
+        "https://openalex.org/W2151479210"
+      ],
+      "abstract_inverted_index": {
+        "54": [
+          42
+        ],
+        "Environmental": [
+          0
+        ],
+        "changes": [
+          1,
+          112,
+          265
+        ],
+        "associated": [
+          2
+        ],
+        "with": [
+          3,
+          179,
+          199,
+          230
+        ],
+        "the": [
+          4,
+          19,
+          27,
+          33,
+          37,
+          45,
+          64,
+          100,
+          104,
+          116,
+          136,
+          170,
+          174,
+          210,
+          225,
+          279
+        ],
+        "Paleocene–Eocene": [
+          5
+        ],
+        "thermal": [
+          6
+        ],
+        "maximum": [
+          7
+        ],
+        "(PETM,": [
+          8
+        ],
+        "∼56": [
+          9
+        ],
+        "Ma)": [
+          10
+        ],
+        "have": [
+          11,
+          62,
+          250
+        ],
+        "not": [
+          12
+        ],
+        "yet": [
+          13
+        ],
+        "been": [
+          14
+        ],
+        "documented": [
+          15
+        ],
+        "in": [
+          16,
+          71,
+          85,
+          99,
+          193,
+          204
+        ],
+        "detail": [
+          17,
+          87
+        ],
+        "from": [
+          18,
+          81,
+          146,
+          158,
+          190,
+          220,
+          252
+        ],
+        "North": [
+          20,
+          28
+        ],
+        "Sea": [
+          21
+        ],
+        "Basin.": [
+          22
+        ],
+        "Located": [
+          23
+        ],
+        "within": [
+          24,
+          88,
+          173,
+          278
+        ],
+        "proximity": [
+          25
+        ],
+        "to": [
+          26,
+          113,
+          141,
+          206,
+          241,
+          258,
+          285,
+          293
+        ],
+        "Atlantic": [
+          29
+        ],
+        "igneous": [
+          30
+        ],
+        "province": [
+          31
+        ],
+        "(NAIP),": [
+          32
+        ],
+        "Kilda": [
+          34
+        ],
+        "Basin,": [
+          35
+        ],
+        "and": [
+          36,
+          73,
+          95,
+          122,
+          129,
+          154,
+          164,
+          172,
+          245,
+          275
+        ],
+        "northern": [
+          38
+        ],
+        "rain": [
+          39
+        ],
+        "belt": [
+          40
+        ],
+        "(paleolatitude": [
+          41
+        ],
+        "°N)": [
+          43
+        ],
+        "during": [
+          44,
+          209
+        ],
+        "PETM,": [
+          46
+        ],
+        "this": [
+          47
+        ],
+        "is": [
+          48,
+          79
+        ],
+        "a": [
+          49,
+          89,
+          108,
+          147,
+          215,
+          231,
+          289
+        ],
+        "critical": [
+          50
+        ],
+        "region": [
+          51
+        ],
+        "for": [
+          52,
+          103,
+          181
+        ],
+        "testing": [
+          53
+        ],
+        "proposed": [
+          54
+        ],
+        "triggers": [
+          55
+        ],
+        "of": [
+          56,
+          110,
+          235,
+          254
+        ],
+        "atmospheric": [
+          57
+        ],
+        "carbon": [
+          58,
+          67
+        ],
+        "release": [
+          59
+        ],
+        "that": [
+          60
+        ],
+        "may": [
+          61,
+          185,
+          249
+        ],
+        "caused": [
+          63
+        ],
+        "global": [
+          65,
+          207
+        ],
+        "negative": [
+          66
+        ],
+        "isotope": [
+          68
+        ],
+        "excursion": [
+          69
+        ],
+        "(CIE)": [
+          70
+        ],
+        "marine": [
+          72
+        ],
+        "terrestrial": [
+          74
+        ],
+        "environments.": [
+          75
+        ],
+        "The": [
+          76
+        ],
+        "CIE": [
+          77,
+          176,
+          226
+        ],
+        "onset": [
+          78,
+          171
+        ],
+        "identified": [
+          80
+        ],
+        "organic": [
+          82
+        ],
+        "matter": [
+          83
+        ],
+        "δ13C": [
+          84
+        ],
+        "exceptional": [
+          86
+        ],
+        "highly": [
+          90
+        ],
+        "expanded": [
+          91
+        ],
+        "sedimentary": [
+          92
+        ],
+        "sequence.": [
+          93
+        ],
+        "Pollen": [
+          94
+        ],
+        "spore": [
+          96
+        ],
+        "assemblages": [
+          97
+        ],
+        "analysed": [
+          98
+        ],
+        "same": [
+          101
+        ],
+        "samples": [
+          102
+        ],
+        "first": [
+          105
+        ],
+        "time": [
+          106
+        ],
+        "allow": [
+          107
+        ],
+        "reconstruction": [
+          109
+        ],
+        "possible": [
+          111
+        ],
+        "vegetation": [
+          114,
+          277
+        ],
+        "on": [
+          115
+        ],
+        "surrounding": [
+          117
+        ],
+        "landmass.": [
+          118
+        ],
+        "Multiproxy": [
+          119
+        ],
+        "palynological,": [
+          120
+        ],
+        "geochemical,": [
+          121
+        ],
+        "sedimentologic": [
+          123
+        ],
+        "records": [
+          124
+        ],
+        "demonstrate": [
+          125
+        ],
+        "enhanced": [
+          126,
+          160,
+          201
+        ],
+        "halocline": [
+          127
+        ],
+        "stratification": [
+          128
+        ],
+        "terrigenous": [
+          130,
+          165
+        ],
+        "deposition": [
+          131,
+          166
+        ],
+        "well": [
+          132
+        ],
+        "before": [
+          133,
+          224
+        ],
+        "(103": [
+          134
+        ],
+        "yrs)": [
+          135
+        ],
+        "CIE,": [
+          137,
+          281
+        ],
+        "interpreted": [
+          138,
+          187
+        ],
+        "as": [
+          139,
+          188
+        ],
+        "due": [
+          140,
+          257
+        ],
+        "either": [
+          142
+        ],
+        "tectonic": [
+          143
+        ],
+        "uplift": [
+          144
+        ],
+        "possibly": [
+          145,
+          157
+        ],
+        "nearby": [
+          148
+        ],
+        "magmatic": [
+          149
+        ],
+        "intrusion,": [
+          150
+        ],
+        "or": [
+          151
+        ],
+        "increased": [
+          152,
+          167
+        ],
+        "precipitation": [
+          153,
+          194
+        ],
+        "fluvial": [
+          155
+        ],
+        "runoff": [
+          156
+        ],
+        "an": [
+          159,
+          191,
+          200
+        ],
+        "hydrologic": [
+          161,
+          202
+        ],
+        "cycle.": [
+          162
+        ],
+        "Stratification": [
+          163
+        ],
+        "further": [
+          168
+        ],
+        "at": [
+          169
+        ],
+        "earliest": [
+          175
+        ],
+        "which,": [
+          177
+        ],
+        "coupled": [
+          178
+        ],
+        "evidence": [
+          180,
+          213
+        ],
+        "sea": [
+          182,
+          260
+        ],
+        "level": [
+          183,
+          261
+        ],
+        "rise,": [
+          184,
+          262
+        ],
+        "be": [
+          186
+        ],
+        "resulting": [
+          189
+        ],
+        "increase": [
+          192
+        ],
+        "over": [
+          195
+        ],
+        "NW": [
+          196
+        ],
+        "Europe": [
+          197
+        ],
+        "consistent": [
+          198
+        ],
+        "cycle": [
+          203
+        ],
+        "response": [
+          205
+        ],
+        "warming": [
+          208
+        ],
+        "PETM.": [
+          211
+        ],
+        "Palynological": [
+          212
+        ],
+        "indicates": [
+          214
+        ],
+        "flora": [
+          216
+        ],
+        "dominated": [
+          217
+        ],
+        "by": [
+          218,
+          267
+        ],
+        "pollen": [
+          219,
+          239,
+          283
+        ],
+        "coastal": [
+          221,
+          255
+        ],
+        "swamp": [
+          222
+        ],
+        "conifers": [
+          223
+        ],
+        "was": [
+          227
+        ],
+        "abruptly": [
+          228
+        ],
+        "replaced": [
+          229
+        ],
+        "more": [
+          232,
+          272
+        ],
+        "diverse": [
+          233,
+          273
+        ],
+        "assemblage": [
+          234
+        ],
+        "generalist": [
+          236
+        ],
+        "species": [
+          237
+        ],
+        "including": [
+          238,
+          282
+        ],
+        "similar": [
+          240,
+          284
+        ],
+        "modern": [
+          242,
+          286
+        ],
+        "alder,": [
+          243
+        ],
+        "fern,": [
+          244
+        ],
+        "fungal": [
+          246
+        ],
+        "spores.": [
+          247
+        ],
+        "This": [
+          248
+        ],
+        "resulted": [
+          251
+        ],
+        "flooding": [
+          253
+        ],
+        "areas": [
+          256
+        ],
+        "relative": [
+          259
+        ],
+        "and/or": [
+          263
+        ],
+        "ecologic": [
+          264
+        ],
+        "forced": [
+          266
+        ],
+        "climate.": [
+          268
+        ],
+        "A": [
+          269
+        ],
+        "shift": [
+          270
+        ],
+        "towards": [
+          271
+        ],
+        "angiosperm": [
+          274
+        ],
+        "pteridophyte": [
+          276
+        ],
+        "early": [
+          280
+        ],
+        "hickory,": [
+          287
+        ],
+        "documents": [
+          288
+        ],
+        "long": [
+          290
+        ],
+        "term": [
+          291
+        ],
+        "change": [
+          292
+        ],
+        "regional": [
+          294
+        ],
+        "vegetation.": [
+          295
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2148258822",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15554,12 +15557,12 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 3.2826,
+      "fwci": 3.2363,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 73,
       "citation_normalized_percentile": {
-        "value": 0.92229878,
+        "value": 0.92085477,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18065,7 +18068,7 @@
         "doi": "https://doi.org/10.1144/petgeo2019-084",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1144/petgeo2019-084",
-        "pdf_url": null,
+        "pdf_url": "https://doi.org/10.1144/petgeo2019-084",
         "source": {
           "id": "https://openalex.org/S139447867",
           "display_name": "Petroleum Geoscience",
@@ -18360,12 +18363,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1464,
+      "fwci": 2.1312,
       "is_authors_truncated": false,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.84989993,
+        "value": 0.84882059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18660,7 +18663,7 @@
           "doi": "https://doi.org/10.1144/petgeo2019-084",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1144/petgeo2019-084",
-          "pdf_url": null,
+          "pdf_url": "https://doi.org/10.1144/petgeo2019-084",
           "source": {
             "id": "https://openalex.org/S139447867",
             "display_name": "Petroleum Geoscience",
@@ -18735,7 +18738,7 @@
         "doi": "https://doi.org/10.1144/petgeo2019-084",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1144/petgeo2019-084",
-        "pdf_url": null,
+        "pdf_url": "https://doi.org/10.1144/petgeo2019-084",
         "source": {
           "id": "https://openalex.org/S139447867",
           "display_name": "Petroleum Geoscience",
@@ -18808,10 +18811,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2958787718.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2958787718.grobid-xml"
+      },
       "referenced_works_count": 11,
       "referenced_works": [
         "https://openalex.org/W157680103",
@@ -19346,7 +19352,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2019-07-23T00:00:00"
     },
     {
@@ -22633,12 +22639,12 @@
         "currency": "USD",
         "value_usd": 3440
       },
-      "fwci": 3.2631,
+      "fwci": 3.2302,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.90464206,
+        "value": 0.90373226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24504,12 +24510,12 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 3.2386,
+      "fwci": 3.1986,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.91816635,
+        "value": 0.91690052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27191,12 +27197,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0171,
+      "fwci": 1.0134,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.80418623,
+        "value": 0.80357589,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27288,37 +27294,37 @@
         {
           "id": "https://openalex.org/keywords/long-tailed-data",
           "display_name": "long-tailed data",
-          "score": 0.8330000042915344
+          "score": 0.8289999961853027
         },
         {
           "id": "https://openalex.org/keywords/data-interoperability",
           "display_name": "data interoperability",
-          "score": 0.6629999876022339
+          "score": 0.703000009059906
         },
         {
           "id": "https://openalex.org/keywords/geoscience-databases",
           "display_name": "geoscience databases",
-          "score": 0.7329999804496765
+          "score": 0.7400000095367432
         },
         {
           "id": "https://openalex.org/keywords/data-harmonization",
           "display_name": "data harmonization",
-          "score": 0.8610000014305115
+          "score": 0.8690000176429749
         },
         {
           "id": "https://openalex.org/keywords/digital-earth",
           "display_name": "Digital Earth",
-          "score": 0.3700000047683716
+          "score": 0.3869999945163727
         },
         {
           "id": "https://openalex.org/keywords/international-union-of-geological-sciences",
           "display_name": "International Union of Geological Sciences",
-          "score": 0.7390000224113464
+          "score": 0.7269999980926514
         },
         {
           "id": "https://openalex.org/keywords/data-governance",
           "display_name": "data governance",
-          "score": 0.5929999947547913
+          "score": 0.6000000238418579
         }
       ],
       "concepts": [
@@ -28007,7 +28013,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-18T13:11:19.462570",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2020-06-05T00:00:00"
     },
     {
@@ -33581,12 +33587,12 @@
         "value_usd": 3870
       },
       "apc_paid": null,
-      "fwci": 21.7469,
+      "fwci": 21.7232,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 54,
+      "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.9940839,
+        "value": 0.9941342,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -34045,7 +34051,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2017,
@@ -34068,7 +34074,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -38226,12 +38232,12 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 2.3851,
+      "fwci": 2.3557,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.88930879,
+        "value": 0.88793562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50393,12 +50399,12 @@
         "currency": "USD",
         "value_usd": 3550
       },
-      "fwci": 1.6315,
+      "fwci": 1.6151,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.80760626,
+        "value": 0.80558428,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60180,12 +60186,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7115,
+      "fwci": 2.682,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.88897146,
+        "value": 0.88758364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71033,7 +71039,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "http://riviste.unimi.it/index.php/RIPS/article/view/7671",
+        "oa_url": "https://riviste.unimi.it/index.php/RIPS/article/download/7671/7415",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -71149,12 +71155,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2943,
+      "fwci": 1.2754,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.75121815,
+        "value": 0.74728223,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71485,7 +71491,7 @@
           "doi": null,
           "is_oa": true,
           "landing_page_url": "http://riviste.unimi.it/index.php/RIPS/article/view/7671",
-          "pdf_url": null,
+          "pdf_url": "https://riviste.unimi.it/index.php/RIPS/article/download/7671/7415",
           "source": {
             "id": "https://openalex.org/S4306400516",
             "display_name": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
@@ -71575,7 +71581,7 @@
         "doi": null,
         "is_oa": true,
         "landing_page_url": "http://riviste.unimi.it/index.php/RIPS/article/view/7671",
-        "pdf_url": null,
+        "pdf_url": "https://riviste.unimi.it/index.php/RIPS/article/download/7671/7415",
         "source": {
           "id": "https://openalex.org/S4306400516",
           "display_name": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
@@ -72348,7 +72354,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2017-01-06T00:00:00"
     },
     {
@@ -72456,12 +72462,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8408,
+      "fwci": 0.8302,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.65715093,
+        "value": 0.65323042,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73961,12 +73967,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2664,
+      "fwci": 1.2479,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.75069716,
+        "value": 0.74696756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79290,12 +79296,12 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.8077,
+      "fwci": 1.788,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.79934602,
+        "value": 0.79628253,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79989,12 +79995,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3557,
+      "fwci": 1.341,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.72473246,
+        "value": 0.7204461,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83430,12 +83436,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.601,
+      "fwci": 0.5888,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.56879858,
+        "value": 0.56088101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88823,12 +88829,12 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 0.2077,
+      "fwci": 0.2054,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.47154472,
+        "value": 0.46786679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89801,12 +89807,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2862,
+      "fwci": 0.2832,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.38185098,
+        "value": 0.37252964,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92336,12 +92342,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7403,
+      "fwci": 1.709,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.83824955,
+        "value": 0.83610586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -101051,12 +101057,12 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 0.9038,
+      "fwci": 0.894,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.59705707,
+        "value": 0.59420074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -104114,12 +104120,12 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.5406,
+      "fwci": 0.5392,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.54735818,
+        "value": 0.54654108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -104384,7 +104390,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2019-06-07T00:00:00"
     },
     {
@@ -106013,929 +106019,6 @@
       ],
       "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2478323162",
-      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-      "title": "Accounting for Carbon",
-      "display_name": "Accounting for Carbon",
-      "alternate_titles": [],
-      "publication_year": 2013,
-      "publication_date": "2013-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2478323162",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-        "mag": "2478323162"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Returning Coal and Carbon to Nature",
-        "raw_type": "book-chapter"
-      },
-      "parent_works": [
-        {
-          "id": "https://openalex.org/W4246786965",
-          "display_name": "Returning Coal and Carbon to Nature",
-          "relationship": "volume"
-        }
-      ],
-      "lineage": [
-        "https://openalex.org/W2478323162",
-        "https://openalex.org/W4246786965"
-      ],
-      "child_works_count": 0,
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9881-1578"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Michael Stephenson",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "121",
-        "last_page": "143"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10471",
-        "display_name": "Climate Change Policy and Economics",
-        "score": 0.7577999830245972,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2002",
-          "display_name": "Economics and Econometrics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/20",
-          "display_name": "Economics, Econometrics and Finance"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10471",
-          "display_name": "Climate Change Policy and Economics",
-          "score": 0.7577999830245972,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10967",
-          "display_name": "Carbon Dioxide Capture Technologies",
-          "score": 0.10199999809265137,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1506",
-            "display_name": "Filtration and Separation"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/15",
-            "display_name": "Chemical Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.06909999996423721,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "carbon capture and storage",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-emission-reduction",
-          "display_name": "CO2 emission reduction",
-          "score": 0.968999981880188
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-sequestration",
-          "display_name": "CO2 sequestration",
-          "score": 0.5360000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-tax",
-          "display_name": "carbon tax",
-          "score": 0.5320000052452087
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change-mitigation",
-          "display_name": "climate change mitigation",
-          "score": 0.5299999713897705
-        },
-        {
-          "id": "https://openalex.org/keywords/lifestyle-modification",
-          "display_name": "lifestyle modification",
-          "score": 0.45899999141693115
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2778379663",
-          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
-          "display_name": "Carbon capture and storage (timeline)",
-          "level": 3,
-          "score": 0.6138653755187988
-        },
-        {
-          "id": "https://openalex.org/C59427239",
-          "wikidata": "https://www.wikidata.org/wiki/Q40858",
-          "display_name": "Natural gas",
-          "level": 2,
-          "score": 0.5441974997520447
-        },
-        {
-          "id": "https://openalex.org/C76758496",
-          "wikidata": "https://www.wikidata.org/wiki/Q191118",
-          "display_name": "Tonne",
-          "level": 2,
-          "score": 0.5238580703735352
-        },
-        {
-          "id": "https://openalex.org/C47737302",
-          "wikidata": "https://www.wikidata.org/wiki/Q167336",
-          "display_name": "Greenhouse gas",
-          "level": 2,
-          "score": 0.47821304202079773
-        },
-        {
-          "id": "https://openalex.org/C2778137410",
-          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
-          "display_name": "Government (linguistics)",
-          "level": 2,
-          "score": 0.45371541380882263
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.43674522638320923
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.4359420835971832
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.4170113205909729
-        },
-        {
-          "id": "https://openalex.org/C2778976125",
-          "wikidata": "https://www.wikidata.org/wiki/Q288401",
-          "display_name": "Carbon tax",
-          "level": 3,
-          "score": 0.4155215322971344
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.4154224097728729
-        },
-        {
-          "id": "https://openalex.org/C108713360",
-          "wikidata": "https://www.wikidata.org/wiki/Q1824206",
-          "display_name": "Supply chain",
-          "level": 2,
-          "score": 0.41126835346221924
-        },
-        {
-          "id": "https://openalex.org/C134560507",
-          "wikidata": "https://www.wikidata.org/wiki/Q753291",
-          "display_name": "Environmental economics",
-          "level": 1,
-          "score": 0.39508768916130066
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.38560351729393005
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0.15403297543525696
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.12451934814453125
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.12289571762084961
-        },
-        {
-          "id": "https://openalex.org/C162853370",
-          "wikidata": "https://www.wikidata.org/wiki/Q39809",
-          "display_name": "Marketing",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41895202",
-          "wikidata": "https://www.wikidata.org/wiki/Q8162",
-          "display_name": "Linguistics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
-          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Returning Coal and Carbon to Nature",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
-        },
-        {
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4000000059604645
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 6,
-      "referenced_works": [
-        "https://openalex.org/W1598314256",
-        "https://openalex.org/W1854715208",
-        "https://openalex.org/W2077377887",
-        "https://openalex.org/W2106176530",
-        "https://openalex.org/W2148258822",
-        "https://openalex.org/W6635922959"
-      ],
-      "related_works": [
-        "https://openalex.org/W2022878502",
-        "https://openalex.org/W3022161946",
-        "https://openalex.org/W4400442186",
-        "https://openalex.org/W4392811665",
-        "https://openalex.org/W2057007381",
-        "https://openalex.org/W2001444850",
-        "https://openalex.org/W2081160795",
-        "https://openalex.org/W2187698382",
-        "https://openalex.org/W2339701996",
-        "https://openalex.org/W4400769879"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2478323162",
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-14T11:04:58.165337",
-      "created_date": "2016-08-23T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2505304676",
-      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
-      "title": "The Negative Greenhouse",
-      "display_name": "The Negative Greenhouse",
-      "alternate_titles": [],
-      "publication_year": 2013,
-      "publication_date": "2013-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2505304676",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
-        "mag": "2505304676"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-12-407671-6.00002-1",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Returning Coal and Carbon to Nature",
-        "raw_type": "book-chapter"
-      },
-      "parent_works": [
-        {
-          "id": "https://openalex.org/W4246786965",
-          "display_name": "Returning Coal and Carbon to Nature",
-          "relationship": "volume"
-        }
-      ],
-      "lineage": [
-        "https://openalex.org/W2505304676",
-        "https://openalex.org/W4246786965"
-      ],
-      "child_works_count": 0,
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9881-1578"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Michael Stephenson",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "23",
-        "last_page": "44"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9110999703407288,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9110999703407288,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12218",
-          "display_name": "Coal and Its By-products",
-          "score": 0.025699999183416367,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13811",
-          "display_name": "Earth Systems and Cosmic Evolution",
-          "score": 0.018400000408291817,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/coal-formation",
-          "display_name": "coal formation",
-          "score": 0.9879999756813049
-        },
-        {
-          "id": "https://openalex.org/keywords/carboniferous",
-          "display_name": "Carboniferous",
-          "score": 0.8220000267028809
-        },
-        {
-          "id": "https://openalex.org/keywords/swamp-forest",
-          "display_name": "swamp forest",
-          "score": 0.9710000157356262
-        },
-        {
-          "id": "https://openalex.org/keywords/photosynthesis",
-          "display_name": "photosynthesis",
-          "score": 0.609000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-sequestration",
-          "display_name": "carbon sequestration",
-          "score": 0.7310000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/atmospheric-co2",
-          "display_name": "atmospheric CO2",
-          "score": 0.7760000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/oxygen-rich-atmosphere",
-          "display_name": "oxygen-rich atmosphere",
-          "score": 0.6169999837875366
-        },
-        {
-          "id": "https://openalex.org/keywords/forest-fires",
-          "display_name": "forest fires",
-          "score": 0.7960000038146973
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "climate change",
-          "score": 0.4860000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoclimate",
-          "display_name": "paleoclimate",
-          "score": 0.44999998807907104
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C79414745",
-          "wikidata": "https://www.wikidata.org/wiki/Q166735",
-          "display_name": "Swamp",
-          "level": 2,
-          "score": 0.8712437152862549
-        },
-        {
-          "id": "https://openalex.org/C65440619",
-          "wikidata": "https://www.wikidata.org/wiki/Q177974",
-          "display_name": "Atmosphere (unit)",
-          "level": 2,
-          "score": 0.686618983745575
-        },
-        {
-          "id": "https://openalex.org/C518851703",
-          "wikidata": "https://www.wikidata.org/wiki/Q24489",
-          "display_name": "Coal",
-          "level": 2,
-          "score": 0.5329663753509521
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5048432946205139
-        },
-        {
-          "id": "https://openalex.org/C140205800",
-          "wikidata": "https://www.wikidata.org/wiki/Q5860",
-          "display_name": "Carbon fibers",
-          "level": 3,
-          "score": 0.4621568024158478
-        },
-        {
-          "id": "https://openalex.org/C47737302",
-          "wikidata": "https://www.wikidata.org/wiki/Q167336",
-          "display_name": "Greenhouse gas",
-          "level": 2,
-          "score": 0.4331013262271881
-        },
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.41235730051994324
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.38543522357940674
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3784981369972229
-        },
-        {
-          "id": "https://openalex.org/C97137747",
-          "wikidata": "https://www.wikidata.org/wiki/Q38112",
-          "display_name": "Forestry",
-          "level": 1,
-          "score": 0.3407411575317383
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.18012607097625732
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.14481863379478455
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.1369147002696991
-        },
-        {
-          "id": "https://openalex.org/C153294291",
-          "wikidata": "https://www.wikidata.org/wiki/Q25261",
-          "display_name": "Meteorology",
-          "level": 1,
-          "score": 0.11094430088996887
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.059670835733413696
-        },
-        {
-          "id": "https://openalex.org/C11413529",
-          "wikidata": "https://www.wikidata.org/wiki/Q8366",
-          "display_name": "Algorithm",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C104779481",
-          "wikidata": "https://www.wikidata.org/wiki/Q50707",
-          "display_name": "Composite number",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-12-407671-6.00002-1",
-          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Returning Coal and Carbon to Nature",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 16,
-      "referenced_works": [
-        "https://openalex.org/W1267454124",
-        "https://openalex.org/W1446995999",
-        "https://openalex.org/W1772412108",
-        "https://openalex.org/W1874648029",
-        "https://openalex.org/W1936335564",
-        "https://openalex.org/W1994521230",
-        "https://openalex.org/W2004587810",
-        "https://openalex.org/W2008150785",
-        "https://openalex.org/W2008314211",
-        "https://openalex.org/W2019483474",
-        "https://openalex.org/W2024893196",
-        "https://openalex.org/W2049127778",
-        "https://openalex.org/W2063397742",
-        "https://openalex.org/W2070879882",
-        "https://openalex.org/W2143732493",
-        "https://openalex.org/W2479525607"
-      ],
-      "related_works": [
-        "https://openalex.org/W4205550572",
-        "https://openalex.org/W3147859073",
-        "https://openalex.org/W7135960077",
-        "https://openalex.org/W4249772454",
-        "https://openalex.org/W6995549219",
-        "https://openalex.org/W7168121292",
-        "https://openalex.org/W4236517484",
-        "https://openalex.org/W2762441055",
-        "https://openalex.org/W2478038618",
-        "https://openalex.org/W2003837066"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2505304676",
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-14T11:04:58.165337",
-      "created_date": "2016-08-23T00:00:00"
     },
     {
       "id": "https://openalex.org/W1537786900",
@@ -110553,6 +109636,462 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2478323162",
+      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+      "title": "Accounting for Carbon",
+      "display_name": "Accounting for Carbon",
+      "alternate_titles": [],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2478323162",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "mag": "2478323162"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463230",
+          "display_name": "Elsevier eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Returning Coal and Carbon to Nature",
+        "raw_type": "book-chapter"
+      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4246786965",
+          "display_name": "Returning Coal and Carbon to Nature",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2478323162",
+        "https://openalex.org/W4246786965"
+      ],
+      "child_works_count": 0,
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9881-1578"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Michael Stephenson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 92
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "121",
+        "last_page": "143"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10471",
+        "display_name": "Climate Change Policy and Economics",
+        "score": 0.7577999830245972,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10471",
+          "display_name": "Climate Change Policy and Economics",
+          "score": 0.7577999830245972,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10967",
+          "display_name": "Carbon Dioxide Capture Technologies",
+          "score": 0.10199999809265137,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1506",
+            "display_name": "Filtration and Separation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/15",
+            "display_name": "Chemical Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.06909999996423721,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
+          "display_name": "carbon capture and storage",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-emission-reduction",
+          "display_name": "CO2 emission reduction",
+          "score": 0.968999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-sequestration",
+          "display_name": "CO2 sequestration",
+          "score": 0.5360000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-tax",
+          "display_name": "carbon tax",
+          "score": 0.5320000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change-mitigation",
+          "display_name": "climate change mitigation",
+          "score": 0.5299999713897705
+        },
+        {
+          "id": "https://openalex.org/keywords/lifestyle-modification",
+          "display_name": "lifestyle modification",
+          "score": 0.45899999141693115
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778379663",
+          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
+          "display_name": "Carbon capture and storage (timeline)",
+          "level": 3,
+          "score": 0.6138653755187988
+        },
+        {
+          "id": "https://openalex.org/C59427239",
+          "wikidata": "https://www.wikidata.org/wiki/Q40858",
+          "display_name": "Natural gas",
+          "level": 2,
+          "score": 0.5441974997520447
+        },
+        {
+          "id": "https://openalex.org/C76758496",
+          "wikidata": "https://www.wikidata.org/wiki/Q191118",
+          "display_name": "Tonne",
+          "level": 2,
+          "score": 0.5238580703735352
+        },
+        {
+          "id": "https://openalex.org/C47737302",
+          "wikidata": "https://www.wikidata.org/wiki/Q167336",
+          "display_name": "Greenhouse gas",
+          "level": 2,
+          "score": 0.47821304202079773
+        },
+        {
+          "id": "https://openalex.org/C2778137410",
+          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+          "display_name": "Government (linguistics)",
+          "level": 2,
+          "score": 0.45371541380882263
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.43674522638320923
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.4359420835971832
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.4170113205909729
+        },
+        {
+          "id": "https://openalex.org/C2778976125",
+          "wikidata": "https://www.wikidata.org/wiki/Q288401",
+          "display_name": "Carbon tax",
+          "level": 3,
+          "score": 0.4155215322971344
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4154224097728729
+        },
+        {
+          "id": "https://openalex.org/C108713360",
+          "wikidata": "https://www.wikidata.org/wiki/Q1824206",
+          "display_name": "Supply chain",
+          "level": 2,
+          "score": 0.41126835346221924
+        },
+        {
+          "id": "https://openalex.org/C134560507",
+          "wikidata": "https://www.wikidata.org/wiki/Q753291",
+          "display_name": "Environmental economics",
+          "level": 1,
+          "score": 0.39508768916130066
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.38560351729393005
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.15403297543525696
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.12451934814453125
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.12289571762084961
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
+          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463230",
+            "display_name": "Elsevier eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Returning Coal and Carbon to Nature",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1
+        },
+        {
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4000000059604645
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 6,
+      "referenced_works": [
+        "https://openalex.org/W1598314256",
+        "https://openalex.org/W1854715208",
+        "https://openalex.org/W2077377887",
+        "https://openalex.org/W2106176530",
+        "https://openalex.org/W2148258822",
+        "https://openalex.org/W6635922959"
+      ],
+      "related_works": [
+        "https://openalex.org/W2022878502",
+        "https://openalex.org/W3022161946",
+        "https://openalex.org/W4400442186",
+        "https://openalex.org/W4392811665",
+        "https://openalex.org/W2057007381",
+        "https://openalex.org/W2001444850",
+        "https://openalex.org/W2081160795",
+        "https://openalex.org/W2187698382",
+        "https://openalex.org/W2339701996",
+        "https://openalex.org/W4400769879"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2478323162",
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2016-08-23T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2487076602",
       "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00001-7",
       "title": "The Fuss about Shale",
@@ -110977,6 +110516,473 @@
         }
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2016-08-23T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2505304676",
+      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
+      "title": "The Negative Greenhouse",
+      "display_name": "The Negative Greenhouse",
+      "alternate_titles": [],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2505304676",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
+        "mag": "2505304676"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-12-407671-6.00002-1",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463230",
+          "display_name": "Elsevier eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Returning Coal and Carbon to Nature",
+        "raw_type": "book-chapter"
+      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4246786965",
+          "display_name": "Returning Coal and Carbon to Nature",
+          "relationship": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2505304676",
+        "https://openalex.org/W4246786965"
+      ],
+      "child_works_count": 0,
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9881-1578"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Michael Stephenson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 92
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "23",
+        "last_page": "44"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9110999703407288,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9110999703407288,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12218",
+          "display_name": "Coal and Its By-products",
+          "score": 0.025699999183416367,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13811",
+          "display_name": "Earth Systems and Cosmic Evolution",
+          "score": 0.018400000408291817,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/coal-formation",
+          "display_name": "coal formation",
+          "score": 0.9879999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/carboniferous",
+          "display_name": "Carboniferous",
+          "score": 0.8220000267028809
+        },
+        {
+          "id": "https://openalex.org/keywords/swamp-forest",
+          "display_name": "swamp forest",
+          "score": 0.9710000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/photosynthesis",
+          "display_name": "photosynthesis",
+          "score": 0.609000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-sequestration",
+          "display_name": "carbon sequestration",
+          "score": 0.7310000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/atmospheric-co2",
+          "display_name": "atmospheric CO2",
+          "score": 0.7760000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/oxygen-rich-atmosphere",
+          "display_name": "oxygen-rich atmosphere",
+          "score": 0.6169999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/forest-fires",
+          "display_name": "forest fires",
+          "score": 0.7960000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "climate change",
+          "score": 0.4860000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoclimate",
+          "display_name": "paleoclimate",
+          "score": 0.44999998807907104
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C79414745",
+          "wikidata": "https://www.wikidata.org/wiki/Q166735",
+          "display_name": "Swamp",
+          "level": 2,
+          "score": 0.8712437152862549
+        },
+        {
+          "id": "https://openalex.org/C65440619",
+          "wikidata": "https://www.wikidata.org/wiki/Q177974",
+          "display_name": "Atmosphere (unit)",
+          "level": 2,
+          "score": 0.686618983745575
+        },
+        {
+          "id": "https://openalex.org/C518851703",
+          "wikidata": "https://www.wikidata.org/wiki/Q24489",
+          "display_name": "Coal",
+          "level": 2,
+          "score": 0.5329663753509521
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5048432946205139
+        },
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.4621568024158478
+        },
+        {
+          "id": "https://openalex.org/C47737302",
+          "wikidata": "https://www.wikidata.org/wiki/Q167336",
+          "display_name": "Greenhouse gas",
+          "level": 2,
+          "score": 0.4331013262271881
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.41235730051994324
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.38543522357940674
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3784981369972229
+        },
+        {
+          "id": "https://openalex.org/C97137747",
+          "wikidata": "https://www.wikidata.org/wiki/Q38112",
+          "display_name": "Forestry",
+          "level": 1,
+          "score": 0.3407411575317383
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.18012607097625732
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.14481863379478455
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.1369147002696991
+        },
+        {
+          "id": "https://openalex.org/C153294291",
+          "wikidata": "https://www.wikidata.org/wiki/Q25261",
+          "display_name": "Meteorology",
+          "level": 1,
+          "score": 0.11094430088996887
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.059670835733413696
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C104779481",
+          "wikidata": "https://www.wikidata.org/wiki/Q50707",
+          "display_name": "Composite number",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-12-407671-6.00002-1",
+          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00002-1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463230",
+            "display_name": "Elsevier eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Returning Coal and Carbon to Nature",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W1267454124",
+        "https://openalex.org/W1446995999",
+        "https://openalex.org/W1772412108",
+        "https://openalex.org/W1874648029",
+        "https://openalex.org/W1936335564",
+        "https://openalex.org/W1994521230",
+        "https://openalex.org/W2004587810",
+        "https://openalex.org/W2008150785",
+        "https://openalex.org/W2008314211",
+        "https://openalex.org/W2019483474",
+        "https://openalex.org/W2024893196",
+        "https://openalex.org/W2049127778",
+        "https://openalex.org/W2063397742",
+        "https://openalex.org/W2070879882",
+        "https://openalex.org/W2143732493",
+        "https://openalex.org/W2479525607"
+      ],
+      "related_works": [
+        "https://openalex.org/W4205550572",
+        "https://openalex.org/W3147859073",
+        "https://openalex.org/W7135960077",
+        "https://openalex.org/W4249772454",
+        "https://openalex.org/W6995549219",
+        "https://openalex.org/W7168121292",
+        "https://openalex.org/W4236517484",
+        "https://openalex.org/W2762441055",
+        "https://openalex.org/W2478038618",
+        "https://openalex.org/W2003837066"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2505304676",
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-14T11:04:58.165337",
       "created_date": "2016-08-23T00:00:00"
     },
     {
@@ -112099,7 +112105,7 @@
       "fwci": null,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -112441,14 +112447,14 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2018,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-09-16T00:00:00"
     },
     {

@@ -605,12 +605,12 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.7673,
+      "fwci": 0.756,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.65548885,
+        "value": 0.651548,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -935,9 +935,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -1623,7 +1623,7 @@
         "doi": "https://doi.org/10.3390/rs17050766",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/rs17050766",
-        "pdf_url": null,
+        "pdf_url": "https://www.mdpi.com/2072-4292/17/5/766/pdf?version=1740389027",
         "source": {
           "id": "https://openalex.org/S43295729",
           "display_name": "Remote Sensing",
@@ -1677,7 +1677,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://doi.org/10.3390/rs17050766",
+        "oa_url": "https://www.mdpi.com/2072-4292/17/5/766/pdf?version=1740389027",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -1929,12 +1929,12 @@
         "currency": "CHF",
         "value_usd": 3258
       },
-      "fwci": 2.5982,
+      "fwci": 2.5719,
       "is_authors_truncated": false,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.89042747,
+        "value": 0.88904569,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2137,7 +2137,7 @@
           "doi": "https://doi.org/10.3390/rs17050766",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/rs17050766",
-          "pdf_url": null,
+          "pdf_url": "https://www.mdpi.com/2072-4292/17/5/766/pdf?version=1740389027",
           "source": {
             "id": "https://openalex.org/S43295729",
             "display_name": "Remote Sensing",
@@ -2243,7 +2243,7 @@
         "doi": "https://doi.org/10.3390/rs17050766",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/rs17050766",
-        "pdf_url": null,
+        "pdf_url": "https://www.mdpi.com/2072-4292/17/5/766/pdf?version=1740389027",
         "source": {
           "id": "https://openalex.org/S43295729",
           "display_name": "Remote Sensing",
@@ -2285,19 +2285,38 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306084",
+          "display_name": "U.S. Department of Energy",
+          "ror": "https://ror.org/01bj3aw27"
+        },
+        {
+          "id": "https://openalex.org/F4320332183",
+          "display_name": "U.S. Geological Survey",
+          "ror": "https://ror.org/035a68863"
+        },
+        {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4407918264.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4407918264.grobid-xml"
+      },
       "referenced_works_count": 79,
       "referenced_works": [
         "https://openalex.org/W566505230",
@@ -3059,7 +3078,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2025-02-26T00:00:00"
     },
     {
@@ -4853,12 +4872,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.6232,
+      "fwci": 0.6161,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.63486107,
+        "value": 0.63168317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6494,9 +6513,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],

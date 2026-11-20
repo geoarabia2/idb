@@ -1124,8 +1124,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -1813,8 +1813,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -2382,8 +2382,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3592,8 +3592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -4696,8 +4696,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 158,
@@ -5711,8 +5711,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -7067,8 +7067,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 194,
@@ -8697,8 +8697,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -9398,8 +9398,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -10752,8 +10752,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -12187,8 +12187,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -12912,12 +12912,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6391,
+      "fwci": 0.6461,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.6212766,
+        "value": 0.62632696,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13187,8 +13187,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -14769,8 +14769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -15462,8 +15462,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -16239,8 +16239,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -16807,8 +16807,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -17276,12 +17276,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.2863,
+      "fwci": 1.2669,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.79126876,
+        "value": 0.78876637,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17598,8 +17598,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -18165,12 +18165,12 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 0.6232,
+      "fwci": 0.6161,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.63486107,
+        "value": 0.63168317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18498,8 +18498,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -19941,8 +19941,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 1
         }
       ],
@@ -19956,8 +19956,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -20279,12 +20279,12 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.0386,
+      "fwci": 1.0269,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.7155365,
+        "value": 0.71314131,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20529,8 +20529,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -21594,8 +21594,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -22990,8 +22990,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23552,8 +23552,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24140,8 +24140,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24940,12 +24940,12 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.3361,
+      "fwci": 1.3187,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.71758624,
+        "value": 0.71565626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25306,8 +25306,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651
         }
       ],
@@ -25321,8 +25321,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -25830,8 +25830,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26351,8 +26351,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27509,13 +27509,13 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.875
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651
         }
       ],
@@ -27523,8 +27523,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2086944217.pdf",
@@ -27704,949 +27704,6 @@
         }
       ],
       "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2211243306",
-      "doi": "https://doi.org/10.3997/2214-4609.201400878",
-      "title": "Meso– to Cenozoic Sequence Stratigraphy of the Tarfaya Basin, Morocco",
-      "display_name": "Meso– to Cenozoic Sequence Stratigraphy of the Tarfaya Basin, Morocco",
-      "alternate_titles": [],
-      "publication_year": 2010,
-      "publication_date": "2010-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2211243306",
-        "doi": "https://doi.org/10.3997/2214-4609.201400878",
-        "mag": "2211243306"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609.201400878",
-        "doi": "https://doi.org/10.3997/2214-4609.201400878",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609.201400878",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306499730",
-          "display_name": "EAGE Conference and Exhibition incorporating SPE EUROPEC",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2211243306"
-      ],
-      "child_works_count": 0,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5026336110",
-            "display_name": "Anne Wenke",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A. Wenke",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086485606",
-            "display_name": "Rainer Zühlke",
-            "orcid": "https://orcid.org/0000-0001-8629-983X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8629-983X"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R. Zühlke",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5083795529",
-            "display_name": "Lahcen Boutib",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "L. Boutib",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5088523314",
-            "display_name": "Haddou Jabour",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H. Jabour",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008071032",
-            "display_name": "Oliver Kluth",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "O. Kluth",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5070814856",
-            "display_name": "Jürgen Schober",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J. Schober",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.5595999956130981,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.5595999956130981,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.25270000100135803,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.07500000298023224,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/tarfaya-basin",
-          "display_name": "Tarfaya Basin",
-          "score": 0.9869999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "sequence stratigraphy",
-          "score": 0.9700000286102295
-        },
-        {
-          "id": "https://openalex.org/keywords/source-to-sink-analysis",
-          "display_name": "source-to-sink analysis",
-          "score": 0.800000011920929
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-systems",
-          "display_name": "hydrocarbon systems",
-          "score": 0.7749999761581421
-        },
-        {
-          "id": "https://openalex.org/keywords/basin-modeling",
-          "display_name": "basin modeling",
-          "score": 0.5299999713897705
-        },
-        {
-          "id": "https://openalex.org/keywords/third-order-sequences",
-          "display_name": "third-order sequences",
-          "score": 0.6190000176429749
-        },
-        {
-          "id": "https://openalex.org/keywords/inversion",
-          "display_name": "inversion",
-          "score": 0.32899999618530273
-        },
-        {
-          "id": "https://openalex.org/keywords/drift",
-          "display_name": "drift",
-          "score": 0.46399998664855957
-        },
-        {
-          "id": "https://openalex.org/keywords/jurassic",
-          "display_name": "Jurassic",
-          "score": 0.3630000054836273
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.6940000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/tertiary",
-          "display_name": "Tertiary",
-          "score": 0.5960000157356262
-        },
-        {
-          "id": "https://openalex.org/keywords/thermochronology",
-          "display_name": "thermochronology",
-          "score": 0.7319999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "biostratigraphy",
-          "score": 0.7039999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop-analogs",
-          "display_name": "outcrop analogs",
-          "score": 0.6309999823570251
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.49900001287460327
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8706894516944885
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7432937622070312
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.6956498622894287
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.6761963367462158
-        },
-        {
-          "id": "https://openalex.org/C73707237",
-          "wikidata": "https://www.wikidata.org/wiki/Q102416",
-          "display_name": "Cenozoic",
-          "level": 3,
-          "score": 0.6732137203216553
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.6432865858078003
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.5957879424095154
-        },
-        {
-          "id": "https://openalex.org/C126559015",
-          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
-          "display_name": "Source rock",
-          "level": 3,
-          "score": 0.5600200295448303
-        },
-        {
-          "id": "https://openalex.org/C1893757",
-          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
-          "display_name": "Inversion (geology)",
-          "level": 3,
-          "score": 0.5543253421783447
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.46833017468452454
-        },
-        {
-          "id": "https://openalex.org/C2778112365",
-          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
-          "display_name": "Sequence (biology)",
-          "level": 2,
-          "score": 0.4520716965198517
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609.201400878",
-          "doi": "https://doi.org/10.3997/2214-4609.201400878",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609.201400878",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306499730",
-            "display_name": "EAGE Conference and Exhibition incorporating SPE EUROPEC",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W1544530319",
-        "https://openalex.org/W2005961399",
-        "https://openalex.org/W2270732416",
-        "https://openalex.org/W4214861518",
-        "https://openalex.org/W2323188173",
-        "https://openalex.org/W2408615896",
-        "https://openalex.org/W2142600636",
-        "https://openalex.org/W3022309446",
-        "https://openalex.org/W2008595354",
-        "https://openalex.org/W2148173577"
-      ],
-      "abstract_inverted_index": {
-        "5": [
-          105
-        ],
-        "51": [
-          167
-        ],
-        "Although": [
-          0
-        ],
-        "sufficiently": [
-          1
-        ],
-        "mature": [
-          2
-        ],
-        "source": [
-          3,
-          60
-        ],
-        "rocks": [
-          4
-        ],
-        "(Early": [
-          5
-        ],
-        "Jurassic,": [
-          6,
-          15
-        ],
-        "Late": [
-          7,
-          14,
-          140
-        ],
-        "Cretaceous)": [
-          8
-        ],
-        "and": [
-          9,
-          61,
-          74,
-          114,
-          150,
-          158
-        ],
-        "suitable": [
-          10
-        ],
-        "reservoir": [
-          11
-        ],
-        "facies": [
-          12
-        ],
-        "(e.g.": [
-          13
-        ],
-        "Early-Middle": [
-          16
-        ],
-        "Tertiary)": [
-          17
-        ],
-        "exist": [
-          18
-        ],
-        "in": [
-          19,
-          161,
-          178
-        ],
-        "the": [
-          20,
-          41,
-          45,
-          59,
-          162,
-          179
-        ],
-        "Tarfaya": [
-          21
-        ],
-        "Basin": [
-          22
-        ],
-        "(TB),": [
-          23
-        ],
-        "past": [
-          24
-        ],
-        "exploration": [
-          25
-        ],
-        "has": [
-          26,
-          52
-        ],
-        "yielded": [
-          27
-        ],
-        "few": [
-          28
-        ],
-        "oil/gas": [
-          29
-        ],
-        "shows": [
-          30
-        ],
-        "but": [
-          31
-        ],
-        "no": [
-          32
-        ],
-        "commercially": [
-          33
-        ],
-        "producing": [
-          34
-        ],
-        "wells.": [
-          35
-        ],
-        "In": [
-          36
-        ],
-        "order": [
-          37,
-          169
-        ],
-        "to": [
-          38,
-          99,
-          111,
-          118,
-          123,
-          142
-        ],
-        "better": [
-          39
-        ],
-        "understand": [
-          40
-        ],
-        "HC": [
-          42
-        ],
-        "system": [
-          43
-        ],
-        "of": [
-          44,
-          58
-        ],
-        "TB,": [
-          46
-        ],
-        "an": [
-          47
-        ],
-        "integrated": [
-          48
-        ],
-        "basin": [
-          49,
-          75,
-          102,
-          107,
-          181
-        ],
-        "analysis": [
-          50
-        ],
-        "approach": [
-          51
-        ],
-        "been": [
-          53,
-          172
-        ],
-        "applied": [
-          54
-        ],
-        "including": [
-          55
-        ],
-        "numerical": [
-          56,
-          159
-        ],
-        "modeling": [
-          57,
-          160
-        ],
-        "sink": [
-          62,
-          163
-        ],
-        "areas.": [
-          63
-        ],
-        "Key": [
-          64
-        ],
-        "methodologies": [
-          65
-        ],
-        "include": [
-          66
-        ],
-        "sequence": [
-          67,
-          79,
-          156
-        ],
-        "stratigraphy,": [
-          68
-        ],
-        "thermochronology,": [
-          69
-        ],
-        "biostratigraphy,": [
-          70
-        ],
-        "source-to-sink": [
-          71
-        ],
-        "analysis,": [
-          72
-        ],
-        "geochemistry": [
-          73
-        ],
-        "modeling..": [
-          76
-        ],
-        "The": [
-          77,
-          97
-        ],
-        "current": [
-          78
-        ],
-        "stratigraphic": [
-          80,
-          90
-        ],
-        "interpretation": [
-          81
-        ],
-        "is": [
-          82
-        ],
-        "based": [
-          83
-        ],
-        "on": [
-          84,
-          155
-        ],
-        "i)": [
-          85,
-          109
-        ],
-        "well": [
-          86
-        ],
-        "correlation,": [
-          87
-        ],
-        "ii)": [
-          88,
-          116
-        ],
-        "seismo-/sequence": [
-          89
-        ],
-        "interpretation;": [
-          91
-        ],
-        "iii)": [
-          92,
-          121
-        ],
-        "data": [
-          93
-        ],
-        "from": [
-          94
-        ],
-        "outcrop": [
-          95
-        ],
-        "analogue.": [
-          96
-        ],
-        "Mesozoic": [
-          98
-        ],
-        "Early": [
-          100,
-          124,
-          143
-        ],
-        "Cenozoic": [
-          101
-        ],
-        "development": [
-          103
-        ],
-        "includes": [
-          104
-        ],
-        "major": [
-          106,
-          136,
-          147
-        ],
-        "stages": [
-          108
-        ],
-        "Permian": [
-          110
-        ],
-        "Pliensbachian": [
-          112
-        ],
-        "rift-": [
-          113
-        ],
-        "sag,": [
-          115
-        ],
-        "Toarcian": [
-          117
-        ],
-        "Cenomanian": [
-          119
-        ],
-        "drift,": [
-          120
-        ],
-        "Turonian": [
-          122
-        ],
-        "Eocene": [
-          125,
-          133,
-          141
-        ],
-        "drift": [
-          126,
-          134,
-          145
-        ],
-        "with": [
-          127,
-          135,
-          146
-        ],
-        "initial": [
-          128
-        ],
-        "Atlasian": [
-          129,
-          137,
-          148
-        ],
-        "deformation,": [
-          130
-        ],
-        "iv)": [
-          131
-        ],
-        "Middle-Late": [
-          132
-        ],
-        "compression;": [
-          138
-        ],
-        "v)": [
-          139
-        ],
-        "Miocene": [
-          144
-        ],
-        "uplift": [
-          149
-        ],
-        "inversion.": [
-          151
-        ],
-        "This": [
-          152
-        ],
-        "contribution": [
-          153
-        ],
-        "focuses": [
-          154
-        ],
-        "stratigraphy": [
-          157
-        ],
-        "area.": [
-          164
-        ],
-        "At": [
-          165
-        ],
-        "least": [
-          166
-        ],
-        "3rd": [
-          168
-        ],
-        "sequences": [
-          170
-        ],
-        "have": [
-          171
-        ],
-        "identified": [
-          173
-        ],
-        "along": [
-          174
-        ],
-        "a": [
-          175
-        ],
-        "key": [
-          176
-        ],
-        "transect": [
-          177
-        ],
-        "Jurassic-recent": [
-          180
-        ],
-        "fill.": [
-          182
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2211243306",
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -29145,8 +28202,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30025,12 +29082,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2077,
+      "fwci": 0.2054,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.47154472,
+        "value": 0.46786679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30313,8 +29370,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30744,8 +29801,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30869,6 +29926,949 @@
         }
       ],
       "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2211243306",
+      "doi": "https://doi.org/10.3997/2214-4609.201400878",
+      "title": "Meso– to Cenozoic Sequence Stratigraphy of the Tarfaya Basin, Morocco",
+      "display_name": "Meso– to Cenozoic Sequence Stratigraphy of the Tarfaya Basin, Morocco",
+      "alternate_titles": [],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2211243306",
+        "doi": "https://doi.org/10.3997/2214-4609.201400878",
+        "mag": "2211243306"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609.201400878",
+        "doi": "https://doi.org/10.3997/2214-4609.201400878",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609.201400878",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306499730",
+          "display_name": "EAGE Conference and Exhibition incorporating SPE EUROPEC",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2211243306"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5026336110",
+            "display_name": "Anne Wenke",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. Wenke",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086485606",
+            "display_name": "Rainer Zühlke",
+            "orcid": "https://orcid.org/0000-0001-8629-983X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8629-983X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Zühlke",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083795529",
+            "display_name": "Lahcen Boutib",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L. Boutib",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088523314",
+            "display_name": "Haddou Jabour",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H. Jabour",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008071032",
+            "display_name": "Oliver Kluth",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "O. Kluth",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5070814856",
+            "display_name": "Jürgen Schober",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Schober",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 92
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.5595999956130981,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.5595999956130981,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.25270000100135803,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.07500000298023224,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/tarfaya-basin",
+          "display_name": "Tarfaya Basin",
+          "score": 0.9869999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.9700000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/source-to-sink-analysis",
+          "display_name": "source-to-sink analysis",
+          "score": 0.800000011920929
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-systems",
+          "display_name": "hydrocarbon systems",
+          "score": 0.7749999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/basin-modeling",
+          "display_name": "basin modeling",
+          "score": 0.5299999713897705
+        },
+        {
+          "id": "https://openalex.org/keywords/third-order-sequences",
+          "display_name": "third-order sequences",
+          "score": 0.6190000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/inversion",
+          "display_name": "inversion",
+          "score": 0.32899999618530273
+        },
+        {
+          "id": "https://openalex.org/keywords/drift",
+          "display_name": "drift",
+          "score": 0.46399998664855957
+        },
+        {
+          "id": "https://openalex.org/keywords/jurassic",
+          "display_name": "Jurassic",
+          "score": 0.3630000054836273
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.6940000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/tertiary",
+          "display_name": "Tertiary",
+          "score": 0.5960000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/thermochronology",
+          "display_name": "thermochronology",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "biostratigraphy",
+          "score": 0.7039999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop-analogs",
+          "display_name": "outcrop analogs",
+          "score": 0.6309999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.49900001287460327
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8706894516944885
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7432937622070312
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.6956498622894287
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.6761963367462158
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.6732137203216553
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.6432865858078003
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5957879424095154
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.5600200295448303
+        },
+        {
+          "id": "https://openalex.org/C1893757",
+          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
+          "display_name": "Inversion (geology)",
+          "level": 3,
+          "score": 0.5543253421783447
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.46833017468452454
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.4520716965198517
+        },
+        {
+          "id": "https://openalex.org/C54355233",
+          "wikidata": "https://www.wikidata.org/wiki/Q7162",
+          "display_name": "Genetics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609.201400878",
+          "doi": "https://doi.org/10.3997/2214-4609.201400878",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609.201400878",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306499730",
+            "display_name": "EAGE Conference and Exhibition incorporating SPE EUROPEC",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1544530319",
+        "https://openalex.org/W2005961399",
+        "https://openalex.org/W2270732416",
+        "https://openalex.org/W4214861518",
+        "https://openalex.org/W2323188173",
+        "https://openalex.org/W2408615896",
+        "https://openalex.org/W2142600636",
+        "https://openalex.org/W3022309446",
+        "https://openalex.org/W2008595354",
+        "https://openalex.org/W2148173577"
+      ],
+      "abstract_inverted_index": {
+        "5": [
+          105
+        ],
+        "51": [
+          167
+        ],
+        "Although": [
+          0
+        ],
+        "sufficiently": [
+          1
+        ],
+        "mature": [
+          2
+        ],
+        "source": [
+          3,
+          60
+        ],
+        "rocks": [
+          4
+        ],
+        "(Early": [
+          5
+        ],
+        "Jurassic,": [
+          6,
+          15
+        ],
+        "Late": [
+          7,
+          14,
+          140
+        ],
+        "Cretaceous)": [
+          8
+        ],
+        "and": [
+          9,
+          61,
+          74,
+          114,
+          150,
+          158
+        ],
+        "suitable": [
+          10
+        ],
+        "reservoir": [
+          11
+        ],
+        "facies": [
+          12
+        ],
+        "(e.g.": [
+          13
+        ],
+        "Early-Middle": [
+          16
+        ],
+        "Tertiary)": [
+          17
+        ],
+        "exist": [
+          18
+        ],
+        "in": [
+          19,
+          161,
+          178
+        ],
+        "the": [
+          20,
+          41,
+          45,
+          59,
+          162,
+          179
+        ],
+        "Tarfaya": [
+          21
+        ],
+        "Basin": [
+          22
+        ],
+        "(TB),": [
+          23
+        ],
+        "past": [
+          24
+        ],
+        "exploration": [
+          25
+        ],
+        "has": [
+          26,
+          52
+        ],
+        "yielded": [
+          27
+        ],
+        "few": [
+          28
+        ],
+        "oil/gas": [
+          29
+        ],
+        "shows": [
+          30
+        ],
+        "but": [
+          31
+        ],
+        "no": [
+          32
+        ],
+        "commercially": [
+          33
+        ],
+        "producing": [
+          34
+        ],
+        "wells.": [
+          35
+        ],
+        "In": [
+          36
+        ],
+        "order": [
+          37,
+          169
+        ],
+        "to": [
+          38,
+          99,
+          111,
+          118,
+          123,
+          142
+        ],
+        "better": [
+          39
+        ],
+        "understand": [
+          40
+        ],
+        "HC": [
+          42
+        ],
+        "system": [
+          43
+        ],
+        "of": [
+          44,
+          58
+        ],
+        "TB,": [
+          46
+        ],
+        "an": [
+          47
+        ],
+        "integrated": [
+          48
+        ],
+        "basin": [
+          49,
+          75,
+          102,
+          107,
+          181
+        ],
+        "analysis": [
+          50
+        ],
+        "approach": [
+          51
+        ],
+        "been": [
+          53,
+          172
+        ],
+        "applied": [
+          54
+        ],
+        "including": [
+          55
+        ],
+        "numerical": [
+          56,
+          159
+        ],
+        "modeling": [
+          57,
+          160
+        ],
+        "sink": [
+          62,
+          163
+        ],
+        "areas.": [
+          63
+        ],
+        "Key": [
+          64
+        ],
+        "methodologies": [
+          65
+        ],
+        "include": [
+          66
+        ],
+        "sequence": [
+          67,
+          79,
+          156
+        ],
+        "stratigraphy,": [
+          68
+        ],
+        "thermochronology,": [
+          69
+        ],
+        "biostratigraphy,": [
+          70
+        ],
+        "source-to-sink": [
+          71
+        ],
+        "analysis,": [
+          72
+        ],
+        "geochemistry": [
+          73
+        ],
+        "modeling..": [
+          76
+        ],
+        "The": [
+          77,
+          97
+        ],
+        "current": [
+          78
+        ],
+        "stratigraphic": [
+          80,
+          90
+        ],
+        "interpretation": [
+          81
+        ],
+        "is": [
+          82
+        ],
+        "based": [
+          83
+        ],
+        "on": [
+          84,
+          155
+        ],
+        "i)": [
+          85,
+          109
+        ],
+        "well": [
+          86
+        ],
+        "correlation,": [
+          87
+        ],
+        "ii)": [
+          88,
+          116
+        ],
+        "seismo-/sequence": [
+          89
+        ],
+        "interpretation;": [
+          91
+        ],
+        "iii)": [
+          92,
+          121
+        ],
+        "data": [
+          93
+        ],
+        "from": [
+          94
+        ],
+        "outcrop": [
+          95
+        ],
+        "analogue.": [
+          96
+        ],
+        "Mesozoic": [
+          98
+        ],
+        "Early": [
+          100,
+          124,
+          143
+        ],
+        "Cenozoic": [
+          101
+        ],
+        "development": [
+          103
+        ],
+        "includes": [
+          104
+        ],
+        "major": [
+          106,
+          136,
+          147
+        ],
+        "stages": [
+          108
+        ],
+        "Permian": [
+          110
+        ],
+        "Pliensbachian": [
+          112
+        ],
+        "rift-": [
+          113
+        ],
+        "sag,": [
+          115
+        ],
+        "Toarcian": [
+          117
+        ],
+        "Cenomanian": [
+          119
+        ],
+        "drift,": [
+          120
+        ],
+        "Turonian": [
+          122
+        ],
+        "Eocene": [
+          125,
+          133,
+          141
+        ],
+        "drift": [
+          126,
+          134,
+          145
+        ],
+        "with": [
+          127,
+          135,
+          146
+        ],
+        "initial": [
+          128
+        ],
+        "Atlasian": [
+          129,
+          137,
+          148
+        ],
+        "deformation,": [
+          130
+        ],
+        "iv)": [
+          131
+        ],
+        "Middle-Late": [
+          132
+        ],
+        "compression;": [
+          138
+        ],
+        "v)": [
+          139
+        ],
+        "Miocene": [
+          144
+        ],
+        "uplift": [
+          149
+        ],
+        "inversion.": [
+          151
+        ],
+        "This": [
+          152
+        ],
+        "contribution": [
+          153
+        ],
+        "focuses": [
+          154
+        ],
+        "stratigraphy": [
+          157
+        ],
+        "area.": [
+          164
+        ],
+        "At": [
+          165
+        ],
+        "least": [
+          166
+        ],
+        "3rd": [
+          168
+        ],
+        "sequences": [
+          170
+        ],
+        "have": [
+          171
+        ],
+        "identified": [
+          173
+        ],
+        "along": [
+          174
+        ],
+        "a": [
+          175
+        ],
+        "key": [
+          176
+        ],
+        "transect": [
+          177
+        ],
+        "Jurassic-recent": [
+          180
+        ],
+        "fill.": [
+          182
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2211243306",
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31333,8 +31333,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31662,8 +31662,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651
         }
       ],
@@ -31671,8 +31671,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32111,8 +32111,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32970,8 +32970,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33605,8 +33605,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34103,8 +34103,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35013,8 +35013,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35834,8 +35834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36785,8 +36785,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37524,8 +37524,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -38769,8 +38769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39207,8 +39207,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39573,8 +39573,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40072,8 +40072,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -41378,8 +41378,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42295,8 +42295,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42984,8 +42984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -44278,8 +44278,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651
         }
       ],
@@ -44287,8 +44287,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,

@@ -2491,10 +2491,10 @@
         "currency": "USD",
         "value_usd": 3370
       },
-      "fwci": 4.561,
+      "fwci": 4.587,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 857,
+      "cited_by_count": 858,
       "citation_normalized_percentile": {
         "value": 1,
         "is_in_top_1_percent": true,
@@ -4124,7 +4124,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 38
+          "cited_by_count": 39
         },
         {
           "year": 2015,
@@ -4139,7 +4139,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6377,12 +6377,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.0871,
+      "fwci": 7.1674,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 358,
       "citation_normalized_percentile": {
-        "value": 0.9825784,
+        "value": 0.98421053,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11319,12 +11319,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9836,
+      "fwci": 2.9377,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 103,
       "citation_normalized_percentile": {
-        "value": 0.90810502,
+        "value": 0.90634944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13163,12 +13163,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.276,
+      "fwci": 10.2875,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 97,
       "citation_normalized_percentile": {
-        "value": 0.98694316,
+        "value": 0.98697318,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13648,11 +13648,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2022,
-          "cited_by_count": 15
+          "cited_by_count": 14
         },
         {
           "year": 2021,
@@ -13671,7 +13671,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2018-12-11T00:00:00"
     },
     {
@@ -13946,12 +13946,12 @@
         "value_usd": 4070
       },
       "apc_paid": null,
-      "fwci": 3.8588,
+      "fwci": 3.8006,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 88,
       "citation_normalized_percentile": {
-        "value": 0.92198158,
+        "value": 0.92074431,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14947,11 +14947,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 23
+          "cited_by_count": 24
         },
         {
           "year": 2022,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2021,
@@ -14974,7 +14974,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-11-30T00:00:00"
     },
     {
@@ -19134,12 +19134,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3073,
+      "fwci": 3.3448,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 103,
       "citation_normalized_percentile": {
-        "value": 0.91289199,
+        "value": 0.91403509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23440,12 +23440,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8525,
+      "fwci": 0.8393,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.6418379,
+        "value": 0.63653457,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25435,12 +25435,12 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 2.4975,
+      "fwci": 2.4727,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.89411421,
+        "value": 0.89301984,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25713,7 +25713,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 5,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1016/j.precamres.2020.105720",
@@ -25789,37 +25789,6 @@
           "is_published": false,
           "raw_source_name": "Precambrian Research, 343",
           "raw_type": "Article"
-        },
-        {
-          "id": "pmh:oai:researchbank.swinburne.edu.au:7b99a981-cc80-4b00-8dd9-c3db2021da09/1",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/1959.3/455487",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401157",
-            "display_name": "Swinburne figshare (Swinburne University of Technology)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I57093077",
-            "host_organization_name": "Swinburne University of Technology",
-            "host_organization_lineage": [
-              "https://openalex.org/I57093077"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Precambrian Research, Vol. 343 (Jul 2020), article no. 105720",
-          "raw_type": null
         },
         {
           "id": "pmh:oai:vubissmart:VUBISSMART:2000:129022",
@@ -26129,7 +26098,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2020-04-10T00:00:00"
     },
     {
@@ -30047,12 +30016,12 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 1.0206,
+      "fwci": 1.0165,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.69516676,
+        "value": 0.69382541,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30454,8 +30423,7 @@
         "https://openalex.org/W3014690334",
         "https://openalex.org/W2093510181",
         "https://openalex.org/W4221006185",
-        "https://openalex.org/W2903389093",
-        "https://openalex.org/W7043450906"
+        "https://openalex.org/W2903389093"
       ],
       "abstract_inverted_index": {
         "13": [
@@ -30936,7 +30904,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31743,12 +31711,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2842,
+      "fwci": 0.2798,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.45476598,
+        "value": 0.44728088,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34878,12 +34846,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0552,
+      "fwci": 3.1034,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.8869908,
+        "value": 0.89012426,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

@@ -2253,12 +2253,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5198,
+      "fwci": 4.5089,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 158,
+      "cited_by_count": 159,
       "citation_normalized_percentile": {
-        "value": 0.93369395,
+        "value": 0.93349646,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3477,7 +3477,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -3536,7 +3536,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3628,7 +3628,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Frans S.P. van Buchem",
           "raw_affiliation_strings": [
             "Institut Français du Pétrole"
@@ -3955,16 +3955,20 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5108291309"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I265217849"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.411,
+      "fwci": 9.4381,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 244,
       "citation_normalized_percentile": {
-        "value": 0.98433458,
+        "value": 0.98421808,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5333,7 +5337,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2015,
@@ -5352,7 +5356,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2017-12-22T00:00:00"
     },
     {
@@ -5500,12 +5504,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 38.1783,
+      "fwci": 38.2123,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 194,
       "citation_normalized_percentile": {
-        "value": 0.99910873,
+        "value": 0.99910953,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6751,7 +6755,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2015,
@@ -6770,7 +6774,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10072,12 +10076,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8454,
+      "fwci": 5.8638,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 142,
       "citation_normalized_percentile": {
-        "value": 0.9566374,
+        "value": 0.95680975,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10435,8 +10439,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -11415,7 +11419,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2015,
@@ -11434,7 +11438,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13359,12 +13363,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.0699,
+      "fwci": 6.5345,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 117,
       "citation_normalized_percentile": {
-        "value": 0.95427384,
+        "value": 0.96012469,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14930,7 +14934,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2015,
@@ -14949,7 +14953,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2017-12-22T00:00:00"
     },
     {
@@ -15037,12 +15041,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.546,
+      "fwci": 4.1126,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.92936803,
+        "value": 0.93406593,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16779,7 +16783,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2015,
@@ -16798,7 +16802,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -16959,12 +16963,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7914,
+      "fwci": 3.7875,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 68,
+      "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.91304348,
+        "value": 0.91287512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18652,6 +18656,10 @@
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4410338539",
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 6
         },
@@ -18685,7 +18693,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2015,
@@ -18704,7 +18712,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2025-05-14T00:00:00"
     },
     {
@@ -18787,12 +18795,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.243,
+      "fwci": 10.2521,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.97771836,
+        "value": 0.9777382,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20124,10 +20132,6 @@
           "cited_by_count": 4
         },
         {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
           "year": 2015,
           "cited_by_count": 3
         },
@@ -20144,7 +20148,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2026-07-17T00:00:00"
     },
     {
@@ -22279,12 +22283,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4214,
+      "fwci": 5.408,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 70,
+      "cited_by_count": 71,
       "citation_normalized_percentile": {
-        "value": 0.95043847,
+        "value": 0.95031546,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23599,7 +23603,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -23658,7 +23662,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-19T14:11:59.513116",
       "created_date": "2019-05-09T00:00:00"
     },
     {
@@ -33620,12 +33624,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6343,
+      "fwci": 0.6273,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.60120846,
+        "value": 0.5998004,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36088,8 +36092,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 1,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -37584,6 +37588,424 @@
       "created_date": "2026-09-16T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1980028455",
+      "doi": "https://doi.org/10.3997/2214-4609.20142782",
+      "title": "Upper Jurassic to Lower Cretaceous Stratigraphic Model for the Eastern Arabian Plate",
+      "display_name": "Upper Jurassic to Lower Cretaceous Stratigraphic Model for the Eastern Arabian Plate",
+      "alternate_titles": [],
+      "publication_year": 2012,
+      "publication_date": "2012-12-09",
+      "ids": {
+        "openalex": "https://openalex.org/W1980028455",
+        "doi": "https://doi.org/10.3997/2214-4609.20142782",
+        "mag": "1980028455"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609.20142782",
+        "doi": "https://doi.org/10.3997/2214-4609.20142782",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609.20142782",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4220650854",
+          "display_name": "Proceedings",
+          "issn_l": "2214-4609",
+          "issn": [
+            "2214-4609"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1980028455"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5058646530",
+            "display_name": "Henk Droste",
+            "orcid": "https://orcid.org/0009-0008-1422-1783",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-1422-1783"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I7923278",
+              "display_name": "Shell (Netherlands)",
+              "ror": "https://ror.org/00b5m4j81",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "H.J. Droste",
+          "raw_affiliation_strings": [
+            "(Shell <)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "(Shell <)",
+              "institution_ids": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5058646530"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I7923278"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6205,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.67075665,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "score": 0.5863999724388123,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.5863999724388123,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.1378999948501587,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.10490000247955322,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-modeling",
+          "display_name": "stratigraphic modeling",
+          "score": 0.9490000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/late-jurassic",
+          "display_name": "Late Jurassic",
+          "score": 0.9750000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/early-cretaceous",
+          "display_name": "Lower Cretaceous",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/well-correlation",
+          "display_name": "well correlation",
+          "score": 0.7720000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-calibration",
+          "display_name": "seismic calibration",
+          "score": 0.7390000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "stratigraphy",
+          "score": 0.5490000247955322
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.928619384765625
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8934388160705566
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7937352657318115
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609.20142782",
+          "doi": "https://doi.org/10.3997/2214-4609.20142782",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609.20142782",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4220650854",
+            "display_name": "Proceedings",
+            "issn_l": "2214-4609",
+            "issn": [
+              "2214-4609"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1975163258",
+        "https://openalex.org/W2738123152",
+        "https://openalex.org/W4312873742",
+        "https://openalex.org/W2093899151",
+        "https://openalex.org/W3081991817",
+        "https://openalex.org/W2312730272",
+        "https://openalex.org/W2325646568",
+        "https://openalex.org/W2933151505",
+        "https://openalex.org/W7167724021",
+        "https://openalex.org/W2134886830"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "A": [
+          1
+        ],
+        "new": [
+          2
+        ],
+        "stratigraphic": [
+          3
+        ],
+        "model": [
+          4
+        ],
+        "for": [
+          5,
+          15
+        ],
+        "the": [
+          6,
+          16
+        ],
+        "Upper": [
+          7
+        ],
+        "Jurassic": [
+          8
+        ],
+        "to": [
+          9
+        ],
+        "Lower": [
+          10
+        ],
+        "Cretaceous": [
+          11
+        ],
+        "has": [
+          12
+        ],
+        "been": [
+          13
+        ],
+        "constructed": [
+          14
+        ],
+        "eastern": [
+          17
+        ],
+        "Arabian": [
+          18
+        ],
+        "plate": [
+          19
+        ],
+        "based": [
+          20
+        ],
+        "on": [
+          21
+        ],
+        "well": [
+          22
+        ],
+        "correlations": [
+          23
+        ],
+        "calibrated": [
+          24
+        ],
+        "with": [
+          25
+        ],
+        "seismic.": [
+          26
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1980028455",
+      "counts_by_year": [
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2294145311",
       "doi": null,
       "title": "Chapter 19: Petroleum Geology of the Sultanate of Oman",
@@ -38755,424 +39177,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1980028455",
-      "doi": "https://doi.org/10.3997/2214-4609.20142782",
-      "title": "Upper Jurassic to Lower Cretaceous Stratigraphic Model for the Eastern Arabian Plate",
-      "display_name": "Upper Jurassic to Lower Cretaceous Stratigraphic Model for the Eastern Arabian Plate",
-      "alternate_titles": [],
-      "publication_year": 2012,
-      "publication_date": "2012-12-09",
-      "ids": {
-        "openalex": "https://openalex.org/W1980028455",
-        "doi": "https://doi.org/10.3997/2214-4609.20142782",
-        "mag": "1980028455"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609.20142782",
-        "doi": "https://doi.org/10.3997/2214-4609.20142782",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609.20142782",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4220650854",
-          "display_name": "Proceedings",
-          "issn_l": "2214-4609",
-          "issn": [
-            "2214-4609"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Proceedings",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W1980028455"
-      ],
-      "child_works_count": 0,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5058646530",
-            "display_name": "Henk Droste",
-            "orcid": "https://orcid.org/0009-0008-1422-1783",
-            "observed_orcids": [
-              "https://orcid.org/0009-0008-1422-1783"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "H.J. Droste",
-          "raw_affiliation_strings": [
-            "(Shell <)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "(Shell <)",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5058646530"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I7923278"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.6132,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.67077555,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 87,
-        "max": 92
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
-        "score": 0.5863999724388123,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.5863999724388123,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.1378999948501587,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.10490000247955322,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-modeling",
-          "display_name": "stratigraphic modeling",
-          "score": 0.9490000009536743
-        },
-        {
-          "id": "https://openalex.org/keywords/late-jurassic",
-          "display_name": "Late Jurassic",
-          "score": 0.9750000238418579
-        },
-        {
-          "id": "https://openalex.org/keywords/early-cretaceous",
-          "display_name": "Lower Cretaceous",
-          "score": 0.9959999918937683
-        },
-        {
-          "id": "https://openalex.org/keywords/well-correlation",
-          "display_name": "well correlation",
-          "score": 0.7720000147819519
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-calibration",
-          "display_name": "seismic calibration",
-          "score": 0.7390000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "stratigraphy",
-          "score": 0.5490000247955322
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.928619384765625
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8934388160705566
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7937352657318115
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609.20142782",
-          "doi": "https://doi.org/10.3997/2214-4609.20142782",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609.20142782",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4220650854",
-            "display_name": "Proceedings",
-            "issn_l": "2214-4609",
-            "issn": [
-              "2214-4609"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Proceedings",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W1975163258",
-        "https://openalex.org/W2738123152",
-        "https://openalex.org/W4312873742",
-        "https://openalex.org/W2093899151",
-        "https://openalex.org/W3081991817",
-        "https://openalex.org/W2312730272",
-        "https://openalex.org/W2325646568",
-        "https://openalex.org/W2933151505",
-        "https://openalex.org/W7167724021",
-        "https://openalex.org/W2134886830"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "A": [
-          1
-        ],
-        "new": [
-          2
-        ],
-        "stratigraphic": [
-          3
-        ],
-        "model": [
-          4
-        ],
-        "for": [
-          5,
-          15
-        ],
-        "the": [
-          6,
-          16
-        ],
-        "Upper": [
-          7
-        ],
-        "Jurassic": [
-          8
-        ],
-        "to": [
-          9
-        ],
-        "Lower": [
-          10
-        ],
-        "Cretaceous": [
-          11
-        ],
-        "has": [
-          12
-        ],
-        "been": [
-          13
-        ],
-        "constructed": [
-          14
-        ],
-        "eastern": [
-          17
-        ],
-        "Arabian": [
-          18
-        ],
-        "plate": [
-          19
-        ],
-        "based": [
-          20
-        ],
-        "on": [
-          21
-        ],
-        "well": [
-          22
-        ],
-        "correlations": [
-          23
-        ],
-        "calibrated": [
-          24
-        ],
-        "with": [
-          25
-        ],
-        "seismic.": [
-          26
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1980028455",
-      "counts_by_year": [
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-07-29T14:22:42.915294",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1989012109",
       "doi": "https://doi.org/10.3997/2214-4609.20147550",
       "title": "Definition and Distribution of the Bab Sequence – The Last Upper Aptian Shu’aiba Sequence in the Bab Basin (Best of Shu'aiba)",
@@ -39391,12 +39395,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.957,
+      "fwci": 2.907,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81133056,
+        "value": 0.81062951,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46472,8 +46476,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
