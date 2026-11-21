@@ -387,8 +387,8 @@
       "title": "Rapid late Pleistocene/Holocene uplift and coastal evolution of the southern Arabian (Persian) Gulf",
       "display_name": "Rapid late Pleistocene/Holocene uplift and coastal evolution of the southern Arabian (Persian) Gulf",
       "alternate_titles": [],
-      "publication_year": 2011,
-      "publication_date": "2011-12-14",
+      "publication_year": 2012,
+      "publication_date": "2012-03-01",
       "ids": {
         "openalex": "https://openalex.org/W2053123825",
         "doi": "https://doi.org/10.1016/j.yqres.2011.10.008",
@@ -518,6 +518,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Warren W. Wood",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Saudi Arabia",
@@ -579,6 +580,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Richard M. Bailey",
           "raw_affiliation_strings": [
             "University of Oxford, UK"
@@ -619,6 +621,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Brian A. Hampton",
           "raw_affiliation_strings": [
             "Michigan State University, USA"
@@ -660,6 +663,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Thomas F. Kraemer",
           "raw_affiliation_strings": [
             "U.S. Geological Survey, Reston, VA, USA",
@@ -708,6 +712,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Zhong Lu",
           "raw_affiliation_strings": [
             "U.S. Geological Survey, Vancouver, WA, USA"
@@ -747,6 +752,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "David W. Clark",
           "raw_affiliation_strings": [
             "National Drilling Company/U. S. Geological Survey, Al Ain, United Arab Emirates"
@@ -785,6 +791,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rhodri H.R. James",
           "raw_affiliation_strings": [
             "University of Oxford, UK"
@@ -823,6 +830,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al Ramadan",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -856,12 +864,12 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 2.4338,
+      "fwci": 3.3553,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.85779096,
+        "value": 0.89716452,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1166,8 +1174,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -1676,7 +1684,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1779,6 +1787,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Geraint Wyn Hughes",
           "raw_affiliation_strings": [
             "Natural History Museum;"
@@ -1817,6 +1826,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Ramadan",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals KFUPM"
@@ -1842,6 +1852,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mahmoud Nazgah",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1873,6 +1884,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Saudi ARAMCO"
@@ -1895,12 +1907,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3746,
+      "fwci": 0.3697,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.44501241,
+        "value": 0.44122859,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2728,6 +2740,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia\r\n\r\nAGH University of Science and Technology, Faculty of Geology, Geophysics and Environmental Protection,\r\nal. Mickiewicza 30, 30-059 Kraków"
@@ -2767,6 +2780,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz Al Shaibani",
           "raw_affiliation_strings": [
             "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia"
@@ -2805,6 +2819,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al Ramadan",
           "raw_affiliation_strings": [
             "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia"
@@ -3458,6 +3473,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad Arslan",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-9620-6710",
@@ -3476,6 +3492,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
@@ -3494,6 +3511,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bassam Tawabini",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-0096-2723",
@@ -3510,6 +3528,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al Ramadan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3528,6 +3547,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
@@ -3546,6 +3566,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fabrizio Frontalini",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-0425-9306",
@@ -3783,8 +3804,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -3910,6 +3931,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Maaruf Hussain",
           "raw_affiliation_strings": [
             "1 King Fahd University of Petroleum and Minerals",
@@ -3955,6 +3977,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Ramadan",
           "raw_affiliation_strings": [
             "1 King Fahd University of Petroleum and Minerals",
@@ -4735,10 +4758,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4404685331",
+          "host_organization_name": "EAGE Publications bv",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404685331"
+          ],
+          "host_organization_lineage_names": [
+            "EAGE Publications bv"
+          ],
           "type": "journal"
         },
         "license": null,
@@ -4777,6 +4804,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al Ramadan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4795,6 +4823,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sadoon Morad",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4811,6 +4840,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Essam El-Khoriby",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5133,10 +5163,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4404685331",
+            "host_organization_name": "EAGE Publications bv",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404685331"
+            ],
+            "host_organization_lineage_names": [
+              "EAGE Publications bv"
+            ],
             "type": "journal"
           },
           "license": null,
@@ -5634,7 +5668,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2175841689",
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5666,10 +5700,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4404685331",
+          "host_organization_name": "EAGE Publications bv",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404685331"
+          ],
+          "host_organization_lineage_names": [
+            "EAGE Publications bv"
+          ],
           "type": "journal"
         },
         "license": null,
@@ -5708,6 +5746,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Emad A. Busbait",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5724,6 +5763,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ishak Ishak",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5740,6 +5780,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Langhorne Smith",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5756,6 +5797,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al Ramadan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6065,10 +6107,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4404685331",
+            "host_organization_name": "EAGE Publications bv",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404685331"
+            ],
+            "host_organization_lineage_names": [
+              "EAGE Publications bv"
+            ],
             "type": "journal"
           },
           "license": null,
@@ -6826,7 +6872,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2565148508",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2017-01-06T00:00:00"
     }
   ]

@@ -425,6 +425,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab M. Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -465,6 +466,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Musa B. Usman",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Gombe, Nigeria"
@@ -503,6 +505,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad A. Ismail",
           "raw_affiliation_strings": [
             "Department of Applied Geology, Abubakar Tafawa Balewa University, Bauchi, Nigeria"
@@ -541,6 +544,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Shehu Mukkafa",
           "raw_affiliation_strings": [
             "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
@@ -613,6 +617,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Usman Abubakar",
           "raw_affiliation_strings": [
             "Department of Applied Geology, Abubakar Tafawa Balewa University, Bauchi, Nigeria",
@@ -668,6 +673,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ibrahim A. Kwami",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Gombe, Nigeria"
@@ -708,6 +714,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -755,6 +762,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -795,6 +803,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Murtada Al-Hashem",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -835,6 +844,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas M. Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -876,6 +886,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aliyuda Kachalla",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Gombe, Nigeria"
@@ -916,6 +927,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad B. Abubakar",
           "raw_affiliation_strings": [
             "Department of Applied Geology, Abubakar Tafawa Balewa University, Bauchi, Nigeria"
@@ -956,6 +968,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abubakar S. Maigari",
           "raw_affiliation_strings": [
             "Department of Applied Geology, Abubakar Tafawa Balewa University, Bauchi, Nigeria"
@@ -994,6 +1007,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lukman U. Chiroma",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Gombe, Nigeria"
@@ -1024,12 +1038,12 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.5798,
+      "fwci": 4.5118,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.96667332,
+        "value": 0.9656371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1311,8 +1325,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -1559,6 +1573,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -1599,6 +1614,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -1646,6 +1662,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -1686,6 +1703,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA"
@@ -1726,6 +1744,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulrauf R. Adebayo",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -1766,6 +1785,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -1806,6 +1826,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -2113,8 +2134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -2344,6 +2365,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -2382,6 +2404,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hasan Algheryafi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -2422,6 +2445,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -2462,6 +2486,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -2500,6 +2525,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bandar Al-Otaibi",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -2540,6 +2566,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -2927,8 +2954,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -3174,6 +3201,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab M. Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -3214,6 +3242,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Musa B. Usman",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -3254,6 +3283,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -3294,6 +3324,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -3341,6 +3372,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Murtada Al-Hashem",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -3382,6 +3414,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aliyuda Kachalla",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -3444,6 +3477,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Usman Abubakar",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
@@ -3492,6 +3526,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas M. Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -3530,6 +3565,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Shehu Mukkafa",
           "raw_affiliation_strings": [
             "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
@@ -3570,6 +3606,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ibrahim A. Kwami",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -3597,6 +3634,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Oluwafemi E. Aro",
           "raw_affiliation_strings": [
             "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom"
@@ -3635,6 +3673,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad Naveed Butt",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -3675,6 +3714,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abubakar S. Maigari",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
@@ -3713,6 +3753,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abubakar Yusuf",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -3751,6 +3792,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lukman U. Chiroma",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -3791,6 +3833,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Olumuyiwa T. Akinsanpe",
           "raw_affiliation_strings": [
             "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria"
@@ -4101,8 +4144,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -4359,6 +4402,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -4399,6 +4443,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -4439,6 +4484,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -4486,6 +4532,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -4526,6 +4573,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Murtada Al-Hashem",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -4566,6 +4614,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA"
@@ -4606,6 +4655,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -4887,8 +4937,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -5098,6 +5148,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab M. Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -5138,6 +5189,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Musa B. Usman",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -5178,6 +5230,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -5218,6 +5271,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas M. Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -5258,6 +5312,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -5316,6 +5371,7 @@
             "CN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Usman Abubakar",
           "raw_affiliation_strings": [
             "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China"
@@ -5355,6 +5411,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Shehu Mukkafa",
           "raw_affiliation_strings": [
             "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
@@ -5395,6 +5452,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ibrahim A. Kwami",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -5433,6 +5491,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lukman U. Chiroma",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -5473,6 +5532,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Murtada Al-Hashem",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -5511,6 +5571,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abubakar Yusuf",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -5551,6 +5612,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abubakar S. Maigari",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
@@ -5592,6 +5654,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aliyuda Kachalla",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -5619,6 +5682,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Oluwafemi E. Aro",
           "raw_affiliation_strings": [
             "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom"
@@ -5655,6 +5719,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad A. Ismai'l",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
@@ -5693,6 +5758,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Umar S. Umar",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
@@ -5733,6 +5799,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Olumuyiwa T. Akinsanpe",
           "raw_affiliation_strings": [
             "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria"
@@ -6036,8 +6103,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 143,
@@ -6318,6 +6385,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "1 Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -6358,6 +6426,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "2 Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -6398,6 +6467,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu Olalekan Amao",
           "raw_affiliation_strings": [
             "1 Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -6436,6 +6506,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mustapha Umar",
           "raw_affiliation_strings": [
             "3 Department of Chemical Sciences, Faculty of Science and Computing, North-Eastern University, Gombe, Gombe State, Nigeria"
@@ -6476,6 +6547,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "1 Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -6505,12 +6577,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.9766,
+      "fwci": 6.9068,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.97705334,
+        "value": 0.97652701,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6756,8 +6828,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -6852,822 +6924,819 @@
       ],
       "abstract_inverted_index": {
         "200": [
-          181
-        ],
-        "336": [
-          68
-        ],
-        "ABSTRACT": [
-          0
-        ],
-        "Chlorite": [
-          1
-        ],
-        "is": [
-          2,
-          131
-        ],
-        "an": [
-          3,
-          86,
-          218,
-          288
-        ],
-        "important": [
-          4
-        ],
-        "clay": [
-          5,
-          101,
-          153,
-          290,
-          350
-        ],
-        "mineral": [
-          6,
-          21
-        ],
-        "in": [
-          7,
-          74,
-          184,
-          250,
-          268,
-          272,
-          327,
-          367,
-          374
-        ],
-        "sandstone": [
-          8,
-          112,
-          130
-        ],
-        "reservoirs": [
-          9
-        ],
-        "across": [
-          10
-        ],
-        "many": [
-          11
-        ],
-        "petroliferous": [
-          12
-        ],
-        "basins": [
-          13
-        ],
-        "worldwide,": [
-          14
-        ],
-        "originating": [
-          15
-        ],
-        "from": [
-          16,
-          106,
-          113,
-          297
-        ],
-        "a": [
-          17,
-          51,
-          65,
-          75,
-          110,
-          228,
-          269
-        ],
-        "wide": [
-          18
-        ],
-        "range": [
-          19
-        ],
-        "of": [
-          20,
-          53,
-          67,
-          99,
-          140,
-          170,
-          196,
-          206,
-          210,
-          215,
-          230,
-          253,
-          263,
-          280,
-          332,
-          337
-        ],
-        "precursors.": [
-          22
-        ],
-        "Among": [
-          23
-        ],
-        "the": [
-          24,
-          33,
-          43,
-          97,
-          100,
-          114,
-          126,
-          141,
-          186,
-          190,
-          240,
-          251,
-          293,
-          298,
-          305,
-          317,
-          322,
-          328,
-          335,
-          360
-        ],
-        "predominant": [
-          25
-        ],
-        "chlorite": [
-          26,
-          41,
-          105,
-          197,
-          211,
-          226,
-          266,
-          340,
-          369
-        ],
-        "precursors": [
-          27
-        ],
-        "(e.g.,": [
-          28
-        ],
-        "berthierine,": [
-          29
-        ],
-        "smectite,": [
-          30,
-          174
-        ],
-        "odinite,": [
-          31
-        ],
-        "etc.),": [
-          32
-        ],
-        "kaolinite": [
-          34,
-          135,
-          160,
-          207,
-          216,
-          264,
-          283,
-          333
-        ],
-        "precursor": [
-          35
-        ],
-        "and": [
-          36,
-          61,
-          83,
-          95,
-          136,
-          149,
-          176,
-          182,
-          189,
-          208,
-          212,
-          232,
-          244,
-          255,
-          284,
-          313,
-          334,
-          364,
-          370
-        ],
-        "its": [
-          37
-        ],
-        "conversion": [
-          38,
-          237,
-          262,
-          336,
-          362
-        ],
-        "mechanism": [
-          39
-        ],
-        "to": [
-          40,
-          93,
-          217,
-          276,
-          316,
-          321
-        ],
-        "remain": [
-          42
-        ],
-        "least": [
-          44
-        ],
-        "understood.": [
-          45
-        ],
-        "In": [
-          46
-        ],
-        "this": [
-          47
-        ],
-        "study,": [
-          48
-        ],
-        "we": [
-          49,
-          108
-        ],
-        "conducted": [
-          50,
-          73
-        ],
-        "series": [
-          52
-        ],
-        "hydrothermal-reactor": [
-          54
-        ],
-        "experiments": [
-          55,
-          71,
-          142
-        ],
-        "at": [
-          56,
-          145,
-          158,
           180
         ],
+        "336": [
+          67
+        ],
+        "Chlorite": [
+          0
+        ],
+        "is": [
+          1,
+          130
+        ],
+        "an": [
+          2,
+          85,
+          217,
+          287
+        ],
+        "important": [
+          3
+        ],
+        "clay": [
+          4,
+          100,
+          152,
+          289,
+          349
+        ],
+        "mineral": [
+          5,
+          20
+        ],
+        "in": [
+          6,
+          73,
+          183,
+          249,
+          267,
+          271,
+          326,
+          366,
+          373
+        ],
+        "sandstone": [
+          7,
+          111,
+          129
+        ],
+        "reservoirs": [
+          8
+        ],
+        "across": [
+          9
+        ],
+        "many": [
+          10
+        ],
+        "petroliferous": [
+          11
+        ],
+        "basins": [
+          12
+        ],
+        "worldwide,": [
+          13
+        ],
+        "originating": [
+          14
+        ],
+        "from": [
+          15,
+          105,
+          112,
+          296
+        ],
+        "a": [
+          16,
+          50,
+          64,
+          74,
+          109,
+          227,
+          268
+        ],
+        "wide": [
+          17
+        ],
+        "range": [
+          18
+        ],
+        "of": [
+          19,
+          52,
+          66,
+          98,
+          139,
+          169,
+          195,
+          205,
+          209,
+          214,
+          229,
+          252,
+          262,
+          279,
+          331,
+          336
+        ],
+        "precursors.": [
+          21
+        ],
+        "Among": [
+          22
+        ],
+        "the": [
+          23,
+          32,
+          42,
+          96,
+          99,
+          113,
+          125,
+          140,
+          185,
+          189,
+          239,
+          250,
+          292,
+          297,
+          304,
+          316,
+          321,
+          327,
+          334,
+          359
+        ],
+        "predominant": [
+          24
+        ],
+        "chlorite": [
+          25,
+          40,
+          104,
+          196,
+          210,
+          225,
+          265,
+          339,
+          368
+        ],
+        "precursors": [
+          26
+        ],
+        "(e.g.,": [
+          27
+        ],
+        "berthierine,": [
+          28
+        ],
+        "smectite,": [
+          29,
+          173
+        ],
+        "odinite,": [
+          30
+        ],
+        "etc.),": [
+          31
+        ],
+        "kaolinite": [
+          33,
+          134,
+          159,
+          206,
+          215,
+          263,
+          282,
+          332
+        ],
+        "precursor": [
+          34
+        ],
+        "and": [
+          35,
+          60,
+          82,
+          94,
+          135,
+          148,
+          175,
+          181,
+          188,
+          207,
+          211,
+          231,
+          243,
+          254,
+          283,
+          312,
+          333,
+          363,
+          369
+        ],
+        "its": [
+          36
+        ],
+        "conversion": [
+          37,
+          236,
+          261,
+          335,
+          361
+        ],
+        "mechanism": [
+          38
+        ],
+        "to": [
+          39,
+          92,
+          216,
+          275,
+          315,
+          320
+        ],
+        "remain": [
+          41
+        ],
+        "least": [
+          43
+        ],
+        "understood.": [
+          44
+        ],
+        "In": [
+          45
+        ],
+        "this": [
+          46
+        ],
+        "study,": [
+          47
+        ],
+        "we": [
+          48,
+          107
+        ],
+        "conducted": [
+          49,
+          72
+        ],
+        "series": [
+          51
+        ],
+        "hydrothermal-reactor": [
+          53
+        ],
+        "experiments": [
+          54,
+          70,
+          141
+        ],
+        "at": [
+          55,
+          144,
+          157,
+          179
+        ],
         "50,": [
-          57
+          56
         ],
         "100,": [
-          58
+          57
         ],
         "150,": [
-          59
+          58
         ],
         "200,": [
-          60
+          59
         ],
         "250°C,": [
-          62
+          61
         ],
         "each": [
-          63
+          62
         ],
         "with": [
-          64,
-          85,
-          258,
-          292
+          63,
+          84,
+          257,
+          291
         ],
         "duration": [
-          66
+          65
         ],
         "hours.": [
-          69
+          68
         ],
         "The": [
-          70,
-          194,
-          261,
-          300,
-          330
+          69,
+          193,
+          260,
+          299,
+          329
         ],
         "were": [
-          72,
-          155,
-          178,
-          352
+          71,
+          154,
+          177,
+          351
         ],
         "solution": [
-          76,
-          188
+          75,
+          187
         ],
         "containing": [
-          77
+          76
         ],
         "0.1": [
-          78
+          77
         ],
         "M": [
-          79
+          78
         ],
         "NaCl,": [
-          80
+          79
         ],
         "KCl,": [
-          81
+          80
         ],
         "CaCl2·2H2O,": [
-          82
+          81
         ],
         "MgCl2·6H2O,": [
-          84
+          83
         ],
         "additional": [
-          87,
-          289
+          86,
+          288
         ],
         "experiment": [
-          88
+          87
         ],
         "utilizing": [
-          89
+          88
         ],
         "Red": [
+          89,
+          190,
+          305
+        ],
+        "Sea": [
           90,
           191,
           306
         ],
-        "Sea": [
+        "water": [
           91,
-          192,
           307
         ],
-        "water": [
-          92,
-          308
-        ],
         "investigate": [
-          94
+          93
         ],
         "verify": [
-          96
+          95
         ],
         "transformation": [
-          98,
-          214
-        ],
-        "phases.": [
-          102
-        ],
-        "To": [
-          103
-        ],
-        "synthesize": [
-          104
-        ],
-        "kaolinite,": [
-          107
-        ],
-        "used": [
-          109
-        ],
-        "quartz-rich": [
-          111
-        ],
-        "Upper": [
-          115
-        ],
-        "Ordovician": [
-          116
-        ],
-        "Qasim": [
-          117
-        ],
-        "Formation": [
-          118
-        ],
-        "(Quwarah": [
-          119
-        ],
-        "Sandstone": [
-          120
-        ],
-        "Member,": [
-          121
-        ],
-        "NW": [
-          122
-        ],
-        "Saudi": [
-          123
-        ],
-        "Arabia)": [
-          124
-        ],
-        "as": [
-          125,
-          287,
-          346
-        ],
-        "starting": [
-          127
-        ],
-        "material.": [
-          128
-        ],
-        "This": [
-          129
-        ],
-        "characterized": [
-          132
-        ],
-        "by": [
-          133,
-          167
-        ],
-        "authigenic": [
-          134
-        ],
-        "hematite": [
-          137
-        ],
-        "cements.": [
-          138
-        ],
-        "Results": [
-          139
-        ],
-        "indicate": [
-          143
-        ],
-        "that": [
-          144,
-          304
-        ],
-        "lower": [
-          146,
-          324
-        ],
-        "temperatures": [
-          147
-        ],
-        "(50": [
-          148
-        ],
-        "100°C),": [
-          150
-        ],
-        "no": [
-          151
-        ],
-        "new": [
-          152
-        ],
-        "phases": [
-          154
-        ],
-        "formed.": [
-          156
-        ],
-        "However,": [
-          157
-        ],
-        "150°C,": [
-          159
-        ],
-        "transformed": [
-          161
-        ],
-        "into": [
-          162,
-          225,
-          238,
-          246,
-          265,
-          339,
-          359
-        ],
-        "dioctahedral": [
-          163
-        ],
-        "smectite": [
-          164,
-          220,
-          236,
-          285,
-          312,
-          338
-        ],
-        "(montmorillonite),": [
-          165
-        ],
-        "accompanied": [
-          166
-        ],
-        "minor": [
-          168
-        ],
-        "precipitation": [
-          169
-        ],
-        "quartz": [
-          171,
-          347,
-          371
-        ],
-        "cement.": [
-          172
-        ],
-        "Authigenic": [
-          173
-        ],
-        "chlorite,": [
-          175,
-          239,
-          314
-        ],
-        "illite": [
-          177
-        ],
-        "formed": [
-          179,
-          286
-        ],
-        "250°C": [
-          183
-        ],
-        "both": [
-          185
-        ],
-        "synthetic": [
-          187,
-          318
-        ],
-        "water.": [
-          193
-        ],
-        "formation": [
-          195,
-          252
-        ],
-        "occurred": [
-          198
-        ],
-        "via": [
-          199
-        ],
-        "two": [
-          200
-        ],
-        "main": [
-          201
-        ],
-        "pathways:": [
-          202
-        ],
-        "1)": [
-          203
-        ],
-        "direct": [
-          204
-        ],
-        "dissolution": [
-          205,
-          331
-        ],
-        "crystallization": [
-          209
-        ],
-        "2)": [
+          97,
           213
         ],
-        "intermediate": [
-          219
+        "phases.": [
+          101
         ],
-        "phase,": [
-          221,
-          291
+        "To": [
+          102
         ],
-        "which": [
-          222,
-          344
+        "synthesize": [
+          103
         ],
-        "subsequently": [
-          223
+        "kaolinite,": [
+          106
         ],
-        "converted": [
-          224
+        "used": [
+          108
         ],
-        "through": [
-          227
+        "quartz-rich": [
+          110
         ],
-        "combination": [
-          229
+        "Upper": [
+          114
         ],
-        "dissolution–crystallization": [
-          231
+        "Ordovician": [
+          115
         ],
-        "solid-state": [
-          233
+        "Qasim": [
+          116
         ],
-        "transformation.": [
-          234
+        "Formation": [
+          117
         ],
-        "Before": [
-          235
+        "(Quwarah": [
+          118
         ],
-        "smectites": [
-          241,
-          257
+        "Sandstone": [
+          119
         ],
-        "incorporated": [
-          242
+        "Member,": [
+          120
         ],
-        "Fe": [
-          243
+        "NW": [
+          121
         ],
-        "Mg": [
-          245,
-          325
+        "Saudi": [
+          122
         ],
-        "their": [
-          247
+        "Arabia)": [
+          123
         ],
-        "structure,": [
-          248
-        ],
-        "resulting": [
-          249
-        ],
-        "trioctahedral": [
-          254
-        ],
-        "tri-dioctahedral": [
-          256
-        ],
-        "compositional": [
-          259
-        ],
-        "gaps.": [
-          260
-        ],
-        "resulted": [
-          267
-        ],
-        "significant": [
-          270
-        ],
-        "increase": [
-          271
-        ],
-        "intercrystalline": [
-          273
-        ],
-        "porosity": [
-          274
-        ],
-        "owing": [
-          275
-        ],
-        "smaller": [
-          277
-        ],
-        "crystal": [
-          278
-        ],
-        "size": [
-          279
-        ],
-        "chlorite.": [
-          281
-        ],
-        "Illitized": [
-          282
-        ],
-        "required": [
-          294
-        ],
-        "K+": [
-          295
-        ],
-        "supplied": [
-          296
-        ],
-        "solutions.": [
-          299
-        ],
-        "study": [
-          301
-        ],
-        "further": [
-          302
-        ],
-        "revealed": [
-          303
-        ],
-        "produced": [
-          309
-        ],
-        "more": [
-          310
-        ],
-        "Fe-rich": [
-          311
-        ],
-        "compared": [
-          315
-        ],
-        "solution,": [
-          319
-        ],
-        "due": [
-          320
-        ],
-        "relatively": [
-          323
-        ],
-        "content": [
-          326
-        ],
-        "seawater.": [
-          329
-        ],
-        "released": [
-          341
-        ],
-        "abundant": [
-          342
-        ],
-        "silica,": [
-          343
-        ],
-        "precipitated": [
+        "as": [
+          124,
+          286,
           345
         ],
-        "overgrowths": [
-          348
+        "starting": [
+          126
         ],
-        "where": [
-          349
+        "material.": [
+          127
         ],
-        "coatings": [
-          351
+        "This": [
+          128
         ],
-        "absent.": [
-          353
+        "characterized": [
+          131
         ],
-        "These": [
-          354
+        "by": [
+          132,
+          166
         ],
-        "findings": [
-          355
+        "authigenic": [
+          133
         ],
-        "provide": [
-          356
+        "hematite": [
+          136
         ],
-        "detailed": [
-          357
+        "cements.": [
+          137
         ],
-        "insights": [
+        "Results": [
+          138
+        ],
+        "indicate": [
+          142
+        ],
+        "that": [
+          143,
+          303
+        ],
+        "lower": [
+          145,
+          323
+        ],
+        "temperatures": [
+          146
+        ],
+        "(50": [
+          147
+        ],
+        "100°C),": [
+          149
+        ],
+        "no": [
+          150
+        ],
+        "new": [
+          151
+        ],
+        "phases": [
+          153
+        ],
+        "formed.": [
+          155
+        ],
+        "However,": [
+          156
+        ],
+        "150°C,": [
+          158
+        ],
+        "transformed": [
+          160
+        ],
+        "into": [
+          161,
+          224,
+          237,
+          245,
+          264,
+          338,
           358
         ],
+        "dioctahedral": [
+          162
+        ],
+        "smectite": [
+          163,
+          219,
+          235,
+          284,
+          311,
+          337
+        ],
+        "(montmorillonite),": [
+          164
+        ],
+        "accompanied": [
+          165
+        ],
+        "minor": [
+          167
+        ],
+        "precipitation": [
+          168
+        ],
+        "quartz": [
+          170,
+          346,
+          370
+        ],
+        "cement.": [
+          171
+        ],
+        "Authigenic": [
+          172
+        ],
+        "chlorite,": [
+          174,
+          238,
+          313
+        ],
+        "illite": [
+          176
+        ],
+        "formed": [
+          178,
+          285
+        ],
+        "250°C": [
+          182
+        ],
+        "both": [
+          184
+        ],
+        "synthetic": [
+          186,
+          317
+        ],
+        "water.": [
+          192
+        ],
+        "formation": [
+          194,
+          251
+        ],
+        "occurred": [
+          197
+        ],
+        "via": [
+          198
+        ],
+        "two": [
+          199
+        ],
+        "main": [
+          200
+        ],
+        "pathways:": [
+          201
+        ],
+        "1)": [
+          202
+        ],
+        "direct": [
+          203
+        ],
+        "dissolution": [
+          204,
+          330
+        ],
+        "crystallization": [
+          208
+        ],
+        "2)": [
+          212
+        ],
+        "intermediate": [
+          218
+        ],
+        "phase,": [
+          220,
+          290
+        ],
+        "which": [
+          221,
+          343
+        ],
+        "subsequently": [
+          222
+        ],
+        "converted": [
+          223
+        ],
+        "through": [
+          226
+        ],
+        "combination": [
+          228
+        ],
+        "dissolution–crystallization": [
+          230
+        ],
+        "solid-state": [
+          232
+        ],
+        "transformation.": [
+          233
+        ],
+        "Before": [
+          234
+        ],
+        "smectites": [
+          240,
+          256
+        ],
+        "incorporated": [
+          241
+        ],
+        "Fe": [
+          242
+        ],
+        "Mg": [
+          244,
+          324
+        ],
+        "their": [
+          246
+        ],
+        "structure,": [
+          247
+        ],
+        "resulting": [
+          248
+        ],
+        "trioctahedral": [
+          253
+        ],
+        "tri-dioctahedral": [
+          255
+        ],
+        "compositional": [
+          258
+        ],
+        "gaps.": [
+          259
+        ],
+        "resulted": [
+          266
+        ],
+        "significant": [
+          269
+        ],
+        "increase": [
+          270
+        ],
+        "intercrystalline": [
+          272
+        ],
+        "porosity": [
+          273
+        ],
+        "owing": [
+          274
+        ],
+        "smaller": [
+          276
+        ],
+        "crystal": [
+          277
+        ],
+        "size": [
+          278
+        ],
+        "chlorite.": [
+          280
+        ],
+        "Illitized": [
+          281
+        ],
+        "required": [
+          293
+        ],
+        "K+": [
+          294
+        ],
+        "supplied": [
+          295
+        ],
+        "solutions.": [
+          298
+        ],
+        "study": [
+          300
+        ],
+        "further": [
+          301
+        ],
+        "revealed": [
+          302
+        ],
+        "produced": [
+          308
+        ],
+        "more": [
+          309
+        ],
+        "Fe-rich": [
+          310
+        ],
+        "compared": [
+          314
+        ],
+        "solution,": [
+          318
+        ],
+        "due": [
+          319
+        ],
+        "relatively": [
+          322
+        ],
+        "content": [
+          325
+        ],
+        "seawater.": [
+          328
+        ],
+        "released": [
+          340
+        ],
+        "abundant": [
+          341
+        ],
+        "silica,": [
+          342
+        ],
+        "precipitated": [
+          344
+        ],
+        "overgrowths": [
+          347
+        ],
+        "where": [
+          348
+        ],
+        "coatings": [
+          350
+        ],
+        "absent.": [
+          352
+        ],
+        "These": [
+          353
+        ],
+        "findings": [
+          354
+        ],
+        "provide": [
+          355
+        ],
+        "detailed": [
+          356
+        ],
+        "insights": [
+          357
+        ],
         "kaolinite-to-chlorite": [
-          361
+          360
         ],
         "process": [
-          363
+          362
         ],
         "can": [
-          365
+          364
         ],
         "aid": [
-          366
+          365
         ],
         "modeling": [
-          368
+          367
         ],
         "cement": [
-          372
+          371
         ],
         "nucleation": [
-          373
+          372
         ],
         "deeply": [
-          375
+          374
         ],
         "buried": [
-          376
+          375
         ],
         "reservoirs.": [
-          377
+          376
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4410313152",
@@ -7681,7 +7750,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-05-13T00:00:00"
     },
     {
@@ -7691,7 +7760,7 @@
       "display_name": "Experimental study of smectite authigenesis and its subsequent illitization: insights from modern estuary sediments",
       "alternate_titles": [],
       "publication_year": 2025,
-      "publication_date": "2025-03-20",
+      "publication_date": "2025-06-19",
       "ids": {
         "openalex": "https://openalex.org/W4408660286",
         "doi": "https://doi.org/10.2110/jsr.2024.135"
@@ -7785,6 +7854,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "1 Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -7825,6 +7895,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "2 Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -7865,6 +7936,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "2 Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -7892,6 +7964,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "ROBERT H. Lander",
           "raw_affiliation_strings": [
             "3 Geocosm LLC, Durango, Colorado U.S.A",
@@ -7935,6 +8008,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "KHALID Al-Ramadan",
           "raw_affiliation_strings": [
             "1 Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -7964,12 +8038,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8663,
+      "fwci": 5.7776,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.97849608,
+        "value": 0.9778785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8211,8 +8285,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -8369,912 +8443,909 @@
       ],
       "abstract_inverted_index": {
         "150": [
-          318
+          317
         ],
         "168": [
-          167
+          166
         ],
         "336": [
-          169
-        ],
-        "ABSTRACT": [
-          0
+          168
         ],
         "Smectite": [
-          1,
-          250
+          0,
+          249
         ],
         "is": [
-          2
+          1
         ],
         "an": [
-          3
+          2
         ],
         "important": [
-          4
+          3
         ],
         "component": [
-          5
+          4
         ],
         "of": [
-          6,
-          57,
-          65,
-          76,
-          92,
-          104,
-          119,
-          176,
-          207,
-          279,
-          283,
-          323,
-          353,
-          366,
-          374
-        ],
-        "siliciclastic": [
-          7
-        ],
-        "reservoirs": [
-          8
-        ],
-        "in": [
-          9,
-          33,
-          183,
-          216,
-          246,
-          310,
-          381,
-          388
-        ],
-        "many": [
-          10
-        ],
-        "petroliferous": [
-          11
-        ],
-        "basins": [
-          12
-        ],
-        "around": [
-          13
-        ],
-        "the": [
-          14,
-          55,
-          63,
-          69,
-          74,
-          89,
-          115,
-          120,
-          163,
-          184,
-          190,
-          204,
-          241,
-          247,
-          277,
-          321,
-          360,
-          367,
-          372
-        ],
-        "world": [
-          15
-        ],
-        "and": [
-          16,
-          20,
-          31,
-          48,
-          67,
-          71,
-          95,
-          144,
-          203,
-          214,
-          219,
-          255,
-          286,
-          304,
-          333,
-          345,
-          355,
-          363,
-          396
-        ],
-        "has": [
-          17
-        ],
-        "numerous": [
-          18,
-          51
-        ],
-        "industrial": [
-          19
-        ],
-        "environmental": [
-          21
-        ],
-        "applications.": [
-          22
-        ],
-        "Beyond": [
-          23
-        ],
-        "its": [
-          24,
-          287
-        ],
-        "ability": [
-          25
-        ],
-        "to": [
-          26,
-          160,
-          168,
-          240,
-          307,
-          319,
-          330,
-          339,
-          343,
-          359,
-          377
-        ],
-        "preserve": [
-          27
-        ],
-        "or": [
-          28
-        ],
-        "degrade": [
-          29
-        ],
-        "porosity": [
-          30
-        ],
-        "permeability": [
-          32
-        ],
-        "sandstones,": [
-          34
-        ],
-        "smectite": [
-          35,
-          58,
-          78,
-          93,
-          209,
-          229,
-          238,
-          284
-        ],
-        "also": [
-          36
-        ],
-        "acts": [
-          37
-        ],
-        "as": [
-          38,
-          46,
-          59,
-          294
-        ],
-        "a": [
-          39,
-          60,
-          102,
-          172,
-          260
-        ],
-        "precursor": [
-          40,
-          61
-        ],
-        "for": [
-          41,
-          62,
-          393
-        ],
-        "other": [
-          42
-        ],
-        "diagenetic": [
-          43
-        ],
-        "cements,": [
-          44
-        ],
-        "such": [
-          45
-        ],
-        "illite": [
-          47,
-          66
-        ],
-        "zeolites.": [
-          49
-        ],
-        "While": [
-          50
-        ],
-        "studies": [
-          52
-        ],
-        "have": [
-          53
-        ],
-        "explored": [
-          54
-        ],
-        "role": [
-          56
-        ],
-        "formation": [
+          5,
+          56,
           64,
           75,
           91,
+          103,
+          118,
+          175,
           206,
-          251,
-          285
+          278,
+          282,
+          322,
+          352,
+          365,
+          373
+        ],
+        "siliciclastic": [
+          6
+        ],
+        "reservoirs": [
+          7
+        ],
+        "in": [
+          8,
+          32,
+          182,
+          215,
+          245,
+          309,
+          380,
+          387
+        ],
+        "many": [
+          9
+        ],
+        "petroliferous": [
+          10
+        ],
+        "basins": [
+          11
+        ],
+        "around": [
+          12
+        ],
+        "the": [
+          13,
+          54,
+          62,
+          68,
+          73,
+          88,
+          114,
+          119,
+          162,
+          183,
+          189,
+          203,
+          240,
+          246,
+          276,
+          320,
+          359,
+          366,
+          371
+        ],
+        "world": [
+          14
+        ],
+        "and": [
+          15,
+          19,
+          30,
+          47,
+          66,
+          70,
+          94,
+          143,
+          202,
+          213,
+          218,
+          254,
+          285,
+          303,
+          332,
+          344,
+          354,
+          362,
+          395
+        ],
+        "has": [
+          16
+        ],
+        "numerous": [
+          17,
+          50
+        ],
+        "industrial": [
+          18
+        ],
+        "environmental": [
+          20
+        ],
+        "applications.": [
+          21
+        ],
+        "Beyond": [
+          22
+        ],
+        "its": [
+          23,
+          286
+        ],
+        "ability": [
+          24
+        ],
+        "to": [
+          25,
+          159,
+          167,
+          239,
+          306,
+          318,
+          329,
+          338,
+          342,
+          358,
+          376
+        ],
+        "preserve": [
+          26
+        ],
+        "or": [
+          27
+        ],
+        "degrade": [
+          28
+        ],
+        "porosity": [
+          29
+        ],
+        "permeability": [
+          31
+        ],
+        "sandstones,": [
+          33
+        ],
+        "smectite": [
+          34,
+          57,
+          77,
+          92,
+          208,
+          228,
+          237,
+          283
+        ],
+        "also": [
+          35
+        ],
+        "acts": [
+          36
+        ],
+        "as": [
+          37,
+          45,
+          58,
+          293
+        ],
+        "a": [
+          38,
+          59,
+          101,
+          171,
+          259
+        ],
+        "precursor": [
+          39,
+          60
+        ],
+        "for": [
+          40,
+          61,
+          392
+        ],
+        "other": [
+          41
+        ],
+        "diagenetic": [
+          42
+        ],
+        "cements,": [
+          43
+        ],
+        "such": [
+          44
+        ],
+        "illite": [
+          46,
+          65
+        ],
+        "zeolites.": [
+          48
+        ],
+        "While": [
+          49
+        ],
+        "studies": [
+          51
+        ],
+        "have": [
+          52
+        ],
+        "explored": [
+          53
+        ],
+        "role": [
+          55
+        ],
+        "formation": [
+          63,
+          74,
+          90,
+          205,
+          250,
+          284
         ],
         "chlorite,": [
-          68
+          67
         ],
         "controls": [
-          70
+          69
         ],
         "mechanisms": [
-          72
+          71
         ],
         "governing": [
-          73
+          72
         ],
         "authigenic": [
-          77,
-          90,
-          208,
-          299
+          76,
+          89,
+          207,
+          298
         ],
         "coatings": [
-          79,
-          301,
-          325
+          78,
+          300,
+          324
         ],
         "from": [
-          80,
-          114,
-          158,
-          166,
-          327,
-          337
+          79,
+          113,
+          157,
+          165,
+          326,
+          336
         ],
         "feldspar": [
-          81
+          80
         ],
         "precursors": [
-          82
+          81
         ],
         "are": [
-          83
+          82
         ],
         "rarely": [
-          84
+          83
         ],
         "investigated.": [
-          85
+          84
         ],
         "In": [
-          86,
-          341
+          85,
+          340
         ],
         "this": [
-          87
+          86
         ],
         "study,": [
-          88
+          87
         ],
         "coats": [
-          94,
-          210
+          93,
+          209
         ],
         "their": [
-          96
+          95
         ],
         "subsequent": [
-          97,
-          205
+          96,
+          204
         ],
         "illitization": [
-          98,
-          288
+          97,
+          287
         ],
         "were": [
-          99,
-          128,
-          153,
-          302
+          98,
+          127,
+          152,
+          301
         ],
         "studied": [
-          100
+          99
         ],
         "using": [
-          101
+          100
         ],
         "series": [
-          103
+          102
         ],
         "hydrothermal": [
-          105,
-          375
+          104,
+          374
         ],
         "experiments.": [
-          106
+          105
         ],
         "The": [
-          107,
-          125,
-          151,
-          178,
-          281,
-          297
+          106,
+          124,
+          150,
+          177,
+          280,
+          296
         ],
         "starting": [
-          108
+          107
         ],
         "material": [
-          109
+          108
         ],
         "was": [
-          110,
-          256
+          109,
+          255
         ],
         "modern": [
-          111
+          110
         ],
         "quartzo-feldspathic": [
-          112
+          111
         ],
         "sediments": [
-          113
+          112
         ],
         "sandy": [
-          116
+          115
         ],
         "intertidal": [
-          117
+          116
         ],
         "flat": [
-          118
+          117
         ],
         "Anllóns": [
-          121
+          120
         ],
         "estuary,": [
-          122
+          121
         ],
         "NW": [
-          123
+          122
         ],
         "Spain.": [
-          124
+          123
         ],
         "experimental": [
-          126,
-          191
+          125,
+          190
         ],
         "solutions": [
-          127
+          126
         ],
         "0.1": [
+          128,
+          144
+        ],
+        "M": [
           129,
           145
         ],
-        "M": [
-          130,
-          146
-        ],
         "NaCl,": [
-          131
+          130
         ],
         "KCl,": [
-          132
+          131
         ],
         "CaCl2·2H2O,": [
-          133
+          132
         ],
         "MgCl2·6H2O": [
-          134
+          133
         ],
         "(SF1,": [
-          135
+          134
         ],
         "pH": [
-          136,
-          142,
-          149
-        ],
-        "5.69),": [
-          137
-        ],
-        "natural": [
-          138,
-          311
-        ],
-        "estuarine": [
-          139,
-          248
-        ],
-        "water": [
-          140
-        ],
-        "(EW,": [
-          141
-        ],
-        "7.85),": [
-          143
-        ],
-        "Na2CO3": [
-          147
-        ],
-        "(SF2,": [
+          135,
+          141,
           148
         ],
+        "5.69),": [
+          136
+        ],
+        "natural": [
+          137,
+          310
+        ],
+        "estuarine": [
+          138,
+          247
+        ],
+        "water": [
+          139
+        ],
+        "(EW,": [
+          140
+        ],
+        "7.85),": [
+          142
+        ],
+        "Na2CO3": [
+          146
+        ],
+        "(SF2,": [
+          147
+        ],
         "11.20).": [
-          150
+          149
         ],
         "experiments": [
-          152,
-          376
+          151,
+          375
         ],
         "conducted": [
-          154
+          153
         ],
         "at": [
-          155,
-          198,
-          270
-        ],
-        "temperatures": [
-          156,
-          200
-        ],
-        "ranging": [
-          157,
-          165
-        ],
-        "50°C": [
-          159
-        ],
-        "250°C,": [
-          161
-        ],
-        "over": [
-          162
-        ],
-        "durations": [
-          164
-        ],
-        "hours,": [
-          170
-        ],
-        "with": [
-          171,
-          230,
-          265,
-          272
-        ],
-        "fixed": [
-          173
-        ],
-        "fluid/sediment": [
-          174
-        ],
-        "ratio": [
-          175
-        ],
-        "10:1.": [
-          177
-        ],
-        "results": [
-          179
-        ],
-        "revealed": [
-          180,
-          223
-        ],
-        "distinct": [
-          181
-        ],
-        "variations": [
-          182
-        ],
-        "synthesized": [
-          185
-        ],
-        "mineral": [
-          186,
-          351
-        ],
-        "phases,": [
-          187
-        ],
-        "depending": [
-          188
-        ],
-        "on": [
-          189
-        ],
-        "fluid": [
-          192
-        ],
-        "composition.": [
-          193
-        ],
-        "Detrital": [
-          194
-        ],
-        "K-feldspar": [
-          195
-        ],
-        "dissolution": [
-          196,
-          278
-        ],
-        "commenced": [
-          197
-        ],
-        "lower": [
-          199,
-          243
-        ],
-        "(<": [
-          201
-        ],
-        "100°C),": [
-          202
-        ],
-        "occurred": [
-          211,
-          252
-        ],
-        "between": [
-          212
-        ],
-        "150°C": [
-          213
-        ],
-        "250°C": [
-          215
-        ],
-        "both": [
-          217
-        ],
-        "SF1": [
-          218,
-          225,
-          344
-        ],
-        "EW.": [
-          220
-        ],
-        "Geochemical": [
-          221
-        ],
-        "evaluation": [
-          222
-        ],
-        "that": [
-          224
-        ],
-        "produced": [
-          226,
-          235
-        ],
-        "more": [
-          227
-        ],
-        "Mg-rich": [
-          228
-        ],
-        "intermediate": [
-          231,
-          263
-        ],
-        "compositions,": [
-          232
-        ],
-        "while": [
-          233
-        ],
-        "EW": [
-          234
-        ],
-        "mostly": [
-          236
-        ],
-        "Al-rich": [
-          237
-        ],
-        "due": [
-          239
-        ],
-        "relatively": [
-          242
-        ],
-        "Mg": [
-          244
-        ],
-        "content": [
-          245,
-          365
-        ],
-        "water.": [
-          249
-        ],
-        "through": [
-          253
-        ],
-        "dissolution–crystallization": [
-          254
-        ],
-        "subsequently": [
-          257
-        ],
-        "illitized": [
-          258
-        ],
-        "via": [
-          259
-        ],
-        "mixed-layer": [
-          261
-        ],
-        "illite–smectite": [
-          262
-        ],
-        "phase": [
-          264
-        ],
-        "increasing": [
-          266
-        ],
-        "temperatures.": [
-          267
-        ],
-        "Illitization": [
-          268
-        ],
-        "began": [
+          154,
+          197,
           269
         ],
-        "200°C,": [
+        "temperatures": [
+          155,
+          199
+        ],
+        "ranging": [
+          156,
+          164
+        ],
+        "50°C": [
+          158
+        ],
+        "250°C,": [
+          160
+        ],
+        "over": [
+          161
+        ],
+        "durations": [
+          163
+        ],
+        "hours,": [
+          169
+        ],
+        "with": [
+          170,
+          229,
+          264,
           271
         ],
-        "required": [
-          273
+        "fixed": [
+          172
         ],
-        "K+": [
-          274
+        "fluid/sediment": [
+          173
         ],
-        "supplied": [
-          275
+        "ratio": [
+          174
         ],
-        "by": [
-          276
+        "10:1.": [
+          176
         ],
-        "K-feldspar.": [
-          280
+        "results": [
+          178
         ],
-        "processes": [
-          282
+        "revealed": [
+          179,
+          222
         ],
-        "released": [
-          289
+        "distinct": [
+          180
         ],
-        "abundant": [
-          290
+        "variations": [
+          181
         ],
-        "silica,": [
-          291
+        "synthesized": [
+          184
         ],
-        "which": [
-          292,
-          385
-        ],
-        "precipitated": [
-          293
-        ],
-        "quartz": [
-          295
-        ],
-        "overgrowths.": [
-          296
-        ],
-        "resulting": [
-          298
-        ],
-        "grain": [
-          300
-        ],
-        "chemically": [
-          303
-        ],
-        "morphologically": [
-          305
-        ],
-        "similar": [
-          306
-        ],
-        "those": [
-          308
-        ],
-        "found": [
-          309
-        ],
-        "sandstone": [
-          312
-        ],
-        "reservoirs.": [
-          313
-        ],
-        "As": [
-          314
-        ],
-        "temperature": [
-          315
-        ],
-        "increased": [
-          316
-        ],
-        "(from": [
-          317
-        ],
-        "250°C),": [
-          320
-        ],
-        "thickness": [
-          322
-        ],
-        "these": [
-          324
-        ],
-        "grew": [
-          326
-        ],
-        "1.9": [
-          328
-        ],
-        "µm": [
-          329
-        ],
-        "49.2": [
-          331
-        ],
-        "µm,": [
-          332
-        ],
-        "surface": [
-          334
-        ],
-        "coverage": [
-          335
-        ],
-        "expanded": [
-          336
-        ],
-        "24.3%": [
-          338
-        ],
-        "96.2%.": [
-          340
-        ],
-        "contrast": [
-          342
-        ],
-        "EW,": [
-          346
-        ],
-        "SF2": [
-          347
-        ],
-        "yielded": [
-          348
-        ],
-        "entirely": [
-          349
-        ],
-        "different": [
+        "mineral": [
+          185,
           350
         ],
-        "phases": [
-          352
+        "phases,": [
+          186
         ],
-        "halite": [
-          354
+        "depending": [
+          187
         ],
-        "chabazite": [
-          356
+        "on": [
+          188
         ],
-        "(zeolite),": [
-          357
+        "fluid": [
+          191
         ],
-        "attributed": [
-          358
+        "composition.": [
+          192
         ],
-        "high": [
-          361
+        "Detrital": [
+          193
         ],
-        "alkalinity": [
-          362
+        "K-feldspar": [
+          194
         ],
-        "Na": [
+        "dissolution": [
+          195,
+          277
+        ],
+        "commenced": [
+          196
+        ],
+        "lower": [
+          198,
+          242
+        ],
+        "(<": [
+          200
+        ],
+        "100°C),": [
+          201
+        ],
+        "occurred": [
+          210,
+          251
+        ],
+        "between": [
+          211
+        ],
+        "150°C": [
+          212
+        ],
+        "250°C": [
+          214
+        ],
+        "both": [
+          216
+        ],
+        "SF1": [
+          217,
+          224,
+          343
+        ],
+        "EW.": [
+          219
+        ],
+        "Geochemical": [
+          220
+        ],
+        "evaluation": [
+          221
+        ],
+        "that": [
+          223
+        ],
+        "produced": [
+          225,
+          234
+        ],
+        "more": [
+          226
+        ],
+        "Mg-rich": [
+          227
+        ],
+        "intermediate": [
+          230,
+          262
+        ],
+        "compositions,": [
+          231
+        ],
+        "while": [
+          232
+        ],
+        "EW": [
+          233
+        ],
+        "mostly": [
+          235
+        ],
+        "Al-rich": [
+          236
+        ],
+        "due": [
+          238
+        ],
+        "relatively": [
+          241
+        ],
+        "Mg": [
+          243
+        ],
+        "content": [
+          244,
           364
         ],
-        "solution.": [
-          368
+        "water.": [
+          248
         ],
-        "These": [
-          369
+        "through": [
+          252
         ],
-        "findings": [
-          370
+        "dissolution–crystallization": [
+          253
         ],
-        "highlight": [
-          371
+        "subsequently": [
+          256
         ],
-        "potential": [
-          373
+        "illitized": [
+          257
         ],
-        "simulate": [
-          378
+        "via": [
+          258
         ],
-        "burial": [
-          379
+        "mixed-layer": [
+          260
         ],
-        "diagenesis": [
-          380
+        "illite–smectite": [
+          261
         ],
-        "marginal": [
-          382
+        "phase": [
+          263
         ],
-        "marine": [
-          383
+        "increasing": [
+          265
         ],
-        "settings,": [
+        "temperatures.": [
+          266
+        ],
+        "Illitization": [
+          267
+        ],
+        "began": [
+          268
+        ],
+        "200°C,": [
+          270
+        ],
+        "required": [
+          272
+        ],
+        "K+": [
+          273
+        ],
+        "supplied": [
+          274
+        ],
+        "by": [
+          275
+        ],
+        "K-feldspar.": [
+          279
+        ],
+        "processes": [
+          281
+        ],
+        "released": [
+          288
+        ],
+        "abundant": [
+          289
+        ],
+        "silica,": [
+          290
+        ],
+        "which": [
+          291,
           384
         ],
+        "precipitated": [
+          292
+        ],
+        "quartz": [
+          294
+        ],
+        "overgrowths.": [
+          295
+        ],
+        "resulting": [
+          297
+        ],
+        "grain": [
+          299
+        ],
+        "chemically": [
+          302
+        ],
+        "morphologically": [
+          304
+        ],
+        "similar": [
+          305
+        ],
+        "those": [
+          307
+        ],
+        "found": [
+          308
+        ],
+        "sandstone": [
+          311
+        ],
+        "reservoirs.": [
+          312
+        ],
+        "As": [
+          313
+        ],
+        "temperature": [
+          314
+        ],
+        "increased": [
+          315
+        ],
+        "(from": [
+          316
+        ],
+        "250°C),": [
+          319
+        ],
+        "thickness": [
+          321
+        ],
+        "these": [
+          323
+        ],
+        "grew": [
+          325
+        ],
+        "1.9": [
+          327
+        ],
+        "µm": [
+          328
+        ],
+        "49.2": [
+          330
+        ],
+        "µm,": [
+          331
+        ],
+        "surface": [
+          333
+        ],
+        "coverage": [
+          334
+        ],
+        "expanded": [
+          335
+        ],
+        "24.3%": [
+          337
+        ],
+        "96.2%.": [
+          339
+        ],
+        "contrast": [
+          341
+        ],
+        "EW,": [
+          345
+        ],
+        "SF2": [
+          346
+        ],
+        "yielded": [
+          347
+        ],
+        "entirely": [
+          348
+        ],
+        "different": [
+          349
+        ],
+        "phases": [
+          351
+        ],
+        "halite": [
+          353
+        ],
+        "chabazite": [
+          355
+        ],
+        "(zeolite),": [
+          356
+        ],
+        "attributed": [
+          357
+        ],
+        "high": [
+          360
+        ],
+        "alkalinity": [
+          361
+        ],
+        "Na": [
+          363
+        ],
+        "solution.": [
+          367
+        ],
+        "These": [
+          368
+        ],
+        "findings": [
+          369
+        ],
+        "highlight": [
+          370
+        ],
+        "potential": [
+          372
+        ],
+        "simulate": [
+          377
+        ],
+        "burial": [
+          378
+        ],
+        "diagenesis": [
+          379
+        ],
+        "marginal": [
+          381
+        ],
+        "marine": [
+          382
+        ],
+        "settings,": [
+          383
+        ],
         "can": [
-          386
+          385
         ],
         "aid": [
-          387
+          386
         ],
         "reservoir": [
-          389
+          388
         ],
         "quality": [
-          390
+          389
         ],
         "prediction,": [
-          391
+          390
         ],
         "critical": [
-          392
+          391
         ],
         "energy": [
-          394
+          393
         ],
         "exploration": [
-          395
+          394
         ],
         "transition.": [
-          397
+          396
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4408660286",
@@ -9288,7 +9359,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-18T13:11:19.462570",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-03-20T00:00:00"
     },
     {
@@ -9402,6 +9473,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia. abdullah.alqubalee@kfupm.edu.sa",
@@ -9463,6 +9535,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -9503,6 +9576,12 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -9543,6 +9622,12 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, 31311, Dhahran, Saudi Arabia"
@@ -9583,6 +9668,28 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia. ramadank@kfupm.edu.sa",
@@ -9639,12 +9746,12 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.1468,
+      "fwci": 2.1149,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.85960886,
+        "value": 0.85658953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10047,8 +10154,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -10763,7 +10870,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-10-29T00:00:00"
     },
     {
@@ -10863,6 +10970,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -10903,6 +11011,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -10943,6 +11052,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -10983,6 +11093,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -11024,12 +11135,12 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 4.3799,
+      "fwci": 4.6943,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.96076309,
+        "value": 0.96570153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11364,8 +11475,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408588305.pdf",
@@ -12198,14 +12309,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-03-19T00:00:00"
     },
     {
@@ -12303,6 +12414,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mashaer A. Alfaraj",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -12343,6 +12455,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -12383,6 +12496,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -12423,6 +12537,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -12464,12 +12579,12 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 4.9247,
+      "fwci": 4.8754,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.95613887,
+        "value": 0.95515733,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12826,8 +12941,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -13552,6 +13667,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab M. Bello",
           "raw_affiliation_strings": [
             "1Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -13592,6 +13708,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "1Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -13632,6 +13749,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas M. Salisu",
           "raw_affiliation_strings": [
             "1Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -13672,6 +13790,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "1Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -13703,12 +13822,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3126,
+      "fwci": 3.2499,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.93154681,
+        "value": 0.92903531,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13729,7 +13848,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.4771000146865845,
+        "score": 0.489300012588501,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -13747,7 +13866,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.4771000146865845,
+          "score": 0.489300012588501,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -13764,7 +13883,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.319599986076355,
+          "score": 0.31690001487731934,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -13781,7 +13900,7 @@
         {
           "id": "https://openalex.org/T11302",
           "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.045499999076128006,
+          "score": 0.04430000111460686,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -14060,8 +14179,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -14109,446 +14228,443 @@
       ],
       "abstract_inverted_index": {
         "200": [
-          100
+          99
         ],
         "250": [
-          112
-        ],
-        "Abstract": [
-          0
-        ],
-        "Dolomite": [
-          1
-        ],
-        "formation": [
-          2
-        ],
-        "remains": [
-          3
-        ],
-        "a": [
-          4,
-          160
-        ],
-        "debated": [
-          5
-        ],
-        "topic": [
-          6
-        ],
-        "in": [
-          7,
-          55,
-          164
-        ],
-        "sedimentary": [
-          8
-        ],
-        "geology,": [
-          9
-        ],
-        "particularly": [
-          10
-        ],
-        "concerning": [
-          11
-        ],
-        "the": [
-          12,
-          27,
-          50,
-          129
-        ],
-        "mechanisms": [
-          13
-        ],
-        "driving": [
-          14
-        ],
-        "its": [
-          15
-        ],
-        "precipitation": [
-          16
-        ],
-        "under": [
-          17
-        ],
-        "natural": [
-          18
-        ],
-        "conditions.": [
-          19
-        ],
-        "While": [
-          20
-        ],
-        "microbial": [
-          21
-        ],
-        "processes": [
-          22
-        ],
-        "have": [
-          23
-        ],
-        "been": [
-          24
-        ],
-        "well": [
-          25
-        ],
-        "studied,": [
-          26
-        ],
-        "influence": [
-          28
-        ],
-        "of": [
-          29,
-          52,
-          131
-        ],
-        "abiotic": [
-          30,
-          162
-        ],
-        "factors,": [
-          31
-        ],
-        "such": [
-          32
-        ],
-        "as": [
-          33,
-          159
-        ],
-        "clay": [
-          34,
-          53
-        ],
-        "minerals,": [
-          35
-        ],
-        "is": [
-          36
-        ],
-        "less": [
-          37,
-          87
-        ],
-        "understood.": [
-          38
-        ],
-        "This": [
-          39
-        ],
-        "study": [
-          40
-        ],
-        "uses": [
-          41
-        ],
-        "hydrothermal": [
-          42
-        ],
-        "reactor": [
-          43
-        ],
-        "experiments": [
-          44
-        ],
-        "at": [
-          45,
-          99,
           111
         ],
-        "80–250": [
-          46
+        "Dolomite": [
+          0
         ],
-        "°C": [
-          47,
-          101,
-          113
+        "formation": [
+          1
         ],
-        "to": [
-          48,
-          90,
-          106,
-          115,
-          124
+        "remains": [
+          2
         ],
-        "examine": [
-          49
+        "a": [
+          3,
+          159
         ],
-        "role": [
+        "debated": [
+          4
+        ],
+        "topic": [
+          5
+        ],
+        "in": [
+          6,
+          54,
+          163
+        ],
+        "sedimentary": [
+          7
+        ],
+        "geology,": [
+          8
+        ],
+        "particularly": [
+          9
+        ],
+        "concerning": [
+          10
+        ],
+        "the": [
+          11,
+          26,
+          49,
+          128
+        ],
+        "mechanisms": [
+          12
+        ],
+        "driving": [
+          13
+        ],
+        "its": [
+          14
+        ],
+        "precipitation": [
+          15
+        ],
+        "under": [
+          16
+        ],
+        "natural": [
+          17
+        ],
+        "conditions.": [
+          18
+        ],
+        "While": [
+          19
+        ],
+        "microbial": [
+          20
+        ],
+        "processes": [
+          21
+        ],
+        "have": [
+          22
+        ],
+        "been": [
+          23
+        ],
+        "well": [
+          24
+        ],
+        "studied,": [
+          25
+        ],
+        "influence": [
+          27
+        ],
+        "of": [
+          28,
           51,
           130
         ],
-        "minerals": [
-          54
-        ],
-        "post-compactional": [
-          56
-        ],
-        "dolomitization.": [
-          57
-        ],
-        "Results": [
-          58
-        ],
-        "show": [
-          59
-        ],
-        "that": [
-          60
-        ],
-        "smectite": [
-          61,
-          107
-        ],
-        "and": [
-          62,
-          71,
-          84,
-          147,
-          168
-        ],
-        "illite": [
-          63
-        ],
-        "effectively": [
-          64
-        ],
-        "promote": [
-          65
-        ],
-        "dolomitization": [
-          66,
-          158
-        ],
-        "by": [
-          67,
-          144
-        ],
-        "providing": [
-          68
-        ],
-        "nucleation": [
-          69
-        ],
-        "sites": [
-          70
-        ],
-        "aiding": [
-          72
-        ],
-        "Mg2+": [
-          73
-        ],
-        "dehydration": [
-          74
-        ],
-        "through": [
-          75,
-          136
-        ],
-        "their": [
-          76,
-          91
-        ],
-        "highly": [
-          77
-        ],
-        "negative": [
-          78
-        ],
-        "surface": [
-          79
-        ],
-        "charges.": [
-          80
-        ],
-        "In": [
-          81,
-          94
-        ],
-        "contrast,": [
-          82
-        ],
-        "kaolinite": [
-          83,
-          103
-        ],
-        "dickite": [
-          85,
-          116
-        ],
-        "were": [
-          86
-        ],
-        "effective": [
-          88
-        ],
-        "due": [
-          89,
-          114
-        ],
-        "charge": [
-          92
-        ],
-        "neutrality.": [
-          93
-        ],
-        "calcite-kaolinite": [
-          95
-        ],
-        "mixtures,": [
-          96
-        ],
-        "dolomite": [
-          97,
-          126,
-          145
-        ],
-        "formed": [
-          98
-        ],
-        "when": [
-          102
-        ],
-        "partially": [
-          104
-        ],
-        "converted": [
-          105
-        ],
-        "but": [
-          108
-        ],
-        "was": [
-          109
-        ],
-        "inhibited": [
-          110
-        ],
-        "formation.": [
-          117
-        ],
-        "Samples": [
-          118
-        ],
-        "containing": [
-          119
-        ],
-        "only": [
-          120
-        ],
-        "calcite": [
-          121,
-          141
-        ],
-        "showed": [
-          122
-        ],
-        "little": [
-          123
-        ],
-        "no": [
-          125
-        ],
-        "formation,": [
-          127
-        ],
-        "highlighting": [
-          128
-        ],
-        "reactive": [
-          132
-        ],
-        "clays.": [
-          133
-        ],
-        "Dolomitization": [
-          134
-        ],
-        "occurred": [
-          135
-        ],
-        "two": [
-          137
-        ],
-        "mechanisms:": [
-          138
-        ],
-        "(1)": [
-          139
-        ],
-        "complete": [
-          140
-        ],
-        "dissolution": [
-          142
-        ],
-        "followed": [
-          143
-        ],
-        "nucleation,": [
-          146
-        ],
-        "(2)": [
-          148
-        ],
-        "recrystallization": [
-          149
-        ],
-        "with": [
-          150
-        ],
-        "progressive": [
-          151
-        ],
-        "Mg": [
-          152
-        ],
-        "incorporation.": [
-          153
-        ],
-        "These": [
-          154
-        ],
-        "findings": [
-          155
-        ],
-        "support": [
-          156
-        ],
-        "clay-catalyzed": [
-          157
-        ],
-        "significant": [
+        "abiotic": [
+          29,
           161
         ],
-        "pathway": [
-          163
+        "factors,": [
+          30
         ],
-        "ancient": [
-          165
+        "such": [
+          31
         ],
-        "muddy": [
-          166
+        "as": [
+          32,
+          158
         ],
-        "carbonates": [
+        "clay": [
+          33,
+          52
+        ],
+        "minerals,": [
+          34
+        ],
+        "is": [
+          35
+        ],
+        "less": [
+          36,
+          86
+        ],
+        "understood.": [
+          37
+        ],
+        "This": [
+          38
+        ],
+        "study": [
+          39
+        ],
+        "uses": [
+          40
+        ],
+        "hydrothermal": [
+          41
+        ],
+        "reactor": [
+          42
+        ],
+        "experiments": [
+          43
+        ],
+        "at": [
+          44,
+          98,
+          110
+        ],
+        "80–250": [
+          45
+        ],
+        "°C": [
+          46,
+          100,
+          112
+        ],
+        "to": [
+          47,
+          89,
+          105,
+          114,
+          123
+        ],
+        "examine": [
+          48
+        ],
+        "role": [
+          50,
+          129
+        ],
+        "minerals": [
+          53
+        ],
+        "post-compactional": [
+          55
+        ],
+        "dolomitization.": [
+          56
+        ],
+        "Results": [
+          57
+        ],
+        "show": [
+          58
+        ],
+        "that": [
+          59
+        ],
+        "smectite": [
+          60,
+          106
+        ],
+        "and": [
+          61,
+          70,
+          83,
+          146,
           167
         ],
+        "illite": [
+          62
+        ],
+        "effectively": [
+          63
+        ],
+        "promote": [
+          64
+        ],
+        "dolomitization": [
+          65,
+          157
+        ],
+        "by": [
+          66,
+          143
+        ],
+        "providing": [
+          67
+        ],
+        "nucleation": [
+          68
+        ],
+        "sites": [
+          69
+        ],
+        "aiding": [
+          71
+        ],
+        "Mg2+": [
+          72
+        ],
+        "dehydration": [
+          73
+        ],
+        "through": [
+          74,
+          135
+        ],
+        "their": [
+          75,
+          90
+        ],
+        "highly": [
+          76
+        ],
+        "negative": [
+          77
+        ],
+        "surface": [
+          78
+        ],
+        "charges.": [
+          79
+        ],
+        "In": [
+          80,
+          93
+        ],
+        "contrast,": [
+          81
+        ],
+        "kaolinite": [
+          82,
+          102
+        ],
+        "dickite": [
+          84,
+          115
+        ],
+        "were": [
+          85
+        ],
+        "effective": [
+          87
+        ],
+        "due": [
+          88,
+          113
+        ],
+        "charge": [
+          91
+        ],
+        "neutrality.": [
+          92
+        ],
+        "calcite-kaolinite": [
+          94
+        ],
+        "mixtures,": [
+          95
+        ],
+        "dolomite": [
+          96,
+          125,
+          144
+        ],
+        "formed": [
+          97
+        ],
+        "when": [
+          101
+        ],
+        "partially": [
+          103
+        ],
+        "converted": [
+          104
+        ],
+        "but": [
+          107
+        ],
+        "was": [
+          108
+        ],
+        "inhibited": [
+          109
+        ],
+        "formation.": [
+          116
+        ],
+        "Samples": [
+          117
+        ],
+        "containing": [
+          118
+        ],
+        "only": [
+          119
+        ],
+        "calcite": [
+          120,
+          140
+        ],
+        "showed": [
+          121
+        ],
+        "little": [
+          122
+        ],
+        "no": [
+          124
+        ],
+        "formation,": [
+          126
+        ],
+        "highlighting": [
+          127
+        ],
+        "reactive": [
+          131
+        ],
+        "clays.": [
+          132
+        ],
+        "Dolomitization": [
+          133
+        ],
+        "occurred": [
+          134
+        ],
+        "two": [
+          136
+        ],
+        "mechanisms:": [
+          137
+        ],
+        "(1)": [
+          138
+        ],
+        "complete": [
+          139
+        ],
+        "dissolution": [
+          141
+        ],
+        "followed": [
+          142
+        ],
+        "nucleation,": [
+          145
+        ],
+        "(2)": [
+          147
+        ],
+        "recrystallization": [
+          148
+        ],
+        "with": [
+          149
+        ],
+        "progressive": [
+          150
+        ],
+        "Mg": [
+          151
+        ],
+        "incorporation.": [
+          152
+        ],
+        "These": [
+          153
+        ],
+        "findings": [
+          154
+        ],
+        "support": [
+          155
+        ],
+        "clay-catalyzed": [
+          156
+        ],
+        "significant": [
+          160
+        ],
+        "pathway": [
+          162
+        ],
+        "ancient": [
+          164
+        ],
+        "muddy": [
+          165
+        ],
+        "carbonates": [
+          166
+        ],
         "mixed": [
-          169
+          168
         ],
         "clastic-carbonate": [
-          170
+          169
         ],
         "systems.": [
-          171
+          170
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414459744",
@@ -14562,7 +14678,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14676,6 +14792,44 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -14716,6 +14870,24 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -14756,6 +14928,28 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -14797,6 +14991,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Olalekan S. Alade",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -14837,6 +15032,24 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Mohamed Mahmoud",
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -14877,6 +15090,32 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. ramadank@kfupm.edu.sa",
@@ -14918,12 +15157,12 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 7.7469,
+      "fwci": 7.5306,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.97583403,
+        "value": 0.97451519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14934,7 +15173,7 @@
       "biblio": {
         "volume": "16",
         "issue": "1",
-        "first_page": null,
+        "first_page": "12274",
         "last_page": null
       },
       "is_retracted": false,
@@ -15472,8 +15711,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7133693243.pdf",
@@ -16049,7 +16288,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-18T13:11:19.462570",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-03-06T00:00:00"
     },
     {
@@ -16152,6 +16391,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran, 31261, Saudi Arabia",
@@ -16199,6 +16439,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jaber Muharrag",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran, 31261, Saudi Arabia"
@@ -16239,6 +16480,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran, 31261, Saudi Arabia"
@@ -16279,6 +16521,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran, 31261, Saudi Arabia",
@@ -16678,8 +16921,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -16889,6 +17132,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Haitham Sulaiman Alhindi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -16929,6 +17173,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -16969,6 +17214,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Syed Rizwanullah Hussaini",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -17009,6 +17255,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -17057,6 +17304,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah I. Koeshidayatullah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -17335,8 +17583,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -17560,6 +17808,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -17598,6 +17847,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Haitham Alhindi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -17638,6 +17888,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Syed Rizwanullah Hussaini",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -17678,6 +17929,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -17718,6 +17970,7 @@
             "QA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hezam Al-Awah",
           "raw_affiliation_strings": [
             "Department of Chemistry and Earth Sciences, College of Arts and Sciences, Qatar University, Doha, 2713, Qatar"
@@ -17758,6 +18011,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -17806,6 +18060,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -18220,8 +18475,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -19135,6 +19390,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab M. Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -19173,6 +19429,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bandar D. Al-Otaibi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -19213,6 +19470,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas M. Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -19251,6 +19509,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hasan Algheryafi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -19291,6 +19550,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -19331,6 +19591,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -19364,12 +19625,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.35,
+      "fwci": 6.1564,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.95220646,
+        "value": 0.94918853,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19748,8 +20009,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 103,
@@ -19982,6 +20243,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Adamu Kimayim Gaduwang",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -20022,6 +20284,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Daniel Muñoz-López",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -20062,6 +20325,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -20102,6 +20366,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bassam Tawabini",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -20142,6 +20407,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -20190,6 +20456,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -20231,12 +20498,12 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.6416,
+      "fwci": 1.6251,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.79729043,
+        "value": 0.79320209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20247,7 +20514,7 @@
       "biblio": {
         "volume": "15",
         "issue": "2",
-        "first_page": null,
+        "first_page": "38",
         "last_page": null
       },
       "is_retracted": false,
@@ -20613,8 +20880,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -21266,7 +21533,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-02-12T00:00:00"
     },
     {
@@ -21370,6 +21637,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -21410,6 +21678,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -21450,6 +21719,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -21490,6 +21760,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -21901,8 +22172,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -22105,6 +22376,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -22143,6 +22415,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Musa B. Usman",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -22181,6 +22454,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Shehu Mukkafa",
           "raw_affiliation_strings": [
             "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
@@ -22221,6 +22495,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ibrahim A. Kwami",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -22261,6 +22536,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Usman Abubakar",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -22301,6 +22577,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -22341,6 +22618,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas M. Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -22381,6 +22659,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -22426,6 +22705,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad A. Ismail",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248 Bauchi, Nigeria"
@@ -22466,6 +22746,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abubakar S. Maigari",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248 Bauchi, Nigeria"
@@ -22504,6 +22785,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ahmed I. Haruna",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248 Bauchi, Nigeria"
@@ -22542,6 +22824,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bandar D. Al-Otaibi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -22580,6 +22863,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yusuf A. Abdulkarim",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -22621,6 +22905,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aliyuda Kachalla",
           "raw_affiliation_strings": [
             "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
@@ -22659,6 +22944,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Umar S. Umar",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248 Bauchi, Nigeria"
@@ -22699,6 +22985,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Olumuyiwa T. Akinsanpe",
           "raw_affiliation_strings": [
             "Department of Geology, Obafemi Awolowo University, Ile Ife. Osun State. Nigeria"
@@ -22739,6 +23026,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nuru A. Nabage",
           "raw_affiliation_strings": [
             "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248 Bauchi, Nigeria"
@@ -23169,8 +23457,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536
         }
       ],
       "study_designs": [],
@@ -23196,8 +23484,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 112,
@@ -23433,6 +23721,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab M. Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -23473,6 +23762,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas M. Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -23513,6 +23803,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad H. Malik",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -23553,6 +23844,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -23600,6 +23892,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -24023,8 +24316,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -25181,6 +25474,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fatimah Al Ibrahim",
           "raw_affiliation_strings": [
             "Department of Geoscience, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -25221,6 +25515,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -25261,6 +25556,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -25708,8 +26004,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -26553,6 +26849,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayah Alkhalifah",
           "raw_affiliation_strings": [
             "Department of Geoscience, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -26593,6 +26890,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -26633,6 +26931,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -27077,8 +27376,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -27919,22 +28218,47 @@
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Salisu, Anas Muham",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "DEANSHIP OF GRADUATE STUDIES, KING FAHD UNIVERSITY OF PETROLEUM & MINERALS"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DEANSHIP OF GRADUATE STUDIES, KING FAHD UNIVERSITY OF PETROLEUM & MINERALS",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5072935704"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -28188,8 +28512,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7167189447.pdf",
@@ -28491,7 +28815,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7167189447",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-07-03T00:00:00"
     },
     {
@@ -28524,9 +28848,11 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I4210109391",
+          "host_organization_name": "Sa'adu Zungur University",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210109391"
+          ],
           "host_organization_lineage_names": [],
           "type": "journal"
         },
@@ -28581,6 +28907,7 @@
             "NG"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Ahmadu Bello University Zaria"
@@ -28619,6 +28946,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Tukur Yakubu Muhammad",
           "raw_affiliation_strings": [
             "Ahmadu Bello University"
@@ -28659,6 +28987,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nuraddeen Nasiru Garba",
           "raw_affiliation_strings": [
             "Ahmadu Bello University"
@@ -28697,6 +29026,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bashir Dalladi Jatau",
           "raw_affiliation_strings": [
             "Ahmadu Bello University"
@@ -28735,6 +29065,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aliyu Muhammad",
           "raw_affiliation_strings": [
             "Ahmadu Bello University"
@@ -29080,9 +29411,11 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I4210109391",
+            "host_organization_name": "Sa'adu Zungur University",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210109391"
+            ],
             "host_organization_lineage_names": [],
             "type": "journal"
           },
@@ -29112,9 +29445,11 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I4210109391",
+          "host_organization_name": "Sa'adu Zungur University",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210109391"
+          ],
           "host_organization_lineage_names": [],
           "type": "journal"
         },
@@ -29129,8 +29464,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Good health and well-being",
-          "score": 0.98580002784729,
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.98580002784729
         }
       ],
       "study_designs": [
@@ -29142,8 +29477,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7204475104.pdf",
@@ -29701,7 +30036,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7204475104",
       "counts_by_year": [],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-08-28T00:00:00"
     },
     {
@@ -29734,9 +30069,11 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I4210109391",
+          "host_organization_name": "Sa'adu Zungur University",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210109391"
+          ],
           "host_organization_lineage_names": [],
           "type": "journal"
         },
@@ -29791,6 +30128,7 @@
             "NG"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Ahmadu Bello University Zaria"
@@ -29829,6 +30167,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Darius Audu Gajere",
           "raw_affiliation_strings": [
             "Ahmadu Bello University"
@@ -29867,6 +30206,7 @@
             "NG"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sunday A. Jonah",
           "raw_affiliation_strings": [
             "Centre for Energy Research and Training, Amadu Bello University, Zaria-Nigeria"
@@ -30212,9 +30552,11 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I4210109391",
+            "host_organization_name": "Sa'adu Zungur University",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210109391"
+            ],
             "host_organization_lineage_names": [],
             "type": "journal"
           },
@@ -30244,9 +30586,11 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I4210109391",
+          "host_organization_name": "Sa'adu Zungur University",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210109391"
+          ],
           "host_organization_lineage_names": [],
           "type": "journal"
         },
@@ -30263,8 +30607,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7204476743.pdf",
@@ -30659,7 +31003,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7204476743",
       "counts_by_year": [],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-08-28T00:00:00"
     },
     {
@@ -30763,6 +31107,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -30803,6 +31148,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -30843,6 +31189,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -30893,6 +31240,7 @@
             "CH"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ignatius Argadestya",
           "raw_affiliation_strings": [
             "Institut für Geologie, Oeschger Centre for Climate Change Research, Universität Bern, Baltzerstrasse 1+3, CH3012 Bern, Switzerland"
@@ -30934,6 +31282,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -31232,8 +31581,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -31426,6 +31775,36 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Shahad Darwish",
           "raw_affiliation_strings": [
             "Department of Geoscience, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Kingdom of Saudi Arabia"
@@ -31466,6 +31845,36 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -31506,6 +31915,28 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Isah Mohammed",
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Kingdom of Saudi Arabia"
@@ -31546,6 +31977,32 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/project-administration",
+              "display_name": "Project administration"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -31895,8 +32352,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -31909,8 +32366,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7214804335.pdf",
@@ -32447,7 +32904,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7214804335",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-09-30T00:00:00"
     }
   ]

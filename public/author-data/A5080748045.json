@@ -490,6 +490,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -530,6 +531,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -577,6 +579,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -617,6 +620,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA"
@@ -657,6 +661,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulrauf R. Adebayo",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -697,6 +702,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -737,6 +743,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -1044,8 +1051,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -1277,6 +1284,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -1317,6 +1325,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -1357,6 +1366,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -1404,6 +1414,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -1444,6 +1455,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Murtada Al-Hashem",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -1484,6 +1496,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA"
@@ -1524,6 +1537,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -1805,8 +1819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -2027,6 +2041,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed I. Fallatah",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX, 78712-1692, USA",
@@ -2074,6 +2089,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mahmoud Alnazghah",
           "raw_affiliation_strings": [
             "Saudi Arabian Oil Company (Saudi Aramco), Dhahran, 31311, Saudi Arabia"
@@ -2125,6 +2141,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles Kerans",
           "raw_affiliation_strings": [
             "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX, 78758-4445, USA",
@@ -2184,6 +2201,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX, 78712-1692, USA",
@@ -2222,12 +2240,12 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.6475,
+      "fwci": 2.615,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.90274875,
+        "value": 0.90032103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2587,8 +2605,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651
         }
       ],
@@ -2617,8 +2635,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -2894,6 +2912,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia. abdullah.alqubalee@kfupm.edu.sa",
@@ -2955,6 +2974,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anas Muhammad Salisu",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -2995,6 +3015,12 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -3035,6 +3061,12 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, 31311, Dhahran, Saudi Arabia"
@@ -3075,6 +3107,28 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia. ramadank@kfupm.edu.sa",
@@ -3131,12 +3185,12 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.1468,
+      "fwci": 2.1149,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.85960886,
+        "value": 0.85658953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3539,8 +3593,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -4255,7 +4309,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-10-29T00:00:00"
     },
     {
@@ -4370,6 +4424,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Geological Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
@@ -4417,6 +4472,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ronald J. Steel",
           "raw_affiliation_strings": [
             "Department of Geological Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA"
@@ -4455,6 +4511,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -4495,6 +4552,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Cornel Olariu",
           "raw_affiliation_strings": [
             "Department of Geological Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA"
@@ -4533,6 +4591,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Kaya Ertug",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -4571,6 +4630,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nigel Hooker",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -4869,8 +4929,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 156,
@@ -5190,6 +5250,28 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Mahmoud Alnazghah",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -5231,6 +5313,20 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia. a.koeshidayatullah@kfupm.edu.sa",
@@ -5285,6 +5381,16 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -5325,6 +5431,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -5376,6 +5483,7 @@
             "CN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Haijun Song",
           "raw_affiliation_strings": [
             "State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences, Wuhan, China"
@@ -5417,6 +5525,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -5458,12 +5567,12 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 1.8716,
+      "fwci": 1.8629,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.82858043,
+        "value": 0.82795699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5873,37 +5982,6 @@
           "raw_type": "posted-content"
         },
         {
-          "id": "pmid:36302804",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36302804",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific reports",
-          "raw_type": "Journal Article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:9613744",
           "doi": null,
           "is_oa": true,
@@ -5933,6 +6011,37 @@
           "is_published": true,
           "raw_source_name": "Sci Rep",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmid:36302804",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36302804",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific reports",
+          "raw_type": "Journal Article"
         },
         {
           "id": "pmh:oai:doaj.org/article:05688748a2f24faea2e2ac323255dd10",
@@ -6065,8 +6174,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4307414375.pdf",
@@ -6171,635 +6280,632 @@
         "https://openalex.org/W4286267867"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
         "The": [
-          1,
-          177,
-          206
+          0,
+          176,
+          205
         ],
         "Toarcian": [
-          2,
-          107,
-          283
-        ],
-        "Oceanic": [
-          3
-        ],
-        "Anoxic": [
-          4
-        ],
-        "Event": [
-          5
-        ],
-        "(T-OAE)": [
-          6
-        ],
-        "and": [
-          7,
-          22,
-          26,
-          90,
-          118,
-          149,
-          170,
-          239,
-          266,
-          284
-        ],
-        "its": [
-          8
-        ],
-        "corresponding": [
-          9
-        ],
-        "Carbon": [
-          10
-        ],
-        "Isotope": [
-          11
-        ],
-        "Excursion": [
-          12
-        ],
-        "(CIE)": [
-          13
-        ],
-        "have": [
-          14,
-          75,
-          184,
-          255
-        ],
-        "been": [
-          15,
-          76
-        ],
-        "reported": [
-          16,
-          58
-        ],
-        "widely": [
-          17
-        ],
-        "across": [
-          18
-        ],
-        "the": [
-          19,
-          31,
-          35,
-          39,
-          42,
-          47,
-          54,
-          88,
+          1,
           106,
-          112,
-          115,
-          127,
-          144,
-          153,
-          158,
-          166,
-          174,
-          187,
-          193,
-          211,
-          218,
-          224,
-          233,
-          237,
-          241,
-          250,
-          259,
-          263,
-          279,
           282
         ],
-        "Tethyan": [
-          20
+        "Oceanic": [
+          2
         ],
-        "region": [
-          21
+        "Anoxic": [
+          3
         ],
-        "globally.": [
-          23,
-          176
+        "Event": [
+          4
         ],
-        "In": [
-          24,
-          96
+        "(T-OAE)": [
+          5
         ],
-        "Arabia,": [
-          25
+        "and": [
+          6,
+          21,
+          25,
+          89,
+          117,
+          148,
+          169,
+          238,
+          265,
+          283
         ],
-        "based": [
-          27
+        "its": [
+          7
         ],
-        "on": [
-          28,
-          105
+        "corresponding": [
+          8
         ],
-        "ammonite": [
-          29
+        "Carbon": [
+          9
         ],
-        "dating,": [
-          30
+        "Isotope": [
+          10
         ],
-        "time": [
-          32,
-          286
+        "Excursion": [
+          11
         ],
-        "window": [
-          33
+        "(CIE)": [
+          12
         ],
-        "of": [
+        "have": [
+          13,
+          74,
+          183,
+          254
+        ],
+        "been": [
+          14,
+          75
+        ],
+        "reported": [
+          15,
+          57
+        ],
+        "widely": [
+          16
+        ],
+        "across": [
+          17
+        ],
+        "the": [
+          18,
+          30,
           34,
+          38,
           41,
           46,
           53,
-          92,
+          87,
+          105,
+          111,
           114,
-          121,
-          130,
-          160,
-          168,
-          179,
-          195,
-          214,
+          126,
+          143,
+          152,
+          157,
+          165,
+          173,
+          186,
+          192,
+          210,
+          217,
+          223,
+          232,
           236,
-          243,
+          240,
+          249,
+          258,
           262,
-          272
+          278,
+          281
+        ],
+        "Tethyan": [
+          19
+        ],
+        "region": [
+          20
+        ],
+        "globally.": [
+          22,
+          175
+        ],
+        "In": [
+          23,
+          95
+        ],
+        "Arabia,": [
+          24
+        ],
+        "based": [
+          26
+        ],
+        "on": [
+          27,
+          104
+        ],
+        "ammonite": [
+          28
+        ],
+        "dating,": [
+          29
+        ],
+        "time": [
+          31,
+          285
+        ],
+        "window": [
+          32
+        ],
+        "of": [
+          33,
+          40,
+          45,
+          52,
+          91,
+          113,
+          120,
+          129,
+          159,
+          167,
+          178,
+          194,
+          213,
+          235,
+          242,
+          261,
+          271
         ],
         "T-OAE": [
-          36,
-          175,
-          225
+          35,
+          174,
+          224
         ],
         "coincided": [
-          37,
-          164
+          36,
+          163
         ],
         "with": [
-          38,
-          165,
-          278
+          37,
+          164,
+          277
         ],
         "deposition": [
-          40,
-          159,
-          190
-        ],
-        "reddish": [
-          43
-        ],
-        "siliciclastic": [
-          44,
-          246
-        ],
-        "unit": [
-          45
-        ],
-        "Marrat": [
-          48,
-          108,
-          161,
+          39,
+          158,
           189
         ],
+        "reddish": [
+          42
+        ],
+        "siliciclastic": [
+          43,
+          245
+        ],
+        "unit": [
+          44
+        ],
+        "Marrat": [
+          47,
+          107,
+          160,
+          188
+        ],
         "Formation.": [
-          49
+          48
         ],
         "However,": [
-          50
+          49
         ],
         "no": [
-          51
+          50
         ],
         "evidence": [
-          52
+          51
         ],
         "T-OAE/CIE": [
-          55,
-          123
+          54,
+          122
         ],
         "was": [
-          56,
-          103
+          55,
+          102
         ],
         "ever": [
-          57
+          56
         ],
         "from": [
-          59
+          58
         ],
         "Arabia": [
-          60
+          59
         ],
         "because": [
-          61
+          60
         ],
         "these": [
-          62,
-          72
+          61,
+          71
         ],
         "red": [
+          62,
+          72,
+          161,
+          246
+        ],
+        "beds": [
           63,
           73,
           162,
           247
         ],
-        "beds": [
-          64,
-          74,
-          163,
-          248
-        ],
         "were": [
-          65
+          64
         ],
         "previously": [
-          66
+          65
         ],
         "interpreted": [
-          67,
-          182
-        ],
-        "as": [
-          68,
-          78
-        ],
-        "continental": [
-          69
-        ],
-        "deposits.": [
-          70
-        ],
-        "Recently,": [
-          71
-        ],
-        "recognized": [
-          77
-        ],
-        "shallow": [
-          79,
-          140,
-          244
-        ],
-        "marine": [
-          80,
-          142,
-          204,
-          245
-        ],
-        "deposits": [
-          81
-        ],
-        "which": [
-          82
-        ],
-        "opened": [
-          83
-        ],
-        "an": [
-          84
-        ],
-        "opportunity": [
-          85
-        ],
-        "to": [
-          86,
-          110,
-          173,
-          183,
-          192,
-          200
-        ],
-        "assess": [
-          87
-        ],
-        "occurrence": [
-          89
-        ],
-        "expression": [
-          91
-        ],
-        "T-OAE–CIE": [
-          93
-        ],
-        "in": [
-          94,
-          124,
-          152,
-          217,
-          249,
-          281
-        ],
-        "Arabia.": [
-          95,
-          125
-        ],
-        "this": [
-          97,
-          253
-        ],
-        "study,": [
-          98
-        ],
-        "a": [
-          99,
-          139
-        ],
-        "multiproxy": [
-          100
-        ],
-        "geochemical": [
-          101
-        ],
-        "characterization": [
-          102
-        ],
-        "performed": [
-          104
-        ],
-        "Formation": [
-          109
-        ],
-        "infer": [
-          111
-        ],
-        "chemistry": [
-          113
-        ],
-        "paleowater": [
-          116
-        ],
-        "column": [
-          117
-        ],
-        "identify": [
-          119
-        ],
-        "intervals": [
-          120
-        ],
-        "possible": [
-          122,
-          212
-        ],
-        "While": [
-          126
-        ],
-        "low": [
-          128
-        ],
-        "concentrations": [
-          129
-        ],
-        "redox-sensitive": [
-          131
-        ],
-        "elements": [
-          132
-        ],
-        "(Mo,": [
-          133
-        ],
-        "U,": [
-          134
-        ],
-        "V,": [
-          135
-        ],
-        "Cr)": [
-          136
-        ],
-        "may": [
-          137,
-          226
-        ],
-        "indicate": [
-          138
-        ],
-        "oxic": [
-          141,
-          203
-        ],
-        "settings,": [
-          143
-        ],
-        "coupled": [
-          145
-        ],
-        "negative": [
-          146
-        ],
-        "δ13Corganic": [
-          147
-        ],
-        "excursion": [
-          148
-        ],
-        "apparent": [
-          150
-        ],
-        "increase": [
-          151
-        ],
-        "chemical": [
-          154
-        ],
-        "weathering": [
-          155
-        ],
-        "suggests": [
-          156
-        ],
-        "that": [
-          157
-        ],
-        "development": [
-          167,
-          213
-        ],
-        "T-CIE": [
-          169,
-          238,
-          264
-        ],
-        "possibly": [
-          171
-        ],
-        "time-equivalent": [
-          172
-        ],
-        "origin": [
-          178,
-          242
-        ],
-        "reddening": [
-          180
-        ],
-        "is": [
+          66,
           181
         ],
-        "occurred": [
-          185
+        "as": [
+          67,
+          77
         ],
-        "during": [
-          186
+        "continental": [
+          68
         ],
-        "middle": [
-          188
+        "deposits.": [
+          69
         ],
-        "due": [
-          191
+        "Recently,": [
+          70
         ],
-        "stabilization": [
-          194
+        "recognized": [
+          76
         ],
-        "unstable": [
-          196
+        "shallow": [
+          78,
+          139,
+          243
         ],
-        "hydrous": [
-          197
+        "marine": [
+          79,
+          141,
+          203,
+          244
         ],
-        "iron": [
-          198
+        "deposits": [
+          80
         ],
-        "oxides": [
+        "which": [
+          81
+        ],
+        "opened": [
+          82
+        ],
+        "an": [
+          83
+        ],
+        "opportunity": [
+          84
+        ],
+        "to": [
+          85,
+          109,
+          172,
+          182,
+          191,
           199
         ],
-        "hematite": [
-          201
+        "assess": [
+          86
         ],
-        "under": [
+        "occurrence": [
+          88
+        ],
+        "expression": [
+          90
+        ],
+        "T-OAE–CIE": [
+          92
+        ],
+        "in": [
+          93,
+          123,
+          151,
+          216,
+          248,
+          280
+        ],
+        "Arabia.": [
+          94,
+          124
+        ],
+        "this": [
+          96,
+          252
+        ],
+        "study,": [
+          97
+        ],
+        "a": [
+          98,
+          138
+        ],
+        "multiproxy": [
+          99
+        ],
+        "geochemical": [
+          100
+        ],
+        "characterization": [
+          101
+        ],
+        "performed": [
+          103
+        ],
+        "Formation": [
+          108
+        ],
+        "infer": [
+          110
+        ],
+        "chemistry": [
+          112
+        ],
+        "paleowater": [
+          115
+        ],
+        "column": [
+          116
+        ],
+        "identify": [
+          118
+        ],
+        "intervals": [
+          119
+        ],
+        "possible": [
+          121,
+          211
+        ],
+        "While": [
+          125
+        ],
+        "low": [
+          127
+        ],
+        "concentrations": [
+          128
+        ],
+        "redox-sensitive": [
+          130
+        ],
+        "elements": [
+          131
+        ],
+        "(Mo,": [
+          132
+        ],
+        "U,": [
+          133
+        ],
+        "V,": [
+          134
+        ],
+        "Cr)": [
+          135
+        ],
+        "may": [
+          136,
+          225
+        ],
+        "indicate": [
+          137
+        ],
+        "oxic": [
+          140,
           202
         ],
+        "settings,": [
+          142
+        ],
+        "coupled": [
+          144
+        ],
+        "negative": [
+          145
+        ],
+        "δ13Corganic": [
+          146
+        ],
+        "excursion": [
+          147
+        ],
+        "apparent": [
+          149
+        ],
+        "increase": [
+          150
+        ],
+        "chemical": [
+          153
+        ],
+        "weathering": [
+          154
+        ],
+        "suggests": [
+          155
+        ],
+        "that": [
+          156
+        ],
+        "development": [
+          166,
+          212
+        ],
+        "T-CIE": [
+          168,
+          237,
+          263
+        ],
+        "possibly": [
+          170
+        ],
+        "time-equivalent": [
+          171
+        ],
+        "origin": [
+          177,
+          241
+        ],
+        "reddening": [
+          179
+        ],
+        "is": [
+          180
+        ],
+        "occurred": [
+          184
+        ],
+        "during": [
+          185
+        ],
+        "middle": [
+          187
+        ],
+        "due": [
+          190
+        ],
+        "stabilization": [
+          193
+        ],
+        "unstable": [
+          195
+        ],
+        "hydrous": [
+          196
+        ],
+        "iron": [
+          197
+        ],
+        "oxides": [
+          198
+        ],
+        "hematite": [
+          200
+        ],
+        "under": [
+          201
+        ],
         "conditions.": [
-          205
+          204
         ],
         "proposed": [
-          207
+          206
         ],
         "model": [
-          208
+          207
         ],
         "further": [
-          209
+          208
         ],
         "indicates": [
-          210
+          209
         ],
         "source": [
+          214,
+          274
+        ],
+        "rocks": [
           215,
           275
         ],
-        "rocks": [
-          216,
-          276
-        ],
         "deep,": [
-          219
+          218
         ],
         "anoxic": [
-          220
+          219
         ],
         "environment": [
-          221
+          220
         ],
         "counterpart": [
-          222
+          221
         ],
         "where": [
-          223
+          222
         ],
         "be": [
-          227
+          226
         ],
         "expressed.": [
-          228
+          227
         ],
         "Since": [
-          229
+          228
         ],
         "our": [
-          230
+          229
         ],
         "study": [
-          231
+          230
         ],
         "documents": [
-          232
+          231
         ],
         "first": [
-          234
+          233
         ],
         "record": [
-          235
+          234
         ],
         "discuss": [
-          240
+          239
         ],
         "Arabian": [
-          251
+          250
         ],
         "Plate,": [
-          252
+          251
         ],
         "will": [
-          254
+          253
         ],
         "significant": [
-          256
+          255
         ],
         "implications": [
-          257
+          256
         ],
         "for": [
-          258,
-          267
+          257,
+          266
         ],
         "overall": [
-          260
+          259
         ],
         "understanding": [
-          261
+          260
         ],
         "globally": [
-          265
+          264
         ],
         "hydrocarbon": [
-          268
+          267
         ],
         "exploration": [
-          269
+          268
         ],
         "through": [
-          270
+          269
         ],
         "realizations": [
-          271
+          270
         ],
         "potential": [
-          273
+          272
         ],
         "new": [
-          274
+          273
         ],
         "associated": [
-          277
+          276
         ],
         "OAEs": [
-          280
+          279
         ],
         "other": [
-          285
+          284
         ],
         "intervals.": [
-          287
+          286
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4307414375",
@@ -6821,7 +6927,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2022-11-01T00:00:00"
     },
     {
@@ -6925,6 +7031,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -6965,6 +7072,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mahmoud Alnazghah",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -7005,6 +7113,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -7045,6 +7154,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Fallatah",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -7083,6 +7193,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Camilo Polo",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -7113,12 +7224,12 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.6624,
+      "fwci": 1.6414,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79635506,
+        "value": 0.7934743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7424,8 +7535,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 160,
@@ -7730,6 +7841,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Geraint Wyn Hughes",
           "raw_affiliation_strings": [
             "Natural History Museum;"
@@ -7768,6 +7880,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Ramadan",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals KFUPM"
@@ -7793,6 +7906,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mahmoud Nazgah",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7824,6 +7938,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Saudi ARAMCO"
@@ -7846,12 +7961,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3746,
+      "fwci": 0.3697,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.44501241,
+        "value": 0.44122859,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8176,8 +8291,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8675,6 +8790,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Adhipa Herlambang",
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -8716,6 +8832,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah I. Koeshidayatullah",
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -8763,6 +8880,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -8803,6 +8921,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -8843,6 +8962,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mahmoud H. Alnazghah",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -8883,6 +9003,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Fallatah",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -8921,6 +9042,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hasan Algheryafi",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -8961,6 +9083,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid A.H. Al-Ramadan",
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -8998,12 +9121,12 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.9342,
+      "fwci": 0.9229,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.63370968,
+        "value": 0.62985554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9319,8 +9442,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -9538,6 +9661,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed I. Fallatah",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
@@ -9585,6 +9709,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mahmoud Alnazghah",
           "raw_affiliation_strings": [
             "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia"
@@ -9636,6 +9761,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles Kerans",
           "raw_affiliation_strings": [
             "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
@@ -9695,6 +9821,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
@@ -10041,8 +10168,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 155,
@@ -10339,6 +10466,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim AL-HUSSAINI",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Mineral, Dhahran, Saudi Arabia\r\nPresent: Saudi Aramco, Dhahran, Saudi Arabia",
@@ -10389,6 +10517,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah KOESHIDAYATULLAH",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Mineral, Dhahran, Saudi Arabia"
@@ -10429,6 +10558,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid AL-RAMADAN",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Mineral, Dhahran, Saudi Arabia"
@@ -10823,8 +10953,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1997639027.pdf",
@@ -11367,6 +11497,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Alhussaini, Abdulkarim M.",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-2730-4672",
@@ -11638,8 +11769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12329,6 +12460,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
@@ -12387,6 +12519,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles Kerans",
           "raw_affiliation_strings": [
             "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
@@ -12435,6 +12568,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Cornel Olariu",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA"
@@ -12460,6 +12594,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "James Pospichal",
           "raw_affiliation_strings": [
             "BugWare Inc., 1615 Village Square Blvd. Ste 8, Tallahassee, FL 32309, USA"
@@ -12750,8 +12885,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -12977,6 +13112,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al‐Hussaini",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences The University of Texas at Austin  2305 Speedway, Stop C1160 Austin Texas 78712‐1692 USA",
@@ -13024,6 +13160,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Cornel Olariu",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences The University of Texas at Austin  2305 Speedway, Stop C1160 Austin Texas 78712‐1692 USA"
@@ -13075,6 +13212,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles Kerans",
           "raw_affiliation_strings": [
             "Bureau of Economic Geology, Jackson School of Geosciences The University of Texas at Austin  10100 Burnet Rd., Bldg. 130 Austin Texas 78758‐4445 USA",
@@ -13123,6 +13261,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ronald Steel",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences The University of Texas at Austin  2305 Speedway, Stop C1160 Austin Texas 78712‐1692 USA"
@@ -13231,12 +13370,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
           "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -13650,8 +13789,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762
         }
       ],
@@ -13659,8 +13798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 171,
@@ -13850,651 +13989,648 @@
         "https://openalex.org/W2144604717"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
+        "Shelf‐edge": [
           0
         ],
-        "Shelf‐edge": [
-          1
-        ],
         "deltas": [
-          2,
-          67,
-          94,
-          169,
-          266,
-          278
+          1,
+          66,
+          93,
+          168,
+          265,
+          277
         ],
         "are": [
-          3
+          2
         ],
         "commonly": [
-          4
+          3
         ],
         "interpreted": [
-          5
+          4
         ],
         "to": [
-          6,
-          157
+          5,
+          156
         ],
         "record": [
-          7
+          6
         ],
         "basinward": [
-          8
+          7
         ],
         "facies": [
-          9,
-          89
+          8,
+          88
         ],
         "migration": [
-          10
+          9
         ],
         "across": [
-          11,
-          69,
-          258
+          10,
+          68,
+          257
         ],
         "uninterrupted,": [
-          12
+          11
         ],
         "gently": [
-          13
+          12
         ],
         "dipping": [
-          14
+          13
         ],
         "shelf": [
-          15,
-          40
+          14,
+          39
         ],
         "margins;": [
-          16
+          15
         ],
         "however,": [
-          17
+          16
         ],
         "examples": [
-          18
+          17
         ],
         "from": [
-          19,
-          107
+          18,
+          106
         ],
         "mixed": [
+          19,
+          34
+        ],
+        "siliciclastic‐carbonate": [
           20,
           35
         ],
-        "siliciclastic‐carbonate": [
+        "margins": [
           21,
           36
         ],
-        "margins": [
-          22,
-          37
-        ],
         "reveal": [
-          23
+          22
         ],
         "more": [
-          24
+          23
         ],
         "complex": [
-          25
+          24
         ],
         "depositional": [
-          26
+          25
         ],
         "dynamics.": [
-          27
+          26
         ],
         "Periods": [
-          28
+          27
         ],
         "and": [
-          29,
-          83,
-          88,
-          103,
-          112,
-          164,
-          174,
-          183,
-          197,
-          212,
-          239,
-          248,
-          255
+          28,
+          82,
+          87,
+          102,
+          111,
+          163,
+          173,
+          182,
+          196,
+          211,
+          238,
+          247,
+          254
         ],
         "areas": [
-          30,
-          219
-        ],
-        "of": [
-          31,
-          57,
-          65,
-          74,
-          91,
-          117,
-          126,
-          150,
-          199,
-          221,
-          228,
-          251,
-          267
-        ],
-        "carbonate": [
-          32,
-          59
-        ],
-        "sedimentation": [
-          33,
-          217
-        ],
-        "within": [
-          34
-        ],
-        "can": [
-          38
-        ],
-        "modify": [
-          39
-        ],
-        "morphology": [
-          41
-        ],
-        "by": [
-          42
-        ],
-        "producing": [
-          43
-        ],
-        "irregularities": [
-          44
-        ],
-        "that": [
-          45,
-          122,
-          190,
-          279
-        ],
-        "persist": [
-          46
-        ],
-        "as": [
-          47,
-          177,
-          270
-        ],
-        "positive": [
-          48
-        ],
-        "seafloor": [
-          49
-        ],
-        "bathymetric": [
-          50,
-          76,
-          124,
-          195
-        ],
-        "features,": [
-          51
-        ],
-        "even": [
-          52
-        ],
-        "long": [
-          53
-        ],
-        "after": [
-          54
-        ],
-        "the": [
-          55,
-          58,
-          62,
-          72,
-          85,
-          108,
-          123,
-          127,
-          137,
-          147,
-          151,
-          166,
-          171,
-          191,
-          200,
-          222,
-          226,
-          229,
-          264
-        ],
-        "cessation": [
-          56
-        ],
-        "factory.": [
-          60
-        ],
-        "Despite": [
-          61
-        ],
-        "widespread": [
-          63
-        ],
-        "documentation": [
-          64
-        ],
-        "shelf‐edge": [
-          66,
-          93,
-          140,
-          252,
-          277
-        ],
-        "advancing": [
-          68
-        ],
-        "carbonate‐modified": [
-          70
-        ],
-        "shelves,": [
-          71
-        ],
-        "role": [
-          73,
-          161
-        ],
-        "carbonate‐related": [
-          75
-        ],
-        "relief": [
-          77,
-          125,
-          198
-        ],
-        "in": [
-          78,
-          162,
-          175,
+          29,
           218
         ],
+        "of": [
+          30,
+          56,
+          64,
+          73,
+          90,
+          116,
+          125,
+          149,
+          198,
+          220,
+          227,
+          250,
+          266
+        ],
+        "carbonate": [
+          31,
+          58
+        ],
+        "sedimentation": [
+          32,
+          216
+        ],
+        "within": [
+          33
+        ],
+        "can": [
+          37
+        ],
+        "modify": [
+          38
+        ],
+        "morphology": [
+          40
+        ],
+        "by": [
+          41
+        ],
+        "producing": [
+          42
+        ],
+        "irregularities": [
+          43
+        ],
+        "that": [
+          44,
+          121,
+          189,
+          278
+        ],
+        "persist": [
+          45
+        ],
+        "as": [
+          46,
+          176,
+          269
+        ],
+        "positive": [
+          47
+        ],
+        "seafloor": [
+          48
+        ],
+        "bathymetric": [
+          49,
+          75,
+          123,
+          194
+        ],
+        "features,": [
+          50
+        ],
+        "even": [
+          51
+        ],
+        "long": [
+          52
+        ],
+        "after": [
+          53
+        ],
+        "the": [
+          54,
+          57,
+          61,
+          71,
+          84,
+          107,
+          122,
+          126,
+          136,
+          146,
+          150,
+          165,
+          170,
+          190,
+          199,
+          221,
+          225,
+          228,
+          263
+        ],
+        "cessation": [
+          55
+        ],
+        "factory.": [
+          59
+        ],
+        "Despite": [
+          60
+        ],
+        "widespread": [
+          62
+        ],
+        "documentation": [
+          63
+        ],
+        "shelf‐edge": [
+          65,
+          92,
+          139,
+          251,
+          276
+        ],
+        "advancing": [
+          67
+        ],
+        "carbonate‐modified": [
+          69
+        ],
+        "shelves,": [
+          70
+        ],
+        "role": [
+          72,
+          160
+        ],
+        "carbonate‐related": [
+          74
+        ],
+        "relief": [
+          76,
+          124,
+          197
+        ],
+        "in": [
+          77,
+          161,
+          174,
+          217
+        ],
         "modulating": [
-          79
+          78
         ],
         "siliciclastic": [
-          80
+          79
         ],
         "sediment": [
-          81,
-          181,
-          256
+          80,
+          180,
+          255
         ],
         "transport": [
-          82
+          81
         ],
         "controlling": [
-          84,
-          144
+          83,
+          143
         ],
         "stratigraphic": [
-          86,
-          249
+          85,
+          248
         ],
         "architecture": [
-          87
+          86
         ],
         "partitioning": [
-          90
+          89
         ],
         "younger": [
-          92
+          91
         ],
         "remains": [
-          95
+          94
         ],
         "insufficiently": [
-          96
+          95
         ],
         "documented.": [
-          97
+          96
         ],
         "Subsurface": [
-          98
+          97
         ],
         "cores,": [
-          99
+          98
         ],
         "two‐dimensional": [
-          100
+          99
         ],
         "(2D)": [
-          101
+          100
         ],
         "seismic": [
-          102,
-          238
+          101,
+          237
         ],
         "wireline": [
+          103,
+          239
+        ],
+        "log": [
           104,
           240
         ],
-        "log": [
-          105,
-          241
-        ],
         "data": [
-          106
+          105
         ],
         "East": [
+          108,
+          267
+        ],
+        "Texas": [
           109,
           268
         ],
-        "Texas": [
-          110,
-          269
-        ],
         "Basin": [
-          111
+          110
         ],
         "its": [
-          113
+          112
         ],
         "adjoining": [
-          114
+          113
         ],
         "northern": [
-          115
+          114
         ],
         "Gulf": [
-          116
+          115
         ],
         "Mexico": [
-          118
+          117
         ],
         "(GOM)": [
-          119
+          118
         ],
         "margin": [
-          120,
-          155,
-          203,
-          224
+          119,
+          154,
+          202,
+          223
         ],
         "demonstrate": [
-          121
+          120
         ],
         "Albian": [
-          128
+          127
         ],
         "Stuart": [
+          128,
+          151,
+          200
+        ],
+        "City": [
           129,
           152,
           201
         ],
-        "City": [
-          130,
-          153,
-          202
-        ],
         "reef": [
-          131,
-          154
+          130,
+          153
         ],
         "exerted": [
-          132
+          131
         ],
         "a": [
-          133,
-          159,
-          178,
-          246,
-          259,
-          271
+          132,
+          158,
+          177,
+          245,
+          258,
+          270
         ],
         "primary": [
-          134
+          133
         ],
         "control": [
-          135
+          134
         ],
         "on": [
-          136
+          135
         ],
         "Cenomanian": [
-          138
+          137
         ],
         "Woodbine": [
-          139,
-          168,
-          230,
-          265
+          138,
+          167,
+          229,
+          264
         ],
         "delta": [
-          141,
-          253
+          140,
+          252
         ],
         "system.": [
-          142
+          141
         ],
         "Beyond": [
-          143
+          142
         ],
         "thickness": [
-          145
+          144
         ],
         "variations,": [
-          146
+          145
         ],
         "inherited": [
-          148
+          147
         ],
         "bathymetry": [
-          149
+          148
         ],
         "continued": [
-          156
+          155
         ],
         "play": [
-          158
+          157
         ],
         "major": [
-          160
+          159
         ],
         "routing": [
-          163
+          162
         ],
         "redirecting": [
-          165
+          164
         ],
         "overlying": [
-          167
+          166
         ],
         "into": [
-          170
+          169
         ],
         "GOM": [
-          172
+          171
         ],
         "deepwater": [
-          173
+          172
         ],
         "acting": [
-          176
+          175
         ],
         "locus": [
-          179
+          178
         ],
         "for": [
-          180,
-          275
-        ],
-        "instability": [
-          182
-        ],
-        "gravity‐flow": [
-          184
-        ],
-        "initiation.": [
-          185
-        ],
-        "Core‐based": [
-          186
-        ],
-        "observations": [
-          187,
-          236
-        ],
-        "further": [
-          188
-        ],
-        "suggest": [
-          189
-        ],
-        "subdued": [
-          192
-        ],
-        "but": [
-          193
-        ],
-        "persistent": [
-          194
-        ],
-        "irregularity": [
-          196
-        ],
-        "may": [
-          204
-        ],
-        "have": [
-          205
-        ],
-        "dampened": [
-          206
-        ],
-        "wave": [
-          207
-        ],
-        "action,": [
-          208
-        ],
-        "amplified": [
-          209
-        ],
-        "tidal": [
-          210
-        ],
-        "currents": [
-          211
-        ],
-        "hence": [
-          213
-        ],
-        "sustained": [
-          214
-        ],
-        "river": [
-          215
-        ],
-        "hyperpycnal": [
-          216
-        ],
-        "landward": [
-          220
-        ],
-        "paleo‐reef": [
-          223
-        ],
-        "during": [
-          225
-        ],
-        "progradation": [
-          227
-        ],
-        "deltas.": [
-          231
-        ],
-        "By": [
-          232
-        ],
-        "integrating": [
-          233
-        ],
-        "core‐calibrated": [
-          234
-        ],
-        "sedimentological": [
-          235,
-          247
-        ],
-        "with": [
-          237
-        ],
-        "data,": [
-          242
-        ],
-        "this": [
-          243
-        ],
-        "study": [
-          244
-        ],
-        "develops": [
-          245
-        ],
-        "synthesis": [
-          250
-        ],
-        "evolution": [
-          254
-        ],
-        "dispersal": [
-          257
-        ],
-        "drowned": [
-          260,
-          282
-        ],
-        "carbonate‐rimmed": [
-          261
-        ],
-        "margin,": [
-          262
-        ],
-        "positioning": [
-          263
-        ],
-        "potential": [
-          272
-        ],
-        "process‐based": [
-          273
-        ],
-        "analogue": [
+          179,
           274
         ],
-        "other": [
-          276
+        "instability": [
+          181
         ],
-        "advanced": [
-          280
+        "gravity‐flow": [
+          183
         ],
-        "over": [
+        "initiation.": [
+          184
+        ],
+        "Core‐based": [
+          185
+        ],
+        "observations": [
+          186,
+          235
+        ],
+        "further": [
+          187
+        ],
+        "suggest": [
+          188
+        ],
+        "subdued": [
+          191
+        ],
+        "but": [
+          192
+        ],
+        "persistent": [
+          193
+        ],
+        "irregularity": [
+          195
+        ],
+        "may": [
+          203
+        ],
+        "have": [
+          204
+        ],
+        "dampened": [
+          205
+        ],
+        "wave": [
+          206
+        ],
+        "action,": [
+          207
+        ],
+        "amplified": [
+          208
+        ],
+        "tidal": [
+          209
+        ],
+        "currents": [
+          210
+        ],
+        "hence": [
+          212
+        ],
+        "sustained": [
+          213
+        ],
+        "river": [
+          214
+        ],
+        "hyperpycnal": [
+          215
+        ],
+        "landward": [
+          219
+        ],
+        "paleo‐reef": [
+          222
+        ],
+        "during": [
+          224
+        ],
+        "progradation": [
+          226
+        ],
+        "deltas.": [
+          230
+        ],
+        "By": [
+          231
+        ],
+        "integrating": [
+          232
+        ],
+        "core‐calibrated": [
+          233
+        ],
+        "sedimentological": [
+          234,
+          246
+        ],
+        "with": [
+          236
+        ],
+        "data,": [
+          241
+        ],
+        "this": [
+          242
+        ],
+        "study": [
+          243
+        ],
+        "develops": [
+          244
+        ],
+        "synthesis": [
+          249
+        ],
+        "evolution": [
+          253
+        ],
+        "dispersal": [
+          256
+        ],
+        "drowned": [
+          259,
           281
         ],
+        "carbonate‐rimmed": [
+          260
+        ],
+        "margin,": [
+          261
+        ],
+        "positioning": [
+          262
+        ],
+        "potential": [
+          271
+        ],
+        "process‐based": [
+          272
+        ],
+        "analogue": [
+          273
+        ],
+        "other": [
+          275
+        ],
+        "advanced": [
+          279
+        ],
+        "over": [
+          280
+        ],
         "rimmed": [
-          283
+          282
         ],
         "margins.": [
-          284
+          283
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7204230483",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-08-27T00:00:00"
     },
     {
@@ -14598,6 +14734,7 @@
             "ES"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Matías Reolid",
           "raw_affiliation_strings": [
             "Department of Geology, University of Jaén, Jaén, Spain"
@@ -14638,6 +14775,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkarim Al-Hussaini",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, Austin, USA"
@@ -14678,6 +14816,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -14705,6 +14844,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mahmoud Alnazghah",
           "raw_affiliation_strings": [
             "Geoscience & Innovation, Exploration & Resource Development, Maaden, Riyadh, Saudi Arabia"
@@ -14744,6 +14884,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -14797,7 +14938,7 @@
       "biblio": {
         "volume": "72",
         "issue": "4",
-        "first_page": null,
+        "first_page": "36",
         "last_page": null
       },
       "is_retracted": false,
@@ -14807,7 +14948,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9531000256538391,
+        "score": 0.9545999765396118,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -14825,7 +14966,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9531000256538391,
+          "score": 0.9545999765396118,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -14842,7 +14983,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.043800000101327896,
+          "score": 0.04230000078678131,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -15285,8 +15426,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762
         }
       ],
@@ -15320,8 +15461,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7218853228.pdf",
@@ -15455,359 +15596,356 @@
         "https://openalex.org/W3044842069"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "The": [
           0
         ],
-        "The": [
-          1
-        ],
         "Jenkyns": [
-          2,
-          54
+          1,
+          53
         ],
         "Event": [
-          3
+          2
         ],
         "on": [
-          4
+          3
         ],
         "the": [
-          5,
-          28,
-          46,
-          53,
-          106,
-          124
+          4,
+          27,
+          45,
+          52,
+          105,
+          123
         ],
         "Arabian": [
+          5,
+          124
+        ],
+        "Plate": [
           6,
           125
         ],
-        "Plate": [
-          7,
-          126
-        ],
         "caused": [
-          8
+          7
         ],
         "distinct": [
-          9
+          8
         ],
         "environmental": [
-          10
+          9
         ],
         "and": [
-          11,
-          25,
-          41,
-          71,
-          80,
-          92,
-          102,
-          119,
-          127
+          10,
+          24,
+          40,
+          70,
+          79,
+          91,
+          101,
+          118,
+          126
         ],
         "sedimentological": [
-          12
+          11
         ],
         "shifts": [
-          13
+          12
         ],
         "compared": [
-          14
+          13
         ],
         "to": [
-          15,
-          77
+          14,
+          76
         ],
         "deeper": [
-          16,
-          20
-        ],
-        "Tethyan": [
-          17
-        ],
-        "basins.": [
-          18
-        ],
-        "While": [
+          15,
           19
         ],
+        "Tethyan": [
+          16
+        ],
+        "basins.": [
+          17
+        ],
+        "While": [
+          18
+        ],
         "basins": [
-          21
+          20
         ],
         "faced": [
-          22
+          21
         ],
         "oxygen": [
-          23
+          22
         ],
         "depletion": [
-          24
+          23
         ],
         "organic-rich": [
-          26
+          25
         ],
         "facies,": [
-          27
+          26
         ],
         "shallow": [
-          29
+          28
         ],
         "Marrat": [
-          30,
-          75,
-          85
+          29,
+          74,
+          84
         ],
         "Formation": [
-          31
+          30
         ],
         "recorded": [
-          32
+          31
         ],
         "an": [
-          33,
-          128
+          32,
+          127
         ],
         "influx": [
-          34
+          33
         ],
         "of": [
-          35,
-          52,
-          123
+          34,
+          51,
+          122
         ],
         "deltaic": [
-          36,
-          82
+          35,
+          81
         ],
         "terrigenous": [
-          37
+          36
         ],
         "sediments": [
-          38
+          37
         ],
         "(red": [
-          39
+          38
         ],
         "beds)": [
-          40
+          39
         ],
         "high-energy": [
-          42
+          41
         ],
         "shoreline": [
-          43
+          42
         ],
         "facies": [
-          44
+          43
         ],
         "during": [
-          45
+          44
         ],
         "negative": [
-          47
+          46
         ],
         "carbon": [
-          48
+          47
         ],
         "isotope": [
-          49
+          48
         ],
         "excursion,": [
-          50
+          49
         ],
         "characteristic": [
-          51
+          50
         ],
         "Event.": [
-          55
+          54
         ],
         "This": [
-          56
+          55
         ],
         "event": [
-          57
+          56
         ],
         "drove": [
-          58
+          57
         ],
         "a": [
-          59,
-          62
-        ],
-        "transition": [
-          60
-        ],
-        "from": [
+          58,
           61
         ],
+        "transition": [
+          59
+        ],
+        "from": [
+          60
+        ],
         "densely": [
-          63
+          62
         ],
         "bioturbated": [
-          64
+          63
         ],
         "carbonate": [
+          64,
+          106
+        ],
+        "platform": [
           65,
           107
         ],
-        "platform": [
-          66,
-          108
-        ],
         "with": [
-          67,
-          87
-        ],
-        "diverse": [
-          68
-        ],
-        "benthic": [
-          69,
-          89
-        ],
-        "macroinvertebrates": [
-          70,
-          118
-        ],
-        "microfossil": [
-          72
-        ],
-        "assemblages": [
-          73
-        ],
-        "(Lower": [
-          74
-        ],
-        "Member)": [
-          76,
+          66,
           86
         ],
-        "mixed": [
-          78
+        "diverse": [
+          67
         ],
-        "wave-": [
-          79
-        ],
-        "river-dominated": [
-          81
-        ],
-        "deposits": [
-          83
-        ],
-        "(Middle": [
-          84
-        ],
-        "low-diversity": [
+        "benthic": [
+          68,
           88
         ],
-        "communities": [
-          90
-        ],
-        "(macroinvertebrates)": [
-          91
-        ],
-        "opportunistic": [
-          93
-        ],
-        "monospecific": [
-          94
-        ],
-        "ichnoassemblages": [
-          95
-        ],
-        "dominated": [
-          96
-        ],
-        "by": [
-          97
-        ],
-        "suspension": [
-          98
-        ],
-        "feeders": [
-          99
-        ],
-        "(": [
-          100
-        ],
-        "Arenicolites": [
-          101
-        ],
-        "Skolithos": [
-          103
-        ],
-        ").": [
-          104
-        ],
-        "Post-event,": [
-          105
-        ],
-        "recovered": [
-          109
-        ],
-        "but": [
-          110
-        ],
-        "retained": [
-          111
-        ],
-        "lower": [
-          112
-        ],
-        "biodiversity": [
-          113
-        ],
-        "than": [
-          114
-        ],
-        "pre-event": [
-          115
-        ],
-        "levels": [
-          116
-        ],
-        "for": [
+        "macroinvertebrates": [
+          69,
           117
         ],
+        "microfossil": [
+          71
+        ],
+        "assemblages": [
+          72
+        ],
+        "(Lower": [
+          73
+        ],
+        "Member)": [
+          75,
+          85
+        ],
+        "mixed": [
+          77
+        ],
+        "wave-": [
+          78
+        ],
+        "river-dominated": [
+          80
+        ],
+        "deposits": [
+          82
+        ],
+        "(Middle": [
+          83
+        ],
+        "low-diversity": [
+          87
+        ],
+        "communities": [
+          89
+        ],
+        "(macroinvertebrates)": [
+          90
+        ],
+        "opportunistic": [
+          92
+        ],
+        "monospecific": [
+          93
+        ],
+        "ichnoassemblages": [
+          94
+        ],
+        "dominated": [
+          95
+        ],
+        "by": [
+          96
+        ],
+        "suspension": [
+          97
+        ],
+        "feeders": [
+          98
+        ],
+        "(": [
+          99
+        ],
+        "Arenicolites": [
+          100
+        ],
+        "Skolithos": [
+          102
+        ],
+        ").": [
+          103
+        ],
+        "Post-event,": [
+          104
+        ],
+        "recovered": [
+          108
+        ],
+        "but": [
+          109
+        ],
+        "retained": [
+          110
+        ],
+        "lower": [
+          111
+        ],
+        "biodiversity": [
+          112
+        ],
+        "than": [
+          113
+        ],
+        "pre-event": [
+          114
+        ],
+        "levels": [
+          115
+        ],
+        "for": [
+          116
+        ],
         "microfossils.": [
-          120
+          119
         ],
         "Tectonic": [
-          121
+          120
         ],
         "stability": [
-          122
+          121
         ],
         "equatorial": [
-          129
+          128
         ],
         "position": [
-          130
+          129
         ],
         "primarily": [
-          131
+          130
         ],
         "controlled": [
-          132
+          131
         ],
         "this": [
-          133
+          132
         ],
         "unique": [
-          134
+          133
         ],
         "regional": [
-          135
+          134
         ],
         "response.": [
-          136
+          135
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7218853228",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-10-04T00:00:00"
     }
   ]

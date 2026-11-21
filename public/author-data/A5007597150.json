@@ -16,9 +16,9 @@
     ],
     "full_name": "Mohammed H. Al Kindi",
     "works_count": 13,
-    "cited_by_count": 39,
+    "cited_by_count": 40,
     "summary_stats": {
-      "2yr_mean_citedness": 2.6,
+      "2yr_mean_citedness": 2.8,
       "h_index": 4,
       "i10_index": 1
     },
@@ -272,7 +272,7 @@
         "year": 2025,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 14
+        "cited_by_count": 15
       },
       {
         "year": 2026,
@@ -293,7 +293,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5007597150",
-    "updated_date": "2026-11-16T12:53:42",
+    "updated_date": "2026-11-20T12:36:48",
     "created_date": "2020-03-13T00:00:00"
   },
   "works": [
@@ -304,7 +304,7 @@
       "display_name": "Overview of the carbon capture and storage opportunities in Oman",
       "alternate_titles": [],
       "publication_year": 2024,
-      "publication_date": "2024-05-08",
+      "publication_date": "2024-07-22",
       "ids": {
         "openalex": "https://openalex.org/W4396745839",
         "doi": "https://doi.org/10.1144/sp550-2024-7"
@@ -382,6 +382,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman"
@@ -404,12 +405,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1253,
+      "fwci": 1.1232,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.71117009,
+        "value": 0.71074211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -780,22 +781,22 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1340,7 +1341,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2024-05-09T00:00:00"
     },
     {
@@ -1350,7 +1351,7 @@
       "display_name": "The search for petroleum in the Sultanate of Oman – the first 120 years",
       "alternate_titles": [],
       "publication_year": 2024,
-      "publication_date": "2024-05-02",
+      "publication_date": "2024-06-20",
       "ids": {
         "openalex": "https://openalex.org/W4396578111",
         "doi": "https://doi.org/10.1144/sp550-2023-220"
@@ -1428,6 +1429,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Alan Peter Heward",
           "raw_affiliation_strings": [
             "23 Croftdown Court, Malvern, UK",
@@ -1456,6 +1458,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. Quentin Morton",
           "raw_affiliation_strings": [
             "Green Mountain Press, Aylesford, UK",
@@ -1486,6 +1489,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Muscat, Sultanate of Oman",
@@ -1513,12 +1517,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0129,
+      "fwci": 1.0062,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.70647212,
+        "value": 0.70400071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1843,8 +1847,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -2419,7 +2423,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2024-05-03T00:00:00"
     },
     {
@@ -2525,6 +2529,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "David Cousins",
           "raw_affiliation_strings": [
             "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
@@ -2563,6 +2568,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Gary Kocurek",
           "raw_affiliation_strings": [
             "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
@@ -2590,6 +2596,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Al Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre  Muscat Oman"
@@ -2613,6 +2620,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Omer Al Mashaykhi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre  Muscat Oman"
@@ -2652,6 +2660,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Caroline Hern",
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
@@ -2691,6 +2700,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Calum Macaulay",
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
@@ -2730,6 +2740,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Robert Campbell",
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
@@ -2769,6 +2780,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michelle Thompson",
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
@@ -2801,12 +2813,12 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.321,
+      "fwci": 1.3159,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.71991812,
+        "value": 0.71872779,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2817,7 +2829,7 @@
       "biblio": {
         "volume": "50",
         "issue": "6",
-        "first_page": null,
+        "first_page": "e70064",
         "last_page": null
       },
       "is_retracted": false,
@@ -3139,8 +3151,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -3232,728 +3244,725 @@
         "https://openalex.org/W2201949723"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
         "The": [
-          1,
-          128,
-          152,
-          245
+          0,
+          127,
+          151,
+          244
         ],
         "Wahiba": [
-          2
+          1
         ],
         "Basin": [
-          3
+          2
         ],
         "of": [
-          4,
-          11,
-          40,
-          60,
-          70,
-          170,
-          182,
-          195,
-          200,
-          220,
-          228,
-          248,
-          261,
-          285,
-          297
+          3,
+          10,
+          39,
+          59,
+          69,
+          169,
+          181,
+          194,
+          199,
+          219,
+          227,
+          247,
+          260,
+          284,
+          296
         ],
         "NE": [
-          5
+          4
         ],
         "Oman": [
-          6
+          5
         ],
         "has": [
-          7
+          6
         ],
         "been": [
-          8
+          7
         ],
         "the": [
-          9,
-          19,
-          38,
-          41,
-          103,
-          115,
-          124,
-          167,
-          179,
-          188,
-          192,
-          209,
-          213,
-          218,
-          221,
-          225,
-          233,
-          238,
-          259,
-          262,
-          283,
-          295
+          8,
+          18,
+          37,
+          40,
+          102,
+          114,
+          123,
+          166,
+          178,
+          187,
+          191,
+          208,
+          212,
+          217,
+          220,
+          224,
+          232,
+          237,
+          258,
+          261,
+          282,
+          294
         ],
         "focus": [
-          10
+          9
         ],
         "numerous": [
-          12
+          11
         ],
         "studies": [
-          13
+          12
         ],
         "involving": [
-          14
+          13
         ],
         "satellite": [
-          15
+          14
         ],
         "imagery": [
-          16
+          15
         ],
         "that": [
-          17,
-          160,
-          204,
-          212,
-          232,
-          257,
-          266
+          16,
+          159,
+          203,
+          211,
+          231,
+          256,
+          265
         ],
         "demonstrate": [
-          18
+          17
         ],
         "complex": [
-          20
+          19
         ],
         "interactions": [
-          21
+          20
         ],
         "between": [
-          22
+          21
         ],
         "diverse": [
-          23
+          22
         ],
         "source": [
-          24,
-          202
+          23,
+          201
         ],
         "terrains": [
-          25
+          24
         ],
         "and": [
-          26,
-          44,
-          56,
-          63,
-          75,
-          98,
-          109,
-          119,
-          135,
-          165,
-          254,
-          268,
-          293
+          25,
+          43,
+          55,
+          62,
+          74,
+          97,
+          108,
+          118,
+          134,
+          164,
+          253,
+          267,
+          292
         ],
         "fluvial/marine/aeolian": [
-          27
+          26
         ],
         "sediment": [
-          28,
-          255,
-          291
+          27,
+          254,
+          290
         ],
         "transport": [
-          29
+          28
         ],
         "pathways.": [
-          30
+          29
         ],
         "Building": [
-          31
+          30
         ],
         "upon": [
-          32
+          31
         ],
         "previous": [
-          33
+          32
         ],
         "work,": [
-          34
+          33
         ],
         "our": [
-          35,
-          121,
-          149
+          34,
+          120,
+          148
         ],
         "study": [
-          36
+          35
         ],
         "resolves": [
-          37
+          36
         ],
         "mineralogy": [
-          39,
-          260
+          38,
+          259
         ],
         "dune": [
+          41,
+          188,
+          221,
+          301
+        ],
+        "field": [
           42,
-          189,
           222,
           302
         ],
-        "field": [
-          43,
-          223,
-          303
-        ],
         "grain": [
-          45
+          44
         ],
         "provenance": [
-          46
+          45
         ],
         "utilising": [
-          47
+          46
         ],
         "a": [
-          48,
-          139,
-          144,
-          241
+          47,
+          138,
+          143,
+          240
         ],
         "multispectral": [
-          49
+          48
         ],
         "dataset": [
-          50,
-          132
+          49,
+          131
         ],
         "derived": [
-          51
+          50
         ],
         "from": [
-          52,
-          82
+          51,
+          81
         ],
         "visible": [
-          53
+          52
         ],
         "to": [
-          54,
-          113,
-          147,
-          217,
-          289
+          53,
+          112,
+          146,
+          216,
+          288
         ],
         "near‐infrared": [
-          55
+          54
         ],
         "short‐wave": [
-          57
+          56
         ],
         "infrared": [
+          57,
+          67
+        ],
+        "bands": [
           58,
           68
         ],
-        "bands": [
-          59,
-          69
-        ],
         "Worldview‐3": [
-          61
+          60
         ],
         "(WV‐3)": [
-          62
+          61
         ],
         "Sentinel‐2,": [
-          64
+          63
         ],
         "alongside": [
-          65
+          64
         ],
         "select": [
-          66
+          65
         ],
         "thermal": [
-          67
+          66
         ],
         "Advanced": [
-          71
+          70
         ],
         "Spaceborne": [
-          72
+          71
         ],
         "Thermal": [
-          73
+          72
         ],
         "Emission": [
-          74
+          73
         ],
         "Reflection": [
-          76
+          75
         ],
         "Radiometer": [
-          77
+          76
         ],
         "(ASTER).": [
-          78
+          77
         ],
         "Spectral": [
-          79
+          78
         ],
         "signatures": [
-          80
+          79
         ],
         "identified": [
-          81
+          80
         ],
         "remote": [
-          83
+          82
         ],
         "sensing": [
-          84
+          83
         ],
         "were": [
-          85,
-          273
-        ],
-        "confirmed": [
-          86
-        ],
-        "through": [
-          87
-        ],
-        "selective": [
-          88
-        ],
-        "surface": [
-          89
-        ],
-        "sampling,": [
-          90
-        ],
-        "followed": [
-          91
-        ],
-        "by": [
-          92
-        ],
-        "petrographic": [
-          93
-        ],
-        "analysis,": [
-          94
-        ],
-        "powder": [
-          95
-        ],
-        "X‐ray": [
-          96
-        ],
-        "diffraction": [
-          97
-        ],
-        "grain‐size": [
-          99
-        ],
-        "analysis.": [
-          100
-        ],
-        "We": [
-          101,
-          207
-        ],
-        "employed": [
-          102
-        ],
-        "spectral": [
-          104
-        ],
-        "angle": [
-          105
-        ],
-        "mapper": [
-          106
-        ],
-        "algorithm": [
-          107
-        ],
-        "(SAM)": [
-          108
-        ],
-        "band": [
-          110
-        ],
-        "ratio": [
-          111
-        ],
-        "analysis": [
-          112,
-          299
-        ],
-        "classify": [
-          114
-        ],
-        "WV‐3": [
-          116,
-          131
-        ],
-        "covered": [
-          117
-        ],
-        "megadunes,": [
-          118
-        ],
-        "validate": [
-          120
-        ],
-        "scenes": [
-          122,
-          159
-        ],
-        "with": [
-          123,
-          178,
-          197
-        ],
-        "ground": [
-          125
-        ],
-        "sample": [
-          126
-        ],
-        "data.": [
-          127
-        ],
-        "spectrally": [
-          129
-        ],
-        "superior": [
-          130
-        ],
-        "was": [
-          133
-        ],
-        "resampled": [
-          134
-        ],
-        "compared,": [
-          136
-        ],
-        "pixel‐for‐pixel,": [
-          137
-        ],
-        "against": [
-          138
-        ],
-        "SAM‐classified": [
-          140
-        ],
-        "Sentinel‐2": [
-          141
-        ],
-        "scene,": [
-          142
-        ],
-        "providing": [
-          143
-        ],
-        "framework": [
-          145
-        ],
-        "necessary": [
-          146
-        ],
-        "expand": [
-          148
-        ],
-        "observations": [
-          150,
-          174,
-          281
-        ],
-        "regionally.": [
-          151
-        ],
-        "resulting": [
-          153
-        ],
-        "datasets": [
-          154
-        ],
-        "offer": [
-          155
-        ],
-        "spatially": [
-          156
-        ],
-        "expansive": [
-          157
-        ],
-        "classified": [
-          158
-        ],
-        "provide": [
-          161
-        ],
-        "mineralogical": [
-          162,
-          198,
-          280
-        ],
-        "context": [
-          163
-        ],
-        "regionally": [
-          164
-        ],
-        "at": [
-          166
-        ],
-        "fine": [
-          168
-        ],
-        "resolution": [
-          169,
-          249
-        ],
-        "individual": [
-          171
-        ],
-        "megadunes.": [
-          172
-        ],
-        "Regional": [
-          173
-        ],
-        "are": [
-          175
-        ],
-        "mostly": [
-          176
-        ],
-        "consistent": [
-          177
-        ],
-        "spatial": [
-          180
-        ],
-        "distribution": [
-          181
-        ],
-        "mineral": [
-          183
-        ],
-        "phases": [
-          184
-        ],
-        "previously": [
-          185
-        ],
-        "defined": [
-          186
-        ],
-        "across": [
-          187
-        ],
-        "field,": [
-          190
-        ],
-        "highlighting": [
-          191
-        ],
-        "contemporary": [
-          193,
-          251,
-          263,
-          286
-        ],
-        "influx": [
-          194
-        ],
-        "sand": [
-          196
-        ],
-        "affinities": [
-          199
-        ],
-        "proximal": [
-          201
-        ],
-        "regions": [
-          203
-        ],
-        "imprint": [
-          205
-        ],
-        "locally.": [
-          206
-        ],
-        "challenge": [
-          208
-        ],
-        "prevailing": [
-          210
-        ],
-        "hypothesis": [
-          211
-        ],
-        "Al": [
-          214
-        ],
-        "Hajar": [
-          215
-        ],
-        "Mountains": [
-          216
-        ],
-        "north": [
-          219
-        ],
-        "is": [
-          224,
-          240
-        ],
-        "primary": [
-          226
-        ],
-        "supplier": [
-          227
-        ],
-        "quartz,": [
-          229
-        ],
-        "proposing": [
-          230
-        ],
-        "instead": [
-          231
-        ],
-        "siliciclastic‐rich": [
-          234
-        ],
-        "Huqf": [
-          235
-        ],
-        "Arch": [
-          236
-        ],
-        "in": [
-          237,
-          300
-        ],
-        "south": [
-          239
-        ],
-        "more": [
-          242
-        ],
-        "likely": [
-          243
-        ],
-        "contributor.": [
-          244
-        ],
-        "combined": [
-          246
-        ],
-        "scales": [
-          247
-        ],
-        "reveal": [
-          250,
-          282
-        ],
-        "megadune": [
-          252
-        ],
-        "deflation": [
-          253
-        ],
-        "reworking": [
-          256
-        ],
-        "contrasts": [
-          258
-        ],
-        "flux,": [
-          264
-        ],
-        "suggesting": [
-          265
-        ],
-        "dominant": [
-          267
-        ],
-        "subordinate": [
-          269
-        ],
-        "regional": [
-          270
-        ],
-        "wind": [
-          271
-        ],
-        "trends": [
+          84,
           272
         ],
-        "reversed": [
-          274
+        "confirmed": [
+          85
         ],
-        "during": [
-          275
+        "through": [
+          86
         ],
-        "glacial": [
-          276
+        "selective": [
+          87
         ],
-        "periods.": [
-          277
+        "surface": [
+          88
         ],
-        "Our": [
-          278
+        "sampling,": [
+          89
         ],
-        "detailed": [
-          279
+        "followed": [
+          90
         ],
-        "sensitivity": [
-          284
+        "by": [
+          91
         ],
-        "geomorphic": [
-          287
+        "petrographic": [
+          92
         ],
-        "surfaces": [
-          288
+        "analysis,": [
+          93
         ],
-        "local": [
-          290
+        "powder": [
+          94
         ],
-        "dynamics": [
-          292
+        "X‐ray": [
+          95
         ],
-        "highlight": [
-          294
+        "diffraction": [
+          96
         ],
-        "value": [
-          296
+        "grain‐size": [
+          98
         ],
-        "multi‐scale": [
+        "analysis.": [
+          99
+        ],
+        "We": [
+          100,
+          206
+        ],
+        "employed": [
+          101
+        ],
+        "spectral": [
+          103
+        ],
+        "angle": [
+          104
+        ],
+        "mapper": [
+          105
+        ],
+        "algorithm": [
+          106
+        ],
+        "(SAM)": [
+          107
+        ],
+        "band": [
+          109
+        ],
+        "ratio": [
+          110
+        ],
+        "analysis": [
+          111,
           298
         ],
+        "classify": [
+          113
+        ],
+        "WV‐3": [
+          115,
+          130
+        ],
+        "covered": [
+          116
+        ],
+        "megadunes,": [
+          117
+        ],
+        "validate": [
+          119
+        ],
+        "scenes": [
+          121,
+          158
+        ],
+        "with": [
+          122,
+          177,
+          196
+        ],
+        "ground": [
+          124
+        ],
+        "sample": [
+          125
+        ],
+        "data.": [
+          126
+        ],
+        "spectrally": [
+          128
+        ],
+        "superior": [
+          129
+        ],
+        "was": [
+          132
+        ],
+        "resampled": [
+          133
+        ],
+        "compared,": [
+          135
+        ],
+        "pixel‐for‐pixel,": [
+          136
+        ],
+        "against": [
+          137
+        ],
+        "SAM‐classified": [
+          139
+        ],
+        "Sentinel‐2": [
+          140
+        ],
+        "scene,": [
+          141
+        ],
+        "providing": [
+          142
+        ],
+        "framework": [
+          144
+        ],
+        "necessary": [
+          145
+        ],
+        "expand": [
+          147
+        ],
+        "observations": [
+          149,
+          173,
+          280
+        ],
+        "regionally.": [
+          150
+        ],
+        "resulting": [
+          152
+        ],
+        "datasets": [
+          153
+        ],
+        "offer": [
+          154
+        ],
+        "spatially": [
+          155
+        ],
+        "expansive": [
+          156
+        ],
+        "classified": [
+          157
+        ],
+        "provide": [
+          160
+        ],
+        "mineralogical": [
+          161,
+          197,
+          279
+        ],
+        "context": [
+          162
+        ],
+        "regionally": [
+          163
+        ],
+        "at": [
+          165
+        ],
+        "fine": [
+          167
+        ],
+        "resolution": [
+          168,
+          248
+        ],
+        "individual": [
+          170
+        ],
+        "megadunes.": [
+          171
+        ],
+        "Regional": [
+          172
+        ],
+        "are": [
+          174
+        ],
+        "mostly": [
+          175
+        ],
+        "consistent": [
+          176
+        ],
+        "spatial": [
+          179
+        ],
+        "distribution": [
+          180
+        ],
+        "mineral": [
+          182
+        ],
+        "phases": [
+          183
+        ],
+        "previously": [
+          184
+        ],
+        "defined": [
+          185
+        ],
+        "across": [
+          186
+        ],
+        "field,": [
+          189
+        ],
+        "highlighting": [
+          190
+        ],
+        "contemporary": [
+          192,
+          250,
+          262,
+          285
+        ],
+        "influx": [
+          193
+        ],
+        "sand": [
+          195
+        ],
+        "affinities": [
+          198
+        ],
+        "proximal": [
+          200
+        ],
+        "regions": [
+          202
+        ],
+        "imprint": [
+          204
+        ],
+        "locally.": [
+          205
+        ],
+        "challenge": [
+          207
+        ],
+        "prevailing": [
+          209
+        ],
+        "hypothesis": [
+          210
+        ],
+        "Al": [
+          213
+        ],
+        "Hajar": [
+          214
+        ],
+        "Mountains": [
+          215
+        ],
+        "north": [
+          218
+        ],
+        "is": [
+          223,
+          239
+        ],
+        "primary": [
+          225
+        ],
+        "supplier": [
+          226
+        ],
+        "quartz,": [
+          228
+        ],
+        "proposing": [
+          229
+        ],
+        "instead": [
+          230
+        ],
+        "siliciclastic‐rich": [
+          233
+        ],
+        "Huqf": [
+          234
+        ],
+        "Arch": [
+          235
+        ],
+        "in": [
+          236,
+          299
+        ],
+        "south": [
+          238
+        ],
+        "more": [
+          241
+        ],
+        "likely": [
+          242
+        ],
+        "contributor.": [
+          243
+        ],
+        "combined": [
+          245
+        ],
+        "scales": [
+          246
+        ],
+        "reveal": [
+          249,
+          281
+        ],
+        "megadune": [
+          251
+        ],
+        "deflation": [
+          252
+        ],
+        "reworking": [
+          255
+        ],
+        "contrasts": [
+          257
+        ],
+        "flux,": [
+          263
+        ],
+        "suggesting": [
+          264
+        ],
+        "dominant": [
+          266
+        ],
+        "subordinate": [
+          268
+        ],
+        "regional": [
+          269
+        ],
+        "wind": [
+          270
+        ],
+        "trends": [
+          271
+        ],
+        "reversed": [
+          273
+        ],
+        "during": [
+          274
+        ],
+        "glacial": [
+          275
+        ],
+        "periods.": [
+          276
+        ],
+        "Our": [
+          277
+        ],
+        "detailed": [
+          278
+        ],
+        "sensitivity": [
+          283
+        ],
+        "geomorphic": [
+          286
+        ],
+        "surfaces": [
+          287
+        ],
+        "local": [
+          289
+        ],
+        "dynamics": [
+          291
+        ],
+        "highlight": [
+          293
+        ],
+        "value": [
+          295
+        ],
+        "multi‐scale": [
+          297
+        ],
         "interpreting": [
-          301
+          300
         ],
         "evolution.": [
-          304
+          303
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4410788205",
@@ -3963,7 +3972,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-05-28T00:00:00"
     },
     {
@@ -4054,6 +4063,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed H. N. Al-Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Center, P.C. 611, Muscat P.O. Box 979, Oman"
@@ -4461,8 +4471,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -5416,6 +5426,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "R Hird",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
@@ -5441,6 +5452,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "MH Al Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
@@ -5467,12 +5479,12 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8679,
+      "fwci": 0.8588,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.73477104,
+        "value": 0.73274535,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5483,7 +5495,7 @@
       "biblio": {
         "volume": "15",
         "issue": "2",
-        "first_page": null,
+        "first_page": "56",
         "last_page": null
       },
       "is_retracted": false,
@@ -5790,8 +5802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -5854,7 +5866,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-04-20T00:00:00"
     },
     {
@@ -5945,6 +5957,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed H. N. Al-Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, P.C. 611, P.O.Box 979 Muscat, Oman"
@@ -6411,8 +6424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -7355,6 +7368,7 @@
             "FR"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Martin Pickford",
           "raw_affiliation_strings": [
             "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d’Histoire naturelle, CNRS, Sorbonne Université,"
@@ -7385,6 +7399,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
@@ -7410,6 +7425,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Rajhi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
@@ -7435,6 +7451,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Thuwaiba Al Marjibi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
@@ -7460,6 +7477,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Farida Al Rawahi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
@@ -7817,8 +7835,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf",
@@ -8108,6 +8126,7 @@
             "FR"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Audra",
           "raw_affiliation_strings": [
             "Université Côte d’Azur, Polytech’Lab - UPR 7498, 930 route des Colles, 06903, Sophia-Antipolis, France"
@@ -8135,6 +8154,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Al Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, PO Box 979, P.C. 611, Industrial Ghala, Muscat, Sultanate of Oman"
@@ -8163,12 +8183,12 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.434,
+      "fwci": 0.4294,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66881389,
+        "value": 0.66722666,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8179,7 +8199,7 @@
       "biblio": {
         "volume": "16",
         "issue": "8",
-        "first_page": null,
+        "first_page": "454",
         "last_page": null
       },
       "is_retracted": false,
@@ -8408,17 +8428,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -8464,7 +8484,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-07-07T00:00:00"
     },
     {
@@ -8541,6 +8561,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Dellmour, Rudolf",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-3784-0236",
@@ -8559,6 +8580,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Coco, Emily",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-8462-7713",
@@ -8578,6 +8600,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Samawi, Osama",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0009-0001-3693-1929",
@@ -8596,6 +8619,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Al Kindi, Mohammed",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
@@ -8621,6 +8645,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bebber, Michelle",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-6084-8420",
@@ -8639,6 +8664,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Metin, Eren",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-0849-2049",
@@ -8692,6 +8718,7 @@
             "CZ"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Garba, Roman",
           "raw_affiliation_strings": [
             "Czech Academy of Sciences, Institute of Archaeology, Prague",
@@ -8734,6 +8761,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Harzhauser, Mathias",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-4471-6655",
@@ -8752,6 +8780,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rose, Jeffrey Ian",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-0006-7064",
@@ -9116,9 +9145,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.53329998254776,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -9146,8 +9175,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9545,6 +9574,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Robert Hird",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
@@ -9585,6 +9615,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mei Yin",
           "raw_affiliation_strings": [
             "Department of Civil and Environmental Engineering, Howell Building, Brunel University London, Kingston Lane, Uxbridge, UB8 3P, Middlesex, UK"
@@ -9612,6 +9643,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed H. Al Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
@@ -9651,7 +9683,7 @@
       "biblio": {
         "volume": "15",
         "issue": "16",
-        "first_page": null,
+        "first_page": "1386",
         "last_page": null
       },
       "is_retracted": false,
@@ -9952,8 +9984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9998,7 +10030,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4293212965",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2022-08-27T00:00:00"
     },
     {
@@ -10075,6 +10107,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Pezzotta, Andrea",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10093,6 +10126,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Marinoni, Alessia",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10111,6 +10145,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Al Kindi, Mohammed",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10129,6 +10164,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Susini, Davide",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10145,6 +10181,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Turner, Sam",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10163,6 +10200,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Zucali, Michele",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10181,6 +10219,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Zerboni, Andrea",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10555,8 +10594,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11049,6 +11088,40 @@
             "IT"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Andrea Pezzotta",
           "raw_affiliation_strings": [
             "Università degli Studi di Milano, Milano, Italy"
@@ -11089,6 +11162,28 @@
             "IT"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Alessia Marinoni",
           "raw_affiliation_strings": [
             "Università degli Studi di Milano, Milano, Italy"
@@ -11116,6 +11211,24 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Mohammed Al Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Muscat, Sultanate of Oman"
@@ -11175,6 +11288,24 @@
             "IT"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Davide Susini",
           "raw_affiliation_strings": [
             "Institute of Environmental Geology and Geoengineering, National Research Council, Rome, Italy",
@@ -11223,6 +11354,24 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Sam Turner",
           "raw_affiliation_strings": [
             "Newcastle University, Newcastle, UK"
@@ -11263,6 +11412,28 @@
             "IT"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Michele Zucali",
           "raw_affiliation_strings": [
             "Università degli Studi di Milano, Milano, Italy"
@@ -11303,6 +11474,36 @@
             "IT"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Andrea Zerboni",
           "raw_affiliation_strings": [
             "Università degli Studi di Milano, Milano, Italy"
@@ -11350,7 +11551,7 @@
       "biblio": {
         "volume": "22",
         "issue": "1",
-        "first_page": null,
+        "first_page": "2649056",
         "last_page": null
       },
       "is_retracted": false,
@@ -11742,8 +11943,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -12188,7 +12389,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7155534781",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -12277,6 +12478,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed H. Al Kindi",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre  Muscat Oman"
@@ -12302,6 +12504,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Alan P. Heward",
           "raw_affiliation_strings": [
             "Coach House, Mortimer Lodge, Hanley Swan  Worcester UK"
@@ -12325,6 +12528,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lorraine B. Eglinton",
           "raw_affiliation_strings": [
             "Egs‐Ploration  St Gallenkappel Switzerland"
@@ -12348,6 +12552,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Steve R. Packer",
           "raw_affiliation_strings": [
             "Millennia SC Ltd  Wingrave UK"
@@ -12371,6 +12576,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Darrin T. Stead",
           "raw_affiliation_strings": [
             "Wellstrat Services Ltd  Wrexham UK"
@@ -12424,7 +12630,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9115999937057495,
+        "score": 0.9179999828338623,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -12442,7 +12648,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9115999937057495,
+          "score": 0.9179999828338623,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -12459,7 +12665,7 @@
         {
           "id": "https://openalex.org/T12218",
           "display_name": "Coal and Its By-products",
-          "score": 0.040699999779462814,
+          "score": 0.0357000008225441,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -12476,7 +12682,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.025699999183416367,
+          "score": 0.02539999969303608,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -12783,8 +12989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -12826,434 +13032,431 @@
       ],
       "abstract_inverted_index": {
         "1600": [
-          70
-        ],
-        "ABSTRACT": [
-          0
+          69
         ],
         "Two": [
-          1
+          0
         ],
         "brown": [
-          2
+          1
         ],
         "organic": [
-          3,
-          27,
-          106,
-          171
+          2,
+          26,
+          105,
+          170
         ],
         "deposits": [
-          4,
-          28,
-          124,
-          154,
-          172
+          3,
+          27,
+          123,
+          153,
+          171
         ],
         "were": [
-          5
+          4
         ],
         "encountered": [
-          6
+          5
         ],
         "whilst": [
-          7
+          6
         ],
         "investigating": [
-          8
+          7
         ],
         "kaolinitic": [
+          8,
+          79,
+          114
+        ],
+        "claystones": [
           9,
           80,
           115
         ],
-        "claystones": [
-          10,
-          81,
-          116
-        ],
         "thought": [
-          11
+          10
         ],
         "to": [
-          12,
-          68,
-          76,
-          84,
-          97,
-          122,
-          133,
-          152
-        ],
-        "occur": [
-          13,
-          126,
-          159
-        ],
-        "at": [
-          14,
-          21,
-          127
-        ],
-        "the": [
-          15,
-          61,
-          89,
-          92,
-          128,
-          131,
-          139,
-          181
-        ],
-        "base": [
-          16,
-          129
-        ],
-        "of": [
-          17,
-          25,
-          50,
-          91,
-          108,
-          130,
-          138,
-          155,
-          169
-        ],
-        "a": [
-          18,
-          55
-        ],
-        "Cambrian": [
-          19,
-          93
-        ],
-        "formation": [
-          20
-        ],
-        "outcrop.": [
-          22
-        ],
-        "The": [
-          23,
-          79
-        ],
-        "age": [
-          24,
-          157
-        ],
-        "these": [
-          26
-        ],
-        "is": [
-          29,
-          59
-        ],
-        "probably": [
-          30
-        ],
-        "Paleocene": [
-          31,
-          135,
-          156,
-          170
-        ],
-        "from": [
-          32,
-          88,
-          185
-        ],
-        "palynology.": [
-          33
-        ],
-        "Organic": [
-          34
-        ],
-        "petrography": [
-          35
-        ],
-        "shows": [
-          36
-        ],
-        "that": [
-          37,
-          58,
-          166
-        ],
-        "they": [
-          38
-        ],
-        "are": [
-          39,
-          82,
-          180
-        ],
-        "subbituminous": [
-          40
-        ],
-        "coals": [
-          41,
-          118
-        ],
-        "with": [
-          42,
-          105
-        ],
-        "some": [
-          43
-        ],
-        "oil": [
-          44,
-          63
-        ],
-        "source": [
-          45
-        ],
-        "potential.": [
-          46
-        ],
-        "Vitrinite": [
-          47
-        ],
-        "reflectance": [
-          48
-        ],
-        "measurements": [
-          49
-        ],
-        "0.53–0.56%": [
-          51
-        ],
-        "R": [
-          52
-        ],
-        "o": [
-          53
-        ],
-        "indicate": [
-          54
-        ],
-        "thermal": [
-          56
-        ],
-        "maturity": [
-          57
-        ],
-        "approaching": [
-          60
-        ],
-        "early": [
-          62,
-          132
-        ],
-        "window": [
-          64
-        ],
-        "and": [
-          65,
-          72,
+          11,
+          67,
+          75,
+          83,
           96,
-          111,
-          117,
-          187
-        ],
-        "imply": [
-          66
-        ],
-        "burial": [
-          67
-        ],
-        "about": [
-          69
-        ],
-        "m": [
-          71
-        ],
-        "subsequent": [
-          73
-        ],
-        "uplift": [
-          74
-        ],
-        "back": [
-          75
-        ],
-        "near": [
-          77
-        ],
-        "surface.": [
-          78
-        ],
-        "interpreted": [
-          83
-        ],
-        "have": [
-          85,
-          98
-        ],
-        "been": [
-          86
-        ],
-        "weathered": [
-          87
-        ],
-        "outcrops": [
-          90
-        ],
-        "Thumaylah": [
-          94
-        ],
-        "Formation": [
-          95,
-          143
-        ],
-        "accumulated": [
-          99
-        ],
-        "in": [
-          100,
-          144,
-          176
-        ],
-        "small": [
-          101
-        ],
-        "terrestrial": [
-          102,
-          123
-        ],
-        "basins": [
-          103
-        ],
-        "along": [
-          104
-        ],
-        "matter": [
-          107
-        ],
-        "both": [
-          109
-        ],
-        "allochthonous": [
-          110
-        ],
-        "autochthonous": [
-          112
-        ],
-        "origin.": [
-          113
-        ],
-        "These": [
-          114
-        ],
-        "may": [
-          119,
-          148
-        ],
-        "be": [
-          120,
-          150,
-          174
-        ],
-        "equivalent": [
           121,
+          132,
           151
         ],
-        "which": [
+        "occur": [
+          12,
           125,
           158
         ],
-        "middle": [
-          134
+        "at": [
+          13,
+          20,
+          126
         ],
-        "Shammar": [
-          136
+        "the": [
+          14,
+          60,
+          88,
+          91,
+          127,
+          130,
+          138,
+          180
         ],
-        "Member": [
-          137
+        "base": [
+          15,
+          128
         ],
-        "Umm": [
-          140
-        ],
-        "er": [
-          141
-        ],
-        "Radhuma": [
-          142
-        ],
-        "northwest": [
-          145
-        ],
-        "Oman.": [
-          146
-        ],
-        "They": [
-          147
-        ],
-        "also": [
-          149
-        ],
-        "kaolinite": [
-          153
-        ],
-        "on": [
-          160
-        ],
-        "Masirah": [
-          161
-        ],
-        "Island.": [
-          162
-        ],
-        "It": [
-          163
-        ],
-        "seems": [
-          164
-        ],
-        "likely": [
-          165
-        ],
-        "further": [
-          167
-        ],
-        "evidence": [
+        "of": [
+          16,
+          24,
+          49,
+          90,
+          107,
+          129,
+          137,
+          154,
           168
         ],
-        "will": [
-          173
+        "a": [
+          17,
+          54
         ],
-        "discovered": [
-          175
+        "Cambrian": [
+          18,
+          92
         ],
-        "Oman": [
-          177
+        "formation": [
+          19
         ],
-        "where": [
-          178
+        "outcrop.": [
+          21
         ],
-        "there": [
-          179
+        "The": [
+          22,
+          78
         ],
-        "conditions": [
-          182
+        "age": [
+          23,
+          156
         ],
-        "for": [
-          183
+        "these": [
+          25
         ],
-        "preservation": [
+        "is": [
+          28,
+          58
+        ],
+        "probably": [
+          29
+        ],
+        "Paleocene": [
+          30,
+          134,
+          155,
+          169
+        ],
+        "from": [
+          31,
+          87,
           184
         ],
-        "erosion": [
+        "palynology.": [
+          32
+        ],
+        "Organic": [
+          33
+        ],
+        "petrography": [
+          34
+        ],
+        "shows": [
+          35
+        ],
+        "that": [
+          36,
+          57,
+          165
+        ],
+        "they": [
+          37
+        ],
+        "are": [
+          38,
+          81,
+          179
+        ],
+        "subbituminous": [
+          39
+        ],
+        "coals": [
+          40,
+          117
+        ],
+        "with": [
+          41,
+          104
+        ],
+        "some": [
+          42
+        ],
+        "oil": [
+          43,
+          62
+        ],
+        "source": [
+          44
+        ],
+        "potential.": [
+          45
+        ],
+        "Vitrinite": [
+          46
+        ],
+        "reflectance": [
+          47
+        ],
+        "measurements": [
+          48
+        ],
+        "0.53–0.56%": [
+          50
+        ],
+        "R": [
+          51
+        ],
+        "o": [
+          52
+        ],
+        "indicate": [
+          53
+        ],
+        "thermal": [
+          55
+        ],
+        "maturity": [
+          56
+        ],
+        "approaching": [
+          59
+        ],
+        "early": [
+          61,
+          131
+        ],
+        "window": [
+          63
+        ],
+        "and": [
+          64,
+          71,
+          95,
+          110,
+          116,
           186
         ],
+        "imply": [
+          65
+        ],
+        "burial": [
+          66
+        ],
+        "about": [
+          68
+        ],
+        "m": [
+          70
+        ],
+        "subsequent": [
+          72
+        ],
+        "uplift": [
+          73
+        ],
+        "back": [
+          74
+        ],
+        "near": [
+          76
+        ],
+        "surface.": [
+          77
+        ],
+        "interpreted": [
+          82
+        ],
+        "have": [
+          84,
+          97
+        ],
+        "been": [
+          85
+        ],
+        "weathered": [
+          86
+        ],
+        "outcrops": [
+          89
+        ],
+        "Thumaylah": [
+          93
+        ],
+        "Formation": [
+          94,
+          142
+        ],
+        "accumulated": [
+          98
+        ],
+        "in": [
+          99,
+          143,
+          175
+        ],
+        "small": [
+          100
+        ],
+        "terrestrial": [
+          101,
+          122
+        ],
+        "basins": [
+          102
+        ],
+        "along": [
+          103
+        ],
+        "matter": [
+          106
+        ],
+        "both": [
+          108
+        ],
+        "allochthonous": [
+          109
+        ],
+        "autochthonous": [
+          111
+        ],
+        "origin.": [
+          112
+        ],
+        "These": [
+          113
+        ],
+        "may": [
+          118,
+          147
+        ],
+        "be": [
+          119,
+          149,
+          173
+        ],
+        "equivalent": [
+          120,
+          150
+        ],
+        "which": [
+          124,
+          157
+        ],
+        "middle": [
+          133
+        ],
+        "Shammar": [
+          135
+        ],
+        "Member": [
+          136
+        ],
+        "Umm": [
+          139
+        ],
+        "er": [
+          140
+        ],
+        "Radhuma": [
+          141
+        ],
+        "northwest": [
+          144
+        ],
+        "Oman.": [
+          145
+        ],
+        "They": [
+          146
+        ],
+        "also": [
+          148
+        ],
+        "kaolinite": [
+          152
+        ],
+        "on": [
+          159
+        ],
+        "Masirah": [
+          160
+        ],
+        "Island.": [
+          161
+        ],
+        "It": [
+          162
+        ],
+        "seems": [
+          163
+        ],
+        "likely": [
+          164
+        ],
+        "further": [
+          166
+        ],
+        "evidence": [
+          167
+        ],
+        "will": [
+          172
+        ],
+        "discovered": [
+          174
+        ],
+        "Oman": [
+          176
+        ],
+        "where": [
+          177
+        ],
+        "there": [
+          178
+        ],
+        "conditions": [
+          181
+        ],
+        "for": [
+          182
+        ],
+        "preservation": [
+          183
+        ],
+        "erosion": [
+          185
+        ],
         "oxidation.": [
-          188
+          187
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162646169",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-05-29T00:00:00"
     }
   ]

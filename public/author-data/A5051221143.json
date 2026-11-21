@@ -12,7 +12,7 @@
     ],
     "full_name": "Rabah Alouani",
     "works_count": 45,
-    "cited_by_count": 240,
+    "cited_by_count": 241,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 7,
@@ -198,7 +198,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001655,
+        "value": 0.0001654,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000566,
+        "value": 0.0000525,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -232,7 +232,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000401,
+        "value": 0.0000378,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -249,7 +249,7 @@
       {
         "id": "https://openalex.org/T11672",
         "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-        "value": 0.0000271,
+        "value": 0.0000272,
         "subfield": {
           "id": "https://openalex.org/subfields/2215",
           "display_name": "Building and Construction"
@@ -266,7 +266,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000158,
+        "value": 0.0000159,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -444,7 +444,7 @@
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 26
+        "cited_by_count": 27
       }
     ],
     "display_name_alternatives": [
@@ -457,7 +457,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5051221143",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-20T12:36:48",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -564,6 +564,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Benmohamed",
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna, 7021 Bizerte, Tunisia",
@@ -607,6 +608,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna, 7021 Bizerte, Tunisia"
@@ -632,6 +634,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Amel Jmayai",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia"
@@ -658,6 +661,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdesslem Ben Haj Amara",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia"
@@ -683,6 +687,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hafsia Ben Rhaiem",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia"
@@ -713,12 +718,12 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 0.9775,
+      "fwci": 0.9694,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.76000366,
+        "value": 0.75754928,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1021,37 +1026,6 @@
           "raw_type": "Text"
         },
         {
-          "id": "pmid:27313617",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/27313617",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International journal of analytical chemistry",
-          "raw_type": "Journal Article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:4897671",
           "doi": null,
           "is_oa": true,
@@ -1081,6 +1055,37 @@
           "is_published": true,
           "raw_source_name": "Int J Anal Chem",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmid:27313617",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/27313617",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International journal of analytical chemistry",
+          "raw_type": "Journal Article"
         },
         {
           "id": "pmh:oai:doaj.org/article:5a913c462132460cb3d22fdcefc9a7e5",
@@ -1584,7 +1589,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1691,6 +1696,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "S. Tlig",
           "raw_affiliation_strings": [
             "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia"
@@ -1740,6 +1746,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Sahli",
           "raw_affiliation_strings": [
             "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia"
@@ -1789,6 +1796,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "L. Er-Raioui",
           "raw_affiliation_strings": [
             "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia"
@@ -1838,6 +1846,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [
             "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia"
@@ -1864,6 +1873,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. Mzoughi",
           "raw_affiliation_strings": [
             "Entreprise Tunisienne des Activités Pétrolières, 27bis Avenue Kheireddine Pacha, BP 367, 1002 Tunis, Tunisia"
@@ -2475,6 +2485,7 @@
             "MA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "F. Talbi",
           "raw_affiliation_strings": [
             "Faculté des Sciences , Département de Géologie , B.P. 524 , 60000 Oujda / Maroc ;",
@@ -2522,6 +2533,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "F. Melki",
           "raw_affiliation_strings": [
             "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
@@ -2567,6 +2579,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "K. Ben Ismail-Lattrache",
           "raw_affiliation_strings": [
             "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
@@ -2599,6 +2612,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [
             "Faculté des Sciences , Département de Géologie , Bizerte / Tunisie ",
@@ -2640,6 +2654,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Tlig",
           "raw_affiliation_strings": [
             "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
@@ -3484,1259 +3499,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4403532362",
-      "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-      "title": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
-      "display_name": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
-      "alternate_titles": [],
-      "publication_year": 2024,
-      "publication_date": "2024-10-18",
-      "ids": {
-        "openalex": "https://openalex.org/W4403532362",
-        "doi": "https://doi.org/10.1007/s13369-024-09688-x"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s13369-024-09688-x",
-        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
-        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210185304",
-          "display_name": "Arabian Journal for Science and Engineering",
-          "issn_l": "1319-8025",
-          "issn": [
-            "1319-8025",
-            "2191-4281",
-            "2193-567X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal for Science and Engineering",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W4403532362"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5114319167",
-            "display_name": "Chaima Ayadi",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Chaima Ayadi",
-          "raw_affiliation_strings": [
-            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rabah Alouani",
-          "raw_affiliation_strings": [
-            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017096272",
-            "display_name": "Kais Nahdi",
-            "orcid": "https://orcid.org/0000-0001-8061-0332",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8061-0332"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kais Nahdi",
-          "raw_affiliation_strings": [
-            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5023620157",
-            "display_name": "Dolores Eliche‐Quesada",
-            "orcid": "https://orcid.org/0000-0003-3803-9595",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3803-9595"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I191420491",
-              "display_name": "Universidad de Jaén",
-              "ror": "https://ror.org/0122p5f64",
-              "country_code": "ES",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191420491"
-              ]
-            }
-          ],
-          "countries": [
-            "ES"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Dolores Eliche-Quesada",
-          "raw_affiliation_strings": [
-            "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
-            "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-3803-9595",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
-              "institution_ids": [
-                "https://openalex.org/I191420491"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain",
-              "institution_ids": [
-                "https://openalex.org/I191420491"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5023620157"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I191420491"
-      ],
-      "apc_list": {
-        "value": 3390,
-        "currency": "USD",
-        "value_usd": 3390
-      },
-      "apc_paid": {
-        "value": 3390,
-        "currency": "USD",
-        "value_usd": 3390
-      },
-      "fwci": 0.8345,
-      "is_authors_truncated": false,
-      "has_fulltext": true,
-      "cited_by_count": 6,
-      "citation_normalized_percentile": {
-        "value": 0.68076116,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 92,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "50",
-        "issue": "18",
-        "first_page": "14909",
-        "last_page": "14929"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11672",
-        "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2215",
-          "display_name": "Building and Construction"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11672",
-          "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2215",
-            "display_name": "Building and Construction"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12105",
-          "display_name": "Hygrothermal properties of building materials",
-          "score": 0.00019999999494757503,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2215",
-            "display_name": "Building and Construction"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13140",
-          "display_name": "Materials Engineering and Processing",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2215",
-            "display_name": "Building and Construction"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/oily-wastewater-treatment",
-          "display_name": "oily wastewater treatment",
-          "score": 0.8180000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/olive-mill-wastewater",
-          "display_name": "olive mill wastewater",
-          "score": 0.8930000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/lubricating-oil",
-          "display_name": "lubricating oil",
-          "score": 0.8690000176429749
-        },
-        {
-          "id": "https://openalex.org/keywords/motor-oil",
-          "display_name": "engine oil",
-          "score": 0.9909999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/fired-clay-bricks",
-          "display_name": "ceramic bricks",
-          "score": 0.9259999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/kaolinite",
-          "display_name": "kaolinite",
-          "score": 0.8920000195503235
-        },
-        {
-          "id": "https://openalex.org/keywords/smectite",
-          "display_name": "smectite",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/filtration",
-          "display_name": "filtration",
-          "score": 0.36899998784065247
-        },
-        {
-          "id": "https://openalex.org/keywords/compressive-strength",
-          "display_name": "compressive strength",
-          "score": 0.7160000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "porosity",
-          "score": 0.6890000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/water-uptake",
-          "display_name": "water absorption",
-          "score": 0.8560000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/thermal-conductivity",
-          "display_name": "thermal conductivity",
-          "score": 0.9020000100135803
-        },
-        {
-          "id": "https://openalex.org/keywords/sintering-microstructure",
-          "display_name": "sintering microstructure",
-          "score": 0.7369999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/circular-economy",
-          "display_name": "circular economy",
-          "score": 0.7960000038146973
-        },
-        {
-          "id": "https://openalex.org/keywords/building-materials",
-          "display_name": "building materials",
-          "score": 0.6100000143051147
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.5556144118309021
-        },
-        {
-          "id": "https://openalex.org/C94061648",
-          "wikidata": "https://www.wikidata.org/wiki/Q336191",
-          "display_name": "Wastewater",
-          "level": 2,
-          "score": 0.5303438901901245
-        },
-        {
-          "id": "https://openalex.org/C57442070",
-          "wikidata": "https://www.wikidata.org/wiki/Q221275",
-          "display_name": "Sewage treatment",
-          "level": 2,
-          "score": 0.44316476583480835
-        },
-        {
-          "id": "https://openalex.org/C528095902",
-          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
-          "display_name": "Pulp and paper industry",
-          "level": 1,
-          "score": 0.4127749502658844
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.39399784803390503
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.36244961619377136
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s13369-024-09688-x",
-          "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
-          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-          "source": {
-            "id": "https://openalex.org/S4210185304",
-            "display_name": "Arabian Journal for Science and Engineering",
-            "issn_l": "1319-8025",
-            "issn": [
-              "1319-8025",
-              "2191-4281",
-              "2193-567X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1",
-              "poland-40",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Arabian Journal for Science and Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1007/s13369-024-09688-x",
-        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
-        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210185304",
-          "display_name": "Arabian Journal for Science and Engineering",
-          "issn_l": "1319-8025",
-          "issn": [
-            "1319-8025",
-            "2191-4281",
-            "2193-567X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal for Science and Engineering",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 1
-        },
-        {
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
-        },
-        {
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4943999946117401
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320319409",
-          "display_name": "University of Carthage",
-          "ror": "https://ror.org/057x6za15"
-        },
-        {
-          "id": "https://openalex.org/F4320324132",
-          "display_name": "Universidad de Jaén",
-          "ror": "https://ror.org/0122p5f64"
-        },
-        {
-          "id": "https://openalex.org/F4320326754",
-          "display_name": "Junta de Andalucía",
-          "ror": "https://ror.org/01jem9c82"
-        },
-        {
-          "id": "https://openalex.org/F4320335548",
-          "display_name": "Centro de Instrumentación Científico-Técnica, Universidad de Jaén",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4403532362.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4403532362.grobid-xml"
-      },
-      "referenced_works_count": 45,
-      "referenced_works": [
-        "https://openalex.org/W69938921",
-        "https://openalex.org/W766537028",
-        "https://openalex.org/W1478516634",
-        "https://openalex.org/W1983077650",
-        "https://openalex.org/W1997740384",
-        "https://openalex.org/W2010777344",
-        "https://openalex.org/W2011254107",
-        "https://openalex.org/W2011607327",
-        "https://openalex.org/W2025755113",
-        "https://openalex.org/W2031473798",
-        "https://openalex.org/W2046112298",
-        "https://openalex.org/W2046710916",
-        "https://openalex.org/W2071478430",
-        "https://openalex.org/W2088354348",
-        "https://openalex.org/W2091915620",
-        "https://openalex.org/W2092890907",
-        "https://openalex.org/W2136704208",
-        "https://openalex.org/W2152947915",
-        "https://openalex.org/W2181039106",
-        "https://openalex.org/W2197056839",
-        "https://openalex.org/W2197874861",
-        "https://openalex.org/W2254296158",
-        "https://openalex.org/W2421079803",
-        "https://openalex.org/W2478335872",
-        "https://openalex.org/W2761932274",
-        "https://openalex.org/W2766283369",
-        "https://openalex.org/W2767404428",
-        "https://openalex.org/W2773932400",
-        "https://openalex.org/W2800232025",
-        "https://openalex.org/W2884297965",
-        "https://openalex.org/W2895879551",
-        "https://openalex.org/W2947526737",
-        "https://openalex.org/W2969503913",
-        "https://openalex.org/W3022301616",
-        "https://openalex.org/W3111011364",
-        "https://openalex.org/W3159601436",
-        "https://openalex.org/W3199684706",
-        "https://openalex.org/W4221035788",
-        "https://openalex.org/W4231665815",
-        "https://openalex.org/W4242742159",
-        "https://openalex.org/W4381740951",
-        "https://openalex.org/W4386156551",
-        "https://openalex.org/W4394836334",
-        "https://openalex.org/W4398768458",
-        "https://openalex.org/W7151694035"
-      ],
-      "related_works": [
-        "https://openalex.org/W1998481673",
-        "https://openalex.org/W4242607343",
-        "https://openalex.org/W2088354348",
-        "https://openalex.org/W2022632280",
-        "https://openalex.org/W2048111216",
-        "https://openalex.org/W7027768185",
-        "https://openalex.org/W2060831491",
-        "https://openalex.org/W2979002841",
-        "https://openalex.org/W2254296158",
-        "https://openalex.org/W2011607327"
-      ],
-      "abstract_inverted_index": {
-        "900": [
-          88
-        ],
-        "Abstract": [
-          0
-        ],
-        "The": [
-          1,
-          100,
-          118,
-          135,
-          156
-        ],
-        "aim": [
-          2
-        ],
-        "of": [
-          3,
-          11,
-          18,
-          36,
-          41,
-          71,
-          84,
-          125,
-          132,
-          137,
-          158,
-          164,
-          209,
-          215,
-          226,
-          243,
-          248
-        ],
-        "this": [
-          4,
-          228
-        ],
-        "research": [
-          5
-        ],
-        "is": [
-          6
-        ],
-        "to": [
-          7,
-          142,
-          181,
-          199,
-          253
-        ],
-        "study": [
-          8
-        ],
-        "the": [
-          9,
-          16,
-          34,
-          76,
-          82,
-          122,
-          129,
-          133,
-          162,
-          191,
-          200,
-          207,
-          213,
-          233,
-          241
-        ],
-        "feasibility": [
-          10
-        ],
-        "using": [
-          12
-        ],
-        "clays": [
-          13,
-          42,
-          67,
-          159,
-          210
-        ],
-        "used": [
-          14,
-          44,
-          80,
-          127,
-          160,
-          211
-        ],
-        "in": [
-          15,
-          33,
-          81,
-          161,
-          171,
-          184,
-          190,
-          212
-        ],
-        "decontamination": [
-          17,
-          163
-        ],
-        "wastewater": [
-          19,
-          23
-        ],
-        "containing": [
-          20,
-          68,
-          166
-        ],
-        "olive": [
-          21
-        ],
-        "oil": [
-          22,
-          27,
-          31
-        ],
-        "(OOW),": [
-          24
-        ],
-        "new": [
-          25
-        ],
-        "lubricating": [
-          26
-        ],
-        "(NOW)": [
-          28
-        ],
-        "or": [
-          29
-        ],
-        "motor": [
-          30
-        ],
-        "(MOW)": [
-          32
-        ],
-        "manufacture": [
-          35,
-          83
-        ],
-        "ceramic": [
-          37
-        ],
-        "bricks.": [
-          38,
-          134
-        ],
-        "Three": [
-          39
-        ],
-        "types": [
-          40,
-          70
-        ],
-        "were": [
-          43,
-          79,
-          92
-        ],
-        "for": [
-          45,
-          240
-        ],
-        "filtration,": [
-          46
-        ],
-        "kaolinite": [
-          47
-        ],
-        "type": [
-          48,
-          52,
-          124
-        ],
-        "clay": [
-          49,
-          53,
-          61,
-          126,
-          139
-        ],
-        "(KT),": [
-          50
-        ],
-        "smectite": [
-          51
-        ],
-        "(CT)": [
-          54
-        ],
-        "both": [
-          55
-        ],
-        "from": [
-          56,
-          63
-        ],
-        "Tunisia": [
-          57
-        ],
-        "and": [
-          58,
-          97,
-          113,
-          149,
-          153,
-          176,
-          179,
-          187,
-          236
-        ],
-        "illitic": [
-          59
-        ],
-        "chloritic": [
-          60
-        ],
-        "(CS)": [
-          62
-        ],
-        "Jaén": [
-          64
-        ],
-        "(Spain).": [
-          65
-        ],
-        "These": [
-          66,
-          90
-        ],
-        "different": [
-          69,
-          219
-        ],
-        "oils,": [
-          72
-        ],
-        "as": [
-          73,
-          75
-        ],
-        "well": [
-          74
-        ],
-        "control": [
-          77
-        ],
-        "clays,": [
-          78
-        ],
-        "bricks": [
-          85,
-          91
-        ],
-        "fired": [
-          86
-        ],
-        "at": [
-          87
-        ],
-        "°C.": [
-          89
-        ],
-        "characterized": [
-          93
-        ],
-        "by": [
-          94,
-          106
-        ],
-        "physical,": [
-          95
-        ],
-        "mechanical": [
-          96
-        ],
-        "thermal": [
-          98,
-          177,
-          249
-        ],
-        "tests.": [
-          99
-        ],
-        "sintered": [
-          101
-        ],
-        "microstructure’s": [
-          102
-        ],
-        "evolution": [
-          103
-        ],
-        "was": [
-          104
-        ],
-        "followed": [
-          105
-        ],
-        "tracked": [
-          107
-        ],
-        "through": [
-          108
-        ],
-        "scanning": [
-          109
-        ],
-        "electron": [
-          110
-        ],
-        "microscopy": [
-          111
-        ],
-        "(SEM)": [
-          112
-        ],
-        "X-ray": [
-          114
-        ],
-        "diffraction": [
-          115
-        ],
-        "analysis": [
-          116
-        ],
-        "(XRD).": [
-          117
-        ],
-        "results": [
-          119
-        ],
-        "indicate": [
-          120
-        ],
-        "that": [
-          121,
-          217
-        ],
-        "specific": [
-          123
-        ],
-        "influences": [
-          128
-        ],
-        "technological": [
-          130
-        ],
-        "characteristics": [
-          131
-        ],
-        "use": [
-          136,
-          157,
-          208
-        ],
-        "CT": [
-          138
-        ],
-        "gives": [
-          140
-        ],
-        "rise": [
-          141
-        ],
-        "increase": [
-          143,
-          183
-        ],
-        "bulk": [
-          144,
-          172
-        ],
-        "density,": [
-          145,
-          173
-        ],
-        "greater": [
-          146
-        ],
-        "compressive": [
-          147,
-          174
-        ],
-        "strength,": [
-          148
-        ],
-        "reduced": [
-          150
-        ],
-        "apparent": [
-          151,
-          185
-        ],
-        "porosity": [
-          152,
-          186
-        ],
-        "water": [
-          154,
-          165,
-          188,
-          216
-        ],
-        "absorption.": [
-          155
-        ],
-        "oils": [
-          167,
-          220
-        ],
-        "produced": [
-          168
-        ],
-        "a": [
-          169,
-          223,
-          254
-        ],
-        "decrease": [
-          170
-        ],
-        "strength": [
-          175
-        ],
-        "conductivity": [
-          178
-        ],
-        "leads": [
-          180
-        ],
-        "an": [
-          182
-        ],
-        "absorption": [
-          189
-        ],
-        "order": [
-          192
-        ],
-        "OOW": [
-          193
-        ],
-        ">": [
-          194,
-          196
-        ],
-        "NOW": [
-          195
-        ],
-        "MOW": [
-          197
-        ],
-        "according": [
-          198
-        ],
-        "total": [
-          201
-        ],
-        "organic": [
-          202
-        ],
-        "carbon": [
-          203
-        ],
-        "content": [
-          204
-        ],
-        "(TOC).": [
-          205
-        ],
-        "Therefore,": [
-          206
-        ],
-        "filtration": [
-          214
-        ],
-        "contain": [
-          218
-        ],
-        "can": [
-          221,
-          231
-        ],
-        "represent": [
-          222
-        ],
-        "promising": [
-          224
-        ],
-        "way": [
-          225
-        ],
-        "valorizing": [
-          227
-        ],
-        "waste,": [
-          229
-        ],
-        "which": [
-          230
-        ],
-        "alleviate": [
-          232
-        ],
-        "environmental": [
-          234
-        ],
-        "impact": [
-          235
-        ],
-        "represents": [
-          237
-        ],
-        "economic": [
-          238
-        ],
-        "savings": [
-          239
-        ],
-        "industry": [
-          242
-        ],
-        "construction": [
-          244
-        ],
-        "materials": [
-          245
-        ],
-        "with": [
-          246
-        ],
-        "properties": [
-          247
-        ],
-        "insulation,": [
-          250
-        ],
-        "getting": [
-          251
-        ],
-        "closer": [
-          252
-        ],
-        "circular": [
-          255
-        ],
-        "economy.": [
-          256
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4403532362",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-16T12:05:36.265796",
-      "created_date": "2024-10-19T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2140958647",
       "doi": "https://doi.org/10.1016/j.jafrearsci.2006.09.002",
       "title": "Seismic stratigraphy, tectonics and depositional history in the Halk el Menzel region, NE Tunisia",
@@ -4839,6 +3601,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Kawthar Sebei",
           "raw_affiliation_strings": [
             "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
@@ -4879,6 +3642,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Hédi Inoubli",
           "raw_affiliation_strings": [
             "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
@@ -4919,6 +3683,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Haïfa Boussiga",
           "raw_affiliation_strings": [
             "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
@@ -4957,6 +3722,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Said Tlig",
           "raw_affiliation_strings": [
             "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
@@ -4982,6 +3748,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Département de géologie, Faculté des Sciences de Bizerte, Tunisia"
@@ -5005,6 +3772,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mustapha Boujamaoui",
           "raw_affiliation_strings": [
             "Département de géologie, Faculté des Sciences et Technique. Errachidia, Morocco"
@@ -5535,6 +4303,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Imen Hamdi Nasr",
           "raw_affiliation_strings": [
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -5589,6 +4358,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdelhamid Ben Salem",
           "raw_affiliation_strings": [
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -5645,6 +4415,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Hedi Inoubli",
           "raw_affiliation_strings": [
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -5699,6 +4470,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jamel Dhifi",
           "raw_affiliation_strings": [
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -5753,6 +4525,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -5807,6 +4580,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "abdelhak Chaqui",
           "raw_affiliation_strings": [
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -5851,6 +4625,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Vincent Perthuisot",
           "raw_affiliation_strings": [
             "Ecole Polytechnique d’Orléans, Orléans, France"
@@ -6255,6 +5030,1260 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4403532362",
+      "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+      "title": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
+      "display_name": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
+      "alternate_titles": [],
+      "publication_year": 2024,
+      "publication_date": "2024-10-18",
+      "ids": {
+        "openalex": "https://openalex.org/W4403532362",
+        "doi": "https://doi.org/10.1007/s13369-024-09688-x"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s13369-024-09688-x",
+        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210185304",
+          "display_name": "Arabian Journal for Science and Engineering",
+          "issn_l": "1319-8025",
+          "issn": [
+            "1319-8025",
+            "2191-4281",
+            "2193-567X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal for Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4403532362"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5114319167",
+            "display_name": "Chaima Ayadi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Chaima Ayadi",
+          "raw_affiliation_strings": [
+            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Rabah Alouani",
+          "raw_affiliation_strings": [
+            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017096272",
+            "display_name": "Kais Nahdi",
+            "orcid": "https://orcid.org/0000-0001-8061-0332",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8061-0332"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Kais Nahdi",
+          "raw_affiliation_strings": [
+            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5023620157",
+            "display_name": "Dolores Eliche‐Quesada",
+            "orcid": "https://orcid.org/0000-0003-3803-9595",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3803-9595"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I191420491",
+              "display_name": "Universidad de Jaén",
+              "ror": "https://ror.org/0122p5f64",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191420491"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Dolores Eliche-Quesada",
+          "raw_affiliation_strings": [
+            "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
+            "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3803-9595",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
+              "institution_ids": [
+                "https://openalex.org/I191420491"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain",
+              "institution_ids": [
+                "https://openalex.org/I191420491"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5023620157"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I191420491"
+      ],
+      "apc_list": {
+        "value": 3390,
+        "currency": "USD",
+        "value_usd": 3390
+      },
+      "apc_paid": {
+        "value": 3390,
+        "currency": "USD",
+        "value_usd": 3390
+      },
+      "fwci": 0.8287,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.67974244,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 92,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "50",
+        "issue": "18",
+        "first_page": "14909",
+        "last_page": "14929"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11672",
+        "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2215",
+          "display_name": "Building and Construction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11672",
+          "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12105",
+          "display_name": "Hygrothermal properties of building materials",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13140",
+          "display_name": "Materials Engineering and Processing",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/oily-wastewater-treatment",
+          "display_name": "oily wastewater treatment",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/olive-mill-wastewater",
+          "display_name": "olive mill wastewater",
+          "score": 0.8930000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/lubricating-oil",
+          "display_name": "lubricating oil",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/motor-oil",
+          "display_name": "engine oil",
+          "score": 0.9909999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/fired-clay-bricks",
+          "display_name": "ceramic bricks",
+          "score": 0.9259999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/kaolinite",
+          "display_name": "kaolinite",
+          "score": 0.8920000195503235
+        },
+        {
+          "id": "https://openalex.org/keywords/smectite",
+          "display_name": "smectite",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/filtration",
+          "display_name": "filtration",
+          "score": 0.36899998784065247
+        },
+        {
+          "id": "https://openalex.org/keywords/compressive-strength",
+          "display_name": "compressive strength",
+          "score": 0.7160000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.6890000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/water-uptake",
+          "display_name": "water absorption",
+          "score": 0.8560000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-conductivity",
+          "display_name": "thermal conductivity",
+          "score": 0.9020000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/sintering-microstructure",
+          "display_name": "sintering microstructure",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/circular-economy",
+          "display_name": "circular economy",
+          "score": 0.7960000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/building-materials",
+          "display_name": "building materials",
+          "score": 0.6100000143051147
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.5556144118309021
+        },
+        {
+          "id": "https://openalex.org/C94061648",
+          "wikidata": "https://www.wikidata.org/wiki/Q336191",
+          "display_name": "Wastewater",
+          "level": 2,
+          "score": 0.5303438901901245
+        },
+        {
+          "id": "https://openalex.org/C57442070",
+          "wikidata": "https://www.wikidata.org/wiki/Q221275",
+          "display_name": "Sewage treatment",
+          "level": 2,
+          "score": 0.44316476583480835
+        },
+        {
+          "id": "https://openalex.org/C528095902",
+          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
+          "display_name": "Pulp and paper industry",
+          "level": 1,
+          "score": 0.4127749502658844
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.39399784803390503
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.36244961619377136
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s13369-024-09688-x",
+          "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210185304",
+            "display_name": "Arabian Journal for Science and Engineering",
+            "issn_l": "1319-8025",
+            "issn": [
+              "1319-8025",
+              "2191-4281",
+              "2193-567X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Arabian Journal for Science and Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s13369-024-09688-x",
+        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210185304",
+          "display_name": "Arabian Journal for Science and Engineering",
+          "issn_l": "1319-8025",
+          "issn": [
+            "1319-8025",
+            "2191-4281",
+            "2193-567X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal for Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
+        },
+        {
+          "score": 0.6618000268936157,
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
+        },
+        {
+          "score": 0.4943999946117401,
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320319409",
+          "display_name": "University of Carthage",
+          "ror": "https://ror.org/057x6za15"
+        },
+        {
+          "id": "https://openalex.org/F4320324132",
+          "display_name": "Universidad de Jaén",
+          "ror": "https://ror.org/0122p5f64"
+        },
+        {
+          "id": "https://openalex.org/F4320326754",
+          "display_name": "Junta de Andalucía",
+          "ror": "https://ror.org/01jem9c82"
+        },
+        {
+          "id": "https://openalex.org/F4320335548",
+          "display_name": "Centro de Instrumentación Científico-Técnica, Universidad de Jaén",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4403532362.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4403532362.grobid-xml"
+      },
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W69938921",
+        "https://openalex.org/W766537028",
+        "https://openalex.org/W1478516634",
+        "https://openalex.org/W1983077650",
+        "https://openalex.org/W1997740384",
+        "https://openalex.org/W2010777344",
+        "https://openalex.org/W2011254107",
+        "https://openalex.org/W2011607327",
+        "https://openalex.org/W2025755113",
+        "https://openalex.org/W2031473798",
+        "https://openalex.org/W2046112298",
+        "https://openalex.org/W2046710916",
+        "https://openalex.org/W2071478430",
+        "https://openalex.org/W2088354348",
+        "https://openalex.org/W2091915620",
+        "https://openalex.org/W2092890907",
+        "https://openalex.org/W2136704208",
+        "https://openalex.org/W2152947915",
+        "https://openalex.org/W2181039106",
+        "https://openalex.org/W2197056839",
+        "https://openalex.org/W2197874861",
+        "https://openalex.org/W2254296158",
+        "https://openalex.org/W2421079803",
+        "https://openalex.org/W2478335872",
+        "https://openalex.org/W2761932274",
+        "https://openalex.org/W2766283369",
+        "https://openalex.org/W2767404428",
+        "https://openalex.org/W2773932400",
+        "https://openalex.org/W2800232025",
+        "https://openalex.org/W2884297965",
+        "https://openalex.org/W2895879551",
+        "https://openalex.org/W2947526737",
+        "https://openalex.org/W2969503913",
+        "https://openalex.org/W3022301616",
+        "https://openalex.org/W3111011364",
+        "https://openalex.org/W3159601436",
+        "https://openalex.org/W3199684706",
+        "https://openalex.org/W4221035788",
+        "https://openalex.org/W4231665815",
+        "https://openalex.org/W4242742159",
+        "https://openalex.org/W4381740951",
+        "https://openalex.org/W4386156551",
+        "https://openalex.org/W4394836334",
+        "https://openalex.org/W4398768458",
+        "https://openalex.org/W7151694035"
+      ],
+      "related_works": [
+        "https://openalex.org/W1998481673",
+        "https://openalex.org/W4242607343",
+        "https://openalex.org/W2088354348",
+        "https://openalex.org/W2022632280",
+        "https://openalex.org/W2048111216",
+        "https://openalex.org/W7027768185",
+        "https://openalex.org/W2060831491",
+        "https://openalex.org/W2979002841",
+        "https://openalex.org/W2254296158",
+        "https://openalex.org/W2011607327"
+      ],
+      "abstract_inverted_index": {
+        "900": [
+          87
+        ],
+        "The": [
+          0,
+          99,
+          117,
+          134,
+          155
+        ],
+        "aim": [
+          1
+        ],
+        "of": [
+          2,
+          10,
+          17,
+          35,
+          40,
+          70,
+          83,
+          124,
+          131,
+          136,
+          157,
+          163,
+          208,
+          214,
+          225,
+          242,
+          247
+        ],
+        "this": [
+          3,
+          227
+        ],
+        "research": [
+          4
+        ],
+        "is": [
+          5
+        ],
+        "to": [
+          6,
+          141,
+          180,
+          198,
+          252
+        ],
+        "study": [
+          7
+        ],
+        "the": [
+          8,
+          15,
+          33,
+          75,
+          81,
+          121,
+          128,
+          132,
+          161,
+          190,
+          199,
+          206,
+          212,
+          232,
+          240
+        ],
+        "feasibility": [
+          9
+        ],
+        "using": [
+          11
+        ],
+        "clays": [
+          12,
+          41,
+          66,
+          158,
+          209
+        ],
+        "used": [
+          13,
+          43,
+          79,
+          126,
+          159,
+          210
+        ],
+        "in": [
+          14,
+          32,
+          80,
+          160,
+          170,
+          183,
+          189,
+          211
+        ],
+        "decontamination": [
+          16,
+          162
+        ],
+        "wastewater": [
+          18,
+          22
+        ],
+        "containing": [
+          19,
+          67,
+          165
+        ],
+        "olive": [
+          20
+        ],
+        "oil": [
+          21,
+          26,
+          30
+        ],
+        "(OOW),": [
+          23
+        ],
+        "new": [
+          24
+        ],
+        "lubricating": [
+          25
+        ],
+        "(NOW)": [
+          27
+        ],
+        "or": [
+          28
+        ],
+        "motor": [
+          29
+        ],
+        "(MOW)": [
+          31
+        ],
+        "manufacture": [
+          34,
+          82
+        ],
+        "ceramic": [
+          36
+        ],
+        "bricks.": [
+          37,
+          133
+        ],
+        "Three": [
+          38
+        ],
+        "types": [
+          39,
+          69
+        ],
+        "were": [
+          42,
+          78,
+          91
+        ],
+        "for": [
+          44,
+          239
+        ],
+        "filtration,": [
+          45
+        ],
+        "kaolinite": [
+          46
+        ],
+        "type": [
+          47,
+          51,
+          123
+        ],
+        "clay": [
+          48,
+          52,
+          60,
+          125,
+          138
+        ],
+        "(KT),": [
+          49
+        ],
+        "smectite": [
+          50
+        ],
+        "(CT)": [
+          53
+        ],
+        "both": [
+          54
+        ],
+        "from": [
+          55,
+          62
+        ],
+        "Tunisia": [
+          56
+        ],
+        "and": [
+          57,
+          96,
+          112,
+          148,
+          152,
+          175,
+          178,
+          186,
+          235
+        ],
+        "illitic": [
+          58
+        ],
+        "chloritic": [
+          59
+        ],
+        "(CS)": [
+          61
+        ],
+        "Jaén": [
+          63
+        ],
+        "(Spain).": [
+          64
+        ],
+        "These": [
+          65,
+          89
+        ],
+        "different": [
+          68,
+          218
+        ],
+        "oils,": [
+          71
+        ],
+        "as": [
+          72,
+          74
+        ],
+        "well": [
+          73
+        ],
+        "control": [
+          76
+        ],
+        "clays,": [
+          77
+        ],
+        "bricks": [
+          84,
+          90
+        ],
+        "fired": [
+          85
+        ],
+        "at": [
+          86
+        ],
+        "°C.": [
+          88
+        ],
+        "characterized": [
+          92
+        ],
+        "by": [
+          93,
+          105
+        ],
+        "physical,": [
+          94
+        ],
+        "mechanical": [
+          95
+        ],
+        "thermal": [
+          97,
+          176,
+          248
+        ],
+        "tests.": [
+          98
+        ],
+        "sintered": [
+          100
+        ],
+        "microstructure’s": [
+          101
+        ],
+        "evolution": [
+          102
+        ],
+        "was": [
+          103
+        ],
+        "followed": [
+          104
+        ],
+        "tracked": [
+          106
+        ],
+        "through": [
+          107
+        ],
+        "scanning": [
+          108
+        ],
+        "electron": [
+          109
+        ],
+        "microscopy": [
+          110
+        ],
+        "(SEM)": [
+          111
+        ],
+        "X-ray": [
+          113
+        ],
+        "diffraction": [
+          114
+        ],
+        "analysis": [
+          115
+        ],
+        "(XRD).": [
+          116
+        ],
+        "results": [
+          118
+        ],
+        "indicate": [
+          119
+        ],
+        "that": [
+          120,
+          216
+        ],
+        "specific": [
+          122
+        ],
+        "influences": [
+          127
+        ],
+        "technological": [
+          129
+        ],
+        "characteristics": [
+          130
+        ],
+        "use": [
+          135,
+          156,
+          207
+        ],
+        "CT": [
+          137
+        ],
+        "gives": [
+          139
+        ],
+        "rise": [
+          140
+        ],
+        "increase": [
+          142,
+          182
+        ],
+        "bulk": [
+          143,
+          171
+        ],
+        "density,": [
+          144,
+          172
+        ],
+        "greater": [
+          145
+        ],
+        "compressive": [
+          146,
+          173
+        ],
+        "strength,": [
+          147
+        ],
+        "reduced": [
+          149
+        ],
+        "apparent": [
+          150,
+          184
+        ],
+        "porosity": [
+          151,
+          185
+        ],
+        "water": [
+          153,
+          164,
+          187,
+          215
+        ],
+        "absorption.": [
+          154
+        ],
+        "oils": [
+          166,
+          219
+        ],
+        "produced": [
+          167
+        ],
+        "a": [
+          168,
+          222,
+          253
+        ],
+        "decrease": [
+          169
+        ],
+        "strength": [
+          174
+        ],
+        "conductivity": [
+          177
+        ],
+        "leads": [
+          179
+        ],
+        "an": [
+          181
+        ],
+        "absorption": [
+          188
+        ],
+        "order": [
+          191
+        ],
+        "OOW": [
+          192
+        ],
+        ">": [
+          193,
+          195
+        ],
+        "NOW": [
+          194
+        ],
+        "MOW": [
+          196
+        ],
+        "according": [
+          197
+        ],
+        "total": [
+          200
+        ],
+        "organic": [
+          201
+        ],
+        "carbon": [
+          202
+        ],
+        "content": [
+          203
+        ],
+        "(TOC).": [
+          204
+        ],
+        "Therefore,": [
+          205
+        ],
+        "filtration": [
+          213
+        ],
+        "contain": [
+          217
+        ],
+        "can": [
+          220,
+          230
+        ],
+        "represent": [
+          221
+        ],
+        "promising": [
+          223
+        ],
+        "way": [
+          224
+        ],
+        "valorizing": [
+          226
+        ],
+        "waste,": [
+          228
+        ],
+        "which": [
+          229
+        ],
+        "alleviate": [
+          231
+        ],
+        "environmental": [
+          233
+        ],
+        "impact": [
+          234
+        ],
+        "represents": [
+          236
+        ],
+        "economic": [
+          237
+        ],
+        "savings": [
+          238
+        ],
+        "industry": [
+          241
+        ],
+        "construction": [
+          243
+        ],
+        "materials": [
+          244
+        ],
+        "with": [
+          245
+        ],
+        "properties": [
+          246
+        ],
+        "insulation,": [
+          249
+        ],
+        "getting": [
+          250
+        ],
+        "closer": [
+          251
+        ],
+        "circular": [
+          254
+        ],
+        "economy.": [
+          255
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4403532362",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-20T13:11:24.684918",
+      "created_date": "2024-10-19T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2174189874",
       "doi": "https://doi.org/10.1016/j.crpv.2008.03.001",
       "title": "Le passage Lias–Dogger de la Dorsale de Tunisie septentrionale",
@@ -6367,6 +6396,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nejla Sekatni",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis, Tunisie"
@@ -6407,6 +6437,7 @@
             "FR"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Fauré",
           "raw_affiliation_strings": [
             "Centre d’ACP, 47, rue Théron-Périé, B.P. 205, Castres cedex, France",
@@ -6450,6 +6481,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Bizerte, 7021 Zerzouna Bizerte, Tunisie"
@@ -6498,6 +6530,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fouad Zargouni",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis, Tunisie"
@@ -7765,6 +7798,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Fauré",
           "raw_affiliation_strings": [
             "Centre d'ACP, 47 rue Théron Périé, BP 30205, F-81104 Castres cedex (France) et Muséum d'Histoire Naturelle de Toulouse, F-31000, Toulouse (France) philipfaure@wanadoo.fr"
@@ -7805,6 +7839,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nejla Sekatni",
           "raw_affiliation_strings": [
             "Université de Sousse, faculté des Lettres et des Sciences Humaines de Sousse, Département de géographie Cité Erriadh, 4029 Sousse Ryadh, Sousse (Tunisie) sgatninejla@yahoo.fr"
@@ -7855,6 +7890,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Sabri Arfaoui",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie) sabriarfaoui@yahoo.fr"
@@ -7894,6 +7930,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Bizerte, Université de Carthage 7021 Zerzouna Bizerte (Tunisie) rabeh_alouani@yahoo.fr"
@@ -7916,12 +7953,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5714,
+      "fwci": 0.562,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.51087109,
+        "value": 0.50430974,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8710,6 +8747,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "H. Boussiga",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -8726,6 +8764,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -8742,6 +8781,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Tlig",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -8760,6 +8800,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M.H. Inoubli",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -9395,6 +9436,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Wiem Ben Aissa",
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Science de Bizerte, Université de Carthage, 7021, Zarzouna, Bizerte, Tunisia",
@@ -9440,6 +9482,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Lassaâd Ben Aissa",
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Science de Bizerte, Université de Carthage, 7021, Zarzouna, Bizerte, Tunisia"
@@ -9481,6 +9524,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdesslem Ben Haj Amara",
           "raw_affiliation_strings": [
             "Laboratoire de physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, Université de Carthage, 7021, Zarzouna, Tunisia"
@@ -9519,6 +9563,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Said Tlig",
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Sciences de Tunis, Université de Tunis El Manar, 2092, El Manar, Tunis, Tunisia"
@@ -9557,6 +9602,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Science de Bizerte, Université de Carthage, 7021, Zarzouna, Bizerte, Tunisia"
@@ -10063,6 +10109,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "H. Boussiga",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10081,6 +10128,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M.H. Inoubli",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10097,6 +10145,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10113,6 +10162,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "K. Sebei",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10129,6 +10179,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M.G. Ben Jemia",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10769,6 +10820,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Benmohamed Mohamed",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, Université de Carthage Zarzouna, Zarzouna, 7021, Tunisia"
@@ -10809,6 +10861,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Galai Haykel",
           "raw_affiliation_strings": [
             "Institut National de Recherche et d’Analyse Physico-chimiques, Technopole de Sidi Thabet, 2026, Sidi Thabet, Tunisia"
@@ -10847,6 +10900,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alouani Rabah",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, Université de Carthage Zarzouna, Zarzouna, 7021, Tunisia"
@@ -10885,6 +10939,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bejaoui Marouene",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, Université de Carthage Zarzouna, Zarzouna, 7021, Tunisia"
@@ -10923,6 +10978,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ben Haj Amara Abdessalem",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, Université de Carthage Zarzouna, Zarzouna, 7021, Tunisia"
@@ -10963,6 +11019,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ben Rhaim Hafsia",
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, Université de Carthage Zarzouna, Zarzouna, 7021, Tunisia"
@@ -11457,6 +11514,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sirine Chouat",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -11502,6 +11560,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Slim El Ayachi",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -11569,6 +11628,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Kamel Boukhalfa",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -11630,6 +11690,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -11687,6 +11748,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Soussi",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia",
@@ -11736,6 +11798,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mabrouk Boughdiri",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -11773,12 +11836,12 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.4671,
+      "fwci": 0.4615,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.44564516,
+        "value": 0.4423756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11789,7 +11852,7 @@
       "biblio": {
         "volume": "38",
         "issue": "3",
-        "first_page": null,
+        "first_page": "65",
         "last_page": null
       },
       "is_retracted": false,
@@ -12258,577 +12321,574 @@
         "https://openalex.org/W2030178973"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "In": [
           0
         ],
-        "In": [
-          1
-        ],
         "NW": [
-          2,
-          40,
-          113
+          1,
+          39,
+          112
         ],
         "Tunisia,": [
-          3,
-          41
+          2,
+          40
         ],
         "the": [
-          4,
-          8,
-          14,
-          25,
-          43,
-          142,
-          147,
-          226,
-          230,
-          237
-        ],
-        "lateral": [
-          5
-        ],
-        "equivalents": [
-          6
-        ],
-        "of": [
+          3,
           7,
           13,
-          45,
-          65,
-          83,
-          196,
-          202,
-          211,
-          219,
+          24,
+          42,
+          141,
+          146,
+          225,
           229,
-          240
+          236
+        ],
+        "lateral": [
+          4
+        ],
+        "equivalents": [
+          5
+        ],
+        "of": [
+          6,
+          12,
+          44,
+          64,
+          82,
+          195,
+          201,
+          210,
+          218,
+          228,
+          239
         ],
         "Mid-Eocene": [
-          9
+          8
         ],
         "“Reineche": [
-          10,
-          26,
-          148
+          9,
+          25,
+          147
         ],
         "Limestone”": [
-          11,
-          27
+          10,
+          26
         ],
         "member": [
-          12
+          11
         ],
         "Souar": [
-          15
+          14
         ],
         "Formation": [
-          16
+          15
         ],
         "(Bartonian)": [
-          17
+          16
         ],
         "are": [
-          18,
-          115
+          17,
+          114
         ],
         "still": [
-          19
+          18
         ],
         "poorly": [
-          20
+          19
         ],
         "known.": [
-          21
+          20
         ],
         "Sedimentological": [
-          22
+          21
         ],
         "investigations": [
-          23
+          22
         ],
         "in": [
-          24,
-          30,
-          63,
-          204
+          23,
+          29,
+          62,
+          203
         ],
         "type": [
-          28
+          27
         ],
         "locality": [
-          29
+          28
         ],
         "NE": [
-          31,
-          84
+          30,
+          83
         ],
         "Tunisia;": [
-          32
+          31
         ],
         "and": [
-          33,
-          49,
-          60,
-          89,
-          92,
-          98,
-          130,
-          161,
-          168,
-          177,
-          223
+          32,
+          48,
+          59,
+          88,
+          91,
+          97,
+          129,
+          160,
+          167,
+          176,
+          222
         ],
         "three": [
-          34
+          33
         ],
         "correlatives,": [
-          35
+          34
         ],
         "first": [
-          36,
-          135,
-          233
+          35,
+          134,
+          232
         ],
         "described": [
+          36,
+          233
+        ],
+        "here": [
           37,
           234
         ],
-        "here": [
+        "from": [
           38,
+          111,
           235
         ],
-        "from": [
-          39,
-          112,
-          236
-        ],
         "allow": [
-          42
+          41
         ],
         "reconstruction": [
-          44
+          43
         ],
         "their": [
-          46
+          45
         ],
         "depositional": [
-          47,
-          78,
-          144
+          46,
+          77,
+          143
         ],
         "settings": [
-          48
+          47
         ],
         "to": [
-          50,
-          69,
-          75,
-          184
+          49,
+          68,
+          74,
+          183
         ],
         "propose": [
-          51
+          50
         ],
         "a": [
-          52,
-          101
-        ],
-        "regional": [
-          53
-        ],
-        "geodynamic": [
-          54
-        ],
-        "context.": [
-          55
-        ],
-        "Fossil": [
-          56
-        ],
-        "assemblages,": [
-          57
-        ],
-        "rock": [
-          58
-        ],
-        "texture": [
-          59
-        ],
-        "fabrics": [
-          61
-        ],
-        "plead": [
-          62
-        ],
-        "favor": [
-          64
-        ],
-        "eight": [
-          66
-        ],
-        "micro-biofacies": [
-          67
-        ],
-        "(Mf1": [
-          68
-        ],
-        "Mf8)": [
-          70
-        ],
-        "indicating": [
-          71,
+          51,
           100
         ],
+        "regional": [
+          52
+        ],
+        "geodynamic": [
+          53
+        ],
+        "context.": [
+          54
+        ],
+        "Fossil": [
+          55
+        ],
+        "assemblages,": [
+          56
+        ],
+        "rock": [
+          57
+        ],
+        "texture": [
+          58
+        ],
+        "fabrics": [
+          60
+        ],
+        "plead": [
+          61
+        ],
+        "favor": [
+          63
+        ],
+        "eight": [
+          65
+        ],
+        "micro-biofacies": [
+          66
+        ],
+        "(Mf1": [
+          67
+        ],
+        "Mf8)": [
+          69
+        ],
+        "indicating": [
+          70,
+          99
+        ],
         "“shoal”": [
-          72
+          71
         ],
         "inner": [
-          73
+          72
         ],
         "ramp": [
-          74,
-          77,
-          104
+          73,
+          76,
+          103
         ],
         "outer": [
-          76
+          75
         ],
         "settings.": [
-          79
+          78
         ],
         "The": [
-          80,
-          134
+          79,
+          133
         ],
         "Bartonian": [
-          81
+          80
         ],
         "carbonates": [
-          82
+          81
         ],
         "Tunisia": [
-          85,
-          114,
-          213
+          84,
+          113,
+          212
         ],
         "bear": [
-          86
+          85
         ],
         "LBF-dominating": [
-          87
+          86
         ],
         "assemblages": [
-          88,
-          140
+          87,
+          139
         ],
         "subsidiary": [
-          90,
-          165
+          89,
+          164
         ],
         "planktic": [
-          91,
-          167
+          90,
+          166
         ],
         "small": [
+          92,
+          168
+        ],
+        "benthic": [
           93,
           169
         ],
-        "benthic": [
-          94,
-          170
-        ],
         "foraminifera,": [
-          95
+          94
         ],
         "gastropods,": [
-          96
+          95
         ],
         "algae": [
-          97
+          96
         ],
         "echinids": [
-          99
+          98
         ],
         "progressive": [
-          102
+          101
         ],
         "marine": [
-          103,
-          206
+          102,
+          205
         ],
         "context": [
-          105
+          104
         ],
         "under": [
-          106
+          105
         ],
         "oligotrophic": [
-          107
+          106
         ],
         "conditions.": [
-          108
+          107
         ],
         "However,": [
-          109,
-          150
+          108,
+          149
         ],
         "correlative": [
-          110
+          109
         ],
         "successions": [
-          111
+          110
         ],
         "represented": [
-          116
+          115
         ],
         "by": [
-          117,
-          138,
-          157
+          116,
+          137,
+          156
         ],
         "relatively": [
-          118
+          117
         ],
         "thinner": [
-          119
+          118
         ],
         "carbonate": [
-          120,
-          152,
-          210
-        ],
-        "intervals": [
-          121
-        ],
-        "including": [
-          122
-        ],
-        "two": [
-          123
-        ],
-        "main": [
-          124
-        ],
-        "facies:": [
-          125
-        ],
-        "1)": [
-          126
-        ],
-        "bioclastic": [
-          127
-        ],
-        "limestone": [
-          128
-        ],
-        "facies": [
-          129,
-          153
-        ],
-        "2)": [
-          131
-        ],
-        "phosphorite-rich": [
-          132,
+          119,
           151,
           209
         ],
-        "carbonates.": [
-          133
+        "intervals": [
+          120
         ],
-        "is": [
-          136,
-          154
+        "including": [
+          121
         ],
-        "dominated": [
-          137
+        "two": [
+          122
         ],
-        "LBF": [
-          139
+        "main": [
+          123
         ],
-        "suggesting": [
-          141,
-          182
+        "facies:": [
+          124
         ],
-        "same": [
-          143
+        "1)": [
+          125
         ],
-        "conditions": [
-          145,
-          186
+        "bioclastic": [
+          126
         ],
-        "as": [
-          146,
-          216
+        "limestone": [
+          127
         ],
-        "limestone”.": [
-          149
+        "facies": [
+          128,
+          152
         ],
-        "mainly": [
-          155
+        "2)": [
+          130
         ],
-        "characterized": [
-          156
-        ],
-        "peloids,": [
-          158
-        ],
-        "bone": [
-          159
-        ],
-        "fragments": [
-          160,
-          176
-        ],
-        "lithoclast": [
-          162
-        ],
-        "components": [
-          163
-        ],
-        "with": [
-          164
-        ],
-        "nummulitids,": [
-          166
-        ],
-        "foraminifers,": [
-          171
-        ],
-        "echinids,": [
-          172
-        ],
-        "oyster": [
-          173
-        ],
-        "shells,": [
-          174
-        ],
-        "brachiopod": [
-          175
-        ],
-        "fine": [
-          178
-        ],
-        "siliciclastic": [
-          179
-        ],
-        "components,": [
-          180
-        ],
-        "all": [
-          181
-        ],
-        "oxic-suboxic": [
-          183
-        ],
-        "anoxic": [
-          185
-        ],
-        "for": [
-          187
-        ],
-        "phosphorite": [
-          188
-        ],
-        "genesis.": [
-          189
-        ],
-        "This": [
-          190
-        ],
-        "would": [
-          191
-        ],
-        "have": [
-          192
-        ],
-        "implied": [
-          193
-        ],
-        "microbial": [
-          194
-        ],
-        "decomposition": [
-          195
-        ],
-        "organic": [
-          197
-        ],
-        "compounds": [
-          198
-        ],
-        "and/or": [
-          199
-        ],
-        "bacterial": [
-          200
-        ],
-        "reduction": [
-          201
-        ],
-        "sulfate": [
-          203
-        ],
-        "shallow": [
-          205
-        ],
-        "environment.": [
-          207
-        ],
-        "These": [
+        "phosphorite-rich": [
+          131,
+          150,
           208
         ],
-        "northwestern": [
-          212
+        "carbonates.": [
+          132
         ],
-        "may": [
-          214
+        "is": [
+          135,
+          153
         ],
-        "serve": [
+        "dominated": [
+          136
+        ],
+        "LBF": [
+          138
+        ],
+        "suggesting": [
+          140,
+          181
+        ],
+        "same": [
+          142
+        ],
+        "conditions": [
+          144,
+          185
+        ],
+        "as": [
+          145,
           215
         ],
+        "limestone”.": [
+          148
+        ],
+        "mainly": [
+          154
+        ],
+        "characterized": [
+          155
+        ],
+        "peloids,": [
+          157
+        ],
+        "bone": [
+          158
+        ],
+        "fragments": [
+          159,
+          175
+        ],
+        "lithoclast": [
+          161
+        ],
+        "components": [
+          162
+        ],
+        "with": [
+          163
+        ],
+        "nummulitids,": [
+          165
+        ],
+        "foraminifers,": [
+          170
+        ],
+        "echinids,": [
+          171
+        ],
+        "oyster": [
+          172
+        ],
+        "shells,": [
+          173
+        ],
+        "brachiopod": [
+          174
+        ],
+        "fine": [
+          177
+        ],
+        "siliciclastic": [
+          178
+        ],
+        "components,": [
+          179
+        ],
+        "all": [
+          180
+        ],
+        "oxic-suboxic": [
+          182
+        ],
+        "anoxic": [
+          184
+        ],
+        "for": [
+          186
+        ],
+        "phosphorite": [
+          187
+        ],
+        "genesis.": [
+          188
+        ],
+        "This": [
+          189
+        ],
+        "would": [
+          190
+        ],
+        "have": [
+          191
+        ],
+        "implied": [
+          192
+        ],
+        "microbial": [
+          193
+        ],
+        "decomposition": [
+          194
+        ],
+        "organic": [
+          196
+        ],
+        "compounds": [
+          197
+        ],
+        "and/or": [
+          198
+        ],
+        "bacterial": [
+          199
+        ],
+        "reduction": [
+          200
+        ],
+        "sulfate": [
+          202
+        ],
+        "shallow": [
+          204
+        ],
+        "environment.": [
+          206
+        ],
+        "These": [
+          207
+        ],
+        "northwestern": [
+          211
+        ],
+        "may": [
+          213
+        ],
+        "serve": [
+          214
+        ],
         "an": [
-          217
+          216
         ],
         "example": [
-          218
+          217
         ],
         "phosphatic": [
-          220
+          219
         ],
         "sediment": [
-          221
+          220
         ],
         "production": [
-          222
+          221
         ],
         "accumulation": [
-          224
+          223
         ],
         "during": [
-          225
+          224
         ],
         "latest": [
-          227
+          226
         ],
         "episode": [
-          228
+          227
         ],
         "Paleogene": [
-          231
+          230
         ],
         "phosphatogenesis": [
-          232
+          231
         ],
         "south-Tethyan": [
-          238
+          237
         ],
         "margin": [
-          239
+          238
         ],
         "Tunisia.": [
-          241
+          240
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4385952766",
@@ -12846,7 +12906,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-08-18T00:00:00"
     },
     {
@@ -12934,6 +12994,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Islem Chaari",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12952,6 +13013,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Emna Fakhfakh",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12970,6 +13032,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. Hachani",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-9658-6346",
@@ -12986,6 +13049,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13004,6 +13068,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mounir Medhioub",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13022,6 +13087,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Kooli Fethi",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13040,6 +13106,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fakher Jamoussi",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2796-7583",
@@ -13651,6 +13718,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fakher Jamoussi",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2796-7583",
@@ -13669,6 +13737,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alberto López-Galindo",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-5540-9212",
@@ -13685,6 +13754,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Samir Kharbachi",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13703,6 +13773,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fernando Rocha",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-3636-3933",
@@ -13721,6 +13792,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Celso Gomes",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-7733-6926",
@@ -13739,6 +13811,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Joëlle Duplay",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-9622-0267",
@@ -13755,6 +13828,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13771,6 +13845,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fouad Zargouni",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -14387,6 +14462,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Hania Saadouni",
           "raw_affiliation_strings": [
             "Department of Geology, University of Carthage, Bizerte, Tunisia"
@@ -14425,6 +14501,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Department of Geology , University of Carthage , 7000 Bizerte , Tunisia",
@@ -15262,6 +15339,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Benmohamed Mohamed",
           "raw_affiliation_strings": [
             "Département Des Sciences de La Terre, Faculté Des Sciences, de Bizerte, Université de Carthage, Bizerte, Tunisia",
@@ -15308,6 +15386,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bejaoui Marouene",
           "raw_affiliation_strings": [
             "Matériaux Lamellaires Et Nanomatériaux Hybrides, Faculté Des Sciences de Bizerte, LR Ressource Matériaux Et Ecosystème, Université de Carthage, UR05/13-01, 7021, Zarzouna, Tunisia"
@@ -15356,6 +15435,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayechi Mohamed Slim",
           "raw_affiliation_strings": [
             "Département Des Sciences de La Terre, Faculté Des Sciences, de Bizerte, Université de Carthage, Bizerte, Tunisia"
@@ -15382,6 +15462,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Belgacem Sahar",
           "raw_affiliation_strings": [
             "Department of Chemistry, Faculty of Sciences Bizerte, Application Laboratory of Chemical & Natural Resources and Environmental Substances, 7021, Bizerte , Jarzouna, Tunisia"
@@ -15428,6 +15509,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alouani Rabah",
           "raw_affiliation_strings": [
             "Département Des Sciences de La Terre, Faculté Des Sciences, de Bizerte, Université de Carthage, Bizerte, Tunisia"
@@ -15467,6 +15549,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ben Haj Amara Abdesslem",
           "raw_affiliation_strings": [
             "Matériaux Lamellaires Et Nanomatériaux Hybrides, Faculté Des Sciences de Bizerte, LR Ressource Matériaux Et Ecosystème, Université de Carthage, UR05/13-01, 7021, Zarzouna, Tunisia"
@@ -15511,7 +15594,7 @@
       "biblio": {
         "volume": "15",
         "issue": "12",
-        "first_page": null,
+        "first_page": "1170",
         "last_page": null
       },
       "is_retracted": false,
@@ -15806,7 +15889,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4282965061",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2022-06-17T00:00:00"
     },
     {
@@ -15908,6 +15991,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sirine Chouat",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
@@ -15946,6 +16030,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Slim El Ayachi",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
@@ -16006,6 +16091,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Kamel Boukhalfa",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -16052,6 +16138,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
@@ -16102,6 +16189,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Soussi",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia"
@@ -16143,6 +16231,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mabrouk Boughdiri",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
@@ -16182,7 +16271,7 @@
       "biblio": {
         "volume": "38",
         "issue": "3",
-        "first_page": null,
+        "first_page": "66",
         "last_page": null
       },
       "is_retracted": false,
@@ -16469,7 +16558,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4386418130",
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-09-05T00:00:00"
     },
     {
@@ -16598,6 +16687,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Rania Ben Aissa",
           "raw_affiliation_strings": [
             "Laboratoire de Recherche Ressources, Matériaux Et Ecosystèmes, University of Carthage, Zarzouna, Bizerte, Tunisia",
@@ -16660,6 +16750,7 @@
             "FR"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Wiem Ben Aissa",
           "raw_affiliation_strings": [
             "University Claude Bernard Lyon 1, Department of Geology, Villeurbanne, France"
@@ -16698,6 +16789,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Said Tlig",
           "raw_affiliation_strings": [
             "University of Tunis-El Manar, Faculty of Siences of Tunis, Rommana, Tunisia"
@@ -16736,6 +16828,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "University of Carthage, Faculty of Siences of Bizerte, Bizerte, Tunisia"
@@ -17299,6 +17392,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "LR Ressource Matériaux et Ecosystème, Matériaux Lamellaire et Nanomatériaux Hybrides, Faculté des Sciences de Bizerte, Université de Carthage, 7021 Bizerte, Tunisia",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -17328,6 +17422,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Benmohamed",
           "raw_affiliation_strings": [
             "LR Ressource Matériaux et Ecosystème , Matériaux Lamellaire et Nanomatériaux Hybrides , Faculté des Sciences de Bizerte , Université de Carthage , 7021 Bizerte , Tunisia"
@@ -17366,6 +17461,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Marouene Bejaoui",
           "raw_affiliation_strings": [
             "LR Ressource Matériaux et Ecosystème , Matériaux Lamellaire et Nanomatériaux Hybrides , Faculté des Sciences de Bizerte , Université de Carthage , 7021 Bizerte , Tunisia"
@@ -17404,6 +17500,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Imen Khedhri",
           "raw_affiliation_strings": [
             "LR Ressource Matériaux et Ecosystème , Matériaux Lamellaire et Nanomatériaux Hybrides , Faculté des Sciences de Bizerte , Université de Carthage , 7021 Bizerte , Tunisia"
@@ -17442,6 +17539,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayechi Mohamed Slim",
           "raw_affiliation_strings": [
             "LR Ressource Matériaux et Ecosystème , Matériaux Lamellaire et Nanomatériaux Hybrides , Faculté des Sciences de Bizerte , Université de Carthage , 7021 Bizerte , Tunisia"
@@ -17469,6 +17567,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Noureddine Ben Aoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -17485,6 +17584,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -17501,6 +17601,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Benhaj Amar Abdesslem",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -17517,6 +17618,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Département des sciences de la terre, faculté des sciences de Bizerte, Université de Carthage",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -18516,6 +18618,7 @@
             "TN"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ghofrane Mbarki",
           "raw_affiliation_strings": [
             "Laboratory of Application of Chemistry to the Resources and Natural Substances and to the Environment, LR05ES09, Faculty of Sciences of Bizerte, University of Carthage, Zarzouna, 7021, Tunisia"
@@ -18556,6 +18659,7 @@
             "AT"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Christina Atzenhofer",
           "raw_affiliation_strings": [
             "Department Mineral Resources Engineering, Chair of Ceramics, Technical University of Leoben, Leoben, 8700, Austria"
@@ -18594,6 +18698,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammad Benmohammad",
           "raw_affiliation_strings": [
             "Laboratory of Application of Chemistry to the Resources and Natural Substances and to the Environment, LR05ES09, Faculty of Sciences of Bizerte, University of Carthage, Zarzouna, 7021, Tunisia"
@@ -18632,6 +18737,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Laboratory of Application of Chemistry to the Resources and Natural Substances and to the Environment, LR05ES09, Faculty of Sciences of Bizerte, University of Carthage, Zarzouna, 7021, Tunisia"
@@ -18672,6 +18778,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Kais Nahdi",
           "raw_affiliation_strings": [
             "Laboratory of Application of Chemistry to the Resources and Natural Substances and to the Environment, LR05ES09, Faculty of Sciences of Bizerte, University of Carthage, Zarzouna, 7021, Tunisia"
@@ -18715,7 +18822,7 @@
       "biblio": {
         "volume": "9",
         "issue": "1",
-        "first_page": null,
+        "first_page": "21",
         "last_page": null
       },
       "is_retracted": false,
@@ -19117,9 +19224,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
@@ -19170,7 +19277,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7125433129",
       "counts_by_year": [],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-01-23T00:00:00"
     },
     {
@@ -19258,6 +19365,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fauré, Philippe",
           "raw_affiliation_strings": [
             "Centre d’ACP, 47 rue Théron Périé, BP 30205, F- 81104 Castres cedex (France) et Muséum d’Histoire Naturelle de Toulouse, F- 31000, Toulouse (France)"
@@ -19298,6 +19406,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sekatni, Nejla",
           "raw_affiliation_strings": [
             "Université de Sousse, faculté des Lettres et des Sciences Humaines de Sousse, Département de géographie Cité Erriadh, 4029 Sousse Ryadh, Sousse (Tunisie)"
@@ -19348,6 +19457,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Arfaoui, Mohamed Sabri",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie)"
@@ -19387,6 +19497,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alouani, Rabah",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Bizerte, Université de Carthage 7021 Zerzouna Bizerte (Tunisie)"
@@ -19862,6 +19973,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Fauré",
           "raw_affiliation_strings": [
             "Centre d’ACP, 47 rue Théron Périé, BP 30205, F- 81104 Castres cedex (France) et Muséum d’Histoire Naturelle de Toulouse, F- 31000, Toulouse (France)"
@@ -19902,6 +20014,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nejla Sekatni",
           "raw_affiliation_strings": [
             "Université de Sousse, faculté des Lettres et des Sciences Humaines de Sousse, Département de géographie Cité Erriadh, 4029 Sousse Ryadh, Sousse (Tunisie)"
@@ -19952,6 +20065,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Sabri Arfaoui",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie)"
@@ -19991,6 +20105,7 @@
             "TN"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences de Bizerte, Université de Carthage 7021 Zerzouna Bizerte (Tunisie)"

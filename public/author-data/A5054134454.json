@@ -14,7 +14,7 @@
     ],
     "full_name": "Sa’id A. Al-Hajri",
     "works_count": 32,
-    "cited_by_count": 1331,
+    "cited_by_count": 1332,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 15,
@@ -386,7 +386,7 @@
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 50
+        "cited_by_count": 51
       },
       {
         "year": 2024,
@@ -419,7 +419,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054134454",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5054134454",
-    "updated_date": "2026-11-18T16:17:57",
+    "updated_date": "2026-11-20T12:36:48",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -500,6 +500,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Konert Geert",
           "raw_affiliation_strings": [
             "Shell International"
@@ -538,6 +539,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulkader M. Afifi",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -576,6 +578,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id A. Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -603,6 +606,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Henk J. Droste",
           "raw_affiliation_strings": [
             "Shell International"
@@ -623,12 +627,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.6888,
+      "fwci": 7.6964,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 609,
       "citation_normalized_percentile": {
-        "value": 0.96986177,
+        "value": 0.96989588,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1020,823 +1024,820 @@
         "https://openalex.org/W2302210068"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
         "The": [
-          1,
-          52,
-          78,
-          126,
-          140,
-          184,
-          324
+          0,
+          51,
+          77,
+          125,
+          139,
+          183,
+          323
         ],
         "Paleozoic": [
-          2,
-          41,
-          53,
-          185,
-          214,
-          348
-        ],
-        "section": [
-          3
-        ],
-        "became": [
-          4,
-          72
-        ],
-        "prospective": [
-          5
-        ],
-        "during": [
-          6,
-          137
-        ],
-        "the": [
-          7,
-          11,
-          16,
-          23,
+          1,
           40,
-          44,
-          66,
-          75,
-          88,
-          91,
-          112,
-          116,
-          132,
-          138,
-          157,
-          167,
-          179,
-          191,
-          197,
-          200,
-          206,
-          222,
-          238,
-          256,
-          283,
-          289,
-          297,
-          329,
+          52,
+          184,
+          213,
           347
         ],
-        "early": [
-          8
+        "section": [
+          2
         ],
-        "1970s": [
-          9
+        "became": [
+          3,
+          71
         ],
-        "when": [
-          10
+        "prospective": [
+          4
         ],
-        "enormous": [
-          12
+        "during": [
+          5,
+          136
         ],
-        "gas": [
-          13
-        ],
-        "reserves": [
-          14
-        ],
-        "in": [
+        "the": [
+          6,
+          10,
           15,
           22,
-          32,
-          58,
+          39,
+          43,
+          65,
           74,
-          82,
-          109,
-          144,
-          147,
+          87,
+          90,
+          111,
+          115,
+          131,
+          137,
+          156,
+          166,
+          178,
+          190,
           196,
-          229,
-          247,
-          255
+          199,
+          205,
+          221,
+          237,
+          255,
+          282,
+          288,
+          296,
+          328,
+          346
+        ],
+        "early": [
+          7
+        ],
+        "1970s": [
+          8
+        ],
+        "when": [
+          9
+        ],
+        "enormous": [
+          11
+        ],
+        "gas": [
+          12
+        ],
+        "reserves": [
+          13
+        ],
+        "in": [
+          14,
+          21,
+          31,
+          57,
+          73,
+          81,
+          108,
+          143,
+          146,
+          195,
+          228,
+          246,
+          254
         ],
         "Permian": [
-          17,
-          225
+          16,
+          224
         ],
         "Khuff": [
-          18,
-          203
+          17,
+          202
         ],
         "reservoirs": [
-          19
+          18
         ],
         "were": [
-          20,
-          55,
+          19,
+          54,
+          79,
+          118
+        ],
+        "delineated": [
+          20
+        ],
+        "Gulf": [
+          23,
+          113
+        ],
+        "and": [
+          24,
+          27,
+          98,
+          110,
+          153,
+          168,
+          171,
+          198,
+          233,
+          290,
+          312,
+          321,
+          335
+        ],
+        "Zagros": [
+          25,
+          157
+        ],
+        "regions,": [
+          26
+        ],
+        "oil": [
+          28,
+          274
+        ],
+        "was": [
+          29,
+          128,
+          172
+        ],
+        "discovered": [
+          30
+        ],
+        "Oman.": [
+          32
+        ],
+        "Since": [
+          33
+        ],
+        "then,": [
+          34
+        ],
+        "frontier": [
+          35
+        ],
+        "exploration": [
+          36,
+          320
+        ],
+        "has": [
+          37
+        ],
+        "targeted": [
+          38
+        ],
+        "System": [
+          41
+        ],
+        "throughout": [
+          42
+        ],
+        "Middle": [
+          44
+        ],
+        "East,": [
+          45
+        ],
+        "driven": [
+          46
+        ],
+        "by": [
+          47,
+          130,
+          175,
+          236
+        ],
+        "various": [
+          48
+        ],
+        "economic": [
+          49
+        ],
+        "considerations.": [
+          50
+        ],
+        "sequences": [
+          53,
+          117
+        ],
+        "essentially": [
+          55
+        ],
+        "deposited": [
+          56,
           80,
           119
         ],
-        "delineated": [
-          21
-        ],
-        "Gulf": [
-          24,
-          114
-        ],
-        "and": [
-          25,
-          28,
-          99,
-          111,
-          154,
-          169,
-          172,
-          199,
-          234,
-          291,
-          313,
-          322,
-          336
-        ],
-        "Zagros": [
-          26,
-          158
-        ],
-        "regions,": [
-          27
-        ],
-        "oil": [
-          29,
-          275
-        ],
-        "was": [
-          30,
-          129,
-          173
-        ],
-        "discovered": [
-          31
-        ],
-        "Oman.": [
-          33
-        ],
-        "Since": [
-          34
-        ],
-        "then,": [
-          35
-        ],
-        "frontier": [
-          36
-        ],
-        "exploration": [
-          37,
-          321
-        ],
-        "has": [
-          38
-        ],
-        "targeted": [
-          39
-        ],
-        "System": [
-          42
-        ],
-        "throughout": [
-          43
-        ],
-        "Middle": [
-          45
-        ],
-        "East,": [
-          46
-        ],
-        "driven": [
-          47
-        ],
-        "by": [
-          48,
-          131,
-          176,
-          237
-        ],
-        "various": [
-          49
-        ],
-        "economic": [
-          50
-        ],
-        "considerations.": [
-          51
-        ],
-        "sequences": [
-          54,
-          118
-        ],
-        "essentially": [
-          56
-        ],
-        "deposited": [
-          57,
-          81,
-          120
-        ],
         "continental": [
-          59,
-          68,
-          124
-        ],
-        "to": [
-          60,
-          84,
-          95,
-          224,
-          320,
-          339
-        ],
-        "deep": [
-          61,
-          314
-        ],
-        "marine": [
-          62
-        ],
-        "clastic": [
-          63
-        ],
-        "environments": [
-          64
-        ],
-        "at": [
-          65
-        ],
-        "Gondwana": [
-          67
-        ],
-        "margin.": [
-          69,
-          211
-        ],
-        "Carbonates": [
-          70
-        ],
-        "only": [
-          71
-        ],
-        "dominant": [
-          73
-        ],
-        "Late": [
-          76
-        ],
-        "Permian.": [
-          77
-        ],
-        "sediments": [
-          79
-        ],
-        "arid": [
-          83
-        ],
-        "glacial": [
-          85
-        ],
-        "settings,": [
-          86
-        ],
-        "reflecting": [
-          87
-        ],
-        "drift": [
-          89
-        ],
-        "of": [
-          90,
-          166,
-          182,
-          193,
-          202,
-          232,
-          274,
-          296,
-          333
-        ],
-        "region": [
-          92,
-          128
-        ],
-        "from": [
-          93,
-          250,
-          282
-        ],
-        "equatorial": [
-          94
-        ],
-        "high": [
-          96
-        ],
-        "southern": [
-          97
-        ],
-        "latitudes": [
-          98
-        ],
-        "back.": [
-          100
-        ],
-        "Following": [
-          101
-        ],
-        "late": [
-          102
-        ],
-        "Precambrian": [
-          103,
-          252
-        ],
-        "rifting": [
-          104
-        ],
-        "that": [
-          105,
-          269,
-          344
-        ],
-        "formed": [
-          106,
-          208
-        ],
-        "salt": [
-          107,
-          257
-        ],
-        "basins": [
-          108
-        ],
-        "Oman": [
-          110
-        ],
-        "Arabian": [
-          113
-        ],
-        "region,": [
-          115
-        ],
-        "Cambrian-Devonian": [
-          117
-        ],
-        "on": [
-          121
-        ],
-        "a": [
-          122,
-          145,
-          230
-        ],
-        "peneplained": [
+          58,
+          67,
           123
         ],
-        "platform.": [
-          125
+        "to": [
+          59,
+          83,
+          94,
+          223,
+          319,
+          338
         ],
-        "entire": [
-          127
+        "deep": [
+          60,
+          313
         ],
-        "affected": [
-          130
+        "marine": [
+          61
         ],
-        "Hercynian": [
-          133
+        "clastic": [
+          62
         ],
-        "Orogeny,": [
-          134
+        "environments": [
+          63
         ],
-        "which": [
-          135
+        "at": [
+          64
         ],
-        "climaxed": [
-          136
+        "Gondwana": [
+          66
         ],
-        "Carboniferous.": [
-          139
-        ],
-        "orogeny": [
-          141
-        ],
-        "manifested": [
-          142
-        ],
-        "itself": [
-          143
-        ],
-        "change": [
-          146
-        ],
-        "basin": [
-          148
-        ],
-        "geometry,": [
-          149
-        ],
-        "inversion": [
-          150
-        ],
-        "tectonics,": [
-          151
-        ],
-        "regional": [
-          152
-        ],
-        "uplift": [
-          153
-        ],
-        "tectonism": [
-          155
-        ],
-        "along": [
-          156,
-          178
-        ],
-        "fault": [
-          159
-        ],
-        "zone.": [
-          160
-        ],
-        "This": [
-          161
-        ],
-        "deformation": [
-          162
-        ],
-        "caused": [
-          163,
-          175
-        ],
-        "widespread": [
-          164
-        ],
-        "erosion": [
-          165
-        ],
-        "Devonian-Carboniferous": [
-          168
-        ],
-        "older": [
-          170
-        ],
-        "sections,": [
-          171
-        ],
-        "probably": [
-          174
-        ],
-        "collision": [
-          177
-        ],
-        "northern": [
-          180
-        ],
-        "margin": [
-          181
-        ],
-        "Gondwana.": [
-          183
-        ],
-        "tectonic": [
-          186
-        ],
-        "super": [
-          187
-        ],
-        "cycle": [
-          188
-        ],
-        "ended": [
-          189
-        ],
-        "with": [
-          190,
-          300
-        ],
-        "onset": [
-          192
-        ],
-        "break-up": [
-          194
-        ],
-        "tectonics": [
-          195
-        ],
-        "Permian,": [
-          198
-        ],
-        "deposition": [
-          201
-        ],
-        "carbonates": [
-          204
-        ],
-        "over": [
-          205
-        ],
-        "newly": [
-          207
-        ],
-        "eastern": [
-          209
-        ],
-        "passive": [
+        "margin.": [
+          68,
           210
         ],
+        "Carbonates": [
+          69
+        ],
+        "only": [
+          70
+        ],
+        "dominant": [
+          72
+        ],
+        "Late": [
+          75
+        ],
+        "Permian.": [
+          76
+        ],
+        "sediments": [
+          78
+        ],
+        "arid": [
+          82
+        ],
+        "glacial": [
+          84
+        ],
+        "settings,": [
+          85
+        ],
+        "reflecting": [
+          86
+        ],
+        "drift": [
+          88
+        ],
+        "of": [
+          89,
+          165,
+          181,
+          192,
+          201,
+          231,
+          273,
+          295,
+          332
+        ],
+        "region": [
+          91,
+          127
+        ],
+        "from": [
+          92,
+          249,
+          281
+        ],
+        "equatorial": [
+          93
+        ],
+        "high": [
+          95
+        ],
+        "southern": [
+          96
+        ],
+        "latitudes": [
+          97
+        ],
+        "back.": [
+          99
+        ],
+        "Following": [
+          100
+        ],
+        "late": [
+          101
+        ],
+        "Precambrian": [
+          102,
+          251
+        ],
+        "rifting": [
+          103
+        ],
+        "that": [
+          104,
+          268,
+          343
+        ],
+        "formed": [
+          105,
+          207
+        ],
+        "salt": [
+          106,
+          256
+        ],
+        "basins": [
+          107
+        ],
+        "Oman": [
+          109
+        ],
+        "Arabian": [
+          112
+        ],
+        "region,": [
+          114
+        ],
+        "Cambrian-Devonian": [
+          116
+        ],
+        "on": [
+          120
+        ],
+        "a": [
+          121,
+          144,
+          229
+        ],
+        "peneplained": [
+          122
+        ],
+        "platform.": [
+          124
+        ],
+        "entire": [
+          126
+        ],
+        "affected": [
+          129
+        ],
+        "Hercynian": [
+          132
+        ],
+        "Orogeny,": [
+          133
+        ],
+        "which": [
+          134
+        ],
+        "climaxed": [
+          135
+        ],
+        "Carboniferous.": [
+          138
+        ],
+        "orogeny": [
+          140
+        ],
+        "manifested": [
+          141
+        ],
+        "itself": [
+          142
+        ],
+        "change": [
+          145
+        ],
+        "basin": [
+          147
+        ],
+        "geometry,": [
+          148
+        ],
+        "inversion": [
+          149
+        ],
+        "tectonics,": [
+          150
+        ],
+        "regional": [
+          151
+        ],
+        "uplift": [
+          152
+        ],
+        "tectonism": [
+          154
+        ],
+        "along": [
+          155,
+          177
+        ],
+        "fault": [
+          158
+        ],
+        "zone.": [
+          159
+        ],
+        "This": [
+          160
+        ],
+        "deformation": [
+          161
+        ],
+        "caused": [
+          162,
+          174
+        ],
+        "widespread": [
+          163
+        ],
+        "erosion": [
+          164
+        ],
+        "Devonian-Carboniferous": [
+          167
+        ],
+        "older": [
+          169
+        ],
+        "sections,": [
+          170
+        ],
+        "probably": [
+          173
+        ],
+        "collision": [
+          176
+        ],
+        "northern": [
+          179
+        ],
+        "margin": [
+          180
+        ],
+        "Gondwana.": [
+          182
+        ],
+        "tectonic": [
+          185
+        ],
+        "super": [
+          186
+        ],
+        "cycle": [
+          187
+        ],
+        "ended": [
+          188
+        ],
+        "with": [
+          189,
+          299
+        ],
+        "onset": [
+          191
+        ],
+        "break-up": [
+          193
+        ],
+        "tectonics": [
+          194
+        ],
+        "Permian,": [
+          197
+        ],
+        "deposition": [
+          200
+        ],
+        "carbonates": [
+          203
+        ],
+        "over": [
+          204
+        ],
+        "newly": [
+          206
+        ],
+        "eastern": [
+          208
+        ],
+        "passive": [
+          209
+        ],
         "A": [
-          212,
-          242
+          211,
+          241
         ],
         "major": [
-          213
+          212
         ],
         "petroleum": [
+          214,
+          243
+        ],
+        "system": [
           215,
           244
         ],
-        "system": [
-          216,
-          245
-        ],
         "embraces": [
-          217
+          216
         ],
         "reservoir": [
-          218
+          217
         ],
         "seal": [
-          219
+          218
         ],
         "pairs": [
-          220
+          219
         ],
         "spanning": [
-          221
+          220
         ],
         "Silurian": [
-          223,
+          222,
+          238,
+          283
+        ],
+        "sequences.": [
+          225
+        ],
+        "Hydrocarbons": [
+          226
+        ],
+        "occur": [
+          227
+        ],
+        "variety": [
+          230
+        ],
+        "traps,": [
+          232
+        ],
+        "are": [
+          234
+        ],
+        "sourced": [
+          235
+        ],
+        "‘hot": [
           239,
           284
         ],
-        "sequences.": [
-          226
-        ],
-        "Hydrocarbons": [
-          227
-        ],
-        "occur": [
-          228
-        ],
-        "variety": [
-          231
-        ],
-        "traps,": [
-          233
-        ],
-        "are": [
-          235
-        ],
-        "sourced": [
-          236
-        ],
-        "‘hot": [
-          240,
-          285
-        ],
         "shale’.": [
-          241
+          240
         ],
         "second": [
-          243
+          242
         ],
         "occurs": [
-          246
+          245
         ],
         "areas": [
-          248
+          247
         ],
         "charged": [
-          249
+          248
         ],
         "upper": [
-          251
+          250
         ],
         "source": [
-          253
+          252
         ],
         "rocks": [
-          254
+          253
         ],
         "basins.": [
-          258
+          257
         ],
         "Hydrocarbon": [
-          259
+          258
         ],
         "expulsion": [
-          260
+          259
         ],
         "estimates,": [
-          261
+          260
         ],
         "taking": [
-          262
+          261
         ],
         "into": [
-          263
+          262
         ],
         "account": [
-          264
+          263
         ],
         "secondary": [
-          265
+          264
         ],
         "migration": [
-          266
+          265
         ],
         "losses,": [
-          267
+          266
         ],
         "suggest": [
-          268
+          267
         ],
         "some": [
-          270
+          269
         ],
         "one": [
-          271
+          270
         ],
         "trillion": [
-          272
+          271
         ],
         "barrels": [
-          273
+          272
         ],
         "equivalent": [
-          276
+          275
         ],
         "(BOE)": [
-          277
+          276
         ],
         "may": [
-          278
+          277
         ],
         "have": [
-          279
+          278
         ],
         "been": [
-          280
+          279
         ],
         "trapped": [
-          281
+          280
         ],
         "shale’": [
-          286
+          285
         ],
         "alone.": [
-          287
+          286
         ],
         "However,": [
-          288
+          287
         ],
         "long": [
-          290
+          289
         ],
         "complex": [
-          292
+          291
         ],
         "hydrocarbon": [
-          293
+          292
         ],
         "geological": [
-          294
+          293
         ],
         "evolution": [
-          295
+          294
         ],
         "basin,": [
-          298
+          297
         ],
         "combined": [
-          299
+          298
         ],
         "low": [
-          301
+          300
         ],
         "acoustic": [
-          302
+          301
         ],
         "contrasts": [
-          303
+          302
         ],
         "between": [
-          304
+          303
         ],
         "target": [
-          305
+          304
         ],
         "rock": [
-          306
+          305
         ],
         "units,": [
-          307
+          306
         ],
         "difficult": [
-          308
+          307
         ],
         "surface": [
-          309
+          308
         ],
         "conditions,": [
-          310
+          309
         ],
         "tight": [
-          311
+          310
         ],
         "reservoirs,": [
-          312
+          311
         ],
         "subsurface": [
-          315,
-          337
+          314,
+          336
         ],
         "environments,": [
-          316
+          315
         ],
         "posed": [
-          317
+          316
         ],
         "significant": [
-          318
+          317
         ],
         "challenges": [
-          319
+          318
         ],
         "development.": [
-          323
+          322
         ],
         "critical": [
-          325
+          324
         ],
         "success": [
-          326
+          325
         ],
         "factor": [
-          327
+          326
         ],
         "is": [
-          328
+          327
         ],
         "continuous": [
-          330
+          329
         ],
         "innovative": [
-          331
+          330
         ],
         "effort": [
-          332
+          331
         ],
         "earth": [
-          334
+          333
         ],
         "scientists": [
-          335
+          334
         ],
         "engineers": [
-          338
+          337
         ],
         "find": [
-          340
+          339
         ],
         "integrated": [
-          341
+          340
         ],
         "technology": [
-          342
+          341
         ],
         "solutions,": [
-          343
+          342
         ],
         "will": [
-          345
+          344
         ],
         "render": [
-          346
+          345
         ],
         "plays": [
-          349
+          348
         ],
         "economically": [
-          350
+          349
         ],
         "viable.": [
-          351
+          350
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2939888277",
@@ -1851,7 +1852,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 59
+          "cited_by_count": 60
         },
         {
           "year": 2023,
@@ -1859,11 +1860,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 44
+          "cited_by_count": 43
         },
         {
           "year": 2021,
-          "cited_by_count": 38
+          "cited_by_count": 39
         },
         {
           "year": 2020,
@@ -1871,15 +1872,15 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 28
+          "cited_by_count": 27
         },
         {
           "year": 2018,
-          "cited_by_count": 23
+          "cited_by_count": 24
         },
         {
           "year": 2017,
-          "cited_by_count": 25
+          "cited_by_count": 24
         },
         {
           "year": 2016,
@@ -1902,7 +1903,7 @@
           "cited_by_count": 24
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2019-04-25T00:00:00"
     },
     {
@@ -2006,6 +2007,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Paul K. Strother",
           "raw_affiliation_strings": [
             "Boston College Department of Geology and Geophysics, Weston Observatory, Weston, Massachusetts 02193"
@@ -2044,6 +2046,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Said Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, P.O. Box 2141, Dhahran 31311, Saudi Arabia"
@@ -2082,6 +2085,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alfred Traverse",
           "raw_affiliation_strings": [
             "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania 16802"
@@ -2104,17 +2108,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.808,
+      "fwci": 2.824,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 194,
       "citation_normalized_percentile": {
-        "value": 0.89344685,
+        "value": 0.89412971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 97,
         "max": 99
       },
       "biblio": {
@@ -3252,11 +3256,11 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2024,
@@ -3264,11 +3268,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2022,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2021,
@@ -3304,10 +3308,10 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 9
+          "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3423,6 +3427,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "URA 1364 du CNRS, Laboratoire de Paléontologie et Stratigraphie, Université de Rennes I, 35042 Rennes cedex, France"
@@ -3464,6 +3469,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [
             "Laboratorium voor Paleontologie, Geologisch Instituut, Universiteit Gent, Krijgslaan 281/S8, B-9000 Gent, Belgium"
@@ -3502,6 +3508,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Said Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Arabian Oil Company (ARAMCO), Geological Department, Research and Development Division, Dhahran 31311, Saudi Arabia"
@@ -3540,6 +3547,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Haytham Al-Tayyar",
           "raw_affiliation_strings": [
             "Saudi Arabian Oil Company (ARAMCO), Geological Department, Research and Development Division, Dhahran 31311, Saudi Arabia"
@@ -4142,6 +4150,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [
             "Research and Development Division, Geological Department, Exploration, Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -4684,6 +4693,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id A. Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -4722,6 +4732,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -4760,6 +4771,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lawrence E. Wender",
           "raw_affiliation_strings": [
             "Mobil (previously Saudi Aramco)"
@@ -4798,6 +4810,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. Kent Norton",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -4822,12 +4835,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6944,
+      "fwci": 1.695,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.82177397,
+        "value": 0.82169473,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5182,416 +5195,413 @@
         "https://openalex.org/W3150378705"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
+        "Surface": [
           0
         ],
-        "Surface": [
-          1
-        ],
         "and": [
-          2,
-          16,
-          31,
-          61,
-          108,
-          110,
-          113,
-          127
+          1,
+          15,
+          30,
+          60,
+          107,
+          109,
+          112,
+          126
         ],
         "subsurface": [
-          3
+          2
         ],
         "Devonian": [
-          4,
-          33,
-          49,
-          138
+          3,
+          32,
+          48,
+          137
         ],
         "rocks": [
-          5
+          4
         ],
         "of": [
-          6,
-          14,
-          40,
-          53,
-          90,
-          103,
-          145,
-          158
+          5,
+          13,
+          39,
+          52,
+          89,
+          102,
+          144,
+          157
         ],
         "Saudi": [
-          7,
-          24,
-          123
+          6,
+          23,
+          122
         ],
         "Arabia": [
-          8,
-          25
+          7,
+          24
         ],
         "are": [
-          9,
-          35
-        ],
-        "correlated": [
-          10
-        ],
-        "using": [
-          11
-        ],
-        "a": [
-          12
-        ],
-        "combination": [
-          13
-        ],
-        "palynology": [
-          15
-        ],
-        "sequence": [
-          17
-        ],
-        "stratigraphy.": [
-          18
-        ],
-        "Recent": [
-          19
-        ],
-        "exploratory": [
-          20
-        ],
-        "drilling": [
-          21
-        ],
-        "in": [
-          22,
-          121
-        ],
-        "eastern": [
-          23
-        ],
-        "has": [
-          26
-        ],
-        "confirmed": [
-          27
-        ],
-        "that": [
-          28,
-          64
-        ],
-        "sweet": [
-          29
-        ],
-        "gas": [
-          30
-        ],
-        "condensate-bearing": [
-          32
-        ],
-        "strata": [
+          8,
           34
         ],
-        "preserved": [
-          36
+        "correlated": [
+          9
         ],
-        "on": [
-          37,
-          84,
-          142
+        "using": [
+          10
         ],
-        "the": [
-          38,
-          58,
-          98,
-          143,
-          155,
-          159
+        "a": [
+          11
         ],
-        "flanks": [
-          39
+        "combination": [
+          12
         ],
-        "high-relief": [
-          41
+        "palynology": [
+          14
         ],
-        "Hercynian": [
-          42
+        "sequence": [
+          16
         ],
-        "structures": [
-          43
+        "stratigraphy.": [
+          17
         ],
-        "such": [
-          44
+        "Recent": [
+          18
         ],
-        "as": [
-          45
+        "exploratory": [
+          19
         ],
-        "Ghawar": [
-          46
+        "drilling": [
+          20
         ],
-        "field.": [
-          47
+        "in": [
+          21,
+          120
         ],
-        "This": [
-          48,
-          93,
-          150
+        "eastern": [
+          22
         ],
-        "succession": [
-          50
+        "has": [
+          25
         ],
-        "is": [
-          51,
-          140
+        "confirmed": [
+          26
         ],
-        "composed": [
-          52
-        ],
-        "three": [
-          54
-        ],
-        "homogeneous": [
-          55
-        ],
-        "litho-stratigraphic": [
-          56
-        ],
-        "units,": [
-          57
-        ],
-        "Tawil,": [
-          59
-        ],
-        "Jauf": [
-          60,
-          161
-        ],
-        "Jubah": [
-          62
-        ],
-        "formations": [
+        "that": [
+          27,
           63
         ],
-        "cannot": [
-          65
+        "sweet": [
+          28
         ],
-        "be": [
-          66
+        "gas": [
+          29
         ],
-        "imaged": [
-          67
+        "condensate-bearing": [
+          31
         ],
-        "seismically": [
-          68
+        "strata": [
+          33
         ],
-        "nor": [
-          69
+        "preserved": [
+          35
         ],
-        "readily": [
-          70
-        ],
-        "discerned": [
-          71
-        ],
-        "with": [
-          72,
-          97,
-          154
-        ],
-        "conventional": [
-          73
-        ],
-        "wireline": [
-          74
-        ],
-        "logs.": [
-          75
-        ],
-        "An": [
-          76
-        ],
-        "operational": [
-          77
-        ],
-        "palynological": [
-          78
-        ],
-        "zonation": [
-          79,
-          94
-        ],
-        "was": [
-          80,
-          95
-        ],
-        "consequently": [
-          81
-        ],
-        "devised": [
-          82
-        ],
-        "based": [
+        "on": [
+          36,
           83,
           141
         ],
-        "first": [
-          85
+        "the": [
+          37,
+          57,
+          97,
+          142,
+          154,
+          158
         ],
-        "down-hole": [
-          86
+        "flanks": [
+          38
         ],
-        "occurrences": [
-          87
+        "high-relief": [
+          40
         ],
-        "(i.e.": [
-          88
+        "Hercynian": [
+          41
         ],
-        "extinctions)": [
-          89
+        "structures": [
+          42
         ],
-        "encountered": [
-          91
+        "such": [
+          43
         ],
-        "palynomorphs.": [
-          92
+        "as": [
+          44
         ],
-        "calibrated": [
-          96
+        "Ghawar": [
+          45
         ],
-        "standard": [
-          99
+        "field.": [
+          46
         ],
-        "European": [
-          100
-        ],
-        "spore": [
-          101
-        ],
-        "zonations": [
-          102
-        ],
-        "Streel": [
-          104
-        ],
-        "et": [
-          105
-        ],
-        "al.": [
-          106
-        ],
-        "(1987)": [
-          107
-        ],
-        "Richardson": [
-          109
-        ],
-        "McGregor": [
-          111
-        ],
-        "(1986),": [
-          112
-        ],
-        "further": [
-          114
-        ],
-        "controlled": [
-          115
-        ],
-        "by": [
-          116
-        ],
-        "mega-fossil": [
-          117
-        ],
-        "data": [
-          118
-        ],
-        "from": [
-          119
-        ],
-        "outcrops": [
-          120
-        ],
-        "northwestern": [
-          122
-        ],
-        "Arabia.": [
-          124
-        ],
-        "Six": [
-          125
-        ],
-        "palynozones,": [
-          126
-        ],
-        "four": [
-          128
-        ],
-        "subzones,": [
-          129
-        ],
-        "have": [
-          130
-        ],
-        "been": [
-          131
-        ],
-        "recognized.": [
-          132
-        ],
-        "A": [
-          133
-        ],
-        "particularly": [
-          134
-        ],
-        "reliable": [
-          135
-        ],
-        "late": [
-          136
-        ],
-        "Early": [
-          137
-        ],
-        "zone": [
-          139
-        ],
-        "acme": [
-          144
-        ],
-        "an": [
-          146
-        ],
-        "endemic": [
-          147
-        ],
-        "Leiosphaeridia": [
-          148
-        ],
-        "species.": [
+        "This": [
+          47,
+          92,
           149
         ],
-        "palynosubzone": [
-          151
+        "succession": [
+          49
         ],
-        "coincides": [
-          152
+        "is": [
+          50,
+          139
         ],
-        "stratigraphically": [
-          153
+        "composed": [
+          51
         ],
-        "upper": [
-          156
+        "three": [
+          53
         ],
-        "part": [
-          157
+        "homogeneous": [
+          54
         ],
-        "gas-bearing": [
+        "litho-stratigraphic": [
+          55
+        ],
+        "units,": [
+          56
+        ],
+        "Tawil,": [
+          58
+        ],
+        "Jauf": [
+          59,
           160
         ],
+        "Jubah": [
+          61
+        ],
+        "formations": [
+          62
+        ],
+        "cannot": [
+          64
+        ],
+        "be": [
+          65
+        ],
+        "imaged": [
+          66
+        ],
+        "seismically": [
+          67
+        ],
+        "nor": [
+          68
+        ],
+        "readily": [
+          69
+        ],
+        "discerned": [
+          70
+        ],
+        "with": [
+          71,
+          96,
+          153
+        ],
+        "conventional": [
+          72
+        ],
+        "wireline": [
+          73
+        ],
+        "logs.": [
+          74
+        ],
+        "An": [
+          75
+        ],
+        "operational": [
+          76
+        ],
+        "palynological": [
+          77
+        ],
+        "zonation": [
+          78,
+          93
+        ],
+        "was": [
+          79,
+          94
+        ],
+        "consequently": [
+          80
+        ],
+        "devised": [
+          81
+        ],
+        "based": [
+          82,
+          140
+        ],
+        "first": [
+          84
+        ],
+        "down-hole": [
+          85
+        ],
+        "occurrences": [
+          86
+        ],
+        "(i.e.": [
+          87
+        ],
+        "extinctions)": [
+          88
+        ],
+        "encountered": [
+          90
+        ],
+        "palynomorphs.": [
+          91
+        ],
+        "calibrated": [
+          95
+        ],
+        "standard": [
+          98
+        ],
+        "European": [
+          99
+        ],
+        "spore": [
+          100
+        ],
+        "zonations": [
+          101
+        ],
+        "Streel": [
+          103
+        ],
+        "et": [
+          104
+        ],
+        "al.": [
+          105
+        ],
+        "(1987)": [
+          106
+        ],
+        "Richardson": [
+          108
+        ],
+        "McGregor": [
+          110
+        ],
+        "(1986),": [
+          111
+        ],
+        "further": [
+          113
+        ],
+        "controlled": [
+          114
+        ],
+        "by": [
+          115
+        ],
+        "mega-fossil": [
+          116
+        ],
+        "data": [
+          117
+        ],
+        "from": [
+          118
+        ],
+        "outcrops": [
+          119
+        ],
+        "northwestern": [
+          121
+        ],
+        "Arabia.": [
+          123
+        ],
+        "Six": [
+          124
+        ],
+        "palynozones,": [
+          125
+        ],
+        "four": [
+          127
+        ],
+        "subzones,": [
+          128
+        ],
+        "have": [
+          129
+        ],
+        "been": [
+          130
+        ],
+        "recognized.": [
+          131
+        ],
+        "A": [
+          132
+        ],
+        "particularly": [
+          133
+        ],
+        "reliable": [
+          134
+        ],
+        "late": [
+          135
+        ],
+        "Early": [
+          136
+        ],
+        "zone": [
+          138
+        ],
+        "acme": [
+          143
+        ],
+        "an": [
+          145
+        ],
+        "endemic": [
+          146
+        ],
+        "Leiosphaeridia": [
+          147
+        ],
+        "species.": [
+          148
+        ],
+        "palynosubzone": [
+          150
+        ],
+        "coincides": [
+          151
+        ],
+        "stratigraphically": [
+          152
+        ],
+        "upper": [
+          155
+        ],
+        "part": [
+          156
+        ],
+        "gas-bearing": [
+          159
+        ],
         "Reservoir.": [
-          162
+          161
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3128695080",
@@ -5614,11 +5624,11 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2019,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2018,
@@ -5645,7 +5655,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -5792,6 +5802,7 @@
             "FR"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
@@ -5840,6 +5851,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [
             "Research Unit of Paleontology, Department of Geology and Soil Sciences, Ghent University, Krijglsaan 281/S8, 9000 Ghent, Belgium"
@@ -5867,6 +5879,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [
             "IRF Group, Inc., 2357 East 23rd street, Tulsa, OK 74114, USA"
@@ -5903,6 +5916,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa'id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
@@ -5941,6 +5955,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [
             "Saudi Aramco, Gas Fields Characterization Division, 31311 Dhahran, Saudi Arabia"
@@ -5981,6 +5996,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [
             "Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK"
@@ -6014,12 +6030,12 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.6566,
+      "fwci": 2.6451,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.89551172,
+        "value": 0.89501425,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6479,11 +6495,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2021,
@@ -6518,7 +6534,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6611,6 +6627,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "University of Rennes I"
@@ -6652,6 +6669,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [
             "University of Gent"
@@ -6690,6 +6708,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -6712,12 +6731,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3063,
+      "fwci": 2.3086,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.84210526,
+        "value": 0.84432718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6988,553 +7007,550 @@
       ],
       "abstract_inverted_index": {
         "96": [
-          29
-        ],
-        "ABSTRACT": [
-          0
+          28
         ],
         "Biostratigraphic": [
-          1
+          0
         ],
         "investigations": [
-          2
+          1
         ],
         "have": [
+          2,
+          218
+        ],
+        "been": [
           3,
           219
         ],
-        "been": [
-          4,
-          220
-        ],
         "carried": [
-          5
+          4
         ],
         "out": [
-          6
+          5
         ],
         "on": [
-          7
+          6
         ],
         "Ordovician": [
-          8,
-          118,
-          150,
-          165
+          7,
+          117,
+          149,
+          164
         ],
         "chitinozoans": [
-          9,
-          97
+          8,
+          96
         ],
         "mostly": [
-          10
+          9
         ],
         "from": [
-          11,
-          33,
-          175
+          10,
+          32,
+          174
         ],
         "the": [
-          12,
-          20,
-          28,
-          53,
-          87,
-          102,
-          117,
-          122,
-          134,
-          149,
-          164,
-          176,
-          184,
-          201
+          11,
+          19,
+          27,
+          52,
+          86,
+          101,
+          116,
+          121,
+          133,
+          148,
+          163,
+          175,
+          183,
+          200
         ],
         "Quwarah,": [
+          12,
+          176
+        ],
+        "Ra’an,": [
           13,
           177
         ],
-        "Ra’an,": [
+        "Kahfah": [
           14,
           178
         ],
-        "Kahfah": [
-          15,
-          179
-        ],
         "and": [
-          16,
-          46,
-          60,
-          180,
-          196
+          15,
+          45,
+          59,
+          179,
+          195
         ],
         "Hanadir": [
+          16,
+          180
+        ],
+        "members": [
           17,
           181
         ],
-        "members": [
-          18,
-          182
-        ],
         "of": [
-          19,
-          38,
-          68,
-          75,
-          86,
-          92,
-          116,
-          133,
-          168,
-          183,
-          206
+          18,
+          37,
+          67,
+          74,
+          85,
+          91,
+          115,
+          132,
+          167,
+          182,
+          205
         ],
         "Qasim": [
-          21,
-          185
+          20,
+          184
         ],
         "Formation": [
-          22,
-          186,
-          203
+          21,
+          185,
+          202
         ],
         "in": [
-          23,
-          163,
-          226
+          22,
+          162,
+          225
         ],
         "central": [
-          24,
-          169
+          23,
+          168
         ],
         "Saudi": [
+          24,
+          109,
+          169
+        ],
+        "Arabia.": [
           25,
           110,
           170
         ],
-        "Arabia.": [
-          26,
-          111,
-          171
-        ],
         "Among": [
-          27
+          26
         ],
         "core": [
-          30
+          29
         ],
         "samples": [
-          31,
-          139,
-          174
+          30,
+          138,
+          173
         ],
         "processed": [
-          32
+          31
         ],
         "seven": [
-          34
+          33
         ],
         "wells,": [
-          35,
-          55
-        ],
-        "about": [
-          36
-        ],
-        "half": [
-          37
-        ],
-        "them": [
-          39
-        ],
-        "(from": [
-          40
-        ],
-        "wells": [
-          41
-        ],
-        "Berri-84,": [
-          42
-        ],
-        "Shedgum-239,": [
-          43
-        ],
-        "Ain": [
-          44,
-          47,
-          57
-        ],
-        "Dar-196": [
-          45
-        ],
-        "Dar-277)": [
-          48
-        ],
-        "provided": [
-          49
-        ],
-        "workable": [
-          50
-        ],
-        "specimens,": [
-          51
-        ],
-        "whereas": [
-          52
-        ],
-        "other": [
+          34,
           54
         ],
-        "namely": [
+        "about": [
+          35
+        ],
+        "half": [
+          36
+        ],
+        "them": [
+          38
+        ],
+        "(from": [
+          39
+        ],
+        "wells": [
+          40
+        ],
+        "Berri-84,": [
+          41
+        ],
+        "Shedgum-239,": [
+          42
+        ],
+        "Ain": [
+          43,
+          46,
           56
         ],
+        "Dar-196": [
+          44
+        ],
+        "Dar-277)": [
+          47
+        ],
+        "provided": [
+          48
+        ],
+        "workable": [
+          49
+        ],
+        "specimens,": [
+          50
+        ],
+        "whereas": [
+          51
+        ],
+        "other": [
+          53
+        ],
+        "namely": [
+          55
+        ],
         "Dar-281,": [
-          58
+          57
         ],
         "Haradh-51": [
-          59
+          58
         ],
         "Abu": [
-          61
+          60
         ],
         "Jifan-25": [
-          62
+          61
         ],
         "were": [
-          63
+          62
         ],
         "barren.": [
-          64
+          63
         ],
         "Some": [
-          65
+          64
         ],
         "chitinozoan": [
-          66,
-          89,
-          104,
-          119,
-          151
+          65,
+          88,
+          103,
+          118,
+          150
         ],
         "species": [
-          67,
-          90,
-          218
+          66,
+          89,
+          217
         ],
         "Baltic": [
-          69
+          68
         ],
         "affinities": [
-          70,
-          77
-        ],
-        "(e.g.": [
-          71,
-          78,
-          130
-        ],
-        "Laufeldochitina": [
-          72
-        ],
-        "striata)": [
-          73
-        ],
-        "or": [
-          74
-        ],
-        "Laurentian": [
+          69,
           76
         ],
+        "(e.g.": [
+          70,
+          77,
+          129
+        ],
+        "Laufeldochitina": [
+          71
+        ],
+        "striata)": [
+          72
+        ],
+        "or": [
+          73
+        ],
+        "Laurentian": [
+          75
+        ],
         "Lagenochitina": [
-          79
+          78
         ],
         "cf.": [
-          80
+          79
         ],
         "pirum)": [
-          81
+          80
         ],
         "are": [
-          82,
-          91,
-          140,
-          187,
-          204,
-          223
+          81,
+          90,
+          139,
+          186,
+          203,
+          222
         ],
         "present,": [
-          83
+          82
         ],
         "but": [
-          84,
-          210
+          83,
+          209
         ],
         "most": [
-          85
+          84
         ],
         "recovered": [
-          88
+          87
         ],
         "northern": [
-          93,
-          109,
-          123
+          92,
+          108,
+          122
         ],
         "Gondwana": [
-          94,
-          124
+          93,
+          123
         ],
         "affinities.": [
-          95
+          94
         ],
         "These": [
-          96
+          95
         ],
         "allow": [
-          98
+          97
         ],
         "accurate": [
-          99
+          98
         ],
         "correlation": [
+          99,
+          112
+        ],
+        "with": [
           100,
           113
         ],
-        "with": [
-          101,
-          114
-        ],
         "local": [
-          103
+          102
         ],
         "biozones": [
-          105,
-          120
+          104,
+          119
         ],
         "already": [
-          106
+          105
         ],
         "established": [
-          107
+          106
         ],
         "for": [
-          108,
-          121,
-          146,
-          235
-        ],
-        "Precise": [
-          112
-        ],
-        "some": [
-          115
-        ],
-        "regions": [
-          125
-        ],
-        "can": [
-          126
-        ],
-        "also": [
-          127
-        ],
-        "be": [
-          128
-        ],
-        "proposed": [
-          129
-        ],
-        "lower": [
-          131
-        ],
-        "part": [
-          132
-        ],
-        "pissotensis": [
-          135
-        ],
-        "biozone).": [
-          136
-        ],
-        "The": [
-          137,
-          172
-        ],
-        "available": [
-          138,
+          107,
+          120,
+          145,
           234
         ],
-        "not,": [
-          141
+        "Precise": [
+          111
         ],
-        "however,": [
-          142
+        "some": [
+          114
         ],
-        "sufficiently": [
-          143
+        "regions": [
+          124
         ],
-        "closely": [
-          144
+        "can": [
+          125
         ],
-        "spaced": [
-          145
+        "also": [
+          126
         ],
-        "characterizing": [
-          147
+        "be": [
+          127
         ],
-        "all": [
-          148
+        "proposed": [
+          128
         ],
-        "biozones.": [
-          152
+        "lower": [
+          130
         ],
-        "It": [
-          153
+        "part": [
+          131
         ],
-        "is": [
-          154,
+        "pissotensis": [
+          134
+        ],
+        "biozone).": [
+          135
+        ],
+        "The": [
+          136,
+          171
+        ],
+        "available": [
+          137,
           233
         ],
-        "not": [
-          155
+        "not,": [
+          140
         ],
-        "yet": [
-          156
+        "however,": [
+          141
         ],
-        "possible,": [
-          157
+        "sufficiently": [
+          142
         ],
-        "therefore,": [
-          158
+        "closely": [
+          143
         ],
-        "to": [
-          159,
-          200
+        "spaced": [
+          144
         ],
-        "document": [
-          160
+        "characterizing": [
+          146
         ],
-        "eventual": [
-          161
+        "all": [
+          147
         ],
-        "hiatuses": [
-          162
+        "biozones.": [
+          151
         ],
-        "sedimentary": [
-          166
+        "It": [
+          152
         ],
-        "succession": [
-          167
-        ],
-        "investigated": [
-          173
-        ],
-        "respectively": [
-          188
-        ],
-        "dated": [
-          189
-        ],
-        "as": [
-          190
-        ],
-        "Ashgill,": [
-          191,
-          194
-        ],
-        "late": [
-          192
-        ],
-        "Caradoc/earliest": [
-          193
-        ],
-        "Caradoc": [
-          195
-        ],
-        "Llanvirn.": [
-          197
-        ],
-        "Strata": [
-          198
-        ],
-        "referred": [
-          199
-        ],
-        "Sarah": [
-          202
-        ],
-        "probably": [
-          205
-        ],
-        "topmost": [
-          207
-        ],
-        "Ashgill": [
-          208
-        ],
-        "age": [
-          209
-        ],
-        "may": [
-          211
-        ],
-        "range": [
-          212
-        ],
-        "into": [
-          213
-        ],
-        "earliest": [
-          214
-        ],
-        "Llandovery.": [
-          215
-        ],
-        "Several": [
-          216
-        ],
-        "new": [
-          217
-        ],
-        "observed.": [
-          221
-        ],
-        "They": [
-          222
-        ],
-        "presently": [
-          224
-        ],
-        "kept": [
-          225
-        ],
-        "open": [
-          227
-        ],
-        "nomenclature": [
-          228
-        ],
-        "until": [
-          229
-        ],
-        "better": [
-          230
-        ],
-        "preserved": [
-          231
-        ],
-        "material": [
+        "is": [
+          153,
           232
         ],
+        "not": [
+          154
+        ],
+        "yet": [
+          155
+        ],
+        "possible,": [
+          156
+        ],
+        "therefore,": [
+          157
+        ],
+        "to": [
+          158,
+          199
+        ],
+        "document": [
+          159
+        ],
+        "eventual": [
+          160
+        ],
+        "hiatuses": [
+          161
+        ],
+        "sedimentary": [
+          165
+        ],
+        "succession": [
+          166
+        ],
+        "investigated": [
+          172
+        ],
+        "respectively": [
+          187
+        ],
+        "dated": [
+          188
+        ],
+        "as": [
+          189
+        ],
+        "Ashgill,": [
+          190,
+          193
+        ],
+        "late": [
+          191
+        ],
+        "Caradoc/earliest": [
+          192
+        ],
+        "Caradoc": [
+          194
+        ],
+        "Llanvirn.": [
+          196
+        ],
+        "Strata": [
+          197
+        ],
+        "referred": [
+          198
+        ],
+        "Sarah": [
+          201
+        ],
+        "probably": [
+          204
+        ],
+        "topmost": [
+          206
+        ],
+        "Ashgill": [
+          207
+        ],
+        "age": [
+          208
+        ],
+        "may": [
+          210
+        ],
+        "range": [
+          211
+        ],
+        "into": [
+          212
+        ],
+        "earliest": [
+          213
+        ],
+        "Llandovery.": [
+          214
+        ],
+        "Several": [
+          215
+        ],
+        "new": [
+          216
+        ],
+        "observed.": [
+          220
+        ],
+        "They": [
+          221
+        ],
+        "presently": [
+          223
+        ],
+        "kept": [
+          224
+        ],
+        "open": [
+          226
+        ],
+        "nomenclature": [
+          227
+        ],
+        "until": [
+          228
+        ],
+        "better": [
+          229
+        ],
+        "preserved": [
+          230
+        ],
+        "material": [
+          231
+        ],
         "proposing": [
-          236
+          235
         ],
         "well-documented": [
-          237
+          236
         ],
         "diagnosis.": [
-          238
+          237
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2620415727",
@@ -7580,7 +7596,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -7683,6 +7699,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "T.E. Stump",
           "raw_affiliation_strings": [
             "Saudi Aramco, P.O. Box 10716, Dhahran, 31311, Saudi Arabia"
@@ -7721,6 +7738,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, P.O. Box 10716, Dhahran, 31311, Saudi Arabia"
@@ -7759,6 +7777,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "J.G.L.A. Van der Eem",
           "raw_affiliation_strings": [
             "Saudi Aramco, P.O. Box 10716, Dhahran, 31311, Saudi Arabia"
@@ -8205,6 +8224,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -8243,6 +8263,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [
             "University of Sheffield",
@@ -8272,12 +8293,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.845,
+      "fwci": 1.8469,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.76578947,
+        "value": 0.76781003,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8531,147 +8552,144 @@
         "https://openalex.org/W4367040421"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
         "A": [
-          1,
-          40
-        ],
-        "Kingdom-wide": [
-          2
-        ],
-        "palynological": [
-          3
-        ],
-        "analysis": [
-          4
-        ],
-        "was": [
-          5
-        ],
-        "carried": [
-          6
-        ],
-        "out": [
-          7
-        ],
-        "on": [
-          8
-        ],
-        "the": [
-          9,
-          13,
-          16,
-          46
-        ],
-        "Palaeozoic": [
-          10,
-          47
-        ],
-        "section": [
-          11
-        ],
-        "within": [
-          12
-        ],
-        "framework": [
-          14
-        ],
-        "of": [
-          15,
-          37,
-          45,
-          48
-        ],
-        "Saudi": [
-          17,
-          49
-        ],
-        "Aramco-Commission": [
-          18
-        ],
-        "Internationale": [
-          19
-        ],
-        "de": [
-          20
-        ],
-        "Microflore": [
-          21
-        ],
-        "du": [
-          22
-        ],
-        "Paléozoïque": [
-          23
-        ],
-        "(CIMP)": [
-          24
-        ],
-        "Project.": [
-          25
-        ],
-        "Thirty-three": [
-          26
-        ],
-        "biostratigraphic": [
-          27
-        ],
-        "assemblages": [
-          28
-        ],
-        "and": [
-          29,
-          42
-        ],
-        "zones": [
-          30
-        ],
-        "have": [
-          31
-        ],
-        "been": [
-          32
-        ],
-        "documented": [
-          33
-        ],
-        "as": [
-          34
-        ],
-        "a": [
-          35
-        ],
-        "result": [
-          36
-        ],
-        "this": [
-          38
-        ],
-        "study.": [
+          0,
           39
         ],
-        "palynostratigraphic": [
+        "Kingdom-wide": [
+          1
+        ],
+        "palynological": [
+          2
+        ],
+        "analysis": [
+          3
+        ],
+        "was": [
+          4
+        ],
+        "carried": [
+          5
+        ],
+        "out": [
+          6
+        ],
+        "on": [
+          7
+        ],
+        "the": [
+          8,
+          12,
+          15,
+          45
+        ],
+        "Palaeozoic": [
+          9,
+          46
+        ],
+        "section": [
+          10
+        ],
+        "within": [
+          11
+        ],
+        "framework": [
+          13
+        ],
+        "of": [
+          14,
+          36,
+          44,
+          47
+        ],
+        "Saudi": [
+          16,
+          48
+        ],
+        "Aramco-Commission": [
+          17
+        ],
+        "Internationale": [
+          18
+        ],
+        "de": [
+          19
+        ],
+        "Microflore": [
+          20
+        ],
+        "du": [
+          21
+        ],
+        "Paléozoïque": [
+          22
+        ],
+        "(CIMP)": [
+          23
+        ],
+        "Project.": [
+          24
+        ],
+        "Thirty-three": [
+          25
+        ],
+        "biostratigraphic": [
+          26
+        ],
+        "assemblages": [
+          27
+        ],
+        "and": [
+          28,
           41
         ],
+        "zones": [
+          29
+        ],
+        "have": [
+          30
+        ],
+        "been": [
+          31
+        ],
+        "documented": [
+          32
+        ],
+        "as": [
+          33
+        ],
+        "a": [
+          34
+        ],
+        "result": [
+          35
+        ],
+        "this": [
+          37
+        ],
+        "study.": [
+          38
+        ],
+        "palynostratigraphic": [
+          40
+        ],
         "lithostratigraphic": [
-          43
+          42
         ],
         "review": [
-          44
+          43
         ],
         "Arabia": [
-          50
+          49
         ],
         "is": [
-          51
+          50
         ],
         "provided": [
-          52
+          51
         ],
         "herein.": [
-          53
+          52
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2303823290",
@@ -8725,7 +8743,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8807,6 +8825,7 @@
             "IE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Geoffrey Clayton",
           "raw_affiliation_strings": [
             "Trinity College Dublin"
@@ -8856,6 +8875,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [
             "University of Sheffield",
@@ -8901,6 +8921,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -8939,6 +8960,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -8961,12 +8983,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3838,
+      "fwci": 1.3852,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.68684211,
+        "value": 0.68601583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9209,303 +9231,300 @@
       ],
       "abstract_inverted_index": {
         "300": [
-          81
+          80
         ],
         "530": [
-          25
-        ],
-        "ABSTRACT": [
-          0
+          24
         ],
         "Upper": [
+          0,
+          33,
+          49,
+          103
+        ],
+        "Devonian": [
           1,
           34,
           50,
+          56,
           104
         ],
-        "Devonian": [
-          2,
-          35,
-          51,
-          57,
-          105
-        ],
         "and": [
-          3,
-          33,
-          49,
-          96
+          2,
+          32,
+          48,
+          95
         ],
         "Lower": [
+          3,
+          30
+        ],
+        "Carboniferous": [
           4,
           31
         ],
-        "Carboniferous": [
-          5,
-          32
-        ],
         "miospore": [
-          6,
-          42
-        ],
-        "assemblages": [
-          7,
-          43,
-          90,
-          102
-        ],
-        "are": [
-          8,
-          60
-        ],
-        "described": [
-          9
-        ],
-        "from": [
-          10
-        ],
-        "two": [
-          11
-        ],
-        "wells": [
-          12
-        ],
-        "in": [
-          13,
-          21,
-          52,
-          62,
-          76,
-          98,
-          113,
-          122
-        ],
-        "Saudi": [
-          14,
-          78
-        ],
-        "Arabia.": [
-          15
-        ],
-        "Well": [
-          16,
-          37,
-          66
-        ],
-        "Abu": [
-          17
-        ],
-        "Safah-29": [
-          18
-        ],
-        "(ABSF-29),": [
-          19
-        ],
-        "located": [
-          20,
-          69
-        ],
-        "the": [
-          22,
-          45,
-          63,
-          72,
-          99,
-          116,
-          125
-        ],
-        "Arabian": [
-          23
-        ],
-        "Gulf,": [
-          24
-        ],
-        "kilometres": [
-          26,
-          82
-        ],
-        "northeast": [
-          27
-        ],
-        "of": [
-          28,
-          71,
-          84,
-          103,
-          124
-        ],
-        "Riyadh,": [
-          29
-        ],
-        "penetrated": [
-          30
-        ],
-        "sediments.": [
-          36
-        ],
-        "preserved": [
-          38,
-          88,
-          121
-        ],
-        "but": [
-          39
-        ],
-        "highly": [
-          40
-        ],
-        "carbonised": [
+          5,
           41
         ],
-        "represent": [
-          44
-        ],
-        "Visean,": [
-          46
-        ],
-        "lower": [
-          47
-        ],
-        "Tournaisian": [
-          48,
-          64
-        ],
-        "this": [
-          53
-        ],
-        "section.": [
-          54
-        ],
-        "Reworked": [
-          55
-        ],
-        "uppermost": [
-          56
-        ],
-        "(Strunian)": [
-          58
-        ],
-        "taxa": [
-          59
-        ],
-        "common": [
-          61
-        ],
-        "assemblages.": [
-          65
-        ],
-        "Harmaliyah-51": [
-          67
-        ],
-        "(HRML-51),": [
-          68
-        ],
-        "east": [
-          70,
-          83
-        ],
-        "Ghawar": [
-          73
-        ],
-        "oil": [
-          74
-        ],
-        "field": [
-          75
-        ],
-        "eastern": [
-          77
-        ],
-        "Arabia": [
-          79
-        ],
-        "(about": [
-          80
-        ],
-        "Riyadh),": [
-          85
-        ],
-        "contains": [
-          86
-        ],
-        "well": [
-          87,
-          126
-        ],
-        "Strunian": [
-          89
-        ],
-        "dominated": [
-          91
-        ],
-        "quantitatively": [
-          92
-        ],
-        "by": [
-          93
-        ],
-        "Retispora": [
-          94
-        ],
-        "lepidophyta,": [
-          95
-        ],
-        "deeper": [
-          97
-        ],
-        "well,": [
-          100
-        ],
-        "poor": [
+        "assemblages": [
+          6,
+          42,
+          89,
           101
         ],
-        "(pre-Strunian)": [
-          106
+        "are": [
+          7,
+          59
         ],
-        "age.": [
-          107
+        "described": [
+          8
         ],
-        "Erosion": [
-          108
+        "from": [
+          9
         ],
-        "or": [
-          109
+        "two": [
+          10
         ],
-        "non-deposition": [
-          110
+        "wells": [
+          11
         ],
-        "has": [
-          111
+        "in": [
+          12,
+          20,
+          51,
+          61,
+          75,
+          97,
+          112,
+          121
         ],
-        "resulted": [
-          112
+        "Saudi": [
+          13,
+          77
         ],
-        "strata": [
-          114
+        "Arabia.": [
+          14
         ],
-        "including": [
-          115
+        "Well": [
+          15,
+          36,
+          65
         ],
-        "Devonian-Carboniferous": [
-          117
+        "Abu": [
+          16
         ],
-        "boundary": [
-          118
+        "Safah-29": [
+          17
         ],
-        "not": [
-          119
+        "(ABSF-29),": [
+          18
         ],
-        "being": [
-          120
+        "located": [
+          19,
+          68
         ],
-        "either": [
+        "the": [
+          21,
+          44,
+          62,
+          71,
+          98,
+          115,
+          124
+        ],
+        "Arabian": [
+          22
+        ],
+        "Gulf,": [
+          23
+        ],
+        "kilometres": [
+          25,
+          81
+        ],
+        "northeast": [
+          26
+        ],
+        "of": [
+          27,
+          70,
+          83,
+          102,
           123
         ],
+        "Riyadh,": [
+          28
+        ],
+        "penetrated": [
+          29
+        ],
+        "sediments.": [
+          35
+        ],
+        "preserved": [
+          37,
+          87,
+          120
+        ],
+        "but": [
+          38
+        ],
+        "highly": [
+          39
+        ],
+        "carbonised": [
+          40
+        ],
+        "represent": [
+          43
+        ],
+        "Visean,": [
+          45
+        ],
+        "lower": [
+          46
+        ],
+        "Tournaisian": [
+          47,
+          63
+        ],
+        "this": [
+          52
+        ],
+        "section.": [
+          53
+        ],
+        "Reworked": [
+          54
+        ],
+        "uppermost": [
+          55
+        ],
+        "(Strunian)": [
+          57
+        ],
+        "taxa": [
+          58
+        ],
+        "common": [
+          60
+        ],
+        "assemblages.": [
+          64
+        ],
+        "Harmaliyah-51": [
+          66
+        ],
+        "(HRML-51),": [
+          67
+        ],
+        "east": [
+          69,
+          82
+        ],
+        "Ghawar": [
+          72
+        ],
+        "oil": [
+          73
+        ],
+        "field": [
+          74
+        ],
+        "eastern": [
+          76
+        ],
+        "Arabia": [
+          78
+        ],
+        "(about": [
+          79
+        ],
+        "Riyadh),": [
+          84
+        ],
+        "contains": [
+          85
+        ],
+        "well": [
+          86,
+          125
+        ],
+        "Strunian": [
+          88
+        ],
+        "dominated": [
+          90
+        ],
+        "quantitatively": [
+          91
+        ],
+        "by": [
+          92
+        ],
+        "Retispora": [
+          93
+        ],
+        "lepidophyta,": [
+          94
+        ],
+        "deeper": [
+          96
+        ],
+        "well,": [
+          99
+        ],
+        "poor": [
+          100
+        ],
+        "(pre-Strunian)": [
+          105
+        ],
+        "age.": [
+          106
+        ],
+        "Erosion": [
+          107
+        ],
+        "or": [
+          108
+        ],
+        "non-deposition": [
+          109
+        ],
+        "has": [
+          110
+        ],
+        "resulted": [
+          111
+        ],
+        "strata": [
+          113
+        ],
+        "including": [
+          114
+        ],
+        "Devonian-Carboniferous": [
+          116
+        ],
+        "boundary": [
+          117
+        ],
+        "not": [
+          118
+        ],
+        "being": [
+          119
+        ],
+        "either": [
+          122
+        ],
         "sections": [
-          127
+          126
         ],
         "investigated.": [
-          128
+          127
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3103362397",
@@ -9535,7 +9554,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2020-11-23T00:00:00"
     },
     {
@@ -9636,6 +9655,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Wilson A. Taylor",
           "raw_affiliation_strings": [
             "Department of Biology, University of Wisconsin Eau Claire, Eau Claire, WI, USA"
@@ -9676,6 +9696,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Paul K. Strother",
           "raw_affiliation_strings": [
             "Department of Earth and Environmental Sciences, Boston College Weston Observatory, Weston, MA, USA"
@@ -9716,6 +9737,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [
             "Exploration Technical Services Department, Biostratigraphy Group, Dhahran, Saudi Aramco, Saudi Arabia"
@@ -9754,6 +9776,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Exploration Technical Services Department, Biostratigraphy Group, Dhahran, Saudi Aramco, Saudi Arabia"
@@ -10274,6 +10297,7 @@
             "EE"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Olle Hints",
           "raw_affiliation_strings": [
             "Institute of Geology at Tallinn University of Technology, Ehitajate 5, 19086 Tallinn, Estonia",
@@ -10361,6 +10385,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
@@ -10414,6 +10439,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa'id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia",
@@ -11066,6 +11092,7 @@
             "FR"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
@@ -11101,6 +11128,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [
             "IRF Group, Inc., 2357 East 23rd Street, Tulsa, OK 74114, USA"
@@ -11137,6 +11165,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa'id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
@@ -11177,6 +11206,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jan Zalasiewicz",
           "raw_affiliation_strings": [
             "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK"
@@ -11708,6 +11738,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [
             "Geological Research and DevelopmentExploration, Saudi Aramco Dhahran 31311, Saudi Arabia"
@@ -11779,6 +11810,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "F. Paris",
           "raw_affiliation_strings": [
             "Laboratoire de Sédimentologie et Paléontologie Géosciences, UPR 4661 du CNRS Université de Rennes 1 F-35042 Rennes, cedex France"
@@ -12106,9 +12138,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -12280,6 +12312,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Stewart G. Molyneux",
           "raw_affiliation_strings": [
             "British Geological Survey"
@@ -12318,6 +12351,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -12340,12 +12374,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9225,
+      "fwci": 0.9235,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.59736842,
+        "value": 0.59630607,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12609,582 +12643,579 @@
         "https://openalex.org/W2026129806"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
         "The": [
-          1,
-          152,
-          178
+          0,
+          151,
+          177
         ],
         "sub-surface": [
-          2
+          1
         ],
         "Lower": [
-          3,
-          35,
-          115
+          2,
+          34,
+          114
         ],
         "Palaeozoic": [
-          4,
-          36
+          3,
+          35
         ],
         "succession": [
-          5,
-          37,
-          76,
-          164
+          4,
+          36,
+          75,
+          163
         ],
         "in": [
-          6,
-          38,
-          64,
-          77,
-          136,
-          167,
-          245
+          5,
+          37,
+          63,
+          76,
+          135,
+          166,
+          244
         ],
         "central": [
-          7,
-          65,
-          78,
-          233
+          6,
+          64,
+          77,
+          232
         ],
         "Saudi": [
-          8,
-          40,
-          66,
-          79,
-          169,
-          253
-        ],
-        "Arabia": [
-          9,
-          41,
-          80
-        ],
-        "includes": [
-          10
-        ],
-        "a": [
-          11,
-          158
-        ],
-        "sandstone-dominated": [
-          12,
-          133
-        ],
-        "unit,": [
-          13
-        ],
-        "up": [
-          14
-        ],
-        "to": [
-          15,
-          83,
-          91,
-          114,
-          117,
-          149,
-          239
-        ],
-        "2,000": [
-          16
-        ],
-        "feet": [
-          17
-        ],
-        "thick,": [
-          18
-        ],
-        "which": [
-          19
-        ],
-        "is": [
-          20,
-          42
-        ],
-        "overlain": [
-          21
-        ],
-        "by": [
-          22
-        ],
-        "either": [
-          23
-        ],
-        "Silurian": [
-          24
-        ],
-        "or": [
-          25,
-          140
-        ],
-        "Permian": [
-          26
-        ],
-        "strata.": [
-          27
-        ],
-        "Correlation": [
-          28
-        ],
-        "of": [
-          29,
-          48,
-          56,
-          93,
-          103,
-          161,
-          188,
-          195,
-          202,
-          208,
-          223,
-          231,
-          241,
-          251
-        ],
-        "the": [
-          30,
-          33,
-          49,
-          52,
-          57,
-          75,
-          86,
-          94,
-          100,
-          104,
-          109,
-          132,
-          162,
-          175,
-          185,
-          189,
-          224,
-          232,
-          246
-        ],
-        "sandstones": [
-          31
-        ],
-        "with": [
-          32,
-          85,
-          157,
-          173
-        ],
-        "exposed": [
-          34
-        ],
-        "northwest": [
+          7,
           39,
+          65,
+          78,
           168,
           252
         ],
-        "problematical,": [
-          43
+        "Arabia": [
+          8,
+          40,
+          79
         ],
-        "partly": [
-          44
+        "includes": [
+          9
         ],
-        "because": [
-          45
+        "a": [
+          10,
+          157
         ],
-        "graptolite-bearing": [
-          46
+        "sandstone-dominated": [
+          11,
+          132
         ],
-        "shales": [
-          47
+        "unit,": [
+          12
         ],
-        "latter,": [
-          50
+        "up": [
+          13
         ],
-        "notably": [
-          51
-        ],
-        "Hanadir": [
-          53
-        ],
-        "Shale": [
-          54
-        ],
-        "Member": [
-          55,
-          88
-        ],
-        "Qasim": [
-          58,
-          95,
-          105
-        ],
-        "Formation,": [
-          59,
-          96
-        ],
-        "have": [
-          60
-        ],
-        "not": [
-          61
-        ],
-        "been": [
-          62
-        ],
-        "identified": [
-          63
-        ],
-        "Arabian": [
-          67,
-          234
-        ],
-        "wells.": [
-          68
-        ],
-        "Based": [
-          69
-        ],
-        "on": [
-          70,
-          120
-        ],
-        "Formation": [
-          71,
-          106,
-          111
-        ],
-        "Microscanner": [
-          72
-        ],
-        "(FMS)": [
-          73
-        ],
-        "images,": [
-          74
-        ],
-        "was": [
-          81
-        ],
-        "considered": [
-          82
-        ],
-        "correlate": [
-          84
-        ],
-        "Quwarah": [
-          87
-        ],
-        "(upper": [
-          89
-        ],
-        "Caradoc": [
+        "to": [
+          14,
+          82,
           90,
-          250
-        ],
-        "Ashgill)": [
-          92
-        ],
-        "cutting": [
-          97
-        ],
-        "down": [
-          98
-        ],
-        "through": [
-          99,
-          143
-        ],
-        "underlying": [
-          101
-        ],
-        "members": [
-          102
-        ],
-        "(Ordovician)": [
-          107
-        ],
-        "and": [
-          108,
-          146,
-          198,
-          236,
-          248
-        ],
-        "Saq": [
-          110
-        ],
-        "(Middle": [
-          112
-        ],
-        "Cambrian": [
-          113
-        ],
-        "Ordovician)": [
-          116
-        ],
-        "rest": [
-          118
-        ],
-        "unconformably": [
-          119
-        ],
-        "Precambrian": [
-          121
-        ],
-        "igneous": [
-          122
-        ],
-        "basement.": [
-          123
-        ],
-        "In": [
-          124
-        ],
-        "contrast,": [
-          125
-        ],
-        "palynological": [
-          126,
-          153,
-          179
-        ],
-        "evidence": [
-          127,
-          154,
-          183
-        ],
-        "presented": [
-          128
-        ],
-        "here": [
-          129
-        ],
-        "shows": [
-          130
-        ],
-        "that": [
-          131
-        ],
-        "unit": [
-          134
-        ],
-        "ranges": [
-          135
-        ],
-        "age": [
-          137
-        ],
-        "from": [
-          138
-        ],
-        "Early": [
-          139,
-          150
-        ],
-        "Middle": [
-          141,
-          145
-        ],
-        "Cambrian,": [
-          142
-        ],
-        "Early,": [
-          144
-        ],
-        "Late": [
-          147
-        ],
-        "Ordovician,": [
-          148
-        ],
-        "Silurian.": [
-          151
-        ],
-        "suggests": [
-          155
-        ],
-        "correlation": [
-          156
-        ],
-        "substantial": [
-          159
-        ],
-        "part": [
-          160
-        ],
-        "Cambro-Ordovician": [
-          163
-        ],
-        "at": [
-          165,
-          219
-        ],
-        "outcrop": [
-          166
-        ],
-        "Arabia,": [
-          170
-        ],
-        "rather": [
-          171
-        ],
-        "than": [
-          172
-        ],
-        "just": [
-          174
-        ],
-        "Upper": [
-          176
-        ],
-        "Ordovician.": [
-          177
-        ],
-        "study": [
-          180
-        ],
-        "also": [
-          181
-        ],
-        "provides": [
-          182
-        ],
-        "for": [
-          184,
-          217,
-          228
-        ],
-        "depositional": [
-          186
-        ],
-        "environments": [
-          187,
-          216
-        ],
-        "sandstone": [
-          190
-        ],
-        "unit.": [
-          191
-        ],
-        "Assemblages": [
-          192
-        ],
-        "are": [
-          193
-        ],
-        "generally": [
-          194
-        ],
-        "low": [
-          196
-        ],
-        "diversity,": [
-          197
-        ],
-        "may": [
-          199
-        ],
-        "be": [
-          200
-        ],
-        "indicative": [
-          201
-        ],
-        "nearshore,": [
-          203
-        ],
-        "marginal-marine": [
-          204
-        ],
-        "conditions.": [
-          205
-        ],
-        "Infrequent": [
-          206
-        ],
-        "occurrences": [
-          207
-        ],
-        "more": [
-          209
-        ],
-        "diverse": [
-          210
-        ],
-        "assemblages": [
-          211
-        ],
-        "suggest": [
-          212
-        ],
-        "open-marine": [
-          213
-        ],
-        "shelf": [
-          214
-        ],
-        "sea": [
-          215
-        ],
-        "strata": [
-          218
-        ],
-        "some": [
-          220
-        ],
-        "levels.": [
-          221
-        ],
-        "Recognition": [
-          222
-        ],
-        "latter": [
-          225
-        ],
-        "has": [
-          226
-        ],
-        "implications": [
-          227
-        ],
-        "stratigraphic": [
-          229
-        ],
-        "modelling": [
-          230
-        ],
-        "succession,": [
-          235
-        ],
-        "might": [
-          237
-        ],
-        "relate": [
+          113,
+          116,
+          148,
           238
         ],
-        "episodes": [
-          240
+        "2,000": [
+          15
         ],
-        "coastal": [
-          242
+        "feet": [
+          16
         ],
-        "onlap": [
-          243
+        "thick,": [
+          17
         ],
-        "recognised": [
-          244
+        "which": [
+          18
         ],
-        "Llanvirn": [
-          247
+        "is": [
+          19,
+          41
         ],
-        "lower": [
+        "overlain": [
+          20
+        ],
+        "by": [
+          21
+        ],
+        "either": [
+          22
+        ],
+        "Silurian": [
+          23
+        ],
+        "or": [
+          24,
+          139
+        ],
+        "Permian": [
+          25
+        ],
+        "strata.": [
+          26
+        ],
+        "Correlation": [
+          27
+        ],
+        "of": [
+          28,
+          47,
+          55,
+          92,
+          102,
+          160,
+          187,
+          194,
+          201,
+          207,
+          222,
+          230,
+          240,
+          250
+        ],
+        "the": [
+          29,
+          32,
+          48,
+          51,
+          56,
+          74,
+          85,
+          93,
+          99,
+          103,
+          108,
+          131,
+          161,
+          174,
+          184,
+          188,
+          223,
+          231,
+          245
+        ],
+        "sandstones": [
+          30
+        ],
+        "with": [
+          31,
+          84,
+          156,
+          172
+        ],
+        "exposed": [
+          33
+        ],
+        "northwest": [
+          38,
+          167,
+          251
+        ],
+        "problematical,": [
+          42
+        ],
+        "partly": [
+          43
+        ],
+        "because": [
+          44
+        ],
+        "graptolite-bearing": [
+          45
+        ],
+        "shales": [
+          46
+        ],
+        "latter,": [
+          49
+        ],
+        "notably": [
+          50
+        ],
+        "Hanadir": [
+          52
+        ],
+        "Shale": [
+          53
+        ],
+        "Member": [
+          54,
+          87
+        ],
+        "Qasim": [
+          57,
+          94,
+          104
+        ],
+        "Formation,": [
+          58,
+          95
+        ],
+        "have": [
+          59
+        ],
+        "not": [
+          60
+        ],
+        "been": [
+          61
+        ],
+        "identified": [
+          62
+        ],
+        "Arabian": [
+          66,
+          233
+        ],
+        "wells.": [
+          67
+        ],
+        "Based": [
+          68
+        ],
+        "on": [
+          69,
+          119
+        ],
+        "Formation": [
+          70,
+          105,
+          110
+        ],
+        "Microscanner": [
+          71
+        ],
+        "(FMS)": [
+          72
+        ],
+        "images,": [
+          73
+        ],
+        "was": [
+          80
+        ],
+        "considered": [
+          81
+        ],
+        "correlate": [
+          83
+        ],
+        "Quwarah": [
+          86
+        ],
+        "(upper": [
+          88
+        ],
+        "Caradoc": [
+          89,
           249
         ],
+        "Ashgill)": [
+          91
+        ],
+        "cutting": [
+          96
+        ],
+        "down": [
+          97
+        ],
+        "through": [
+          98,
+          142
+        ],
+        "underlying": [
+          100
+        ],
+        "members": [
+          101
+        ],
+        "(Ordovician)": [
+          106
+        ],
+        "and": [
+          107,
+          145,
+          197,
+          235,
+          247
+        ],
+        "Saq": [
+          109
+        ],
+        "(Middle": [
+          111
+        ],
+        "Cambrian": [
+          112
+        ],
+        "Ordovician)": [
+          115
+        ],
+        "rest": [
+          117
+        ],
+        "unconformably": [
+          118
+        ],
+        "Precambrian": [
+          120
+        ],
+        "igneous": [
+          121
+        ],
+        "basement.": [
+          122
+        ],
+        "In": [
+          123
+        ],
+        "contrast,": [
+          124
+        ],
+        "palynological": [
+          125,
+          152,
+          178
+        ],
+        "evidence": [
+          126,
+          153,
+          182
+        ],
+        "presented": [
+          127
+        ],
+        "here": [
+          128
+        ],
+        "shows": [
+          129
+        ],
+        "that": [
+          130
+        ],
+        "unit": [
+          133
+        ],
+        "ranges": [
+          134
+        ],
+        "age": [
+          136
+        ],
+        "from": [
+          137
+        ],
+        "Early": [
+          138,
+          149
+        ],
+        "Middle": [
+          140,
+          144
+        ],
+        "Cambrian,": [
+          141
+        ],
+        "Early,": [
+          143
+        ],
+        "Late": [
+          146
+        ],
+        "Ordovician,": [
+          147
+        ],
+        "Silurian.": [
+          150
+        ],
+        "suggests": [
+          154
+        ],
+        "correlation": [
+          155
+        ],
+        "substantial": [
+          158
+        ],
+        "part": [
+          159
+        ],
+        "Cambro-Ordovician": [
+          162
+        ],
+        "at": [
+          164,
+          218
+        ],
+        "outcrop": [
+          165
+        ],
+        "Arabia,": [
+          169
+        ],
+        "rather": [
+          170
+        ],
+        "than": [
+          171
+        ],
+        "just": [
+          173
+        ],
+        "Upper": [
+          175
+        ],
+        "Ordovician.": [
+          176
+        ],
+        "study": [
+          179
+        ],
+        "also": [
+          180
+        ],
+        "provides": [
+          181
+        ],
+        "for": [
+          183,
+          216,
+          227
+        ],
+        "depositional": [
+          185
+        ],
+        "environments": [
+          186,
+          215
+        ],
+        "sandstone": [
+          189
+        ],
+        "unit.": [
+          190
+        ],
+        "Assemblages": [
+          191
+        ],
+        "are": [
+          192
+        ],
+        "generally": [
+          193
+        ],
+        "low": [
+          195
+        ],
+        "diversity,": [
+          196
+        ],
+        "may": [
+          198
+        ],
+        "be": [
+          199
+        ],
+        "indicative": [
+          200
+        ],
+        "nearshore,": [
+          202
+        ],
+        "marginal-marine": [
+          203
+        ],
+        "conditions.": [
+          204
+        ],
+        "Infrequent": [
+          205
+        ],
+        "occurrences": [
+          206
+        ],
+        "more": [
+          208
+        ],
+        "diverse": [
+          209
+        ],
+        "assemblages": [
+          210
+        ],
+        "suggest": [
+          211
+        ],
+        "open-marine": [
+          212
+        ],
+        "shelf": [
+          213
+        ],
+        "sea": [
+          214
+        ],
+        "strata": [
+          217
+        ],
+        "some": [
+          219
+        ],
+        "levels.": [
+          220
+        ],
+        "Recognition": [
+          221
+        ],
+        "latter": [
+          224
+        ],
+        "has": [
+          225
+        ],
+        "implications": [
+          226
+        ],
+        "stratigraphic": [
+          228
+        ],
+        "modelling": [
+          229
+        ],
+        "succession,": [
+          234
+        ],
+        "might": [
+          236
+        ],
+        "relate": [
+          237
+        ],
+        "episodes": [
+          239
+        ],
+        "coastal": [
+          241
+        ],
+        "onlap": [
+          242
+        ],
+        "recognised": [
+          243
+        ],
+        "Llanvirn": [
+          246
+        ],
+        "lower": [
+          248
+        ],
         "Arabia.": [
-          254
+          253
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3150378705",
@@ -13230,7 +13261,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -13310,6 +13341,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [
             "University of Sheffield"
@@ -13348,6 +13380,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -13388,6 +13421,7 @@
             "IE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Geoffrey Clayton",
           "raw_affiliation_strings": [
             "Trinity College Dublin"
@@ -13426,6 +13460,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -13448,12 +13483,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3838,
+      "fwci": 1.3852,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.68684211,
+        "value": 0.68601583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13681,354 +13716,351 @@
         "https://openalex.org/W2239100310"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
+        "Miospore": [
           0
         ],
-        "Miospore": [
-          1
-        ],
         "assemblages": [
-          2,
-          55,
-          131
-        ],
-        "recovered": [
-          3
-        ],
-        "from": [
-          4
-        ],
-        "a": [
-          5,
-          48,
-          57,
-          79,
-          99
-        ],
-        "short": [
-          6
-        ],
-        "interval": [
-          7,
-          111
-        ],
-        "in": [
-          8,
-          13,
-          34,
-          136
-        ],
-        "well": [
-          9
-        ],
-        "Haradh-601": [
-          10
-        ],
-        "(HRDH-601),": [
-          11
-        ],
-        "drilled": [
-          12
-        ],
-        "the": [
-          14,
-          27,
-          35,
-          39,
-          45,
+          1,
           54,
-          85,
-          115
-        ],
-        "southern": [
-          15
-        ],
-        "Ghawar": [
-          16
-        ],
-        "oil": [
-          17
-        ],
-        "field,": [
-          18
-        ],
-        "eastern": [
-          19
-        ],
-        "Saudi": [
-          20
-        ],
-        "Arabia,": [
-          21
-        ],
-        "provide": [
-          22
-        ],
-        "additional": [
-          23
-        ],
-        "palynological": [
-          24
-        ],
-        "evidence": [
-          25
-        ],
-        "for": [
-          26
-        ],
-        "existence": [
-          28
-        ],
-        "of": [
-          29,
-          42,
-          47,
-          51,
-          59,
-          82,
-          84,
-          103,
-          117,
-          132,
-          138
-        ],
-        "possible": [
-          30
-        ],
-        "early": [
-          31
-        ],
-        "Namurian": [
-          32
-        ],
-        "deposits": [
-          33
-        ],
-        "Arabian": [
-          36
-        ],
-        "Peninsula.": [
-          37
-        ],
-        "Despite": [
-          38
-        ],
-        "variable": [
-          40
-        ],
-        "state": [
-          41
-        ],
-        "preservation": [
-          43
-        ],
-        "and": [
-          44,
-          74,
-          94,
-          124
-        ],
-        "presence": [
-          46,
-          116
-        ],
-        "significant": [
-          49,
-          61
-        ],
-        "number": [
-          50,
-          58,
-          81
-        ],
-        "undescribed": [
-          52
-        ],
-        "taxa,": [
-          53
-        ],
-        "contain": [
-          56
-        ],
-        "stratigraphically": [
-          60
-        ],
-        "species": [
-          62
-        ],
-        "including": [
-          63
-        ],
-        "Tricidarisporites": [
-          64
-        ],
-        "dumosus,": [
-          65
-        ],
-        "Vallatisporites": [
-          66,
-          118
-        ],
-        "vallatus,": [
-          67
-        ],
-        "V.": [
-          68
-        ],
-        "galearis,": [
-          69
-        ],
-        "Spelaeotriletes": [
-          70
-        ],
-        "giganteus,": [
-          71
-        ],
-        "S.": [
-          72
-        ],
-        "owensii": [
-          73
-        ],
-        "Aratrisporites": [
-          75
-        ],
-        "saharaensis": [
-          76
-        ],
-        "together": [
-          77
-        ],
-        "with": [
-          78,
           130
         ],
-        "limited": [
-          80
+        "recovered": [
+          2
         ],
-        "representatives": [
-          83
+        "from": [
+          3
         ],
-        "monosaccate": [
-          86
-        ],
-        "pollen": [
-          87
-        ],
-        "Potonieisporites": [
-          88
-        ],
-        "sp.,": [
-          89,
-          91
-        ],
-        "Protohaploxypinus": [
-          90
-        ],
-        "Cannanoropollis": [
-          92
-        ],
-        "janakii": [
-          93
-        ],
-        "Plicatipollenites": [
-          95
-        ],
-        "malabarensis": [
-          96
-        ],
-        "which": [
-          97
-        ],
-        "suggest": [
+        "a": [
+          4,
+          47,
+          56,
+          78,
           98
         ],
-        "mid-Carboniferous": [
-          100
+        "short": [
+          5
         ],
-        "age.": [
-          101
-        ],
-        "Evidence": [
-          102
-        ],
-        "Late": [
-          104
-        ],
-        "Devonian-early": [
-          105
-        ],
-        "Tournaisian": [
-          106
-        ],
-        "(Strunian)": [
-          107
-        ],
-        "reworking": [
-          108
-        ],
-        "into": [
-          109
-        ],
-        "this": [
+        "interval": [
+          6,
           110
         ],
-        "is": [
-          112
-        ],
-        "noted": [
-          113
-        ],
-        "by": [
-          114
-        ],
-        "pusillites,": [
-          119
-        ],
-        "Retispora": [
-          120
-        ],
-        "lepidophyta,": [
-          121
-        ],
-        "Retusotriletes": [
-          122
-        ],
-        "incohatus": [
-          123
-        ],
-        "Emphanisporites": [
-          125
-        ],
-        "rotatus.": [
-          126
-        ],
-        "Comparisons": [
-          127
-        ],
-        "are": [
-          128
-        ],
-        "made": [
-          129
-        ],
-        "potentially": [
-          133
-        ],
-        "similar": [
-          134
-        ],
-        "age": [
+        "in": [
+          7,
+          12,
+          33,
           135
         ],
-        "parts": [
+        "well": [
+          8
+        ],
+        "Haradh-601": [
+          9
+        ],
+        "(HRDH-601),": [
+          10
+        ],
+        "drilled": [
+          11
+        ],
+        "the": [
+          13,
+          26,
+          34,
+          38,
+          44,
+          53,
+          84,
+          114
+        ],
+        "southern": [
+          14
+        ],
+        "Ghawar": [
+          15
+        ],
+        "oil": [
+          16
+        ],
+        "field,": [
+          17
+        ],
+        "eastern": [
+          18
+        ],
+        "Saudi": [
+          19
+        ],
+        "Arabia,": [
+          20
+        ],
+        "provide": [
+          21
+        ],
+        "additional": [
+          22
+        ],
+        "palynological": [
+          23
+        ],
+        "evidence": [
+          24
+        ],
+        "for": [
+          25
+        ],
+        "existence": [
+          27
+        ],
+        "of": [
+          28,
+          41,
+          46,
+          50,
+          58,
+          81,
+          83,
+          102,
+          116,
+          131,
           137
         ],
+        "possible": [
+          29
+        ],
+        "early": [
+          30
+        ],
+        "Namurian": [
+          31
+        ],
+        "deposits": [
+          32
+        ],
+        "Arabian": [
+          35
+        ],
+        "Peninsula.": [
+          36
+        ],
+        "Despite": [
+          37
+        ],
+        "variable": [
+          39
+        ],
+        "state": [
+          40
+        ],
+        "preservation": [
+          42
+        ],
+        "and": [
+          43,
+          73,
+          93,
+          123
+        ],
+        "presence": [
+          45,
+          115
+        ],
+        "significant": [
+          48,
+          60
+        ],
+        "number": [
+          49,
+          57,
+          80
+        ],
+        "undescribed": [
+          51
+        ],
+        "taxa,": [
+          52
+        ],
+        "contain": [
+          55
+        ],
+        "stratigraphically": [
+          59
+        ],
+        "species": [
+          61
+        ],
+        "including": [
+          62
+        ],
+        "Tricidarisporites": [
+          63
+        ],
+        "dumosus,": [
+          64
+        ],
+        "Vallatisporites": [
+          65,
+          117
+        ],
+        "vallatus,": [
+          66
+        ],
+        "V.": [
+          67
+        ],
+        "galearis,": [
+          68
+        ],
+        "Spelaeotriletes": [
+          69
+        ],
+        "giganteus,": [
+          70
+        ],
+        "S.": [
+          71
+        ],
+        "owensii": [
+          72
+        ],
+        "Aratrisporites": [
+          74
+        ],
+        "saharaensis": [
+          75
+        ],
+        "together": [
+          76
+        ],
+        "with": [
+          77,
+          129
+        ],
+        "limited": [
+          79
+        ],
+        "representatives": [
+          82
+        ],
+        "monosaccate": [
+          85
+        ],
+        "pollen": [
+          86
+        ],
+        "Potonieisporites": [
+          87
+        ],
+        "sp.,": [
+          88,
+          90
+        ],
+        "Protohaploxypinus": [
+          89
+        ],
+        "Cannanoropollis": [
+          91
+        ],
+        "janakii": [
+          92
+        ],
+        "Plicatipollenites": [
+          94
+        ],
+        "malabarensis": [
+          95
+        ],
+        "which": [
+          96
+        ],
+        "suggest": [
+          97
+        ],
+        "mid-Carboniferous": [
+          99
+        ],
+        "age.": [
+          100
+        ],
+        "Evidence": [
+          101
+        ],
+        "Late": [
+          103
+        ],
+        "Devonian-early": [
+          104
+        ],
+        "Tournaisian": [
+          105
+        ],
+        "(Strunian)": [
+          106
+        ],
+        "reworking": [
+          107
+        ],
+        "into": [
+          108
+        ],
+        "this": [
+          109
+        ],
+        "is": [
+          111
+        ],
+        "noted": [
+          112
+        ],
+        "by": [
+          113
+        ],
+        "pusillites,": [
+          118
+        ],
+        "Retispora": [
+          119
+        ],
+        "lepidophyta,": [
+          120
+        ],
+        "Retusotriletes": [
+          121
+        ],
+        "incohatus": [
+          122
+        ],
+        "Emphanisporites": [
+          124
+        ],
+        "rotatus.": [
+          125
+        ],
+        "Comparisons": [
+          126
+        ],
+        "are": [
+          127
+        ],
+        "made": [
+          128
+        ],
+        "potentially": [
+          132
+        ],
+        "similar": [
+          133
+        ],
+        "age": [
+          134
+        ],
+        "parts": [
+          136
+        ],
         "North": [
-          139
+          138
         ],
         "Africa.": [
-          140
+          139
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3146536654",
@@ -14062,7 +14094,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -14161,6 +14193,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Géosciences Rennes"
@@ -14188,6 +14221,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-6046-4283",
@@ -14204,6 +14238,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -14222,6 +14257,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jan Zalasiewicz",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-3220-4855",
@@ -14241,6 +14277,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mark Williams",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-7987-6069",
@@ -15435,6 +15472,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [
             "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia"
@@ -15473,6 +15511,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
@@ -15563,6 +15602,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [
             "Université de Brest, CNRS UMR6538, Géosciences Océan, Institut Universitaire Européen de la Mer, Bâtiment G, 6, avenue Le Gorgeu, 29238 Brest cedex 3, France"
@@ -15594,6 +15634,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Rue des Jonquilles, 35235 Thorigné-Fouillard, France"
@@ -15632,6 +15673,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "NFSR Senior Research Associate, Department of Geology, Unit PPP, Liège University, Quartier Agora, B-18, Allée du 6-Août, 14, 4000 Liège, Belgium"
@@ -15672,6 +15714,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [
             "Research Unit of Paleontology, Department of Geology, Ghent University, 9000 Ghent, Belgium"
@@ -15712,6 +15755,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [
             "Department of Animal & Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, S10 2TN Sheffield, UK"
@@ -16399,6 +16443,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16417,6 +16462,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
@@ -16435,6 +16481,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16451,6 +16498,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mansour Al-Ruwaili",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16469,6 +16517,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
@@ -16485,6 +16534,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -17136,6 +17186,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Géosciences Rennes"
@@ -17163,6 +17214,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
@@ -17181,6 +17233,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-6046-4283",
@@ -17197,6 +17250,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -17213,6 +17267,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "James Melvin",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -18297,6 +18352,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [
             "Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK"
@@ -18335,6 +18391,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [
             "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia"
@@ -18362,6 +18419,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [
             "IRF Group, Inc., 2357 East 23rd street, Tulsa, OK 74114, USA"
@@ -18398,6 +18456,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [
             "Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK"
@@ -18436,6 +18495,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa'id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
@@ -18735,11 +18795,11 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2019,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2017,
@@ -18750,7 +18810,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18851,6 +18911,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
@@ -18891,6 +18952,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles Wellman",
           "raw_affiliation_strings": [
             "Department of Animal and Plant Sciences, University of Sheffield, S10 2TN Sheffield, UK"
@@ -18929,6 +18991,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
@@ -19351,6 +19414,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19367,6 +19431,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19398,6 +19463,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège - ULiège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >  >"
@@ -19423,6 +19489,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19439,6 +19506,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19742,6 +19810,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19773,6 +19842,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -19798,6 +19868,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19816,6 +19887,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-9203-7625",
@@ -19832,6 +19904,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20196,6 +20269,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20227,6 +20301,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -20252,6 +20327,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20268,6 +20344,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20284,6 +20361,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20568,6 +20646,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20584,6 +20663,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mansour Al-Ruwaili",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20602,6 +20682,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Geoff Clayton",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-6015-1885",
@@ -20618,6 +20699,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20634,6 +20716,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ken Higgs",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20650,6 +20733,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20666,6 +20750,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20684,6 +20769,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Marshall",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-9242-3646",
@@ -20702,6 +20788,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Stewart G. Molyneux",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-8257-7588",
@@ -20720,6 +20807,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-6421-4559",
@@ -20751,6 +20839,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -20776,6 +20865,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mike Stephenson",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20792,6 +20882,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michel Vanguestaine",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20810,6 +20901,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
@@ -20828,6 +20920,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-7511-0464",
@@ -21715,6 +21808,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -21740,6 +21834,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -21756,6 +21851,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -21772,6 +21868,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -21790,6 +21887,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-6421-4559",
@@ -21808,6 +21906,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
@@ -21826,6 +21925,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-7511-0464",
@@ -22226,6 +22326,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -22251,6 +22352,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -22267,6 +22369,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -22283,6 +22386,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -22301,6 +22405,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-6421-4559",
@@ -22319,6 +22424,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
@@ -22337,6 +22443,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-7511-0464",
@@ -22720,6 +22827,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Paul K. Strother",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-0550-1704",
@@ -22736,6 +22844,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "W. Taylor",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -22752,6 +22861,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "CH Wellman",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -22783,6 +22893,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -22810,6 +22921,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-9203-7625",
@@ -22826,6 +22938,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -23175,6 +23288,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Christian Cesari",
           "raw_affiliation_strings": [
             "Saudi ARAMCO"
@@ -23200,6 +23314,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anthony Butcher",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -23218,6 +23333,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-9203-7625",
@@ -23234,6 +23350,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Kaya Ertug",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -23250,6 +23367,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ahmed Al-Shawareb",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -23266,6 +23384,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -23282,6 +23401,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -23572,6 +23692,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sa’id Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco Dhahran, Saudi Arabia"
@@ -23610,6 +23731,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [
             "University of Sheffield Sheffield, UK"

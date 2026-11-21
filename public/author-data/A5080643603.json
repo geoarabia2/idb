@@ -451,6 +451,44 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -491,6 +529,36 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            }
+          ],
           "raw_author_name": "Amjed M. Hassan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -541,6 +609,20 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            }
+          ],
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [
             "Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University Science and Technology, Saudi Arabia",
@@ -588,6 +670,28 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/project-administration",
+              "display_name": "Project administration"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -628,6 +732,36 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/project-administration",
+              "display_name": "Project administration"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia"
@@ -668,6 +802,28 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/project-administration",
+              "display_name": "Project administration"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Fabian Duque",
           "raw_affiliation_strings": [
             "Emerging Unconventional Assets Department, Saudi Aramco, Saudi Arabia"
@@ -702,17 +858,17 @@
         "currency": "USD",
         "value_usd": 2710
       },
-      "fwci": 3.6354,
+      "fwci": 3.6148,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.93364428,
+        "value": 0.93315131,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 98,
         "max": 99
       },
       "biblio": {
@@ -1103,8 +1259,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3187000892.pdf",
@@ -1717,18 +1873,18 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2023,
-          "cited_by_count": 12
+          "cited_by_count": 11
         },
         {
           "year": 2022,
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-08-02T00:00:00"
     },
     {
@@ -1833,6 +1989,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -1873,6 +2030,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -1913,6 +2071,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -1953,6 +2112,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lameed O. Babalola",
           "raw_affiliation_strings": [
             "Center of Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -2325,8 +2485,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -2572,6 +2732,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Amjed Hassan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -2619,6 +2780,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -2666,6 +2828,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Mahmoud",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -2713,6 +2876,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Murtada Saleh Aljawad",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -2760,6 +2924,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -2807,6 +2972,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulazeez Abdulraheem",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -3128,8 +3294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -3314,6 +3480,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aviandy W. Ismanto",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -3354,6 +3521,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -3394,6 +3562,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Lamidi O. Babalola",
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -3434,6 +3603,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -3474,6 +3644,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid A. Al-Ramadan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -3514,6 +3685,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman M. Abdullatif",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -3812,8 +3984,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -4001,6 +4173,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4019,6 +4192,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4037,6 +4211,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lamidi O. Babalola",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4055,6 +4230,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ramona Balc",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4073,6 +4249,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4089,6 +4266,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hafiz M. Gull",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4105,6 +4283,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ali Bu Khamsin",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4123,6 +4302,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad H. Malik",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4136,12 +4316,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1159,
+      "fwci": 1.1091,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.7130117,
+        "value": 0.71278795,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4382,8 +4562,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4401,282 +4581,279 @@
         "https://openalex.org/W2944267028"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT:": [
-          0
-        ],
         "The": [
-          1,
-          31,
-          59,
-          87
+          0,
+          30,
+          58,
+          86
         ],
         "benthic": [
-          2,
-          32,
-          94
+          1,
+          31,
+          93
         ],
         "foraminiferal": [
-          3
+          2
         ],
         "have": [
-          4
+          3
         ],
         "been": [
-          5
+          4
         ],
         "studied": [
-          6
+          5
         ],
         "from": [
-          7,
-          77
+          6,
+          76
         ],
         "mudstone-wackestones": [
-          8
+          7
         ],
         "of": [
-          9,
-          13,
-          26,
-          35,
-          38,
-          63,
-          71,
-          84,
-          89,
-          100,
-          122
+          8,
+          12,
+          25,
+          34,
+          37,
+          62,
+          70,
+          83,
+          88,
+          99,
+          121
         ],
         "the": [
-          10,
-          14,
-          19,
-          78,
-          85,
-          97,
-          101,
-          110,
-          117,
-          123
+          9,
+          13,
+          18,
+          77,
+          84,
+          96,
+          100,
+          109,
+          116,
+          122
         ],
         "D5": [
+          10,
+          97
+        ],
+        "Unit": [
           11,
           98
         ],
-        "Unit": [
-          12,
-          99
-        ],
         "Dhruma": [
+          14,
+          101
+        ],
+        "Formation": [
           15,
           102
         ],
-        "Formation": [
-          16,
-          103
-        ],
         "that": [
-          17,
-          74
+          16,
+          73
         ],
         "represent": [
-          18
+          17
         ],
         "Middle": [
+          19,
+          78
+        ],
+        "Jurassic": [
           20,
           79
         ],
-        "Jurassic": [
-          21,
-          80
-        ],
         "J30": [
+          21,
+          110
+        ],
+        "maximum": [
           22,
           111
         ],
-        "maximum": [
+        "flooding": [
           23,
           112
         ],
-        "flooding": [
+        "surface": [
           24,
           113
         ],
-        "surface": [
-          25,
-          114
-        ],
         "Sharland": [
-          27
+          26
         ],
         "et": [
-          28
+          27
         ],
         "al.": [
-          29
+          28
         ],
         "(2001).": [
-          30
+          29
         ],
         "assemblage": [
-          33,
-          60
+          32,
+          59
         ],
         "consists": [
-          34
+          33
         ],
         "a": [
-          36,
-          69,
-          105
-        ],
-        "mixture": [
-          37
-        ],
-        "smaller": [
-          39,
-          93
-        ],
-        "agglutinated": [
-          40
-        ],
-        "species,": [
-          41
-        ],
-        "Haplophragmoides,": [
-          42
-        ],
-        "Kutsevella,": [
-          43
-        ],
-        "Sculptobaculites,": [
-          44
-        ],
-        "Trochammina),": [
-          45
-        ],
-        "and": [
-          46,
-          53,
-          67,
-          91,
-          115
-        ],
-        "calcareous": [
-          47
-        ],
-        "species": [
-          48
-        ],
-        "(Nautiloculina,": [
-          49
-        ],
-        "nodosariids,": [
-          50
-        ],
-        "ophthalmidiids,": [
-          51
-        ],
-        "polymorphinids,": [
-          52
-        ],
-        "spirillinids)": [
-          54
-        ],
-        "without": [
-          55
-        ],
-        "any": [
-          56
-        ],
-        "larger": [
-          57
-        ],
-        "foraminifera.": [
-          58
-        ],
-        "is": [
-          61
-        ],
-        "indicative": [
-          62
-        ],
-        "open-marine": [
-          64,
-          90
-        ],
-        "midshelf": [
-          65
-        ],
-        "conditions,": [
-          66
-        ],
-        "contains": [
-          68
-        ],
-        "number": [
-          70
-        ],
-        "cosmopolitan": [
-          72,
-          92
-        ],
-        "taxa": [
-          73
-        ],
-        "are": [
-          75
-        ],
-        "known": [
-          76
-        ],
-        "in": [
-          81,
-          96
-        ],
-        "other": [
-          82,
-          120
-        ],
-        "areas": [
-          83
-        ],
-        "Tethys.": [
-          86,
-          124
-        ],
-        "recovery": [
-          88
-        ],
-        "foraminifera": [
-          95
-        ],
-        "provides": [
+          35,
+          68,
           104
         ],
-        "new": [
-          106
+        "mixture": [
+          36
         ],
-        "tool": [
-          107
+        "smaller": [
+          38,
+          92
         ],
-        "for": [
-          108
+        "agglutinated": [
+          39
         ],
-        "identifying": [
-          109
+        "species,": [
+          40
         ],
-        "correlating": [
-          116
+        "Haplophragmoides,": [
+          41
         ],
-        "interval": [
-          118
+        "Kutsevella,": [
+          42
         ],
-        "with": [
+        "Sculptobaculites,": [
+          43
+        ],
+        "Trochammina),": [
+          44
+        ],
+        "and": [
+          45,
+          52,
+          66,
+          90,
+          114
+        ],
+        "calcareous": [
+          46
+        ],
+        "species": [
+          47
+        ],
+        "(Nautiloculina,": [
+          48
+        ],
+        "nodosariids,": [
+          49
+        ],
+        "ophthalmidiids,": [
+          50
+        ],
+        "polymorphinids,": [
+          51
+        ],
+        "spirillinids)": [
+          53
+        ],
+        "without": [
+          54
+        ],
+        "any": [
+          55
+        ],
+        "larger": [
+          56
+        ],
+        "foraminifera.": [
+          57
+        ],
+        "is": [
+          60
+        ],
+        "indicative": [
+          61
+        ],
+        "open-marine": [
+          63,
+          89
+        ],
+        "midshelf": [
+          64
+        ],
+        "conditions,": [
+          65
+        ],
+        "contains": [
+          67
+        ],
+        "number": [
+          69
+        ],
+        "cosmopolitan": [
+          71,
+          91
+        ],
+        "taxa": [
+          72
+        ],
+        "are": [
+          74
+        ],
+        "known": [
+          75
+        ],
+        "in": [
+          80,
+          95
+        ],
+        "other": [
+          81,
           119
         ],
+        "areas": [
+          82
+        ],
+        "Tethys.": [
+          85,
+          123
+        ],
+        "recovery": [
+          87
+        ],
+        "foraminifera": [
+          94
+        ],
+        "provides": [
+          103
+        ],
+        "new": [
+          105
+        ],
+        "tool": [
+          106
+        ],
+        "for": [
+          107
+        ],
+        "identifying": [
+          108
+        ],
+        "correlating": [
+          115
+        ],
+        "interval": [
+          117
+        ],
+        "with": [
+          118
+        ],
         "regions": [
-          121
+          120
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3138530981",
@@ -4702,7 +4879,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-03-29T00:00:00"
     },
     {
@@ -4781,6 +4958,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4799,6 +4977,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4815,6 +4994,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Baqer Albensaad",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4833,6 +5013,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4851,6 +5032,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Alramadan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4869,6 +5051,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5210,8 +5393,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5961,6 +6144,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Samer Aljurf",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -6001,6 +6185,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -6048,6 +6233,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -6095,6 +6281,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Amjed Hassan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -6122,6 +6309,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia"
@@ -6160,6 +6348,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Thomas Finkbeiner",
           "raw_affiliation_strings": [
             "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology, Thuwal 23955‑6900, Saudi Arabia"
@@ -6718,8 +6907,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -7617,6 +7806,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7635,6 +7825,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7653,6 +7844,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ramona Balc",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7669,6 +7861,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hafiz Mehtab Gull",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7687,6 +7880,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7705,6 +7899,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lameed O. Babalola",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7718,12 +7913,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1394,
+      "fwci": 0.1376,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.33853876,
+        "value": 0.33676782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7987,8 +8182,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -8144,6 +8339,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8184,6 +8380,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8224,6 +8421,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yehia A. Khulief",
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8264,6 +8462,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Syed Abdul Salam",
           "raw_affiliation_strings": [
             "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8304,6 +8503,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8344,6 +8544,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdul Latif Ashadi",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8384,6 +8585,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayman F. Al-Lehyani",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8422,6 +8624,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Adnan M. Almubarak",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8460,6 +8663,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Zia Ullah Khan",
           "raw_affiliation_strings": [
             "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8500,6 +8704,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sikandar Khan",
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8538,6 +8743,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Salem G. AlJuhani",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8576,6 +8782,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid A. Abdulrahman",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8606,12 +8813,12 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5699,
+      "fwci": 1.5582,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79588221,
+        "value": 0.79415169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8622,7 +8829,7 @@
       "biblio": {
         "volume": "12",
         "issue": "7",
-        "first_page": null,
+        "first_page": "245",
         "last_page": null
       },
       "is_retracted": false,
@@ -8930,8 +9137,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -9004,7 +9211,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2019-04-01T00:00:00"
     },
     {
@@ -9107,6 +9314,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
@@ -9147,6 +9355,7 @@
             "RO"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ramona Bălc",
           "raw_affiliation_strings": [
             "Faculty of Environmental Science and Engineering, Babeș-Bolyai University, str. Fântânele 30, Cluj Napoca 400294, Romania",
@@ -9194,6 +9403,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
@@ -9234,6 +9444,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
@@ -9274,6 +9485,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
@@ -9314,6 +9526,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -9354,6 +9567,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fabian Duque",
           "raw_affiliation_strings": [
             "Emerging Unconventional Assets Department, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -9720,8 +9934,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 103,
@@ -10611,6 +10825,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
@@ -10651,6 +10866,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Asmaidi Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
@@ -10689,6 +10905,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Majed Al-Ghamdi",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
@@ -10727,6 +10944,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Tariq Akif",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
@@ -10767,6 +10985,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
@@ -11098,8 +11317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -11289,6 +11508,32 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Muhammad Hammad Malik",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -11329,6 +11574,32 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -11369,6 +11640,20 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Lamidi O. Babalola",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -11409,6 +11694,24 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/project-administration",
+              "display_name": "Project administration"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -11443,12 +11746,12 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.7198,
+      "fwci": 0.7165,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.56404601,
+        "value": 0.56309298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11728,37 +12031,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmid:36106048",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36106048",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "MethodsX",
-          "raw_type": "Journal Article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:9465100",
           "doi": null,
           "is_oa": true,
@@ -11788,6 +12060,37 @@
           "is_published": true,
           "raw_source_name": "MethodsX",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmid:36106048",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36106048",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "MethodsX",
+          "raw_type": "Journal Article"
         },
         {
           "id": "pmh:oai:doaj.org/article:dbb8a8e5c0d44f6d9ff5229766361b23",
@@ -11890,8 +12193,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
@@ -12515,7 +12818,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2022-08-28T00:00:00"
     },
     {
@@ -12626,6 +12929,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Baqer Albensaad",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12673,6 +12977,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12718,6 +13023,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -12758,6 +13064,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12805,6 +13112,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12852,6 +13160,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -13271,8 +13580,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -14151,6 +14460,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "CPG – KFUPM"
@@ -14191,6 +14501,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu Amao",
           "raw_affiliation_strings": [
             "CPG – KFUPM"
@@ -14231,6 +14542,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "CPG – KFUPM"
@@ -14271,6 +14583,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -14293,12 +14606,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7531,
+      "fwci": 3.7204,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.92324888,
+        "value": 0.92221391,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14595,8 +14908,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -14622,428 +14935,425 @@
         "https://openalex.org/W7140036666"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "Stratigraphic": [
           0
         ],
-        "Stratigraphic": [
+        "correlation": [
           1
         ],
-        "correlation": [
-          2
-        ],
         "in": [
-          3,
-          28,
-          147
+          2,
+          27,
+          146
         ],
         "mudstone": [
-          4
+          3
         ],
         "intervals": [
-          5
+          4
         ],
         "is": [
-          6,
-          31
-        ],
-        "challenging": [
-          7
-        ],
-        "as": [
-          8,
-          156
-        ],
-        "compared": [
-          9
-        ],
-        "to": [
-          10,
-          25,
-          33,
-          35,
-          53,
-          73,
-          103,
-          119,
-          144
-        ],
-        "coarser-grained": [
-          11
-        ],
-        "sedimentary": [
-          12
-        ],
-        "rocks": [
-          13
-        ],
-        "because": [
-          14
-        ],
-        "of": [
-          15,
-          82
-        ],
-        "the": [
-          16,
-          55,
-          138,
-          152
-        ],
-        "microscale": [
-          17
-        ],
-        "heterogeneity": [
-          18
-        ],
-        "and": [
-          19,
-          42,
-          48,
-          76,
-          91,
-          132,
-          134
-        ],
-        "other": [
-          20
-        ],
-        "constraints.": [
-          21
-        ],
-        "Given": [
-          22
-        ],
-        "critical": [
-          23
-        ],
-        "mm-": [
-          24
-        ],
-        "cm-scale": [
-          26
-        ],
-        "variability": [
-          27,
-          38
-        ],
-        "mudstones,": [
-          29
-        ],
-        "it": [
+          5,
           30
         ],
-        "daunting": [
-          32
+        "challenging": [
+          6
         ],
-        "try": [
-          34
+        "as": [
+          7,
+          155
         ],
-        "infer": [
-          36
+        "compared": [
+          8
         ],
-        "compositional": [
-          37
-        ],
-        "from": [
-          39,
-          111
-        ],
-        "well": [
-          40
-        ],
-        "logs": [
-          41,
-          118
-        ],
-        "seismic": [
-          43
-        ],
-        "data": [
-          44,
-          47,
+        "to": [
+          9,
+          24,
+          32,
+          34,
+          52,
           72,
-          105,
-          153,
-          164
+          102,
+          118,
+          143
         ],
-        "unless": [
-          45
+        "coarser-grained": [
+          10
         ],
-        "core": [
-          46,
-          68,
-          112
+        "sedimentary": [
+          11
         ],
-        "laboratory": [
-          49
+        "rocks": [
+          12
         ],
-        "analyses": [
-          50
+        "because": [
+          13
         ],
-        "are": [
-          51
-        ],
-        "available": [
-          52
-        ],
-        "calibrate": [
-          54
-        ],
-        "results.": [
-          56
-        ],
-        "In": [
-          57
-        ],
-        "this": [
-          58
-        ],
-        "study,": [
-          59
-        ],
-        "we": [
-          60
-        ],
-        "propose": [
-          61
-        ],
-        "a": [
-          62,
-          80,
-          162
-        ],
-        "novel": [
-          63
-        ],
-        "integrated": [
-          64
-        ],
-        "approach": [
-          65
-        ],
-        "combining": [
-          66
-        ],
-        "sedimentological": [
-          67
-        ],
-        "description": [
-          69
-        ],
-        "with": [
-          70,
-          151
-        ],
-        "geochemical": [
-          71
-        ],
-        "establish": [
-          74
-        ],
-        "chemofacies": [
-          75
-        ],
-        "chemostratigraphic": [
-          77
-        ],
-        "zonation": [
-          78,
-          165
-        ],
-        "using": [
-          79,
-          107,
-          166
-        ],
-        "set": [
+        "of": [
+          14,
           81
         ],
+        "the": [
+          15,
+          54,
+          137,
+          151
+        ],
+        "microscale": [
+          16
+        ],
+        "heterogeneity": [
+          17
+        ],
+        "and": [
+          18,
+          41,
+          47,
+          75,
+          90,
+          131,
+          133
+        ],
+        "other": [
+          19
+        ],
+        "constraints.": [
+          20
+        ],
+        "Given": [
+          21
+        ],
+        "critical": [
+          22
+        ],
+        "mm-": [
+          23
+        ],
+        "cm-scale": [
+          25
+        ],
+        "variability": [
+          26,
+          37
+        ],
+        "mudstones,": [
+          28
+        ],
+        "it": [
+          29
+        ],
+        "daunting": [
+          31
+        ],
+        "try": [
+          33
+        ],
+        "infer": [
+          35
+        ],
+        "compositional": [
+          36
+        ],
+        "from": [
+          38,
+          110
+        ],
+        "well": [
+          39
+        ],
+        "logs": [
+          40,
+          117
+        ],
+        "seismic": [
+          42
+        ],
+        "data": [
+          43,
+          46,
+          71,
+          104,
+          152,
+          163
+        ],
+        "unless": [
+          44
+        ],
+        "core": [
+          45,
+          67,
+          111
+        ],
+        "laboratory": [
+          48
+        ],
+        "analyses": [
+          49
+        ],
+        "are": [
+          50
+        ],
+        "available": [
+          51
+        ],
+        "calibrate": [
+          53
+        ],
+        "results.": [
+          55
+        ],
+        "In": [
+          56
+        ],
+        "this": [
+          57
+        ],
+        "study,": [
+          58
+        ],
+        "we": [
+          59
+        ],
+        "propose": [
+          60
+        ],
+        "a": [
+          61,
+          79,
+          161
+        ],
+        "novel": [
+          62
+        ],
+        "integrated": [
+          63
+        ],
+        "approach": [
+          64
+        ],
+        "combining": [
+          65
+        ],
+        "sedimentological": [
+          66
+        ],
+        "description": [
+          68
+        ],
+        "with": [
+          69,
+          150
+        ],
+        "geochemical": [
+          70
+        ],
+        "establish": [
+          73
+        ],
+        "chemofacies": [
+          74
+        ],
+        "chemostratigraphic": [
+          76
+        ],
+        "zonation": [
+          77,
+          164
+        ],
+        "using": [
+          78,
+          106,
+          165
+        ],
+        "set": [
+          80
+        ],
         "unsupervised": [
-          83,
-          167
+          82,
+          166
         ],
         "statistical": [
-          84
+          83
         ],
         "tools,": [
-          85
+          84
         ],
         "i.e.,": [
-          86
+          85
         ],
         "Principal": [
-          87,
-          95
-        ],
-        "Component": [
-          88
-        ],
-        "Analysis": [
-          89
-        ],
-        "(PCA)": [
-          90
-        ],
-        "Hierarchical": [
-          92
-        ],
-        "Clustering": [
-          93
-        ],
-        "on": [
+          86,
           94
         ],
+        "Component": [
+          87
+        ],
+        "Analysis": [
+          88
+        ],
+        "(PCA)": [
+          89
+        ],
+        "Hierarchical": [
+          91
+        ],
+        "Clustering": [
+          92
+        ],
+        "on": [
+          93
+        ],
         "Components": [
-          96
+          95
         ],
         "(HCPC).": [
-          97
+          96
         ],
         "These": [
-          98
+          97
         ],
         "techniques": [
-          99
+          98
         ],
         "can": [
+          99,
+          140
+        ],
+        "be": [
           100,
           141
         ],
-        "be": [
-          101,
-          142
-        ],
         "applied": [
-          102
+          101
         ],
         "elemental": [
-          104
+          103
         ],
         "acquired": [
-          106
+          105
         ],
         "x-ray": [
-          108
+          107
         ],
         "fluorescence": [
-          109
+          108
         ],
         "measured": [
-          110
+          109
         ],
         "or": [
-          113,
-          116
-        ],
-        "cuttings": [
-          114
-        ],
-        "samples": [
+          112,
           115
         ],
+        "cuttings": [
+          113
+        ],
+        "samples": [
+          114
+        ],
         "spectroscopy": [
-          117
+          116
         ],
         "provide": [
-          120
+          119
         ],
         "robust": [
-          121
+          120
         ],
         "analysis": [
-          122
+          121
         ],
         "for": [
-          123,
-          160
-        ],
-        "unconventional": [
-          124
-        ],
-        "assessment": [
-          125
-        ],
-        "regarding": [
-          126
-        ],
-        "sweet-spot": [
-          127
-        ],
-        "identification,": [
-          128
-        ],
-        "sequence": [
-          129
-        ],
-        "stratigraphic": [
-          130
-        ],
-        "interpretations,": [
-          131
-        ],
-        "drilling": [
-          133
-        ],
-        "completion": [
-          135
-        ],
-        "designs.": [
-          136
-        ],
-        "Further,": [
-          137
-        ],
-        "identified": [
-          139
-        ],
-        "zones": [
-          140,
-          146
-        ],
-        "used": [
-          143
-        ],
-        "characterize/correlate": [
-          145
-        ],
-        "nearby": [
-          148
-        ],
-        "un-cored": [
-          149
-        ],
-        "wells,": [
-          150
-        ],
-        "generated": [
-          154
-        ],
-        "serving": [
-          155
-        ],
-        "an": [
-          157
-        ],
-        "indispensable": [
-          158
-        ],
-        "input": [
+          122,
           159
         ],
+        "unconventional": [
+          123
+        ],
+        "assessment": [
+          124
+        ],
+        "regarding": [
+          125
+        ],
+        "sweet-spot": [
+          126
+        ],
+        "identification,": [
+          127
+        ],
+        "sequence": [
+          128
+        ],
+        "stratigraphic": [
+          129
+        ],
+        "interpretations,": [
+          130
+        ],
+        "drilling": [
+          132
+        ],
+        "completion": [
+          134
+        ],
+        "designs.": [
+          135
+        ],
+        "Further,": [
+          136
+        ],
+        "identified": [
+          138
+        ],
+        "zones": [
+          139,
+          145
+        ],
+        "used": [
+          142
+        ],
+        "characterize/correlate": [
+          144
+        ],
+        "nearby": [
+          147
+        ],
+        "un-cored": [
+          148
+        ],
+        "wells,": [
+          149
+        ],
+        "generated": [
+          153
+        ],
+        "serving": [
+          154
+        ],
+        "an": [
+          156
+        ],
+        "indispensable": [
+          157
+        ],
+        "input": [
+          158
+        ],
         "establishing": [
-          161
+          160
         ],
         "well-log": [
-          163
+          162
         ],
         "machine": [
-          168
+          167
         ],
         "learning": [
-          169
+          168
         ],
         "algorithms.": [
-          170
+          169
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4323308026",
@@ -15061,7 +15371,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-03-07T00:00:00"
     },
     {
@@ -15163,6 +15473,40 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            }
+          ],
           "raw_author_name": "Samer Aljurf",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -15203,6 +15547,28 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            }
+          ],
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -15237,6 +15603,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
@@ -15269,12 +15636,12 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 4.3529,
+      "fwci": 4.3383,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.90965578,
+        "value": 0.90878148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15657,8 +16024,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7139925539.pdf",
@@ -16398,7 +16765,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-03-21T00:00:00"
     },
     {
@@ -16459,6 +16826,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16477,6 +16845,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16495,6 +16864,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16511,6 +16881,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Baqer Albensaad",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16529,6 +16900,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -16762,8 +17134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16871,6 +17243,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
@@ -16894,6 +17267,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Badawod",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
@@ -16917,6 +17291,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fouad Al Zahrani",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
@@ -16940,6 +17315,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moin Muhammad",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Houston, Texas"
@@ -16978,6 +17354,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Izul Qudsi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -17019,6 +17396,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -17041,12 +17419,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4434,
+      "fwci": 5.3901,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92364672,
+        "value": 0.92272336,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17301,8 +17679,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -17330,624 +17708,621 @@
         "https://openalex.org/W4387446958"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "Digital": [
           0
         ],
-        "Digital": [
+        "innovation": [
           1
         ],
-        "innovation": [
+        "is": [
           2
         ],
-        "is": [
+        "transforming": [
           3
         ],
-        "transforming": [
-          4
-        ],
         "core": [
-          5,
-          28,
-          44,
-          121,
-          143,
-          192
+          4,
+          27,
+          43,
+          120,
+          142,
+          191
         ],
         "analysis": [
-          6,
-          84
+          5,
+          83
         ],
         "workflows": [
-          7
+          6
         ],
         "in": [
-          8,
-          92,
-          97,
-          155,
-          222,
-          244
+          7,
+          91,
+          96,
+          154,
+          221,
+          243
         ],
         "unconventional": [
-          9,
-          246
+          8,
+          245
         ],
         "mudstone": [
-          10,
-          224
+          9,
+          223
         ],
         "reservoirs": [
-          11
+          10
         ],
         "by": [
-          12,
-          26,
-          177
+          11,
+          25,
+          176
         ],
         "integrating": [
+          12,
+          118,
+          232
+        ],
+        "high-resolution": [
           13,
+          31,
           119,
           233
         ],
-        "high-resolution": [
-          14,
-          32,
-          120,
-          234
-        ],
         "datasets": [
-          15,
-          236
-        ],
-        "with": [
-          16,
-          94,
-          123,
-          165,
-          237
-        ],
-        "machine": [
-          17,
-          124,
-          238
-        ],
-        "learning.": [
-          18
-        ],
-        "This": [
-          19,
-          149
-        ],
-        "study": [
-          20,
-          129
-        ],
-        "aims": [
-          21
-        ],
-        "to": [
-          22,
-          30,
-          55,
-          180,
-          207
-        ],
-        "enhance": [
-          23
-        ],
-        "reservoir": [
-          24,
-          231
-        ],
-        "characterization": [
-          25
-        ],
-        "employing": [
-          27
-        ],
-        "digitization": [
-          29
-        ],
-        "generate": [
-          31
-        ],
-        "datasets,": [
-          33
-        ],
-        "improve": [
-          34
-        ],
-        "core-to-log": [
-          35
-        ],
-        "correlations,": [
-          36
-        ],
-        "automate": [
-          37
-        ],
-        "analytical": [
-          38
-        ],
-        "processes,": [
-          39
-        ],
-        "and": [
-          40,
-          78,
-          115,
-          145,
-          158,
-          187,
-          200,
-          218,
-          249
-        ],
-        "establish": [
-          41
-        ],
-        "a": [
-          42,
-          57,
-          241
-        ],
-        "digital": [
-          43,
+          14,
           235
         ],
+        "with": [
+          15,
+          93,
+          122,
+          164,
+          236
+        ],
+        "machine": [
+          16,
+          123,
+          237
+        ],
+        "learning.": [
+          17
+        ],
+        "This": [
+          18,
+          148
+        ],
+        "study": [
+          19,
+          128
+        ],
+        "aims": [
+          20
+        ],
+        "to": [
+          21,
+          29,
+          54,
+          179,
+          206
+        ],
+        "enhance": [
+          22
+        ],
+        "reservoir": [
+          23,
+          230
+        ],
+        "characterization": [
+          24
+        ],
+        "employing": [
+          26
+        ],
+        "digitization": [
+          28
+        ],
+        "generate": [
+          30
+        ],
+        "datasets,": [
+          32
+        ],
+        "improve": [
+          33
+        ],
+        "core-to-log": [
+          34
+        ],
+        "correlations,": [
+          35
+        ],
+        "automate": [
+          36
+        ],
+        "analytical": [
+          37
+        ],
+        "processes,": [
+          38
+        ],
+        "and": [
+          39,
+          77,
+          114,
+          144,
+          157,
+          186,
+          199,
+          217,
+          248
+        ],
+        "establish": [
+          40
+        ],
+        "a": [
+          41,
+          56,
+          240
+        ],
+        "digital": [
+          42,
+          234
+        ],
         "repository": [
-          45
+          44
         ],
         "for": [
+          45,
+          193
+        ],
+        "future": [
           46,
           194
         ],
-        "future": [
-          47,
-          195
-        ],
         "applications.": [
-          48
+          47
         ],
         "A": [
-          49
+          48
         ],
         "non-destructive": [
-          50
+          49
         ],
         "core-scanning": [
-          51
+          50
         ],
         "method": [
-          52,
-          173
+          51,
+          172
         ],
         "was": [
-          53,
-          138
-        ],
-        "utilized": [
-          54
-        ],
-        "acquire": [
-          56
-        ],
-        "depth-co-registered,": [
-          58
-        ],
-        "multiparameter": [
-          59
-        ],
-        "dataset": [
-          60,
-          65,
-          87
-        ],
-        "at": [
-          61
-        ],
-        "centimeter-scale": [
-          62
-        ],
-        "resolution.": [
-          63,
-          148
-        ],
-        "The": [
-          64,
-          83,
-          169,
-          197
-        ],
-        "includes": [
-          66
-        ],
-        "gamma": [
-          67
-        ],
-        "ray": [
-          68
-        ],
-        "(GR),": [
-          69
-        ],
-        "density": [
-          70
-        ],
-        "(Den),": [
-          71
-        ],
-        "P-wave": [
-          72
-        ],
-        "velocity": [
-          73
-        ],
-        "(Vp),": [
-          74
-        ],
-        "magnetic": [
-          75
-        ],
-        "susceptibility": [
-          76
-        ],
-        "(MS),": [
-          77
-        ],
-        "X-ray": [
-          79
-        ],
-        "fluorescence": [
-          80
-        ],
-        "(XRF)": [
-          81
-        ],
-        "measurements.": [
-          82
-        ],
-        "of": [
-          85,
-          134,
-          171,
-          203,
-          215
-        ],
-        "this": [
-          86,
-          128,
-          172,
-          204
-        ],
-        "reveals": [
-          88
-        ],
-        "significant": [
-          89
-        ],
-        "vertical": [
-          90
-        ],
-        "heterogeneity": [
-          91
-        ],
-        "lithofacies,": [
-          93
-        ],
-        "quantifiable": [
-          95
-        ],
-        "variations": [
-          96
-        ],
-        "mineralogical": [
-          98
-        ],
-        "composition": [
-          99
-        ],
-        "(clay-carbonate-silica": [
-          100
-        ],
-        "fractions),": [
-          101
-        ],
-        "organic": [
-          102
-        ],
-        "geochemical": [
-          103
-        ],
-        "parameters": [
-          104
-        ],
-        "(TOC,": [
-          105
-        ],
-        "HI,": [
-          106
-        ],
-        "thermal": [
-          107
-        ],
-        "maturity),": [
-          108
-        ],
-        "petrophysical": [
-          109,
-          167
-        ],
-        "attributes": [
-          110
-        ],
-        "(porosity,": [
-          111
-        ],
-        "fluid": [
-          112
-        ],
-        "saturation,": [
-          113
-        ],
-        "permeability),": [
-          114
-        ],
-        "geomechanical": [
-          116
-        ],
-        "properties.": [
-          117
-        ],
-        "By": [
-          118
-        ],
-        "data": [
-          122
-        ],
-        "learning-aided": [
-          125
-        ],
-        "lithofacies": [
-          126
-        ],
-        "classification,": [
-          127
-        ],
-        "enables": [
-          130
-        ],
-        "the": [
-          131
-        ],
-        "systematic": [
-          132
-        ],
-        "identification": [
-          133,
-          214
-        ],
-        "depositional": [
-          135
-        ],
-        "cyclicity": [
-          136
-        ],
-        "that": [
+          52,
           137
         ],
-        "previously": [
-          139
+        "utilized": [
+          53
         ],
-        "unresolved": [
-          140
+        "acquire": [
+          55
         ],
-        "through": [
-          141
+        "depth-co-registered,": [
+          57
         ],
-        "manual": [
-          142,
-          184
+        "multiparameter": [
+          58
         ],
-        "descriptions": [
-          144
+        "dataset": [
+          59,
+          64,
+          86
         ],
-        "beyond": [
-          146
+        "at": [
+          60
         ],
-        "well-log": [
+        "centimeter-scale": [
+          61
+        ],
+        "resolution.": [
+          62,
           147
         ],
-        "data-driven": [
-          150,
-          230
-        ],
-        "approach": [
-          151,
-          205
-        ],
-        "minimizes": [
-          152
-        ],
-        "subjective": [
-          153
-        ],
-        "bias": [
-          154
-        ],
-        "sample": [
-          156
-        ],
-        "description": [
-          157
-        ],
-        "selection": [
-          159
-        ],
-        "while": [
-          160,
-          190
-        ],
-        "facilitating": [
-          161
-        ],
-        "multivariate": [
-          162
-        ],
-        "statistical": [
-          163
-        ],
-        "integration": [
-          164
-        ],
-        "downhole": [
-          166
-        ],
-        "data.": [
-          168
-        ],
-        "implementation": [
-          170
-        ],
-        "improves": [
-          174
-        ],
-        "workflow": [
-          175
-        ],
-        "efficiency": [
-          176
-        ],
-        "40–60%": [
-          178
-        ],
-        "compared": [
-          179
-        ],
-        "conventional": [
-          181
-        ],
-        "techniques,": [
-          182
-        ],
-        "reducing": [
-          183
-        ],
-        "processing": [
-          185
-        ],
-        "time": [
-          186
-        ],
-        "associated": [
-          188
-        ],
-        "costs": [
-          189
-        ],
-        "preserving": [
-          191
-        ],
-        "samples": [
-          193
-        ],
-        "research.": [
+        "The": [
+          63,
+          82,
+          168,
           196
         ],
-        "enhanced": [
-          198
+        "includes": [
+          65
         ],
-        "resolution": [
-          199
+        "gamma": [
+          66
         ],
-        "predictive": [
-          201
+        "ray": [
+          67
         ],
-        "capabilities": [
-          202
+        "(GR),": [
+          68
         ],
-        "contribute": [
-          206
+        "density": [
+          69
         ],
-        "more": [
-          208
+        "(Den),": [
+          70
         ],
-        "accurate": [
-          209
+        "P-wave": [
+          71
         ],
-        "hydrocarbon": [
-          210,
-          251
+        "velocity": [
+          72
         ],
-        "reserve": [
-          211
+        "(Vp),": [
+          73
         ],
-        "estimation,": [
-          212
+        "magnetic": [
+          74
         ],
-        "improved": [
+        "susceptibility": [
+          75
+        ],
+        "(MS),": [
+          76
+        ],
+        "X-ray": [
+          78
+        ],
+        "fluorescence": [
+          79
+        ],
+        "(XRF)": [
+          80
+        ],
+        "measurements.": [
+          81
+        ],
+        "of": [
+          84,
+          133,
+          170,
+          202,
+          214
+        ],
+        "this": [
+          85,
+          127,
+          171,
+          203
+        ],
+        "reveals": [
+          87
+        ],
+        "significant": [
+          88
+        ],
+        "vertical": [
+          89
+        ],
+        "heterogeneity": [
+          90
+        ],
+        "lithofacies,": [
+          92
+        ],
+        "quantifiable": [
+          94
+        ],
+        "variations": [
+          95
+        ],
+        "mineralogical": [
+          97
+        ],
+        "composition": [
+          98
+        ],
+        "(clay-carbonate-silica": [
+          99
+        ],
+        "fractions),": [
+          100
+        ],
+        "organic": [
+          101
+        ],
+        "geochemical": [
+          102
+        ],
+        "parameters": [
+          103
+        ],
+        "(TOC,": [
+          104
+        ],
+        "HI,": [
+          105
+        ],
+        "thermal": [
+          106
+        ],
+        "maturity),": [
+          107
+        ],
+        "petrophysical": [
+          108,
+          166
+        ],
+        "attributes": [
+          109
+        ],
+        "(porosity,": [
+          110
+        ],
+        "fluid": [
+          111
+        ],
+        "saturation,": [
+          112
+        ],
+        "permeability),": [
+          113
+        ],
+        "geomechanical": [
+          115
+        ],
+        "properties.": [
+          116
+        ],
+        "By": [
+          117
+        ],
+        "data": [
+          121
+        ],
+        "learning-aided": [
+          124
+        ],
+        "lithofacies": [
+          125
+        ],
+        "classification,": [
+          126
+        ],
+        "enables": [
+          129
+        ],
+        "the": [
+          130
+        ],
+        "systematic": [
+          131
+        ],
+        "identification": [
+          132,
           213
         ],
-        "sweet-spot": [
-          216
+        "depositional": [
+          134
         ],
-        "zones,": [
-          217
+        "cyclicity": [
+          135
         ],
-        "reduced": [
-          219
+        "that": [
+          136
         ],
-        "development": [
-          220,
-          248
+        "previously": [
+          138
         ],
-        "risks": [
-          221
+        "unresolved": [
+          139
         ],
-        "complex": [
-          223
+        "through": [
+          140
         ],
-        "plays.": [
-          225
+        "manual": [
+          141,
+          183
         ],
-        "As": [
-          226
+        "descriptions": [
+          143
         ],
-        "industry": [
-          227
+        "beyond": [
+          145
         ],
-        "advances": [
-          228
+        "well-log": [
+          146
         ],
-        "toward": [
+        "data-driven": [
+          149,
           229
         ],
-        "characterization,": [
-          232
+        "approach": [
+          150,
+          204
         ],
-        "learning": [
-          239
+        "minimizes": [
+          151
         ],
-        "represents": [
-          240
+        "subjective": [
+          152
         ],
-        "transformational": [
-          242
+        "bias": [
+          153
         ],
-        "shift": [
-          243
+        "sample": [
+          155
         ],
-        "optimizing": [
-          245
+        "description": [
+          156
         ],
-        "resource": [
-          247
+        "selection": [
+          158
         ],
-        "maximizing": [
+        "while": [
+          159,
+          189
+        ],
+        "facilitating": [
+          160
+        ],
+        "multivariate": [
+          161
+        ],
+        "statistical": [
+          162
+        ],
+        "integration": [
+          163
+        ],
+        "downhole": [
+          165
+        ],
+        "data.": [
+          167
+        ],
+        "implementation": [
+          169
+        ],
+        "improves": [
+          173
+        ],
+        "workflow": [
+          174
+        ],
+        "efficiency": [
+          175
+        ],
+        "40–60%": [
+          177
+        ],
+        "compared": [
+          178
+        ],
+        "conventional": [
+          180
+        ],
+        "techniques,": [
+          181
+        ],
+        "reducing": [
+          182
+        ],
+        "processing": [
+          184
+        ],
+        "time": [
+          185
+        ],
+        "associated": [
+          187
+        ],
+        "costs": [
+          188
+        ],
+        "preserving": [
+          190
+        ],
+        "samples": [
+          192
+        ],
+        "research.": [
+          195
+        ],
+        "enhanced": [
+          197
+        ],
+        "resolution": [
+          198
+        ],
+        "predictive": [
+          200
+        ],
+        "capabilities": [
+          201
+        ],
+        "contribute": [
+          205
+        ],
+        "more": [
+          207
+        ],
+        "accurate": [
+          208
+        ],
+        "hydrocarbon": [
+          209,
           250
         ],
+        "reserve": [
+          210
+        ],
+        "estimation,": [
+          211
+        ],
+        "improved": [
+          212
+        ],
+        "sweet-spot": [
+          215
+        ],
+        "zones,": [
+          216
+        ],
+        "reduced": [
+          218
+        ],
+        "development": [
+          219,
+          247
+        ],
+        "risks": [
+          220
+        ],
+        "complex": [
+          222
+        ],
+        "plays.": [
+          224
+        ],
+        "As": [
+          225
+        ],
+        "industry": [
+          226
+        ],
+        "advances": [
+          227
+        ],
+        "toward": [
+          228
+        ],
+        "characterization,": [
+          231
+        ],
+        "learning": [
+          238
+        ],
+        "represents": [
+          239
+        ],
+        "transformational": [
+          241
+        ],
+        "shift": [
+          242
+        ],
+        "optimizing": [
+          244
+        ],
+        "resource": [
+          246
+        ],
+        "maximizing": [
+          249
+        ],
         "recovery.": [
-          252
+          251
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4410278684",
@@ -17957,7 +18332,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-05-12T00:00:00"
     },
     {
@@ -18063,6 +18438,52 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 34464, Saudi Arabia"
@@ -18103,6 +18524,52 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Paul Edigbue",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 34464, Saudi Arabia"
@@ -18143,6 +18610,52 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Sikandar Khan",
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals, Dhahran 34464, Saudi Arabia"
@@ -18183,6 +18696,52 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdul L. Ashadi",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 34464, Saudi Arabia"
@@ -18223,6 +18782,52 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 34464, Saudi Arabia"
@@ -18257,12 +18862,12 @@
         "currency": "CHF",
         "value_usd": 2160
       },
-      "fwci": 0.646,
+      "fwci": 0.6344,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.56086581,
+        "value": 0.55279235,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18625,8 +19230,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -19168,7 +19773,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -19240,6 +19845,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
@@ -19280,6 +19886,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Amjed Hassan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
@@ -19320,6 +19927,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
@@ -19360,6 +19968,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Mahmoud",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
@@ -19400,6 +20009,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulazeez Abdulraheem",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
@@ -19624,8 +20234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19747,6 +20357,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19765,6 +20376,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Anna Waskowska",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19783,6 +20395,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20078,17 +20691,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20443,6 +21056,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -20483,6 +21097,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Amjed M. Hassan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -20533,6 +21148,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [
             "Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University Science and Technology, Saudi Arabia",
@@ -20580,6 +21196,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -20620,6 +21237,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu O. Amao",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -20660,6 +21278,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ignatius Argadestya",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -20700,6 +21319,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia"
@@ -20740,6 +21360,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fabian Duque",
           "raw_affiliation_strings": [
             "Emerging Unconventional Assets Department, Saudi Aramco, Saudi Arabia"
@@ -21006,8 +21627,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21111,6 +21732,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
@@ -21127,6 +21749,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad Malik",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -21145,6 +21768,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
@@ -21163,6 +21787,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
@@ -21435,8 +22060,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21536,6 +22161,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
@@ -21554,6 +22180,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "SanLinn I. Kaka",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-1229-4627",
@@ -21786,8 +22413,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21896,6 +22523,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lamidi O. Babalola",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences",
@@ -21939,6 +22567,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aviandy W. Ismanto",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
@@ -21986,6 +22615,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
@@ -22031,6 +22661,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman M. Abdullatif",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia"
@@ -22071,6 +22702,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia"
@@ -22367,8 +22999,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -23027,6 +23659,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
@@ -23045,6 +23678,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
@@ -23063,6 +23697,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
@@ -23311,8 +23946,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23342,7 +23977,7 @@
       "display_name": "Micropaleontological study of the Miocene Dam Formation, Eastern Province of Saudi Arabia",
       "alternate_titles": [],
       "publication_year": 2023,
-      "publication_date": "2023-02-22",
+      "publication_date": "2023-05-15",
       "ids": {
         "openalex": "https://openalex.org/W4321502187",
         "doi": "https://doi.org/10.5194/egusphere-egu23-4059"
@@ -23424,6 +24059,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)"
@@ -23464,6 +24100,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Michael Kaminski",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)"
@@ -23502,6 +24139,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)"
@@ -23856,8 +24494,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24344,7 +24982,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4321502187",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-02-23T00:00:00"
     },
     {
@@ -24447,6 +25085,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Faisal Alkhayyal",
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -24494,6 +25133,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Amjed Hassan",
           "raw_affiliation_strings": [
             "Center of Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -24548,6 +25188,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -24595,6 +25236,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulazeez Abdulraheem",
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -24642,6 +25284,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Mahmoud",
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -24689,6 +25332,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -24946,8 +25590,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -25107,6 +25751,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
@@ -25130,6 +25775,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rawan Alodily",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
@@ -25153,6 +25799,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fouad Alzahrani",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
@@ -25176,6 +25823,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moin Muhammad",
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Houston, Texas"
@@ -25214,6 +25862,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -25259,7 +25908,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9487000107765198,
+        "score": 0.9506999850273132,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -25277,7 +25926,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9487000107765198,
+          "score": 0.9506999850273132,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -25294,7 +25943,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.03629999980330467,
+          "score": 0.03579999879002571,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -25311,7 +25960,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.004100000020116568,
+          "score": 0.0034000000450760126,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -25589,8 +26238,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -25632,838 +26281,835 @@
         "https://openalex.org/W4281667962"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "High-resolution": [
           0
         ],
-        "High-resolution": [
+        "X-ray": [
           1
         ],
-        "X-ray": [
+        "fluorescence": [
           2
         ],
-        "fluorescence": [
+        "(XRF)": [
           3
         ],
-        "(XRF)": [
-          4
-        ],
         "analysis": [
-          5,
-          330
+          4,
+          329
         ],
         "was": [
-          6,
-          35,
-          51
-        ],
-        "conducted": [
-          7
-        ],
-        "to": [
-          8,
-          36,
-          95,
-          132,
-          196,
-          239
-        ],
-        "characterize": [
-          9
-        ],
-        "the": [
-          10,
-          24,
-          133,
-          136,
-          176,
-          190,
-          215,
-          278,
-          321
-        ],
-        "vertical": [
-          11
-        ],
-        "and": [
-          12,
-          42,
-          55,
-          73,
-          77,
-          86,
-          98,
-          115,
-          127,
-          171,
-          181,
-          205,
-          221,
-          228,
-          235,
-          272,
-          285,
-          298,
-          307,
-          314,
-          335
-        ],
-        "lateral": [
-          13
-        ],
-        "distribution": [
-          14
-        ],
-        "of": [
-          15,
-          135,
-          178,
-          199,
-          214,
-          243,
-          261,
-          296,
-          323
-        ],
-        "elemental": [
-          16,
-          156,
-          201
-        ],
-        "compositions": [
-          17,
-          157
-        ],
-        "in": [
-          18,
-          29,
-          161,
-          245,
-          311,
-          342
-        ],
-        "six": [
-          19
-        ],
-        "carbonate": [
-          20
-        ],
-        "mudstone": [
-          21,
-          47
-        ],
-        "cores": [
-          22
-        ],
-        "from": [
-          23,
-          59
-        ],
-        "Late": [
-          25
-        ],
-        "Cretaceous": [
-          26
-        ],
-        "unconventional": [
-          27,
-          344
-        ],
-        "plays": [
-          28
-        ],
-        "North": [
-          30
-        ],
-        "America.": [
-          31
-        ],
-        "The": [
-          32,
-          258
-        ],
-        "primary": [
-          33
-        ],
-        "objective": [
-          34
-        ],
-        "develop": [
-          37
-        ],
-        "a": [
-          38,
-          111,
-          143,
-          197,
-          246,
-          251,
-          332
-        ],
-        "rapid,": [
-          39
-        ],
-        "efficient,": [
-          40
-        ],
-        "cost-effective,": [
-          41
-        ],
-        "non-destructive": [
-          43,
-          259
-        ],
-        "method": [
-          44,
-          279
-        ],
-        "for": [
-          45,
-          225,
-          266,
-          269,
-          338
-        ],
-        "analyzing": [
-          46,
-          56
-        ],
-        "cores.": [
-          48
-        ],
-        "This": [
-          49,
-          129,
-          208,
-          231,
-          294
-        ],
-        "goal": [
+          5,
+          34,
           50
         ],
-        "achieved": [
-          52
+        "conducted": [
+          6
         ],
-        "by": [
-          53,
-          121,
-          147
+        "to": [
+          7,
+          35,
+          94,
+          131,
+          195,
+          238
         ],
-        "combining": [
-          54
+        "characterize": [
+          8
         ],
-        "representative": [
-          57
+        "the": [
+          9,
+          23,
+          132,
+          135,
+          175,
+          189,
+          214,
+          277,
+          320
         ],
-        "elements": [
+        "vertical": [
+          10
+        ],
+        "and": [
+          11,
+          41,
+          54,
+          72,
+          76,
+          85,
+          97,
+          114,
+          126,
+          170,
+          180,
+          204,
+          220,
+          227,
+          234,
+          271,
+          284,
+          297,
+          306,
+          313,
+          334
+        ],
+        "lateral": [
+          12
+        ],
+        "distribution": [
+          13
+        ],
+        "of": [
+          14,
+          134,
+          177,
+          198,
+          213,
+          242,
+          260,
+          295,
+          322
+        ],
+        "elemental": [
+          15,
+          155,
+          200
+        ],
+        "compositions": [
+          16,
+          156
+        ],
+        "in": [
+          17,
+          28,
+          160,
+          244,
+          310,
+          341
+        ],
+        "six": [
+          18
+        ],
+        "carbonate": [
+          19
+        ],
+        "mudstone": [
+          20,
+          46
+        ],
+        "cores": [
+          21
+        ],
+        "from": [
+          22,
           58
         ],
-        "each": [
-          60
+        "Late": [
+          24
         ],
-        "group,": [
-          61
+        "Cretaceous": [
+          25
         ],
-        "including": [
-          62,
-          164
+        "unconventional": [
+          26,
+          343
         ],
-        "Ca": [
-          63
+        "plays": [
+          27
         ],
-        "(carbonate-associated": [
-          64
+        "North": [
+          29
         ],
-        "element),": [
-          65
+        "America.": [
+          30
         ],
-        "Si,": [
-          66
+        "The": [
+          31,
+          257
         ],
-        "Al,": [
-          67
+        "primary": [
+          32
         ],
-        "Fe,": [
-          68
+        "objective": [
+          33
         ],
-        "Ti,": [
-          69
+        "develop": [
+          36
         ],
-        "K": [
-          70
-        ],
-        "(terrigenous-associated": [
-          71
-        ],
-        "elements),": [
-          72
-        ],
-        "Mo,": [
-          74
-        ],
-        "Ni,": [
-          75
-        ],
-        "V,": [
-          76
-        ],
-        "Cu": [
-          78
-        ],
-        "(redox-sensitive": [
-          79
-        ],
-        "trace": [
-          80
-        ],
-        "elements).": [
-          81
-        ],
-        "Principal": [
-          82,
-          90
-        ],
-        "Component": [
-          83
-        ],
-        "Analysis": [
-          84
-        ],
-        "(PCA)": [
-          85
-        ],
-        "Hierarchical": [
-          87
-        ],
-        "Clustering": [
-          88
-        ],
-        "on": [
-          89,
-          155
-        ],
-        "Components": [
-          91
-        ],
-        "(HCPC)": [
-          92
-        ],
-        "were": [
-          93
-        ],
-        "utilized": [
-          94
-        ],
-        "identify": [
-          96
-        ],
-        "chemofacies": [
-          97
-        ],
-        "establish": [
-          99
-        ],
-        "chronostratigraphic": [
-          100
-        ],
-        "subdivisions,": [
-          101
-        ],
-        "subsequently": [
-          102
-        ],
-        "facilitating": [
-          103
-        ],
-        "correlations": [
-          104
-        ],
-        "between": [
-          105
-        ],
-        "different": [
-          106
-        ],
-        "wells.": [
-          107
-        ],
-        "Each": [
-          108,
-          140,
-          193
-        ],
-        "dataset": [
-          109
-        ],
-        "has": [
+        "a": [
+          37,
           110,
-          118
+          142,
+          196,
+          245,
+          250,
+          331
         ],
-        "generated": [
-          112
+        "rapid,": [
+          38
         ],
-        "several": [
-          113
+        "efficient,": [
+          39
         ],
-        "clusters,": [
-          114
+        "cost-effective,": [
+          40
         ],
-        "their": [
-          116
+        "non-destructive": [
+          42,
+          258
         ],
-        "validity": [
-          117
+        "method": [
+          43,
+          278
         ],
-        "been": [
-          119,
-          159,
-          187
+        "for": [
+          44,
+          224,
+          265,
+          268,
+          337
         ],
-        "confirmed": [
-          120
+        "analyzing": [
+          45,
+          55
         ],
-        "comparing": [
-          122
+        "cores.": [
+          47
         ],
-        "them": [
-          123
+        "This": [
+          48,
+          128,
+          207,
+          230,
+          293
         ],
-        "with": [
-          124,
-          276,
-          291,
-          328
+        "goal": [
+          49
         ],
-        "core": [
-          125,
-          179,
-          244,
-          256,
-          289
+        "achieved": [
+          51
         ],
-        "samples": [
-          126,
-          268
-        ],
-        "measurements.": [
-          128
-        ],
-        "process": [
-          130
-        ],
-        "led": [
-          131
-        ],
-        "selection": [
-          134
-        ],
-        "most": [
-          137
-        ],
-        "appropriate": [
-          138
-        ],
-        "cluster/chemofacies.": [
-          139
-        ],
-        "cluster/chemofacies": [
-          141
-        ],
-        "represents": [
-          142
-        ],
-        "major": [
-          144
-        ],
-        "lithofacies": [
-          145
-        ],
-        "defined": [
+        "by": [
+          52,
+          120,
           146
         ],
-        "its": [
-          148
+        "combining": [
+          53
         ],
-        "chemical": [
-          149
+        "representative": [
+          56
         ],
-        "composition.": [
-          150
+        "elements": [
+          57
         ],
-        "Five": [
-          151
+        "each": [
+          59
         ],
-        "rock": [
-          152
+        "group,": [
+          60
         ],
-        "classes/chemofacies": [
-          153
+        "including": [
+          61,
+          163
         ],
-        "based": [
-          154,
-          300
+        "Ca": [
+          62
         ],
-        "have": [
+        "(carbonate-associated": [
+          63
+        ],
+        "element),": [
+          64
+        ],
+        "Si,": [
+          65
+        ],
+        "Al,": [
+          66
+        ],
+        "Fe,": [
+          67
+        ],
+        "Ti,": [
+          68
+        ],
+        "K": [
+          69
+        ],
+        "(terrigenous-associated": [
+          70
+        ],
+        "elements),": [
+          71
+        ],
+        "Mo,": [
+          73
+        ],
+        "Ni,": [
+          74
+        ],
+        "V,": [
+          75
+        ],
+        "Cu": [
+          77
+        ],
+        "(redox-sensitive": [
+          78
+        ],
+        "trace": [
+          79
+        ],
+        "elements).": [
+          80
+        ],
+        "Principal": [
+          81,
+          89
+        ],
+        "Component": [
+          82
+        ],
+        "Analysis": [
+          83
+        ],
+        "(PCA)": [
+          84
+        ],
+        "Hierarchical": [
+          86
+        ],
+        "Clustering": [
+          87
+        ],
+        "on": [
+          88,
+          154
+        ],
+        "Components": [
+          90
+        ],
+        "(HCPC)": [
+          91
+        ],
+        "were": [
+          92
+        ],
+        "utilized": [
+          93
+        ],
+        "identify": [
+          95
+        ],
+        "chemofacies": [
+          96
+        ],
+        "establish": [
+          98
+        ],
+        "chronostratigraphic": [
+          99
+        ],
+        "subdivisions,": [
+          100
+        ],
+        "subsequently": [
+          101
+        ],
+        "facilitating": [
+          102
+        ],
+        "correlations": [
+          103
+        ],
+        "between": [
+          104
+        ],
+        "different": [
+          105
+        ],
+        "wells.": [
+          106
+        ],
+        "Each": [
+          107,
+          139,
+          192
+        ],
+        "dataset": [
+          108
+        ],
+        "has": [
+          109,
+          117
+        ],
+        "generated": [
+          111
+        ],
+        "several": [
+          112
+        ],
+        "clusters,": [
+          113
+        ],
+        "their": [
+          115
+        ],
+        "validity": [
+          116
+        ],
+        "been": [
+          118,
           158,
           186
         ],
-        "identified": [
-          160,
-          188
+        "confirmed": [
+          119
         ],
-        "this": [
-          162,
-          318
+        "comparing": [
+          121
         ],
-        "study,": [
-          163
+        "them": [
+          122
         ],
-        "chalk/limestone,": [
-          165
+        "with": [
+          123,
+          275,
+          290,
+          327
         ],
-        "marly": [
-          166
+        "core": [
+          124,
+          178,
+          243,
+          255,
+          288
         ],
-        "limestone,": [
-          167
+        "samples": [
+          125,
+          267
         ],
-        "organic-rich": [
-          168
+        "measurements.": [
+          127
         ],
-        "mudstone,": [
-          169
+        "process": [
+          129
         ],
-        "sandstone,": [
-          170
+        "led": [
+          130
         ],
-        "mixed": [
-          172
+        "selection": [
+          133
         ],
-        "mudstone.": [
-          173
+        "most": [
+          136
         ],
-        "Additionally,": [
-          174
+        "appropriate": [
+          137
         ],
-        "through": [
-          175
+        "cluster/chemofacies.": [
+          138
         ],
-        "integration": [
-          177
+        "cluster/chemofacies": [
+          140
         ],
-        "measurements": [
-          180
+        "represents": [
+          141
         ],
-        "chemostratigraphy,": [
-          182,
-          277
+        "major": [
+          143
         ],
-        "multiple": [
-          183
+        "lithofacies": [
+          144
         ],
-        "stratigraphic": [
-          184,
-          281
+        "defined": [
+          145
         ],
-        "zones": [
+        "its": [
+          147
+        ],
+        "chemical": [
+          148
+        ],
+        "composition.": [
+          149
+        ],
+        "Five": [
+          150
+        ],
+        "rock": [
+          151
+        ],
+        "classes/chemofacies": [
+          152
+        ],
+        "based": [
+          153,
+          299
+        ],
+        "have": [
+          157,
           185
         ],
-        "within": [
-          189,
-          250
+        "identified": [
+          159,
+          187
         ],
-        "studied": [
-          191
+        "this": [
+          161,
+          317
         ],
-        "formation.": [
-          192
+        "study,": [
+          162
         ],
-        "zone": [
-          194
+        "chalk/limestone,": [
+          164
         ],
-        "corresponds": [
-          195
+        "marly": [
+          165
         ],
-        "combination": [
-          198
+        "limestone,": [
+          166
         ],
-        "lithology,": [
-          200
+        "organic-rich": [
+          167
         ],
-        "composition,": [
-          202
+        "mudstone,": [
+          168
         ],
-        "organic": [
-          203
+        "sandstone,": [
+          169
         ],
-        "richness,": [
-          204
+        "mixed": [
+          171
         ],
-        "mechanical": [
-          206
+        "mudstone.": [
+          172
         ],
-        "properties.": [
-          207
+        "Additionally,": [
+          173
         ],
-        "integrated": [
-          209,
-          275
+        "through": [
+          174
         ],
-        "approach": [
-          210,
-          232
+        "integration": [
+          176
         ],
-        "enhances": [
-          211,
+        "measurements": [
+          179
+        ],
+        "chemostratigraphy,": [
+          181,
+          276
+        ],
+        "multiple": [
+          182
+        ],
+        "stratigraphic": [
+          183,
           280
         ],
+        "zones": [
+          184
+        ],
+        "within": [
+          188,
+          249
+        ],
+        "studied": [
+          190
+        ],
+        "formation.": [
+          191
+        ],
+        "zone": [
+          193
+        ],
+        "corresponds": [
+          194
+        ],
+        "combination": [
+          197
+        ],
+        "lithology,": [
+          199
+        ],
+        "composition,": [
+          201
+        ],
+        "organic": [
+          202
+        ],
+        "richness,": [
+          203
+        ],
+        "mechanical": [
+          205
+        ],
+        "properties.": [
+          206
+        ],
+        "integrated": [
+          208,
+          274
+        ],
+        "approach": [
+          209,
+          231
+        ],
+        "enhances": [
+          210,
+          279
+        ],
         "our": [
-          212
+          211
         ],
         "understanding": [
-          213,
-          341
+          212,
+          340
         ],
         "reservoir's": [
-          216
+          215
         ],
         "complexity,": [
-          217
+          216
         ],
         "identifies": [
-          218
+          217
         ],
         "sweet": [
-          219
+          218
         ],
         "spots,": [
-          220
+          219
         ],
         "provides": [
-          222
+          221
         ],
         "valuable": [
-          223
+          222
         ],
         "insights": [
-          224
+          223
         ],
         "reservoir": [
+          225,
+          311
+        ],
+        "characterization": [
           226,
           312
         ],
-        "characterization": [
-          227,
-          313
-        ],
         "exploration": [
-          229,
-          315
+          228,
+          314
         ],
         "activities.": [
-          230
+          229
         ],
         "utilizes": [
-          233
+          232
         ],
         "robust": [
-          234
+          233
         ],
         "reproducible": [
-          236
+          235
         ],
         "analytical": [
-          237
+          236
         ],
         "techniques": [
-          238
+          237
         ],
         "scan": [
-          240
+          239
         ],
         "large": [
-          241
+          240
         ],
         "volumes": [
-          242
+          241
         ],
         "short": [
-          247
+          246
         ],
         "period": [
-          248
+          247
         ],
         "typically": [
-          249
+          248
         ],
         "few": [
-          252
+          251
         ],
         "days": [
-          253
+          252
         ],
         "while": [
-          254
+          253
         ],
         "maintaining": [
-          255
+          254
         ],
         "integrity.": [
-          257
+          256
         ],
         "nature": [
-          260
+          259
         ],
         "HH-XRF": [
-          262
+          261
         ],
         "makes": [
-          263
+          262
         ],
         "it": [
-          264
+          263
         ],
         "ideal": [
-          265
+          264
         ],
         "preserving": [
-          267
+          266
         ],
         "additional": [
-          270
+          269
         ],
         "studies": [
-          271
+          270
         ],
         "archiving.": [
-          273
+          272
         ],
         "When": [
-          274
+          273
         ],
         "correlation": [
-          282
+          281
         ],
         "across": [
-          283
+          282
         ],
         "wells": [
-          284
+          283
         ],
         "supplements": [
-          286
+          285
         ],
         "traditional": [
-          287
+          286
         ],
         "sedimentological": [
-          288
+          287
         ],
         "descriptions": [
-          290
+          289
         ],
         "quantitative": [
-          292
+          291
         ],
         "data.": [
-          293
+          292
         ],
         "fusion": [
-          295
+          294
         ],
         "data-driven": [
-          297
+          296
         ],
         "visually": [
-          299
+          298
         ],
         "interpretation": [
-          301
+          300
         ],
         "improves": [
-          302
+          301
         ],
         "facies": [
-          303
+          302
         ],
         "classification,": [
-          304
+          303
         ],
         "reduces": [
-          305
+          304
         ],
         "subjectivity,": [
-          306
+          305
         ],
         "supports": [
-          308
+          307
         ],
         "better-informed": [
-          309
+          308
         ],
         "decision-making": [
-          310
+          309
         ],
         "workflows.": [
-          316
+          315
         ],
         "Overall,": [
-          317
+          316
         ],
         "study": [
-          319
+          318
         ],
         "demonstrates": [
-          320
+          319
         ],
         "value": [
-          322
+          321
         ],
         "high-resolution": [
-          324
+          323
         ],
         "XRF": [
-          325
+          324
         ],
         "scanning": [
-          326
+          325
         ],
         "combined": [
-          327
+          326
         ],
         "multivariate": [
-          329
+          328
         ],
         "as": [
-          331
+          330
         ],
         "fast,": [
-          333
+          332
         ],
         "economical,": [
-          334
+          333
         ],
         "effective": [
-          336
+          335
         ],
         "tool": [
-          337
+          336
         ],
         "improving": [
-          339
+          338
         ],
         "geological": [
-          340
+          339
         ],
         "mudstone-dominated": [
-          343
+          342
         ],
         "reservoirs.": [
-          345
+          344
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414237558",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26558,6 +27204,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
             "1CPG-KFUPM (septriandi.chan@kfupm.edu.sa)"
@@ -26598,6 +27245,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
             "1CPG-KFUPM (septriandi.chan@kfupm.edu.sa)"
@@ -26638,6 +27286,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [
             "2Saudi Aramco"
@@ -27000,8 +27649,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,

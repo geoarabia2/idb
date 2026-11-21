@@ -196,7 +196,7 @@
       {
         "id": "https://openalex.org/T12639",
         "display_name": "Global Energy and Sustainability Research",
-        "value": 0.0000685,
+        "value": 0.0000684,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -461,7 +461,7 @@
         "year": 2016,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 90
+        "cited_by_count": 89
       },
       {
         "year": 2017,
@@ -497,13 +497,13 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 113
+        "cited_by_count": 112
       },
       {
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 100
+        "cited_by_count": 101
       },
       {
         "year": 2024,
@@ -538,7 +538,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5077725431",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5077725431",
-    "updated_date": "2026-11-18T16:17:57",
+    "updated_date": "2026-11-20T12:36:48",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -617,6 +617,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1626,11 +1627,11 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 22
+          "cited_by_count": 23
         },
         {
           "year": 2024,
-          "cited_by_count": 21
+          "cited_by_count": 20
         },
         {
           "year": 2023,
@@ -1638,7 +1639,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2021,
@@ -1650,7 +1651,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 17
+          "cited_by_count": 16
         },
         {
           "year": 2018,
@@ -1681,7 +1682,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1766,6 +1767,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1782,6 +1784,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. W. Hughes Clarke",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1798,6 +1801,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Stoneley",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -2326,6 +2330,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "G. W. Hughes",
           "raw_affiliation_strings": [
             "*Simon-Robertson, Llandudno, Gwynedd, LL30 ISA, Wales, UK. Present address: Saudi Aramco, Research and Development Divison, PO Box 5000, Dharan 31311. Saudi Arbaia"
@@ -2365,6 +2370,7 @@
             "LB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "**American University of Beirut, Lebanon, and Marathon International Petroleum (GB) Ltd., London, UK. (Project Scientific Director, UNDP/World Bank Red Sea — Gulf of Aden Regional Hydrocarbon Study Project)"
@@ -3340,11 +3346,11 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2023,
-          "cited_by_count": 13
+          "cited_by_count": 12
         },
         {
           "year": 2022,
@@ -3391,7 +3397,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3472,6 +3478,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "ZIAD RAFIQ BEYDOUN",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3488,6 +3495,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "HERBERT ROY BICHAN",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -4497,6 +4505,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "G.Wyn Hughes",
           "raw_affiliation_strings": [
             "Robertson Group, Llandudno, Gwynedd LL30 1SA, UK"
@@ -4520,6 +4529,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman Varol",
           "raw_affiliation_strings": [
             "Robertson Group, Llandudno, Gwynedd LL30 1SA, UK"
@@ -4556,6 +4566,7 @@
             "LB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ziad R. Beydoun",
           "raw_affiliation_strings": [
             "Department of Geology, American University of Beirut, Lebanon USA"
@@ -5023,6 +5034,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beirut",
@@ -5972,6 +5984,7 @@
             "LB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beirut",
@@ -6004,6 +6017,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. L. As-Saruri",
           "raw_affiliation_strings": [
             "Geological Survey & Mineral Exploration Board"
@@ -6040,6 +6054,7 @@
             "KW"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. S. Baraba",
           "raw_affiliation_strings": [
             "Ministry of Oil and Mineral Resources"
@@ -6062,12 +6077,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7168,
+      "fwci": 0.7179,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.71887182,
+        "value": 0.71851342,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7379,11 +7394,11 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2023,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2022,
@@ -7430,7 +7445,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7543,6 +7558,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. BEYDOUN",
           "raw_affiliation_strings": [
             "*Scientific Director, UNDP/World Bank Red Sea-Gulf of Aden Regional Hydrocarbon Project, Department of Geology, American University of Beirut, Lebanon",
@@ -7580,12 +7596,12 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 6.3689,
+      "fwci": 6.3783,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.95961043,
+        "value": 0.9595641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8850,11 +8866,11 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2023,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -8897,7 +8913,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8998,6 +9014,7 @@
             "LB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "*American University of Beirut, Beirut, Lebanon"
@@ -9023,6 +9040,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. R. I. Futyan",
           "raw_affiliation_strings": [
             "**Futyan, Jawzi and Associates, Llandudno, Gwynedd, UK"
@@ -9046,6 +9064,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. H. Jawzi",
           "raw_affiliation_strings": [
             "**Futyan, Jawzi and Associates, Llandudno, Gwynedd, UK"
@@ -10213,6 +10232,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Stoneley",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10229,6 +10249,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10662,6 +10683,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "Department of Geology, American University of Beirut, Lebanon"
@@ -10688,12 +10710,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8093,
+      "fwci": 2.8138,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 114,
       "citation_normalized_percentile": {
-        "value": 0.89874214,
+        "value": 0.89893283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10987,749 +11009,746 @@
       ],
       "abstract_inverted_index": {
         "3": [
-          36
-        ],
-        "25": [
-          78
-        ],
-        "40": [
-          79
-        ],
-        "914": [
-          56
-        ],
-        "Abstract": [
-          0
-        ],
-        "Detailed": [
-          1
-        ],
-        "geological": [
-          2,
-          99,
-          150,
-          209
-        ],
-        "compilation": [
-          3
-        ],
-        "maps": [
-          4
-        ],
-        "for": [
-          5,
-          65,
-          152,
-          171,
-          204,
-          226
-        ],
-        "the": [
-          6,
-          10,
-          50,
-          68,
-          85,
-          102,
-          133,
-          173,
-          176,
-          182,
-          190,
-          194,
-          198,
-          217,
-          221,
-          227,
-          249,
-          253,
-          261,
-          284,
-          296,
-          312,
-          323,
-          328
-        ],
-        "two": [
-          7,
-          86,
-          103,
-          195
-        ],
-        "sides": [
-          8
-        ],
-        "of": [
-          9,
-          12,
-          67,
-          71,
-          77,
-          98,
-          111,
-          127,
-          175,
-          187,
-          193,
-          220,
-          258,
-          264,
-          299,
-          311,
-          327
-        ],
-        "Gulf": [
-          11
-        ],
-        "Aden": [
-          13
-        ],
-        "from": [
-          14,
-          283
-        ],
-        "various": [
-          15
-        ],
-        "published": [
-          16
-        ],
-        "and": [
-          17,
-          27,
-          37,
-          52,
-          55,
-          80,
-          95,
-          113,
-          129,
-          148,
-          154,
-          180,
-          185,
-          206,
-          232,
-          260,
-          277
-        ],
-        "unpublished": [
-          18
-        ],
-        "sources": [
-          19
-        ],
-        "were": [
-          20,
-          43
-        ],
-        "originally": [
-          21
-        ],
-        "prepared": [
-          22
-        ],
-        "on": [
-          23,
-          235,
-          240
-        ],
-        "1:500": [
-          24
-        ],
-        "000": [
-          25,
-          32,
-          33
-        ],
-        "scale": [
-          26,
-          34
-        ],
-        "later": [
-          28
-        ],
-        "reduced": [
-          29
-        ],
-        "to": [
-          30,
-          45,
-          60,
-          252,
-          291,
-          318
-        ],
-        "1:1": [
-          31
-        ],
-        "(figures": [
           35
         ],
-        "4,": [
-          38
+        "25": [
+          77
         ],
-        "in": [
-          39,
-          164,
-          216,
-          273
+        "40": [
+          78
         ],
-        "accompanying": [
-          40
+        "914": [
+          55
         ],
-        "wallet).": [
-          41
+        "Detailed": [
+          0
         ],
-        "These": [
-          42
-        ],
-        "reconstructed": [
-          44,
-          324
-        ],
-        "postulated": [
-          46
-        ],
-        "pre-separation": [
-          47
-        ],
-        "positions": [
-          48
-        ],
-        "along": [
-          49
-        ],
-        "100-": [
-          51,
-          116
-        ],
-        "500-fathom": [
-          53,
-          89
-        ],
-        "(183": [
-          54
-        ],
-        "m)": [
-          57
-        ],
-        "bathymetric": [
-          58
-        ],
-        "contours": [
-          59
-        ],
-        "give": [
-          61,
-          146
-        ],
-        "acceptably": [
-          62
-        ],
-        "close": [
-          63
-        ],
-        "fits": [
-          64
-        ],
-        "most": [
-          66
-        ],
-        "area": [
-          69,
-          223,
-          251
-        ],
-        "west": [
-          70,
-          219,
-          254
-        ],
-        "Alula-Ras": [
-          72
-        ],
-        "Fartaq,": [
-          73
-        ],
-        "leaving": [
-          74
-        ],
-        "water": [
-          75,
-          178
-        ],
-        "gaps": [
-          76
-        ],
-        "50-80": [
-          81
-        ],
-        "km": [
-          82
-        ],
-        "respectively": [
-          83
-        ],
-        "between": [
-          84,
-          101,
-          189,
-          255
-        ],
-        "shores.": [
-          87
-        ],
-        "The": [
-          88,
-          115
-        ],
-        "fit": [
-          90,
-          118,
-          321
-        ],
-        "shows": [
-          91
-        ],
-        "several": [
-          92
-        ],
-        "striking": [
-          93
-        ],
-        "similarities": [
-          94
-        ],
-        "apparent": [
-          96
-        ],
-        "continuity": [
-          97,
-          126
-        ],
-        "features": [
-          100
-        ],
-        "sides,": [
-          104
-        ],
-        "but": [
-          105
-        ],
-        "detailed": [
-          106,
-          137
-        ],
-        "correlation": [
-          107,
-          124,
-          166
-        ],
-        "reveals": [
-          108
-        ],
-        "a": [
-          109,
-          120,
-          243,
-          270,
-          274,
-          307,
-          320
-        ],
-        "number": [
-          110
-        ],
-        "offsets": [
-          112
-        ],
-        "mismatches.": [
-          114
-        ],
-        "fathom": [
-          117
-        ],
-        "gives": [
-          119
-        ],
-        "considerably": [
-          121,
-          244
-        ],
-        "improved": [
-          122
-        ],
-        "overall": [
-          123
-        ],
-        "with": [
-          125,
-          278,
-          322
-        ],
-        "structural": [
-          128,
-          158
-        ],
-        "facies": [
-          130
-        ],
-        "belts": [
-          131
-        ],
-        "across": [
-          132
-        ],
-        "intervening": [
-          134
-        ],
-        "water,": [
-          135
-        ],
-        "though": [
-          136
-        ],
-        "comparisons": [
-          138
-        ],
-        "do": [
-          139
-        ],
-        "not": [
-          140
-        ],
-        "bring": [
-          141
-        ],
-        "out": [
-          142
-        ],
-        "many": [
-          143
-        ],
-        "correlations": [
-          144
-        ],
-        "that": [
-          145
-        ],
-        "direct": [
-          147
-        ],
-        "positive": [
+        "geological": [
+          1,
+          98,
           149,
-          165
-        ],
-        "support": [
-          151,
-          203
-        ],
-        "separation": [
-          153,
-          205
-        ],
-        "these": [
-          155
-        ],
-        "are": [
-          156,
-          238
-        ],
-        "mainly": [
-          157
-        ],
-        "rather": [
-          159
-        ],
-        "than": [
-          160
-        ],
-        "stratigraphic.": [
-          161
-        ],
-        "This": [
-          162
-        ],
-        "paucity": [
-          163
-        ],
-        "may": [
-          167
-        ],
-        "be": [
-          168,
-          305
-        ],
-        "partly": [
-          169
-        ],
-        "accounted": [
-          170
-        ],
-        "by": [
-          172,
-          181
-        ],
-        "width": [
-          174
-        ],
-        "remaining": [
-          177
-        ],
-        "gap": [
-          179
-        ],
-        "differing": [
-          183
-        ],
-        "geomorphology": [
-          184
-        ],
-        "degree": [
-          186
-        ],
-        "erosion": [
-          188
-        ],
-        "eastern": [
-          191
-        ],
-        "portion": [
-          192,
-          326
-        ],
-        "sides.": [
-          196
-        ],
-        "Although": [
-          197
-        ],
-        "reconstructions": [
-          199
-        ],
-        "reveal": [
-          200
-        ],
-        "appreciable": [
-          201
-        ],
-        "circumstantial": [
-          202
-        ],
-        "no": [
-          207
-        ],
-        "major": [
           208
         ],
-        "evidence": [
-          210
+        "compilation": [
+          2
         ],
-        "against": [
-          211
+        "maps": [
+          3
         ],
-        "it,": [
-          212
+        "for": [
+          4,
+          64,
+          151,
+          170,
+          203,
+          225
         ],
-        "an": [
-          213
+        "the": [
+          5,
+          9,
+          49,
+          67,
+          84,
+          101,
+          132,
+          172,
+          175,
+          181,
+          189,
+          193,
+          197,
+          216,
+          220,
+          226,
+          248,
+          252,
+          260,
+          283,
+          295,
+          311,
+          322,
+          327
         ],
-        "overlap": [
-          214,
-          246,
-          301
+        "two": [
+          6,
+          85,
+          102,
+          194
         ],
-        "results": [
-          215
+        "sides": [
+          7
         ],
-        "extreme": [
-          218
+        "of": [
+          8,
+          11,
+          66,
+          70,
+          76,
+          97,
+          110,
+          126,
+          174,
+          186,
+          192,
+          219,
+          257,
+          263,
+          298,
+          310,
+          326
         ],
-        "map": [
+        "Gulf": [
+          10
+        ],
+        "Aden": [
+          12
+        ],
+        "from": [
+          13,
+          282
+        ],
+        "various": [
+          14
+        ],
+        "published": [
+          15
+        ],
+        "and": [
+          16,
+          26,
+          36,
+          51,
+          54,
+          79,
+          94,
+          112,
+          128,
+          147,
+          153,
+          179,
+          184,
+          205,
+          231,
+          259,
+          276
+        ],
+        "unpublished": [
+          17
+        ],
+        "sources": [
+          18
+        ],
+        "were": [
+          19,
+          42
+        ],
+        "originally": [
+          20
+        ],
+        "prepared": [
+          21
+        ],
+        "on": [
+          22,
+          234,
+          239
+        ],
+        "1:500": [
+          23
+        ],
+        "000": [
+          24,
+          31,
+          32
+        ],
+        "scale": [
+          25,
+          33
+        ],
+        "later": [
+          27
+        ],
+        "reduced": [
+          28
+        ],
+        "to": [
+          29,
+          44,
+          59,
+          251,
+          290,
+          317
+        ],
+        "1:1": [
+          30
+        ],
+        "(figures": [
+          34
+        ],
+        "4,": [
+          37
+        ],
+        "in": [
+          38,
+          163,
+          215,
+          272
+        ],
+        "accompanying": [
+          39
+        ],
+        "wallet).": [
+          40
+        ],
+        "These": [
+          41
+        ],
+        "reconstructed": [
+          43,
+          323
+        ],
+        "postulated": [
+          45
+        ],
+        "pre-separation": [
+          46
+        ],
+        "positions": [
+          47
+        ],
+        "along": [
+          48
+        ],
+        "100-": [
+          50,
+          115
+        ],
+        "500-fathom": [
+          52,
+          88
+        ],
+        "(183": [
+          53
+        ],
+        "m)": [
+          56
+        ],
+        "bathymetric": [
+          57
+        ],
+        "contours": [
+          58
+        ],
+        "give": [
+          60,
+          145
+        ],
+        "acceptably": [
+          61
+        ],
+        "close": [
+          62
+        ],
+        "fits": [
+          63
+        ],
+        "most": [
+          65
+        ],
+        "area": [
+          68,
           222,
           250
         ],
-        "(appreciably": [
-          224
+        "west": [
+          69,
+          218,
+          253
         ],
-        "greater": [
-          225,
-          245
+        "Alula-Ras": [
+          71
         ],
-        "100-fathom": [
-          228
+        "Fartaq,": [
+          72
         ],
-        "fit)": [
-          229
+        "leaving": [
+          73
         ],
-        "where": [
-          230
+        "water": [
+          74,
+          177
         ],
-        "Basement": [
-          231
+        "gaps": [
+          75
         ],
-        "Mesozoic": [
-          233
+        "50-80": [
+          80
         ],
-        "rocks": [
-          234,
-          257
+        "km": [
+          81
         ],
-        "either": [
-          236
+        "respectively": [
+          82
         ],
-        "side": [
-          237
+        "between": [
+          83,
+          100,
+          188,
+          254
         ],
-        "superimposed": [
-          239
+        "shores.": [
+          86
         ],
-        "one": [
-          241
+        "The": [
+          87,
+          114
         ],
-        "another;": [
-          242
+        "fit": [
+          89,
+          117,
+          320
         ],
-        "occurs": [
-          247
+        "shows": [
+          90
         ],
-        "outside": [
-          248
+        "several": [
+          91
         ],
-        "similar": [
-          256
+        "striking": [
+          92
         ],
-        "Yemen": [
-          259
+        "similarities": [
+          93
         ],
-        "Danakil": [
-          262
+        "apparent": [
+          95
         ],
-        "alps": [
-          263
+        "continuity": [
+          96,
+          125
         ],
-        "Ethiopia.": [
-          265
+        "features": [
+          99
         ],
-        "If": [
-          266
+        "sides,": [
+          103
         ],
-        "Arabia": [
-          267
+        "but": [
+          104
         ],
-        "moved": [
-          268
+        "detailed": [
+          105,
+          136
         ],
-        "as": [
-          269
+        "correlation": [
+          106,
+          123,
+          165
         ],
-        "single": [
-          271
+        "reveals": [
+          107
         ],
-        "block": [
-          272
-        ],
-        "northeast": [
-          275,
-          309
-        ],
-        "direction": [
-          276
-        ],
-        "counter": [
-          279
-        ],
-        "clockwise": [
-          280
-        ],
-        "rotation": [
-          281
-        ],
-        "away": [
-          282
-        ],
-        "Somali": [
-          285
-        ],
-        "(and": [
-          286
-        ],
-        "Nubian)": [
-          287
-        ],
-        "block,": [
-          288
-        ],
-        "reconstructing": [
-          289
-        ],
-        "it": [
-          290,
-          303
-        ],
-        "its": [
-          292
-        ],
-        "preseparation": [
-          293
-        ],
-        "position": [
-          294
-        ],
-        "requires": [
-          295
-        ],
-        "satisfactory": [
-          297
-        ],
-        "resolution": [
-          298
-        ],
-        "this": [
-          300
-        ],
-        "before": [
-          302
-        ],
-        "can": [
-          304
-        ],
-        "acceptable;": [
-          306
-        ],
-        "separate": [
-          308
-        ],
-        "movement": [
-          310
-        ],
-        "Socotra": [
-          313
-        ],
-        "shelf": [
-          314
-        ],
-        "is": [
-          315
-        ],
-        "moreover": [
-          316
-        ],
-        "required": [
-          317
-        ],
-        "accommodate": [
+        "a": [
+          108,
+          119,
+          242,
+          269,
+          273,
+          306,
           319
         ],
-        "Dhufar-Kuria": [
+        "number": [
+          109
+        ],
+        "offsets": [
+          111
+        ],
+        "mismatches.": [
+          113
+        ],
+        "fathom": [
+          116
+        ],
+        "gives": [
+          118
+        ],
+        "considerably": [
+          120,
+          243
+        ],
+        "improved": [
+          121
+        ],
+        "overall": [
+          122
+        ],
+        "with": [
+          124,
+          277,
+          321
+        ],
+        "structural": [
+          127,
+          157
+        ],
+        "facies": [
+          129
+        ],
+        "belts": [
+          130
+        ],
+        "across": [
+          131
+        ],
+        "intervening": [
+          133
+        ],
+        "water,": [
+          134
+        ],
+        "though": [
+          135
+        ],
+        "comparisons": [
+          137
+        ],
+        "do": [
+          138
+        ],
+        "not": [
+          139
+        ],
+        "bring": [
+          140
+        ],
+        "out": [
+          141
+        ],
+        "many": [
+          142
+        ],
+        "correlations": [
+          143
+        ],
+        "that": [
+          144
+        ],
+        "direct": [
+          146
+        ],
+        "positive": [
+          148,
+          164
+        ],
+        "support": [
+          150,
+          202
+        ],
+        "separation": [
+          152,
+          204
+        ],
+        "these": [
+          154
+        ],
+        "are": [
+          155,
+          237
+        ],
+        "mainly": [
+          156
+        ],
+        "rather": [
+          158
+        ],
+        "than": [
+          159
+        ],
+        "stratigraphic.": [
+          160
+        ],
+        "This": [
+          161
+        ],
+        "paucity": [
+          162
+        ],
+        "may": [
+          166
+        ],
+        "be": [
+          167,
+          304
+        ],
+        "partly": [
+          168
+        ],
+        "accounted": [
+          169
+        ],
+        "by": [
+          171,
+          180
+        ],
+        "width": [
+          173
+        ],
+        "remaining": [
+          176
+        ],
+        "gap": [
+          178
+        ],
+        "differing": [
+          182
+        ],
+        "geomorphology": [
+          183
+        ],
+        "degree": [
+          185
+        ],
+        "erosion": [
+          187
+        ],
+        "eastern": [
+          190
+        ],
+        "portion": [
+          191,
           325
         ],
+        "sides.": [
+          195
+        ],
+        "Although": [
+          196
+        ],
+        "reconstructions": [
+          198
+        ],
+        "reveal": [
+          199
+        ],
+        "appreciable": [
+          200
+        ],
+        "circumstantial": [
+          201
+        ],
+        "no": [
+          206
+        ],
+        "major": [
+          207
+        ],
+        "evidence": [
+          209
+        ],
+        "against": [
+          210
+        ],
+        "it,": [
+          211
+        ],
+        "an": [
+          212
+        ],
+        "overlap": [
+          213,
+          245,
+          300
+        ],
+        "results": [
+          214
+        ],
+        "extreme": [
+          217
+        ],
+        "map": [
+          221,
+          249
+        ],
+        "(appreciably": [
+          223
+        ],
+        "greater": [
+          224,
+          244
+        ],
+        "100-fathom": [
+          227
+        ],
+        "fit)": [
+          228
+        ],
+        "where": [
+          229
+        ],
+        "Basement": [
+          230
+        ],
+        "Mesozoic": [
+          232
+        ],
+        "rocks": [
+          233,
+          256
+        ],
+        "either": [
+          235
+        ],
+        "side": [
+          236
+        ],
+        "superimposed": [
+          238
+        ],
+        "one": [
+          240
+        ],
+        "another;": [
+          241
+        ],
+        "occurs": [
+          246
+        ],
+        "outside": [
+          247
+        ],
+        "similar": [
+          255
+        ],
+        "Yemen": [
+          258
+        ],
+        "Danakil": [
+          261
+        ],
+        "alps": [
+          262
+        ],
+        "Ethiopia.": [
+          264
+        ],
+        "If": [
+          265
+        ],
+        "Arabia": [
+          266
+        ],
+        "moved": [
+          267
+        ],
+        "as": [
+          268
+        ],
+        "single": [
+          270
+        ],
+        "block": [
+          271
+        ],
+        "northeast": [
+          274,
+          308
+        ],
+        "direction": [
+          275
+        ],
+        "counter": [
+          278
+        ],
+        "clockwise": [
+          279
+        ],
+        "rotation": [
+          280
+        ],
+        "away": [
+          281
+        ],
+        "Somali": [
+          284
+        ],
+        "(and": [
+          285
+        ],
+        "Nubian)": [
+          286
+        ],
+        "block,": [
+          287
+        ],
+        "reconstructing": [
+          288
+        ],
+        "it": [
+          289,
+          302
+        ],
+        "its": [
+          291
+        ],
+        "preseparation": [
+          292
+        ],
+        "position": [
+          293
+        ],
+        "requires": [
+          294
+        ],
+        "satisfactory": [
+          296
+        ],
+        "resolution": [
+          297
+        ],
+        "this": [
+          299
+        ],
+        "before": [
+          301
+        ],
+        "can": [
+          303
+        ],
+        "acceptable;": [
+          305
+        ],
+        "separate": [
+          307
+        ],
+        "movement": [
+          309
+        ],
+        "Socotra": [
+          312
+        ],
+        "shelf": [
+          313
+        ],
+        "is": [
+          314
+        ],
+        "moreover": [
+          315
+        ],
+        "required": [
+          316
+        ],
+        "accommodate": [
+          318
+        ],
+        "Dhufar-Kuria": [
+          324
+        ],
         "Arabian": [
-          329
+          328
         ],
         "block.": [
-          330
+          329
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2045382172",
@@ -11787,7 +11806,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11876,6 +11895,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ziad R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12815,6 +12835,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12830,12 +12851,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5121,
+      "fwci": 1.5099,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.84332689,
+        "value": 0.843309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13100,628 +13121,625 @@
       ],
       "abstract_inverted_index": {
         "1947": [
-          56
-        ],
-        "Abstract": [
-          0
+          55
         ],
         "Lebanon": [
-          1
+          0
         ],
         "occupies": [
-          2
+          1
         ],
         "10,170": [
-          3
+          2
         ],
         "sq": [
-          4
+          3
         ],
         "km": [
-          5
+          4
         ],
         "along": [
-          6
+          5
         ],
         "the": [
-          7,
-          87,
-          90,
-          96,
-          117,
-          143,
-          149,
-          165,
-          240,
-          249,
-          254,
-          259
-        ],
-        "eastern": [
-          8
-        ],
-        "Mediterranean": [
-          9
-        ],
-        "seaboard.": [
-          10
-        ],
-        "The": [
-          11,
-          120
-        ],
-        "country": [
-          12,
-          88
-        ],
-        "is": [
-          13,
-          123,
-          186
-        ],
-        "mainly": [
-          14,
-          192
-        ],
-        "mountainous": [
-          15
-        ],
-        "and": [
-          16,
-          38,
-          57,
-          83,
-          100,
-          154,
-          179,
-          208,
-          247
-        ],
-        "includes": [
-          17
-        ],
-        "two": [
-          18
-        ],
-        "north-northeast-south-southwest-trending": [
-          19
-        ],
-        "ranges": [
-          20
-        ],
-        "separated": [
-          21
-        ],
-        "by": [
-          22,
-          136,
-          216
-        ],
-        "a": [
-          23,
-          141
-        ],
-        "structural": [
-          24
-        ],
-        "depression.": [
-          25
-        ],
-        "Seven": [
-          26
-        ],
-        "exploratory": [
-          27
-        ],
-        "wells": [
-          28,
-          52,
-          221
-        ],
-        "have": [
-          29,
-          157
-        ],
-        "been": [
-          30
-        ],
-        "drilled": [
-          31,
-          54,
-          222
-        ],
-        "in": [
-          32,
-          49,
-          68,
-          77,
+          6,
+          86,
+          89,
+          95,
+          116,
+          142,
           148,
-          193,
-          230,
-          253
-        ],
-        "Lebanon,": [
-          33
-        ],
-        "six": [
-          34
-        ],
-        "relatively": [
-          35
-        ],
-        "deep": [
-          36
-        ],
-        "tests": [
-          37,
-          257
-        ],
-        "one": [
-          39
-        ],
-        "shallow.": [
-          40
-        ],
-        "None": [
-          41
-        ],
-        "tested": [
-          42
-        ],
-        "formations": [
-          43,
-          194
-        ],
-        "older": [
-          44
-        ],
-        "than": [
-          45
-        ],
-        "those": [
-          46
-        ],
-        "cropping": [
-          47
-        ],
-        "out": [
-          48
-        ],
-        "Lebanon.": [
-          50,
-          78
-        ],
-        "These": [
-          51
-        ],
-        "were": [
-          53,
-          226
-        ],
-        "between": [
-          55,
-          138
-        ],
-        "1967.": [
-          58
-        ],
-        "About": [
-          59
-        ],
-        "5,800": [
-          60
-        ],
-        "m": [
-          61,
-          105
-        ],
-        "of": [
-          62,
-          81,
-          92,
-          106,
-          109,
-          175,
-          195,
-          205,
-          220,
+          164,
+          239,
+          248,
+          253,
           258
         ],
+        "eastern": [
+          7
+        ],
+        "Mediterranean": [
+          8
+        ],
+        "seaboard.": [
+          9
+        ],
+        "The": [
+          10,
+          119
+        ],
+        "country": [
+          11,
+          87
+        ],
+        "is": [
+          12,
+          122,
+          185
+        ],
+        "mainly": [
+          13,
+          191
+        ],
+        "mountainous": [
+          14
+        ],
+        "and": [
+          15,
+          37,
+          56,
+          82,
+          99,
+          153,
+          178,
+          207,
+          246
+        ],
+        "includes": [
+          16
+        ],
+        "two": [
+          17
+        ],
+        "north-northeast-south-southwest-trending": [
+          18
+        ],
+        "ranges": [
+          19
+        ],
+        "separated": [
+          20
+        ],
+        "by": [
+          21,
+          135,
+          215
+        ],
+        "a": [
+          22,
+          140
+        ],
+        "structural": [
+          23
+        ],
+        "depression.": [
+          24
+        ],
+        "Seven": [
+          25
+        ],
+        "exploratory": [
+          26
+        ],
+        "wells": [
+          27,
+          51,
+          220
+        ],
+        "have": [
+          28,
+          156
+        ],
+        "been": [
+          29
+        ],
+        "drilled": [
+          30,
+          53,
+          221
+        ],
+        "in": [
+          31,
+          48,
+          67,
+          76,
+          147,
+          192,
+          229,
+          252
+        ],
+        "Lebanon,": [
+          32
+        ],
+        "six": [
+          33
+        ],
+        "relatively": [
+          34
+        ],
+        "deep": [
+          35
+        ],
+        "tests": [
+          36,
+          256
+        ],
+        "one": [
+          38
+        ],
+        "shallow.": [
+          39
+        ],
+        "None": [
+          40
+        ],
+        "tested": [
+          41
+        ],
+        "formations": [
+          42,
+          193
+        ],
+        "older": [
+          43
+        ],
+        "than": [
+          44
+        ],
+        "those": [
+          45
+        ],
+        "cropping": [
+          46
+        ],
+        "out": [
+          47
+        ],
+        "Lebanon.": [
+          49,
+          77
+        ],
+        "These": [
+          50
+        ],
+        "were": [
+          52,
+          225
+        ],
+        "between": [
+          54,
+          137
+        ],
+        "1967.": [
+          57
+        ],
+        "About": [
+          58
+        ],
+        "5,800": [
+          59
+        ],
+        "m": [
+          60,
+          104
+        ],
+        "of": [
+          61,
+          80,
+          91,
+          105,
+          108,
+          174,
+          194,
+          204,
+          219,
+          257
+        ],
         "predominantly": [
-          63
+          62
         ],
         "marine": [
-          64,
-          93
+          63,
+          92
         ],
         "sedimentary": [
-          65,
-          107
+          64,
+          106
         ],
         "rocks,": [
-          66
+          65
         ],
         "ranging": [
-          67
+          66
         ],
         "age": [
-          69,
-          114
+          68,
+          113
         ],
         "from": [
-          70
+          69
         ],
         "Early": [
+          70,
+          111
+        ],
+        "Jurassic": [
           71,
           112
         ],
-        "Jurassic": [
-          72,
-          113
-        ],
         "to": [
-          73,
-          103,
-          232,
-          262
-        ],
-        "recent,": [
-          74
-        ],
-        "are": [
-          75,
-          151,
-          163,
-          177,
-          182
-        ],
-        "exposed": [
-          76,
-          144
-        ],
-        "Paleogeographic": [
-          79
-        ],
-        "considerations": [
-          80
-        ],
-        "facies": [
-          82
-        ],
-        "thickness": [
-          84
-        ],
-        "indicate": [
-          85
-        ],
-        "that": [
-          86,
-          101,
-          224
-        ],
-        "was": [
-          89
-        ],
-        "site": [
-          91
-        ],
-        "sedimentation": [
-          94
-        ],
-        "during": [
-          95
-        ],
-        "Paleozoic": [
-          97,
-          110
-        ],
-        "Era": [
-          98
-        ],
-        "also,": [
-          99
-        ],
-        "2,800": [
-          102
-        ],
-        "3,300": [
-          104
-        ],
-        "rocks": [
-          108,
-          147
-        ],
-        "through": [
-          111
-        ],
-        "lie": [
-          115
-        ],
-        "below": [
-          116
-        ],
-        "oldest": [
-          118
-        ],
-        "exposures.": [
-          119
-        ],
-        "tectonic": [
-          121
-        ],
-        "style": [
-          122
-        ],
-        "almost": [
-          124
-        ],
-        "entirely": [
-          125
-        ],
-        "vertical": [
-          126
-        ],
-        "movement": [
-          127
-        ],
-        "on": [
-          128,
-          239,
-          248
-        ],
-        "discrete": [
-          129
-        ],
-        "fault": [
-          130
-        ],
-        "blocks,": [
-          131
-        ],
-        "with": [
-          132
-        ],
-        "minor": [
-          133
-        ],
-        "compression": [
-          134
-        ],
-        "caused": [
-          135
-        ],
-        "jostling": [
-          137
-        ],
-        "blocks.": [
-          139
-        ],
-        "As": [
-          140
-        ],
-        "result,": [
-          142
-        ],
-        "competent": [
-          145
-        ],
-        "carbonate": [
-          146
-        ],
-        "succession": [
-          150
-        ],
-        "highly": [
-          152
-        ],
-        "fractured": [
-          153,
-          214
-        ],
-        "meteoric": [
-          155
-        ],
-        "waters": [
-          156
-        ],
-        "invaded": [
-          158
-        ],
-        "subsurface": [
-          159
-        ],
-        "reservoirs": [
-          160
-        ],
-        "where": [
-          161,
-          184
-        ],
-        "structures": [
-          162,
-          252
-        ],
-        "near": [
-          164
-        ],
-        "main": [
-          166
-        ],
-        "faults": [
-          167
-        ],
-        "or": [
-          168
-        ],
-        "elevated": [
-          169
-        ],
-        "outcrop": [
-          170
-        ],
-        "recharge": [
-          171
-        ],
-        "areas.": [
-          172
-        ],
-        "However,": [
-          173
-        ],
-        "indications": [
-          174
-        ],
-        "petroleum": [
-          176
-        ],
-        "plentiful,": [
-          178
-        ],
-        "commercial": [
-          180
-        ],
-        "accumulations": [
-          181,
-          189
-        ],
-        "likely": [
-          183
-        ],
-        "cover": [
-          185
-        ],
-        "unbreached.": [
-          187
-        ],
-        "Such": [
-          188
-        ],
-        "should": [
-          190,
-          201,
-          236
-        ],
-        "occur": [
-          191
-        ],
-        "pre-Jurassic": [
-          196,
-          260
-        ],
-        "age,": [
-          197
-        ],
-        "because": [
-          198
-        ],
-        "these": [
-          199
-        ],
-        "strata": [
-          200
-        ],
-        "include": [
-          202
-        ],
-        "many": [
-          203
-        ],
-        "interbeds": [
-          204
-        ],
-        "shale,": [
-          206
-        ],
-        "marl,": [
-          207
-        ],
-        "evaporite": [
-          209
-        ],
-        "which": [
-          210
-        ],
-        "would": [
-          211
-        ],
-        "not": [
-          212,
-          227
-        ],
-        "be": [
-          213,
-          237
-        ],
-        "seriously": [
-          215
-        ],
-        "major": [
-          217,
-          250
-        ],
-        "faulting.": [
-          218
-        ],
-        "Evaluation": [
-          219
-        ],
-        "shows": [
-          223
-        ],
-        "several": [
-          225
-        ],
-        "sited": [
-          228
-        ],
-        "correctly": [
-          229
-        ],
-        "relation": [
-          231
-        ],
-        "structure.": [
-          233
-        ],
-        "Future": [
-          234
-        ],
-        "efforts": [
-          235
-        ],
-        "concentrated": [
-          238
-        ],
-        "continental": [
-          241
-        ],
-        "shelf": [
-          242
-        ],
-        "for": [
-          243,
-          256
-        ],
-        "upper": [
-          244
-        ],
-        "Paleozoic-Cretaceous": [
-          245
-        ],
-        "objectives,": [
-          246
-        ],
-        "closed": [
-          251
-        ],
-        "mountains": [
-          255
-        ],
-        "sequence": [
+          72,
+          102,
+          231,
           261
         ],
+        "recent,": [
+          73
+        ],
+        "are": [
+          74,
+          150,
+          162,
+          176,
+          181
+        ],
+        "exposed": [
+          75,
+          143
+        ],
+        "Paleogeographic": [
+          78
+        ],
+        "considerations": [
+          79
+        ],
+        "facies": [
+          81
+        ],
+        "thickness": [
+          83
+        ],
+        "indicate": [
+          84
+        ],
+        "that": [
+          85,
+          100,
+          223
+        ],
+        "was": [
+          88
+        ],
+        "site": [
+          90
+        ],
+        "sedimentation": [
+          93
+        ],
+        "during": [
+          94
+        ],
+        "Paleozoic": [
+          96,
+          109
+        ],
+        "Era": [
+          97
+        ],
+        "also,": [
+          98
+        ],
+        "2,800": [
+          101
+        ],
+        "3,300": [
+          103
+        ],
+        "rocks": [
+          107,
+          146
+        ],
+        "through": [
+          110
+        ],
+        "lie": [
+          114
+        ],
+        "below": [
+          115
+        ],
+        "oldest": [
+          117
+        ],
+        "exposures.": [
+          118
+        ],
+        "tectonic": [
+          120
+        ],
+        "style": [
+          121
+        ],
+        "almost": [
+          123
+        ],
+        "entirely": [
+          124
+        ],
+        "vertical": [
+          125
+        ],
+        "movement": [
+          126
+        ],
+        "on": [
+          127,
+          238,
+          247
+        ],
+        "discrete": [
+          128
+        ],
+        "fault": [
+          129
+        ],
+        "blocks,": [
+          130
+        ],
+        "with": [
+          131
+        ],
+        "minor": [
+          132
+        ],
+        "compression": [
+          133
+        ],
+        "caused": [
+          134
+        ],
+        "jostling": [
+          136
+        ],
+        "blocks.": [
+          138
+        ],
+        "As": [
+          139
+        ],
+        "result,": [
+          141
+        ],
+        "competent": [
+          144
+        ],
+        "carbonate": [
+          145
+        ],
+        "succession": [
+          149
+        ],
+        "highly": [
+          151
+        ],
+        "fractured": [
+          152,
+          213
+        ],
+        "meteoric": [
+          154
+        ],
+        "waters": [
+          155
+        ],
+        "invaded": [
+          157
+        ],
+        "subsurface": [
+          158
+        ],
+        "reservoirs": [
+          159
+        ],
+        "where": [
+          160,
+          183
+        ],
+        "structures": [
+          161,
+          251
+        ],
+        "near": [
+          163
+        ],
+        "main": [
+          165
+        ],
+        "faults": [
+          166
+        ],
+        "or": [
+          167
+        ],
+        "elevated": [
+          168
+        ],
+        "outcrop": [
+          169
+        ],
+        "recharge": [
+          170
+        ],
+        "areas.": [
+          171
+        ],
+        "However,": [
+          172
+        ],
+        "indications": [
+          173
+        ],
+        "petroleum": [
+          175
+        ],
+        "plentiful,": [
+          177
+        ],
+        "commercial": [
+          179
+        ],
+        "accumulations": [
+          180,
+          188
+        ],
+        "likely": [
+          182
+        ],
+        "cover": [
+          184
+        ],
+        "unbreached.": [
+          186
+        ],
+        "Such": [
+          187
+        ],
+        "should": [
+          189,
+          200,
+          235
+        ],
+        "occur": [
+          190
+        ],
+        "pre-Jurassic": [
+          195,
+          259
+        ],
+        "age,": [
+          196
+        ],
+        "because": [
+          197
+        ],
+        "these": [
+          198
+        ],
+        "strata": [
+          199
+        ],
+        "include": [
+          201
+        ],
+        "many": [
+          202
+        ],
+        "interbeds": [
+          203
+        ],
+        "shale,": [
+          205
+        ],
+        "marl,": [
+          206
+        ],
+        "evaporite": [
+          208
+        ],
+        "which": [
+          209
+        ],
+        "would": [
+          210
+        ],
+        "not": [
+          211,
+          226
+        ],
+        "be": [
+          212,
+          236
+        ],
+        "seriously": [
+          214
+        ],
+        "major": [
+          216,
+          249
+        ],
+        "faulting.": [
+          217
+        ],
+        "Evaluation": [
+          218
+        ],
+        "shows": [
+          222
+        ],
+        "several": [
+          224
+        ],
+        "sited": [
+          227
+        ],
+        "correctly": [
+          228
+        ],
+        "relation": [
+          230
+        ],
+        "structure.": [
+          232
+        ],
+        "Future": [
+          233
+        ],
+        "efforts": [
+          234
+        ],
+        "concentrated": [
+          237
+        ],
+        "continental": [
+          240
+        ],
+        "shelf": [
+          241
+        ],
+        "for": [
+          242,
+          255
+        ],
+        "upper": [
+          243
+        ],
+        "Paleozoic-Cretaceous": [
+          244
+        ],
+        "objectives,": [
+          245
+        ],
+        "closed": [
+          250
+        ],
+        "mountains": [
+          254
+        ],
+        "sequence": [
+          260
+        ],
         "basement.": [
-          263
+          262
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2104962054",
@@ -13787,7 +13805,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13887,6 +13905,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beirut\rBeirut, Lebanon"
@@ -13913,12 +13932,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1309,
+      "fwci": 1.1275,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.74426705,
+        "value": 0.74380647,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14253,687 +14272,684 @@
       ],
       "abstract_inverted_index": {
         "45": [
-          81
+          80
         ],
         "62": [
-          75
+          74
         ],
         "107": [
-          68
-        ],
-        "Abstract": [
-          0
+          67
         ],
         "The": [
-          1,
-          32,
-          165,
-          196,
-          246
+          0,
+          31,
+          164,
+          195,
+          245
         ],
         "Levant": [
+          1,
+          200
+        ],
+        "Fracture": [
           2,
           201
         ],
-        "Fracture": [
-          3,
-          202
-        ],
         "System": [
-          4
+          3
         ],
         "is": [
-          5,
-          40,
-          116,
-          303
+          4,
+          39,
+          115,
+          302
         ],
         "a": [
-          6,
-          47,
-          58,
-          105,
-          182
+          5,
+          46,
+          57,
+          104,
+          181
         ],
         "transform": [
-          7,
-          121
+          6,
+          120
         ],
         "plate": [
-          8
+          7
         ],
         "boundary": [
-          9
+          8
         ],
         "that": [
-          10,
-          235
+          9,
+          234
         ],
         "connects": [
-          11
+          10
         ],
         "the": [
-          12,
-          19,
-          22,
-          27,
-          30,
-          63,
-          78,
-          84,
-          101,
-          120,
-          134,
-          139,
-          142,
-          150,
-          154,
-          168,
-          178,
-          188,
-          194,
-          200,
-          206,
-          209,
-          229,
-          239,
-          256,
-          282,
-          293
-        ],
-        "extensional": [
-          13
-        ],
-        "Red": [
-          14
-        ],
-        "Sea": [
-          15
-        ],
-        "spreading": [
-          16
-        ],
-        "centre,": [
-          17
-        ],
-        "in": [
+          11,
           18,
+          21,
           26,
-          72,
+          29,
+          62,
           77,
           83,
-          98,
-          172,
-          238
+          100,
+          119,
+          133,
+          138,
+          141,
+          149,
+          153,
+          167,
+          177,
+          187,
+          193,
+          199,
+          205,
+          208,
+          228,
+          238,
+          255,
+          281,
+          292
+        ],
+        "extensional": [
+          12
+        ],
+        "Red": [
+          13
+        ],
+        "Sea": [
+          14
+        ],
+        "spreading": [
+          15
+        ],
+        "centre,": [
+          16
+        ],
+        "in": [
+          17,
+          25,
+          71,
+          76,
+          82,
+          97,
+          171,
+          237
         ],
         "south,": [
-          20
+          19
         ],
         "with": [
-          21,
-          42
-        ],
-        "collisional": [
-          23
-        ],
-        "Tauride": [
-          24
-        ],
-        "region,": [
-          25
-        ],
-        "north,": [
-          28
-        ],
-        "across": [
-          29,
-          146
-        ],
-        "Levant.": [
-          31
-        ],
-        "debate": [
-          33
-        ],
-        "regarding": [
-          34
-        ],
-        "its": [
-          35,
-          260
-        ],
-        "origin,": [
-          36
-        ],
-        "evolution": [
-          37
-        ],
-        "and": [
-          38,
-          80,
-          148,
-          259,
-          278,
-          295
-        ],
-        "development": [
-          39
-        ],
-        "reviewed,": [
+          20,
           41
         ],
+        "collisional": [
+          22
+        ],
+        "Tauride": [
+          23
+        ],
+        "region,": [
+          24
+        ],
+        "north,": [
+          27
+        ],
+        "across": [
+          28,
+          145
+        ],
+        "Levant.": [
+          30
+        ],
+        "debate": [
+          32
+        ],
+        "regarding": [
+          33
+        ],
+        "its": [
+          34,
+          259
+        ],
+        "origin,": [
+          35
+        ],
+        "evolution": [
+          36
+        ],
+        "and": [
+          37,
+          79,
+          147,
+          258,
+          277,
+          294
+        ],
+        "development": [
+          38
+        ],
+        "reviewed,": [
+          40
+        ],
         "proposed": [
-          43,
-          254
+          42,
+          253
         ],
         "models": [
-          44
+          43
         ],
         "ranging": [
-          45
+          44
         ],
         "from": [
-          46,
-          205
+          45,
+          204
         ],
         "primordial": [
-          48
+          47
         ],
         "geosuture,": [
-          49
+          48
         ],
         "along": [
+          49,
+          60
+        ],
+        "which": [
           50,
           61
         ],
-        "which": [
-          51,
-          62
-        ],
         "only": [
-          52
+          51
         ],
         "vertical": [
-          53
+          52
         ],
         "movements": [
-          54
+          53
         ],
         "have": [
-          55,
-          123,
-          217
-        ],
-        "occurred,": [
-          56
-        ],
-        "to": [
-          57,
-          138,
-          158,
-          291
-        ],
-        "Neogene": [
-          59,
-          197
-        ],
-        "transform,": [
-          60
-        ],
-        "Arabian": [
-          64
-        ],
-        "Plate": [
-          65
-        ],
-        "has": [
-          66,
-          252,
-          272
-        ],
-        "moved": [
-          67
-        ],
-        "km": [
-          69,
-          76,
-          82
-        ],
-        "left-laterally": [
-          70
-        ],
-        "northwards": [
-          71,
-          262
-        ],
-        "two": [
-          73
-        ],
-        "stages,": [
-          74
-        ],
-        "Miocene": [
-          79
-        ],
-        "Pliocene-Recent.": [
-          85
-        ],
-        "Overwhelming": [
-          86
-        ],
-        "field": [
-          87
-        ],
-        "evidence": [
-          88,
-          112,
-          129
-        ],
-        "supports": [
-          89
-        ],
-        "this": [
-          90,
-          126,
-          162,
-          301
-        ],
-        "degree": [
-          91
-        ],
-        "of": [
-          92,
-          95,
-          119,
-          128,
-          133,
-          153,
-          167,
-          184,
-          193,
-          199,
-          208,
-          211,
-          228,
-          287,
-          297
-        ],
-        "motion": [
-          93,
-          115,
-          137,
-          237,
-          299
-        ],
-        "south": [
-          94,
-          140,
-          240,
-          286
-        ],
-        "Lebanon": [
-          96,
-          147
-        ],
-        "but": [
-          97
-        ],
-        "Lebanon,": [
-          99
-        ],
-        "where": [
-          100
-        ],
-        "system": [
-          102,
-          108
-        ],
-        "branches": [
-          103
-        ],
-        "into": [
-          104,
-          274
-        ],
-        "braided": [
-          106
-        ],
-        "fault": [
-          107,
-          144,
-          302
-        ],
-        "generally": [
-          109
-        ],
-        "trending": [
-          110
-        ],
-        "north-northeast,": [
-          111
-        ],
-        "for": [
-          113,
-          224
-        ],
-        "such": [
-          114
-        ],
-        "lacking.": [
-          117
-        ],
-        "Proponents": [
-          118
-        ],
-        "model": [
-          122
-        ],
-        "explained": [
-          124
-        ],
-        "away": [
-          125
-        ],
-        "lack": [
-          127
-        ],
-        "by": [
-          130,
-          161,
-          177
-        ],
-        "invoking": [
-          131
-        ],
-        "division": [
-          132
-        ],
-        "total": [
-          135
-        ],
-        "horizontal": [
-          136,
-          163,
-          298
-        ],
-        "amongst": [
-          141
-        ],
-        "main": [
-          143
-        ],
-        "strands": [
-          145
-        ],
-        "ascribing": [
-          149
-        ],
-        "uplift/": [
-          151
-        ],
-        "depression": [
-          152
-        ],
-        "Lebano-Palmyride": [
-          155,
-          169
-        ],
-        "structural": [
-          156
-        ],
-        "units": [
-          157
-        ],
-        "transpressional-transtensional": [
-          159
-        ],
-        "deformation": [
-          160
-        ],
-        "motion.": [
-          164
-        ],
-        "inversion": [
-          166
-        ],
-        "belts": [
-          170
-        ],
-        "had,": [
-          171
-        ],
-        "fact,": [
-          173
-        ],
-        "been": [
-          174,
-          222,
-          253
-        ],
-        "largely": [
-          175
-        ],
-        "achieved": [
-          176
-        ],
-        "Late": [
-          179
-        ],
-        "Oligocene": [
-          180
-        ],
-        "as": [
-          181,
-          255
-        ],
-        "consequence": [
-          183
-        ],
-        "oblique": [
-          185
-        ],
-        "collision": [
-          186
-        ],
-        "between": [
-          187
-        ],
-        "Eurasian-Arabian": [
-          189
-        ],
-        "Plates": [
-          190
-        ],
-        "during": [
-          191
-        ],
-        "closure": [
-          192
-        ],
-        "Neo-Tethys.": [
-          195
-        ],
-        "initiation": [
-          198
-        ],
-        "System,": [
-          203
-        ],
-        "resulting": [
-          204
-        ],
-        "opening": [
-          207
-        ],
-        "Gulf": [
-          210
-        ],
-        "Aden-Red": [
-          212
-        ],
-        "Sea,": [
-          213
-        ],
-        "could": [
-          214
-        ],
-        "only,": [
-          215
-        ],
-        "therefore,": [
+          54,
+          122,
           216
         ],
-        "modified": [
-          218
+        "occurred,": [
+          55
         ],
-        "existing": [
-          219
-        ],
-        "structures,": [
-          220
-        ],
-        "not": [
-          221
-        ],
-        "responsible": [
-          223
-        ],
-        "them.": [
-          225
-        ],
-        "Pliocene": [
-          226
-        ],
-        "bypassing": [
-          227
-        ],
-        "principal": [
-          230,
-          257
-        ],
-        "Lebanese": [
-          231
-        ],
-        "Yammouneh": [
-          232
-        ],
-        "Fault": [
-          233,
-          251
-        ],
-        "requires": [
-          234
-        ],
-        "active": [
-          236,
-          248
-        ],
-        "be": [
-          241
-        ],
-        "transmitted": [
-          242
-        ],
-        "through": [
-          243
-        ],
-        "other": [
-          244
-        ],
-        "faults.": [
-          245
-        ],
-        "currently": [
-          247
-        ],
-        "north-south": [
-          249
-        ],
-        "Roum": [
-          250
-        ],
-        "candidate": [
-          258
-        ],
-        "trace": [
-          261
-        ],
-        "appears": [
-          263
-        ],
-        "identifiable": [
-          264
-        ],
-        "on": [
-          265,
-          300
-        ],
-        "satellite": [
-          266
-        ],
-        "images.": [
-          267
-        ],
-        "Field": [
-          268
-        ],
-        "checks": [
-          269
-        ],
-        "suggest": [
-          270
-        ],
-        "it": [
-          271,
-          279
-        ],
-        "broken": [
-          273
-        ],
-        "short": [
-          275
-        ],
-        "left-stepping": [
-          276
-        ],
-        "segments": [
-          277
-        ],
-        "probably": [
-          280
-        ],
-        "cuts": [
-          281
-        ],
-        "coast": [
-          283
-        ],
-        "obliquely": [
-          284
-        ],
-        "just": [
-          285
-        ],
-        "Beirut.": [
-          288
-        ],
-        "Current": [
-          289
-        ],
-        "research": [
+        "to": [
+          56,
+          137,
+          157,
           290
         ],
-        "establish": [
-          292
+        "Neogene": [
+          58,
+          196
         ],
-        "geometry": [
-          294
+        "transform,": [
+          59
         ],
-        "magnitude": [
+        "Arabian": [
+          63
+        ],
+        "Plate": [
+          64
+        ],
+        "has": [
+          65,
+          251,
+          271
+        ],
+        "moved": [
+          66
+        ],
+        "km": [
+          68,
+          75,
+          81
+        ],
+        "left-laterally": [
+          69
+        ],
+        "northwards": [
+          70,
+          261
+        ],
+        "two": [
+          72
+        ],
+        "stages,": [
+          73
+        ],
+        "Miocene": [
+          78
+        ],
+        "Pliocene-Recent.": [
+          84
+        ],
+        "Overwhelming": [
+          85
+        ],
+        "field": [
+          86
+        ],
+        "evidence": [
+          87,
+          111,
+          128
+        ],
+        "supports": [
+          88
+        ],
+        "this": [
+          89,
+          125,
+          161,
+          300
+        ],
+        "degree": [
+          90
+        ],
+        "of": [
+          91,
+          94,
+          118,
+          127,
+          132,
+          152,
+          166,
+          183,
+          192,
+          198,
+          207,
+          210,
+          227,
+          286,
           296
         ],
+        "motion": [
+          92,
+          114,
+          136,
+          236,
+          298
+        ],
+        "south": [
+          93,
+          139,
+          239,
+          285
+        ],
+        "Lebanon": [
+          95,
+          146
+        ],
+        "but": [
+          96
+        ],
+        "Lebanon,": [
+          98
+        ],
+        "where": [
+          99
+        ],
+        "system": [
+          101,
+          107
+        ],
+        "branches": [
+          102
+        ],
+        "into": [
+          103,
+          273
+        ],
+        "braided": [
+          105
+        ],
+        "fault": [
+          106,
+          143,
+          301
+        ],
+        "generally": [
+          108
+        ],
+        "trending": [
+          109
+        ],
+        "north-northeast,": [
+          110
+        ],
+        "for": [
+          112,
+          223
+        ],
+        "such": [
+          113
+        ],
+        "lacking.": [
+          116
+        ],
+        "Proponents": [
+          117
+        ],
+        "model": [
+          121
+        ],
+        "explained": [
+          123
+        ],
+        "away": [
+          124
+        ],
+        "lack": [
+          126
+        ],
+        "by": [
+          129,
+          160,
+          176
+        ],
+        "invoking": [
+          130
+        ],
+        "division": [
+          131
+        ],
+        "total": [
+          134
+        ],
+        "horizontal": [
+          135,
+          162,
+          297
+        ],
+        "amongst": [
+          140
+        ],
+        "main": [
+          142
+        ],
+        "strands": [
+          144
+        ],
+        "ascribing": [
+          148
+        ],
+        "uplift/": [
+          150
+        ],
+        "depression": [
+          151
+        ],
+        "Lebano-Palmyride": [
+          154,
+          168
+        ],
+        "structural": [
+          155
+        ],
+        "units": [
+          156
+        ],
+        "transpressional-transtensional": [
+          158
+        ],
+        "deformation": [
+          159
+        ],
+        "motion.": [
+          163
+        ],
+        "inversion": [
+          165
+        ],
+        "belts": [
+          169
+        ],
+        "had,": [
+          170
+        ],
+        "fact,": [
+          172
+        ],
+        "been": [
+          173,
+          221,
+          252
+        ],
+        "largely": [
+          174
+        ],
+        "achieved": [
+          175
+        ],
+        "Late": [
+          178
+        ],
+        "Oligocene": [
+          179
+        ],
+        "as": [
+          180,
+          254
+        ],
+        "consequence": [
+          182
+        ],
+        "oblique": [
+          184
+        ],
+        "collision": [
+          185
+        ],
+        "between": [
+          186
+        ],
+        "Eurasian-Arabian": [
+          188
+        ],
+        "Plates": [
+          189
+        ],
+        "during": [
+          190
+        ],
+        "closure": [
+          191
+        ],
+        "Neo-Tethys.": [
+          194
+        ],
+        "initiation": [
+          197
+        ],
+        "System,": [
+          202
+        ],
+        "resulting": [
+          203
+        ],
+        "opening": [
+          206
+        ],
+        "Gulf": [
+          209
+        ],
+        "Aden-Red": [
+          211
+        ],
+        "Sea,": [
+          212
+        ],
+        "could": [
+          213
+        ],
+        "only,": [
+          214
+        ],
+        "therefore,": [
+          215
+        ],
+        "modified": [
+          217
+        ],
+        "existing": [
+          218
+        ],
+        "structures,": [
+          219
+        ],
+        "not": [
+          220
+        ],
+        "responsible": [
+          222
+        ],
+        "them.": [
+          224
+        ],
+        "Pliocene": [
+          225
+        ],
+        "bypassing": [
+          226
+        ],
+        "principal": [
+          229,
+          256
+        ],
+        "Lebanese": [
+          230
+        ],
+        "Yammouneh": [
+          231
+        ],
+        "Fault": [
+          232,
+          250
+        ],
+        "requires": [
+          233
+        ],
+        "active": [
+          235,
+          247
+        ],
+        "be": [
+          240
+        ],
+        "transmitted": [
+          241
+        ],
+        "through": [
+          242
+        ],
+        "other": [
+          243
+        ],
+        "faults.": [
+          244
+        ],
+        "currently": [
+          246
+        ],
+        "north-south": [
+          248
+        ],
+        "Roum": [
+          249
+        ],
+        "candidate": [
+          257
+        ],
+        "trace": [
+          260
+        ],
+        "appears": [
+          262
+        ],
+        "identifiable": [
+          263
+        ],
+        "on": [
+          264,
+          299
+        ],
+        "satellite": [
+          265
+        ],
+        "images.": [
+          266
+        ],
+        "Field": [
+          267
+        ],
+        "checks": [
+          268
+        ],
+        "suggest": [
+          269
+        ],
+        "it": [
+          270,
+          278
+        ],
+        "broken": [
+          272
+        ],
+        "short": [
+          274
+        ],
+        "left-stepping": [
+          275
+        ],
+        "segments": [
+          276
+        ],
+        "probably": [
+          279
+        ],
+        "cuts": [
+          280
+        ],
+        "coast": [
+          282
+        ],
+        "obliquely": [
+          283
+        ],
+        "just": [
+          284
+        ],
+        "Beirut.": [
+          287
+        ],
+        "Current": [
+          288
+        ],
+        "research": [
+          289
+        ],
+        "establish": [
+          291
+        ],
+        "geometry": [
+          293
+        ],
+        "magnitude": [
+          295
+        ],
         "discussed.": [
-          304
+          303
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2031815022",
@@ -14948,11 +14964,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2022,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2021,
@@ -14991,7 +15007,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15093,6 +15109,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ziad R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beirut, P.O. Box 11-0236/3208, Beirut, Lebanon"
@@ -15123,12 +15140,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.8362,
+      "fwci": 1.8337,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.82326463,
+        "value": 0.82271863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15512,11 +15529,11 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2022,
@@ -15563,7 +15580,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15665,6 +15682,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z.R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beirut, Lebanon/Marathon International Petroleum (GB) Ltd, London, UK"
@@ -15704,6 +15722,7 @@
             "CA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A.H. Sikander",
           "raw_affiliation_strings": [
             "Petro-Canada International Assistance Corporation, Calgary, Alberta, Canada"
@@ -16269,6 +16288,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "*Department of Geology, American University of Beirut, Lebanon"
@@ -16299,12 +16319,12 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.8086,
+      "fwci": 0.806,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 42,
+      "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.73970037,
+        "value": 0.73855799,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17681,7 +17701,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -17724,7 +17744,432 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2051595569",
+      "doi": "https://doi.org/10.2307/1793083",
+      "title": "The Stratigraphy and Structure of the Eastern Aden Protectorate",
+      "display_name": "The Stratigraphy and Structure of the Eastern Aden Protectorate",
+      "alternate_titles": [],
+      "publication_year": 1966,
+      "publication_date": "1966-03-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2051595569",
+        "doi": "https://doi.org/10.2307/1793083",
+        "mag": "2051595569"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2307/1793083",
+        "doi": "https://doi.org/10.2307/1793083",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1793083",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S54255202",
+          "display_name": "Geographical Journal",
+          "issn_l": "0016-7398",
+          "issn": [
+            "0016-7398",
+            "1475-4959"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "erih-plus",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Geographical Journal",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2051595569"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025397318",
+            "display_name": "J. W. Pallister",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "J. W. Pallister",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5077725431",
+            "display_name": "Z. R. Beydoun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Z. R. Beydoun",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3840,
+        "currency": "USD",
+        "value_usd": 3840
+      },
+      "apc_paid": null,
+      "fwci": 3.2814,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 60,
+      "citation_normalized_percentile": {
+        "value": 0.91417625,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "132",
+        "issue": "1",
+        "first_page": "97",
+        "last_page": "97"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.3634999990463257,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.3634999990463257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.15299999713897705,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13372",
+          "display_name": "Archaeology and Historical Studies",
+          "score": 0.10409999638795853,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1204",
+            "display_name": "Archeology (arts and humanities)"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "stratigraphy",
+          "score": 0.8999999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/geological-structure",
+          "display_name": "geological structure",
+          "score": 0.8199999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-basins",
+          "display_name": "sedimentary basins",
+          "score": 0.5740000009536743
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777830688",
+          "wikidata": "https://www.wikidata.org/wiki/Q164142",
+          "display_name": "Protectorate",
+          "level": 3,
+          "score": 0.9457637667655945
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.8236236572265625
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7573959231376648
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.39942634105682373
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.3876133859157562
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.2899753153324127
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.16688677668571472
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.05947515368461609
+        },
+        {
+          "id": "https://openalex.org/C531593650",
+          "wikidata": "https://www.wikidata.org/wiki/Q7167",
+          "display_name": "Colonialism",
+          "level": 2,
+          "score": 0.040238529443740845
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2307/1793083",
+          "doi": "https://doi.org/10.2307/1793083",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2307/1793083",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S54255202",
+            "display_name": "Geographical Journal",
+            "issn_l": "0016-7398",
+            "issn": [
+              "0016-7398",
+              "1475-4959"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-b",
+              "erih-plus",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Geographical Journal",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2330822255",
+        "https://openalex.org/W2088401188",
+        "https://openalex.org/W2028904458",
+        "https://openalex.org/W3148779039",
+        "https://openalex.org/W2796674715",
+        "https://openalex.org/W4249648553",
+        "https://openalex.org/W4206834689",
+        "https://openalex.org/W2331827382",
+        "https://openalex.org/W3008386427",
+        "https://openalex.org/W2009900332"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2051595569",
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17826,6 +18271,7 @@
             "LB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z.R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beiruf, Lebanon, and Marathon International Petroleum (GB) Ltd, 174 Marylebone Road, London NW1 5AT, UK"
@@ -17851,6 +18297,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M.O. Bamahmoud",
           "raw_affiliation_strings": [
             "Petroleum Exploration and Production Board, Ministry of Oil and Mineral Resources, Sana'a, Republic of Yemen Yemen"
@@ -17874,6 +18321,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A.S.O. Nani",
           "raw_affiliation_strings": [
             "Petroleum Exploration and Production Board, Ministry of Oil and Mineral Resources, Sana'a, Republic of Yemen Yemen"
@@ -17898,12 +18346,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.1896,
+      "fwci": 2.1897,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.85546569,
+        "value": 0.85516701,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18205,16 +18653,20 @@
           "cited_by_count": 2
         },
         {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
           "year": 2023,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2022,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2021,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2020,
@@ -18237,7 +18689,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18338,6 +18790,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "**Department of Geology, American University of Beirut, Lebanon"
@@ -19406,6 +19859,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ziad R. Beydoun",
           "raw_affiliation_strings": [
             "Department of Geology, American University of Beirut, Beirut, Lebanon"
@@ -19811,429 +20265,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2051595569",
-      "doi": "https://doi.org/10.2307/1793083",
-      "title": "The Stratigraphy and Structure of the Eastern Aden Protectorate",
-      "display_name": "The Stratigraphy and Structure of the Eastern Aden Protectorate",
-      "alternate_titles": [],
-      "publication_year": 1966,
-      "publication_date": "1966-03-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2051595569",
-        "doi": "https://doi.org/10.2307/1793083",
-        "mag": "2051595569"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2307/1793083",
-        "doi": "https://doi.org/10.2307/1793083",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2307/1793083",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S54255202",
-          "display_name": "Geographical Journal",
-          "issn_l": "0016-7398",
-          "issn": [
-            "0016-7398",
-            "1475-4959"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-class-a",
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-b",
-            "erih-plus",
-            "jufo-1",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "The Geographical Journal",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2051595569"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5025397318",
-            "display_name": "J. W. Pallister",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J. W. Pallister",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5077725431",
-            "display_name": "Z. R. Beydoun",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Z. R. Beydoun",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3840,
-        "currency": "USD",
-        "value_usd": 3840
-      },
-      "apc_paid": null,
-      "fwci": 3.2971,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 60,
-      "citation_normalized_percentile": {
-        "value": 0.91495824,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "132",
-        "issue": "1",
-        "first_page": "97",
-        "last_page": "97"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.3634999990463257,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.3634999990463257,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.15299999713897705,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13372",
-          "display_name": "Archaeology and Historical Studies",
-          "score": 0.10409999638795853,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1204",
-            "display_name": "Archeology (arts and humanities)"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "stratigraphy",
-          "score": 0.8999999761581421
-        },
-        {
-          "id": "https://openalex.org/keywords/geological-structure",
-          "display_name": "geological structure",
-          "score": 0.8199999928474426
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-basins",
-          "display_name": "sedimentary basins",
-          "score": 0.5740000009536743
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777830688",
-          "wikidata": "https://www.wikidata.org/wiki/Q164142",
-          "display_name": "Protectorate",
-          "level": 3,
-          "score": 0.9457637667655945
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.8236236572265625
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7573959231376648
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.39942634105682373
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.3876133859157562
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.2899753153324127
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.16688677668571472
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.05947515368461609
-        },
-        {
-          "id": "https://openalex.org/C531593650",
-          "wikidata": "https://www.wikidata.org/wiki/Q7167",
-          "display_name": "Colonialism",
-          "level": 2,
-          "score": 0.040238529443740845
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2307/1793083",
-          "doi": "https://doi.org/10.2307/1793083",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2307/1793083",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S54255202",
-            "display_name": "Geographical Journal",
-            "issn_l": "0016-7398",
-            "issn": [
-              "0016-7398",
-              "1475-4959"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-class-a",
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-b",
-              "erih-plus",
-              "jufo-1",
-              "norway-1",
-              "poland-100",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "The Geographical Journal",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2330822255",
-        "https://openalex.org/W2088401188",
-        "https://openalex.org/W2028904458",
-        "https://openalex.org/W3148779039",
-        "https://openalex.org/W2796674715",
-        "https://openalex.org/W4249648553",
-        "https://openalex.org/W4206834689",
-        "https://openalex.org/W2331827382",
-        "https://openalex.org/W3008386427",
-        "https://openalex.org/W2009900332"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2051595569",
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2168772769",
       "doi": "https://doi.org/10.1111/j.1747-5457.1995.tb00742.x",
       "title": "LEBANON REVISITED: NEW INSIGHTS INTO TRIASSIC HYDROCARBON PROSPECTS",
@@ -20331,6 +20362,7 @@
             "LB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "*Advisers to the Minister, Ministry of Industry and Petroleum, Sami Solh St., Beirut, Lebanon",
@@ -20361,6 +20393,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "J. G. Habib",
           "raw_affiliation_strings": [
             "*Advisers to the Minister, Ministry of Industry and Petroleum, Sami Solh St., Beirut, Lebanon"
@@ -20385,12 +20418,12 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 3.7755,
+      "fwci": 3.78,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.91067231,
+        "value": 0.91090738,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21749,8 +21782,12 @@
           "cited_by_count": 1
         },
         {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
           "year": 2022,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2020,
@@ -21781,7 +21818,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21884,6 +21921,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z.R. Beydoun",
           "raw_affiliation_strings": [
             "Department of Geology, American University of Beirut, Beirut Lebanon"
@@ -22456,6 +22494,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ziad R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beirut, Lebanon"
@@ -23827,6 +23866,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "*American University of Beirut, Lebanon, and Marathon International Petroleum (GB) Ltd., London. U.K",
@@ -23885,6 +23925,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. H. Sikander",
           "raw_affiliation_strings": [
             "**Petro-Canada International Assistance Corportaion, Calgary, Albets, Canada",
@@ -25126,6 +25167,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "Department of Geology, American University of Beirut, Beirut, Lebanon"
@@ -25622,6 +25664,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -25640,6 +25683,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jim Greenwood",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-7884-2740",
@@ -25653,12 +25697,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8193,
+      "fwci": 1.8197,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.81518705,
+        "value": 0.81448468,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25878,8 +25922,12 @@
           "cited_by_count": 1
         },
         {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2021,
@@ -25898,7 +25946,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25999,6 +26047,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "*Editorial Board: American University of Beirut, Lebanon"
@@ -27064,6 +27113,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -27423,6 +27473,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "*Department of Geology, American University of Beirut. Lebanon"
@@ -28477,6 +28528,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -28799,6 +28851,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "*American University of Beirut. and Marathon International Petroleum (GB) Ltd., London"
@@ -29272,6 +29325,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -30304,6 +30358,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "American University of Beirut and Editorial Board"
@@ -30690,6 +30745,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "N. L. Falcon",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -30706,6 +30762,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -30722,6 +30779,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "H. V. Dunnington",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -31086,6 +31144,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -31402,6 +31461,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z.R. Beydoun",
           "raw_affiliation_strings": [
             "Shabb Formation-__________________ Khabla Formation , _________________ Harut Formation",
@@ -32157,8 +32217,12 @@
           "cited_by_count": 2
         },
         {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
           "year": 2021,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2020,
@@ -32193,7 +32257,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32270,6 +32334,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -32460,6 +32525,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -32768,6 +32834,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -32963,6 +33030,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z.R. Beydoun",
           "raw_affiliation_strings": [
             "(Editorial Board) American University of Beirut"
@@ -33355,6 +33423,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ziad R. Beydoun",
           "raw_affiliation_strings": [
             "Editorial Board, and American University of Beirut"
@@ -33669,6 +33738,7 @@
             "LB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [
             "Editorial Board American University of Beirut"
@@ -33994,6 +34064,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -34290,6 +34361,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -34575,6 +34647,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -34819,6 +34892,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -35093,6 +35167,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -35386,6 +35461,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -35634,6 +35710,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -35911,6 +35988,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z R Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -36150,6 +36228,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -36440,6 +36519,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Z.R.Beydoun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -36456,6 +36536,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "梁连喜",
           "raw_affiliation_strings": [],
           "raw_orcid": null,

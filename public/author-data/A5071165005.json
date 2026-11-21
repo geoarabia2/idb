@@ -11,7 +11,7 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 7,
-    "cited_by_count": 166,
+    "cited_by_count": 168,
     "summary_stats": {
       "2yr_mean_citedness": 5.75,
       "h_index": 5,
@@ -317,7 +317,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 56
+        "cited_by_count": 58
       }
     ],
     "display_name_alternatives": [
@@ -327,7 +327,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5071165005",
-    "updated_date": "2026-11-18T16:17:57",
+    "updated_date": "2026-11-20T12:36:48",
     "created_date": "2020-02-07T00:00:00"
   },
   "works": [
@@ -434,6 +434,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Xin Ju",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America"
@@ -475,6 +476,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "François P. Hamon",
           "raw_affiliation_strings": [
             "TotalEnergies E&P Research and Technology USA, Houston, United States of America"
@@ -515,6 +517,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Gege Wen",
           "raw_affiliation_strings": [
             "Earth Science and Engineering Department, Faculty of Engineering, Imperial College, London, United Kingdom"
@@ -555,6 +558,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America"
@@ -596,6 +600,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mauricio Araya-Polo",
           "raw_affiliation_strings": [
             "TotalEnergies E&P Research and Technology USA, Houston, United States of America"
@@ -636,6 +641,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hamdi A. Tchelepi",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America"
@@ -984,8 +990,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.685699999332428,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -993,8 +999,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4402326942.pdf",
@@ -1178,6 +1184,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Stanford University"
@@ -1216,6 +1223,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Obai Shaikh",
           "raw_affiliation_strings": [
             "Stanford University"
@@ -1256,6 +1264,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mehrdad Yousefzadeh",
           "raw_affiliation_strings": [
             "Stanford University"
@@ -1296,6 +1305,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
             "Stanford University"
@@ -1753,8 +1763,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3003329782.pdf",
@@ -2477,6 +2487,36 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            }
+          ],
           "raw_author_name": "Abdulrahman Al-Fakih",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -2525,6 +2565,20 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -2572,6 +2626,16 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Nabil A. Saraih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -2612,6 +2676,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
             "Departments of Energy Science & Engineering, Earth & Planetary Sciences, and Geophysics, Stanford University, Stanford, 94305, USA"
@@ -2652,6 +2717,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -2692,6 +2758,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulmohsen Alali",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -2732,6 +2799,16 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/project-administration",
+              "display_name": "Project administration"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            }
+          ],
           "raw_author_name": "SanLinn I. Kaka",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -2773,12 +2850,12 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 4.8858,
+      "fwci": 4.8754,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.95557808,
+        "value": 0.95515733,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3268,8 +3345,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417279471.pdf",
@@ -3362,7 +3439,6 @@
         "https://openalex.org/W7129557883",
         "https://openalex.org/W7160381236",
         "https://openalex.org/W7135212378",
-        "https://openalex.org/W7135178347",
         "https://openalex.org/W7221593425",
         "https://openalex.org/W7129559836",
         "https://openalex.org/W7212370550",
@@ -4160,7 +4236,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -4260,6 +4336,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com",
@@ -4307,6 +4384,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulmohsen Alali",
           "raw_affiliation_strings": [
             "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com",
@@ -4352,6 +4430,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Thierry-Laurent Tonellot",
           "raw_affiliation_strings": [
             "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com",
@@ -4397,6 +4476,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hussain Salim",
           "raw_affiliation_strings": [
             "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com",
@@ -4444,6 +4524,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Oleg Ovcharenko",
           "raw_affiliation_strings": [
             "2 NVIDIA Corp., Santa Clara, California, USA. E-mail: oovcharenko@nvidia.com",
@@ -4477,12 +4558,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2962,
+      "fwci": 3.2603,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.92251918,
+        "value": 0.92166946,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4733,8 +4814,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -4789,425 +4870,422 @@
         "https://openalex.org/W7125818828"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "Advanced": [
           0
         ],
-        "Advanced": [
-          1
-        ],
         "seismic": [
-          2,
-          57,
-          148
-        ],
-        "data": [
-          3,
-          58,
-          64,
-          87,
-          108,
-          149
-        ],
-        "processing": [
-          4
-        ],
-        "involves": [
-          5
-        ],
-        "specialized": [
-          6
-        ],
-        "methods": [
-          7
-        ],
-        "often": [
-          8
-        ],
-        "implemented": [
-          9
-        ],
-        "through": [
-          10,
-          44
-        ],
-        "various": [
-          11
-        ],
-        "software,": [
-          12
-        ],
-        "requiring": [
-          13
-        ],
-        "extensive": [
-          14
-        ],
-        "expertise": [
-          15
-        ],
-        "and": [
-          16,
-          41,
-          79,
-          89,
-          94,
-          110,
-          128,
-          157
-        ],
-        "time": [
-          17
-        ],
-        "from": [
-          18
-        ],
-        "geoscientists": [
-          19,
-          119
-        ],
-        "to": [
-          20,
-          33,
-          71,
-          101,
-          120,
-          146
-        ],
-        "execute": [
-          21,
-          80
-        ],
-        "geophysical": [
-          22,
-          81,
-          131,
-          153
-        ],
-        "workflows.": [
-          23,
-          65
-        ],
-        "Recently,": [
-          24
-        ],
-        "large": [
-          25
-        ],
-        "language": [
-          26
-        ],
-        "models": [
-          27,
-          142
-        ],
-        "(LLMs)": [
-          28
-        ],
-        "have": [
-          29
-        ],
-        "demonstrated": [
-          30
-        ],
-        "the": [
-          31,
-          99,
-          116,
-          144
-        ],
-        "ability": [
-          32
-        ],
-        "understand": [
-          34,
-          73
-        ],
-        "natural": [
-          35
-        ],
-        "language,": [
-          36
-        ],
-        "reason": [
-          37
-        ],
-        "about": [
-          38
-        ],
-        "domain-specific": [
-          39
-        ],
-        "topics,": [
-          40
-        ],
-        "assist": [
-          42
-        ],
-        "users": [
-          43,
-          160
-        ],
-        "complex": [
-          45
-        ],
-        "tasks.": [
-          46,
-          132
-        ],
-        "In": [
-          47
-        ],
-        "this": [
-          48
-        ],
-        "paper,": [
-          49
-        ],
-        "we": [
-          50
-        ],
-        "introduce": [
-          51
-        ],
-        "an": [
-          52
-        ],
-        "LLM-based": [
-          53
-        ],
-        "autonomous": [
-          54
-        ],
-        "agent": [
-          55,
-          68,
-          100,
-          117
-        ],
-        "for": [
+          1,
           56,
-          159
-        ],
-        "processing,": [
-          59
-        ],
-        "focusing": [
-          60
-        ],
-        "on": [
-          61,
-          122
-        ],
-        "full-waveform": [
-          62
-        ],
-        "sonic": [
-          63
-        ],
-        "The": [
-          66
-        ],
-        "proposed": [
-          67
-        ],
-        "is": [
-          69
-        ],
-        "shown": [
-          70
-        ],
-        "reliably": [
-          72
-        ],
-        "user": [
-          74
-        ],
-        "queries,": [
-          75
-        ],
-        "select": [
-          76
-        ],
-        "appropriate": [
-          77
-        ],
-        "tools,": [
-          78
-        ],
-        "tasks": [
-          82,
-          154
-        ],
-        "such": [
-          83
-        ],
-        "as": [
-          84
-        ],
-        "bandpass": [
-          85
-        ],
-        "filtering,": [
-          86
-        ],
-        "clipping,": [
-          88
-        ],
-        "frequency": [
-          90
-        ],
-        "spectrum": [
-          91
-        ],
-        "analysis.": [
-          92
-        ],
-        "Safeguards": [
-          93
-        ],
-        "guardrails": [
-          95
-        ],
-        "are": [
-          96
-        ],
-        "incorporated": [
-          97
-        ],
-        "into": [
-          98
-        ],
-        "ensure": [
-          102
-        ],
-        "operation": [
-          103
-        ],
-        "within": [
-          104
-        ],
-        "defined": [
-          105
-        ],
-        "parameters,": [
-          106
-        ],
-        "maintaining": [
-          107
-        ],
-        "security": [
-          109
-        ],
-        "integrity.": [
-          111
-        ],
-        "By": [
-          112
-        ],
-        "automating": [
-          113
-        ],
-        "routine": [
-          114
-        ],
-        "processes,": [
-          115
-        ],
-        "allows": [
-          118
-        ],
-        "focus": [
-          121
-        ],
-        "higher-level": [
-          123
-        ],
-        "decision-making": [
-          124
-        ],
-        "while": [
-          125
-        ],
-        "ensuring": [
-          126
-        ],
-        "accuracy": [
-          127
-        ],
-        "consistency": [
-          129
-        ],
-        "across": [
-          130
-        ],
-        "As": [
-          133
-        ],
-        "generative": [
-          134
-        ],
-        "artificial": [
-          135
-        ],
-        "intelligence": [
-          136
-        ],
-        "evolves,": [
-          137
-        ],
-        "integrating": [
-          138
-        ],
-        "LLMs": [
-          139
-        ],
-        "with": [
-          140
-        ],
-        "other": [
-          141
-        ],
-        "has": [
-          143
-        ],
-        "potential": [
-          145
-        ],
-        "revolutionize": [
           147
         ],
-        "analysis,": [
-          150
+        "data": [
+          2,
+          57,
+          63,
+          86,
+          107,
+          148
         ],
-        "making": [
-          151
+        "processing": [
+          3
         ],
-        "advanced": [
-          152
+        "involves": [
+          4
         ],
-        "more": [
-          155
+        "specialized": [
+          5
         ],
-        "accessible": [
+        "methods": [
+          6
+        ],
+        "often": [
+          7
+        ],
+        "implemented": [
+          8
+        ],
+        "through": [
+          9,
+          43
+        ],
+        "various": [
+          10
+        ],
+        "software,": [
+          11
+        ],
+        "requiring": [
+          12
+        ],
+        "extensive": [
+          13
+        ],
+        "expertise": [
+          14
+        ],
+        "and": [
+          15,
+          40,
+          78,
+          88,
+          93,
+          109,
+          127,
           156
         ],
-        "scalable": [
+        "time": [
+          16
+        ],
+        "from": [
+          17
+        ],
+        "geoscientists": [
+          18,
+          118
+        ],
+        "to": [
+          19,
+          32,
+          70,
+          100,
+          119,
+          145
+        ],
+        "execute": [
+          20,
+          79
+        ],
+        "geophysical": [
+          21,
+          80,
+          130,
+          152
+        ],
+        "workflows.": [
+          22,
+          64
+        ],
+        "Recently,": [
+          23
+        ],
+        "large": [
+          24
+        ],
+        "language": [
+          25
+        ],
+        "models": [
+          26,
+          141
+        ],
+        "(LLMs)": [
+          27
+        ],
+        "have": [
+          28
+        ],
+        "demonstrated": [
+          29
+        ],
+        "the": [
+          30,
+          98,
+          115,
+          143
+        ],
+        "ability": [
+          31
+        ],
+        "understand": [
+          33,
+          72
+        ],
+        "natural": [
+          34
+        ],
+        "language,": [
+          35
+        ],
+        "reason": [
+          36
+        ],
+        "about": [
+          37
+        ],
+        "domain-specific": [
+          38
+        ],
+        "topics,": [
+          39
+        ],
+        "assist": [
+          41
+        ],
+        "users": [
+          42,
+          159
+        ],
+        "complex": [
+          44
+        ],
+        "tasks.": [
+          45,
+          131
+        ],
+        "In": [
+          46
+        ],
+        "this": [
+          47
+        ],
+        "paper,": [
+          48
+        ],
+        "we": [
+          49
+        ],
+        "introduce": [
+          50
+        ],
+        "an": [
+          51
+        ],
+        "LLM-based": [
+          52
+        ],
+        "autonomous": [
+          53
+        ],
+        "agent": [
+          54,
+          67,
+          99,
+          116
+        ],
+        "for": [
+          55,
           158
         ],
+        "processing,": [
+          58
+        ],
+        "focusing": [
+          59
+        ],
+        "on": [
+          60,
+          121
+        ],
+        "full-waveform": [
+          61
+        ],
+        "sonic": [
+          62
+        ],
+        "The": [
+          65
+        ],
+        "proposed": [
+          66
+        ],
+        "is": [
+          68
+        ],
+        "shown": [
+          69
+        ],
+        "reliably": [
+          71
+        ],
+        "user": [
+          73
+        ],
+        "queries,": [
+          74
+        ],
+        "select": [
+          75
+        ],
+        "appropriate": [
+          76
+        ],
+        "tools,": [
+          77
+        ],
+        "tasks": [
+          81,
+          153
+        ],
+        "such": [
+          82
+        ],
+        "as": [
+          83
+        ],
+        "bandpass": [
+          84
+        ],
+        "filtering,": [
+          85
+        ],
+        "clipping,": [
+          87
+        ],
+        "frequency": [
+          89
+        ],
+        "spectrum": [
+          90
+        ],
+        "analysis.": [
+          91
+        ],
+        "Safeguards": [
+          92
+        ],
+        "guardrails": [
+          94
+        ],
+        "are": [
+          95
+        ],
+        "incorporated": [
+          96
+        ],
+        "into": [
+          97
+        ],
+        "ensure": [
+          101
+        ],
+        "operation": [
+          102
+        ],
+        "within": [
+          103
+        ],
+        "defined": [
+          104
+        ],
+        "parameters,": [
+          105
+        ],
+        "maintaining": [
+          106
+        ],
+        "security": [
+          108
+        ],
+        "integrity.": [
+          110
+        ],
+        "By": [
+          111
+        ],
+        "automating": [
+          112
+        ],
+        "routine": [
+          113
+        ],
+        "processes,": [
+          114
+        ],
+        "allows": [
+          117
+        ],
+        "focus": [
+          120
+        ],
+        "higher-level": [
+          122
+        ],
+        "decision-making": [
+          123
+        ],
+        "while": [
+          124
+        ],
+        "ensuring": [
+          125
+        ],
+        "accuracy": [
+          126
+        ],
+        "consistency": [
+          128
+        ],
+        "across": [
+          129
+        ],
+        "As": [
+          132
+        ],
+        "generative": [
+          133
+        ],
+        "artificial": [
+          134
+        ],
+        "intelligence": [
+          135
+        ],
+        "evolves,": [
+          136
+        ],
+        "integrating": [
+          137
+        ],
+        "LLMs": [
+          138
+        ],
+        "with": [
+          139
+        ],
+        "other": [
+          140
+        ],
+        "has": [
+          142
+        ],
+        "potential": [
+          144
+        ],
+        "revolutionize": [
+          146
+        ],
+        "analysis,": [
+          149
+        ],
+        "making": [
+          150
+        ],
+        "advanced": [
+          151
+        ],
+        "more": [
+          154
+        ],
+        "accessible": [
+          155
+        ],
+        "scalable": [
+          157
+        ],
         "at": [
-          161
+          160
         ],
         "all": [
-          162
+          161
         ],
         "levels": [
-          163
+          162
         ],
         "of": [
-          164
+          163
         ],
         "expertise.": [
-          165
+          164
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4407066027",
@@ -5221,7 +5299,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-02-02T00:00:00"
     },
     {
@@ -5327,6 +5405,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
@@ -5374,6 +5453,7 @@
             "US"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
@@ -5412,12 +5492,12 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.2881,
+      "fwci": 1.269,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.73987228,
+        "value": 0.73691528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5730,8 +5810,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -5898,6 +5978,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Energy Science & Engineering, Stanford University, Stanford, CA, USA"
@@ -5936,6 +6017,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lama El Halabi",
           "raw_affiliation_strings": [
             "Energy Science & Engineering, Stanford University, Stanford, CA, USA"
@@ -5974,6 +6056,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Tyler Hall",
           "raw_affiliation_strings": [
             "Earth & Planetary Sciences, Stanford University, Stanford, CA, USA"
@@ -6014,6 +6097,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
             "Energy Science & Engineering, Earth & Planetary Sciences, Geophysics, Stanford University, Stanford, CA, USA"
@@ -6038,12 +6122,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6501,
+      "fwci": 0.6497,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.49748892,
+        "value": 0.49793693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6256,8 +6340,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -6295,437 +6379,434 @@
         "https://openalex.org/W2107206595"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "Exploration": [
           0
         ],
-        "Exploration": [
-          1
-        ],
         "for": [
-          2,
-          86,
-          145,
-          163
+          1,
+          85,
+          144,
+          162
         ],
         "subsurface": [
-          3
+          2
         ],
         "resources,": [
-          4
+          3
         ],
         "such": [
-          5
+          4
         ],
         "as": [
-          6,
-          40,
-          79,
-          104
+          5,
+          39,
+          78,
+          103
         ],
         "groundwater": [
-          7
+          6
         ],
         "and": [
-          8,
-          25,
-          64,
-          84,
-          135,
-          179
-        ],
-        "hydrocarbons,": [
-          9
-        ],
-        "involves": [
-          10
-        ],
-        "a": [
-          11,
-          80,
-          105,
-          119,
-          132,
-          146,
-          170
-        ],
-        "high": [
-          12
-        ],
-        "degree": [
-          13
-        ],
-        "of": [
-          14,
-          22,
-          28,
-          47,
-          67,
-          71,
-          97,
-          117,
-          172,
-          183
-        ],
-        "uncertainty.": [
-          15
-        ],
-        "This": [
-          16
-        ],
-        "is": [
-          17,
-          31,
-          74,
-          123,
-          128,
-          157,
-          166
-        ],
-        "because": [
-          18
-        ],
-        "the": [
-          19,
-          26,
-          101,
-          114,
-          152,
-          181
-        ],
-        "spatial": [
-          20,
-          115
-        ],
-        "distribution": [
-          21
-        ],
-        "targeted": [
-          23,
-          44
-        ],
-        "resources": [
-          24
-        ],
-        "geology": [
-          27
-        ],
-        "their": [
-          29
-        ],
-        "overburden": [
-          30
-        ],
-        "largely": [
-          32
-        ],
-        "unknown.": [
-          33
-        ],
-        "In": [
-          34
-        ],
-        "some": [
-          35
-        ],
-        "areas,": [
-          36
-        ],
-        "eogenetic": [
-          37
-        ],
-        "caves": [
-          38,
-          53,
+          7,
+          24,
+          63,
+          83,
+          134,
           178
         ],
-        "known": [
-          39
+        "hydrocarbons,": [
+          8
         ],
-        "banana": [
-          41
+        "involves": [
+          9
         ],
-        "holes": [
-          42
+        "a": [
+          10,
+          79,
+          104,
+          118,
+          131,
+          145,
+          169
         ],
-        "overlay": [
+        "high": [
+          11
+        ],
+        "degree": [
+          12
+        ],
+        "of": [
+          13,
+          21,
+          27,
+          46,
+          66,
+          70,
+          96,
+          116,
+          171,
+          182
+        ],
+        "uncertainty.": [
+          14
+        ],
+        "This": [
+          15
+        ],
+        "is": [
+          16,
+          30,
+          73,
+          122,
+          127,
+          156,
+          165
+        ],
+        "because": [
+          17
+        ],
+        "the": [
+          18,
+          25,
+          100,
+          113,
+          151,
+          180
+        ],
+        "spatial": [
+          19,
+          114
+        ],
+        "distribution": [
+          20
+        ],
+        "targeted": [
+          22,
           43
         ],
-        "resources.": [
-          45
+        "resources": [
+          23
         ],
-        "Because": [
-          46
+        "geology": [
+          26
         ],
-        "pressure": [
-          48
+        "their": [
+          28
         ],
-        "loss,": [
-          49
+        "overburden": [
+          29
         ],
-        "drilling": [
-          50,
-          93,
-          150,
-          176
+        "largely": [
+          31
         ],
-        "into": [
-          51,
-          94,
+        "unknown.": [
+          32
+        ],
+        "In": [
+          33
+        ],
+        "some": [
+          34
+        ],
+        "areas,": [
+          35
+        ],
+        "eogenetic": [
+          36
+        ],
+        "caves": [
+          37,
+          52,
           177
         ],
+        "known": [
+          38
+        ],
+        "banana": [
+          40
+        ],
+        "holes": [
+          41
+        ],
+        "overlay": [
+          42
+        ],
+        "resources.": [
+          44
+        ],
+        "Because": [
+          45
+        ],
+        "pressure": [
+          47
+        ],
+        "loss,": [
+          48
+        ],
+        "drilling": [
+          49,
+          92,
+          149,
+          175
+        ],
+        "into": [
+          50,
+          93,
+          176
+        ],
         "these": [
-          52,
-          95
+          51,
+          94
         ],
         "causes": [
-          54
+          53
         ],
         "operational": [
-          55
+          54
         ],
         "hazards": [
-          56
+          55
         ],
         "that": [
-          57,
-          91,
-          148,
-          174
+          56,
+          90,
+          147,
+          173
         ],
         "lead": [
-          58
+          57
         ],
         "to": [
-          59,
-          75,
-          168
+          58,
+          74,
+          167
         ],
         "project": [
-          60
+          59
         ],
         "delays,": [
-          61
+          60
         ],
         "well": [
-          62,
+          61,
+          76,
+          163
+        ],
+        "abandonment,": [
+          62
+        ],
+        "even": [
+          64
+        ],
+        "loss": [
+          65
+        ],
+        "life.": [
+          67
+        ],
+        "The": [
+          68,
+          124,
+          158
+        ],
+        "goal": [
+          69
+        ],
+        "this": [
+          71,
+          185
+        ],
+        "paper": [
+          72
+        ],
+        "formulate": [
+          75,
+          99
+        ],
+        "placement": [
           77,
           164
         ],
-        "abandonment,": [
-          63
-        ],
-        "even": [
-          65
-        ],
-        "loss": [
-          66
-        ],
-        "life.": [
-          68
-        ],
-        "The": [
-          69,
-          125,
-          159
-        ],
-        "goal": [
-          70
-        ],
-        "this": [
-          72,
-          186
-        ],
-        "paper": [
-          73
-        ],
-        "formulate": [
-          76,
-          100
-        ],
-        "placement": [
-          78,
-          165
-        ],
         "sequential": [
-          81,
-          161
-        ],
-        "decision-making": [
-          82
-        ],
-        "problem": [
-          83,
-          103
-        ],
-        "solve": [
-          85,
-          144
-        ],
-        "an": [
-          87
-        ],
-        "artificially": [
-          88
-        ],
-        "intelligent": [
-          89
-        ],
-        "agent": [
-          90
-        ],
-        "avoids": [
-          92,
-          175
-        ],
-        "types": [
-          96
-        ],
-        "caves.": [
-          98
-        ],
-        "We": [
-          99
-        ],
-        "decision": [
-          102,
-          109
-        ],
-        "partially": [
-          106
-        ],
-        "observable": [
-          107
-        ],
-        "Markov": [
-          108
-        ],
-        "process": [
-          110
-        ],
-        "(POMDP).": [
-          111
-        ],
-        "To": [
-          112,
-          143
-        ],
-        "model": [
-          113,
-          127
-        ],
-        "uncertainty": [
-          116
-        ],
-        "caves,": [
-          118
-        ],
-        "Generative": [
-          120
-        ],
-        "Adversarial": [
-          121
-        ],
-        "Network": [
-          122
-        ],
-        "used.": [
-          124
-        ],
-        "generative": [
-          126
-        ],
-        "trained": [
-          129
-        ],
-        "based": [
-          130
-        ],
-        "on": [
-          131
-        ],
-        "Light": [
-          133
-        ],
-        "Detection": [
-          134
-        ],
-        "Ranging": [
-          136
-        ],
-        "survey": [
-          137
-        ],
-        "from": [
-          138
-        ],
-        "San": [
-          139
-        ],
-        "Salvador": [
-          140
-        ],
-        "Island,": [
-          141
-        ],
-        "Bahamas.": [
-          142
-        ],
-        "policy": [
-          147
-        ],
-        "recommends": [
-          149
-        ],
-        "actions,": [
-          151
-        ],
-        "Fast": [
-          153
-        ],
-        "Informed": [
-          154
-        ],
-        "Bound": [
-          155
-        ],
-        "algorithm": [
-          156
-        ],
-        "explored.": [
-          158
-        ],
-        "proposed": [
+          80,
           160
         ],
+        "decision-making": [
+          81
+        ],
+        "problem": [
+          82,
+          102
+        ],
+        "solve": [
+          84,
+          143
+        ],
+        "an": [
+          86
+        ],
+        "artificially": [
+          87
+        ],
+        "intelligent": [
+          88
+        ],
+        "agent": [
+          89
+        ],
+        "avoids": [
+          91,
+          174
+        ],
+        "types": [
+          95
+        ],
+        "caves.": [
+          97
+        ],
+        "We": [
+          98
+        ],
+        "decision": [
+          101,
+          108
+        ],
+        "partially": [
+          105
+        ],
+        "observable": [
+          106
+        ],
+        "Markov": [
+          107
+        ],
+        "process": [
+          109
+        ],
+        "(POMDP).": [
+          110
+        ],
+        "To": [
+          111,
+          142
+        ],
+        "model": [
+          112,
+          126
+        ],
+        "uncertainty": [
+          115
+        ],
+        "caves,": [
+          117
+        ],
+        "Generative": [
+          119
+        ],
+        "Adversarial": [
+          120
+        ],
+        "Network": [
+          121
+        ],
+        "used.": [
+          123
+        ],
+        "generative": [
+          125
+        ],
+        "trained": [
+          128
+        ],
+        "based": [
+          129
+        ],
+        "on": [
+          130
+        ],
+        "Light": [
+          132
+        ],
+        "Detection": [
+          133
+        ],
+        "Ranging": [
+          135
+        ],
+        "survey": [
+          136
+        ],
+        "from": [
+          137
+        ],
+        "San": [
+          138
+        ],
+        "Salvador": [
+          139
+        ],
+        "Island,": [
+          140
+        ],
+        "Bahamas.": [
+          141
+        ],
+        "policy": [
+          146
+        ],
+        "recommends": [
+          148
+        ],
+        "actions,": [
+          150
+        ],
+        "Fast": [
+          152
+        ],
+        "Informed": [
+          153
+        ],
+        "Bound": [
+          154
+        ],
+        "algorithm": [
+          155
+        ],
+        "explored.": [
+          157
+        ],
+        "proposed": [
+          159
+        ],
         "approach": [
-          162
+          161
         ],
         "shown": [
-          167
+          166
         ],
         "recommend": [
-          169
+          168
         ],
         "sequence": [
-          171
+          170
         ],
         "actions": [
-          173
+          172
         ],
         "demonstrates": [
-          180
+          179
         ],
         "potential": [
-          182
+          181
         ],
         "POMDPs": [
-          184
+          183
         ],
         "in": [
-          185
+          184
         ],
         "problem.": [
-          187
+          186
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392187405",
@@ -6735,7 +6816,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -6827,6 +6908,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "1 Stanford University;",
@@ -6874,6 +6956,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles Breithaupt",
           "raw_affiliation_strings": [
             "2 ExxonMobil",
@@ -6921,6 +7004,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
             "1 Stanford University;",
@@ -7218,8 +7302,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,

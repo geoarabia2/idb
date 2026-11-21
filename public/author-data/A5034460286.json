@@ -456,6 +456,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran, 31261, Saudi Arabia"
@@ -496,6 +497,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Luis A. González",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran, 31261, Saudi Arabia"
@@ -536,6 +538,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 15, Dhahran, 31261, Saudi Arabia"
@@ -576,6 +579,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abduljamiu Olalekan Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 15, Dhahran, 31261, Saudi Arabia"
@@ -616,6 +620,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran, 31261, Saudi Arabia"
@@ -969,8 +974,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -1215,6 +1220,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Carbonate Sedimentology Group (CSG@CPG), Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -1255,6 +1261,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John J.G. Reijmer",
           "raw_affiliation_strings": [
             "Carbonate Sedimentology Group (CSG@CPG), Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -1295,6 +1302,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Carbonate Sedimentology Group (CSG@CPG), Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -1724,8 +1732,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -1967,6 +1975,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mazin Bashri",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -2014,6 +2023,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -2061,6 +2071,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -2098,12 +2109,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.4376,
+      "fwci": 1.4202,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.77227723,
+        "value": 0.77042977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2114,7 +2125,7 @@
       "biblio": {
         "volume": "10",
         "issue": "21",
-        "first_page": null,
+        "first_page": "472",
         "last_page": null
       },
       "is_retracted": false,
@@ -2441,8 +2452,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -2543,7 +2554,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2017-11-17T00:00:00"
     },
     {
@@ -2649,6 +2660,44 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/project-administration",
+              "display_name": "Project administration"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            }
+          ],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -2689,6 +2738,36 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "John J. G. Reijmer",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -2734,6 +2813,40 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/data-curation",
+              "display_name": "Data curation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/methodology",
+              "display_name": "Methodology"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Ammar El Husseiny",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -2774,6 +2887,16 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            }
+          ],
           "raw_author_name": "Mazin Bashri",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -2814,6 +2937,28 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/resources",
+              "display_name": "Resources"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/validation",
+              "display_name": "Validation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-review-editing",
+              "display_name": "Writing – review & editing"
+            }
+          ],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -2854,6 +2999,12 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/software",
+              "display_name": "Software"
+            }
+          ],
           "raw_author_name": "Hani Al Mukainah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -2894,6 +3045,12 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            }
+          ],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
@@ -2928,12 +3085,12 @@
         "currency": "CHF",
         "value_usd": 2160
       },
-      "fwci": 1.451,
+      "fwci": 1.4459,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.77717008,
+        "value": 0.77699489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3396,8 +3553,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3171403328.pdf",
@@ -4222,7 +4379,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-06-22T00:00:00"
     },
     {
@@ -4325,6 +4482,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Nabil A. Saraih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 76, Dhahran, 31261, Saudi Arabia"
@@ -4365,6 +4523,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran 31261, Saudi Arabia",
@@ -4412,6 +4571,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Robert H. Goldstein",
           "raw_affiliation_strings": [
             "Kansas Interdisciplinary Consortium on Earth Energy and Environment (KICE3), Department of Geology, University of Kansas, Lawrence, KS, 66045-7575, USA"
@@ -4452,6 +4612,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran 31261, Saudi Arabia",
@@ -4499,6 +4660,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sherif Hanafy",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran 31261, Saudi Arabia",
@@ -4546,6 +4708,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Scott A. Whattam",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran 31261, Saudi Arabia",
@@ -4593,6 +4756,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran 31261, Saudi Arabia",
@@ -4640,6 +4804,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, Dhahran 31261, Saudi Arabia",
@@ -4960,8 +5125,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -5154,6 +5319,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mazin Bashri",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5194,6 +5360,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5234,6 +5401,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5274,6 +5442,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5314,6 +5483,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Makkawi",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5354,6 +5524,7 @@
             "BE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rudy Swennen",
           "raw_affiliation_strings": [
             "Department of Earth and Environmental Sciences, KU Leuven, 3001 Heverlee, Belgium"
@@ -5392,6 +5563,7 @@
             "SD"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Omer Ali",
           "raw_affiliation_strings": [
             "Department of Geology, University of Khartoum, Khartoum, Sudan"
@@ -5430,6 +5602,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar Adam",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5470,6 +5643,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5508,6 +5682,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jarrah Babiker",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
@@ -5868,8 +6043,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -6134,6 +6309,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abubakar Isah",
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -6174,6 +6350,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Mahmoud",
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -6214,6 +6391,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -6254,6 +6432,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -6294,6 +6473,7 @@
             "AE"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Muhammad Arif",
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, Khalifa University, 127788, Abu Dhabi, United Arab Emirates"
@@ -6334,6 +6514,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Murtada Saleh Aljawad",
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -6675,8 +6856,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -6909,6 +7090,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, KFUPM, Saudi Arabia"
@@ -6960,6 +7142,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, KFUPM, Saudi Arabia"
@@ -7022,6 +7205,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John J.G. Reijmer",
           "raw_affiliation_strings": [
             "1188JB Amstelveen, the Netherlands",
@@ -7080,6 +7264,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, KFUPM, Saudi Arabia"
@@ -7129,6 +7314,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdallah Abdelkarim",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, KFUPM, Saudi Arabia"
@@ -7599,8 +7785,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -7852,6 +8038,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, 31261, Dhahran, Saudi Arabia",
@@ -7913,6 +8100,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, 31261, Dhahran, Saudi Arabia",
@@ -7974,6 +8162,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Korhan Ayranci",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 78, 31261, Dhahran, Saudi Arabia",
@@ -8035,6 +8224,7 @@
             "NZ"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Andrew La Croix",
           "raw_affiliation_strings": [
             "Sedimentary Environments and Analogues Research Group, School of Science, University of Waikato, Hamilton, 3240, New Zealand",
@@ -8072,12 +8262,12 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.6416,
+      "fwci": 1.6251,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.79729043,
+        "value": 0.79320209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8370,8 +8560,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -8439,7 +8629,6 @@
         "https://openalex.org/W7204783646",
         "https://openalex.org/W4382199751",
         "https://openalex.org/W3005990354",
-        "https://openalex.org/W4392646336",
         "https://openalex.org/W6939326996",
         "https://openalex.org/W2085980194",
         "https://openalex.org/W3030653473",
@@ -8459,7 +8648,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-04-05T00:00:00"
     },
     {
@@ -8564,6 +8753,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -8611,6 +8801,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -8656,6 +8847,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Laode B. Stiawan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -8696,6 +8888,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -8736,6 +8929,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -8783,6 +8977,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -8809,12 +9004,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4444,
+      "fwci": 0.4386,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.45828144,
+        "value": 0.45566809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9061,8 +9256,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -9960,6 +10155,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 78, 31261, Dhahran, Saudi Arabia",
@@ -10021,6 +10217,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 78, 31261, Dhahran, Saudi Arabia",
@@ -10082,6 +10279,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 78, 31261, Dhahran, Saudi Arabia",
@@ -10143,6 +10341,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Korhan Ayranci",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 78, 31261, Dhahran, Saudi Arabia",
@@ -10194,12 +10393,12 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.4104,
+      "fwci": 0.4063,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.4938188,
+        "value": 0.49427898,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10558,8 +10757,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -10645,7 +10844,6 @@
         "https://openalex.org/W7167160060"
       ],
       "related_works": [
-        "https://openalex.org/W4392646336",
         "https://openalex.org/W7204783646",
         "https://openalex.org/W4413341755",
         "https://openalex.org/W4409186521",
@@ -10664,7 +10862,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-11-25T00:00:00"
     },
     {
@@ -10769,6 +10967,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ahmed Refaat",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 76, Dhahran 31261, Saudi Arabia"
@@ -10809,6 +11008,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -10856,6 +11056,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -10903,6 +11104,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -10950,6 +11152,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -10992,12 +11195,12 @@
         "currency": "USD",
         "value_usd": 1400
       },
-      "fwci": 0.4104,
+      "fwci": 0.4063,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.4938188,
+        "value": 0.49427898,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11461,8 +11664,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -12546,6 +12749,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jaber Muharrag",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 76, Dhahran, 31261, Saudi Arabia",
@@ -12593,6 +12797,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12640,6 +12845,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fawwaz M. AlKhaldi",
           "raw_affiliation_strings": [
             "Saudi Aramco, Dhahran, Saudi Arabia"
@@ -12680,6 +12886,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12725,6 +12932,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fatma Maandouche",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Building 76, Dhahran, 31261, Saudi Arabia"
@@ -12765,6 +12973,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12802,12 +13011,12 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.4104,
+      "fwci": 0.4063,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.4938188,
+        "value": 0.49427898,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13084,8 +13293,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -13239,6 +13448,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mutasim Osman",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-6344-9257",
@@ -13257,6 +13467,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
@@ -13275,6 +13486,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed A. Yassin",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13293,6 +13505,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
@@ -13311,6 +13524,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-6155-0845",
@@ -13531,8 +13745,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13562,7 +13776,7 @@
       "display_name": "Carbonate Diagenesis in a Sequence Stratigraphic Framework; Case study from Miocene Dam Formation, Eastern Saudi Arabia",
       "alternate_titles": [],
       "publication_year": 2020,
-      "publication_date": "2020-03-10",
+      "publication_date": "2020-03-23",
       "ids": {
         "openalex": "https://openalex.org/W3084364040",
         "doi": "https://doi.org/10.5194/egusphere-egu2020-21365",
@@ -13627,6 +13841,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -13667,6 +13882,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -13707,6 +13923,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -13747,6 +13964,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mazin Bashri",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -14032,8 +14250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14647,7 +14865,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3084364040",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2020-09-14T00:00:00"
     },
     {
@@ -14657,7 +14875,7 @@
       "display_name": "Mixed siliciclastic-carbonate sequence stratigraphy, Miocene Dam Formation, Saudi Arabia",
       "alternate_titles": [],
       "publication_year": 2020,
-      "publication_date": "2020-03-10",
+      "publication_date": "2020-03-23",
       "ids": {
         "openalex": "https://openalex.org/W3112828405",
         "doi": "https://doi.org/10.5194/egusphere-egu2020-21218",
@@ -14722,6 +14940,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mazin Bashri",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Saudi Arabia (mazinbashari@yahoo.com)"
@@ -14762,6 +14981,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Saudi Arabia (mazinbashari@yahoo.com)"
@@ -14802,6 +15022,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Saudi Arabia (mazinbashari@yahoo.com)"
@@ -14842,6 +15063,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Michael Kaminski",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Saudi Arabia (mazinbashari@yahoo.com)"
@@ -14882,6 +15104,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Saudi Arabia (mazinbashari@yahoo.com)"
@@ -14920,6 +15143,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar Adam",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Saudi Arabia (mazinbashari@yahoo.com)"
@@ -15228,8 +15452,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15949,7 +16173,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3112828405",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2020-12-21T00:00:00"
     },
     {
@@ -15959,7 +16183,7 @@
       "display_name": "Controls on Sonic Velocity in Dolostones",
       "alternate_titles": [],
       "publication_year": 2022,
-      "publication_date": "2022-03-26",
+      "publication_date": "2022-03-27",
       "ids": {
         "openalex": "https://openalex.org/W4220690352",
         "doi": "https://doi.org/10.5194/egusphere-egu22-945"
@@ -16041,6 +16265,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -16081,6 +16306,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -16121,6 +16347,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "John J.G. Reijmer",
           "raw_affiliation_strings": [
             "Independent Consultant, 1188JB Amstelveen, The Netherlands",
@@ -16166,6 +16393,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -16204,6 +16432,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdallah Abdelkarim",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -16242,6 +16471,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mike A. Kaminski",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Geosciences, Saudi Arabia (m3az89@yahoo.com)"
@@ -16547,8 +16777,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17247,7 +17477,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4220690352",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -17321,6 +17551,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -17361,6 +17592,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. El-Husseiny",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -17401,6 +17633,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "J.J.G. Reijmer",
           "raw_affiliation_strings": [
             "Independent Researcher",
@@ -17446,6 +17679,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "H. Eltom",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -17484,6 +17718,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. Abdelkarim",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -17524,6 +17759,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M.A. Kaminski",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -17753,8 +17989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18383,6 +18619,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -18423,6 +18660,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. El-Husseiny",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -18463,6 +18701,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "J.J.G. Reijmer",
           "raw_affiliation_strings": [
             "Independent Researcher",
@@ -18508,6 +18747,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "H. Eltom",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -18546,6 +18786,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. Abdelkarim",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -18844,8 +19085,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19396,6 +19637,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Fatma  Muneer Maandouche",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19414,6 +19656,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19432,6 +19675,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19450,6 +19694,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Fawwaz Alkhaldi",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19468,6 +19713,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jaber Muharrag",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19486,6 +19732,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19786,8 +20033,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -19933,6 +20180,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals"
@@ -19974,6 +20222,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "H. Eltom",
           "raw_affiliation_strings": [
             "Kansas Geological Survey"
@@ -20014,6 +20263,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Goldstein",
           "raw_affiliation_strings": [
             "University of Kansas"
@@ -20054,6 +20304,7 @@
             "ES"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "F. Rodríguez-Tovar",
           "raw_affiliation_strings": [
             "Universidad de Granada"
@@ -20366,8 +20617,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20772,6 +21023,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Tumwiine",
           "raw_affiliation_strings": [
             "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -20812,6 +21064,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mubashir Aziz",
           "raw_affiliation_strings": [
             "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -20859,6 +21112,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Aaqib Ali",
           "raw_affiliation_strings": [
             "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
@@ -20899,6 +21153,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -20946,6 +21201,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -20986,6 +21242,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Vagif Suleymanov",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -21323,8 +21580,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -22267,6 +22524,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -22305,6 +22563,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -22679,8 +22938,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23557,6 +23816,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, 31261, Dhahran, Saudi Arabia"
@@ -23606,6 +23866,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "Subsurface Dynamics Laboratory, Kansas Geological Survey, The University of Kansas, 1930 Constant Ave, Lawrence, KS 66047, United States"
@@ -23933,8 +24194,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -23985,7 +24246,6 @@
       "related_works": [
         "https://openalex.org/W4409186521",
         "https://openalex.org/W4382199751",
-        "https://openalex.org/W4392646336",
         "https://openalex.org/W4413341755",
         "https://openalex.org/W3030653473",
         "https://openalex.org/W6939326996",
@@ -23997,7 +24257,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7204783646",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-09-01T00:00:00"
     },
     {
@@ -24100,6 +24360,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Omar Radwan",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
@@ -24138,6 +24399,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. A. Hussein",
           "raw_affiliation_strings": [
             "Department of Mechanical Engineering, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
@@ -24185,6 +24447,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
@@ -24225,6 +24488,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rida Assaggaf",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
@@ -24263,6 +24527,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
@@ -24303,6 +24568,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sinatrya Diko Prayudi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
@@ -24346,7 +24612,7 @@
       "biblio": {
         "volume": "11",
         "issue": "10",
-        "first_page": null,
+        "first_page": "543",
         "last_page": null
       },
       "is_retracted": false,
@@ -24721,8 +24987,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -24778,7 +25044,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7211941659",
       "counts_by_year": [],
-      "updated_date": "2026-11-12T12:28:57.059296",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-09-09T00:00:00"
     }
   ]

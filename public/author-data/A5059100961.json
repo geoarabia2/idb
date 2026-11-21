@@ -478,6 +478,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Wail A. Mousa",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals 1 , Electrical Engineering Department, Dhahran, . E-mail: wailmousa@kfupm.edu.sa ., Saudi Arabia",
@@ -532,6 +533,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ., Saudi Arabia",
@@ -579,6 +581,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayman Al-Lehyani",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ., Saudi Arabia",
@@ -617,12 +620,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.583,
+      "fwci": 0.5916,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.70235514,
+        "value": 0.70482263,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -949,426 +952,423 @@
         "https://openalex.org/W2006486013"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
         "We": [
-          1,
-          57
+          0,
+          56
         ],
         "introduce": [
-          2
+          1
         ],
         "a": [
-          3,
-          24,
-          39,
-          81,
-          145,
-          184
+          2,
+          23,
+          38,
+          80,
+          144,
+          183
         ],
         "new": [
-          4,
-          25,
-          186
+          3,
+          24,
+          185
         ],
         "method": [
-          5,
-          22,
-          61,
-          76,
-          86,
-          100,
-          109,
-          113,
-          160,
-          182
-        ],
-        "for": [
-          6,
-          42,
-          87
-        ],
-        "first-arrival": [
-          7,
-          107,
-          193
-        ],
-        "picking": [
-          8,
-          108,
-          173
-        ],
-        "based": [
-          9,
-          29,
-          110
-        ],
-        "on": [
-          10,
-          30,
-          62,
-          111,
-          119,
-          140,
-          168
-        ],
-        "digital": [
-          11
-        ],
-        "color-image": [
-          12,
-          26
-        ],
-        "segmentation": [
-          13,
-          27,
-          60
-        ],
-        "of": [
-          14,
-          17,
-          70,
-          84,
-          144,
-          172,
-          192
-        ],
-        "energy": [
-          15
-        ],
-        "ratios": [
-          16
-        ],
-        "refracted": [
-          18
-        ],
-        "seismic": [
-          19,
-          64
-        ],
-        "data.": [
-          20
-        ],
-        "The": [
+          4,
           21,
-          36,
-          74
-        ],
-        "uses": [
-          23
-        ],
-        "scheme": [
-          28
-        ],
-        "projection": [
-          31
-        ],
-        "onto": [
-          32
-        ],
-        "convex": [
-          33
-        ],
-        "sets": [
-          34,
-          66
-        ],
-        "(POCS).": [
-          35
-        ],
-        "POCS": [
-          37
-        ],
-        "requires": [
-          38
-        ],
-        "reference": [
-          40
-        ],
-        "color": [
-          41
-        ],
-        "the": [
-          43,
-          51,
-          59,
-          105,
-          116,
-          129,
-          169,
-          189
-        ],
-        "first": [
-          44,
-          117,
-          130,
-          174
-        ],
-        "break": [
-          45
-        ],
-        "and": [
-          46,
-          93,
-          101,
-          136
-        ],
-        "one": [
-          47
-        ],
-        "iteration": [
-          48
-        ],
-        "to": [
-          49,
-          80,
-          114,
-          128,
-          150,
-          164,
-          188
-        ],
-        "segment": [
-          50
-        ],
-        "first-break": [
-          52
-        ],
-        "amplitudes": [
-          53
-        ],
-        "from": [
-          54
-        ],
-        "other": [
-          55
-        ],
-        "arrivals.": [
-          56,
-          175
-        ],
-        "tested": [
-          58
-        ],
-        "synthetic": [
-          63
-        ],
-        "data": [
-          65,
-          122,
-          170
-        ],
-        "with": [
-          67,
-          89,
-          148
-        ],
-        "various": [
-          68
-        ],
-        "amounts": [
-          69
-        ],
-        "additive": [
-          71
-        ],
-        "Gaussian": [
-          72
-        ],
-        "noise.": [
-          73
-        ],
-        "proposed": [
+          60,
           75,
+          85,
+          99,
+          108,
+          112,
+          159,
           181
         ],
-        "gives": [
-          77,
-          161
+        "for": [
+          5,
+          41,
+          86
         ],
-        "similar": [
-          78
+        "first-arrival": [
+          6,
+          106,
+          192
         ],
-        "performance": [
+        "picking": [
+          7,
+          107,
+          172
+        ],
+        "based": [
+          8,
+          28,
+          109
+        ],
+        "on": [
+          9,
+          29,
+          61,
+          110,
+          118,
+          139,
+          167
+        ],
+        "digital": [
+          10
+        ],
+        "color-image": [
+          11,
+          25
+        ],
+        "segmentation": [
+          12,
+          26,
+          59
+        ],
+        "of": [
+          13,
+          16,
+          69,
+          83,
+          143,
+          171,
+          191
+        ],
+        "energy": [
+          14
+        ],
+        "ratios": [
+          15
+        ],
+        "refracted": [
+          17
+        ],
+        "seismic": [
+          18,
+          63
+        ],
+        "data.": [
+          19
+        ],
+        "The": [
+          20,
+          35,
+          73
+        ],
+        "uses": [
+          22
+        ],
+        "scheme": [
+          27
+        ],
+        "projection": [
+          30
+        ],
+        "onto": [
+          31
+        ],
+        "convex": [
+          32
+        ],
+        "sets": [
+          33,
+          65
+        ],
+        "(POCS).": [
+          34
+        ],
+        "POCS": [
+          36
+        ],
+        "requires": [
+          37
+        ],
+        "reference": [
+          39
+        ],
+        "color": [
+          40
+        ],
+        "the": [
+          42,
+          50,
+          58,
+          104,
+          115,
+          128,
+          168,
+          188
+        ],
+        "first": [
+          43,
+          116,
+          129,
+          173
+        ],
+        "break": [
+          44
+        ],
+        "and": [
+          45,
+          92,
+          100,
+          135
+        ],
+        "one": [
+          46
+        ],
+        "iteration": [
+          47
+        ],
+        "to": [
+          48,
           79,
-          163
+          113,
+          127,
+          149,
+          163,
+          187
         ],
-        "modified": [
-          82,
-          106
+        "segment": [
+          49
         ],
-        "version": [
-          83
+        "first-break": [
+          51
         ],
-        "Coppens’": [
-          85,
-          112,
-          165
+        "amplitudes": [
+          52
         ],
-        "traces": [
-          88
+        "from": [
+          53
         ],
-        "high": [
-          90
+        "other": [
+          54
         ],
-        "signal-to-noise": [
-          91
+        "arrivals.": [
+          55,
+          174
         ],
-        "ratio": [
-          92
+        "tested": [
+          57
         ],
-        "medium-to-large": [
-          94
+        "synthetic": [
+          62
         ],
-        "offsets.": [
-          95
+        "data": [
+          64,
+          121,
+          169
         ],
-        "Finally,": [
-          96
+        "with": [
+          66,
+          88,
+          147
         ],
-        "we": [
-          97,
-          156,
-          177
+        "various": [
+          67
         ],
-        "applied": [
-          98
+        "amounts": [
+          68
         ],
-        "our": [
-          99,
-          159,
+        "additive": [
+          70
+        ],
+        "Gaussian": [
+          71
+        ],
+        "noise.": [
+          72
+        ],
+        "proposed": [
+          74,
           180
         ],
-        "used": [
-          102
+        "gives": [
+          76,
+          160
         ],
-        "as": [
-          103
+        "similar": [
+          77
         ],
-        "well": [
-          104
+        "performance": [
+          78,
+          162
         ],
-        "pick": [
-          115
+        "modified": [
+          81,
+          105
         ],
-        "arrivals": [
-          118
+        "version": [
+          82
         ],
-        "four": [
-          120
+        "Coppens’": [
+          84,
+          111,
+          164
         ],
-        "real": [
-          121
+        "traces": [
+          87
         ],
-        "sets,": [
-          123
+        "high": [
+          89
         ],
-        "where": [
-          124
+        "signal-to-noise": [
+          90
         ],
-        "both": [
-          125
+        "ratio": [
+          91
         ],
-        "were": [
-          126,
-          133
+        "medium-to-large": [
+          93
         ],
-        "compared": [
-          127
+        "offsets.": [
+          94
         ],
-        "breaks": [
-          131
+        "Finally,": [
+          95
         ],
-        "that": [
-          132,
-          153,
+        "we": [
+          96,
+          155,
+          176
+        ],
+        "applied": [
+          97
+        ],
+        "our": [
+          98,
           158,
           179
         ],
-        "picked": [
-          134
+        "used": [
+          101
         ],
-        "manually": [
-          135
+        "as": [
+          102
         ],
-        "then": [
-          137
+        "well": [
+          103
         ],
-        "interpolated.": [
-          138
+        "pick": [
+          114
         ],
-        "Based": [
-          139
+        "arrivals": [
+          117
         ],
-        "an": [
-          141
+        "four": [
+          119
         ],
-        "assessment": [
-          142
+        "real": [
+          120
         ],
-        "error": [
-          143
+        "sets,": [
+          122
         ],
-        "20-ms": [
-          146
+        "where": [
+          123
         ],
-        "window": [
-          147
+        "both": [
+          124
         ],
-        "respect": [
-          149
+        "were": [
+          125,
+          132
         ],
-        "manual": [
-          151
+        "compared": [
+          126
         ],
-        "picks": [
-          152
+        "breaks": [
+          130
         ],
-        "are": [
-          154
-        ],
-        "interpolated,": [
-          155
-        ],
-        "find": [
-          157
-        ],
-        "comparable": [
-          162
-        ],
-        "method,": [
-          166
-        ],
-        "depending": [
-          167
-        ],
-        "difficulty": [
-          171
-        ],
-        "Therefore,": [
-          176
-        ],
-        "believe": [
+        "that": [
+          131,
+          152,
+          157,
           178
         ],
+        "picked": [
+          133
+        ],
+        "manually": [
+          134
+        ],
+        "then": [
+          136
+        ],
+        "interpolated.": [
+          137
+        ],
+        "Based": [
+          138
+        ],
+        "an": [
+          140
+        ],
+        "assessment": [
+          141
+        ],
+        "error": [
+          142
+        ],
+        "20-ms": [
+          145
+        ],
+        "window": [
+          146
+        ],
+        "respect": [
+          148
+        ],
+        "manual": [
+          150
+        ],
+        "picks": [
+          151
+        ],
+        "are": [
+          153
+        ],
+        "interpolated,": [
+          154
+        ],
+        "find": [
+          156
+        ],
+        "comparable": [
+          161
+        ],
+        "method,": [
+          165
+        ],
+        "depending": [
+          166
+        ],
+        "difficulty": [
+          170
+        ],
+        "Therefore,": [
+          175
+        ],
+        "believe": [
+          177
+        ],
         "is": [
-          183
+          182
         ],
         "good": [
-          185
+          184
         ],
         "addition": [
-          187
+          186
         ],
         "existing": [
-          190
+          189
         ],
         "methods": [
-          191
+          190
         ],
         "picking.": [
-          194
+          193
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1970656602",
@@ -1426,7 +1426,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1540,6 +1540,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ayman Al-Lehyani",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa",
@@ -1587,6 +1588,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -1634,6 +1636,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -1681,6 +1684,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Eassa Abdullah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -1721,6 +1725,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -1762,12 +1767,12 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 2.0519,
+      "fwci": 2.0314,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.8403895,
+        "value": 0.83829716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2032,37 +2037,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmid:40335569",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40335569",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific reports",
-          "raw_type": "Journal Article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:12059123",
           "doi": null,
           "is_oa": true,
@@ -2092,6 +2066,37 @@
           "is_published": true,
           "raw_source_name": "Sci Rep",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmid:40335569",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40335569",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific reports",
+          "raw_type": "Journal Article"
         },
         {
           "id": "pmh:oai:doaj.org/article:6dbf70f8586e4d1eb045dabf20602076",
@@ -2875,7 +2880,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-05-08T00:00:00"
     },
     {
@@ -2977,6 +2982,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3017,6 +3023,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3057,6 +3064,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yehia A. Khulief",
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3097,6 +3105,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Syed Abdul Salam",
           "raw_affiliation_strings": [
             "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3137,6 +3146,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3177,6 +3187,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdul Latif Ashadi",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3217,6 +3228,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayman F. Al-Lehyani",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3255,6 +3267,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Adnan M. Almubarak",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3293,6 +3306,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed Zia Ullah Khan",
           "raw_affiliation_strings": [
             "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3333,6 +3347,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sikandar Khan",
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3371,6 +3386,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Salem G. AlJuhani",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3409,6 +3425,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Khalid A. Abdulrahman",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3439,12 +3456,12 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5699,
+      "fwci": 1.5582,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79588221,
+        "value": 0.79415169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3455,7 +3472,7 @@
       "biblio": {
         "volume": "12",
         "issue": "7",
-        "first_page": null,
+        "first_page": "245",
         "last_page": null
       },
       "is_retracted": false,
@@ -3837,7 +3854,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2019-04-01T00:00:00"
     },
     {
@@ -3847,7 +3864,7 @@
       "display_name": "Mapping and attenuation of surface waves side scattered by near-surface diffractors",
       "alternate_titles": [],
       "publication_year": 2013,
-      "publication_date": "2013-01-24",
+      "publication_date": "2013-01-25",
       "ids": {
         "openalex": "https://openalex.org/W2047497427",
         "doi": "https://doi.org/10.1007/s12517-013-0836-2",
@@ -3939,6 +3956,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayman Fazea Al-Lehyani",
           "raw_affiliation_strings": [
             "Earth Sciences Department, King Fahd University of Petroleum & Minerals, KFUPM Box 5070, Dhahran, 31261, Saudi Arabia",
@@ -3986,6 +4004,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdullatif Abdulrahman Al-Shuhail",
           "raw_affiliation_strings": [
             "Earth Sciences Department, King Fahd University of Petroleum & Minerals, KFUPM Box 5070, Dhahran, 31261, Saudi Arabia",
@@ -4033,8 +4052,8 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
+        "min": 87,
+        "max": 92
       },
       "biblio": {
         "volume": "7",
@@ -4352,7 +4371,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4362,7 +4381,7 @@
       "display_name": "Single Station Triaxial Seismic Event Detection, Direction Finding and Polarization Analysis",
       "alternate_titles": [],
       "publication_year": 2019,
-      "publication_date": "2019-03-13",
+      "publication_date": "2019-03-15",
       "ids": {
         "openalex": "https://openalex.org/W2921983401",
         "doi": "https://doi.org/10.2118/194941-ms",
@@ -4441,6 +4460,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Stewart Greenhalgh",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals"
@@ -4481,6 +4501,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayman Al-Lehyani",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals"
@@ -4522,6 +4543,7 @@
             "CH"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Cedric Schmelzbach",
           "raw_affiliation_strings": [
             "ETH Zürich"
@@ -4563,6 +4585,7 @@
             "CH"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "David Sollberger",
           "raw_affiliation_strings": [
             "ETH Zürich"
@@ -4896,725 +4919,722 @@
         "https://openalex.org/W2127292264"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
         "The": [
-          1,
-          152,
-          238
+          0,
+          151,
+          237
         ],
         "bearing": [
-          2
+          1
         ],
         "and": [
-          3,
-          6,
-          274,
-          311,
-          316
+          2,
+          5,
+          273,
+          310,
+          315
         ],
         "elevation": [
-          4
+          3
         ],
         "(azimuth": [
-          5
+          4
         ],
         "inclination)": [
-          7
+          6
         ],
         "of": [
-          8,
-          79,
-          114,
-          128,
-          140,
-          176,
-          201,
-          253,
-          271,
-          281
+          7,
+          78,
+          113,
+          127,
+          139,
+          175,
+          200,
+          252,
+          270,
+          280
         ],
         "a": [
-          9,
-          19,
-          65,
-          129,
-          181,
-          226,
-          279
+          8,
+          18,
+          64,
+          128,
+          180,
+          225,
+          278
         ],
         "seismic": [
-          10,
-          66,
-          73,
-          81,
-          92
+          9,
+          65,
+          72,
+          80,
+          91
         ],
         "event": [
-          11,
-          202,
-          318
+          10,
+          201,
+          317
         ],
         "can": [
-          12
+          11
         ],
         "be": [
-          13,
-          205,
-          242
+          12,
+          204,
+          241
         ],
         "estimated": [
-          14
+          13
         ],
         "directly": [
-          15
+          14
         ],
         "from": [
-          16,
-          148
+          15,
+          147
         ],
         "measurements": [
-          17
+          16
         ],
         "at": [
-          18
+          17
         ],
         "single": [
-          20,
-          130
+          19,
+          129
         ],
         "triaxial": [
-          21,
-          33,
-          60,
-          80
+          20,
+          32,
+          59,
+          79
         ],
         "station.": [
-          22
+          21
         ],
         "There": [
-          23,
-          68,
-          99
+          22,
+          67,
+          98
         ],
         "are": [
-          24,
-          69,
-          100,
-          188,
-          233,
-          275
+          23,
+          68,
+          99,
+          187,
+          232,
+          274
         ],
         "instances": [
-          25
+          24
         ],
         "in": [
-          26,
-          94,
-          109,
-          167,
-          192
+          25,
+          93,
+          108,
+          166,
+          191
         ],
         "which": [
-          27,
-          105,
-          122
-        ],
-        "the": [
-          28,
-          56,
-          59,
-          91,
-          120,
-          125,
-          141,
-          149,
-          156,
-          160,
-          194,
-          213,
-          250,
-          254,
-          264,
-          313
-        ],
-        "angular": [
-          29
-        ],
-        "resolution": [
-          30
-        ],
-        "secured": [
-          31
-        ],
-        "by": [
-          32,
-          41,
-          89,
-          207
-        ],
-        "polarization": [
-          34,
-          126,
-          161
-        ],
-        "analysis": [
-          35,
-          239
-        ],
-        "is": [
-          36,
-          133,
-          223,
-          287
-        ],
-        "better": [
-          37
-        ],
-        "than": [
-          38,
-          283
-        ],
-        "that": [
-          39,
-          62,
-          186
-        ],
-        "obtained": [
-          40,
-          206
-        ],
-        "beamforming": [
-          42
-        ],
-        "with": [
-          43,
-          164,
-          268,
-          294
-        ],
-        "an": [
-          44,
-          110,
-          138
-        ],
-        "extended": [
-          45
-        ],
-        "scalar": [
-          46
-        ],
-        "array.": [
-          47
-        ],
-        "In": [
-          48,
-          262
-        ],
-        "these": [
-          49
-        ],
-        "situations,": [
-          50
-        ],
-        "one": [
-          51,
+          26,
+          104,
           121
         ],
+        "the": [
+          27,
+          55,
+          58,
+          90,
+          119,
+          124,
+          140,
+          148,
+          155,
+          159,
+          193,
+          212,
+          249,
+          253,
+          263,
+          312
+        ],
+        "angular": [
+          28
+        ],
+        "resolution": [
+          29
+        ],
+        "secured": [
+          30
+        ],
+        "by": [
+          31,
+          40,
+          88,
+          206
+        ],
+        "polarization": [
+          33,
+          125,
+          160
+        ],
+        "analysis": [
+          34,
+          238
+        ],
+        "is": [
+          35,
+          132,
+          222,
+          286
+        ],
+        "better": [
+          36
+        ],
+        "than": [
+          37,
+          282
+        ],
+        "that": [
+          38,
+          61,
+          185
+        ],
+        "obtained": [
+          39,
+          205
+        ],
+        "beamforming": [
+          41
+        ],
+        "with": [
+          42,
+          163,
+          267,
+          293
+        ],
+        "an": [
+          43,
+          109,
+          137
+        ],
+        "extended": [
+          44
+        ],
+        "scalar": [
+          45
+        ],
+        "array.": [
+          46
+        ],
+        "In": [
+          47,
+          261
+        ],
+        "these": [
+          48
+        ],
+        "situations,": [
+          49
+        ],
+        "one": [
+          50,
+          120
+        ],
         "depends": [
-          52
+          51
         ],
         "totally": [
-          53
+          52
         ],
         "on": [
-          54,
-          102,
-          180
+          53,
+          101,
+          179
         ],
         "understanding": [
-          55
+          54
         ],
         "inter-relationships": [
-          57
+          56
         ],
         "between": [
-          58,
-          302,
-          306
+          57,
+          301,
+          305
         ],
         "records": [
-          61
+          60
         ],
         "make": [
-          63
+          62
         ],
         "up": [
-          64
+          63
         ],
         "wavetrain.": [
-          67
+          66
         ],
         "many": [
-          70,
-          95
+          69,
+          94
         ],
         "approaches": [
-          71
+          70
         ],
         "to": [
-          72,
-          85,
-          135,
-          155,
-          225,
-          260,
-          289
+          71,
+          84,
+          134,
+          154,
+          224,
+          259,
+          288
         ],
         "direction": [
-          74,
-          82,
-          162,
-          291
+          73,
+          81,
+          161,
+          290
         ],
         "finding": [
-          75,
-          83
+          74,
+          82
         ],
         "(SDF).": [
-          76
+          75
         ],
         "Monte-Carlo": [
+          76,
+          194
+        ],
+        "techniques": [
           77,
           195
         ],
-        "techniques": [
-          78,
-          196
-        ],
         "seek": [
-          84
+          83
         ],
         "maximise": [
-          86
+          85
         ],
         "signal": [
-          87,
-          184
-        ],
-        "power": [
-          88
-        ],
-        "examining": [
-          90,
-          208
-        ],
-        "wavefield": [
-          93
-        ],
-        "rotated": [
-          96
-        ],
-        "co-ordinate": [
-          97
-        ],
-        "frames.": [
-          98
-        ],
-        "variants": [
-          101
-        ],
-        "this": [
-          103
-        ],
-        "approach,": [
-          104
-        ],
-        "entail": [
-          106
-        ],
-        "null": [
-          107
-        ],
-        "seeking": [
-          108
-        ],
-        "inverse": [
-          111
-        ],
-        "space.": [
-          112
-        ],
-        "Instead": [
-          113
-        ],
-        "searching": [
-          115
-        ],
-        "all": [
-          116
-        ],
-        "possible": [
-          117,
-          134,
-          246
-        ],
-        "directions": [
-          118
-        ],
-        "for": [
-          119,
-          173,
-          278
-        ],
-        "best": [
-          123
-        ],
-        "fits": [
-          124
-        ],
-        "model": [
-          127
-        ],
-        "arrival,": [
-          131
-        ],
-        "it": [
-          132
-        ],
-        "carry": [
-          136
-        ],
-        "out": [
-          137
-        ],
-        "eigen-decomposition": [
-          139
-        ],
-        "(complex": [
-          142
-        ],
-        "or": [
-          143,
-          220
-        ],
-        "real)": [
-          144
-        ],
-        "covariance": [
-          145
-        ],
-        "matrix": [
-          146
-        ],
-        "formed": [
-          147
-        ],
-        "three-component": [
-          150
-        ],
-        "data.": [
-          151
-        ],
-        "eigenvector": [
-          153
-        ],
-        "corresponding": [
-          154
-        ],
-        "principal": [
-          157
-        ],
-        "eigenvalue": [
-          158,
-          209
-        ],
-        "yields": [
-          159
-        ],
-        "automatically,": [
-          163
-        ],
-        "significant": [
-          165,
-          190
-        ],
-        "savings": [
-          166
-        ],
-        "computational": [
-          168
-        ],
-        "effort.": [
-          169
-        ],
-        "Numerical": [
-          170
-        ],
-        "experiments": [
-          171
-        ],
-        "undertaken": [
-          172
-        ],
-        "different": [
-          174
-        ],
-        "levels": [
-          175,
-          270
-        ],
-        "random": [
-          177,
-          272
-        ],
-        "noise": [
-          178
-        ],
-        "superimposed": [
-          179
-        ],
-        "pure": [
-          182
-        ],
-        "mode": [
+          86,
           183
         ],
-        "show": [
-          185
+        "power": [
+          87
         ],
-        "there": [
-          187,
-          232
+        "examining": [
+          89,
+          207
         ],
-        "no": [
-          189
+        "wavefield": [
+          92
         ],
-        "advantages": [
-          191
+        "rotated": [
+          95
         ],
-        "using": [
-          193,
-          212
+        "co-ordinate": [
+          96
         ],
-        "over": [
-          197
+        "frames.": [
+          97
         ],
-        "eigendecompsoition.": [
-          198
+        "variants": [
+          100
         ],
-        "Confidence": [
-          199
+        "this": [
+          102
         ],
-        "measures": [
-          200
+        "approach,": [
+          103
         ],
-        "detection": [
-          203
+        "entail": [
+          105
         ],
-        "may": [
-          204
+        "null": [
+          106
         ],
-        "ratios": [
-          210
+        "seeking": [
+          107
         ],
-        "when": [
-          211,
-          231
+        "inverse": [
+          110
         ],
-        "eigendecompsoition": [
-          214
+        "space.": [
+          111
         ],
-        "method.": [
-          215
+        "Instead": [
+          112
         ],
-        "A": [
-          216
+        "searching": [
+          114
         ],
-        "time-domain": [
-          217
+        "all": [
+          115
         ],
-        "formulation": [
-          218,
-          228
+        "possible": [
+          116,
+          133,
+          245
         ],
-        "(covariance": [
-          219
+        "directions": [
+          117
         ],
-        "coherency": [
-          221
-        ],
-        "matrix)": [
-          222,
-          230
-        ],
-        "preferable": [
-          224
-        ],
-        "frequency-domain": [
-          227
-        ],
-        "(cross-spectral": [
-          229
-        ],
-        "multiple": [
-          234,
-          317
-        ],
-        "transient": [
-          235
-        ],
-        "events": [
-          236,
-          259
-        ],
-        "present.": [
-          237
-        ],
-        "window": [
-          240
-        ],
-        "should": [
-          241
-        ],
-        "as": [
-          243,
-          245,
-          298
-        ],
-        "long": [
-          244
-        ],
-        "(at": [
-          247
-        ],
-        "least": [
-          248
-        ],
-        "half": [
-          249
-        ],
-        "dominant": [
-          251
-        ],
-        "period": [
-          252
-        ],
-        "signal)": [
-          255
-        ],
-        "without": [
-          256
-        ],
-        "causing": [
-          257
-        ],
-        "separate": [
-          258
-        ],
-        "interfere.": [
-          261
-        ],
-        "practise,": [
-          263
-        ],
-        "direction-of-arrival": [
-          265
-        ],
-        "estimates": [
-          266
-        ],
-        "deteriorate": [
-          267
-        ],
-        "increasing": [
-          269
-        ],
-        "noise,": [
-          273,
-          296
-        ],
-        "generally": [
-          276
-        ],
-        "unacceptable": [
+        "for": [
+          118,
+          172,
           277
         ],
-        "SNR": [
-          280
+        "best": [
+          122
         ],
-        "less": [
-          282
+        "fits": [
+          123
         ],
-        "1.": [
-          284
+        "model": [
+          126
         ],
-        "Special": [
-          285
+        "arrival,": [
+          130
         ],
-        "care": [
-          286
+        "it": [
+          131
         ],
-        "needed": [
-          288
+        "carry": [
+          135
         ],
-        "avoid": [
-          290
+        "out": [
+          136
         ],
-        "errors": [
-          292
+        "eigen-decomposition": [
+          138
         ],
-        "associated": [
-          293
+        "(complex": [
+          141
         ],
-        "systematic": [
-          295
+        "or": [
+          142,
+          219
         ],
-        "such": [
+        "real)": [
+          143
+        ],
+        "covariance": [
+          144
+        ],
+        "matrix": [
+          145
+        ],
+        "formed": [
+          146
+        ],
+        "three-component": [
+          149
+        ],
+        "data.": [
+          150
+        ],
+        "eigenvector": [
+          152
+        ],
+        "corresponding": [
+          153
+        ],
+        "principal": [
+          156
+        ],
+        "eigenvalue": [
+          157,
+          208
+        ],
+        "yields": [
+          158
+        ],
+        "automatically,": [
+          162
+        ],
+        "significant": [
+          164,
+          189
+        ],
+        "savings": [
+          165
+        ],
+        "computational": [
+          167
+        ],
+        "effort.": [
+          168
+        ],
+        "Numerical": [
+          169
+        ],
+        "experiments": [
+          170
+        ],
+        "undertaken": [
+          171
+        ],
+        "different": [
+          173
+        ],
+        "levels": [
+          174,
+          269
+        ],
+        "random": [
+          176,
+          271
+        ],
+        "noise": [
+          177
+        ],
+        "superimposed": [
+          178
+        ],
+        "pure": [
+          181
+        ],
+        "mode": [
+          182
+        ],
+        "show": [
+          184
+        ],
+        "there": [
+          186,
+          231
+        ],
+        "no": [
+          188
+        ],
+        "advantages": [
+          190
+        ],
+        "using": [
+          192,
+          211
+        ],
+        "over": [
+          196
+        ],
+        "eigendecompsoition.": [
+          197
+        ],
+        "Confidence": [
+          198
+        ],
+        "measures": [
+          199
+        ],
+        "detection": [
+          202
+        ],
+        "may": [
+          203
+        ],
+        "ratios": [
+          209
+        ],
+        "when": [
+          210,
+          230
+        ],
+        "eigendecompsoition": [
+          213
+        ],
+        "method.": [
+          214
+        ],
+        "A": [
+          215
+        ],
+        "time-domain": [
+          216
+        ],
+        "formulation": [
+          217,
+          227
+        ],
+        "(covariance": [
+          218
+        ],
+        "coherency": [
+          220
+        ],
+        "matrix)": [
+          221,
+          229
+        ],
+        "preferable": [
+          223
+        ],
+        "frequency-domain": [
+          226
+        ],
+        "(cross-spectral": [
+          228
+        ],
+        "multiple": [
+          233,
+          316
+        ],
+        "transient": [
+          234
+        ],
+        "events": [
+          235,
+          258
+        ],
+        "present.": [
+          236
+        ],
+        "window": [
+          239
+        ],
+        "should": [
+          240
+        ],
+        "as": [
+          242,
+          244,
           297
         ],
+        "long": [
+          243
+        ],
+        "(at": [
+          246
+        ],
+        "least": [
+          247
+        ],
+        "half": [
+          248
+        ],
+        "dominant": [
+          250
+        ],
+        "period": [
+          251
+        ],
+        "signal)": [
+          254
+        ],
+        "without": [
+          255
+        ],
+        "causing": [
+          256
+        ],
+        "separate": [
+          257
+        ],
+        "interfere.": [
+          260
+        ],
+        "practise,": [
+          262
+        ],
+        "direction-of-arrival": [
+          264
+        ],
+        "estimates": [
+          265
+        ],
+        "deteriorate": [
+          266
+        ],
+        "increasing": [
+          268
+        ],
+        "noise,": [
+          272,
+          295
+        ],
+        "generally": [
+          275
+        ],
+        "unacceptable": [
+          276
+        ],
+        "SNR": [
+          279
+        ],
+        "less": [
+          281
+        ],
+        "1.": [
+          283
+        ],
+        "Special": [
+          284
+        ],
+        "care": [
+          285
+        ],
+        "needed": [
+          287
+        ],
+        "avoid": [
+          289
+        ],
+        "errors": [
+          291
+        ],
+        "associated": [
+          292
+        ],
+        "systematic": [
+          294
+        ],
+        "such": [
+          296
+        ],
         "sensor": [
-          299
+          298
         ],
         "gain": [
-          300
+          299
         ],
         "misalignment": [
-          301
+          300
         ],
         "channels,": [
-          303
+          302
         ],
         "coupling": [
-          304
+          303
         ],
         "variations": [
-          305
+          304
         ],
         "receiver": [
-          307
+          306
         ],
         "components,": [
-          308
+          307
         ],
         "velocity": [
-          309
+          308
         ],
         "inhomogeneity": [
-          310
+          309
         ],
         "anisotropy,": [
-          312
+          311
         ],
         "free-surface": [
-          314
+          313
         ],
         "effect,": [
-          315
+          314
         ],
         "interference.": [
-          319
+          318
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2921983401",
@@ -5624,7 +5644,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2019-03-22T00:00:00"
     },
     {
@@ -5699,6 +5719,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Ayman Fazea Al-Lehyani",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-5595-0017",
@@ -6070,6 +6091,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "C. Barajas-Olalde",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6088,6 +6110,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. A. Al-Shuhail",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6104,6 +6127,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. Aqel",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6122,6 +6146,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. Al-Shuhail",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6138,6 +6163,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. Nova",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6156,6 +6182,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. Al-Lehyani",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6172,6 +6199,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "J. M. Donadille",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6188,6 +6216,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "S. Saner",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6942,6 +6971,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sherif M. Hanafy",
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
@@ -6980,6 +7010,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Omar M. Abdeltwab",
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
@@ -7020,6 +7051,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
@@ -7060,6 +7092,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayman Al-Lehyani",
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
@@ -7890,6 +7923,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ayman Al-Lehyani",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia",
@@ -7949,6 +7983,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia",
@@ -8003,6 +8038,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia",
@@ -8050,6 +8086,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia",
@@ -8097,6 +8134,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Sherif Hanafy",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia",
@@ -8144,6 +8182,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael Kaminski",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia",
@@ -8191,6 +8230,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohamed Mahmoud",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia",
@@ -8238,6 +8278,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Paul Edigbue",
           "raw_affiliation_strings": [
             "Geosciences Department College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals Dhahran, Dhahran, Saudi Arabia"
@@ -8285,7 +8326,7 @@
       "biblio": {
         "volume": "41",
         "issue": "2",
-        "first_page": null,
+        "first_page": "88",
         "last_page": null
       },
       "is_retracted": false,
@@ -8293,12 +8334,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.4426000118255615,
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.4368000030517578,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -8311,26 +8352,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.4426000118255615,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.42579999566078186,
+          "score": 0.4368000030517578,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -8345,9 +8369,26 @@
           }
         },
         {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.43290001153945923,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.04270000010728836,
+          "score": 0.03920000046491623,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -8747,585 +8788,582 @@
       ],
       "abstract_inverted_index": {
         "3": [
-          152
+          151
         ],
         "4": [
-          154
+          153
         ],
         "6": [
-          37
+          36
         ],
         "158": [
-          138
+          137
         ],
         "228": [
-          172
-        ],
-        "Abstract": [
-          0
+          171
         ],
         "We": [
-          1,
-          196
+          0,
+          195
         ],
         "investigated": [
-          2
+          1
         ],
         "the": [
-          3,
-          19,
-          24,
-          71,
-          107,
-          115,
-          121,
-          124,
-          158,
-          199,
-          227
+          2,
+          18,
+          23,
+          70,
+          106,
+          114,
+          120,
+          123,
+          157,
+          198,
+          226
         ],
         "influence": [
-          4,
-          184
+          3,
+          183
         ],
         "of": [
-          5,
-          23,
-          29,
-          103,
-          109,
-          117,
-          137,
-          171,
-          185
+          4,
+          22,
+          28,
+          102,
+          108,
+          116,
+          136,
+          170,
+          184
         ],
         "sample": [
-          6
+          5
         ],
         "size": [
-          7,
-          179
-        ],
-        "on": [
-          8,
+          6,
           178
         ],
+        "on": [
+          7,
+          177
+        ],
         "laboratory": [
-          9
+          8
         ],
         "compressional-wave": [
-          10
+          9
         ],
         "velocity": [
-          11
+          10
         ],
         "(": [
-          12
+          11
         ],
         "$$\\:{V}_{p}$$": [
-          13,
-          69,
-          118,
-          126,
-          160
-        ],
-        ")": [
-          14
-        ],
-        "in": [
-          15,
-          210
-        ],
-        "bioturbated": [
-          16
-        ],
-        "carbonates": [
-          17
-        ],
-        "from": [
-          18,
-          34,
-          41
-        ],
-        "upper": [
-          20
-        ],
-        "Ulayyah": [
-          21
-        ],
-        "Member": [
-          22
-        ],
-        "Hanifa": [
-          25
-        ],
-        "Formation.": [
-          26
-        ],
-        "A": [
-          27
-        ],
-        "total": [
-          28
-        ],
-        "thirty": [
-          30
-        ],
-        "core": [
-          31,
-          145
-        ],
-        "plugs,": [
-          32
-        ],
-        "ranging": [
-          33
-        ],
-        "1.5": [
-          35
-        ],
-        "to": [
-          36,
-          97,
-          153,
-          190
-        ],
-        "inches,": [
-          38
-        ],
-        "were": [
-          39,
-          46,
-          78,
-          194
-        ],
-        "extracted": [
-          40
-        ],
-        "five": [
-          42
-        ],
-        "boulders.": [
-          43
-        ],
-        "These": [
-          44
-        ],
-        "samples": [
-          45,
-          77,
-          214
-        ],
-        "analyzed": [
-          47
-        ],
-        "using": [
-          48,
-          70
-        ],
-        "medical": [
-          49
-        ],
-        "CT": [
-          50
-        ],
-        "imaging,": [
-          51
-        ],
-        "characterized": [
-          52
-        ],
-        "through": [
-          53
-        ],
-        "dyed": [
-          54
-        ],
-        "thin": [
-          55
-        ],
-        "sections,": [
-          56
-        ],
-        "and": [
-          57,
-          63,
-          86,
-          181
-        ],
-        "assessed": [
-          58
-        ],
-        "for": [
-          59,
-          92,
-          127,
-          161,
-          203
-        ],
-        "porosity": [
-          60,
-          91,
-          186
-        ],
-        "(both": [
-          61
-        ],
-        "helium": [
-          62
-        ],
-        "bulk": [
-          64,
-          90
-        ],
-        "density)": [
-          65
-        ],
-        "as": [
-          66,
+          12,
           68,
-          236
-        ],
-        "well": [
-          67
-        ],
-        "Proseq": [
-          72
-        ],
-        "®": [
-          73
-        ],
-        "ultrasonic": [
-          74,
-          220
-        ],
-        "system.": [
-          75
-        ],
-        "The": [
-          76,
-          89
-        ],
-        "categorized": [
-          79
-        ],
-        "into": [
-          80
-        ],
-        "two": [
-          81,
-          110,
-          122
-        ],
-        "styles:": [
-          82,
-          123
-        ],
-        "Burrow": [
-          83
-        ],
-        "Network": [
-          84
-        ],
-        "(BN)": [
-          85
-        ],
-        "Bioretexturing": [
-          87
-        ],
-        "(BR).": [
-          88
-        ],
-        "both": [
-          93
-        ],
-        "styles": [
-          94
-        ],
-        "was": [
-          95,
-          129,
-          163
-        ],
-        "found": [
-          96
-        ],
-        "be": [
-          98
-        ],
-        "comparable,": [
-          99
-        ],
-        "with": [
-          100,
-          144,
-          230
-        ],
-        "a": [
-          101,
-          134,
-          168,
-          175,
-          182,
-          218
-        ],
-        "median": [
-          102
-        ],
-        "approximately": [
-          104,
-          130,
-          164
-        ],
-        "15.9%,": [
-          105
-        ],
-        "after": [
-          106
-        ],
-        "exclusion": [
-          108
-        ],
-        "probable": [
-          111
-        ],
-        "cemented": [
-          112
-        ],
-        "outliers.": [
-          113
-        ],
-        "However,": [
-          114
-        ],
-        "behavior": [
-          116
-        ],
-        "varied": [
-          119
-        ],
-        "between": [
-          120
-        ],
-        "mean": [
+          117,
           125,
           159
         ],
-        "BN": [
-          128,
+        ")": [
+          13
+        ],
+        "in": [
+          14,
+          209
+        ],
+        "bioturbated": [
+          15
+        ],
+        "carbonates": [
+          16
+        ],
+        "from": [
+          17,
+          33,
+          40
+        ],
+        "upper": [
+          19
+        ],
+        "Ulayyah": [
+          20
+        ],
+        "Member": [
+          21
+        ],
+        "Hanifa": [
+          24
+        ],
+        "Formation.": [
+          25
+        ],
+        "A": [
+          26
+        ],
+        "total": [
+          27
+        ],
+        "thirty": [
+          29
+        ],
+        "core": [
+          30,
+          144
+        ],
+        "plugs,": [
+          31
+        ],
+        "ranging": [
+          32
+        ],
+        "1.5": [
+          34
+        ],
+        "to": [
+          35,
+          96,
+          152,
+          189
+        ],
+        "inches,": [
+          37
+        ],
+        "were": [
+          38,
+          45,
+          77,
+          193
+        ],
+        "extracted": [
+          39
+        ],
+        "five": [
+          41
+        ],
+        "boulders.": [
+          42
+        ],
+        "These": [
+          43
+        ],
+        "samples": [
+          44,
+          76,
           213
         ],
+        "analyzed": [
+          46
+        ],
+        "using": [
+          47,
+          69
+        ],
+        "medical": [
+          48
+        ],
+        "CT": [
+          49
+        ],
+        "imaging,": [
+          50
+        ],
+        "characterized": [
+          51
+        ],
+        "through": [
+          52
+        ],
+        "dyed": [
+          53
+        ],
+        "thin": [
+          54
+        ],
+        "sections,": [
+          55
+        ],
+        "and": [
+          56,
+          62,
+          85,
+          180
+        ],
+        "assessed": [
+          57
+        ],
+        "for": [
+          58,
+          91,
+          126,
+          160,
+          202
+        ],
+        "porosity": [
+          59,
+          90,
+          185
+        ],
+        "(both": [
+          60
+        ],
+        "helium": [
+          61
+        ],
+        "bulk": [
+          63,
+          89
+        ],
+        "density)": [
+          64
+        ],
+        "as": [
+          65,
+          67,
+          235
+        ],
+        "well": [
+          66
+        ],
+        "Proseq": [
+          71
+        ],
+        "®": [
+          72
+        ],
+        "ultrasonic": [
+          73,
+          219
+        ],
+        "system.": [
+          74
+        ],
+        "The": [
+          75,
+          88
+        ],
+        "categorized": [
+          78
+        ],
+        "into": [
+          79
+        ],
+        "two": [
+          80,
+          109,
+          121
+        ],
+        "styles:": [
+          81,
+          122
+        ],
+        "Burrow": [
+          82
+        ],
+        "Network": [
+          83
+        ],
+        "(BN)": [
+          84
+        ],
+        "Bioretexturing": [
+          86
+        ],
+        "(BR).": [
+          87
+        ],
+        "both": [
+          92
+        ],
+        "styles": [
+          93
+        ],
+        "was": [
+          94,
+          128,
+          162
+        ],
+        "found": [
+          95
+        ],
+        "be": [
+          97
+        ],
+        "comparable,": [
+          98
+        ],
+        "with": [
+          99,
+          143,
+          229
+        ],
+        "a": [
+          100,
+          133,
+          167,
+          174,
+          181,
+          217
+        ],
+        "median": [
+          101
+        ],
+        "approximately": [
+          103,
+          129,
+          163
+        ],
+        "15.9%,": [
+          104
+        ],
+        "after": [
+          105
+        ],
+        "exclusion": [
+          107
+        ],
+        "probable": [
+          110
+        ],
+        "cemented": [
+          111
+        ],
+        "outliers.": [
+          112
+        ],
+        "However,": [
+          113
+        ],
+        "behavior": [
+          115
+        ],
+        "varied": [
+          118
+        ],
+        "between": [
+          119
+        ],
+        "mean": [
+          124,
+          158
+        ],
+        "BN": [
+          127,
+          212
+        ],
         "4,931": [
-          131
+          130
         ],
         "m/s": [
+          131,
+          165
+        ],
+        "(with": [
           132,
           166
         ],
-        "(with": [
-          133,
-          167
-        ],
         "standard": [
+          134,
+          168
+        ],
+        "deviation": [
           135,
           169
         ],
-        "deviation": [
-          136,
-          170
-        ],
         "m/s),": [
-          139,
-          173
+          138,
+          172
         ],
         "which": [
-          140
+          139
         ],
         "exhibited": [
-          141
+          140
         ],
         "an": [
-          142
+          141
         ],
         "increase": [
-          143
+          142
         ],
         "diameter": [
-          146
+          145
         ],
         "(log": [
-          147
+          146
         ],
         "fit": [
-          148
+          147
         ],
         "R²≈0.67),": [
-          149
+          148
         ],
         "converging": [
-          150
+          149
         ],
         "around": [
-          151,
-          223
-        ],
-        "inches.": [
-          155
-        ],
-        "In": [
-          156
-        ],
-        "contrast,": [
-          157
-        ],
-        "BR": [
-          162
-        ],
-        "4,630": [
-          165
-        ],
-        "demonstrating": [
-          174
-        ],
-        "weak": [
-          176
-        ],
-        "dependence": [
-          177
-        ],
-        "(R²≈0.05)": [
-          180
-        ],
-        "stronger": [
-          183
-        ],
-        "(R²": [
-          187
-        ],
-        "reaching": [
-          188
-        ],
-        "up": [
-          189
-        ],
-        "0.87": [
-          191
-        ],
-        "when": [
-          192
-        ],
-        "outliers": [
-          193
-        ],
-        "excluded).": [
-          195
-        ],
-        "conclude": [
-          197
-        ],
-        "that": [
-          198
-        ],
-        "representative": [
-          200
-        ],
-        "elementary": [
-          201
-        ],
-        "volume": [
-          202
-        ],
-        "acoustic": [
-          204
-        ],
-        "measurements": [
-          205
-        ],
-        "is": [
-          206
-        ],
-        "contingent": [
-          207
-        ],
-        "upon": [
-          208
-        ],
-        "bioturbation:": [
-          209
-        ],
-        "our": [
-          211
-        ],
-        "dataset,": [
-          212
-        ],
-        "demonstrate": [
-          215
-        ],
-        "convergence": [
-          216
-        ],
-        "towards": [
-          217
-        ],
-        "stable": [
-          219
-        ],
-        "Vp": [
-          221
-        ],
-        "at": [
+          150,
           222
         ],
+        "inches.": [
+          154
+        ],
+        "In": [
+          155
+        ],
+        "contrast,": [
+          156
+        ],
+        "BR": [
+          161
+        ],
+        "4,630": [
+          164
+        ],
+        "demonstrating": [
+          173
+        ],
+        "weak": [
+          175
+        ],
+        "dependence": [
+          176
+        ],
+        "(R²≈0.05)": [
+          179
+        ],
+        "stronger": [
+          182
+        ],
+        "(R²": [
+          186
+        ],
+        "reaching": [
+          187
+        ],
+        "up": [
+          188
+        ],
+        "0.87": [
+          190
+        ],
+        "when": [
+          191
+        ],
+        "outliers": [
+          192
+        ],
+        "excluded).": [
+          194
+        ],
+        "conclude": [
+          196
+        ],
+        "that": [
+          197
+        ],
+        "representative": [
+          199
+        ],
+        "elementary": [
+          200
+        ],
+        "volume": [
+          201
+        ],
+        "acoustic": [
+          203
+        ],
+        "measurements": [
+          204
+        ],
+        "is": [
+          205
+        ],
+        "contingent": [
+          206
+        ],
+        "upon": [
+          207
+        ],
+        "bioturbation:": [
+          208
+        ],
+        "our": [
+          210
+        ],
+        "dataset,": [
+          211
+        ],
+        "demonstrate": [
+          214
+        ],
+        "convergence": [
+          215
+        ],
+        "towards": [
+          216
+        ],
+        "stable": [
+          218
+        ],
+        "Vp": [
+          220
+        ],
+        "at": [
+          221
+        ],
         "3–4": [
-          224
+          223
         ],
         "inches;": [
-          225
+          224
         ],
         "considering": [
-          226
+          225
         ],
         "restricted": [
-          228
+          227
         ],
         "replication": [
-          229
+          228
         ],
         "large": [
-          231
+          230
         ],
         "cores,": [
-          232
+          231
         ],
         "we": [
-          233
+          232
         ],
         "suggest": [
-          234
+          233
         ],
         "this": [
-          235
+          234
         ],
         "initial": [
-          237
+          236
         ],
         "guidance": [
-          238
+          237
         ],
         "pending": [
-          239
+          238
         ],
         "further": [
-          240
+          239
         ],
         "data.": [
-          241
+          240
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162439439",
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2026-05-27T00:00:00"
     }
   ]

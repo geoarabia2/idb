@@ -519,6 +519,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz Abdullah al-Laboun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1185,6 +1186,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz A. AL-Laboun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1200,12 +1202,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4346,
+      "fwci": 0.4335,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 79,
       "citation_normalized_percentile": {
-        "value": 0.62939773,
+        "value": 0.62803235,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1487,346 +1489,343 @@
       ],
       "abstract_inverted_index": {
         "1982": [
-          30
-        ],
-        "ABSTRACT": [
-          0
+          29
         ],
         "The": [
-          1,
-          33,
-          79,
-          108,
-          118
+          0,
+          32,
+          78,
+          107,
+          117
         ],
         "sandstones,": [
-          2
+          1
         ],
         "shales,": [
-          3
+          2
         ],
         "and": [
-          4,
-          31,
-          46,
-          65,
-          135
+          3,
+          30,
+          45,
+          64,
+          134
         ],
         "thin": [
-          5
+          4
         ],
         "beds": [
-          6
+          5
         ],
         "of": [
-          7,
-          16,
-          37,
-          44,
-          89,
-          121,
-          138
+          6,
+          15,
+          36,
+          43,
+          88,
+          120,
+          137
         ],
         "argillaceous": [
-          8
+          7
         ],
         "limestone": [
-          9
+          8
         ],
         "previously": [
-          10
+          9
         ],
         "included": [
-          11
+          10
         ],
         "as": [
-          12,
-          23
-        ],
-        "the": [
-          13,
-          17,
-          24,
-          42,
-          53,
-          86,
-          90,
-          114,
-          122,
-          133,
-          139,
-          146
-        ],
-        "basal": [
-          14,
-          95
-        ],
-        "part": [
-          15
-        ],
-        "Permian": [
-          18,
-          74
-        ],
-        "Khuff": [
-          19,
-          91
-        ],
-        "Formation": [
-          20,
-          26,
-          81,
-          110,
-          124
-        ],
-        "were": [
-          21
-        ],
-        "described": [
+          11,
           22
         ],
-        "Unayzah": [
+        "the": [
+          12,
+          16,
+          23,
+          41,
+          52,
+          85,
+          89,
+          113,
+          121,
+          132,
+          138,
+          145
+        ],
+        "basal": [
+          13,
+          94
+        ],
+        "part": [
+          14
+        ],
+        "Permian": [
+          17,
+          73
+        ],
+        "Khuff": [
+          18,
+          90
+        ],
+        "Formation": [
+          19,
           25,
           80,
           109,
           123
         ],
+        "were": [
+          20
+        ],
+        "described": [
+          21
+        ],
+        "Unayzah": [
+          24,
+          79,
+          108,
+          122
+        ],
         "by": [
-          27,
-          85,
-          99
-        ],
-        "al-Laboun": [
-          28
-        ],
-        "in": [
-          29,
-          41,
-          52,
-          113,
-          132
-        ],
-        "1986.": [
-          32
-        ],
-        "type": [
-          34
-        ],
-        "locality": [
-          35
-        ],
-        "(stratotype?)": [
-          36
-        ],
-        "this": [
-          38
-        ],
-        "formation": [
-          39
-        ],
-        "is": [
-          40,
-          82,
-          97,
-          111
-        ],
-        "town": [
-          43
-        ],
-        "Unayzah,": [
-          45
-        ],
-        "a": [
-          47,
-          71,
-          100
-        ],
-        "reference": [
-          48
-        ],
-        "section": [
-          49
-        ],
-        "was": [
-          50
-        ],
-        "established": [
-          51
-        ],
-        "Qusayba": [
-          54
-        ],
-        "area,": [
-          55
-        ],
-        "al-Qasim": [
-          56
-        ],
-        "district,": [
-          57
-        ],
-        "Saudi": [
-          58
-        ],
-        "Arabia.": [
-          59
-        ],
-        "Fossil": [
-          60
-        ],
-        "flora": [
-          61
-        ],
-        "collected": [
-          62
-        ],
-        "from": [
-          63,
-          68,
-          145
-        ],
-        "outcrops": [
-          64
-        ],
-        "palynomorphs": [
-          66
-        ],
-        "obtained": [
-          67
-        ],
-        "boreholes": [
-          69
-        ],
-        "support": [
-          70
-        ],
-        "Late": [
-          72
-        ],
-        "Carboniferous-Early": [
-          73
-        ],
-        "age": [
-          75
-        ],
-        "for": [
-          76
-        ],
-        "these": [
-          77
-        ],
-        "strata.": [
-          78
-        ],
-        "conformably": [
-          83
-        ],
-        "overlain": [
-          84
-        ],
-        "massive": [
-          87
-        ],
-        "carbonates": [
-          88
-        ],
-        "Formation,": [
-          92
-        ],
-        "whereas": [
-          93
-        ],
-        "its": [
-          94
-        ],
-        "contact": [
-          96
-        ],
-        "marked": [
+          26,
+          84,
           98
         ],
+        "al-Laboun": [
+          27
+        ],
+        "in": [
+          28,
+          40,
+          51,
+          112,
+          131
+        ],
+        "1986.": [
+          31
+        ],
+        "type": [
+          33
+        ],
+        "locality": [
+          34
+        ],
+        "(stratotype?)": [
+          35
+        ],
+        "this": [
+          37
+        ],
+        "formation": [
+          38
+        ],
+        "is": [
+          39,
+          81,
+          96,
+          110
+        ],
+        "town": [
+          42
+        ],
+        "Unayzah,": [
+          44
+        ],
+        "a": [
+          46,
+          70,
+          99
+        ],
+        "reference": [
+          47
+        ],
+        "section": [
+          48
+        ],
+        "was": [
+          49
+        ],
+        "established": [
+          50
+        ],
+        "Qusayba": [
+          53
+        ],
+        "area,": [
+          54
+        ],
+        "al-Qasim": [
+          55
+        ],
+        "district,": [
+          56
+        ],
+        "Saudi": [
+          57
+        ],
+        "Arabia.": [
+          58
+        ],
+        "Fossil": [
+          59
+        ],
+        "flora": [
+          60
+        ],
+        "collected": [
+          61
+        ],
+        "from": [
+          62,
+          67,
+          144
+        ],
+        "outcrops": [
+          63
+        ],
+        "palynomorphs": [
+          65
+        ],
+        "obtained": [
+          66
+        ],
+        "boreholes": [
+          68
+        ],
+        "support": [
+          69
+        ],
+        "Late": [
+          71
+        ],
+        "Carboniferous-Early": [
+          72
+        ],
+        "age": [
+          74
+        ],
+        "for": [
+          75
+        ],
+        "these": [
+          76
+        ],
+        "strata.": [
+          77
+        ],
+        "conformably": [
+          82
+        ],
+        "overlain": [
+          83
+        ],
+        "massive": [
+          86
+        ],
+        "carbonates": [
+          87
+        ],
+        "Formation,": [
+          91
+        ],
+        "whereas": [
+          92
+        ],
+        "its": [
+          93
+        ],
+        "contact": [
+          95
+        ],
+        "marked": [
+          97
+        ],
         "regional": [
-          101
+          100
         ],
         "angular": [
-          102
+          101
         ],
         "unconformity": [
-          103
+          102
         ],
         "with": [
-          104
+          103
         ],
         "various": [
-          105
+          104
         ],
         "older": [
-          106
+          105
         ],
         "units.": [
-          107
+          106
         ],
         "widespread": [
-          112
+          111
         ],
         "Greater": [
+          114,
+          139
+        ],
+        "Arabian": [
           115,
           140
         ],
-        "Arabian": [
-          116,
-          141
-        ],
         "basin.": [
-          117
+          116
         ],
         "porous": [
-          119
+          118
         ],
         "sandstones": [
-          120
+          119
         ],
         "are": [
-          125
+          124
         ],
         "important": [
-          126
+          125
         ],
         "exploration": [
-          127
+          126
         ],
         "targets": [
-          128
+          127
         ],
         "because": [
-          129
+          128
         ],
         "several": [
-          130
+          129
         ],
         "fields": [
-          131
+          130
         ],
         "eastern": [
-          134
+          133
         ],
         "southeastern": [
-          136
+          135
         ],
         "parts": [
-          137
+          136
         ],
         "basin": [
-          142
+          141
         ],
         "produce": [
-          143
+          142
         ],
         "hydrocarbons": [
-          144
+          143
         ],
         "Unayzah.": [
-          147
+          146
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2071064541",
@@ -1857,11 +1856,11 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2016,
@@ -1880,7 +1879,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1892,7 +1891,7 @@
         "تكتونية وطباقية صخور العصر السيلوري المنكشفةفي وسط وشمال غرب المملكة العربية السعودية"
       ],
       "publication_year": 2009,
-      "publication_date": "2009-02-09",
+      "publication_date": "2009-02-10",
       "ids": {
         "openalex": "https://openalex.org/W1540248330",
         "doi": "https://doi.org/10.1007/s12517-008-0017-x",
@@ -1982,6 +1981,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz A. Al-Laboun",
           "raw_affiliation_strings": [
             "Geology Department, Faculty of Sciences, King Saud University, Riyadh, Saudi Arabia"
@@ -2012,12 +2012,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.2119,
+      "fwci": 1.2124,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.80677843,
+        "value": 0.80701543,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2359,7 +2359,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2456,6 +2456,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulrahman A. AlQuraishi",
           "raw_affiliation_strings": [
             "King Abdulaziz City for Science and Technology, National Center for Oil and Gas Technology, P. O. Box 6086, Riyadh, 11442, Saudi Arabia"
@@ -2494,6 +2495,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz AlLaboun",
           "raw_affiliation_strings": [
             "King Saud University, College of Science, Department of Geology and Geophysics, P. O. Box 2455, Riyadh, 11451, Saudi Arabia"
@@ -2534,6 +2536,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Faisal AlGhamdi",
           "raw_affiliation_strings": [
             "King Saud University, College of Science, Department of Geology and Geophysics, P. O. Box 2455, Riyadh, 11451, Saudi Arabia"
@@ -2572,6 +2575,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Saud AlHussinan",
           "raw_affiliation_strings": [
             "King Abdulaziz City for Science and Technology, National Center for Oil and Gas Technology, P. O. Box 6086, Riyadh, 11442, Saudi Arabia"
@@ -3062,6 +3066,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Adel Al-Johi",
           "raw_affiliation_strings": [
             "Department of Geology and Geophysics, College of Science; King Saud University; Riyadh Saudi Arabia"
@@ -3100,6 +3105,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz A. Al-Laboun",
           "raw_affiliation_strings": [
             "Department of Geology and Geophysics, College of Science; King Saud University; Riyadh Saudi Arabia"
@@ -4100,7 +4106,7 @@
       "display_name": "Bimodal pore size behavior of the Shajara Formation Reservoirs of the Permo-Carboniferous Unayzah Group, Saudi Arabia",
       "alternate_titles": [],
       "publication_year": 2011,
-      "publication_date": "2011-04-04",
+      "publication_date": "2011-04-05",
       "ids": {
         "openalex": "https://openalex.org/W2169570507",
         "doi": "https://doi.org/10.1007/s13202-011-0007-5",
@@ -4194,6 +4200,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "K. E. Al-Khidir",
           "raw_affiliation_strings": [
             "Department of Petroleum and Natural Gas Engineering, King Saud University, Riyadh, Saudi Arabia"
@@ -4232,6 +4239,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. A. Al-Quraishi",
           "raw_affiliation_strings": [
             "Oil and Gas Research Institute, King Abdulaziz City for Science and Technology, Riyadh, Saudi Arabia"
@@ -4270,6 +4278,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. A. Al-Laboun",
           "raw_affiliation_strings": [
             "Department of Geology, King Saud University, Riyadh, Saudi Arabia"
@@ -4308,6 +4317,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. S. Benzagouta",
           "raw_affiliation_strings": [
             "Department of Petroleum and Natural Gas Engineering, King Saud University, Riyadh, Saudi Arabia"
@@ -4342,12 +4352,12 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 0.9624,
+      "fwci": 0.9752,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.78915269,
+        "value": 0.79075082,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5161,7 +5171,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5171,7 +5181,7 @@
       "display_name": "Characterization of heterogeneity of the Shajara reservoirs of the Shajara formation of the Permo-Carboniferous Unayzah group",
       "alternate_titles": [],
       "publication_year": 2012,
-      "publication_date": "2012-09-06",
+      "publication_date": "2012-09-07",
       "ids": {
         "openalex": "https://openalex.org/W2106402102",
         "doi": "https://doi.org/10.1007/s12517-012-0656-9",
@@ -5263,6 +5273,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "K. E. Al-Khidir",
           "raw_affiliation_strings": [
             "College of Engineering, Al Amoudi Research Chair in Petroleum, EOR, Department of Petroleum Engineering and Natural Gas, King Saud University, Riyadh, Saudi Arabia"
@@ -5301,6 +5312,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "M. S. Benzagouta",
           "raw_affiliation_strings": [
             "College of Engineering, Al Amoudi Research Chair in Petroleum, EOR, Department of Petroleum Engineering and Natural Gas, King Saud University, Riyadh, Saudi Arabia"
@@ -5339,6 +5351,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. A. Al-Qurishi",
           "raw_affiliation_strings": [
             "Petroleum and Natural Gas Research Institute, King Abdulaziz City for Science and Technology, Riyadh, Saudi Arabia"
@@ -5377,6 +5390,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "A. A. Al-Laboun",
           "raw_affiliation_strings": [
             "College of Science Department of Geology, King Saud University, Riyadh, Saudi Arabia"
@@ -5407,12 +5421,12 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.3842,
+      "fwci": 0.3858,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.660159,
+        "value": 0.66110049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5837,7 +5851,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5940,6 +5954,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "ABDULAZIZ ABDULLAH AL-LABOUN",
           "raw_affiliation_strings": [
             "Box 1026 Aramco, Dhahran, Saudi Arabia"
@@ -7313,6 +7328,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz AL-LABOUN",
           "raw_affiliation_strings": [
             "Department of Geology and Geophysics , College of Science , King Saud University , Riyadh , Saudi Arabia"
@@ -7351,6 +7367,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdurrahman AL-QURAISHI",
           "raw_affiliation_strings": [
             "Oil and Gas Centre , King Abdul-Aziz City for Science and Technology , Riyadh , Saudi Arabia"
@@ -7391,6 +7408,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Haider ZAMAN",
           "raw_affiliation_strings": [
             "Department of Geology , Faculty of Science , Taibah University , Madinah , Saudi Arabia"
@@ -7431,6 +7449,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mohammed BENAAFI",
           "raw_affiliation_strings": [
             "King Fahd University for Petroleum and Minerals , Al-Dhahran , Saudi Arabia"
@@ -8635,6 +8654,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz Abdullah Al-Laboun",
           "raw_affiliation_strings": [
             "Aramco, AI-Khobar, Saudi Arabia"
@@ -8929,886 +8949,883 @@
         "https://openalex.org/W4403075142"
       ],
       "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
         "The": [
-          1,
-          27,
-          51,
-          91,
-          107,
-          213,
-          264,
-          297,
-          343,
-          370,
-          380
+          0,
+          26,
+          50,
+          90,
+          106,
+          212,
+          263,
+          296,
+          342,
+          369,
+          379
         ],
         "central": [
-          2,
-          218
+          1,
+          217
         ],
         "and": [
-          3,
-          20,
-          23,
-          44,
-          98,
-          101,
-          116,
-          127,
-          133,
-          156,
-          171,
-          186,
-          198,
-          219,
-          223,
-          280,
-          291,
-          295,
-          323,
-          340,
-          351,
-          357,
-          367,
-          387,
-          390,
-          403,
-          407
+          2,
+          19,
+          22,
+          43,
+          97,
+          100,
+          115,
+          126,
+          132,
+          155,
+          170,
+          185,
+          197,
+          218,
+          222,
+          279,
+          290,
+          294,
+          322,
+          339,
+          350,
+          356,
+          366,
+          386,
+          389,
+          402,
+          406
         ],
         "northwestern": [
-          4,
-          220
+          3,
+          219
         ],
         "region": [
-          5,
-          32,
-          222
+          4,
+          31,
+          221
         ],
         "of": [
+          5,
+          17,
+          85,
+          95,
+          111,
+          150,
+          159,
+          174,
+          178,
+          190,
+          208,
+          248,
+          275,
+          305,
+          353,
+          362,
+          395,
+          404,
+          421,
+          424,
+          427
+        ],
+        "the": [
           6,
-          18,
+          30,
+          36,
+          41,
+          44,
+          48,
+          61,
+          82,
           86,
-          96,
-          112,
+          123,
           151,
           160,
+          164,
+          168,
           175,
           179,
           191,
           209,
+          215,
+          226,
+          236,
+          246,
           249,
+          260,
+          273,
           276,
+          283,
+          288,
           306,
+          312,
+          326,
+          337,
+          348,
           354,
-          363,
+          360,
+          392,
           396,
-          405,
-          422,
-          425,
-          428
-        ],
-        "the": [
-          7,
-          31,
-          37,
-          42,
-          45,
-          49,
-          62,
-          83,
-          87,
-          124,
-          152,
-          161,
-          165,
-          169,
-          176,
-          180,
-          192,
-          210,
-          216,
-          227,
-          237,
-          247,
-          250,
-          261,
-          274,
-          277,
-          284,
-          289,
-          307,
-          313,
-          327,
-          338,
-          349,
-          355,
-          361,
-          393,
-          397,
-          410,
-          414,
-          420,
-          423
+          409,
+          413,
+          419,
+          422
         ],
         "greater": [
-          8,
-          88
+          7,
+          87
         ],
         "Arabian": [
-          9,
-          89,
-          416
+          8,
+          88,
+          415
         ],
         "basin": [
-          10,
-          40,
-          47,
-          53,
-          64,
-          221,
-          279,
-          417
+          9,
+          39,
+          46,
+          52,
+          63,
+          220,
+          278,
+          416
         ],
         "contains": [
-          11,
-          65
+          10,
+          64
         ],
         "more": [
-          12
+          11
         ],
         "than": [
-          13
+          12
         ],
         "5,000": [
-          14
+          13
         ],
         "m": [
-          15
+          14
         ],
         "(16,400": [
-          16
+          15
         ],
         "ft)": [
-          17
+          16
         ],
         "oil-": [
-          19
+          18
         ],
         "gas-prospective": [
-          21
+          20
         ],
         "clastic": [
-          22,
-          119
+          21,
+          118
         ],
         "carbonate": [
-          24
+          23
         ],
         "Paleozoic": [
-          25,
-          35,
-          242,
-          411
+          24,
+          34,
+          241,
+          410
         ],
         "sediments.": [
-          26,
-          120
+          25,
+          119
         ],
         "Hail-Rutbah": [
+          27,
+          227
+        ],
+        "arch": [
           28,
           228
         ],
-        "arch": [
-          29,
-          229
-        ],
         "divides": [
-          30
+          29
         ],
         "into": [
-          33,
-          231
+          32,
+          230
         ],
         "two": [
-          34,
-          238,
-          398
+          33,
+          237,
+          397
         ],
         "basins,": [
-          36
+          35
         ],
         "western": [
-          38,
-          251
+          37,
+          250
         ],
         "Tabuk": [
-          39,
-          52,
-          109,
-          166,
-          252,
-          356
+          38,
+          51,
+          108,
+          165,
+          251,
+          355
         ],
         "on": [
-          41,
-          48
+          40,
+          47
         ],
         "west": [
-          43
+          42
         ],
         "Widyan": [
-          46,
-          63,
-          262,
-          278,
-          358
+          45,
+          62,
+          261,
+          277,
+          357
         ],
         "east.": [
-          50
+          49
         ],
         "is": [
-          54,
-          168,
-          225,
-          244,
-          302,
-          360
-        ],
-        "filled": [
-          55
-        ],
-        "with": [
-          56,
-          337,
-          374,
-          384
-        ],
-        "Cambrian": [
-          57,
-          71
-        ],
-        "to": [
-          58,
-          266,
-          299,
-          348,
-          377
-        ],
-        "Devonian": [
-          59,
-          181
-        ],
-        "sediments,": [
-          60
-        ],
-        "whereas": [
-          61
-        ],
-        "sediments": [
-          66,
-          258
-        ],
-        "ranging": [
-          67
-        ],
-        "in": [
-          68,
-          246,
-          260,
-          273,
-          413,
-          430
-        ],
-        "age": [
-          69
-        ],
-        "from": [
-          70,
-          82,
-          409
-        ],
-        "through": [
-          72
-        ],
-        "Late": [
-          73
-        ],
-        "Permian.": [
-          74
-        ],
-        "A": [
-          75,
-          200
-        ],
-        "north-south-trending": [
-          76
-        ],
-        "Precambrian": [
-          77,
-          105,
-          316
-        ],
-        "platform": [
-          78
-        ],
-        "separates": [
-          79
-        ],
-        "these": [
-          80,
-          431
-        ],
-        "basins": [
-          81,
+          53,
+          167,
+          224,
+          243,
+          301,
           359
         ],
+        "filled": [
+          54
+        ],
+        "with": [
+          55,
+          336,
+          373,
+          383
+        ],
+        "Cambrian": [
+          56,
+          70
+        ],
+        "to": [
+          57,
+          265,
+          298,
+          347,
+          376
+        ],
+        "Devonian": [
+          58,
+          180
+        ],
+        "sediments,": [
+          59
+        ],
+        "whereas": [
+          60
+        ],
+        "sediments": [
+          65,
+          257
+        ],
+        "ranging": [
+          66
+        ],
+        "in": [
+          67,
+          245,
+          259,
+          272,
+          412,
+          429
+        ],
+        "age": [
+          68
+        ],
+        "from": [
+          69,
+          81,
+          408
+        ],
+        "through": [
+          71
+        ],
+        "Late": [
+          72
+        ],
+        "Permian.": [
+          73
+        ],
+        "A": [
+          74,
+          199
+        ],
+        "north-south-trending": [
+          75
+        ],
+        "Precambrian": [
+          76,
+          104,
+          315
+        ],
+        "platform": [
+          77
+        ],
+        "separates": [
+          78
+        ],
+        "these": [
+          79,
+          430
+        ],
+        "basins": [
+          80,
+          358
+        ],
         "eastern": [
-          84,
-          415
+          83,
+          414
         ],
         "sector": [
-          85
+          84
         ],
         "basin.": [
-          90,
-          263
+          89,
+          262
         ],
         "Cambrian-Ordovician": [
-          92
+          91
         ],
         "Saq": [
-          93
+          92
         ],
         "Sandstone,": [
-          94
+          93
         ],
         "composed": [
-          95
+          94
         ],
         "fluvial": [
-          97
+          96
         ],
         "marginal-marine": [
-          99
+          98
         ],
         "sandstones": [
-          100,
-          134,
-          150
-        ],
-        "minor": [
-          102
-        ],
-        "shales,": [
-          103
-        ],
-        "overlies": [
-          104
-        ],
-        "basement.": [
-          106
-        ],
-        "Ordovician-Silurian": [
-          108
-        ],
-        "Formation": [
-          110,
-          167,
-          270
-        ],
-        "consists": [
-          111
-        ],
-        "cyclically": [
-          113
-        ],
-        "deposited": [
-          114,
-          272
-        ],
-        "marine": [
-          115,
-          118,
-          185
-        ],
-        "marginally": [
-          117
-        ],
-        "Three": [
-          121
-        ],
-        "shale": [
-          122,
-          140,
-          144,
-          378
-        ],
-        "members,": [
-          123
-        ],
-        "Hanadir,": [
-          125
-        ],
-        "Ra’an,": [
-          126
-        ],
-        "Quasaiba,": [
-          128
-        ],
-        "are": [
-          129,
-          146,
-          334
-        ],
-        "separated": [
-          130
-        ],
-        "by": [
-          131,
-          148,
-          205,
-          283,
-          304,
-          312
-        ],
-        "siltstones": [
-          132
-        ],
-        "that": [
-          135
-        ],
-        "pinch": [
-          136
-        ],
-        "out": [
-          137
-        ],
-        "basinward": [
-          138
-        ],
-        "where": [
-          139
-        ],
-        "becomes": [
-          141
-        ],
-        "dominant.": [
-          142
-        ],
-        "These": [
-          143
-        ],
-        "members": [
-          145
-        ],
-        "covered": [
-          147,
-          282
-        ],
-        "regressive": [
+          99,
+          133,
           149
         ],
+        "minor": [
+          101
+        ],
+        "shales,": [
+          102
+        ],
+        "overlies": [
+          103
+        ],
+        "basement.": [
+          105
+        ],
+        "Ordovician-Silurian": [
+          107
+        ],
+        "Formation": [
+          109,
+          166,
+          269
+        ],
+        "consists": [
+          110
+        ],
+        "cyclically": [
+          112
+        ],
+        "deposited": [
+          113,
+          271
+        ],
+        "marine": [
+          114,
+          117,
+          184
+        ],
+        "marginally": [
+          116
+        ],
+        "Three": [
+          120
+        ],
+        "shale": [
+          121,
+          139,
+          143,
+          377
+        ],
+        "members,": [
+          122
+        ],
+        "Hanadir,": [
+          124
+        ],
+        "Ra’an,": [
+          125
+        ],
+        "Quasaiba,": [
+          127
+        ],
+        "are": [
+          128,
+          145,
+          333
+        ],
+        "separated": [
+          129
+        ],
+        "by": [
+          130,
+          147,
+          204,
+          282,
+          303,
+          311
+        ],
+        "siltstones": [
+          131
+        ],
+        "that": [
+          134
+        ],
+        "pinch": [
+          135
+        ],
+        "out": [
+          136
+        ],
+        "basinward": [
+          137
+        ],
+        "where": [
+          138
+        ],
+        "becomes": [
+          140
+        ],
+        "dominant.": [
+          141
+        ],
+        "These": [
+          142
+        ],
+        "members": [
+          144
+        ],
+        "covered": [
+          146,
+          281
+        ],
+        "regressive": [
+          148
+        ],
         "Sharawra": [
-          153
+          152
         ],
         "Member.": [
-          154
+          153
         ],
         "Uplift": [
-          155
+          154
         ],
         "erosion": [
-          157,
-          206
+          156,
+          205
         ],
         "followed": [
-          158,
-          189,
-          207
+          157,
+          188,
+          206
         ],
         "deposition": [
-          159,
-          190,
-          208,
-          243,
-          325
+          158,
+          189,
+          207,
+          242,
+          324
         ],
         "Sharawra.": [
-          162
+          161
         ],
         "Unconformably": [
-          163
+          162
         ],
         "overlying": [
-          164
+          163
         ],
         "coarse": [
-          170
+          169
         ],
         "pebbly": [
-          172
+          171
         ],
         "continental": [
-          173
+          172
         ],
         "sandstone": [
-          174,
-          375
+          173,
+          374
         ],
         "Tawil": [
-          177,
-          193
+          176,
+          192
         ],
         "Member": [
-          178
+          177
         ],
         "Jauf": [
+          181,
+          210
+        ],
+        "Formation.": [
           182,
           211
         ],
-        "Formation.": [
-          183,
-          212
-        ],
         "Alternating": [
-          184
+          183
         ],
         "nonmarine": [
-          187
+          186
         ],
         "conditions": [
-          188
+          187
         ],
         "Member,": [
-          194
+          193
         ],
         "producing": [
-          195
+          194
         ],
         "interbedded": [
-          196
+          195
         ],
         "carbonates": [
-          197,
-          305
+          196,
+          304
         ],
         "clastics.": [
-          199
+          198
         ],
         "major": [
-          201
+          200
         ],
         "regional": [
-          202
+          201
         ],
         "uplift": [
-          203,
-          214
+          202,
+          213
         ],
         "accompanied": [
-          204
+          203
         ],
         "affected": [
-          215
+          214
         ],
         "entire": [
-          217
+          216
         ],
         "it": [
-          224
+          223
         ],
         "believed": [
-          226,
-          335
+          225,
+          334
         ],
         "came": [
-          230
+          229
         ],
         "being": [
-          232
+          231
         ],
         "at": [
-          233
+          232
         ],
         "this": [
-          234
+          233
         ],
         "time,": [
-          235
+          234
         ],
         "creating": [
-          236
+          235
         ],
         "basins.": [
-          239,
-          399,
-          432
+          238,
+          398,
+          431
         ],
         "No": [
-          240
+          239
         ],
         "post-Devonian": [
-          241
+          240
         ],
         "recorded": [
-          245
+          244
         ],
         "rocks": [
-          248,
-          294
-        ],
-        "basin;": [
-          253
-        ],
-        "however,": [
-          254
-        ],
-        "thick": [
-          255,
-          364
-        ],
-        "Carboniferous-Upper": [
-          256
-        ],
-        "Permian": [
-          257,
-          268,
-          301
-        ],
-        "occur": [
-          259
-        ],
-        "Carboniferous": [
-          265
-        ],
-        "middle": [
-          267,
-          298
-        ],
-        "Berwath": [
-          269
-        ],
-        "was": [
-          271,
-          281
-        ],
-        "center": [
-          275
-        ],
-        "Unayzah": [
-          285
-        ],
-        "Formation,": [
-          286,
-          309
-        ],
-        "which": [
-          287
-        ],
-        "transgressed": [
-          288
-        ],
-        "area": [
-          290
-        ],
-        "overlapped": [
-          292
-        ],
-        "older": [
+          247,
           293
         ],
-        "paleohighs.": [
-          296
+        "basin;": [
+          252
         ],
-        "Upper": [
+        "however,": [
+          253
+        ],
+        "thick": [
+          254,
+          363
+        ],
+        "Carboniferous-Upper": [
+          255
+        ],
+        "Permian": [
+          256,
+          267,
           300
         ],
-        "represented": [
-          303
+        "occur": [
+          258
         ],
-        "Khuff": [
+        "Carboniferous": [
+          264
+        ],
+        "middle": [
+          266,
+          297
+        ],
+        "Berwath": [
+          268
+        ],
+        "was": [
+          270,
+          280
+        ],
+        "center": [
+          274
+        ],
+        "Unayzah": [
+          284
+        ],
+        "Formation,": [
+          285,
           308
         ],
+        "which": [
+          286
+        ],
+        "transgressed": [
+          287
+        ],
+        "area": [
+          289
+        ],
+        "overlapped": [
+          291
+        ],
+        "older": [
+          292
+        ],
+        "paleohighs.": [
+          295
+        ],
+        "Upper": [
+          299
+        ],
+        "represented": [
+          302
+        ],
+        "Khuff": [
+          307
+        ],
         "laid": [
-          310
+          309
         ],
         "down": [
-          311
+          310
         ],
         "transgressive": [
-          314
+          313
         ],
         "sea.": [
-          315
+          314
         ],
         "structural": [
-          317,
-          321,
-          388
+          316,
+          320,
+          387
         ],
         "features": [
-          318
+          317
         ],
         "significantly": [
-          319
+          318
         ],
         "influenced": [
-          320
+          319
         ],
         "trends": [
-          322
+          321
         ],
         "sedimentary": [
-          324
+          323
         ],
         "during": [
-          326
+          325
         ],
         "Paleozoic.": [
-          328
+          327
         ],
         "Major": [
-          329
+          328
         ],
         "stratigraphic": [
-          330
+          329
         ],
         "breaks": [
-          331
+          330
         ],
         "or": [
-          332
+          331
         ],
         "unconformities": [
-          333,
-          386
-        ],
-        "associated": [
-          336
-        ],
-        "Caledonian": [
-          339
-        ],
-        "Hercynian": [
-          341
-        ],
-        "orogenies.": [
-          342
-        ],
-        "most": [
-          344
-        ],
-        "significant": [
-          345
-        ],
-        "factor": [
-          346
-        ],
-        "relating": [
-          347
-        ],
-        "oil": [
-          350,
-          406
-        ],
-        "gas": [
-          352,
-          408
-        ],
-        "prospectiveness": [
-          353
-        ],
-        "presence": [
-          362,
-          424
-        ],
-        "alternating": [
-          365
-        ],
-        "source": [
-          366
-        ],
-        "reservoir": [
-          368
-        ],
-        "sections.": [
-          369
-        ],
-        "facies": [
-          371,
-          381
-        ],
-        "vary": [
-          372
-        ],
-        "laterally,": [
-          373
-        ],
-        "grading": [
-          376
-        ],
-        "basinward.": [
-          379
-        ],
-        "changes": [
-          382
-        ],
-        "combined": [
-          383
-        ],
-        "several": [
+          332,
           385
         ],
+        "associated": [
+          335
+        ],
+        "Caledonian": [
+          338
+        ],
+        "Hercynian": [
+          340
+        ],
+        "orogenies.": [
+          341
+        ],
+        "most": [
+          343
+        ],
+        "significant": [
+          344
+        ],
+        "factor": [
+          345
+        ],
+        "relating": [
+          346
+        ],
+        "oil": [
+          349,
+          405
+        ],
+        "gas": [
+          351,
+          407
+        ],
+        "prospectiveness": [
+          352
+        ],
+        "presence": [
+          361,
+          423
+        ],
+        "alternating": [
+          364
+        ],
+        "source": [
+          365
+        ],
+        "reservoir": [
+          367
+        ],
+        "sections.": [
+          368
+        ],
+        "facies": [
+          370,
+          380
+        ],
+        "vary": [
+          371
+        ],
+        "laterally,": [
+          372
+        ],
+        "grading": [
+          375
+        ],
+        "basinward.": [
+          378
+        ],
+        "changes": [
+          381
+        ],
+        "combined": [
+          382
+        ],
+        "several": [
+          384
+        ],
         "folding": [
-          389
+          388
         ],
         "faulting": [
-          391
+          390
         ],
         "enhance": [
-          392
+          391
         ],
         "hydrocarbon": [
-          394
+          393
         ],
         "potential": [
-          395
+          394
         ],
         "Also,": [
-          400
+          399
         ],
         "known": [
-          401
+          400
         ],
         "shows": [
-          402
+          401
         ],
         "recoveries": [
-          404
+          403
         ],
         "section": [
-          412
+          411
         ],
         "further": [
-          418
+          417
         ],
         "support": [
-          419
+          418
         ],
         "possibility": [
-          421
+          420
         ],
         "commercial": [
-          426
+          425
         ],
         "quantities": [
-          427
+          426
         ],
         "hydrocarbons": [
-          429
+          428
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2159627547",
@@ -9822,7 +9839,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9879,6 +9896,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz A. Al-Laboun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -9895,6 +9913,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "B. H. Walthall",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10127,572 +10146,569 @@
         "https://openalex.org/W2137314022"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
         "Devonian": [
-          1,
-          38,
-          143,
-          171,
-          247
-        ],
-        "rocks": [
-          2,
-          173,
-          248
-        ],
-        "in": [
-          3,
-          42,
-          83,
-          127,
-          156,
-          196,
-          206,
-          219,
-          231,
-          249
-        ],
-        "the": [
-          4,
-          24,
+          0,
           37,
-          45,
-          53,
-          57,
-          70,
-          76,
-          91,
-          95,
-          98,
-          101,
-          104,
-          108,
-          130,
-          160,
-          166,
-          179,
-          183,
-          197,
-          216,
-          223,
-          228,
-          232
-        ],
-        "Widyan": [
-          5,
-          235
-        ],
-        "and": [
-          6,
-          20,
-          64,
-          79,
-          107,
-          203,
-          234
-        ],
-        "Tabuk": [
-          7,
-          58
-        ],
-        "basins": [
-          8
-        ],
-        "of": [
-          9,
-          17,
-          56,
-          62,
-          90,
-          124,
-          138,
-          178,
-          182,
-          188,
-          200,
-          212,
-          222,
-          227,
-          237,
+          142,
+          170,
           246
         ],
+        "rocks": [
+          1,
+          172,
+          247
+        ],
+        "in": [
+          2,
+          41,
+          82,
+          126,
+          155,
+          195,
+          205,
+          218,
+          230,
+          248
+        ],
+        "the": [
+          3,
+          23,
+          36,
+          44,
+          52,
+          56,
+          69,
+          75,
+          90,
+          94,
+          97,
+          100,
+          103,
+          107,
+          129,
+          159,
+          165,
+          178,
+          182,
+          196,
+          215,
+          222,
+          227,
+          231
+        ],
+        "Widyan": [
+          4,
+          234
+        ],
+        "and": [
+          5,
+          19,
+          63,
+          78,
+          106,
+          202,
+          233
+        ],
+        "Tabuk": [
+          6,
+          57
+        ],
+        "basins": [
+          7
+        ],
+        "of": [
+          8,
+          16,
+          55,
+          61,
+          89,
+          123,
+          137,
+          177,
+          181,
+          187,
+          199,
+          211,
+          221,
+          226,
+          236,
+          245
+        ],
         "north": [
-          10
+          9
         ],
         "central": [
-          11
+          10
         ],
         "Saudi": [
+          11,
+          237
+        ],
+        "Arabia": [
           12,
           238
         ],
-        "Arabia": [
-          13,
-          239
-        ],
         "are": [
-          14,
-          94,
-          174,
-          192
+          13,
+          93,
+          173,
+          191
         ],
         "a": [
-          15,
-          142
+          14,
+          141
         ],
         "sequence": [
-          16,
-          205
+          15,
+          204
         ],
         "sandstones,": [
-          18
+          17
         ],
         "shales": [
-          19
+          18
         ],
         "limestones": [
-          21,
-          229
+          20,
+          228
         ],
         "that": [
-          22,
-          69,
-          84
+          21,
+          68,
+          83
         ],
         "comprise": [
-          23
+          22
         ],
         "Jauf": [
-          25,
-          77,
-          92,
-          161,
-          233
+          24,
+          76,
+          91,
+          160,
+          232
         ],
         "Formation.": [
-          26,
-          59,
-          169
+          25,
+          58,
+          168
         ],
         "Early": [
-          27
+          26
         ],
         "workers": [
-          28
+          27
         ],
         "assigned": [
-          29
+          28
         ],
         "member": [
-          30,
-          55,
-          113
-        ],
-        "status": [
-          31
-        ],
-        "to": [
-          32,
-          75,
-          154,
-          194,
-          254
-        ],
-        "six": [
-          33
-        ],
-        "lithic": [
-          34
-        ],
-        "units": [
-          35
-        ],
-        "within": [
-          36
-        ],
-        "and,": [
-          39
-        ],
-        "for": [
-          40,
-          145
-        ],
-        "convenience": [
-          41
-        ],
-        "mapping,": [
-          43
-        ],
-        "considered": [
-          44
-        ],
-        "lowermost": [
-          46
-        ],
-        "sandstone": [
-          47,
-          202
-        ],
-        "(the": [
-          48,
-          114
-        ],
-        "Tawil": [
-          49,
-          71
-        ],
-        "Sandstone": [
-          50
-        ],
-        "Member)": [
-          51
-        ],
-        "as": [
-          52,
-          150
-        ],
-        "uppermost": [
+          29,
           54,
           112
         ],
+        "status": [
+          30
+        ],
+        "to": [
+          31,
+          74,
+          153,
+          193,
+          253
+        ],
+        "six": [
+          32
+        ],
+        "lithic": [
+          33
+        ],
+        "units": [
+          34
+        ],
+        "within": [
+          35
+        ],
+        "and,": [
+          38
+        ],
+        "for": [
+          39,
+          144
+        ],
+        "convenience": [
+          40
+        ],
+        "mapping,": [
+          42
+        ],
+        "considered": [
+          43
+        ],
+        "lowermost": [
+          45
+        ],
+        "sandstone": [
+          46,
+          201
+        ],
+        "(the": [
+          47,
+          113
+        ],
+        "Tawil": [
+          48,
+          70
+        ],
+        "Sandstone": [
+          49
+        ],
+        "Member)": [
+          50
+        ],
+        "as": [
+          51,
+          149
+        ],
+        "uppermost": [
+          53,
+          111
+        ],
         "Recent": [
+          59,
+          135
+        ],
+        "studies": [
           60,
           136
         ],
-        "studies": [
-          61,
-          137
-        ],
         "outcrops": [
-          63,
-          139
+          62,
+          138
         ],
         "data": [
-          65
+          64
         ],
         "from": [
-          66,
-          121,
-          152
-        ],
-        "boreholes": [
-          67
-        ],
-        "show": [
-          68
-        ],
-        "is": [
-          72,
-          117,
-          162,
-          252
-        ],
-        "genetically": [
-          73
-        ],
-        "related": [
-          74
-        ],
-        "Formation": [
-          78,
-          93
-        ],
-        "should": [
-          80
-        ],
-        "be": [
-          81
-        ],
-        "included": [
-          82
-        ],
-        "formation.": [
-          85
-        ],
-        "The": [
-          86,
-          111,
-          244
-        ],
-        "other": [
-          87
-        ],
-        "five": [
-          88
-        ],
-        "members": [
-          89
-        ],
-        "Sha’iba": [
-          96
-        ],
-        "Shale,": [
-          97,
-          103
-        ],
-        "Qasr": [
-          99
-        ],
-        "Limestone,": [
-          100
-        ],
-        "Subbat": [
-          102
-        ],
-        "Hammamiyat": [
-          105
-        ],
-        "Limestone": [
-          106,
-          218
-        ],
-        "Transition": [
-          109,
-          115
-        ],
-        "Zone.": [
-          110
-        ],
-        "Zone)": [
-          116
-        ],
-        "not": [
-          118,
-          241
-        ],
-        "readily": [
-          119
-        ],
-        "discernable": [
-          120
-        ],
-        "overlying": [
-          122
-        ],
-        "beds": [
-          123,
-          187
-        ],
-        "clastic": [
-          125,
-          172
-        ],
-        "sediments": [
-          126
-        ],
-        "outcrop": [
-          128,
-          159
-        ],
-        "or": [
-          129,
-          190
-        ],
-        "subsurface": [
-          131
-        ],
-        "except": [
-          132
-        ],
-        "by": [
-          133,
-          165
-        ],
-        "fossil": [
-          134
-        ],
-        "content.": [
-          135
-        ],
-        "have": [
-          140
-        ],
-        "demonstrated": [
-          141
-        ],
-        "age": [
-          144
-        ],
-        "certain": [
-          146
-        ],
-        "sandstones": [
-          147
-        ],
-        "previously": [
-          148
-        ],
-        "regarded": [
-          149
-        ],
-        "ranging": [
+          65,
+          120,
           151
         ],
-        "post-Devonian": [
-          153
+        "boreholes": [
+          66
         ],
-        "pre-Cretaceous": [
-          155
+        "show": [
+          67
         ],
-        "age.": [
-          157
-        ],
-        "In": [
-          158
-        ],
-        "disconformably": [
-          163
-        ],
-        "overlain": [
-          164
-        ],
-        "Cretaceous": [
-          167
-        ],
-        "Wasia": [
-          168
-        ],
-        "Subsurface": [
-          170
-        ],
-        "present": [
-          175
-        ],
-        "over": [
-          176
-        ],
-        "much": [
-          177
-        ],
-        "eastern": [
-          180
-        ],
-        "portion": [
-          181
-        ],
-        "Arabian": [
-          184
-        ],
-        "Peninsula.": [
-          185
-        ],
-        "Thin": [
-          186
-        ],
-        "limestone": [
-          189
-        ],
-        "dolomite": [
-          191
-        ],
-        "known": [
-          193
-        ],
-        "occur": [
-          195
-        ],
-        "lower": [
-          198
-        ],
-        "part": [
-          199
-        ],
-        "this": [
-          201
-        ],
-        "shale": [
-          204
-        ],
-        "some": [
-          207,
-          250
-        ],
-        "contiguous": [
-          208
-        ],
-        "coastal": [
-          209
-        ],
-        "states,": [
-          210
-        ],
-        "one": [
-          211
-        ],
-        "these": [
-          213
-        ],
-        "being": [
-          214
-        ],
-        "named": [
-          215
-        ],
-        "Misfar": [
-          217,
-          224
-        ],
-        "Oman.": [
-          220
-        ],
-        "Correlation": [
-          221
-        ],
-        "with": [
-          225
-        ],
-        "either": [
-          226
-        ],
-        "found": [
-          230
-        ],
-        "Basins": [
-          236
-        ],
-        "has": [
-          240
-        ],
-        "been": [
-          242
-        ],
-        "established.": [
-          243
-        ],
-        "absence": [
-          245
-        ],
-        "areas": [
+        "is": [
+          71,
+          116,
+          161,
           251
         ],
+        "genetically": [
+          72
+        ],
+        "related": [
+          73
+        ],
+        "Formation": [
+          77,
+          92
+        ],
+        "should": [
+          79
+        ],
+        "be": [
+          80
+        ],
+        "included": [
+          81
+        ],
+        "formation.": [
+          84
+        ],
+        "The": [
+          85,
+          110,
+          243
+        ],
+        "other": [
+          86
+        ],
+        "five": [
+          87
+        ],
+        "members": [
+          88
+        ],
+        "Sha’iba": [
+          95
+        ],
+        "Shale,": [
+          96,
+          102
+        ],
+        "Qasr": [
+          98
+        ],
+        "Limestone,": [
+          99
+        ],
+        "Subbat": [
+          101
+        ],
+        "Hammamiyat": [
+          104
+        ],
+        "Limestone": [
+          105,
+          217
+        ],
+        "Transition": [
+          108,
+          114
+        ],
+        "Zone.": [
+          109
+        ],
+        "Zone)": [
+          115
+        ],
+        "not": [
+          117,
+          240
+        ],
+        "readily": [
+          118
+        ],
+        "discernable": [
+          119
+        ],
+        "overlying": [
+          121
+        ],
+        "beds": [
+          122,
+          186
+        ],
+        "clastic": [
+          124,
+          171
+        ],
+        "sediments": [
+          125
+        ],
+        "outcrop": [
+          127,
+          158
+        ],
+        "or": [
+          128,
+          189
+        ],
+        "subsurface": [
+          130
+        ],
+        "except": [
+          131
+        ],
+        "by": [
+          132,
+          164
+        ],
+        "fossil": [
+          133
+        ],
+        "content.": [
+          134
+        ],
+        "have": [
+          139
+        ],
+        "demonstrated": [
+          140
+        ],
+        "age": [
+          143
+        ],
+        "certain": [
+          145
+        ],
+        "sandstones": [
+          146
+        ],
+        "previously": [
+          147
+        ],
+        "regarded": [
+          148
+        ],
+        "ranging": [
+          150
+        ],
+        "post-Devonian": [
+          152
+        ],
+        "pre-Cretaceous": [
+          154
+        ],
+        "age.": [
+          156
+        ],
+        "In": [
+          157
+        ],
+        "disconformably": [
+          162
+        ],
+        "overlain": [
+          163
+        ],
+        "Cretaceous": [
+          166
+        ],
+        "Wasia": [
+          167
+        ],
+        "Subsurface": [
+          169
+        ],
+        "present": [
+          174
+        ],
+        "over": [
+          175
+        ],
+        "much": [
+          176
+        ],
+        "eastern": [
+          179
+        ],
+        "portion": [
+          180
+        ],
+        "Arabian": [
+          183
+        ],
+        "Peninsula.": [
+          184
+        ],
+        "Thin": [
+          185
+        ],
+        "limestone": [
+          188
+        ],
+        "dolomite": [
+          190
+        ],
+        "known": [
+          192
+        ],
+        "occur": [
+          194
+        ],
+        "lower": [
+          197
+        ],
+        "part": [
+          198
+        ],
+        "this": [
+          200
+        ],
+        "shale": [
+          203
+        ],
+        "some": [
+          206,
+          249
+        ],
+        "contiguous": [
+          207
+        ],
+        "coastal": [
+          208
+        ],
+        "states,": [
+          209
+        ],
+        "one": [
+          210
+        ],
+        "these": [
+          212
+        ],
+        "being": [
+          213
+        ],
+        "named": [
+          214
+        ],
+        "Misfar": [
+          216,
+          223
+        ],
+        "Oman.": [
+          219
+        ],
+        "Correlation": [
+          220
+        ],
+        "with": [
+          224
+        ],
+        "either": [
+          225
+        ],
+        "found": [
+          229
+        ],
+        "Basins": [
+          235
+        ],
+        "has": [
+          239
+        ],
+        "been": [
+          241
+        ],
+        "established.": [
+          242
+        ],
+        "absence": [
+          244
+        ],
+        "areas": [
+          250
+        ],
         "due": [
-          253
+          252
         ],
         "non-deposition": [
-          255
+          254
         ],
         "on": [
-          256
+          255
         ],
         "regional": [
-          257
+          256
         ],
         "tectonic": [
-          258
+          257
         ],
         "highs": [
-          259
+          258
         ],
         "and/or": [
-          260
+          259
         ],
         "local": [
-          261
+          260
         ],
         "erosion.": [
-          262
+          261
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1831163486",
@@ -10718,7 +10734,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10755,9 +10771,11 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I185163786",
+          "host_organization_name": "King Abdulaziz University",
+          "host_organization_lineage": [
+            "https://openalex.org/I185163786"
+          ],
           "host_organization_lineage_names": [],
           "type": "journal"
         },
@@ -10797,6 +10815,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "ABDULAZIZ AL-LABOUN",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10989,9 +11008,11 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I185163786",
+            "host_organization_name": "King Abdulaziz University",
+            "host_organization_lineage": [
+              "https://openalex.org/I185163786"
+            ],
             "host_organization_lineage_names": [],
             "type": "journal"
           },
@@ -11040,7 +11061,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11126,6 +11147,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz A. Al-Laboun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12076,6 +12098,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Abdulaziz A. Al-Laboun",
           "raw_affiliation_strings": [],
           "raw_orcid": null,

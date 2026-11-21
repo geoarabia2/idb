@@ -380,8 +380,8 @@
       "title": "Fractionation of grain size in terrestrial sediment routing systems",
       "display_name": "Fractionation of grain size in terrestrial sediment routing systems",
       "alternate_titles": [],
-      "publication_year": 2015,
-      "publication_date": "2015-11-30",
+      "publication_year": 2016,
+      "publication_date": "2016-01-05",
       "ids": {
         "openalex": "https://openalex.org/W2181906270",
         "doi": "https://doi.org/10.1111/bre.12172",
@@ -474,6 +474,7 @@
             "GB"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Philip A. Allen",
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College, London, UK"
@@ -514,6 +515,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "GTT Division, EXP ARC, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -554,6 +556,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mitchall D’Arcy",
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College, London, UK"
@@ -594,6 +597,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Duna C. Roda‐Boluda",
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College, London, UK"
@@ -634,6 +638,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alexander C. Whittaker",
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College, London, UK"
@@ -674,6 +679,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Robert A. Duller",
           "raw_affiliation_strings": [
             "Department of Earth, Ocean and Ecological Sciences, University of Liverpool, Liverpool, UK"
@@ -725,6 +731,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John J. Armitage",
           "raw_affiliation_strings": [
             "Department of Earth Sciences, Royal Holloway College, University of London, Egham, Surrey, UK"
@@ -756,14 +763,14 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 2.3965,
+      "fwci": 4.1382,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.85845712,
+        "value": 0.93442488,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 87,
@@ -1098,8 +1105,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -1172,721 +1179,718 @@
       ],
       "abstract_inverted_index": {
         "80": [
-          244
-        ],
-        "Abstract": [
-          0
+          243
         ],
         "Sediment": [
-          1
+          0
         ],
         "is": [
-          2,
-          18,
-          199,
-          263,
-          332
+          1,
+          17,
+          198,
+          262,
+          331
         ],
         "fractionated": [
-          3
+          2
         ],
         "by": [
-          4,
-          46,
-          202
+          3,
+          45,
+          201
         ],
         "size": [
-          5,
-          24,
-          49,
-          81,
-          105,
-          161,
-          186,
-          287,
-          298
+          4,
+          23,
+          48,
+          80,
+          104,
+          160,
+          185,
+          286,
+          297
         ],
         "during": [
-          6
+          5
         ],
         "its": [
-          7
+          6
         ],
         "cascade": [
-          8
+          7
         ],
         "from": [
+          8,
+          53,
+          136,
+          174,
+          245,
+          290,
+          321
+        ],
+        "source": [
           9,
-          54,
-          137,
-          175,
-          246,
+          57,
           291,
           322
         ],
-        "source": [
-          10,
-          58,
-          292,
-          323
-        ],
         "to": [
-          11,
-          126,
-          141,
-          163,
-          243,
-          294,
-          302,
-          325,
-          340
+          10,
+          125,
+          140,
+          162,
+          242,
+          293,
+          301,
+          324,
+          339
         ],
         "sink": [
-          12
+          11
         ],
         "in": [
-          13,
-          116,
-          124,
-          265,
-          284,
-          337
+          12,
+          115,
+          123,
+          264,
+          283,
+          336
         ],
         "sediment": [
-          14,
-          27,
-          88,
-          128,
-          195,
-          320
+          13,
+          26,
+          87,
+          127,
+          194,
+          319
         ],
         "routing": [
-          15,
-          224
+          14,
+          223
         ],
         "systems.": [
-          16
+          15
         ],
         "It": [
-          17
+          16
         ],
         "anticipated,": [
-          19
+          18
         ],
         "therefore,": [
-          20
+          19
         ],
         "that": [
+          20,
+          61,
+          108
+        ],
+        "the": [
           21,
+          55,
+          74,
+          78,
+          98,
+          102,
+          131,
+          137,
+          149,
+          154,
+          157,
+          163,
+          175,
+          183,
+          202,
+          209,
+          219,
+          226,
+          229,
+          246,
+          250,
+          265,
+          269,
+          280
+        ],
+        "grain": [
+          22,
+          47,
+          285
+        ],
+        "distribution": [
+          24,
+          71,
+          81,
+          105,
+          186
+        ],
+        "of": [
+          25,
+          34,
+          51,
+          66,
+          77,
+          82,
+          101,
+          106,
+          113,
+          134,
+          146,
+          156,
+          172,
+          180,
+          182,
+          187,
+          225,
+          240,
+          268,
+          276,
+          308,
+          312,
+          318
+        ],
+        "will": [
+          27
+        ],
+        "undergo": [
+          28
+        ],
+        "down‐system": [
+          29,
+          316
+        ],
+        "changes": [
+          30
+        ],
+        "as": [
+          31,
+          95,
+          97,
+          169
+        ],
+        "a": [
+          32,
+          121,
+          170,
+          214,
+          274,
+          305,
+          332
+        ],
+        "result": [
+          33
+        ],
+        "fluvial": [
+          35
+        ],
+        "sorting": [
+          36
+        ],
+        "processes": [
+          37
+        ],
+        "and": [
+          38,
+          88,
+          166,
+          204,
+          231,
+          287,
+          328,
+          330
+        ],
+        "selective": [
+          39,
+          132
+        ],
+        "deposition.": [
+          40
+        ],
+        "We": [
+          41
+        ],
+        "assess": [
+          42
+        ],
+        "this": [
+          43
+        ],
+        "hypothesis": [
+          44
+        ],
+        "comparing": [
+          46
+        ],
+        "statistical": [
+          49,
+          313
+        ],
+        "properties": [
+          50
+        ],
+        "samples": [
+          52
+        ],
+        "within": [
+          54
+        ],
+        "erosional": [
+          56
+        ],
+        "region": [
+          58,
+          292
+        ],
+        "with": [
+          59,
+          190,
+          255
+        ],
+        "those": [
+          60
+        ],
+        "have": [
           62,
           109
         ],
-        "the": [
-          22,
-          56,
-          75,
-          79,
-          99,
-          103,
-          132,
-          138,
-          150,
-          155,
-          158,
-          164,
-          176,
-          184,
-          203,
-          210,
-          220,
-          227,
-          230,
-          247,
-          251,
-          266,
-          270,
-          281
-        ],
-        "grain": [
-          23,
-          48,
-          286
-        ],
-        "distribution": [
-          25,
-          72,
-          82,
-          106,
-          187
-        ],
-        "of": [
-          26,
-          35,
-          52,
-          67,
-          78,
-          83,
-          102,
-          107,
-          114,
-          135,
-          147,
-          157,
-          173,
-          181,
-          183,
-          188,
-          226,
-          241,
-          269,
-          277,
-          309,
-          313,
-          319
-        ],
-        "will": [
-          28
-        ],
-        "undergo": [
-          29
-        ],
-        "down‐system": [
-          30,
-          317
-        ],
-        "changes": [
-          31
-        ],
-        "as": [
-          32,
-          96,
-          98,
-          170
-        ],
-        "a": [
-          33,
-          122,
-          171,
-          215,
-          275,
-          306,
-          333
-        ],
-        "result": [
-          34
-        ],
-        "fluvial": [
-          36
-        ],
-        "sorting": [
-          37
-        ],
-        "processes": [
-          38
-        ],
-        "and": [
-          39,
-          89,
-          167,
-          205,
-          232,
-          288,
-          329,
-          331
-        ],
-        "selective": [
-          40,
-          133
-        ],
-        "deposition.": [
-          41
-        ],
-        "We": [
-          42
-        ],
-        "assess": [
-          43
-        ],
-        "this": [
-          44
-        ],
-        "hypothesis": [
-          45
-        ],
-        "comparing": [
-          47
-        ],
-        "statistical": [
-          50,
-          314
-        ],
-        "properties": [
-          51
-        ],
-        "samples": [
-          53
-        ],
-        "within": [
-          55
-        ],
-        "erosional": [
-          57
-        ],
-        "region": [
-          59,
-          293
-        ],
-        "with": [
-          60,
-          191,
-          256
-        ],
-        "those": [
-          61
-        ],
-        "have": [
+        "undergone": [
           63,
           110
         ],
-        "undergone": [
-          64,
-          111
-        ],
         "different": [
-          65
+          64
         ],
         "amounts": [
-          66,
-          113
+          65,
+          112
         ],
         "transport.": [
-          68
+          67
         ],
         "A": [
-          69,
-          145,
-          260
+          68,
+          144,
+          259
         ],
         "truncated": [
+          69,
+          205,
+          232
+        ],
+        "Pareto": [
           70,
+          118,
           206,
           233
         ],
-        "Pareto": [
-          71,
-          119,
-          207,
-          234
-        ],
         "describes": [
-          73
+          72
         ],
         "well": [
-          74,
-          97,
-          201
+          73,
+          96,
+          200
         ],
         "coarser": [
+          75,
+          99
+        ],
+        "half": [
           76,
           100
         ],
-        "half": [
-          77,
-          101
-        ],
         "clast": [
-          80,
-          104,
-          160
+          79,
+          103,
+          159
         ],
         "regolith,": [
-          84
+          83
         ],
         "coarse": [
-          85
+          84
         ],
         "channel": [
-          86
+          85
         ],
         "bed": [
-          87
+          86
         ],
         "proximal": [
-          90
+          89
         ],
         "debris": [
-          91
+          90
         ],
         "flows": [
-          92
+          91
         ],
         "(particularly": [
-          93
+          92
         ],
         "their": [
-          94
+          93
         ],
         "levees),": [
-          95
+          94
         ],
         "gravels": [
-          108,
-          268
+          107,
+          267
         ],
         "considerable": [
-          112
+          111
         ],
         "transport": [
-          115,
-          129,
+          114,
+          128,
+          257,
+          309
+        ],
+        "rivers.": [
+          116
+        ],
+        "The": [
+          117,
+          178
+        ],
+        "shape": [
+          119
+        ],
+        "parameter": [
+          120
+        ],
+        "evolves": [
+          122
+        ],
+        "response": [
+          124
+        ],
+        "mobilization,": [
+          126
+        ],
+        "and,": [
+          129
+        ],
+        "importantly,": [
+          130
+        ],
+        "extraction": [
+          133
+        ],
+        "particles": [
+          135
+        ],
+        "surface": [
+          138
+        ],
+        "flow": [
+          139
+        ],
+        "build": [
+          141
+        ],
+        "underlying": [
+          142
+        ],
+        "stratigraphy.": [
+          143
+        ],
+        "goodness": [
+          145,
+          179
+        ],
+        "fit": [
+          147,
+          181,
+          252
+        ],
+        "statistic,": [
+          148
+        ],
+        "Kolmogorov–Smirnov": [
+          150
+        ],
+        "vertical": [
+          151
+        ],
+        "difference,": [
+          152
+        ],
+        "illustrates": [
+          153
+        ],
+        "closeness": [
+          155
+        ],
+        "observed": [
+          158
+        ],
+        "distributions": [
+          161,
+          298
+        ],
+        "Pareto,": [
+          164
+        ],
+        "Weibull": [
+          165,
+          211,
+          251
+        ],
+        "log‐normal": [
+          167,
+          203,
+          230
+        ],
+        "models": [
+          168,
+          234,
+          314
+        ],
+        "function": [
+          171
+        ],
+        "distance": [
+          173,
+          275
+        ],
+        "depositional": [
+          176,
+          247,
+          294
+        ],
+        "apex.": [
+          177
+        ],
+        "particle": [
+          184,
+          296
+        ],
+        "regolith": [
+          188
+        ],
+        "varies": [
+          189
+        ],
+        "bedrock": [
+          191
+        ],
+        "geology.": [
+          192
+        ],
+        "Bedload": [
+          193
+        ],
+        "at": [
+          195
+        ],
+        "catchment": [
+          196
+        ],
+        "outlets": [
+          197
+        ],
+        "fitted": [
+          199
+        ],
+        "models,": [
+          207
+        ],
+        "whereas": [
+          208,
+          249
+        ],
+        "exponential": [
+          210
+        ],
+        "model": [
+          212
+        ],
+        "provides": [
+          213
+        ],
+        "less": [
+          215
+        ],
+        "good": [
+          216
+        ],
+        "fit.": [
+          217
+        ],
+        "In": [
+          218
+        ],
+        "Eocene": [
+          220
+        ],
+        "Escanilla": [
+          221
+        ],
+        "palaeo‐sediment": [
+          222
+        ],
+        "system": [
+          224
+        ],
+        "south‐central": [
+          227
+        ],
+        "Pyrenees,": [
+          228
+        ],
+        "provide": [
+          235
+        ],
+        "excellent": [
+          236
+        ],
+        "fits": [
+          237
+        ],
+        "for": [
+          238
+        ],
+        "distances": [
+          239
+        ],
+        "up": [
+          241
+        ],
+        "km": [
+          244
+        ],
+        "apex,": [
+          248
+        ],
+        "progressively": [
+          253
+        ],
+        "worsens": [
+          254
+        ],
+        "increasing": [
+          256
+        ],
+        "distance.": [
           258,
           310
         ],
-        "rivers.": [
-          117
-        ],
-        "The": [
-          118,
-          179
-        ],
-        "shape": [
-          120
-        ],
-        "parameter": [
-          121
-        ],
-        "evolves": [
-          123
-        ],
-        "response": [
-          125
-        ],
-        "mobilization,": [
-          127
-        ],
-        "and,": [
-          130
-        ],
-        "importantly,": [
-          131
-        ],
-        "extraction": [
-          134
-        ],
-        "particles": [
-          136
-        ],
-        "surface": [
-          139
-        ],
-        "flow": [
-          140
-        ],
-        "build": [
-          142
-        ],
-        "underlying": [
-          143
-        ],
-        "stratigraphy.": [
-          144
-        ],
-        "goodness": [
-          146,
-          180
-        ],
-        "fit": [
-          148,
-          182,
-          253
-        ],
-        "statistic,": [
-          149
-        ],
-        "Kolmogorov–Smirnov": [
-          151
-        ],
-        "vertical": [
-          152
-        ],
-        "difference,": [
-          153
-        ],
-        "illustrates": [
-          154
-        ],
-        "closeness": [
-          156
-        ],
-        "observed": [
-          159
-        ],
-        "distributions": [
-          162,
-          299
-        ],
-        "Pareto,": [
-          165
-        ],
-        "Weibull": [
-          166,
-          212,
-          252
-        ],
-        "log‐normal": [
-          168,
-          204,
-          231
-        ],
-        "models": [
-          169,
-          235,
-          315
-        ],
-        "function": [
-          172
-        ],
-        "distance": [
-          174,
-          276
-        ],
-        "depositional": [
-          177,
-          248,
-          295
-        ],
-        "apex.": [
-          178
-        ],
-        "particle": [
-          185,
-          297
-        ],
-        "regolith": [
-          189
-        ],
-        "varies": [
-          190
-        ],
-        "bedrock": [
-          192
-        ],
-        "geology.": [
-          193
-        ],
-        "Bedload": [
-          194
-        ],
-        "at": [
-          196
-        ],
-        "catchment": [
-          197
-        ],
-        "outlets": [
-          198
-        ],
-        "fitted": [
-          200
-        ],
-        "models,": [
-          208
-        ],
-        "whereas": [
-          209,
-          250
-        ],
-        "exponential": [
-          211
-        ],
-        "model": [
-          213
-        ],
-        "provides": [
-          214
-        ],
-        "less": [
-          216
-        ],
-        "good": [
-          217
-        ],
-        "fit.": [
-          218
-        ],
-        "In": [
-          219
-        ],
-        "Eocene": [
-          221
-        ],
-        "Escanilla": [
-          222
-        ],
-        "palaeo‐sediment": [
-          223
-        ],
-        "system": [
-          225
-        ],
-        "south‐central": [
-          228
-        ],
-        "Pyrenees,": [
-          229
-        ],
-        "provide": [
-          236
-        ],
-        "excellent": [
-          237
-        ],
-        "fits": [
-          238
-        ],
-        "for": [
-          239
-        ],
-        "distances": [
-          240
-        ],
-        "up": [
-          242
-        ],
-        "km": [
-          245
-        ],
-        "apex,": [
-          249
-        ],
-        "progressively": [
-          254
-        ],
-        "worsens": [
-          255
-        ],
-        "increasing": [
-          257
-        ],
-        "distance.": [
-          259,
-          311
-        ],
         "similar": [
-          261
+          260
         ],
         "trend": [
-          262
+          261
         ],
         "found": [
-          264
+          263
         ],
         "Miocene–Pliocene": [
-          267
+          266
         ],
         "Nebraskan": [
-          271
+          270
         ],
         "Great": [
-          272
+          271
         ],
         "Plains": [
-          273
+          272
         ],
         "over": [
-          274,
-          305
-        ],
-        ">300": [
-          278
-        ],
-        "km.": [
-          279
-        ],
-        "Despite": [
-          280
-        ],
-        "large": [
-          282
-        ],
-        "fractionation": [
-          283,
-          318
-        ],
-        "mean": [
-          285
-        ],
-        "gravel": [
-          289
-        ],
-        "percentage": [
-          290
-        ],
-        "sink,": [
-          296
-        ],
-        "therefore": [
-          300
-        ],
-        "appear": [
-          301
-        ],
-        "maintain": [
-          303
-        ],
-        "log‐normality": [
+          273,
           304
         ],
+        ">300": [
+          277
+        ],
+        "km.": [
+          278
+        ],
+        "Despite": [
+          279
+        ],
+        "large": [
+          281
+        ],
+        "fractionation": [
+          282,
+          317
+        ],
+        "mean": [
+          284
+        ],
+        "gravel": [
+          288
+        ],
+        "percentage": [
+          289
+        ],
+        "sink,": [
+          295
+        ],
+        "therefore": [
+          299
+        ],
+        "appear": [
+          300
+        ],
+        "maintain": [
+          302
+        ],
+        "log‐normality": [
+          303
+        ],
         "wide": [
-          307
+          306
         ],
         "range": [
-          308
+          307
         ],
         "Use": [
-          312
+          311
         ],
         "enables": [
-          316
+          315
         ],
         "released": [
-          321
+          320
         ],
         "regions": [
-          324
+          323
         ],
         "be": [
-          326
+          325
         ],
         "better": [
-          327
+          326
         ],
         "understood": [
-          328
+          327
         ],
         "predicted": [
-          330
+          329
         ],
         "potentially": [
-          334
+          333
         ],
         "valuable": [
-          335
+          334
         ],
         "tool": [
-          336
+          335
         ],
         "source‐to‐sink": [
-          338
+          337
         ],
         "approaches": [
-          339
+          338
         ],
         "basin": [
-          341
+          340
         ],
         "analysis.": [
-          342
+          341
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2181906270",
@@ -1901,11 +1905,11 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2023,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2022,
@@ -1925,11 +1929,11 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2016,
@@ -1940,7 +1944,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2044,6 +2048,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -2084,6 +2089,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mustafa A. Al Ibrahim",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
@@ -2122,6 +2128,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Christian Scheibe",
           "raw_affiliation_strings": [
             "Saudi Aramco, Dhahran, Saudi Arabia"
@@ -2162,6 +2169,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Neil Craigie",
           "raw_affiliation_strings": [
             "Saudi Aramco, Dhahran, Saudi Arabia"
@@ -2196,12 +2204,12 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 4.0487,
+      "fwci": 3.9721,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.95352782,
+        "value": 0.95196861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2502,8 +2510,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -3323,6 +3331,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philip A. Allen",
           "raw_affiliation_strings": [
             "1. Department of Earth Science and Engineering, Imperial College, South Kensington Campus, London SW7 2AZ, United Kingdom"
@@ -3374,6 +3383,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "John J. Armitage",
           "raw_affiliation_strings": [
             "2. Department of Earth Sciences, Royal Holloway College, University of London, Egham, Surrey TW20 0EX, United Kingdom"
@@ -3415,6 +3425,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alexander C. Whittaker",
           "raw_affiliation_strings": [
             "1. Department of Earth Science and Engineering, Imperial College, South Kensington Campus, London SW7 2AZ, United Kingdom"
@@ -3455,6 +3466,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "3. Geological Technology Team Division, Exploration and Petroleum Engineering Center–Advanced Research Center (EXPEC ARC), Saudi Aramco, Dhahran 31311, Saudi Arabia"
@@ -3495,6 +3507,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Duna Roda-Boluda",
           "raw_affiliation_strings": [
             "1. Department of Earth Science and Engineering, Imperial College, South Kensington Campus, London SW7 2AZ, United Kingdom"
@@ -3535,6 +3548,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Mitchall D’Arcy",
           "raw_affiliation_strings": [
             "1. Department of Earth Science and Engineering, Imperial College, South Kensington Campus, London SW7 2AZ, United Kingdom"
@@ -3557,12 +3571,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1652,
+      "fwci": 3.1589,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.89983845,
+        "value": 0.89906303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3932,8 +3946,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -4424,19 +4438,23 @@
           "cited_by_count": 1
         },
         {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
           "year": 2017,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2016,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2015,
-          "cited_by_count": 2
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4550,6 +4568,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College, South Kensington Campus, London SW7 2AZ, UK",
@@ -4608,6 +4627,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Andrew Carter",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Birkbeck College, University of London, Malet Street, London WC1E 7HX, UK"
@@ -4649,6 +4669,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Alexander C. Whittaker",
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College, South Kensington Campus, London SW7 2AZ, UK"
@@ -4689,6 +4710,7 @@
             "GB"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Philip A. Allen",
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College, South Kensington Campus, London SW7 2AZ, UK"
@@ -4711,12 +4733,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7593,
+      "fwci": 1.7683,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.81621896,
+        "value": 0.81596587,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5093,8 +5115,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -5195,7 +5217,6 @@
         "https://openalex.org/W2068244503",
         "https://openalex.org/W4322011275",
         "https://openalex.org/W2735446527",
-        "https://openalex.org/W4220925290",
         "https://openalex.org/W2996938968",
         "https://openalex.org/W2068892745"
       ],
@@ -5817,7 +5838,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5921,6 +5942,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "Saudi Aramco 1 1 Geological Technology Division, Exploration and Petroleum Engineering Center – Advanced Research Center, , Dhahran, Saudi Arabia; nikolaos.michael@aramco.com"
@@ -5961,6 +5983,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Neil W. Craigie",
           "raw_affiliation_strings": [
             "Saudi Aramco 2 2 Geological Operations Department, , Dhahran, Saudi Arabia; neil.craigie@aramco.com"
@@ -5985,18 +6008,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1472,
+      "fwci": 1.1357,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.69992129,
+        "value": 0.69714098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 86,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "105",
@@ -6245,8 +6268,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -6291,584 +6314,581 @@
       ],
       "abstract_inverted_index": {
         "50": [
-          45
+          44
         ],
         "250": [
-          89
+          88
         ],
         "300": [
-          91
+          90
         ],
         "832": [
-          59
-        ],
-        "ABSTRACT": [
-          0
+          58
         ],
         "A": [
-          1,
-          174
+          0,
+          173
         ],
         "new": [
-          2
+          1
         ],
         "method": [
-          3
+          2
         ],
         "is": [
-          4,
-          105,
-          135,
-          237
+          3,
+          104,
+          134,
+          236
         ],
         "presented": [
-          5
+          4
         ],
         "to": [
-          6,
-          17,
-          90,
-          102,
-          111,
-          129,
-          139,
-          168,
-          202
+          5,
+          16,
+          89,
+          101,
+          110,
+          128,
+          138,
+          167,
+          201
         ],
         "identify": [
-          7,
-          140
+          6,
+          139
         ],
         "chemostratigraphic": [
-          8,
-          113,
-          190,
-          214
+          7,
+          112,
+          189,
+          213
         ],
         "zones": [
-          9,
-          205
+          8,
+          204
         ],
         "by": [
-          10
+          9
         ],
         "applying": [
-          11
+          10
         ],
         "principal": [
-          12
+          11
         ],
         "component": [
-          13
+          12
         ],
         "(PC)": [
-          14
+          13
         ],
         "analysis": [
-          15
+          14
         ],
         "and": [
-          16,
-          36,
-          61,
-          85,
-          108,
-          155,
-          184,
-          212,
-          224
+          15,
+          35,
+          60,
+          84,
+          107,
+          154,
+          183,
+          211,
+          223
         ],
         "interpret": [
-          18
+          17
         ],
         "geological": [
-          19,
-          157
+          18,
+          156
         ],
         "boundaries": [
-          20,
-          180,
-          185,
-          215,
-          222
+          19,
+          179,
+          184,
+          214,
+          221
         ],
         "based": [
-          21
+          20
         ],
         "on": [
-          22,
-          192
+          21,
+          191
         ],
         "PC": [
-          23,
-          26,
-          125,
-          144,
-          183,
-          198,
-          211,
-          228
+          22,
+          25,
+          124,
+          143,
+          182,
+          197,
+          210,
+          227
         ],
         "curves.": [
-          24
+          23
         ],
         "The": [
-          25,
-          77,
-          143,
-          207
+          24,
+          76,
+          142,
+          206
         ],
         "data": [
-          27,
-          42
+          26,
+          41
         ],
         "were": [
-          28,
-          64,
-          244
+          27,
+          63,
+          243
         ],
         "calculated": [
-          29
+          28
         ],
         "using": [
-          30,
-          121,
-          182
+          29,
+          120,
+          181
         ],
         "inductively": [
+          30,
+          36
+        ],
+        "coupled": [
           31,
           37
         ],
-        "coupled": [
-          32,
-          38
-        ],
         "plasma–optical": [
-          33
+          32
         ],
         "emission": [
-          34
+          33
         ],
         "spectrometry": [
-          35
+          34
         ],
         "plasma–mass": [
-          39
+          38
         ],
         "spectrometry,": [
-          40
+          39
         ],
         "with": [
-          41,
-          88
-        ],
-        "acquired": [
-          43
-        ],
-        "for": [
-          44,
-          83,
-          94,
-          137
-        ],
-        "chemical": [
-          46
-        ],
-        "elements": [
-          47,
-          84,
-          154
-        ],
-        "in": [
-          48,
-          148,
-          161,
-          170,
-          246
-        ],
-        "the": [
-          49,
-          53,
-          70,
-          193,
-          203,
-          233
-        ],
-        "range": [
-          50
-        ],
-        "Na–U.": [
-          51
-        ],
-        "In": [
-          52
-        ],
-        "present": [
-          54
-        ],
-        "study,": [
-          55,
-          163
-        ],
-        "a": [
-          56,
-          106,
-          123
-        ],
-        "total": [
-          57
-        ],
-        "of": [
-          58,
-          118,
-          153,
-          238
-        ],
-        "core": [
-          60
-        ],
-        "cuttings": [
-          62
-        ],
-        "samples": [
-          63
-        ],
-        "analyzed": [
-          65
-        ],
-        "from": [
-          66,
-          186
-        ],
-        "four": [
-          67
-        ],
-        "wells": [
-          68
-        ],
-        "penetrating": [
-          69
-        ],
-        "Cretaceous": [
-          71
-        ],
-        "Wasia": [
-          72
-        ],
-        "Formation,": [
-          73
-        ],
-        "southeastern": [
-          74
-        ],
-        "Saudi": [
-          75
-        ],
-        "Arabia.": [
-          76
-        ],
-        "conventional": [
-          78,
-          189,
-          204,
-          213,
-          221
-        ],
-        "workflow": [
-          79
-        ],
-        "involves": [
-          80
-        ],
-        "plotting": [
-          81
-        ],
-        "profiles": [
-          82,
-          92
-        ],
-        "elemental": [
-          86
-        ],
-        "ratios,": [
+          40,
           87
         ],
-        "produced": [
-          93
+        "acquired": [
+          42
         ],
-        "each": [
-          95
-        ],
-        "study": [
-          96,
-          191
-        ],
-        "section.": [
-          97
-        ],
-        "With": [
-          98
-        ],
-        "so": [
-          99
-        ],
-        "many": [
-          100
-        ],
-        "variables": [
-          101
-        ],
-        "consider,": [
-          103
-        ],
-        "it": [
-          104,
-          134
-        ],
-        "challenging": [
-          107
-        ],
-        "time-consuming": [
-          109
-        ],
-        "process": [
-          110
-        ],
-        "produce": [
-          112
-        ],
-        "frameworks,": [
-          114
-        ],
-        "requiring": [
-          115
-        ],
-        "expert": [
-          116
-        ],
-        "knowledge": [
-          117
-        ],
-        "chemostratigraphy.": [
-          119
-        ],
-        "By": [
-          120
-        ],
-        "only": [
-          122
-        ],
-        "few": [
-          124
-        ],
-        "curves,": [
-          126
-        ],
-        "as": [
-          127
-        ],
-        "opposed": [
-          128
-        ],
-        "element": [
-          130
-        ],
-        "or": [
-          131
-        ],
-        "ratio": [
-          132
-        ],
-        "profiles,": [
-          133
-        ],
-        "easier": [
+        "for": [
+          43,
+          82,
+          93,
           136
         ],
+        "chemical": [
+          45
+        ],
+        "elements": [
+          46,
+          83,
+          153
+        ],
+        "in": [
+          47,
+          147,
+          160,
+          169,
+          245
+        ],
+        "the": [
+          48,
+          52,
+          69,
+          192,
+          202,
+          232
+        ],
+        "range": [
+          49
+        ],
+        "Na–U.": [
+          50
+        ],
+        "In": [
+          51
+        ],
+        "present": [
+          53
+        ],
+        "study,": [
+          54,
+          162
+        ],
+        "a": [
+          55,
+          105,
+          122
+        ],
+        "total": [
+          56
+        ],
+        "of": [
+          57,
+          117,
+          152,
+          237
+        ],
+        "core": [
+          59
+        ],
+        "cuttings": [
+          61
+        ],
+        "samples": [
+          62
+        ],
+        "analyzed": [
+          64
+        ],
+        "from": [
+          65,
+          185
+        ],
+        "four": [
+          66
+        ],
+        "wells": [
+          67
+        ],
+        "penetrating": [
+          68
+        ],
+        "Cretaceous": [
+          70
+        ],
+        "Wasia": [
+          71
+        ],
+        "Formation,": [
+          72
+        ],
+        "southeastern": [
+          73
+        ],
+        "Saudi": [
+          74
+        ],
+        "Arabia.": [
+          75
+        ],
+        "conventional": [
+          77,
+          188,
+          203,
+          212,
+          220
+        ],
+        "workflow": [
+          78
+        ],
+        "involves": [
+          79
+        ],
+        "plotting": [
+          80
+        ],
+        "profiles": [
+          81,
+          91
+        ],
+        "elemental": [
+          85
+        ],
+        "ratios,": [
+          86
+        ],
+        "produced": [
+          92
+        ],
+        "each": [
+          94
+        ],
+        "study": [
+          95,
+          190
+        ],
+        "section.": [
+          96
+        ],
+        "With": [
+          97
+        ],
+        "so": [
+          98
+        ],
+        "many": [
+          99
+        ],
+        "variables": [
+          100
+        ],
+        "consider,": [
+          102
+        ],
+        "it": [
+          103,
+          133
+        ],
+        "challenging": [
+          106
+        ],
+        "time-consuming": [
+          108
+        ],
+        "process": [
+          109
+        ],
+        "produce": [
+          111
+        ],
+        "frameworks,": [
+          113
+        ],
+        "requiring": [
+          114
+        ],
+        "expert": [
+          115
+        ],
+        "knowledge": [
+          116
+        ],
+        "chemostratigraphy.": [
+          118
+        ],
+        "By": [
+          119
+        ],
+        "only": [
+          121
+        ],
+        "few": [
+          123
+        ],
+        "curves,": [
+          125
+        ],
+        "as": [
+          126
+        ],
+        "opposed": [
+          127
+        ],
+        "element": [
+          129
+        ],
+        "or": [
+          130
+        ],
+        "ratio": [
+          131
+        ],
+        "profiles,": [
+          132
+        ],
+        "easier": [
+          135
+        ],
         "nonexperts": [
-          138
+          137
         ],
         "correlative": [
-          141
+          140
         ],
         "boundaries.": [
-          142
+          141
         ],
         "parameters": [
-          145
+          144
         ],
         "reflect": [
-          146
+          145
         ],
         "changes": [
-          147,
-          169
+          146,
+          168
         ],
         "more": [
-          149
+          148
         ],
         "than": [
-          150
+          149
         ],
         "one": [
-          151
+          150
         ],
         "group": [
-          152
+          151
         ],
         "summarize": [
-          156
+          155
         ],
         "changes.": [
-          158
+          157
         ],
         "For": [
+          158,
+          195
+        ],
+        "example,": [
           159,
           196
         ],
-        "example,": [
-          160,
-          197
-        ],
         "this": [
-          162
+          161
         ],
         "PC2": [
-          164
+          163
         ],
         "parameter": [
-          165
+          164
         ],
         "values": [
-          166
+          165
         ],
         "relate": [
-          167
+          166
         ],
         "depositional": [
-          171
+          170
         ],
         "redox": [
-          172
+          171
         ],
         "conditions.": [
-          173
+          172
         ],
         "close": [
-          175
+          174
         ],
         "association": [
-          176
+          175
         ],
         "was": [
-          177
+          176
         ],
         "revealed": [
-          178
+          177
         ],
         "between": [
-          179
+          178
         ],
         "identified": [
-          181
+          180
         ],
         "an": [
-          187
+          186
         ],
         "existing": [
-          188
+          187
         ],
         "same": [
-          194
+          193
         ],
         "wells.": [
-          195
+          194
         ],
         "zone": [
-          199,
-          229
+          198,
+          228
         ],
         "E1-3": [
-          200
+          199
         ],
         "relates": [
-          201
+          200
         ],
         "C3-1b.": [
-          206
+          205
         ],
         "fact": [
-          208
+          207
         ],
         "that": [
-          209,
-          232
-        ],
-        "some": [
-          210
-        ],
-        "do": [
-          216
-        ],
-        "not": [
-          217
-        ],
-        "always": [
-          218
-        ],
-        "coincide": [
-          219
-        ],
-        "(e.g.,": [
-          220
-        ],
-        "C2-1:C2-2": [
-          223
-        ],
-        "C2-2:C2-3": [
-          225
-        ],
-        "exist": [
-          226
-        ],
-        "within": [
-          227
-        ],
-        "E2-1)": [
-          230
-        ],
-        "means": [
+          208,
           231
         ],
+        "some": [
+          209
+        ],
+        "do": [
+          215
+        ],
+        "not": [
+          216
+        ],
+        "always": [
+          217
+        ],
+        "coincide": [
+          218
+        ],
+        "(e.g.,": [
+          219
+        ],
+        "C2-1:C2-2": [
+          222
+        ],
+        "C2-2:C2-3": [
+          224
+        ],
+        "exist": [
+          225
+        ],
+        "within": [
+          226
+        ],
+        "E2-1)": [
+          229
+        ],
+        "means": [
+          230
+        ],
         "integrated": [
-          234
+          233
         ],
         "correlation": [
-          235
+          234
         ],
         "scheme": [
-          236
+          235
         ],
         "higher": [
-          239
+          238
         ],
         "resolution": [
-          240
+          239
         ],
         "if": [
-          241
+          240
         ],
         "these": [
-          242
+          241
         ],
         "techniques": [
-          243
+          242
         ],
         "employed": [
-          245
+          244
         ],
         "isolation.": [
-          247
+          246
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3126847908",
@@ -6898,7 +6918,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -6908,7 +6928,7 @@
       "display_name": "The palaeo‐valley infilling glaciogenic Sarah Formation, an example from Rahal Dhab palaeo‐valley, Saudi Arabia",
       "alternate_titles": [],
       "publication_year": 2017,
-      "publication_date": "2017-08-11",
+      "publication_date": "2017-11-20",
       "ids": {
         "openalex": "https://openalex.org/W2742221252",
         "doi": "https://doi.org/10.1111/sed.12408",
@@ -7004,6 +7024,7 @@
             "SA"
           ],
           "is_corresponding": true,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "Geology Technology Team, Saudi Aramco, EXPEC ARC, Dhahran, 31311 Saudi Arabia"
@@ -7044,6 +7065,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rainer ZÜhlke",
           "raw_affiliation_strings": [
             "Geology Technology Team, Saudi Aramco, EXPEC ARC, Dhahran, 31311 Saudi Arabia"
@@ -7082,6 +7104,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Shaun Hayton",
           "raw_affiliation_strings": [
             "Geology Technology Team, Saudi Aramco, EXPEC ARC, Dhahran, 31311 Saudi Arabia"
@@ -7112,12 +7135,12 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.0269,
+      "fwci": 1.0144,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.71314131,
+        "value": 0.71114515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7362,8 +7385,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -7417,520 +7440,517 @@
       ],
       "abstract_inverted_index": {
         "24": [
-          124
+          123
         ],
         "100": [
-          114
-        ],
-        "Abstract": [
-          0
+          113
         ],
         "The": [
-          1,
-          108
+          0,
+          107
         ],
         "Sarah": [
-          2,
-          43,
-          69,
-          78,
-          102,
-          147,
-          172,
-          176,
-          210
-        ],
-        "Formation": [
-          3,
-          37,
-          70,
-          79,
-          103,
-          148
-        ],
-        "is": [
-          4,
-          164
-        ],
-        "a": [
-          5,
-          22,
-          113,
-          152
-        ],
-        "glaciogenic": [
-          6
-        ],
-        "sedimentary": [
-          7,
-          127
-        ],
-        "unit": [
-          8
-        ],
-        "deposited": [
-          9,
-          150
-        ],
-        "along": [
-          10
-        ],
-        "the": [
-          11,
-          15,
-          35,
+          1,
           42,
-          48,
-          53,
-          56,
           68,
           77,
-          92,
           101,
-          142,
           146,
           171,
           175,
-          180,
-          186,
-          205,
-          209,
-          213,
-          218
+          209
         ],
-        "Gondwana": [
-          12
+        "Formation": [
+          2,
+          36,
+          69,
+          78,
+          102,
+          147
         ],
-        "margin": [
-          13
+        "is": [
+          3,
+          163
         ],
-        "during": [
-          14
+        "a": [
+          4,
+          21,
+          112,
+          151
         ],
-        "latest": [
-          16
+        "glaciogenic": [
+          5
         ],
-        "Ordovician": [
-          17
+        "sedimentary": [
+          6,
+          126
         ],
-        "ice": [
-          18
+        "unit": [
+          7
         ],
-        "age": [
-          19
+        "deposited": [
+          8,
+          149
         ],
-        "and": [
-          20,
-          38,
-          60,
-          94,
-          135,
-          163,
-          178,
-          192,
-          212
+        "along": [
+          9
         ],
-        "represents": [
-          21
-        ],
-        "major": [
-          23
-        ],
-        "hydrocarbon": [
-          24,
-          227
-        ],
-        "reservoir": [
-          25,
-          196
-        ],
-        "in": [
-          26,
+        "the": [
+          10,
+          14,
+          34,
+          41,
           47,
           52,
-          85,
-          97,
-          104,
-          151,
-          198,
-          229
+          55,
+          67,
+          76,
+          91,
+          100,
+          141,
+          145,
+          170,
+          174,
+          179,
+          185,
+          204,
+          208,
+          212,
+          217
+        ],
+        "Gondwana": [
+          11
+        ],
+        "margin": [
+          12
+        ],
+        "during": [
+          13
+        ],
+        "latest": [
+          15
+        ],
+        "Ordovician": [
+          16
+        ],
+        "ice": [
+          17
+        ],
+        "age": [
+          18
+        ],
+        "and": [
+          19,
+          37,
+          59,
+          93,
+          134,
+          162,
+          177,
+          191,
+          211
+        ],
+        "represents": [
+          20
+        ],
+        "major": [
+          22
+        ],
+        "hydrocarbon": [
+          23,
+          226
+        ],
+        "reservoir": [
+          24,
+          195
+        ],
+        "in": [
+          25,
+          46,
+          51,
+          84,
+          96,
+          103,
+          150,
+          197,
+          228
         ],
         "northern": [
-          27
+          26
         ],
         "Saudi": [
+          27,
+          85,
+          105
+        ],
+        "Arabia.": [
           28,
           86,
           106
         ],
-        "Arabia.": [
-          29,
-          87,
-          107
-        ],
         "Large‐scale": [
-          30
+          29
         ],
         "glacial": [
-          31
+          30
         ],
         "palaeo‐valleys": [
-          32
+          31
         ],
         "cut": [
-          33
+          32
         ],
         "into": [
-          34
+          33
         ],
         "Qasim": [
-          36
+          35
         ],
         "were": [
-          39
+          38
         ],
         "infilled": [
-          40,
-          71
+          39,
+          70
         ],
         "by": [
-          41,
-          123,
-          136
+          40,
+          122,
+          135
         ],
         "Formation.": [
-          44
+          43
         ],
         "Post‐glacial": [
-          45
+          44
         ],
         "transgression": [
-          46
+          45
         ],
         "earliest": [
-          49
+          48
         ],
         "Silurian": [
-          50
+          49
         ],
         "resulted": [
-          51
+          50
         ],
         "deposition": [
-          54
+          53
         ],
         "of": [
-          55,
-          100,
-          167,
-          208,
-          217
+          54,
+          99,
+          166,
+          207,
+          216
         ],
         "Qusaiba": [
-          57
+          56
         ],
         "Shale": [
-          58
+          57
         ],
         "Member": [
-          59
+          58
         ],
         "associated": [
-          61
+          60
         ],
         "organic‐rich": [
-          62
+          61
         ],
         "basal": [
-          63
+          62
         ],
         "source": [
-          64
+          63
         ],
         "rocks,": [
-          65
+          64
         ],
         "which": [
-          66,
-          119
+          65,
+          118
         ],
         "cap": [
-          67
+          66
         ],
         "palaeo‐valleys.": [
-          72
+          71
         ],
         "This": [
-          73,
-          88,
-          183,
-          201
+          72,
+          87,
+          182,
+          200
         ],
         "unique": [
-          74
+          73
         ],
         "setting": [
-          75,
-          154
+          74,
+          153
         ],
         "makes": [
-          76
+          75
         ],
         "an": [
-          80,
-          223
+          79,
+          222
         ],
         "important": [
-          81
+          80
         ],
         "emerging": [
-          82
+          81
         ],
         "exploration": [
-          83,
-          228
+          82,
+          227
         ],
         "target": [
-          84
+          83
         ],
         "study": [
-          89,
-          184
+          88,
+          183
         ],
         "focuses": [
-          90
+          89
         ],
         "on": [
-          91,
-          195
+          90,
+          194
         ],
         "facies": [
-          93
+          92
         ],
         "depositional": [
-          95,
-          215
+          94,
+          214
         ],
         "architecture": [
-          96
+          95
         ],
         "seismic‐scale": [
-          98
+          97
         ],
         "outcrops": [
-          99
+          98
         ],
         "north‐western": [
-          105
+          104
         ],
         "Rahal": [
+          108,
+          142,
+          218
+        ],
+        "Dhab": [
           109,
           143,
           219
         ],
-        "Dhab": [
+        "palaeo‐valley": [
           110,
-          144,
           220
         ],
-        "palaeo‐valley": [
+        "provides": [
           111,
           221
         ],
-        "provides": [
-          112,
-          222
-        ],
         "km": [
-          115
+          114
         ],
         "long": [
-          116
+          115
         ],
         "dip‐oriented": [
-          117
+          116
         ],
         "cross‐section": [
-          118
+          117
         ],
         "has": [
-          120
+          119
         ],
         "been": [
-          121
+          120
         ],
         "covered": [
-          122
+          121
         ],
         "vertical": [
-          125
+          124
         ],
         "sections,": [
-          126
+          125
         ],
         "architectural": [
-          128,
-          193
+          127,
+          192
         ],
         "analyses": [
-          129
+          128
         ],
         "at": [
-          130
+          129
         ],
         "metre": [
-          131
+          130
         ],
         "to": [
-          132,
-          160,
-          204
-        ],
-        "kilometre": [
-          133
-        ],
-        "scale": [
-          134
-        ],
-        "three": [
-          137,
-          168,
-          190
-        ],
-        "cored": [
-          138
-        ],
-        "shallow": [
-          139
-        ],
-        "boreholes.": [
-          140
-        ],
-        "In": [
-          141
-        ],
-        "palaeo‐valley,": [
-          145
-        ],
-        "was": [
-          149
-        ],
-        "proglacial": [
-          153
-        ],
-        "that": [
-          155
-        ],
-        "ranged": [
-          156
-        ],
-        "from": [
-          157
-        ],
-        "marginal": [
-          158
-        ],
-        "marine": [
-          159
-        ],
-        "offshore": [
-          161
-        ],
-        "prodelta": [
-          162
-        ],
-        "made": [
-          165
-        ],
-        "up": [
-          166
-        ],
-        "units:": [
-          169
-        ],
-        "(i)": [
-          170
-        ],
-        "Sandstone;": [
-          173
-        ],
-        "(ii)": [
-          174
-        ],
-        "Shale;": [
-          177
-        ],
-        "(iii)": [
-          179
-        ],
-        "Uqlah": [
-          181
-        ],
-        "Member.": [
-          182
-        ],
-        "shows": [
-          185
-        ],
-        "relationships": [
-          187
-        ],
-        "between": [
-          188
-        ],
-        "these": [
-          189
-        ],
-        "units": [
-          191
-        ],
-        "controls": [
-          194
-        ],
-        "quality": [
-          197
-        ],
-        "this": [
-          199
-        ],
-        "system.": [
-          200
-        ],
-        "paper": [
-          202
-        ],
-        "contributes": [
+          131,
+          159,
           203
         ],
+        "kilometre": [
+          132
+        ],
+        "scale": [
+          133
+        ],
+        "three": [
+          136,
+          167,
+          189
+        ],
+        "cored": [
+          137
+        ],
+        "shallow": [
+          138
+        ],
+        "boreholes.": [
+          139
+        ],
+        "In": [
+          140
+        ],
+        "palaeo‐valley,": [
+          144
+        ],
+        "was": [
+          148
+        ],
+        "proglacial": [
+          152
+        ],
+        "that": [
+          154
+        ],
+        "ranged": [
+          155
+        ],
+        "from": [
+          156
+        ],
+        "marginal": [
+          157
+        ],
+        "marine": [
+          158
+        ],
+        "offshore": [
+          160
+        ],
+        "prodelta": [
+          161
+        ],
+        "made": [
+          164
+        ],
+        "up": [
+          165
+        ],
+        "units:": [
+          168
+        ],
+        "(i)": [
+          169
+        ],
+        "Sandstone;": [
+          172
+        ],
+        "(ii)": [
+          173
+        ],
+        "Shale;": [
+          176
+        ],
+        "(iii)": [
+          178
+        ],
+        "Uqlah": [
+          180
+        ],
+        "Member.": [
+          181
+        ],
+        "shows": [
+          184
+        ],
+        "relationships": [
+          186
+        ],
+        "between": [
+          187
+        ],
+        "these": [
+          188
+        ],
+        "units": [
+          190
+        ],
+        "controls": [
+          193
+        ],
+        "quality": [
+          196
+        ],
+        "this": [
+          198
+        ],
+        "system.": [
+          199
+        ],
+        "paper": [
+          201
+        ],
+        "contributes": [
+          202
+        ],
         "regional": [
-          206
+          205
         ],
         "understanding": [
-          207
+          206
         ],
         "Formation,": [
-          211
+          210
         ],
         "new": [
-          214
+          213
         ],
         "model": [
-          216
+          215
         ],
         "outcrop‐reservoir": [
-          224
+          223
         ],
         "analogue": [
-          225
+          224
         ],
         "for": [
-          226
+          225
         ],
         "adjacent": [
-          230
+          229
         ],
         "areas.": [
-          231
+          230
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2742221252",
@@ -7964,7 +7984,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2017-08-17T00:00:00"
     },
     {
@@ -7974,7 +7994,7 @@
       "display_name": "Source‐to‐sink: Regional grain size trends to reconstruct sediment budgets and catchment areas",
       "alternate_titles": [],
       "publication_year": 2021,
-      "publication_date": "2021-10-24",
+      "publication_date": "2021-11-01",
       "ids": {
         "openalex": "https://openalex.org/W3210145828",
         "doi": "https://doi.org/10.1111/bre.12624",
@@ -8067,6 +8087,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "Saudi Aramco EXPEC Advanced Research Centre Geology Technology  Dhahran Saudi Arabia"
@@ -8107,6 +8128,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rainer Zühlke",
           "raw_affiliation_strings": [
             "Saudi Aramco EXPEC Advanced Research Centre Geology Technology  Dhahran Saudi Arabia"
@@ -8135,12 +8157,12 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 0.9068,
+      "fwci": 0.8953,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.64901623,
+        "value": 0.64427634,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8427,8 +8449,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -8484,599 +8506,596 @@
         "https://openalex.org/W3033847451"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "Source‐to‐sink": [
           0
         ],
-        "Source‐to‐sink": [
-          1
-        ],
         "studies": [
-          2,
-          25,
-          52
+          1,
+          24,
+          51
         ],
         "and": [
-          3,
-          80,
-          137,
-          224,
-          243
+          2,
+          79,
+          136,
+          223,
+          242
         ],
         "calculating": [
-          4
+          3
         ],
         "sediment": [
-          5,
-          72,
-          110,
-          187
+          4,
+          71,
+          109,
+          186
         ],
         "budgets": [
-          6,
-          73,
-          111
+          5,
+          72,
+          110
         ],
         "of": [
-          7,
-          17,
-          21,
-          47,
-          128,
-          140,
-          183,
-          222
+          6,
+          16,
+          20,
+          46,
+          127,
+          139,
+          182,
+          221
         ],
         "ancient": [
-          8
+          7
         ],
         "systems": [
-          9,
-          156
+          8,
+          155
         ],
         "are": [
-          10,
-          53,
-          68,
-          74,
-          82,
-          158
+          9,
+          52,
+          67,
+          73,
+          81,
+          157
         ],
         "important": [
-          11
+          10
         ],
         "approaches": [
-          12
+          11
         ],
         "for": [
-          13,
-          65,
-          179,
-          202,
-          216,
-          220
+          12,
+          64,
+          178,
+          201,
+          215,
+          219
         ],
         "basin": [
-          14,
-          66,
-          169
+          13,
+          65,
+          168
         ],
         "analysis.": [
-          15
+          14
         ],
         "Because": [
-          16
+          15
         ],
         "the": [
-          18,
-          166,
-          184,
-          192
+          17,
+          165,
+          183,
+          191
         ],
         "enormous": [
-          19
+          18
         ],
         "scale": [
-          20
+          19
         ],
         "basins,": [
-          22
+          21
         ],
         "most": [
-          23
+          22
         ],
         "existing": [
-          24
+          23
         ],
         "depend": [
-          26
+          25
         ],
         "on": [
-          27,
-          34,
-          57,
-          151
+          26,
+          33,
+          56,
+          150
         ],
         "subsurface": [
-          28
+          27
         ],
         "datasets.": [
-          29,
-          62
+          28,
+          61
         ],
         "As": [
-          30
+          29
         ],
         "drilling": [
-          31
+          30
         ],
         "campaigns": [
-          32
+          31
         ],
         "focus": [
-          33
+          32
         ],
         "structural": [
-          35
+          34
         ],
         "highs": [
-          36
+          35
         ],
         "or": [
-          37
+          36
         ],
         "specific": [
-          38
+          37
         ],
         "trap": [
-          39
+          38
         ],
         "types,": [
-          40
+          39
         ],
         "well": [
-          41,
-          207
+          40,
+          206
         ],
         "datasets": [
-          42,
-          119,
-          164
-        ],
-        "cover": [
-          43
-        ],
-        "only": [
-          44,
-          180
-        ],
-        "limited": [
-          45,
-          61,
-          122,
+          41,
+          118,
           163
         ],
+        "cover": [
+          42
+        ],
+        "only": [
+          43,
+          179
+        ],
+        "limited": [
+          44,
+          60,
+          121,
+          162
+        ],
         "subareas": [
-          46
+          45
         ],
         "entire": [
+          47,
+          113,
+          166
+        ],
+        "sedimentary": [
           48,
           114,
           167
         ],
-        "sedimentary": [
-          49,
-          115,
-          168
-        ],
         "basins.": [
-          50
+          49
         ],
         "Outcrop": [
-          51
+          50
         ],
         "almost": [
-          54
+          53
         ],
         "always": [
-          55
+          54
         ],
         "based": [
-          56
+          55
         ],
         "even": [
-          58,
-          117
+          57,
+          116
         ],
         "more": [
-          59
+          58
         ],
         "spatially": [
-          60,
-          162
+          59,
+          161
         ],
         "The": [
-          63,
-          124,
-          147,
-          175,
-          195
+          62,
+          123,
+          146,
+          174,
+          194
         ],
         "ramifications": [
-          64
+          63
         ],
         "analysis": [
-          67,
-          245
+          66,
+          244
         ],
         "considerable:": [
-          69
+          68
         ],
         "(1)": [
-          70
+          69
         ],
         "actual": [
-          71,
-          185
+          70,
+          184
         ],
         "underestimated;": [
-          75
+          74
         ],
         "(2)": [
-          76
+          75
         ],
         "catchment": [
-          77,
-          203
+          76,
+          202
         ],
         "denudation": [
-          78
+          77
         ],
         "rates": [
-          79
+          78
         ],
         "sizes": [
-          81
+          80
         ],
         "miscalculated;": [
-          83
+          82
         ],
         "(3)": [
-          84
+          83
         ],
         "predicted": [
-          85
+          84
         ],
         "net:gross": [
-          86,
-          223
+          85,
+          222
         ],
         "ratios": [
-          87
+          86
         ],
         "in": [
-          88,
-          236
+          87,
+          235
         ],
         "sink": [
-          89
+          88
         ],
         "areas": [
-          90
+          89
         ],
         "bear": [
-          91
+          90
         ],
         "high": [
-          92
+          91
         ],
         "uncertainties.": [
-          93
+          92
         ],
         "This": [
-          94
+          93
         ],
         "paper": [
-          95
+          94
         ],
         "outlines": [
-          96
+          95
         ],
         "a": [
-          97
+          96
         ],
         "new": [
-          98,
-          193,
-          196
+          97,
+          192,
+          195
         ],
         "workflow‐defined": [
-          99
+          98
         ],
         "approach": [
-          100,
-          148
+          99,
+          147
         ],
         "to": [
-          101,
-          107,
-          133,
-          142,
-          228
+          100,
+          106,
+          132,
+          141,
+          227
         ],
         "reconstruct": [
-          102
+          101
         ],
         "regional": [
-          103,
-          143
+          102,
+          142
         ],
         "grain": [
+          103,
+          128,
+          143
+        ],
+        "size": [
           104,
           129,
           144
         ],
-        "size": [
-          105,
-          130,
-          145
-        ],
         "profiles": [
-          106
+          105
         ],
         "better": [
-          108
+          107
         ],
         "estimate": [
-          109
+          108
         ],
         "across": [
-          112
+          111
         ],
         "an": [
-          113
+          112
         ],
         "basin,": [
-          116
+          115
         ],
         "when": [
-          118
+          117
         ],
         "have": [
-          120
+          119
         ],
         "spatial": [
-          121
+          120
         ],
         "coverage.": [
-          123
+          122
         ],
         "workflow": [
-          125
+          124
         ],
         "includes": [
-          126
+          125
         ],
         "compilation": [
-          127
+          126
         ],
         "data,": [
-          131
+          130
         ],
         "transformation": [
-          132
+          131
         ],
         "mass": [
-          134
+          133
         ],
         "balance": [
-          135
+          134
         ],
         "frameworks,": [
-          136
+          135
         ],
         "lateral": [
-          138
+          137
         ],
         "matching": [
-          139
+          138
         ],
         "local": [
-          141
+          140
         ],
         "profiles.": [
-          146
+          145
         ],
         "was": [
-          149
+          148
         ],
         "tested": [
-          150
+          149
         ],
         "two": [
-          152
+          151
         ],
         "representative": [
-          153
+          152
         ],
         "continental‐to‐marine": [
-          154
+          153
         ],
         "delta": [
-          155
+          154
         ],
         "which": [
-          157
+          156
         ],
         "covered": [
-          159
+          158
         ],
         "by": [
-          160
+          159
         ],
         "four": [
-          161
+          160
         ],
         "while": [
-          165
+          164
         ],
         "(sink": [
-          170
+          169
         ],
         "area)": [
-          171
+          170
         ],
         "is": [
-          172
+          171
         ],
         "much": [
-          173
+          172
         ],
         "larger.": [
-          174
+          173
         ],
         "original": [
-          176
+          175
         ],
         "estimates": [
-          177
+          176
         ],
         "account": [
-          178
+          177
         ],
         "maximum": [
-          181
+          180
         ],
         "40%": [
-          182
+          181
         ],
         "total": [
-          186
+          185
         ],
         "volume": [
-          188
+          187
         ],
         "as": [
-          189,
-          206,
-          208
+          188,
+          205,
+          207
         ],
         "analysed": [
-          190
+          189
         ],
         "with": [
-          191
+          190
         ],
         "approach.": [
-          194
+          193
         ],
         "method": [
-          197
+          196
         ],
         "provides": [
-          198
+          197
         ],
         "significantly": [
-          199
+          198
         ],
         "improved": [
-          200
+          199
         ],
         "constraints": [
-          201
+          200
         ],
         "(source)": [
-          204
+          203
         ],
         "models": [
-          205
+          204
         ],
         "input": [
-          209,
-          213
-        ],
-        "parameters": [
-          210
-        ],
-        "(sediment": [
-          211
-        ],
-        "budget,": [
+          208,
           212
         ],
+        "parameters": [
+          209
+        ],
+        "(sediment": [
+          210
+        ],
+        "budget,": [
+          211
+        ],
         "locations,": [
-          214
+          213
         ],
         "fractions)": [
-          215
+          214
         ],
         "process‐based": [
-          217
+          216
         ],
         "depositional": [
-          218
+          217
         ],
         "modelling": [
-          219
+          218
         ],
         "predictions": [
-          221
+          220
         ],
         "detailed": [
-          225
+          224
         ],
         "facies": [
-          226
+          225
         ],
         "proximal": [
-          227
+          226
         ],
         "distal": [
-          229
+          228
         ],
         "relationships.": [
-          230
+          229
         ],
         "General": [
-          231
+          230
         ],
         "benefits": [
-          232
+          231
         ],
         "include": [
-          233
+          232
         ],
         "lower": [
-          234
+          233
         ],
         "uncertainties": [
-          235
+          234
         ],
         "clastic": [
-          237
+          236
         ],
         "reservoir": [
-          238
+          237
         ],
         "quality": [
-          239
+          238
         ],
         "prediction": [
-          240
+          239
         ],
         "(hydrocarbon": [
-          241
+          240
         ],
         "exploration)": [
-          242
+          241
         ],
         "provenance": [
-          244
+          243
         ],
         "(fundamental": [
-          246
+          245
         ],
         "research).": [
-          247
+          246
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3210145828",
@@ -9102,7 +9121,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-11-08T00:00:00"
     },
     {
@@ -9190,6 +9209,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -9228,6 +9248,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Christian Scheibe",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -9268,6 +9289,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Neil W. Craigie",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -9292,12 +9314,12 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.0451,
+      "fwci": 8.0366,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.9622384,
+        "value": 0.96169631,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9587,8 +9609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -9613,761 +9635,758 @@
       ],
       "abstract_inverted_index": {
         "15": [
-          13
-        ],
-        "50": [
-          33
-        ],
-        "Abstract": [
-          0
-        ],
-        "Elemental": [
-          1
-        ],
-        "chemostratigraphy": [
-          2
-        ],
-        "has": [
-          3,
-          244,
-          260
-        ],
-        "become": [
-          4
-        ],
-        "an": [
-          5
-        ],
-        "established": [
-          6
-        ],
-        "stratigraphic": [
-          7,
-          157
-        ],
-        "correlation": [
-          8
-        ],
-        "technique": [
-          9
-        ],
-        "over": [
-          10
-        ],
-        "the": [
-          11,
-          36,
-          40,
-          72,
-          108,
-          114,
-          121,
-          172,
-          192,
-          228,
-          249,
-          285,
-          310,
-          328
-        ],
-        "last": [
           12
         ],
-        "years.": [
-          14
-        ],
-        "Geochemical": [
-          15
-        ],
-        "data": [
-          16,
-          48,
-          174
-        ],
-        "are": [
-          17,
-          49,
-          129,
-          142,
-          296,
-          312
-        ],
-        "generated": [
-          18
-        ],
-        "from": [
-          19
-        ],
-        "rock": [
-          20
-        ],
-        "samples": [
-          21
-        ],
-        "(e.g.,": [
-          22
-        ],
-        "ditch": [
-          23
-        ],
-        "cuttings,": [
-          24
-        ],
-        "cores": [
-          25
-        ],
-        "or": [
-          26
-        ],
-        "hand": [
-          27
-        ],
-        "specimens)": [
-          28
-        ],
-        "for": [
-          29,
-          113,
-          218
-        ],
-        "up": [
-          30
-        ],
-        "to": [
-          31,
-          85,
-          119,
-          134,
-          148,
-          154,
-          160,
-          190,
-          247,
-          281,
-          325
-        ],
-        "c.": [
+        "50": [
           32
         ],
-        "elements": [
-          34,
-          74
+        "Elemental": [
+          0
         ],
-        "in": [
+        "chemostratigraphy": [
+          1
+        ],
+        "has": [
+          2,
+          243,
+          259
+        ],
+        "become": [
+          3
+        ],
+        "an": [
+          4
+        ],
+        "established": [
+          5
+        ],
+        "stratigraphic": [
+          6,
+          156
+        ],
+        "correlation": [
+          7
+        ],
+        "technique": [
+          8
+        ],
+        "over": [
+          9
+        ],
+        "the": [
+          10,
           35,
           39,
-          60,
-          91,
-          197,
-          269,
-          284
-        ],
-        "range": [
-          37
-        ],
-        "Na-U": [
-          38
-        ],
-        "periodic": [
-          41
-        ],
-        "table": [
-          42
-        ],
-        "using": [
-          43,
-          276
-        ],
-        "various": [
-          44,
-          264
-        ],
-        "analytical": [
-          45
-        ],
-        "techniques.": [
-          46
-        ],
-        "The": [
-          47,
-          65,
-          99,
-          164,
-          257,
-          272
-        ],
-        "commonly": [
-          50
-        ],
-        "displayed": [
-          51
-        ],
-        "and": [
-          52,
-          57,
-          95,
-          125,
-          138,
-          150,
-          159,
-          175,
-          267,
-          294,
-          321
-        ],
-        "interpreted": [
-          53
-        ],
-        "as": [
-          54,
-          131,
-          144,
-          182
-        ],
-        "ratios,": [
-          55
-        ],
-        "indices": [
-          56
-        ],
-        "proxy": [
-          58
-        ],
-        "values": [
-          59
-        ],
-        "profile": [
-          61,
-          198
-        ],
-        "form": [
-          62
-        ],
-        "against": [
-          63
-        ],
-        "depth.": [
-          64
-        ],
-        "large": [
-          66,
-          100
-        ],
-        "number": [
-          67,
-          101,
-          193
-        ],
-        "of": [
-          68,
-          102,
+          71,
           107,
+          113,
+          120,
           171,
-          194,
-          230,
-          251,
+          191,
+          227,
+          248,
+          284,
           309,
           327
         ],
+        "last": [
+          11
+        ],
+        "years.": [
+          13
+        ],
+        "Geochemical": [
+          14
+        ],
+        "data": [
+          15,
+          47,
+          173
+        ],
+        "are": [
+          16,
+          48,
+          128,
+          141,
+          295,
+          311
+        ],
+        "generated": [
+          17
+        ],
+        "from": [
+          18
+        ],
+        "rock": [
+          19
+        ],
+        "samples": [
+          20
+        ],
+        "(e.g.,": [
+          21
+        ],
+        "ditch": [
+          22
+        ],
+        "cuttings,": [
+          23
+        ],
+        "cores": [
+          24
+        ],
+        "or": [
+          25
+        ],
+        "hand": [
+          26
+        ],
+        "specimens)": [
+          27
+        ],
+        "for": [
+          28,
+          112,
+          217
+        ],
+        "up": [
+          29
+        ],
+        "to": [
+          30,
+          84,
+          118,
+          133,
+          147,
+          153,
+          159,
+          189,
+          246,
+          280,
+          324
+        ],
+        "c.": [
+          31
+        ],
+        "elements": [
+          33,
+          73
+        ],
+        "in": [
+          34,
+          38,
+          59,
+          90,
+          196,
+          268,
+          283
+        ],
+        "range": [
+          36
+        ],
+        "Na-U": [
+          37
+        ],
+        "periodic": [
+          40
+        ],
+        "table": [
+          41
+        ],
+        "using": [
+          42,
+          275
+        ],
+        "various": [
+          43,
+          263
+        ],
+        "analytical": [
+          44
+        ],
+        "techniques.": [
+          45
+        ],
+        "The": [
+          46,
+          64,
+          98,
+          163,
+          256,
+          271
+        ],
+        "commonly": [
+          49
+        ],
+        "displayed": [
+          50
+        ],
+        "and": [
+          51,
+          56,
+          94,
+          124,
+          137,
+          149,
+          158,
+          174,
+          266,
+          293,
+          320
+        ],
+        "interpreted": [
+          52
+        ],
+        "as": [
+          53,
+          130,
+          143,
+          181
+        ],
+        "ratios,": [
+          54
+        ],
+        "indices": [
+          55
+        ],
+        "proxy": [
+          57
+        ],
+        "values": [
+          58
+        ],
+        "profile": [
+          60,
+          197
+        ],
+        "form": [
+          61
+        ],
+        "against": [
+          62
+        ],
+        "depth.": [
+          63
+        ],
+        "large": [
+          65,
+          99
+        ],
+        "number": [
+          66,
+          100,
+          192
+        ],
+        "of": [
+          67,
+          101,
+          106,
+          170,
+          193,
+          229,
+          250,
+          308,
+          326
+        ],
         "possible": [
-          69
+          68
         ],
         "combinations": [
-          70
+          69
         ],
         "between": [
-          71,
-          97,
-          205,
-          254
-        ],
-        "determined": [
-          73,
-          222
-        ],
-        "(more": [
-          75
-        ],
-        "than": [
-          76
-        ],
-        "a": [
-          77,
-          82,
-          145,
-          152,
-          168,
-          183
-        ],
-        "thousand": [
-          78
-        ],
-        "combinations),": [
-          79
-        ],
-        "makes": [
-          80
-        ],
-        "it": [
-          81
-        ],
-        "time-consuming": [
-          83
-        ],
-        "effort": [
-          84
-        ],
-        "identify": [
-          86,
-          161
-        ],
-        "meaningful": [
-          87
-        ],
-        "variations": [
-          88
-        ],
-        "that": [
-          89,
-          105,
-          116
-        ],
-        "resulted": [
-          90
-        ],
-        "correlative": [
-          92,
-          252
-        ],
-        "chemostratigraphic": [
-          93,
-          216,
-          273
-        ],
-        "boundaries": [
-          94,
+          70,
+          96,
+          204,
           253
         ],
+        "determined": [
+          72,
+          221
+        ],
+        "(more": [
+          74
+        ],
+        "than": [
+          75
+        ],
+        "a": [
+          76,
+          81,
+          144,
+          151,
+          167,
+          182
+        ],
+        "thousand": [
+          77
+        ],
+        "combinations),": [
+          78
+        ],
+        "makes": [
+          79
+        ],
+        "it": [
+          80
+        ],
+        "time-consuming": [
+          82
+        ],
+        "effort": [
+          83
+        ],
+        "identify": [
+          85,
+          160
+        ],
+        "meaningful": [
+          86
+        ],
+        "variations": [
+          87
+        ],
+        "that": [
+          88,
+          104,
+          115
+        ],
+        "resulted": [
+          89
+        ],
+        "correlative": [
+          91,
+          251
+        ],
+        "chemostratigraphic": [
+          92,
+          215,
+          272
+        ],
+        "boundaries": [
+          93,
+          252
+        ],
         "zones": [
-          96
+          95
         ],
         "wells.": [
-          98
+          97
         ],
         "combination": [
-          103
+          102
         ],
         "means": [
-          104
+          103
         ],
         "30-40%": [
-          106
+          105
         ],
         "information": [
-          109
+          108
         ],
         "is": [
-          110,
-          188,
-          212,
-          221,
-          303,
-          330
+          109,
+          187,
+          211,
+          220,
+          302,
+          329
         ],
         "not": [
-          111
+          110
         ],
         "used": [
-          112,
-          189
+          111,
+          188
         ],
         "correlations": [
-          115,
-          274
+          114,
+          273
         ],
         "maybe": [
-          117
+          116
         ],
         "crucial": [
-          118
+          117
         ],
         "understand": [
-          120
+          119
         ],
         "geological": [
-          122,
-          162,
-          265
+          121,
+          161,
+          264
         ],
         "processes.": [
-          123
+          122
         ],
         "Automation": [
-          124
+          123
         ],
         "artificial": [
-          126
+          125
         ],
         "intelligence": [
-          127
+          126
         ],
         "(AI)": [
-          128
+          127
         ],
         "envisaged": [
-          130
+          129
         ],
         "likely": [
-          132
+          131
         ],
         "solutions": [
-          133
+          132
         ],
         "this": [
-          135,
-          277
+          134,
+          276
         ],
         "challenge.": [
-          136
+          135
         ],
         "Statistical": [
-          137
+          136
         ],
         "machine": [
-          139,
-          299
+          138,
+          298
         ],
         "learning": [
-          140,
+          139,
+          237,
+          299
+        ],
+        "techniques": [
+          140
+        ],
+        "tested": [
+          142,
+          261
+        ],
+        "first": [
+          145
+        ],
+        "step": [
+          146
+        ],
+        "automate": [
+          148
+        ],
+        "establish": [
+          150
+        ],
+        "workflow": [
+          152,
+          164,
+          258,
+          277,
+          286,
+          310
+        ],
+        "define": [
+          154,
+          214
+        ],
+        "(chemo-)": [
+          155
+        ],
+        "boundaries,": [
+          157
+        ],
+        "formations.": [
+          162
+        ],
+        "commences": [
+          165
+        ],
+        "with": [
+          166,
+          176,
+          318
+        ],
+        "quality": [
+          168
+        ],
+        "check": [
+          169
+        ],
+        "input": [
+          172
+        ],
+        "then": [
+          175,
+          212
+        ],
+        "principle": [
+          177
+        ],
+        "component": [
+          178
+        ],
+        "analysis": [
+          179,
+          241
+        ],
+        "(PCA)": [
+          180
+        ],
+        "multivariate": [
+          183
+        ],
+        "statistical": [
+          184,
+          207,
+          234
+        ],
+        "method.": [
+          185
+        ],
+        "PCA": [
+          186
+        ],
+        "minimize": [
+          190
+        ],
+        "elements/ratios": [
+          194
+        ],
+        "plotted": [
+          195
+        ],
+        "form,": [
+          198
+        ],
+        "whilst": [
+          199
+        ],
+        "simultaneously": [
+          200
+        ],
+        "identifying": [
+          201
+        ],
+        "multidimensional": [
+          202
+        ],
+        "relationships": [
+          203
+        ],
+        "them.": [
+          205
+        ],
+        "A": [
+          206,
+          314
+        ],
+        "boundary": [
+          208
+        ],
+        "picking": [
+          209
+        ],
+        "method": [
+          210
+        ],
+        "applied": [
+          213
+        ],
+        "zones,": [
+          216
+        ],
+        "which": [
+          218,
+          225
+        ],
+        "reliability": [
+          219
+        ],
+        "utilizing": [
+          222
+        ],
+        "quartile": [
+          223
+        ],
+        "analysis,": [
+          224
+        ],
+        "tests": [
+          226
+        ],
+        "overlap": [
+          228
+        ],
+        "chemical": [
+          230
+        ],
+        "signals": [
+          231
+        ],
+        "across": [
+          232
+        ],
+        "these": [
+          233
+        ],
+        "boundaries.": [
+          235
+        ],
+        "Machine": [
+          236
+        ],
+        "via": [
           238,
           300
         ],
-        "techniques": [
-          141
-        ],
-        "tested": [
-          143,
-          262
-        ],
-        "first": [
-          146
-        ],
-        "step": [
-          147
-        ],
-        "automate": [
-          149
-        ],
-        "establish": [
-          151
-        ],
-        "workflow": [
-          153,
-          165,
-          259,
-          278,
-          287,
-          311
-        ],
-        "define": [
-          155,
-          215
-        ],
-        "(chemo-)": [
-          156
-        ],
-        "boundaries,": [
-          158
-        ],
-        "formations.": [
-          163
-        ],
-        "commences": [
-          166
-        ],
-        "with": [
-          167,
-          177,
-          319
-        ],
-        "quality": [
-          169
-        ],
-        "check": [
-          170
-        ],
-        "input": [
-          173
-        ],
-        "then": [
-          176,
-          213
-        ],
-        "principle": [
-          178
-        ],
-        "component": [
-          179
-        ],
-        "analysis": [
-          180,
-          242
-        ],
-        "(PCA)": [
-          181
-        ],
-        "multivariate": [
-          184
-        ],
-        "statistical": [
-          185,
-          208,
-          235
-        ],
-        "method.": [
-          186
-        ],
-        "PCA": [
-          187
-        ],
-        "minimize": [
-          191
-        ],
-        "elements/ratios": [
-          195
-        ],
-        "plotted": [
-          196
-        ],
-        "form,": [
-          199
-        ],
-        "whilst": [
-          200
-        ],
-        "simultaneously": [
-          201
-        ],
-        "identifying": [
-          202
-        ],
-        "multidimensional": [
-          203
-        ],
-        "relationships": [
-          204
-        ],
-        "them.": [
-          206
-        ],
-        "A": [
-          207,
-          315
-        ],
-        "boundary": [
-          209
-        ],
-        "picking": [
-          210
-        ],
-        "method": [
-          211
-        ],
-        "applied": [
-          214
-        ],
-        "zones,": [
-          217
-        ],
-        "which": [
-          219,
-          226
-        ],
-        "reliability": [
-          220
-        ],
-        "utilizing": [
-          223
-        ],
-        "quartile": [
-          224
-        ],
-        "analysis,": [
-          225
-        ],
-        "tests": [
-          227
-        ],
-        "overlap": [
-          229
-        ],
-        "chemical": [
-          231
-        ],
-        "signals": [
-          232
-        ],
-        "across": [
-          233
-        ],
-        "these": [
-          234
-        ],
-        "boundaries.": [
-          236
-        ],
-        "Machine": [
-          237
-        ],
-        "via": [
-          239,
-          301
-        ],
         "discriminant": [
-          240
+          239
         ],
         "function": [
-          241
+          240
         ],
         "(DFA)": [
-          243
+          242
         ],
         "been": [
-          245,
-          261
+          244,
+          260
         ],
         "developed": [
-          246
+          245
         ],
         "predict": [
-          248
+          247
         ],
         "placement": [
-          250
+          249
         ],
         "adjacent": [
-          255
+          254
         ],
         "sections/wells.": [
-          256
+          255
         ],
         "proposed": [
-          258,
-          275
+          257,
+          274
         ],
         "on": [
-          263
+          262
         ],
         "formations": [
-          266
+          265
         ],
         "areas": [
-          268
+          267
         ],
         "Saudi": [
-          270
+          269
         ],
         "Arabia.": [
-          271
+          270
         ],
         "broadly": [
-          279
+          278
         ],
         "correspond": [
-          280
+          279
         ],
         "those": [
-          282
+          281
         ],
         "defined": [
-          283
+          282
         ],
         "standard": [
-          286
+          285
         ],
         "by": [
-          288
+          287
         ],
         "experienced": [
-          289
+          288
         ],
         "chemostratigraphers,": [
-          290
+          289
         ],
         "while": [
-          291
+          290
         ],
         "interpretation": [
-          292
+          291
         ],
         "times": [
-          293
+          292
         ],
         "subjectivity": [
-          295
+          294
         ],
         "reduced.": [
-          297
+          296
         ],
         "While": [
-          298
+          297
         ],
         "DFA": [
-          302
+          301
         ],
         "currently": [
-          304
+          303
         ],
         "further": [
-          305
+          304
         ],
         "researched,": [
-          306
+          305
         ],
         "early": [
-          307
+          306
         ],
         "results": [
-          308
+          307
         ],
         "very": [
-          313
+          312
         ],
         "encouraging.": [
-          314
+          313
         ],
         "user-friendly": [
-          316
+          315
         ],
         "software": [
-          317
+          316
         ],
         "application": [
-          318
+          317
         ],
         "workflows": [
-          320
+          319
         ],
         "algorithms": [
-          322
+          321
         ],
         "ultimately": [
-          323
+          322
         ],
         "leading": [
-          324
+          323
         ],
         "automation": [
-          326
+          325
         ],
         "processes": [
-          329
+          328
         ],
         "under": [
-          331
+          330
         ],
         "development.": [
-          332
+          331
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4200232387",
@@ -10389,7 +10408,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -10490,6 +10509,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Peng Lu",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -10530,6 +10550,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos Michael",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -10578,6 +10599,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abrar Alabbad",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
@@ -10625,6 +10647,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rainer Zühlke",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -10663,6 +10686,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Christopher Ellis",
           "raw_affiliation_strings": [
             "St. Anthony Falls Laboratory and Department of Earth and Environmental Sciences, College of Science and Engineering, University of Minnesota, Minneapolis MN 55414, United States"
@@ -10701,6 +10725,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Aaron Ketchmark",
           "raw_affiliation_strings": [
             "St. Anthony Falls Laboratory and Department of Earth and Environmental Sciences, College of Science and Engineering, University of Minnesota, Minneapolis MN 55414, United States"
@@ -10739,6 +10764,7 @@
             "US"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Chris Paola",
           "raw_affiliation_strings": [
             "St. Anthony Falls Laboratory and Department of Earth and Environmental Sciences, College of Science and Engineering, University of Minnesota, Minneapolis MN 55414, United States"
@@ -10764,6 +10790,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hussain Al-Qatari",
           "raw_affiliation_strings": [
             "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, 34464, Saudi Arabia"
@@ -10788,12 +10815,12 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.3187,
+      "fwci": 1.3045,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.71565626,
+        "value": 0.71373962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11154,9 +11181,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -11169,8 +11196,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -11358,6 +11385,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos A. Michael",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -11398,6 +11426,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rainer Zuhlke",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -11748,8 +11777,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -11774,852 +11803,849 @@
       ],
       "abstract_inverted_index": {
         "7": [
-          195
-        ],
-        "Abstract": [
-          0
+          194
         ],
         "Objectives/Scope": [
-          1
+          0
         ],
         "Sediment": [
-          2
+          1
         ],
         "volumetric": [
-          3,
-          28
+          2,
+          27
         ],
         "budget": [
-          4
+          3
         ],
         "estimates": [
-          5,
-          350
+          4,
+          349
         ],
         "are": [
-          6,
-          62
-        ],
-        "very": [
-          7
-        ],
-        "important": [
-          8
-        ],
-        "input": [
-          9,
-          288
-        ],
-        "parameters": [
-          10,
-          289,
-          359
-        ],
-        "for": [
-          11,
-          25,
-          106,
-          150,
-          323,
-          351,
-          368,
-          373,
-          400
-        ],
-        "process-based": [
-          12
-        ],
-        "depositional": [
-          13,
-          283,
-          353
-        ],
-        "modelling": [
-          14
-        ],
-        "(forward": [
-          15
-        ],
-        "stratigraphic": [
-          16,
-          292,
-          370
-        ],
-        "modelling).": [
-          17
-        ],
-        "This": [
-          18
-        ],
-        "paper": [
-          19,
-          274
-        ],
-        "presents": [
-          20
-        ],
-        "a": [
-          21,
-          116
-        ],
-        "new": [
-          22,
-          98,
-          176,
-          222,
-          269,
-          309,
-          338
-        ],
-        "integrated": [
-          23,
-          99,
-          310,
-          339
-        ],
-        "approach": [
-          24,
-          100,
-          177,
-          223,
-          270,
-          311,
-          340
-        ],
-        "analyze": [
-          26
-        ],
-        "sediment": [
-          27,
-          48,
-          56,
-          73,
-          104,
-          108,
-          119,
-          148,
-          165,
-          233,
-          258,
-          280,
-          300,
-          314,
-          324,
-          364,
-          395
-        ],
-        "budgets": [
-          29,
-          105
-        ],
-        "in": [
-          30,
-          53,
-          146,
-          154,
-          197,
-          263,
-          272,
-          279,
-          290,
-          343,
-          377
-        ],
-        "sedimentary": [
-          31
-        ],
-        "basins": [
-          32
-        ],
-        "that": [
-          33,
-          67,
-          225,
-          313
-        ],
-        "is": [
-          34,
-          144
-        ],
-        "based": [
-          35
-        ],
-        "on": [
-          36,
-          102
-        ],
-        "the": [
-          37,
-          71,
-          162,
-          215,
-          231,
-          255,
-          277,
-          295
-        ],
-        "reconstruction": [
-          38,
-          156
-        ],
-        "of": [
-          39,
-          47,
-          81,
-          118,
-          135,
-          164,
-          193,
-          205,
-          230,
-          235,
-          248,
-          252,
-          254,
-          266,
-          305
-        ],
-        "regional": [
-          40
-        ],
-        "grain": [
-          41,
-          124,
-          130,
-          137,
-          141,
-          396
-        ],
-        "size": [
-          42,
-          125,
-          131,
-          138,
-          142,
-          330,
-          345,
-          392,
-          397
-        ],
-        "trends.": [
-          43
-        ],
-        "In": [
-          44,
-          380
-        ],
-        "subsurface": [
-          45,
-          184
-        ],
-        "studies": [
-          46
-        ],
-        "routing": [
-          49,
-          74
-        ],
-        "systems,": [
-          50
-        ],
-        "noticeable": [
-          51
-        ],
-        "uncertainties": [
-          52,
-          77,
-          153,
-          278,
-          342
-        ],
-        "estimated": [
-          54
-        ],
-        "total": [
-          55,
-          198,
-          232
-        ],
-        "volumes": [
-          57
-        ],
-        "occur": [
-          58
-        ],
-        "when": [
-          59
-        ],
-        "available": [
-          60
-        ],
-        "datasets": [
+          5,
           61
         ],
-        "limited": [
-          63,
-          111,
-          202,
-          245
+        "very": [
+          6
         ],
-        "to": [
-          64,
-          127,
-          139,
-          182,
-          186,
-          228
+        "important": [
+          7
         ],
-        "local": [
-          65,
-          112,
-          123,
-          136,
-          203,
-          209,
-          246,
-          264
+        "input": [
+          8,
+          287
         ],
-        "areas": [
-          66,
-          204,
-          247,
-          265,
-          402
+        "parameters": [
+          9,
+          288,
+          358
         ],
-        "do": [
-          68
-        ],
-        "not": [
-          69
-        ],
-        "cover": [
-          70,
-          191
-        ],
-        "entire": [
-          72,
-          107,
-          216,
-          256
-        ],
-        "system.": [
-          75
-        ],
-        "These": [
-          76,
-          208
-        ],
-        "also": [
-          78
-        ],
-        "affect": [
-          79
-        ],
-        "models": [
-          80,
-          302,
+        "for": [
+          10,
+          24,
+          105,
+          149,
+          322,
+          350,
+          367,
+          372,
           399
         ],
-        "catchment": [
-          82,
-          155,
-          329,
-          344,
-          391
+        "process-based": [
+          11
         ],
-        "areas,": [
-          83
+        "depositional": [
+          12,
+          282,
+          352
         ],
-        "structural": [
-          84
+        "modelling": [
+          13
         ],
-        "uplift,": [
-          85
+        "(forward": [
+          14
         ],
-        "and": [
-          86,
-          122,
-          157,
-          169,
-          199,
-          285,
-          328,
-          331,
-          346,
-          394
+        "stratigraphic": [
+          15,
+          291,
+          369
         ],
-        "denudation": [
-          87,
-          332
+        "modelling).": [
+          16
         ],
-        "rates": [
-          88,
-          284,
-          304,
-          333
+        "This": [
+          17
         ],
-        "as": [
-          89,
-          91
+        "paper": [
+          18,
+          273
         ],
-        "well": [
-          90
+        "presents": [
+          19
         ],
-        "net:gross": [
-          92,
-          158,
-          326
+        "a": [
+          20,
+          115
         ],
-        "predictions.": [
-          93
-        ],
-        "Methods,": [
-          94
-        ],
-        "Procedures,": [
-          95
-        ],
-        "Process": [
-          96
-        ],
-        "The": [
+        "new": [
+          21,
           97,
-          133,
           175,
           221,
           268,
           308,
           337
         ],
-        "focuses": [
-          101
+        "integrated": [
+          22,
+          98,
+          309,
+          338
         ],
-        "reconstructing": [
-          103
+        "approach": [
+          23,
+          99,
+          176,
+          222,
+          269,
+          310,
+          339
         ],
-        "fairways": [
-          109
+        "analyze": [
+          25
         ],
-        "from": [
-          110
+        "sediment": [
+          26,
+          47,
+          55,
+          72,
+          103,
+          107,
+          118,
+          147,
+          164,
+          232,
+          257,
+          279,
+          299,
+          313,
+          323,
+          363,
+          394
         ],
-        "datasets.": [
-          113
+        "budgets": [
+          28,
+          104
         ],
-        "It": [
-          114,
-          355
+        "in": [
+          29,
+          52,
+          145,
+          153,
+          196,
+          262,
+          271,
+          278,
+          289,
+          342,
+          376
         ],
-        "uses": [
-          115
+        "sedimentary": [
+          30
         ],
-        "combination": [
-          117
+        "basins": [
+          31
         ],
-        "mass": [
-          120
-        ],
-        "balancing": [
-          121
-        ],
-        "distributions": [
-          126
-        ],
-        "predict": [
-          128
-        ],
-        "basin-wide": [
-          129
-        ],
-        "distributions.": [
-          132
-        ],
-        "comparison": [
-          134
-        ],
-        "fairway-scale": [
-          140
-        ],
-        "trends": [
-          143
-        ],
-        "key": [
-          145
-        ],
-        "correcting": [
-          147
-        ],
-        "volumetrics": [
-          149
-        ],
-        "significantly": [
-          151,
-          275
-        ],
-        "reduced": [
-          152
-        ],
-        "ratios": [
-          159
-        ],
-        "predictions": [
-          160
-        ],
-        "at": [
-          161
-        ],
-        "scale": [
-          163
-        ],
-        "fairways,": [
-          166
-        ],
-        "sub-basins,": [
-          167
-        ],
-        "prospects": [
-          168
-        ],
-        "exploration/production": [
-          170
-        ],
-        "fields.": [
-          171
-        ],
-        "Results,": [
-          172
-        ],
-        "Observations,": [
-          173
-        ],
-        "Conclusions": [
-          174
-        ],
-        "has": [
-          178
-        ],
-        "been": [
-          179
-        ],
-        "applied": [
-          180
-        ],
-        "successfully": [
-          181
-        ],
-        "two": [
-          183,
-          296
-        ],
-        "continental": [
-          185
-        ],
-        "marine": [
-          187
-        ],
-        "delta": [
-          188
-        ],
-        "systems.": [
-          189,
-          354
-        ],
-        "They": [
-          190
-        ],
-        "periods": [
-          192
-        ],
-        "approximately": [
-          194
-        ],
-        "My": [
-          196
-        ],
-        "include": [
-          200
-        ],
-        "four": [
-          201
-        ],
-        "interest": [
-          206
-        ],
-        "(AOI).": [
-          207
-        ],
-        "AOIs": [
-          210
-        ],
-        "measure": [
-          211
-        ],
-        "200×200": [
-          212
-        ],
-        "km,": [
-          213
-        ],
-        "while": [
-          214
-        ],
-        "sub-basin": [
-          217
-        ],
-        "measures": [
-          218
-        ],
-        "500×800": [
-          219
-        ],
-        "km.": [
-          220
-        ],
-        "indicates": [
+        "that": [
+          32,
+          66,
           224,
           312
         ],
-        "only": [
-          226
+        "is": [
+          33,
+          143
         ],
-        "up": [
-          227
+        "based": [
+          34
         ],
-        "40%": [
-          229
+        "on": [
+          35,
+          101
         ],
-        "volume": [
-          234,
-          259,
-          281
-        ],
-        "each": [
-          236
-        ],
-        "fairway": [
-          237
-        ],
-        "could": [
-          238,
-          260
-        ],
-        "be": [
-          239,
-          261,
-          386
-        ],
-        "captured": [
-          240
-        ],
-        "by": [
-          241,
-          389
-        ],
-        "previous": [
-          242,
-          299
-        ],
-        "methodologies": [
-          243
-        ],
-        "with": [
-          244,
-          320
-        ],
-        "interest.": [
-          249,
-          267
-        ],
-        "A": [
-          250
-        ],
-        "maximum": [
-          251
-        ],
-        "70%": [
-          253
-        ],
-        "sink": [
-          257,
-          401
-        ],
-        "incorporated": [
-          262
-        ],
-        "presented": [
-          271
-        ],
-        "this": [
-          273
-        ],
-        "lowers": [
-          276
-        ],
-        "estimates,": [
-          282
-        ],
-        "lithology": [
-          286
-        ],
-        "distribution": [
-          287,
-          398
-        ],
-        "forward": [
-          291,
-          369
-        ],
-        "modelling.": [
-          293
-        ],
-        "For": [
+        "the": [
+          36,
+          70,
+          161,
+          214,
+          230,
+          254,
+          276,
           294
         ],
-        "case": [
-          297
+        "reconstruction": [
+          37,
+          155
         ],
-        "studies,": [
-          298
+        "of": [
+          38,
+          46,
+          80,
+          117,
+          134,
+          163,
+          192,
+          204,
+          229,
+          234,
+          247,
+          251,
+          253,
+          265,
+          304
         ],
-        "flux": [
-          301,
-          315
+        "regional": [
+          39
         ],
-        "indicated": [
-          303
+        "grain": [
+          40,
+          123,
+          129,
+          136,
+          140,
+          395
         ],
-        "10,000": [
-          306
+        "size": [
+          41,
+          124,
+          130,
+          137,
+          141,
+          329,
+          344,
+          391,
+          396
         ],
-        "km/Myr.": [
-          307
+        "trends.": [
+          42
         ],
-        "actually": [
-          316
-        ],
-        "reached": [
-          317
-        ],
-        "30,000": [
-          318
-        ],
-        "km/Myr": [
-          319
-        ],
-        "major": [
-          321
-        ],
-        "implications": [
-          322
-        ],
-        "distribution,": [
-          325
-        ],
-        "prediction": [
-          327,
-          376,
-          393
-        ],
-        "estimates.": [
-          334
-        ],
-        "Novel/Additive": [
-          335
-        ],
-        "Information": [
-          336
-        ],
-        "reduces": [
-          341
-        ],
-        "tectonic": [
-          347
-        ],
-        "exhumation": [
-          348
-        ],
-        "rate": [
-          349
-        ],
-        "clastic": [
-          352
-        ],
-        "provides": [
-          356
-        ],
-        "lower": [
-          357
-        ],
-        "uncertainty": [
-          358
-        ],
-        "(sediment": [
-          360
-        ],
-        "volume,": [
-          361
-        ],
-        "source": [
-          362
-        ],
-        "locations,": [
-          363
-        ],
-        "fractions,": [
-          365
-        ],
-        "diffusion": [
-          366
-        ],
-        "coefficients)": [
-          367
-        ],
-        "modelling,": [
-          371
-        ],
-        "e.g.,": [
-          372
-        ],
-        "reservoir": [
-          374
-        ],
-        "quality": [
-          375
-        ],
-        "hydrocarbon": [
-          378
-        ],
-        "exploration.": [
+        "In": [
+          43,
           379
         ],
-        "fundamental": [
-          381
+        "subsurface": [
+          44,
+          183
         ],
-        "research,": [
-          382
+        "studies": [
+          45
         ],
-        "provenance": [
-          383
+        "routing": [
+          48,
+          73
         ],
-        "analyses": [
-          384
+        "systems,": [
+          49
         ],
-        "can": [
+        "noticeable": [
+          50
+        ],
+        "uncertainties": [
+          51,
+          76,
+          152,
+          277,
+          341
+        ],
+        "estimated": [
+          53
+        ],
+        "total": [
+          54,
+          197,
+          231
+        ],
+        "volumes": [
+          56
+        ],
+        "occur": [
+          57
+        ],
+        "when": [
+          58
+        ],
+        "available": [
+          59
+        ],
+        "datasets": [
+          60
+        ],
+        "limited": [
+          62,
+          110,
+          201,
+          244
+        ],
+        "to": [
+          63,
+          126,
+          138,
+          181,
+          185,
+          227
+        ],
+        "local": [
+          64,
+          111,
+          122,
+          135,
+          202,
+          208,
+          245,
+          263
+        ],
+        "areas": [
+          65,
+          203,
+          246,
+          264,
+          401
+        ],
+        "do": [
+          67
+        ],
+        "not": [
+          68
+        ],
+        "cover": [
+          69,
+          190
+        ],
+        "entire": [
+          71,
+          106,
+          215,
+          255
+        ],
+        "system.": [
+          74
+        ],
+        "These": [
+          75,
+          207
+        ],
+        "also": [
+          77
+        ],
+        "affect": [
+          78
+        ],
+        "models": [
+          79,
+          301,
+          398
+        ],
+        "catchment": [
+          81,
+          154,
+          328,
+          343,
+          390
+        ],
+        "areas,": [
+          82
+        ],
+        "structural": [
+          83
+        ],
+        "uplift,": [
+          84
+        ],
+        "and": [
+          85,
+          121,
+          156,
+          168,
+          198,
+          284,
+          327,
+          330,
+          345,
+          393
+        ],
+        "denudation": [
+          86,
+          331
+        ],
+        "rates": [
+          87,
+          283,
+          303,
+          332
+        ],
+        "as": [
+          88,
+          90
+        ],
+        "well": [
+          89
+        ],
+        "net:gross": [
+          91,
+          157,
+          325
+        ],
+        "predictions.": [
+          92
+        ],
+        "Methods,": [
+          93
+        ],
+        "Procedures,": [
+          94
+        ],
+        "Process": [
+          95
+        ],
+        "The": [
+          96,
+          132,
+          174,
+          220,
+          267,
+          307,
+          336
+        ],
+        "focuses": [
+          100
+        ],
+        "reconstructing": [
+          102
+        ],
+        "fairways": [
+          108
+        ],
+        "from": [
+          109
+        ],
+        "datasets.": [
+          112
+        ],
+        "It": [
+          113,
+          354
+        ],
+        "uses": [
+          114
+        ],
+        "combination": [
+          116
+        ],
+        "mass": [
+          119
+        ],
+        "balancing": [
+          120
+        ],
+        "distributions": [
+          125
+        ],
+        "predict": [
+          127
+        ],
+        "basin-wide": [
+          128
+        ],
+        "distributions.": [
+          131
+        ],
+        "comparison": [
+          133
+        ],
+        "fairway-scale": [
+          139
+        ],
+        "trends": [
+          142
+        ],
+        "key": [
+          144
+        ],
+        "correcting": [
+          146
+        ],
+        "volumetrics": [
+          148
+        ],
+        "significantly": [
+          150,
+          274
+        ],
+        "reduced": [
+          151
+        ],
+        "ratios": [
+          158
+        ],
+        "predictions": [
+          159
+        ],
+        "at": [
+          160
+        ],
+        "scale": [
+          162
+        ],
+        "fairways,": [
+          165
+        ],
+        "sub-basins,": [
+          166
+        ],
+        "prospects": [
+          167
+        ],
+        "exploration/production": [
+          169
+        ],
+        "fields.": [
+          170
+        ],
+        "Results,": [
+          171
+        ],
+        "Observations,": [
+          172
+        ],
+        "Conclusions": [
+          173
+        ],
+        "has": [
+          177
+        ],
+        "been": [
+          178
+        ],
+        "applied": [
+          179
+        ],
+        "successfully": [
+          180
+        ],
+        "two": [
+          182,
+          295
+        ],
+        "continental": [
+          184
+        ],
+        "marine": [
+          186
+        ],
+        "delta": [
+          187
+        ],
+        "systems.": [
+          188,
+          353
+        ],
+        "They": [
+          189
+        ],
+        "periods": [
+          191
+        ],
+        "approximately": [
+          193
+        ],
+        "My": [
+          195
+        ],
+        "include": [
+          199
+        ],
+        "four": [
+          200
+        ],
+        "interest": [
+          205
+        ],
+        "(AOI).": [
+          206
+        ],
+        "AOIs": [
+          209
+        ],
+        "measure": [
+          210
+        ],
+        "200×200": [
+          211
+        ],
+        "km,": [
+          212
+        ],
+        "while": [
+          213
+        ],
+        "sub-basin": [
+          216
+        ],
+        "measures": [
+          217
+        ],
+        "500×800": [
+          218
+        ],
+        "km.": [
+          219
+        ],
+        "indicates": [
+          223,
+          311
+        ],
+        "only": [
+          225
+        ],
+        "up": [
+          226
+        ],
+        "40%": [
+          228
+        ],
+        "volume": [
+          233,
+          258,
+          280
+        ],
+        "each": [
+          235
+        ],
+        "fairway": [
+          236
+        ],
+        "could": [
+          237,
+          259
+        ],
+        "be": [
+          238,
+          260,
           385
         ],
-        "better": [
-          387
+        "captured": [
+          239
         ],
-        "constrained": [
+        "by": [
+          240,
           388
         ],
+        "previous": [
+          241,
+          298
+        ],
+        "methodologies": [
+          242
+        ],
+        "with": [
+          243,
+          319
+        ],
+        "interest.": [
+          248,
+          266
+        ],
+        "A": [
+          249
+        ],
+        "maximum": [
+          250
+        ],
+        "70%": [
+          252
+        ],
+        "sink": [
+          256,
+          400
+        ],
+        "incorporated": [
+          261
+        ],
+        "presented": [
+          270
+        ],
+        "this": [
+          272
+        ],
+        "lowers": [
+          275
+        ],
+        "estimates,": [
+          281
+        ],
+        "lithology": [
+          285
+        ],
+        "distribution": [
+          286,
+          397
+        ],
+        "forward": [
+          290,
+          368
+        ],
+        "modelling.": [
+          292
+        ],
+        "For": [
+          293
+        ],
+        "case": [
+          296
+        ],
+        "studies,": [
+          297
+        ],
+        "flux": [
+          300,
+          314
+        ],
+        "indicated": [
+          302
+        ],
+        "10,000": [
+          305
+        ],
+        "km/Myr.": [
+          306
+        ],
+        "actually": [
+          315
+        ],
+        "reached": [
+          316
+        ],
+        "30,000": [
+          317
+        ],
+        "km/Myr": [
+          318
+        ],
+        "major": [
+          320
+        ],
+        "implications": [
+          321
+        ],
+        "distribution,": [
+          324
+        ],
+        "prediction": [
+          326,
+          375,
+          392
+        ],
+        "estimates.": [
+          333
+        ],
+        "Novel/Additive": [
+          334
+        ],
+        "Information": [
+          335
+        ],
+        "reduces": [
+          340
+        ],
+        "tectonic": [
+          346
+        ],
+        "exhumation": [
+          347
+        ],
+        "rate": [
+          348
+        ],
+        "clastic": [
+          351
+        ],
+        "provides": [
+          355
+        ],
+        "lower": [
+          356
+        ],
+        "uncertainty": [
+          357
+        ],
+        "(sediment": [
+          359
+        ],
+        "volume,": [
+          360
+        ],
+        "source": [
+          361
+        ],
+        "locations,": [
+          362
+        ],
+        "fractions,": [
+          364
+        ],
+        "diffusion": [
+          365
+        ],
+        "coefficients)": [
+          366
+        ],
+        "modelling,": [
+          370
+        ],
+        "e.g.,": [
+          371
+        ],
+        "reservoir": [
+          373
+        ],
+        "quality": [
+          374
+        ],
+        "hydrocarbon": [
+          377
+        ],
+        "exploration.": [
+          378
+        ],
+        "fundamental": [
+          380
+        ],
+        "research,": [
+          381
+        ],
+        "provenance": [
+          382
+        ],
+        "analyses": [
+          383
+        ],
+        "can": [
+          384
+        ],
+        "better": [
+          386
+        ],
+        "constrained": [
+          387
+        ],
         "improved": [
-          390
+          389
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4200187165",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -12696,6 +12722,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Michael, Nikolaos A.",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12714,6 +12741,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Carter, Andrew",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12732,6 +12760,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Whittaker, Alexander C.",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12750,6 +12779,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Allen, Philip A.",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13108,8 +13138,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13702,6 +13732,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Peng Lu",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia"
@@ -13742,6 +13773,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos Michael",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia"
@@ -13780,6 +13812,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abrar Alabbad",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia"
@@ -13820,6 +13853,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rainer Zühlke",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia"
@@ -13848,6 +13882,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Ahmed Hafez",
           "raw_affiliation_strings": [
             "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, Saudi Arabia"
@@ -13871,6 +13906,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Avrami Grader",
           "raw_affiliation_strings": [
             "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, Saudi Arabia"
@@ -13894,6 +13930,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Hussain Al-Qatari",
           "raw_affiliation_strings": [
             "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, Saudi Arabia"
@@ -13937,7 +13974,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.2685999870300293,
+        "score": 0.2572999894618988,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -13955,7 +13992,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.2685999870300293,
+          "score": 0.2572999894618988,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -13972,7 +14009,7 @@
         {
           "id": "https://openalex.org/T11302",
           "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.21080000698566437,
+          "score": 0.21580000221729279,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -13987,16 +14024,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11278",
-          "display_name": "Calcium Carbonate Crystallization and Inhibition",
-          "score": 0.16060000658035278,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.18050000071525574,
           "subfield": {
-            "id": "https://openalex.org/subfields/2502",
-            "display_name": "Biomaterials"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -14278,8 +14315,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -14310,772 +14347,769 @@
       ],
       "abstract_inverted_index": {
         "1440": [
-          292
-        ],
-        "Abstract": [
-          0
-        ],
-        "Carbonate": [
-          1
-        ],
-        "diagenesis": [
-          2,
-          43
-        ],
-        "is": [
-          3,
-          229,
-          235
-        ],
-        "one": [
-          4,
-          206
-        ],
-        "of": [
-          5,
-          17,
-          22,
-          40,
-          47,
-          80,
-          84,
-          130,
-          182,
-          198,
-          205,
-          211,
-          223,
-          272,
-          286,
-          307,
-          338,
-          347
-        ],
-        "the": [
-          6,
-          28,
-          38,
-          78,
-          115,
-          147,
-          160,
-          164,
-          183,
-          190,
-          203,
-          238,
-          251,
-          305,
-          313,
-          336,
-          344
-        ],
-        "key": [
-          7
-        ],
-        "processes": [
-          8,
-          187,
-          322
-        ],
-        "that": [
-          9,
-          281
-        ],
-        "ultimately": [
-          10
-        ],
-        "controls": [
-          11
-        ],
-        "reservoir": [
-          12,
-          56,
-          277
-        ],
-        "quality": [
-          13
-        ],
-        "and": [
-          14,
-          54,
-          57,
-          104,
-          185,
-          263,
-          269,
-          302,
-          341
-        ],
-        "storage": [
-          15,
-          58
-        ],
-        "capacity": [
-          16
-        ],
-        "carbonate": [
-          18,
-          42,
-          131,
-          274,
-          339
-        ],
-        "reservoirs.": [
-          19
-        ],
-        "The": [
-          20,
-          88,
-          194,
-          225,
-          253,
-          327
-        ],
-        "rates": [
-          21
-        ],
-        "early": [
-          23,
-          41,
-          85,
-          273,
-          319
-        ],
-        "marine": [
-          24,
-          86,
-          320
-        ],
-        "diagenetic": [
-          25,
-          106,
-          154,
-          186,
-          264,
-          321
-        ],
-        "reactions": [
-          26
-        ],
-        "in": [
-          27,
-          97,
-          114,
-          189,
-          243,
-          250,
-          300,
-          323
-        ],
-        "geological": [
-          29
-        ],
-        "past": [
-          30
-        ],
-        "are": [
-          31
-        ],
-        "little": [
-          32
-        ],
-        "constrained.": [
-          33
-        ],
-        "Fundamental": [
-          34
-        ],
-        "physical": [
-          35
-        ],
-        "experiments": [
-          36
-        ],
-        "allow": [
-          37
-        ],
-        "calibration": [
-          39
-        ],
-        "for": [
-          44,
-          178,
-          266
-        ],
-        "a": [
-          45,
-          62,
-          71,
-          120,
-          134,
-          152,
-          179,
-          244,
-          297,
-          324
-        ],
-        "variety": [
-          46
-        ],
-        "further": [
-          48
-        ],
-        "applications,": [
-          49
-        ],
-        "e.g.,": [
-          50
-        ],
-        "process-based": [
-          51
-        ],
-        "modeling,": [
-          52
-        ],
-        "fluid-flow": [
-          53
-        ],
-        "ultimately,": [
-          55
-        ],
-        "simulation.": [
-          59
-        ],
-        "We": [
-          60,
-          279
-        ],
-        "conducted": [
-          61
-        ],
-        "year-long": [
-          63
-        ],
-        "flume": [
-          64,
-          325
-        ],
-        "tank": [
-          65
-        ],
-        "experiment": [
-          66,
-          89,
-          249
-        ],
-        "to": [
-          67,
-          73,
-          100,
-          145,
-          158,
-          259,
-          296,
-          316,
-          331,
-          342
-        ],
-        "study": [
-          68,
-          311
-        ],
-        "cementation": [
-          69,
-          161,
-          227,
-          254,
-          333
-        ],
-        "along": [
-          70
-        ],
-        "supratidal": [
-          72
-        ],
-        "subtidal": [
-          74,
-          105,
-          116,
-          192
-        ],
-        "depositional": [
-          75,
-          149,
-          184
-        ],
-        "profile,": [
-          76
-        ],
-        "with": [
-          77,
-          94,
-          123,
-          141,
-          217,
-          237
-        ],
-        "aim": [
-          79
-        ],
-        "improving": [
-          81
-        ],
-        "our": [
-          82,
-          308
-        ],
-        "understanding": [
-          83,
-          181
-        ],
-        "cementation.": [
-          87
-        ],
-        "used": [
-          90,
-          258
-        ],
-        "artificial": [
-          91
-        ],
-        "sea": [
-          92
-        ],
-        "water": [
-          93,
-          98,
-          171
-        ],
-        "periodic": [
-          95
-        ],
-        "oscillation": [
-          96
-        ],
-        "level": [
-          99
-        ],
-        "create": [
-          101
-        ],
-        "supratidal,": [
-          102
-        ],
-        "intertidal": [
-          103
-        ],
-        "environments.": [
-          107,
-          150
-        ],
-        "To": [
-          108,
-          304
-        ],
-        "simulate": [
-          109
-        ],
-        "an": [
-          110,
-          218,
-          282
-        ],
-        "active": [
-          111
-        ],
-        "deposition": [
-          112,
-          262
-        ],
-        "zone": [
-          113,
-          122
-        ],
-        "environment,": [
-          117
-        ],
-        "we": [
-          118
-        ],
-        "established": [
-          119
-        ],
-        "\"subtidal": [
-          121
-        ],
-        "deposition\"": [
-          124
-        ],
-        "by": [
-          125
-        ],
-        "periodically": [
-          126
-        ],
-        "adding": [
-          127
-        ],
-        "thin": [
-          128
-        ],
-        "layers": [
-          129
-        ],
-        "sediment": [
-          132,
-          213,
-          340
-        ],
-        "on": [
-          133,
-          335
-        ],
-        "monthly": [
-          135
-        ],
-        "basis.": [
-          136
-        ],
-        "Monthly": [
-          137
-        ],
-        "sampling": [
-          138
-        ],
-        "was": [
-          139,
-          156,
-          167
-        ],
-        "conducted,": [
-          140
-        ],
-        "four": [
-          142
-        ],
-        "samples": [
-          143
-        ],
-        "collected": [
-          144
-        ],
-        "characterize": [
-          146
-        ],
-        "distinct": [
-          148
-        ],
-        "Furthermore,": [
-          151
-        ],
-        "quantitative": [
-          153
-        ],
-        "model": [
-          155,
-          318
-        ],
-        "developed": [
-          157
-        ],
-        "predict": [
-          159,
-          343
-        ],
-        "process": [
-          162
-        ],
-        "within": [
-          163
-        ],
-        "tank,": [
-          165
-        ],
-        "which": [
-          166,
-          234
-        ],
-        "calibrated": [
-          168
-        ],
-        "using": [
-          169
-        ],
-        "experimental": [
-          170
-        ],
-        "chemistry": [
-          172
-        ],
-        "data.": [
-          173
-        ],
-        "This": [
-          174
-        ],
-        "integrated": [
-          175,
-          261
-        ],
-        "approach": [
-          176,
-          328
-        ],
-        "allowed": [
-          177
-        ],
-        "comprehensive": [
-          180
-        ],
-        "occurring": [
-          188
-        ],
-        "simulated": [
-          191
-        ],
-        "environment.": [
-          193
-        ],
-        "petrographically": [
-          195
-        ],
-        "observed": [
-          196
-        ],
-        "quantities": [
-          197
-        ],
-        "aragonite": [
-          199,
-          239
-        ],
-        "cement": [
-          200,
-          221,
-          275,
-          284
-        ],
-        "formed": [
-          201
-        ],
-        "over": [
-          202,
           291
         ],
-        "period": [
-          204
+        "Carbonate": [
+          0
         ],
-        "year": [
-          207
+        "diagenesis": [
+          1,
+          42
         ],
-        "range": [
-          208
-        ],
-        "from": [
-          209
-        ],
-        "~0-4%": [
-          210
-        ],
-        "total": [
-          212
-        ],
-        "(grain": [
-          214
-        ],
-        "+": [
-          215
-        ],
-        "porosity)": [
-          216
-        ],
-        "estimated": [
-          219,
-          280
-        ],
-        "average": [
-          220,
-          283
-        ],
-        "fraction": [
-          222,
-          285
-        ],
-        "~1.0%.": [
-          224
-        ],
-        "calculated": [
-          226
-        ],
-        "rate": [
+        "is": [
+          2,
           228,
-          241,
-          255
+          234
         ],
-        "1.96": [
-          230
+        "one": [
+          3,
+          205
         ],
-        "×": [
-          231
-        ],
-        "10-9": [
-          232
-        ],
-        "mol/m2/s,": [
-          233
-        ],
-        "comparable": [
-          236
-        ],
-        "growth": [
-          240
-        ],
-        "measured": [
-          242
-        ],
-        "recent": [
-          245
-        ],
-        "mixed": [
-          246
-        ],
-        "flow": [
-          247
-        ],
-        "reactor": [
-          248
-        ],
-        "literature.": [
-          252
-        ],
-        "can": [
-          256
-        ],
-        "be": [
-          257,
-          289
-        ],
-        "calibrate": [
-          260
-        ],
-        "models": [
-          265
-        ],
-        "modeling": [
-          267
-        ],
-        "temporal": [
-          268
-        ],
-        "spatial": [
-          270
-        ],
-        "evolution": [
-          271
-        ],
-        "at": [
-          276,
-          350
-        ],
-        "scale.": [
-          278
-        ],
-        "~10%": [
-          287
-        ],
-        "would": [
-          288
-        ],
-        "generated": [
-          290
-        ],
-        "effective": [
-          293
-        ],
-        "years,": [
-          294
-        ],
-        "leading": [
-          295
-        ],
-        "substantial": [
-          298
-        ],
-        "reduction": [
-          299
-        ],
-        "porosity": [
-          301,
-          337
-        ],
-        "permeability.": [
-          303
-        ],
-        "best": [
-          306
-        ],
-        "knowledge,": [
-          309
-        ],
-        "this": [
-          310
-        ],
-        "represents": [
-          312
-        ],
-        "first": [
-          314
-        ],
-        "attempt": [
-          315
-        ],
-        "physically": [
-          317
-        ],
-        "tank.": [
-          326
-        ],
-        "allows": [
-          329
-        ],
-        "us": [
-          330
-        ],
-        "estimate": [
-          332
-        ],
-        "effects": [
-          334
-        ],
-        "yearly": [
-          345
-        ],
-        "amount": [
+        "of": [
+          4,
+          16,
+          21,
+          39,
+          46,
+          79,
+          83,
+          129,
+          181,
+          197,
+          204,
+          210,
+          222,
+          271,
+          285,
+          306,
+          337,
           346
         ],
-        "carbon": [
-          348
+        "the": [
+          5,
+          27,
+          37,
+          77,
+          114,
+          146,
+          159,
+          163,
+          182,
+          189,
+          202,
+          237,
+          250,
+          304,
+          312,
+          335,
+          343
         ],
-        "mineralization": [
+        "key": [
+          6
+        ],
+        "processes": [
+          7,
+          186,
+          321
+        ],
+        "that": [
+          8,
+          280
+        ],
+        "ultimately": [
+          9
+        ],
+        "controls": [
+          10
+        ],
+        "reservoir": [
+          11,
+          55,
+          276
+        ],
+        "quality": [
+          12
+        ],
+        "and": [
+          13,
+          53,
+          56,
+          103,
+          184,
+          262,
+          268,
+          301,
+          340
+        ],
+        "storage": [
+          14,
+          57
+        ],
+        "capacity": [
+          15
+        ],
+        "carbonate": [
+          17,
+          41,
+          130,
+          273,
+          338
+        ],
+        "reservoirs.": [
+          18
+        ],
+        "The": [
+          19,
+          87,
+          193,
+          224,
+          252,
+          326
+        ],
+        "rates": [
+          20
+        ],
+        "early": [
+          22,
+          40,
+          84,
+          272,
+          318
+        ],
+        "marine": [
+          23,
+          85,
+          319
+        ],
+        "diagenetic": [
+          24,
+          105,
+          153,
+          185,
+          263,
+          320
+        ],
+        "reactions": [
+          25
+        ],
+        "in": [
+          26,
+          96,
+          113,
+          188,
+          242,
+          249,
+          299,
+          322
+        ],
+        "geological": [
+          28
+        ],
+        "past": [
+          29
+        ],
+        "are": [
+          30
+        ],
+        "little": [
+          31
+        ],
+        "constrained.": [
+          32
+        ],
+        "Fundamental": [
+          33
+        ],
+        "physical": [
+          34
+        ],
+        "experiments": [
+          35
+        ],
+        "allow": [
+          36
+        ],
+        "calibration": [
+          38
+        ],
+        "for": [
+          43,
+          177,
+          265
+        ],
+        "a": [
+          44,
+          61,
+          70,
+          119,
+          133,
+          151,
+          178,
+          243,
+          296,
+          323
+        ],
+        "variety": [
+          45
+        ],
+        "further": [
+          47
+        ],
+        "applications,": [
+          48
+        ],
+        "e.g.,": [
+          49
+        ],
+        "process-based": [
+          50
+        ],
+        "modeling,": [
+          51
+        ],
+        "fluid-flow": [
+          52
+        ],
+        "ultimately,": [
+          54
+        ],
+        "simulation.": [
+          58
+        ],
+        "We": [
+          59,
+          278
+        ],
+        "conducted": [
+          60
+        ],
+        "year-long": [
+          62
+        ],
+        "flume": [
+          63,
+          324
+        ],
+        "tank": [
+          64
+        ],
+        "experiment": [
+          65,
+          88,
+          248
+        ],
+        "to": [
+          66,
+          72,
+          99,
+          144,
+          157,
+          258,
+          295,
+          315,
+          330,
+          341
+        ],
+        "study": [
+          67,
+          310
+        ],
+        "cementation": [
+          68,
+          160,
+          226,
+          253,
+          332
+        ],
+        "along": [
+          69
+        ],
+        "supratidal": [
+          71
+        ],
+        "subtidal": [
+          73,
+          104,
+          115,
+          191
+        ],
+        "depositional": [
+          74,
+          148,
+          183
+        ],
+        "profile,": [
+          75
+        ],
+        "with": [
+          76,
+          93,
+          122,
+          140,
+          216,
+          236
+        ],
+        "aim": [
+          78
+        ],
+        "improving": [
+          80
+        ],
+        "our": [
+          81,
+          307
+        ],
+        "understanding": [
+          82,
+          180
+        ],
+        "cementation.": [
+          86
+        ],
+        "used": [
+          89,
+          257
+        ],
+        "artificial": [
+          90
+        ],
+        "sea": [
+          91
+        ],
+        "water": [
+          92,
+          97,
+          170
+        ],
+        "periodic": [
+          94
+        ],
+        "oscillation": [
+          95
+        ],
+        "level": [
+          98
+        ],
+        "create": [
+          100
+        ],
+        "supratidal,": [
+          101
+        ],
+        "intertidal": [
+          102
+        ],
+        "environments.": [
+          106,
+          149
+        ],
+        "To": [
+          107,
+          303
+        ],
+        "simulate": [
+          108
+        ],
+        "an": [
+          109,
+          217,
+          281
+        ],
+        "active": [
+          110
+        ],
+        "deposition": [
+          111,
+          261
+        ],
+        "zone": [
+          112,
+          121
+        ],
+        "environment,": [
+          116
+        ],
+        "we": [
+          117
+        ],
+        "established": [
+          118
+        ],
+        "\"subtidal": [
+          120
+        ],
+        "deposition\"": [
+          123
+        ],
+        "by": [
+          124
+        ],
+        "periodically": [
+          125
+        ],
+        "adding": [
+          126
+        ],
+        "thin": [
+          127
+        ],
+        "layers": [
+          128
+        ],
+        "sediment": [
+          131,
+          212,
+          339
+        ],
+        "on": [
+          132,
+          334
+        ],
+        "monthly": [
+          134
+        ],
+        "basis.": [
+          135
+        ],
+        "Monthly": [
+          136
+        ],
+        "sampling": [
+          137
+        ],
+        "was": [
+          138,
+          155,
+          166
+        ],
+        "conducted,": [
+          139
+        ],
+        "four": [
+          141
+        ],
+        "samples": [
+          142
+        ],
+        "collected": [
+          143
+        ],
+        "characterize": [
+          145
+        ],
+        "distinct": [
+          147
+        ],
+        "Furthermore,": [
+          150
+        ],
+        "quantitative": [
+          152
+        ],
+        "model": [
+          154,
+          317
+        ],
+        "developed": [
+          156
+        ],
+        "predict": [
+          158,
+          342
+        ],
+        "process": [
+          161
+        ],
+        "within": [
+          162
+        ],
+        "tank,": [
+          164
+        ],
+        "which": [
+          165,
+          233
+        ],
+        "calibrated": [
+          167
+        ],
+        "using": [
+          168
+        ],
+        "experimental": [
+          169
+        ],
+        "chemistry": [
+          171
+        ],
+        "data.": [
+          172
+        ],
+        "This": [
+          173
+        ],
+        "integrated": [
+          174,
+          260
+        ],
+        "approach": [
+          175,
+          327
+        ],
+        "allowed": [
+          176
+        ],
+        "comprehensive": [
+          179
+        ],
+        "occurring": [
+          187
+        ],
+        "simulated": [
+          190
+        ],
+        "environment.": [
+          192
+        ],
+        "petrographically": [
+          194
+        ],
+        "observed": [
+          195
+        ],
+        "quantities": [
+          196
+        ],
+        "aragonite": [
+          198,
+          238
+        ],
+        "cement": [
+          199,
+          220,
+          274,
+          283
+        ],
+        "formed": [
+          200
+        ],
+        "over": [
+          201,
+          290
+        ],
+        "period": [
+          203
+        ],
+        "year": [
+          206
+        ],
+        "range": [
+          207
+        ],
+        "from": [
+          208
+        ],
+        "~0-4%": [
+          209
+        ],
+        "total": [
+          211
+        ],
+        "(grain": [
+          213
+        ],
+        "+": [
+          214
+        ],
+        "porosity)": [
+          215
+        ],
+        "estimated": [
+          218,
+          279
+        ],
+        "average": [
+          219,
+          282
+        ],
+        "fraction": [
+          221,
+          284
+        ],
+        "~1.0%.": [
+          223
+        ],
+        "calculated": [
+          225
+        ],
+        "rate": [
+          227,
+          240,
+          254
+        ],
+        "1.96": [
+          229
+        ],
+        "×": [
+          230
+        ],
+        "10-9": [
+          231
+        ],
+        "mol/m2/s,": [
+          232
+        ],
+        "comparable": [
+          235
+        ],
+        "growth": [
+          239
+        ],
+        "measured": [
+          241
+        ],
+        "recent": [
+          244
+        ],
+        "mixed": [
+          245
+        ],
+        "flow": [
+          246
+        ],
+        "reactor": [
+          247
+        ],
+        "literature.": [
+          251
+        ],
+        "can": [
+          255
+        ],
+        "be": [
+          256,
+          288
+        ],
+        "calibrate": [
+          259
+        ],
+        "models": [
+          264
+        ],
+        "modeling": [
+          266
+        ],
+        "temporal": [
+          267
+        ],
+        "spatial": [
+          269
+        ],
+        "evolution": [
+          270
+        ],
+        "at": [
+          275,
           349
         ],
+        "scale.": [
+          277
+        ],
+        "~10%": [
+          286
+        ],
+        "would": [
+          287
+        ],
+        "generated": [
+          289
+        ],
+        "effective": [
+          292
+        ],
+        "years,": [
+          293
+        ],
+        "leading": [
+          294
+        ],
+        "substantial": [
+          297
+        ],
+        "reduction": [
+          298
+        ],
+        "porosity": [
+          300,
+          336
+        ],
+        "permeability.": [
+          302
+        ],
+        "best": [
+          305
+        ],
+        "knowledge,": [
+          308
+        ],
+        "this": [
+          309
+        ],
+        "represents": [
+          311
+        ],
+        "first": [
+          313
+        ],
+        "attempt": [
+          314
+        ],
+        "physically": [
+          316
+        ],
+        "tank.": [
+          325
+        ],
+        "allows": [
+          328
+        ],
+        "us": [
+          329
+        ],
+        "estimate": [
+          331
+        ],
+        "effects": [
+          333
+        ],
+        "yearly": [
+          344
+        ],
+        "amount": [
+          345
+        ],
+        "carbon": [
+          347
+        ],
+        "mineralization": [
+          348
+        ],
         "different": [
-          351
+          350
         ],
         "atmospheric": [
-          352
+          351
         ],
         "CO2": [
-          353
+          352
         ],
         "levels.": [
-          354
+          353
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414226490",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15167,6 +15201,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Nikolaos Michael",
           "raw_affiliation_strings": [
             "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia"
@@ -15207,6 +15242,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Rainer Zühlke",
           "raw_affiliation_strings": [
             "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia"
@@ -15245,6 +15281,7 @@
             "SA"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Eyad Aljshi",
           "raw_affiliation_strings": [
             "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia"
@@ -15572,17 +15609,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,

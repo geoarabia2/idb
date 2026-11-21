@@ -500,6 +500,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Raymond Enay",
           "raw_affiliation_strings": [
             "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS n o 11 France"
@@ -539,6 +540,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yves-Marie Le Nindre",
           "raw_affiliation_strings": [
             "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
@@ -564,6 +566,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Charles Mangold",
           "raw_affiliation_strings": [
             "Laboratoire de Géologie des ensembles sédimentaires, Université de Nancy I-B.P.239, 54506 Vandoeuvre-les-Nancy France"
@@ -600,6 +603,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Manivit",
           "raw_affiliation_strings": [
             "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
@@ -638,6 +642,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [
             "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
@@ -1098,6 +1103,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Y. M. Le Nindre",
           "raw_affiliation_strings": [
             "BRGM, SGN, Orleans, France"
@@ -1123,6 +1129,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "J. Manivit",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1139,6 +1146,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "H. Manivit",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1155,6 +1163,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "D. Vaslet",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -2222,6 +2231,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jean-Claude Fischer",
           "raw_affiliation_strings": [
             "Laboratoire de Paléontologie du Muséum national d’Histoire naturelle, Paris, France"
@@ -2260,6 +2270,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières, Orléans, France"
@@ -2298,6 +2309,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Manivit",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières, Orléans, France"
@@ -2336,6 +2348,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières, Orléans, France"
@@ -2358,12 +2371,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4972,
+      "fwci": 0.4979,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.59285197,
+        "value": 0.58938011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2744,542 +2757,539 @@
       ],
       "abstract_inverted_index": {
         "26": [
-          94
+          93
         ],
         "35": [
-          97
+          96
         ],
         "440": [
-          71
+          70
         ],
         "600": [
-          67
+          66
         ],
         "1980": [
-          29
-        ],
-        "ABSTRACT": [
-          0
-        ],
-        "Mapping": [
-          1
-        ],
-        "of": [
-          2,
-          33,
-          137,
-          143,
-          148,
-          166,
-          194
-        ],
-        "Phanerozoic": [
-          3
-        ],
-        "rocks": [
-          4
-        ],
-        "at": [
-          5,
-          78
-        ],
-        "1:250,000": [
-          6
-        ],
-        "scale": [
-          7
-        ],
-        "by": [
-          8
-        ],
-        "joint": [
-          9
-        ],
-        "teams": [
-          10
-        ],
-        "from": [
-          11,
-          87,
-          99,
-          220
-        ],
-        "the": [
-          12,
-          21,
-          34,
-          100,
-          125,
-          130,
-          144,
-          183,
-          187,
-          195
-        ],
-        "Saudi": [
-          13,
-          39
-        ],
-        "Arabian": [
-          14
-        ],
-        "Deputy": [
-          15
-        ],
-        "Ministry": [
-          16
-        ],
-        "for": [
-          17,
-          50,
-          134
-        ],
-        "Mineral": [
-          18
-        ],
-        "Resources": [
-          19
-        ],
-        "and": [
-          20,
-          43,
-          61,
-          96,
-          112,
-          119,
-          122,
-          127,
-          154,
-          156,
-          201,
-          215
-        ],
-        "Bureau": [
-          22
-        ],
-        "de": [
-          23
-        ],
-        "Recherches": [
-          24
-        ],
-        "Géologiques": [
-          25
-        ],
-        "et": [
-          26
-        ],
-        "Minières": [
-          27
-        ],
-        "since": [
           28
         ],
-        "has": [
-          30
+        "Mapping": [
+          0
         ],
-        "covered": [
-          31
-        ],
-        "most": [
+        "of": [
+          1,
           32,
+          136,
+          142,
+          147,
+          165,
           193
         ],
-        "Jurassic": [
-          35,
-          150
+        "Phanerozoic": [
+          2
         ],
-        "outcrops": [
-          36
+        "rocks": [
+          3
         ],
-        "in": [
-          37,
+        "at": [
+          4,
+          77
+        ],
+        "1:250,000": [
+          5
+        ],
+        "scale": [
+          6
+        ],
+        "by": [
+          7
+        ],
+        "joint": [
+          8
+        ],
+        "teams": [
+          9
+        ],
+        "from": [
+          10,
+          86,
+          98,
+          219
+        ],
+        "the": [
+          11,
+          20,
+          33,
+          99,
           124,
           129,
-          173,
-          186
+          143,
+          182,
+          186,
+          194
         ],
-        "central": [
+        "Saudi": [
+          12,
           38
         ],
+        "Arabian": [
+          13
+        ],
+        "Deputy": [
+          14
+        ],
+        "Ministry": [
+          15
+        ],
+        "for": [
+          16,
+          49,
+          133
+        ],
+        "Mineral": [
+          17
+        ],
+        "Resources": [
+          18
+        ],
+        "and": [
+          19,
+          42,
+          60,
+          95,
+          111,
+          118,
+          121,
+          126,
+          153,
+          155,
+          200,
+          214
+        ],
+        "Bureau": [
+          21
+        ],
+        "de": [
+          22
+        ],
+        "Recherches": [
+          23
+        ],
+        "Géologiques": [
+          24
+        ],
+        "et": [
+          25
+        ],
+        "Minières": [
+          26
+        ],
+        "since": [
+          27
+        ],
+        "has": [
+          29
+        ],
+        "covered": [
+          30
+        ],
+        "most": [
+          31,
+          192
+        ],
+        "Jurassic": [
+          34,
+          149
+        ],
+        "outcrops": [
+          35
+        ],
+        "in": [
+          36,
+          123,
+          128,
+          172,
+          185
+        ],
+        "central": [
+          37
+        ],
         "Arabia.": [
-          40
+          39
         ],
         "Stratigraphic,": [
-          41
+          40
         ],
         "sedimentologic": [
-          42
+          41
         ],
         "paleogeographic": [
-          44
+          43
         ],
         "studies": [
-          45
+          44
         ],
         "provided": [
-          46
+          45
         ],
         "a": [
-          47,
-          80,
-          174
+          46,
+          79,
+          173
         ],
         "precise": [
-          48
+          47
         ],
         "framework": [
-          49
+          48
         ],
         "collected": [
-          51
+          50
         ],
         "gastropod": [
-          52,
-          72
+          51,
+          71
         ],
         "faunas": [
-          53
+          52
         ],
         "that": [
-          54
+          53
         ],
         "could": [
+          54,
+          73
+        ],
+        "be": [
           55,
           74
         ],
-        "be": [
-          56,
-          75
-        ],
         "calibrated": [
-          57
+          56
         ],
         "against": [
-          58
+          57
         ],
         "ammonite": [
-          59
+          58
         ],
         "zones": [
-          60
+          59
         ],
         "sequence-stratigraphic": [
-          62
+          61
         ],
         "zones.": [
-          63
+          62
         ],
         "Of": [
-          64
+          63
         ],
         "more": [
-          65
+          64
         ],
         "than": [
-          66
+          65
         ],
         "samples": [
-          68
+          67
         ],
         "collected,": [
-          69
+          68
         ],
         "about": [
-          70
+          69
         ],
         "specimens": [
-          73
+          72
         ],
         "determined": [
-          76
+          75
         ],
         "on": [
-          77
+          76
         ],
         "least": [
-          79
+          78
         ],
         "generic": [
-          81,
-          138
+          80,
+          137
         ],
         "level.": [
-          82
+          81
         ],
         "Their": [
-          83
+          82
         ],
         "age": [
-          84
+          83
         ],
         "range": [
-          85
+          84
         ],
         "is": [
-          86
+          85
         ],
         "Bajocian": [
-          88
+          87
         ],
         "to": [
-          89,
-          93,
-          176,
-          199,
-          208
-        ],
-        "Oxfordian–Kimmeridgian.": [
-          90
-        ],
-        "They": [
-          91
-        ],
-        "correspond": [
-          92
-        ],
-        "genera": [
-          95
-        ],
-        "species": [
-          98,
-          116,
-          146,
-          163,
-          196
-        ],
-        "Euomphalidae,": [
-          101,
-          126
-        ],
-        "Ataphridae,": [
-          102
-        ],
-        "Pseudomelaniidae,": [
-          103
-        ],
-        "Coelostylinidae,": [
-          104
-        ],
-        "Procerithiidae,": [
-          105
-        ],
-        "Nerineidae,": [
-          106
-        ],
-        "Purpurinidae,": [
-          107
-        ],
-        "Aporrhaidae,": [
-          108
-        ],
-        "Naticidae,": [
-          109
-        ],
-        "Acteonidae,": [
-          110
-        ],
-        "Retusidae,": [
-          111
-        ],
-        "Akeridae": [
-          113
-        ],
-        "families.": [
-          114
-        ],
-        "Twelve": [
-          115
-        ],
-        "are": [
-          117,
-          147,
-          159,
-          164,
-          197,
-          206
-        ],
-        "new,": [
-          118
-        ],
-        "three": [
-          120
-        ],
-        "(Kosmomphalus": [
-          121
-        ],
-        "Bifidobasis": [
-          123
-        ],
-        "Striatoonia": [
-          128
-        ],
-        "Pseudomelaniidae)": [
-          131
-        ],
-        "were": [
-          132
-        ],
-        "proposed": [
-          133
-        ],
-        "new": [
-          135
-        ],
-        "taxa": [
-          136
-        ],
-        "or": [
-          139,
-          211
-        ],
-        "subgeneric": [
-          140
-        ],
-        "rank.": [
-          141
-        ],
-        "Most": [
-          142
-        ],
-        "identified": [
-          145
-        ],
-        "Middle": [
-          149
-        ],
-        "age,": [
-          151
-        ],
-        "mainly": [
-          152
-        ],
-        "Bathonian": [
-          153
-        ],
-        "Callovian": [
-          155
-        ],
-        "only": [
-          157,
-          204,
-          217
-        ],
-        "six": [
-          158
-        ],
-        "Late": [
-          160
-        ],
-        "Jurassic.": [
-          161
-        ],
-        "All": [
-          162
-        ],
-        "typical": [
-          165
-        ],
-        "an": [
-          167
-        ],
-        "internal": [
-          168
-        ],
-        "platform": [
-          169,
-          185
-        ],
-        "environment": [
-          170
-        ],
-        "(upper": [
-          171
-        ],
-        "infralittoral),": [
-          172
-        ],
-        "lagoonal": [
-          175
-        ],
-        "back-reef": [
-          177
-        ],
-        "setting,": [
-          178
-        ],
-        "but": [
-          179
-        ],
-        "some": [
-          180
-        ],
-        "also": [
-          181
-        ],
-        "colonized": [
-          182
-        ],
-        "external": [
-          184
-        ],
-        "lower": [
-          188
-        ],
-        "infralittoral": [
-          189
-        ],
-        "fore-reef": [
-          190
-        ],
-        "zone.": [
-          191
-        ],
-        "Paleogeographically,": [
-          192
-        ],
-        "related": [
-          198
-        ],
-        "European": [
-          200
-        ],
-        "Sinai": [
-          202
-        ],
-        "faunas;": [
-          203
-        ],
-        "seven": [
-          205
-        ],
-        "equivalent": [
+          88,
+          92,
+          175,
+          198,
           207
         ],
-        "North": [
-          209
+        "Oxfordian–Kimmeridgian.": [
+          89
         ],
-        "African": [
-          210,
-          213
+        "They": [
+          90
         ],
-        "East": [
-          212
+        "correspond": [
+          91
         ],
-        "faunas,": [
-          214
+        "genera": [
+          94
         ],
-        "one": [
+        "species": [
+          97,
+          115,
+          145,
+          162,
+          195
+        ],
+        "Euomphalidae,": [
+          100,
+          125
+        ],
+        "Ataphridae,": [
+          101
+        ],
+        "Pseudomelaniidae,": [
+          102
+        ],
+        "Coelostylinidae,": [
+          103
+        ],
+        "Procerithiidae,": [
+          104
+        ],
+        "Nerineidae,": [
+          105
+        ],
+        "Purpurinidae,": [
+          106
+        ],
+        "Aporrhaidae,": [
+          107
+        ],
+        "Naticidae,": [
+          108
+        ],
+        "Acteonidae,": [
+          109
+        ],
+        "Retusidae,": [
+          110
+        ],
+        "Akeridae": [
+          112
+        ],
+        "families.": [
+          113
+        ],
+        "Twelve": [
+          114
+        ],
+        "are": [
+          116,
+          146,
+          158,
+          163,
+          196,
+          205
+        ],
+        "new,": [
+          117
+        ],
+        "three": [
+          119
+        ],
+        "(Kosmomphalus": [
+          120
+        ],
+        "Bifidobasis": [
+          122
+        ],
+        "Striatoonia": [
+          127
+        ],
+        "Pseudomelaniidae)": [
+          130
+        ],
+        "were": [
+          131
+        ],
+        "proposed": [
+          132
+        ],
+        "new": [
+          134
+        ],
+        "taxa": [
+          135
+        ],
+        "or": [
+          138,
+          210
+        ],
+        "subgeneric": [
+          139
+        ],
+        "rank.": [
+          140
+        ],
+        "Most": [
+          141
+        ],
+        "identified": [
+          144
+        ],
+        "Middle": [
+          148
+        ],
+        "age,": [
+          150
+        ],
+        "mainly": [
+          151
+        ],
+        "Bathonian": [
+          152
+        ],
+        "Callovian": [
+          154
+        ],
+        "only": [
+          156,
+          203,
           216
         ],
+        "six": [
+          157
+        ],
+        "Late": [
+          159
+        ],
+        "Jurassic.": [
+          160
+        ],
+        "All": [
+          161
+        ],
+        "typical": [
+          164
+        ],
+        "an": [
+          166
+        ],
+        "internal": [
+          167
+        ],
+        "platform": [
+          168,
+          184
+        ],
+        "environment": [
+          169
+        ],
+        "(upper": [
+          170
+        ],
+        "infralittoral),": [
+          171
+        ],
+        "lagoonal": [
+          174
+        ],
+        "back-reef": [
+          176
+        ],
+        "setting,": [
+          177
+        ],
+        "but": [
+          178
+        ],
+        "some": [
+          179
+        ],
+        "also": [
+          180
+        ],
+        "colonized": [
+          181
+        ],
+        "external": [
+          183
+        ],
+        "lower": [
+          187
+        ],
+        "infralittoral": [
+          188
+        ],
+        "fore-reef": [
+          189
+        ],
+        "zone.": [
+          190
+        ],
+        "Paleogeographically,": [
+          191
+        ],
+        "related": [
+          197
+        ],
+        "European": [
+          199
+        ],
+        "Sinai": [
+          201
+        ],
+        "faunas;": [
+          202
+        ],
+        "seven": [
+          204
+        ],
+        "equivalent": [
+          206
+        ],
+        "North": [
+          208
+        ],
+        "African": [
+          209,
+          212
+        ],
+        "East": [
+          211
+        ],
+        "faunas,": [
+          213
+        ],
+        "one": [
+          215
+        ],
         "was": [
-          218
+          217
         ],
         "reported": [
-          219
+          218
         ],
         "Madagascar.": [
-          221
+          220
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2571373978",
@@ -3341,7 +3351,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2017-01-13T00:00:00"
     },
     {
@@ -3350,8 +3360,8 @@
       "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part I: lithostratigraphy, facies and paleoenvironments, palaeontology and biostratigraphic age calibration from outcrop studies",
       "display_name": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part I: lithostratigraphy, facies and paleoenvironments, palaeontology and biostratigraphic age calibration from outcrop studies",
       "alternate_titles": [],
-      "publication_year": 2023,
-      "publication_date": "2023-06-22",
+      "publication_year": 2024,
+      "publication_date": "2024-02-23",
       "ids": {
         "openalex": "https://openalex.org/W4381681826",
         "doi": "https://doi.org/10.5802/crgeos.217"
@@ -3433,6 +3443,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3449,6 +3460,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3465,6 +3477,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Bruno Vrielynck",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3483,6 +3496,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Leopold Krystyn",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3499,6 +3513,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Manivit",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3517,6 +3532,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3533,6 +3549,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Roger Brett Davies",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3546,18 +3563,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4014,
+      "fwci": 1.9878,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.75790323,
+        "value": 0.84593301,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "355",
@@ -4943,14 +4960,10 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2023-06-23T00:00:00"
     },
     {
@@ -5062,6 +5075,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Françoise Depeche",
           "raw_affiliation_strings": [
             "Laboratoire de Micropaléontologie, UA 319 du CNRS, Université Pierre et Marie Curie, 4 place Jussieu, 75252 Paris Cedex 05, France"
@@ -5101,6 +5115,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yves Le Nindre",
           "raw_affiliation_strings": [
             "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
@@ -5139,6 +5154,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Manivit",
           "raw_affiliation_strings": [
             "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
@@ -5177,6 +5193,7 @@
             "FR"
           ],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [
             "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
@@ -5540,18 +5557,14 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2012,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5644,6 +5657,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "R. Mouterde",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5660,6 +5674,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yves Kerrien",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5676,6 +5691,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jean Labourguigne",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5692,6 +5708,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Manivit",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -5719,8 +5736,8 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
-        "max": 95
+        "min": 86,
+        "max": 94
       },
       "biblio": {
         "volume": "S7-VIII",
@@ -5974,178 +5991,175 @@
         "https://openalex.org/W2319587749"
       ],
       "abstract_inverted_index": {
-        "Abstract": [
+        "In": [
           0
         ],
-        "In": [
-          1
-        ],
         "the": [
-          2,
-          17,
-          38,
-          44,
-          48,
-          50,
-          53
-        ],
-        "La": [
-          3
-        ],
-        "Javie": [
-          4
-        ],
-        "area,": [
-          5
-        ],
-        "Basses-Alpes,": [
-          6
-        ],
-        "France,": [
-          7
-        ],
-        "there": [
-          8
-        ],
-        "is": [
-          9,
-          19,
-          34
-        ],
-        "a": [
-          10
-        ],
-        "thick,": [
-          11,
-          59
-        ],
-        "fossiliferous": [
-          12
-        ],
-        "sequence": [
-          13
-        ],
-        "of": [
-          14,
-          37
-        ],
-        "Liassic": [
-          15,
-          40
-        ],
-        "sediments;": [
-          16
-        ],
-        "Aalenian": [
-          18
-        ],
-        "especially": [
-          20
-        ],
-        "well": [
-          21
-        ],
-        "represented.": [
-          22
-        ],
-        "The": [
-          23
-        ],
-        "Domerian": [
-          24
-        ],
-        "and": [
-          25,
+          1,
+          16,
+          37,
           43,
-          60
-        ],
-        "Toarcian": [
-          26
-        ],
-        "thicken": [
-          27
-        ],
-        "spectacularly": [
-          28
-        ],
-        "northwards": [
-          29
-        ],
-        "from": [
-          30,
-          64
-        ],
-        "Digne;": [
-          31
-        ],
-        "such": [
-          32
-        ],
-        "thickening": [
-          33
-        ],
-        "also": [
-          35
-        ],
-        "characteristic": [
-          36
-        ],
-        "lower": [
-          39
-        ],
-        "between": [
-          41
-        ],
-        "Digne": [
-          42
-        ],
-        "Blayeul": [
-          45
-        ],
-        "crest.": [
-          46
-        ],
-        "To": [
-          47
-        ],
-        "east,": [
-          49
-        ],
-        "beds": [
-          51
-        ],
-        "around": [
+          47,
+          49,
           52
         ],
-        "Beaujeu": [
-          54
+        "La": [
+          2
         ],
-        "dome": [
-          55
+        "Javie": [
+          3
         ],
-        "are": [
-          56
+        "area,": [
+          4
         ],
-        "not": [
-          57
+        "Basses-Alpes,": [
+          5
         ],
-        "as": [
+        "France,": [
+          6
+        ],
+        "there": [
+          7
+        ],
+        "is": [
+          8,
+          18,
+          33
+        ],
+        "a": [
+          9
+        ],
+        "thick,": [
+          10,
           58
         ],
-        "show": [
-          61
+        "fossiliferous": [
+          11
         ],
-        "marked": [
-          62
+        "sequence": [
+          12
         ],
-        "schistosity": [
+        "of": [
+          13,
+          36
+        ],
+        "Liassic": [
+          14,
+          39
+        ],
+        "sediments;": [
+          15
+        ],
+        "Aalenian": [
+          17
+        ],
+        "especially": [
+          19
+        ],
+        "well": [
+          20
+        ],
+        "represented.": [
+          21
+        ],
+        "The": [
+          22
+        ],
+        "Domerian": [
+          23
+        ],
+        "and": [
+          24,
+          42,
+          59
+        ],
+        "Toarcian": [
+          25
+        ],
+        "thicken": [
+          26
+        ],
+        "spectacularly": [
+          27
+        ],
+        "northwards": [
+          28
+        ],
+        "from": [
+          29,
           63
         ],
+        "Digne;": [
+          30
+        ],
+        "such": [
+          31
+        ],
+        "thickening": [
+          32
+        ],
+        "also": [
+          34
+        ],
+        "characteristic": [
+          35
+        ],
+        "lower": [
+          38
+        ],
+        "between": [
+          40
+        ],
+        "Digne": [
+          41
+        ],
+        "Blayeul": [
+          44
+        ],
+        "crest.": [
+          45
+        ],
+        "To": [
+          46
+        ],
+        "east,": [
+          48
+        ],
+        "beds": [
+          50
+        ],
+        "around": [
+          51
+        ],
+        "Beaujeu": [
+          53
+        ],
+        "dome": [
+          54
+        ],
+        "are": [
+          55
+        ],
+        "not": [
+          56
+        ],
+        "as": [
+          57
+        ],
+        "show": [
+          60
+        ],
+        "marked": [
+          61
+        ],
+        "schistosity": [
+          62
+        ],
         "tectonic": [
-          65
+          64
         ],
         "influences.": [
-          66
+          65
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2724564388",
@@ -6159,7 +6173,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2017-07-14T00:00:00"
     },
     {
@@ -6237,6 +6251,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Y. M. Le Lindre",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6253,6 +6268,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "D. Vaslet",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6269,6 +6285,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "J. Manivit",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6830,6 +6847,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6846,6 +6864,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Jacques Manivit",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6862,6 +6881,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "contributor_roles": [],
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -7495,11 +7515,7 @@
       "counts_by_year": [
         {
           "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2019,
@@ -7522,7 +7538,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-20T13:11:24.684918",
       "created_date": "2016-06-24T00:00:00"
     }
   ]
