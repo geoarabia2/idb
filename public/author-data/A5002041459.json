@@ -13,7 +13,7 @@
     ],
     "full_name": "Michael, Nikolaos A.",
     "works_count": 13,
-    "cited_by_count": 160,
+    "cited_by_count": 161,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -43,6 +43,7 @@
           2025,
           2021,
           2017,
+          2016,
           2015,
           2014
         ]
@@ -79,7 +80,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 9,
+        "count": 10,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -164,23 +165,6 @@
     ],
     "topic_share": [
       {
-        "id": "https://openalex.org/T11278",
-        "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000192,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2502",
-          "display_name": "Biomaterials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/25",
-          "display_name": "Materials Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
         "value": 0.0000184,
@@ -200,7 +184,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000016,
+        "value": 0.0000159,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -217,7 +201,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000113,
+        "value": 0.0000125,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -242,6 +226,23 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11278",
+        "display_name": "Calcium Carbonate Crystallization and Inhibition",
+        "value": 0.0000096,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2502",
+          "display_name": "Biomaterials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -290,27 +291,27 @@
       },
       {
         "year": 2015,
-        "works_count": 2,
+        "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 5
+        "cited_by_count": 4
       },
       {
         "year": 2016,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 8
+        "cited_by_count": 9
       },
       {
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 10
+        "cited_by_count": 9
       },
       {
         "year": 2018,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 9
       },
       {
         "year": 2019,
@@ -340,13 +341,13 @@
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 11
+        "cited_by_count": 10
       },
       {
         "year": 2024,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 17
+        "cited_by_count": 18
       },
       {
         "year": 2025,
@@ -370,7 +371,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002041459",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5002041459",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -763,12 +764,13 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 4.1382,
+      "fwci": 4.086,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93442488,
+        "value": 0.93298248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1105,8 +1107,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -2208,6 +2210,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.95196861,
         "is_in_top_1_percent": false,
@@ -2510,8 +2513,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -3571,14 +3574,15 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1589,
+      "fwci": 3.3726,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 34,
+      "cited_by_count": 35,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89906303,
+        "value": 0.90839435,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 86,
@@ -3946,8 +3950,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -4443,7 +4447,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2016,
@@ -4454,7 +4458,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4733,12 +4737,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7683,
+      "fwci": 1.7549,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81596587,
+        "value": 0.81515336,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5115,11 +5120,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 87,
+      "referenced_works_count": 86,
       "referenced_works": [
         "https://openalex.org/W73711844",
         "https://openalex.org/W590428494",
@@ -5206,8 +5211,7 @@
         "https://openalex.org/W4231758734",
         "https://openalex.org/W4232328127",
         "https://openalex.org/W4244508810",
-        "https://openalex.org/W4245006948",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W4245006948"
       ],
       "related_works": [
         "https://openalex.org/W590428494",
@@ -5838,7 +5842,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6012,6 +6016,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.69714098,
         "is_in_top_1_percent": false,
@@ -6268,8 +6273,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -7135,12 +7140,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.0144,
+      "fwci": 1.003,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71114515,
+        "value": 0.71022062,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7385,8 +7391,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -8161,6 +8167,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.64427634,
         "is_in_top_1_percent": false,
@@ -8449,8 +8456,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9318,6 +9325,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.96169631,
         "is_in_top_1_percent": false,
@@ -9609,8 +9617,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -10815,12 +10823,13 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.3045,
+      "fwci": 1.2852,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71373962,
+        "value": 0.71094116,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11196,8 +11205,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -11455,6 +11464,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -11777,8 +11787,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -12797,6 +12807,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -13138,8 +13149,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13955,6 +13966,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -14043,49 +14055,49 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/carbonate-diagenesis",
-          "display_name": "carbonate diagenesis",
-          "score": 0.8309999704360962
+          "id": "https://openalex.org/keywords/carbonate-cementation",
+          "display_name": "carbonate cementation",
+          "score": 0.7720000147819519
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-reservoir-quality",
-          "display_name": "carbonate reservoir quality",
-          "score": 0.6460000276565552
+          "id": "https://openalex.org/keywords/aragonite-cement",
+          "display_name": "aragonite cement",
+          "score": 0.9150000214576721
         },
         {
           "id": "https://openalex.org/keywords/flume-experiments",
           "display_name": "flume experiments",
-          "score": 0.7229999899864197
+          "score": 0.7390000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-reservoir-quality",
+          "display_name": "carbonate reservoir quality",
+          "score": 0.5730000138282776
         },
         {
           "id": "https://openalex.org/keywords/porosity-reduction",
           "display_name": "porosity reduction",
-          "score": 0.7239999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability-reduction",
-          "display_name": "permeability reduction",
-          "score": 0.7509999871253967
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-mineralization",
-          "display_name": "carbon mineralization",
-          "score": 0.7680000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/atmospheric-co2",
-          "display_name": "atmospheric CO2",
-          "score": 0.6290000081062317
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenetic-modeling",
-          "display_name": "diagenetic modeling",
-          "score": 0.6299999952316284
+          "score": 0.8640000224113464
         },
         {
           "id": "https://openalex.org/keywords/carbonate-sedimentation",
           "display_name": "carbonate sedimentation",
-          "score": 0.3310000002384186
+          "score": 0.4180000126361847
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-mineralization",
+          "display_name": "carbon mineralization",
+          "score": 0.7839999794960022
+        },
+        {
+          "id": "https://openalex.org/keywords/atmospheric-co2",
+          "display_name": "atmospheric CO2",
+          "score": 0.6340000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenetic-modeling",
+          "display_name": "diagenetic modeling",
+          "score": 0.7580000162124634
         }
       ],
       "concepts": [
@@ -14315,8 +14327,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -15109,7 +15121,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414226490",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15310,6 +15322,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -15618,8 +15631,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,

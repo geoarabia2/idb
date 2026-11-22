@@ -672,12 +672,13 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 5.5827,
+      "fwci": 5.4946,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 57,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97764133,
+        "value": 0.97698312,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -991,8 +992,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.685699999332428,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -1330,12 +1331,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 19.7404,
+      "fwci": 19.4928,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 80,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9993497,
+        "value": 0.99936568,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1770,7 +1772,7 @@
         "pdf": "https://content.openalex.org/works/W3003329782.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3003329782.grobid-xml"
       },
-      "referenced_works_count": 22,
+      "referenced_works_count": 21,
       "referenced_works": [
         "https://openalex.org/W15242090",
         "https://openalex.org/W1903029394",
@@ -1792,8 +1794,7 @@
         "https://openalex.org/W2950220847",
         "https://openalex.org/W4231033096",
         "https://openalex.org/W4256129314",
-        "https://openalex.org/W4394663752",
-        "https://openalex.org/W6680587008"
+        "https://openalex.org/W4394663752"
       ],
       "related_works": [
         "https://openalex.org/W4296507802",
@@ -2384,7 +2385,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-02-07T00:00:00"
     },
     {
@@ -2854,6 +2855,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.95515733,
         "is_in_top_1_percent": false,
@@ -4558,12 +4560,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2603,
+      "fwci": 3.2309,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92166946,
+        "value": 0.92062922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4584,7 +4587,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.6601999998092651,
+        "score": 0.6395999789237976,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -4602,7 +4605,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.6601999998092651,
+          "score": 0.6395999789237976,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -4619,7 +4622,7 @@
         {
           "id": "https://openalex.org/T13904",
           "display_name": "Artificial Intelligence Applications",
-          "score": 0.259799987077713,
+          "score": 0.2800000011920929,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -4636,7 +4639,7 @@
         {
           "id": "https://openalex.org/T13018",
           "display_name": "Seismology and Earthquake Studies",
-          "score": 0.021900000050663948,
+          "score": 0.02280000038444996,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -5299,7 +5302,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-02-02T00:00:00"
     },
     {
@@ -5496,6 +5499,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.73691528,
         "is_in_top_1_percent": false,
@@ -6122,12 +6126,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6497,
+      "fwci": 0.6459,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49793693,
+        "value": 0.49616858,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6148,7 +6153,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "score": 0.6420999765396118,
+        "score": 0.6161999702453613,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -6166,7 +6171,7 @@
         {
           "id": "https://openalex.org/T10892",
           "display_name": "Drilling and Well Engineering",
-          "score": 0.6420999765396118,
+          "score": 0.6161999702453613,
           "subfield": {
             "id": "https://openalex.org/subfields/2103",
             "display_name": "Fuel Technology"
@@ -6183,7 +6188,7 @@
         {
           "id": "https://openalex.org/T10462",
           "display_name": "Reinforcement Learning in Robotics",
-          "score": 0.05270000174641609,
+          "score": 0.060100000351667404,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -6200,7 +6205,7 @@
         {
           "id": "https://openalex.org/T13067",
           "display_name": "Geological Modeling and Analysis",
-          "score": 0.0478999987244606,
+          "score": 0.052000001072883606,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -6816,7 +6821,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -7038,6 +7043,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,

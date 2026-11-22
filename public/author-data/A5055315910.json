@@ -19,7 +19,7 @@
     ],
     "full_name": "Geraint Wyn ap Gwilym Hughes",
     "works_count": 26,
-    "cited_by_count": 660,
+    "cited_by_count": 665,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 13,
@@ -157,7 +157,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000358,
+        "value": 0.0000337,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -174,7 +174,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.000025,
+        "value": 0.0000249,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -191,7 +191,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000215,
+        "value": 0.0000214,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000119,
+        "value": 0.000011,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -331,13 +331,13 @@
         "year": 2012,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 14
+        "cited_by_count": 13
       },
       {
         "year": 2013,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 21
+        "cited_by_count": 22
       },
       {
         "year": 2014,
@@ -361,13 +361,13 @@
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 59
+        "cited_by_count": 60
       },
       {
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 25
+        "cited_by_count": 27
       },
       {
         "year": 2019,
@@ -415,7 +415,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 27
+        "cited_by_count": 29
       }
     ],
     "display_name_alternatives": [
@@ -433,7 +433,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5055315910",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5055315910",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -532,12 +532,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.438,
+      "fwci": 1.4207,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 154,
+      "cited_by_count": 156,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79395665,
+        "value": 0.79137478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -911,7 +912,7 @@
         "pdf": "https://content.openalex.org/works/W2944267028.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2944267028.grobid-xml"
       },
-      "referenced_works_count": 48,
+      "referenced_works_count": 47,
       "referenced_works": [
         "https://openalex.org/W57810535",
         "https://openalex.org/W195523536",
@@ -959,7 +960,6 @@
         "https://openalex.org/W4232396565",
         "https://openalex.org/W6675611140",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6687464672",
         "https://openalex.org/W7015159553"
       ],
       "related_works": [
@@ -1857,7 +1857,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -1889,7 +1889,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2017,
@@ -1916,7 +1916,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-05-16T00:00:00"
     },
     {
@@ -2095,12 +2095,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.363,
+      "fwci": 4.291,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 98,
+      "cited_by_count": 99,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9327957,
+        "value": 0.93154395,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2416,7 +2417,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2016,
@@ -2439,7 +2440,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2470,8 +2471,10 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -2517,7 +2520,7 @@
           "contributor_roles": [],
           "raw_author_name": "Geraint W. Hughes",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-7791-5677",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -2530,17 +2533,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7464,
+      "fwci": 0.7404,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 64,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64228994,
+        "value": 0.64013267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -2848,8 +2852,10 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -3669,7 +3675,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3799,12 +3805,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5614,
+      "fwci": 0.5553,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 62,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57729869,
+        "value": 0.57508753,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4179,7 +4186,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 56,
+      "referenced_works_count": 54,
       "referenced_works": [
         "https://openalex.org/W5779725",
         "https://openalex.org/W31808560",
@@ -4232,11 +4239,9 @@
         "https://openalex.org/W3131236843",
         "https://openalex.org/W4214634148",
         "https://openalex.org/W4250980847",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6602815515",
         "https://openalex.org/W6616703885",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6687464672"
+        "https://openalex.org/W6678618728"
       ],
       "related_works": [
         "https://openalex.org/W1584890373",
@@ -5283,7 +5288,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -5392,6 +5397,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 32,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.68341567,
         "is_in_top_1_percent": false,
@@ -6643,12 +6649,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3066,
+      "fwci": 3.2732,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 86,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92099323,
+        "value": 0.9204916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8510,12 +8517,13 @@
         "value_usd": 3150
       },
       "apc_paid": null,
-      "fwci": 2.5289,
+      "fwci": 2.5125,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 28,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8943055,
+        "value": 0.89331638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8826,13 +8834,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
           "display_name": "Life below water"
         },
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.685699999332428,
           "display_name": "Climate action"
         }
       ],
@@ -8860,7 +8868,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 130,
+      "referenced_works_count": 128,
       "referenced_works": [
         "https://openalex.org/W104982814",
         "https://openalex.org/W138655657",
@@ -8988,8 +8996,6 @@
         "https://openalex.org/W4394924634",
         "https://openalex.org/W4399526243",
         "https://openalex.org/W6675986287",
-        "https://openalex.org/W6677016095",
-        "https://openalex.org/W6736580739",
         "https://openalex.org/W6869737102",
         "https://openalex.org/W6941005566"
       ],
@@ -9033,7 +9039,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-02-01T00:00:00"
     },
     {
@@ -9131,12 +9137,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5088,
+      "fwci": 0.5019,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54157783,
+        "value": 0.53852715,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9464,8 +9471,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7560999989509583,
           "display_name": "Life below water"
         }
       ],
@@ -9477,7 +9484,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 96,
+      "referenced_works_count": 95,
       "referenced_works": [
         "https://openalex.org/W31808560",
         "https://openalex.org/W37756438",
@@ -9566,7 +9573,6 @@
         "https://openalex.org/W4233714095",
         "https://openalex.org/W4233911607",
         "https://openalex.org/W4251884674",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4394682057",
         "https://openalex.org/W6636664918",
         "https://openalex.org/W6678618728",
@@ -10258,7 +10264,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10356,12 +10362,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1706,
+      "fwci": 0.1688,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37330057,
+        "value": 0.37029152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11186,12 +11193,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6613,
+      "fwci": 0.6526,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 26,
+      "cited_by_count": 27,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60512821,
+        "value": 0.60119641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11497,7 +11505,13 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
+          "display_name": "Life below water"
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -12772,7 +12786,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2016,
@@ -12783,7 +12797,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12961,6 +12975,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.52683179,
         "is_in_top_1_percent": false,
@@ -13251,8 +13266,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -13380,7 +13395,8 @@
         {
           "id": "https://openalex.org/W2172067920",
           "display_name": "Recent Developments in Applied Biostratigraphy",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -13433,6 +13449,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -14155,7 +14172,8 @@
         {
           "id": "https://openalex.org/W2172620601",
           "display_name": "Landmarks in Foraminiferal Micropalaeontology: History and Development",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -14204,12 +14222,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6513,
+      "fwci": 4.5335,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94580166,
+        "value": 0.94423025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15084,6 +15103,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.79884726,
         "is_in_top_1_percent": false,
@@ -15397,8 +15417,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -15530,7 +15550,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -15621,14 +15641,15 @@
       "fwci": 0,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 3,
+      "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 95
       },
       "biblio": {
@@ -15901,7 +15922,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -16467,6 +16488,10 @@
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3021168380",
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2019,
           "cited_by_count": 1
         },
@@ -16475,7 +16500,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -16532,7 +16557,8 @@
         {
           "id": "https://openalex.org/W4392894987",
           "display_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -16596,12 +16622,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2584,
+      "fwci": 3.2029,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87984496,
+        "value": 0.87692308,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17510,12 +17537,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1452,
+      "fwci": 0.1435,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33786755,
+        "value": 0.33522334,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17788,8 +17816,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -18571,9 +18599,10 @@
           ],
           "is_oa": true,
           "is_in_doaj": true,
-          "is_core": false,
+          "is_core": true,
           "listed_in": [
             "anvur-scientific",
+            "cwts-core",
             "ddh",
             "doaj",
             "dongbi-c",
@@ -18767,6 +18796,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -19022,9 +19052,10 @@
             ],
             "is_oa": true,
             "is_in_doaj": true,
-            "is_core": false,
+            "is_core": true,
             "listed_in": [
               "anvur-scientific",
+              "cwts-core",
               "ddh",
               "doaj",
               "dongbi-c",
@@ -19129,9 +19160,10 @@
           ],
           "is_oa": true,
           "is_in_doaj": true,
-          "is_core": false,
+          "is_core": true,
           "listed_in": [
             "anvur-scientific",
+            "cwts-core",
             "ddh",
             "doaj",
             "dongbi-c",
@@ -19488,7 +19520,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-18T13:11:19.462570",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19520,15 +19552,13 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
+          "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -19612,6 +19642,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -19907,15 +19938,13 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
+            "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -20296,7 +20325,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2006020514",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20358,7 +20387,7 @@
           "contributor_roles": [],
           "raw_author_name": "Reinhold Leinfelder",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-4107-2161",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20394,7 +20423,7 @@
           "contributor_roles": [],
           "raw_author_name": "Geraint W. Hughes",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-7791-5677",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20413,7 +20442,7 @@
           "contributor_roles": [],
           "raw_author_name": "Félix Schlagintweit",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-4024-4312",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20462,6 +20491,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -20697,8 +20727,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
           "display_name": "Life below water"
         }
       ],
@@ -20727,7 +20757,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2309143216",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20853,6 +20883,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -21611,7 +21642,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -21686,6 +21717,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -21948,7 +21980,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -22511,7 +22543,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3021857390",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -22551,7 +22583,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -22643,6 +22675,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -22911,7 +22944,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -23430,7 +23463,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3022293227",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -23470,7 +23503,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -23545,6 +23578,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -23863,7 +23897,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -24399,7 +24433,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3023468867",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -24481,6 +24515,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -24732,8 +24767,10 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -24779,7 +24816,7 @@
           "contributor_roles": [],
           "raw_author_name": "Geraint W. Hughes",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-7791-5677",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -24862,6 +24899,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -25018,8 +25056,10 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -25062,7 +25102,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W862223865",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     }
   ]

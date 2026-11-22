@@ -12,7 +12,7 @@
     ],
     "full_name": "Hussain F. Al Ajmi",
     "works_count": 17,
-    "cited_by_count": 139,
+    "cited_by_count": 142,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 6,
@@ -37,7 +37,6 @@
         },
         "years": [
           2014,
-          2013,
           2011
         ]
       },
@@ -316,7 +315,7 @@
         "year": 2014,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 3
+        "cited_by_count": 5
       },
       {
         "year": 2015,
@@ -328,13 +327,13 @@
         "year": 2016,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 12
+        "cited_by_count": 11
       },
       {
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       },
       {
         "year": 2018,
@@ -388,7 +387,7 @@
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 23
+        "cited_by_count": 24
       }
     ],
     "display_name_alternatives": [
@@ -401,7 +400,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5047482366",
-    "updated_date": "2026-11-18T16:17:57",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -609,12 +608,13 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.756,
+      "fwci": 0.7474,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 34,
+      "cited_by_count": 35,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.651548,
+        "value": 0.6501822,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -952,7 +952,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 19,
+      "referenced_works_count": 18,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W203584942",
@@ -971,7 +971,6 @@
         "https://openalex.org/W2898659379",
         "https://openalex.org/W3149077640",
         "https://openalex.org/W4249886930",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W7024690604"
       ],
       "related_works": [
@@ -991,7 +990,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -1022,7 +1021,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2018-03-29T00:00:00"
     },
     {
@@ -1227,12 +1226,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.2981,
+      "fwci": 1.2805,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7657784,
+        "value": 0.76481741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2056,6 +2056,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 13,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.88828522,
         "is_in_top_1_percent": false,
@@ -3517,12 +3518,13 @@
         "value_usd": 2390
       },
       "apc_paid": null,
-      "fwci": 1.7802,
+      "fwci": 1.7583,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 27,
+      "cited_by_count": 29,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83592932,
+        "value": 0.83490319,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3971,7 +3973,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 1
+          "cited_by_count": 3
         },
         {
           "year": 2013,
@@ -3982,7 +3984,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4405,17 +4407,18 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 1.3624,
+      "fwci": 1.3383,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77832041,
+        "value": 0.77680061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 97
       },
       "biblio": {
@@ -4747,7 +4750,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 14,
+      "referenced_works_count": 13,
       "referenced_works": [
         "https://openalex.org/W280024276",
         "https://openalex.org/W1534738797",
@@ -4761,7 +4764,6 @@
         "https://openalex.org/W2135642521",
         "https://openalex.org/W2182877433",
         "https://openalex.org/W3019168552",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W7167724021"
       ],
       "related_works": [
@@ -4808,7 +4810,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5011,12 +5013,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.6087,
+      "fwci": 0.6018,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63041715,
+        "value": 0.62863575,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5336,7 +5339,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 33,
+      "referenced_works_count": 32,
       "referenced_works": [
         "https://openalex.org/W23143290",
         "https://openalex.org/W43588767",
@@ -5369,8 +5372,7 @@
         "https://openalex.org/W2154790037",
         "https://openalex.org/W2169408416",
         "https://openalex.org/W2242792719",
-        "https://openalex.org/W4251087221",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W4251087221"
       ],
       "related_works": [
         "https://openalex.org/W2054921342",
@@ -5408,7 +5410,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-02-03T00:00:00"
     },
     {
@@ -5487,7 +5489,7 @@
           "contributor_roles": [],
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -5506,7 +5508,7 @@
           "contributor_roles": [],
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -5525,7 +5527,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -5540,6 +5542,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -5771,7 +5774,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5850,7 +5853,7 @@
           "contributor_roles": [],
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -5869,7 +5872,7 @@
           "contributor_roles": [],
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -5888,7 +5891,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -5899,18 +5902,19 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6521,
+      "fwci": 1.6409,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84417918,
+        "value": 0.84399897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
-        "max": 93
+        "min": 86,
+        "max": 92
       },
       "biblio": {
         "volume": null,
@@ -6142,7 +6146,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6220,7 +6224,7 @@
           "contributor_roles": [],
           "raw_author_name": "Christoph Schüth",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-2053-3157",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -6309,7 +6313,7 @@
           "contributor_roles": [],
           "raw_author_name": "Irina Engelhardt",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-2590-7728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -6328,7 +6332,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -6360,6 +6364,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -6367,7 +6372,7 @@
       },
       "cited_by_percentile_year": {
         "min": 86,
-        "max": 93
+        "max": 92
       },
       "biblio": {
         "volume": null,
@@ -7139,7 +7144,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7231,18 +7236,19 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6008,
+      "fwci": 0.5766,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7585034,
+        "value": 0.75087719,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
-        "max": 93
+        "min": 86,
+        "max": 92
       },
       "biblio": {
         "volume": null,
@@ -10708,7 +10714,8 @@
         {
           "id": "https://openalex.org/W4234668320",
           "display_name": "Advances in the Research of Aquatic Environment: Volume 2",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -10890,12 +10897,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6804,
+      "fwci": 0.6645,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63377778,
+        "value": 0.6300885,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11292,7 +11300,7 @@
           "raw_affiliation_strings": [
             "University of Erlangen-Nuremberg"
           ],
-          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Erlangen-Nuremberg",
@@ -11335,7 +11343,7 @@
           "contributor_roles": [],
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -11354,7 +11362,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -11369,6 +11377,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -11815,7 +11824,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1768466306",
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11894,7 +11903,7 @@
           "contributor_roles": [],
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -11913,7 +11922,7 @@
           "contributor_roles": [],
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -11932,7 +11941,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -11947,6 +11956,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -12187,7 +12197,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1772965597",
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12265,7 +12275,7 @@
           "contributor_roles": [],
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -12284,7 +12294,7 @@
           "contributor_roles": [],
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -12320,7 +12330,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -12335,6 +12345,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -13244,7 +13255,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1821045717",
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13322,7 +13333,7 @@
           "contributor_roles": [],
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13358,7 +13369,7 @@
           "contributor_roles": [],
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13377,7 +13388,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -13392,6 +13403,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -13670,7 +13682,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1930551987",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14240,6 +14252,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -14330,17 +14343,22 @@
         {
           "id": "https://openalex.org/keywords/oriented-perforation",
           "display_name": "oriented perforation",
-          "score": 0.8569999933242798
+          "score": 0.8600000143051147
         },
         {
-          "id": "https://openalex.org/keywords/well-re-entry",
-          "display_name": "well re-entry",
-          "score": 0.7450000047683716
+          "id": "https://openalex.org/keywords/reentry",
+          "display_name": "reentry",
+          "score": 0.4819999933242798
         },
         {
-          "id": "https://openalex.org/keywords/highly-deviated-wells",
-          "display_name": "highly deviated wells",
-          "score": 0.8119999766349792
+          "id": "https://openalex.org/keywords/deviated-wells",
+          "display_name": "deviated wells",
+          "score": 0.746999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/casing",
+          "display_name": "casing",
+          "score": 0.6859999895095825
         }
       ],
       "concepts": [
@@ -15090,7 +15108,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7161476549",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2026-05-18T00:00:00"
     },
     {
@@ -15168,7 +15186,7 @@
           "contributor_roles": [],
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15187,7 +15205,7 @@
           "contributor_roles": [],
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15223,7 +15241,7 @@
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15242,7 +15260,7 @@
           "contributor_roles": [],
           "raw_author_name": "Jens Hornung",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3553-4654",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15295,7 +15313,7 @@
           "contributor_roles": [],
           "raw_author_name": "Christoph Schüth",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-2053-3157",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -15310,6 +15328,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -15558,7 +15577,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W958515711",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     }
   ]

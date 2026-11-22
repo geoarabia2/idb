@@ -13,11 +13,11 @@
     ],
     "full_name": "Ammar J. Abdlmutalib",
     "works_count": 35,
-    "cited_by_count": 170,
+    "cited_by_count": 171,
     "summary_stats": {
-      "2yr_mean_citedness": 2.75,
+      "2yr_mean_citedness": 3,
       "h_index": 8,
-      "i10_index": 6
+      "i10_index": 7
     },
     "ids": {
       "openalex": "https://openalex.org/A5006844997",
@@ -155,7 +155,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000062,
+        "value": 0.0000618,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -172,7 +172,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000312,
+        "value": 0.0000311,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -189,7 +189,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000236,
+        "value": 0.0000235,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -206,7 +206,7 @@
       {
         "id": "https://openalex.org/T10161",
         "display_name": "Rock Mechanics and Modeling",
-        "value": 0.0000217,
+        "value": 0.0000216,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000206,
+        "value": 0.0000205,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -299,13 +299,13 @@
         "year": 2019,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 11
+        "cited_by_count": 10
       },
       {
         "year": 2020,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 5
+        "cited_by_count": 6
       },
       {
         "year": 2021,
@@ -335,7 +335,7 @@
         "year": 2025,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 33
+        "cited_by_count": 34
       },
       {
         "year": 2026,
@@ -353,7 +353,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5006844997",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5006844997",
-    "updated_date": "2026-11-20T12:36:48",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -694,6 +694,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.80558428,
         "is_in_top_1_percent": false,
@@ -1521,6 +1522,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.87598444,
         "is_in_top_1_percent": false,
@@ -2083,12 +2085,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.8232,
+      "fwci": 1.9959,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83000627,
+        "value": 0.84758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2518,10 +2521,10 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 6
+          "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-08-14T00:00:00"
     },
     {
@@ -2823,6 +2826,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.89205788,
         "is_in_top_1_percent": false,
@@ -3775,12 +3779,13 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 1.1096,
+      "fwci": 1.0964,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75834469,
+        "value": 0.75563144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5227,12 +5232,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.8088,
+      "fwci": 1.7957,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82474618,
+        "value": 0.8230484,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5691,6 +5697,7 @@
         "https://openalex.org/W2157891449",
         "https://openalex.org/W2166265800",
         "https://openalex.org/W2168649653",
+        "https://openalex.org/W2195678586",
         "https://openalex.org/W2292572168",
         "https://openalex.org/W2329160075",
         "https://openalex.org/W2330014076",
@@ -5717,8 +5724,7 @@
         "https://openalex.org/W3154509136",
         "https://openalex.org/W3171403328",
         "https://openalex.org/W4256129314",
-        "https://openalex.org/W6670083026",
-        "https://openalex.org/W6687464672"
+        "https://openalex.org/W6670083026"
       ],
       "related_works": [
         "https://openalex.org/W3171403328",
@@ -5755,7 +5761,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2022-07-02T00:00:00"
     },
     {
@@ -5934,6 +5940,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.8040911,
         "is_in_top_1_percent": false,
@@ -6556,12 +6563,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.3783,
+      "fwci": 1.3618,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81180575,
+        "value": 0.81017074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7295,6 +7303,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.75999272,
         "is_in_top_1_percent": false,
@@ -8048,12 +8057,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 0.8725,
+      "fwci": 0.8632,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67094957,
+        "value": 0.66822306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8649,12 +8659,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.2039,
+      "fwci": 0.2007,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49440716,
+        "value": 0.48988045,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9269,6 +9280,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.63149551,
         "is_in_top_1_percent": false,
@@ -9880,6 +9892,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.58552052,
         "is_in_top_1_percent": false,
@@ -10324,7 +10337,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10343,7 +10356,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -10358,6 +10371,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -10583,7 +10597,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-03-15T00:00:00"
     },
     {
@@ -10841,12 +10855,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.1764,
+      "fwci": 2.1279,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79278035,
+        "value": 0.79003006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11628,12 +11643,13 @@
         "currency": "USD",
         "value_usd": 700
       },
-      "fwci": 1.0959,
+      "fwci": 1.0669,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73641347,
+        "value": 0.73262746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13024,12 +13040,13 @@
         "currency": "USD",
         "value_usd": 2040
       },
-      "fwci": 0.9679,
+      "fwci": 0.9422,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7699775,
+        "value": 0.7666179,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14265,12 +14282,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8699,
+      "fwci": 0.8574,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63938939,
+        "value": 0.63672755,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15614,12 +15632,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9412,
+      "fwci": 1.9224,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81514196,
+        "value": 0.8126183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15969,7 +15988,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 16,
+      "referenced_works_count": 15,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W584173116",
@@ -15985,8 +16004,7 @@
         "https://openalex.org/W2902356800",
         "https://openalex.org/W2932696668",
         "https://openalex.org/W3123652700",
-        "https://openalex.org/W4238986447",
-        "https://openalex.org/W6631678314"
+        "https://openalex.org/W4238986447"
       ],
       "related_works": [
         "https://openalex.org/W2780919502",
@@ -16962,7 +16980,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -17042,7 +17060,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17061,7 +17079,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -17072,12 +17090,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6414,
+      "fwci": 3.6383,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89373814,
+        "value": 0.89453125,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17310,9 +17329,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -17345,7 +17364,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-03-29T00:00:00"
     },
     {
@@ -17589,12 +17608,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.2021,
+      "fwci": 0.1996,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38264388,
+        "value": 0.3831001,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18325,6 +18345,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -19095,7 +19116,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -19136,7 +19157,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19155,7 +19176,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19221,6 +19242,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -19443,7 +19465,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -19486,7 +19508,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-07-23T00:00:00"
     },
     {
@@ -19562,7 +19584,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19581,7 +19603,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -19596,6 +19618,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -19852,7 +19875,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2736408311",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-07-31T00:00:00"
     },
     {
@@ -19889,7 +19912,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -19930,7 +19953,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19949,7 +19972,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -19964,6 +19987,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -20172,7 +20196,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -20210,7 +20234,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3013935184",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-04-03T00:00:00"
     },
     {
@@ -20247,7 +20271,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -20288,7 +20312,7 @@
           "contributor_roles": [],
           "raw_author_name": "Mutasim Osman",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-6344-9257",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20307,7 +20331,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20345,7 +20369,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20364,7 +20388,7 @@
           "contributor_roles": [],
           "raw_author_name": "Moaz Salih",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-6155-0845",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -20379,6 +20403,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -20565,7 +20590,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -20603,7 +20628,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3014205103",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-04-10T00:00:00"
     },
     {
@@ -20683,7 +20708,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20702,7 +20727,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -20717,6 +20742,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -20980,7 +21006,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3043255856",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-07-23T00:00:00"
     },
     {
@@ -21125,6 +21151,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -21426,9 +21453,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.46149998903274536
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -22443,7 +22470,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ammar Abdlmutalib",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3580-9136",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -22462,7 +22489,7 @@
           "contributor_roles": [],
           "raw_author_name": "Mutasim Osman",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-6344-9257",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -22481,7 +22508,7 @@
           "contributor_roles": [],
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-6214-5772",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -22500,7 +22527,7 @@
           "contributor_roles": [],
           "raw_author_name": "Mazin Bashri",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-4583-5891",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -22519,7 +22546,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ibrahim Yousif",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-8856-9247",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -22534,6 +22561,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -22836,7 +22864,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3165062536",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-06-07T00:00:00"
     },
     {
@@ -23137,6 +23165,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -23765,7 +23794,7 @@
         "pdf": "https://content.openalex.org/works/W4415407716.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4415407716.grobid-xml"
       },
-      "referenced_works_count": 38,
+      "referenced_works_count": 39,
       "referenced_works": [
         "https://openalex.org/W1638092681",
         "https://openalex.org/W1866555191",
@@ -23804,7 +23833,8 @@
         "https://openalex.org/W4400600549",
         "https://openalex.org/W4404124316",
         "https://openalex.org/W4407903945",
-        "https://openalex.org/W4409462518"
+        "https://openalex.org/W4409462518",
+        "https://openalex.org/W7055476825"
       ],
       "related_works": [
         "https://openalex.org/W7147219497",
@@ -24338,7 +24368,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4415407716",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-22T00:00:00"
     },
     {
@@ -24432,6 +24462,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -24877,6 +24908,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -25547,6 +25579,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -26339,6 +26372,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,

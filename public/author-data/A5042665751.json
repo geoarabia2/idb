@@ -173,7 +173,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000708,
+        "value": 0.0000706,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -207,7 +207,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.00002,
+        "value": 0.0000199,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -298,7 +298,7 @@
       {
         "year": 2013,
         "works_count": 1,
-        "oa_works_count": 0,
+        "oa_works_count": 1,
         "cited_by_count": 0
       },
       {
@@ -335,7 +335,7 @@
         "year": 2019,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 18
+        "cited_by_count": 17
       },
       {
         "year": 2020,
@@ -347,13 +347,13 @@
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 28
+        "cited_by_count": 27
       },
       {
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 23
+        "cited_by_count": 25
       },
       {
         "year": 2023,
@@ -371,13 +371,13 @@
         "year": 2025,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 47
+        "cited_by_count": 46
       },
       {
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 27
+        "cited_by_count": 28
       }
     ],
     "display_name_alternatives": [
@@ -392,7 +392,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5042665751",
-    "updated_date": "2026-11-18T16:17:57",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -569,12 +569,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 9.7399,
+      "fwci": 9.5989,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 170,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98841567,
+        "value": 0.98816618,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1242,12 +1243,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.9208,
+      "fwci": 2.881,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 84,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88095042,
+        "value": 0.87956475,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1554,9 +1556,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -1567,7 +1569,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 83,
+      "referenced_works_count": 81,
       "referenced_works": [
         "https://openalex.org/W54536559",
         "https://openalex.org/W81676812",
@@ -1645,10 +1647,8 @@
         "https://openalex.org/W4238884877",
         "https://openalex.org/W4238986447",
         "https://openalex.org/W4249886930",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4294957173",
         "https://openalex.org/W4301883928",
-        "https://openalex.org/W6603481522",
         "https://openalex.org/W6782130160",
         "https://openalex.org/W7011703985",
         "https://openalex.org/W7055719650"
@@ -1721,7 +1721,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2229,18 +2229,19 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.2226,
+      "fwci": 2.1955,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86465827,
+        "value": 0.86264373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 94,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "49",
@@ -2756,12 +2757,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4277,
+      "fwci": 5.2871,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93125811,
+        "value": 0.92866407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3002,7 +3004,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 41,
+      "referenced_works_count": 40,
       "referenced_works": [
         "https://openalex.org/W85408944",
         "https://openalex.org/W234700136",
@@ -3042,7 +3044,6 @@
         "https://openalex.org/W2485056805",
         "https://openalex.org/W2504353116",
         "https://openalex.org/W4233054231",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6631596386",
         "https://openalex.org/W7167391170"
       ],
@@ -3886,7 +3887,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -4212,12 +4213,13 @@
         "currency": "USD",
         "value_usd": 4250
       },
-      "fwci": 3.0705,
+      "fwci": 3.0434,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90414001,
+        "value": 0.90320575,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4238,7 +4240,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.8852999806404114,
+        "score": 0.8628000020980835,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -4256,7 +4258,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.8852999806404114,
+          "score": 0.8628000020980835,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -4273,7 +4275,7 @@
         {
           "id": "https://openalex.org/T12383",
           "display_name": "Aeolian processes and effects",
-          "score": 0.11159999668598175,
+          "score": 0.1339000016450882,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -4290,7 +4292,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.0003000000142492354,
+          "score": 0.00039999998989515007,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -5533,7 +5535,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-03-13T00:00:00"
     },
     {
@@ -5733,12 +5735,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.3582,
+      "fwci": 6.2462,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95361381,
+        "value": 0.95191788,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5759,7 +5762,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.9740999937057495,
+        "score": 0.9731000065803528,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -5777,7 +5780,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9740999937057495,
+          "score": 0.9731000065803528,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -5794,7 +5797,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.013799999840557575,
+          "score": 0.014499999582767487,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -5811,7 +5814,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.008999999612569809,
+          "score": 0.009399999864399433,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -6772,7 +6775,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -6892,6 +6895,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.86991279,
         "is_in_top_1_percent": false,
@@ -8399,6 +8403,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.42872767,
         "is_in_top_1_percent": false,
@@ -9891,12 +9896,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.695,
+      "fwci": 2.6565,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.800632,
+        "value": 0.79821788,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9988,72 +9994,67 @@
         {
           "id": "https://openalex.org/keywords/reservoir-characterization",
           "display_name": "reservoir characterization",
-          "score": 0.8299999833106995
+          "score": 0.8140000104904175
         },
         {
           "id": "https://openalex.org/keywords/aeolian-dunes",
           "display_name": "aeolian dunes",
-          "score": 0.9160000085830688
+          "score": 0.9010000228881836
         },
         {
           "id": "https://openalex.org/keywords/fluvial-facies",
           "display_name": "fluvial facies",
-          "score": 0.8539999723434448
+          "score": 0.8579999804496765
         },
         {
           "id": "https://openalex.org/keywords/diagenesis",
           "display_name": "diagenesis",
-          "score": 0.7369999885559082
+          "score": 0.6990000009536743
         },
         {
           "id": "https://openalex.org/keywords/calcite-cementation",
           "display_name": "calcite cementation",
-          "score": 0.7829999923706055
+          "score": 0.8019999861717224
         },
         {
           "id": "https://openalex.org/keywords/silica-cementation",
           "display_name": "silica cementation",
-          "score": 0.9810000061988831
+          "score": 0.9789999723434448
         },
         {
           "id": "https://openalex.org/keywords/quartz-overgrowths",
           "display_name": "quartz overgrowths",
-          "score": 0.7360000014305115
+          "score": 0.7229999899864197
         },
         {
           "id": "https://openalex.org/keywords/intergranular-porosity",
           "display_name": "intergranular porosity",
-          "score": 0.9160000085830688
+          "score": 0.8960000276565552
         },
         {
           "id": "https://openalex.org/keywords/reservoir-heterogeneity",
           "display_name": "reservoir heterogeneity",
-          "score": 0.7829999923706055
+          "score": 0.8299999833106995
         },
         {
           "id": "https://openalex.org/keywords/flow-barriers",
           "display_name": "flow barriers",
-          "score": 0.8069999814033508
+          "score": 0.796999990940094
         },
         {
           "id": "https://openalex.org/keywords/reservoir-compartmentalization",
           "display_name": "reservoir compartmentalization",
-          "score": 0.7900000214576721
+          "score": 0.8299999833106995
         },
         {
           "id": "https://openalex.org/keywords/image-logs",
           "display_name": "image logs",
-          "score": 0.4259999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/facies-modeling",
-          "display_name": "facies modeling",
-          "score": 0.6890000104904175
+          "score": 0.453000009059906
         },
         {
           "id": "https://openalex.org/keywords/static-reservoir-modeling",
           "display_name": "static reservoir modeling",
-          "score": 0.7310000061988831
+          "score": 0.722000002861023
         }
       ],
       "concepts": [
@@ -10971,7 +10972,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11065,6 +11066,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -11546,6 +11548,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -12420,7 +12423,7 @@
           "raw_affiliation_strings": [
             "University of Leeds"
           ],
-          "raw_orcid": "https://orcid.org/0000-0002-8396-3923",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Leeds",
@@ -12446,6 +12449,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -13348,7 +13352,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2362747289",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13570,6 +13574,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -14511,6 +14516,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -14601,47 +14607,72 @@
         {
           "id": "https://openalex.org/keywords/reservoir-heterogeneity",
           "display_name": "reservoir heterogeneity",
-          "score": 0.8859999775886536
+          "score": 0.9319999814033508
         },
         {
           "id": "https://openalex.org/keywords/stratigraphic-architecture",
           "display_name": "stratigraphic architecture",
-          "score": 0.7630000114440918
+          "score": 0.7839999794960022
         },
         {
           "id": "https://openalex.org/keywords/depositional-model",
           "display_name": "depositional model",
-          "score": 0.6499999761581421
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-compartmentalization",
-          "display_name": "reservoir compartmentalization",
-          "score": 0.6470000147819519
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-boundaries",
-          "display_name": "sequence boundaries",
-          "score": 0.9440000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/fluid-migration",
-          "display_name": "fluid migration",
-          "score": 0.593999981880188
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-quality",
-          "display_name": "reservoir quality",
-          "score": 0.6349999904632568
+          "score": 0.6259999871253967
         },
         {
           "id": "https://openalex.org/keywords/modern-analogues",
           "display_name": "modern analogues",
-          "score": 0.6940000057220459
+          "score": 0.5690000057220459
         },
         {
-          "id": "https://openalex.org/keywords/subsurface-reservoir-characterization",
-          "display_name": "subsurface reservoir characterization",
-          "score": 0.5550000071525574
+          "id": "https://openalex.org/keywords/sandstone-reservoirs",
+          "display_name": "sandstone reservoirs",
+          "score": 0.6259999871253967
+        },
+        {
+          "id": "https://openalex.org/keywords/lithofacies",
+          "display_name": "lithofacies",
+          "score": 0.6949999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/depositional-architecture",
+          "display_name": "depositional architecture",
+          "score": 0.5210000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/fluid-migration",
+          "display_name": "fluid migration",
+          "score": 0.44200000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/compartmentalization",
+          "display_name": "compartmentalization",
+          "score": 0.6309999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-boundaries",
+          "display_name": "sequence boundaries",
+          "score": 0.9020000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/dune-fields",
+          "display_name": "dune fields",
+          "score": 0.5080000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial-channels",
+          "display_name": "fluvial channels",
+          "score": 0.515999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-characterization",
+          "display_name": "reservoir characterization",
+          "score": 0.6110000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.625
         }
       ],
       "concepts": [
@@ -15859,7 +15890,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414226937",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16058,6 +16089,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -16148,37 +16180,42 @@
         {
           "id": "https://openalex.org/keywords/stratigraphic-correlation",
           "display_name": "stratigraphic correlation",
-          "score": 0.9020000100135803
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/bounding-surfaces",
+          "display_name": "bounding surfaces",
+          "score": 0.5580000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-markers",
+          "display_name": "stratigraphic markers",
+          "score": 0.6579999923706055
         },
         {
           "id": "https://openalex.org/keywords/unconformity",
           "display_name": "unconformity",
-          "score": 0.7229999899864197
+          "score": 0.7419999837875366
         },
         {
           "id": "https://openalex.org/keywords/paleosols",
           "display_name": "paleosols",
-          "score": 0.6980000138282776
+          "score": 0.7170000076293945
         },
         {
           "id": "https://openalex.org/keywords/wetting-phase",
           "display_name": "wetting phase",
-          "score": 0.746999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/fluvial-sedimentation",
-          "display_name": "river sedimentation",
-          "score": 0.6150000095367432
+          "score": 0.7319999933242798
         },
         {
           "id": "https://openalex.org/keywords/pore-pressure",
           "display_name": "pore pressure",
-          "score": 0.4429999887943268
+          "score": 0.4000000059604645
         },
         {
-          "id": "https://openalex.org/keywords/gamma-ray-log",
-          "display_name": "gamma-ray log",
-          "score": 0.4269999861717224
+          "id": "https://openalex.org/keywords/reservoir-heterogeneity",
+          "display_name": "reservoir heterogeneity",
+          "score": 0.5680000185966492
         }
       ],
       "concepts": [
@@ -17415,7 +17452,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414602344",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17446,8 +17483,10 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -17659,6 +17698,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -17896,8 +17936,10 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -17988,7 +18030,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7168136597",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2026-07-14T00:00:00"
     }
   ]

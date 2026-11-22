@@ -624,6 +624,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 64,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.70482263,
         "is_in_top_1_percent": false,
@@ -894,8 +895,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -1771,6 +1772,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.83829716,
         "is_in_top_1_percent": false,
@@ -2190,8 +2192,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
@@ -3460,6 +3462,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.79415169,
         "is_in_top_1_percent": false,
@@ -3780,8 +3783,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -4046,6 +4049,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -4336,8 +4340,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -4612,6 +4616,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -4900,8 +4905,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5722,7 +5727,7 @@
           "contributor_roles": [],
           "raw_author_name": "Ayman Fazea Al-Lehyani",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5595-0017",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -5739,6 +5744,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -5980,8 +5986,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2238788930.pdf",
@@ -6015,7 +6021,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6234,6 +6240,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -6463,8 +6470,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7121,6 +7128,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -7382,8 +7390,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -8317,6 +8325,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -8407,42 +8416,47 @@
         {
           "id": "https://openalex.org/keywords/sample-size",
           "display_name": "sample size",
-          "score": 0.7910000085830688
+          "score": 0.7760000228881836
         },
         {
           "id": "https://openalex.org/keywords/p-wave-velocity",
           "display_name": "P-wave velocity",
-          "score": 0.8740000128746033
+          "score": 0.8700000047683716
         },
         {
           "id": "https://openalex.org/keywords/bioturbation",
           "display_name": "bioturbation",
-          "score": 0.9039999842643738
+          "score": 0.8820000290870667
         },
         {
           "id": "https://openalex.org/keywords/carbonate-rocks",
           "display_name": "carbonate rocks",
-          "score": 0.9380000233650208
+          "score": 0.9330000281333923
         },
         {
           "id": "https://openalex.org/keywords/hanifa-formation",
           "display_name": "Hanifa Formation",
-          "score": 0.8679999709129333
+          "score": 0.878000020980835
         },
         {
           "id": "https://openalex.org/keywords/representative-volume-element",
           "display_name": "representative volume element",
-          "score": 0.7919999957084656
+          "score": 0.7990000247955322
         },
         {
           "id": "https://openalex.org/keywords/porosity",
           "display_name": "porosity",
-          "score": 0.8519999980926514
+          "score": 0.8489999771118164
         },
         {
           "id": "https://openalex.org/keywords/ultrasonic-velocity-measurement",
           "display_name": "ultrasonic velocity measurement",
-          "score": 0.7049999833106995
+          "score": 0.699999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/core-plugs",
+          "display_name": "core plugs",
+          "score": 0.6140000224113464
         }
       ],
       "concepts": [
@@ -8728,8 +8742,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7162439439.pdf",
@@ -9363,7 +9377,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162439439",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2026-05-27T00:00:00"
     }
   ]

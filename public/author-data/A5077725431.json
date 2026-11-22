@@ -16,7 +16,7 @@
     ],
     "full_name": "ZIAD RAFIQ BEYDOUN",
     "works_count": 55,
-    "cited_by_count": 2587,
+    "cited_by_count": 2597,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 26,
@@ -179,7 +179,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000768,
+        "value": 0.0000767,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -213,7 +213,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000596,
+        "value": 0.0000594,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -230,7 +230,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000582,
+        "value": 0.0000581,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -437,19 +437,19 @@
         "year": 2012,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 84
+        "cited_by_count": 82
       },
       {
         "year": 2013,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 97
+        "cited_by_count": 99
       },
       {
         "year": 2014,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 90
+        "cited_by_count": 91
       },
       {
         "year": 2015,
@@ -461,13 +461,13 @@
         "year": 2016,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 89
+        "cited_by_count": 90
       },
       {
         "year": 2017,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 78
+        "cited_by_count": 80
       },
       {
         "year": 2018,
@@ -491,37 +491,37 @@
         "year": 2021,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 103
+        "cited_by_count": 101
       },
       {
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 112
+        "cited_by_count": 114
       },
       {
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 101
+        "cited_by_count": 97
       },
       {
         "year": 2024,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 98
+        "cited_by_count": 103
       },
       {
         "year": 2025,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 95
+        "cited_by_count": 96
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 49
+        "cited_by_count": 50
       }
     ],
     "display_name_alternatives": [
@@ -538,7 +538,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5077725431",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5077725431",
-    "updated_date": "2026-11-20T12:36:48",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -636,7 +636,8 @@
       "fwci": 4.4286,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 423,
+      "cited_by_count": 426,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.93981481,
         "is_in_top_1_percent": false,
@@ -1651,7 +1652,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2018,
@@ -1682,7 +1683,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1736,7 +1737,8 @@
         {
           "id": "https://openalex.org/W1573262718",
           "display_name": "Foreland Basins and Fold Belts",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -1815,12 +1817,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1934,
+      "fwci": 3.1544,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 245,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89402697,
+        "value": 0.89038462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2397,12 +2400,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 3.2103,
+      "fwci": 3.1975,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 113,
+      "cited_by_count": 114,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8923821,
+        "value": 0.89214027,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3397,7 +3401,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3513,6 +3517,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 102,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.56709324,
         "is_in_top_1_percent": false,
@@ -4593,12 +4598,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.363,
+      "fwci": 4.291,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 98,
+      "cited_by_count": 99,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9327957,
+        "value": 0.93154395,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4914,7 +4920,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2016,
@@ -4937,7 +4943,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5072,6 +5078,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 93,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.87972867,
         "is_in_top_1_percent": false,
@@ -6081,6 +6088,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 93,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.71851342,
         "is_in_top_1_percent": false,
@@ -7600,6 +7608,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 83,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.9595641,
         "is_in_top_1_percent": false,
@@ -9093,6 +9102,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 59,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.66650797,
         "is_in_top_1_percent": false,
@@ -10271,6 +10281,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 169,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.99255228,
         "is_in_top_1_percent": true,
@@ -10714,6 +10725,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 114,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.89893283,
         "is_in_top_1_percent": false,
@@ -11911,12 +11923,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4422,
+      "fwci": 1.432,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 90,
+      "cited_by_count": 91,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77083938,
+        "value": 0.76907397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12723,7 +12736,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2016,
@@ -12746,7 +12759,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-09-26T00:00:00"
     },
     {
@@ -12851,12 +12864,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5099,
+      "fwci": 1.4935,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 82,
+      "cited_by_count": 84,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.843309,
+        "value": 0.84233577,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13762,7 +13776,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2021,
@@ -13786,7 +13800,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2015,
@@ -13805,7 +13819,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13936,6 +13950,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.74380647,
         "is_in_top_1_percent": false,
@@ -15144,6 +15159,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.82271863,
         "is_in_top_1_percent": false,
@@ -15757,6 +15773,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 52,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.66400581,
         "is_in_top_1_percent": false,
@@ -16323,6 +16340,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 43,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.73855799,
         "is_in_top_1_percent": false,
@@ -17875,6 +17893,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 60,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.91417625,
         "is_in_top_1_percent": false,
@@ -18350,6 +18369,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.85516701,
         "is_in_top_1_percent": false,
@@ -18821,12 +18841,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.5402,
+      "fwci": 0.5312,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67392134,
+        "value": 0.67168791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19815,7 +19836,8 @@
         {
           "id": "https://openalex.org/W4255585102",
           "display_name": "The Ocean Basins and Margins: Volume 4A The Eastern Mediterranean",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -19890,6 +19912,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 65,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.64117647,
         "is_in_top_1_percent": false,
@@ -20422,6 +20445,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.91090738,
         "is_in_top_1_percent": false,
@@ -21955,7 +21979,8 @@
       "fwci": 0,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 27,
+      "cited_by_count": 28,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -22313,8 +22338,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -22385,7 +22410,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2013,
@@ -22396,7 +22421,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22450,7 +22475,8 @@
         {
           "id": "https://openalex.org/W2478666223",
           "display_name": "Sedimentary Facies Analysis: A Tribute to the Research and Teaching of Harold G. Reading",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -22521,12 +22547,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5338,
+      "fwci": 0.5285,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52631579,
+        "value": 0.52012384,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23963,6 +23990,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -25123,7 +25151,8 @@
         {
           "id": "https://openalex.org/W4235114216",
           "display_name": "The Ocean Basins and Margins",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -25194,12 +25223,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.9509,
+      "fwci": 14.5609,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 26,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95609319,
+        "value": 0.95489845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25436,8 +25466,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7778000235557556,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7778000235557556,
           "display_name": "Life below water"
         }
       ],
@@ -25449,7 +25479,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 107,
+      "referenced_works_count": 106,
       "referenced_works": [
         "https://openalex.org/W47570931",
         "https://openalex.org/W101348917",
@@ -25554,7 +25584,6 @@
         "https://openalex.org/W3033871807",
         "https://openalex.org/W4240419058",
         "https://openalex.org/W4247291428",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6609776710",
         "https://openalex.org/W7000627155",
         "https://openalex.org/W7065553582"
@@ -25587,7 +25616,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25675,10 +25704,8 @@
           "author": {
             "id": null,
             "display_name": "Jim Greenwood",
-            "orcid": "https://orcid.org/0000-0001-7884-2740",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7884-2740"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -25686,7 +25713,7 @@
           "contributor_roles": [],
           "raw_author_name": "Jim Greenwood",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-7884-2740",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -25697,12 +25724,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8197,
+      "fwci": 1.7896,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81448468,
+        "value": 0.81270903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25946,7 +25974,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26082,6 +26110,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.68277659,
         "is_in_top_1_percent": false,
@@ -27133,6 +27162,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -27508,6 +27538,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -28548,6 +28579,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -28886,6 +28918,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -29345,6 +29378,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -30393,6 +30427,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -30801,6 +30836,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.89642005,
         "is_in_top_1_percent": false,
@@ -31164,6 +31200,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -31409,9 +31446,8 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
+          "is_core": false,
           "listed_in": [
-            "cwts-core",
             "poland-20",
             "russia-white-list-3"
           ],
@@ -31493,6 +31529,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 97,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -31688,9 +31725,8 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
+            "is_core": false,
             "listed_in": [
-              "cwts-core",
               "poland-20",
               "russia-white-list-3"
             ],
@@ -31729,9 +31765,8 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
+          "is_core": false,
           "listed_in": [
-            "cwts-core",
             "poland-20",
             "russia-white-list-3"
           ],
@@ -31755,8 +31790,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5217000246047974,
           "id": "https://metadata.un.org/sdg/17",
+          "score": 0.5217000246047974,
           "display_name": "Partnerships for the goals"
         }
       ],
@@ -32257,7 +32292,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32354,6 +32389,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -32545,6 +32581,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -32738,8 +32775,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4390000104904175,
           "display_name": "Life on land"
         }
       ],
@@ -32854,6 +32891,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -33065,6 +33103,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -33458,6 +33497,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -33773,6 +33813,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -34088,6 +34129,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -34381,6 +34423,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -34667,6 +34710,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -34912,6 +34956,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -35187,6 +35232,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -35481,6 +35527,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -35730,6 +35777,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -36008,6 +36056,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -36248,6 +36297,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -36554,6 +36604,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,

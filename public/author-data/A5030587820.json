@@ -163,7 +163,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000113,
+        "value": 0.0000112,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -214,7 +214,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000089,
+        "value": 0.0000088,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000086,
+        "value": 0.0000081,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -323,15 +323,15 @@
       },
       {
         "year": 2019,
-        "works_count": 2,
+        "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 12
+        "cited_by_count": 11
       },
       {
         "year": 2020,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 20
+        "cited_by_count": 21
       },
       {
         "year": 2021,
@@ -380,7 +380,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5030587820",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5030587820",
-    "updated_date": "2026-11-16T12:53:42",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -440,7 +440,8 @@
         {
           "id": "https://openalex.org/W4206317699",
           "display_name": "Trace Fossils as Indicators of Sedimentary Environments",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -711,21 +712,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I26916880",
-              "display_name": "Alberta University of the Arts",
-              "ror": "https://ror.org/00mn36586",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I26916880"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Ryan. Lemiski",
@@ -736,9 +724,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Talisman Energy Inc., Calgary, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I26916880"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -905,7 +891,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5071875690"
       ],
@@ -914,12 +900,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 19.1797,
+      "fwci": 18.7415,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 149,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99536501,
+        "value": 0.99535963,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1372,7 +1359,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-04-28T00:00:00"
     },
     {
@@ -1669,12 +1656,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.6414,
+      "fwci": 1.6354,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7934743,
+        "value": 0.7926796,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1984,7 +1972,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 160,
+      "referenced_works_count": 159,
       "referenced_works": [
         "https://openalex.org/W101633874",
         "https://openalex.org/W126946498",
@@ -2125,6 +2113,7 @@
         "https://openalex.org/W2615816849",
         "https://openalex.org/W2732159209",
         "https://openalex.org/W2742299796",
+        "https://openalex.org/W2746280190",
         "https://openalex.org/W2748264243",
         "https://openalex.org/W2750391460",
         "https://openalex.org/W2799066259",
@@ -2143,8 +2132,6 @@
         "https://openalex.org/W4232635114",
         "https://openalex.org/W4234645253",
         "https://openalex.org/W4250182987",
-        "https://openalex.org/W6693970734",
-        "https://openalex.org/W6743043835",
         "https://openalex.org/W6828316006"
       ],
       "related_works": [
@@ -2183,7 +2170,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-02-01T00:00:00"
     },
     {
@@ -2450,6 +2437,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.57587089,
         "is_in_top_1_percent": false,
@@ -3977,12 +3965,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9515,
+      "fwci": 1.9215,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 31,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85683008,
+        "value": 0.85558739,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4315,7 +4304,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 88,
+      "referenced_works_count": 87,
       "referenced_works": [
         "https://openalex.org/W50307466",
         "https://openalex.org/W184738586",
@@ -4403,8 +4392,7 @@
         "https://openalex.org/W2914328274",
         "https://openalex.org/W2982501932",
         "https://openalex.org/W3211773293",
-        "https://openalex.org/W4230568560",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W4230568560"
       ],
       "related_works": [
         "https://openalex.org/W2797364517",
@@ -4985,7 +4973,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5352,12 +5340,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9424,
+      "fwci": 0.9343,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68955043,
+        "value": 0.68827,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5641,7 +5630,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 109,
+      "referenced_works_count": 108,
       "referenced_works": [
         "https://openalex.org/W4272660",
         "https://openalex.org/W27186039",
@@ -5747,7 +5736,6 @@
         "https://openalex.org/W3180575483",
         "https://openalex.org/W4210685001",
         "https://openalex.org/W4235833355",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4406748917",
         "https://openalex.org/W4406759426",
         "https://openalex.org/W6602710262",
@@ -6785,7 +6773,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2018-09-27T00:00:00"
     },
     {
@@ -7123,6 +7111,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -8334,7 +8323,7 @@
             "EDP Sciences",
             "Science Press"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
@@ -8450,12 +8439,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1408,
+      "fwci": 2.1233,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82994608,
+        "value": 0.82775713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8781,7 +8771,7 @@
               "EDP Sciences",
               "Science Press"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
@@ -8885,7 +8875,7 @@
             "EDP Sciences",
             "Science Press"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
@@ -9435,7 +9425,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-02-24T00:00:00"
     },
     {
@@ -9727,12 +9717,13 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.1599,
+      "fwci": 0.1595,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39703087,
+        "value": 0.39648296,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10027,7 +10018,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 131,
+      "referenced_works_count": 130,
       "referenced_works": [
         "https://openalex.org/W19943757",
         "https://openalex.org/W38616266",
@@ -10154,7 +10145,6 @@
         "https://openalex.org/W4244732855",
         "https://openalex.org/W4249095096",
         "https://openalex.org/W4256425339",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4406759426",
         "https://openalex.org/W6781520877",
         "https://openalex.org/W6943952378",
@@ -10189,7 +10179,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -10285,6 +10275,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {

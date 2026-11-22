@@ -13,7 +13,7 @@
     ],
     "full_name": "Septriandi Asmaidi Chan",
     "works_count": 29,
-    "cited_by_count": 253,
+    "cited_by_count": 254,
     "summary_stats": {
       "2yr_mean_citedness": 0.8,
       "h_index": 10,
@@ -153,7 +153,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000334,
+        "value": 0.0000333,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -170,7 +170,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000189,
+        "value": 0.0000188,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -202,12 +202,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000172,
+        "id": "https://openalex.org/T11740",
+        "display_name": "Geochemistry and Elemental Analysis",
+        "value": 0.0000167,
         "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -219,12 +219,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T11740",
-        "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000168,
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "value": 0.0000162,
         "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -321,13 +321,13 @@
         "year": 2023,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 38
+        "cited_by_count": 37
       },
       {
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 45
+        "cited_by_count": 46
       },
       {
         "year": 2025,
@@ -339,7 +339,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 36
+        "cited_by_count": 37
       }
     ],
     "display_name_alternatives": [
@@ -351,7 +351,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5080643603",
-    "updated_date": "2026-11-16T12:53:42",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -858,12 +858,13 @@
         "currency": "USD",
         "value_usd": 2710
       },
-      "fwci": 3.6148,
+      "fwci": 3.5968,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 46,
+      "cited_by_count": 47,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93315131,
+        "value": 0.93286935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1865,7 +1866,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -1884,7 +1885,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-08-02T00:00:00"
     },
     {
@@ -2143,17 +2144,18 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.2843,
+      "fwci": 1.2632,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75020828,
+        "value": 0.74479535,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -2489,7 +2491,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 80,
+      "referenced_works_count": 79,
       "referenced_works": [
         "https://openalex.org/W176469377",
         "https://openalex.org/W192399012",
@@ -2565,7 +2567,6 @@
         "https://openalex.org/W3125468999",
         "https://openalex.org/W3197653274",
         "https://openalex.org/W4231035002",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4292403343",
         "https://openalex.org/W6678618728",
         "https://openalex.org/W6691620151",
@@ -2627,7 +2628,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-01-06T00:00:00"
     },
     {
@@ -3015,6 +3016,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.80331544,
         "is_in_top_1_percent": false,
@@ -3716,12 +3718,13 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 1.4319,
+      "fwci": 1.4346,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77080453,
+        "value": 0.76932651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3988,7 +3991,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 56,
+      "referenced_works_count": 55,
       "referenced_works": [
         "https://openalex.org/W5779725",
         "https://openalex.org/W57890602",
@@ -4042,7 +4045,6 @@
         "https://openalex.org/W3127250646",
         "https://openalex.org/W4232766582",
         "https://openalex.org/W4250980847",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4295035066",
         "https://openalex.org/W4300838955",
         "https://openalex.org/W4312684448"
@@ -4083,7 +4085,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -4320,6 +4322,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.71278795,
         "is_in_top_1_percent": false,
@@ -5065,12 +5068,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.4915,
+      "fwci": 7.3296,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98141123,
+        "value": 0.98063781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6383,12 +6387,13 @@
         "currency": "USD",
         "value_usd": 2460
       },
-      "fwci": 13.0586,
+      "fwci": 12.7676,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98757274,
+        "value": 0.98739211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7917,6 +7922,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.33676782,
         "is_in_top_1_percent": false,
@@ -8817,6 +8823,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.79415169,
         "is_in_top_1_percent": false,
@@ -9602,12 +9609,13 @@
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 1.5837,
+      "fwci": 1.569,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78745864,
+        "value": 0.78510436,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9938,7 +9946,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 103,
+      "referenced_works_count": 101,
       "referenced_works": [
         "https://openalex.org/W5779725",
         "https://openalex.org/W148932376",
@@ -10031,6 +10039,7 @@
         "https://openalex.org/W3036323237",
         "https://openalex.org/W3138530981",
         "https://openalex.org/W3187000892",
+        "https://openalex.org/W4205662847",
         "https://openalex.org/W4247971919",
         "https://openalex.org/W4250163215",
         "https://openalex.org/W4252144897",
@@ -10039,9 +10048,6 @@
         "https://openalex.org/W4288868875",
         "https://openalex.org/W4295035066",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6687942151",
-        "https://openalex.org/W6724573700",
-        "https://openalex.org/W6806149860",
         "https://openalex.org/W7015159553"
       ],
       "related_works": [
@@ -10718,7 +10724,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -11016,12 +11022,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.7804,
+      "fwci": 0.7661,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6872211,
+        "value": 0.68144067,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11750,6 +11757,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.56309298,
         "is_in_top_1_percent": false,
@@ -13195,12 +13203,13 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 1.2123,
+      "fwci": 1.1975,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74586331,
+        "value": 0.74338176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14606,12 +14615,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7204,
+      "fwci": 3.6627,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92221391,
+        "value": 0.92,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15636,12 +15646,13 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 4.3383,
+      "fwci": 4.2559,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90878148,
+        "value": 0.90670158,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16918,6 +16929,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.56491083,
         "is_in_top_1_percent": false,
@@ -17419,12 +17431,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3901,
+      "fwci": 5.313,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92272336,
+        "value": 0.92181661,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17445,7 +17458,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9937000274658203,
+        "score": 0.9940999746322632,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -17463,7 +17476,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9937000274658203,
+          "score": 0.9940999746322632,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -17480,7 +17493,7 @@
         {
           "id": "https://openalex.org/T13067",
           "display_name": "Geological Modeling and Analysis",
-          "score": 0.001500000013038516,
+          "score": 0.0013000000035390258,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -18332,7 +18345,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-05-12T00:00:00"
     },
     {
@@ -18866,6 +18879,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.55279235,
         "is_in_top_1_percent": false,
@@ -19850,7 +19864,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
-          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -19891,7 +19905,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
-          "raw_orcid": "https://orcid.org/0000-0002-4487-6982",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -19932,7 +19946,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
-          "raw_orcid": "https://orcid.org/0000-0002-8927-2322",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -19973,7 +19987,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
-          "raw_orcid": "https://orcid.org/0000-0002-4395-9567",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -20014,7 +20028,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
-          "raw_orcid": "https://orcid.org/0000-0002-9994-4436",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -20034,12 +20048,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1298,
+      "fwci": 0.1291,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39839476,
+        "value": 0.39649204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20268,7 +20283,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -20413,6 +20428,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.33924366,
         "is_in_top_1_percent": false,
@@ -20691,9 +20707,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -21395,6 +21411,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -21694,7 +21711,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -21735,7 +21752,7 @@
           "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -21771,7 +21788,7 @@
           "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -21790,7 +21807,7 @@
           "contributor_roles": [],
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -21805,6 +21822,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -22043,7 +22061,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -22086,7 +22104,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-03-23T00:00:00"
     },
     {
@@ -22123,7 +22141,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -22164,7 +22182,7 @@
           "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -22183,7 +22201,7 @@
           "contributor_roles": [],
           "raw_author_name": "SanLinn I. Kaka",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-1229-4627",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -22198,6 +22216,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -22396,7 +22415,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -22439,7 +22458,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-04-10T00:00:00"
     },
     {
@@ -22471,10 +22490,8 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
+          "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310319845",
           "host_organization_name": "Geological Society of America",
           "host_organization_lineage": [
@@ -22483,7 +22500,7 @@
           "host_organization_lineage_names": [
             "Geological Society of America"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -22729,6 +22746,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -22934,10 +22952,8 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
+            "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310319845",
             "host_organization_name": "Geological Society of America",
             "host_organization_lineage": [
@@ -22946,7 +22962,7 @@
             "host_organization_lineage_names": [
               "Geological Society of America"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -22972,10 +22988,8 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
+          "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310319845",
           "host_organization_name": "Geological Society of America",
           "host_organization_lineage": [
@@ -22984,7 +22998,7 @@
           "host_organization_lineage_names": [
             "Geological Society of America"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -23582,7 +23596,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2902775908",
       "counts_by_year": [],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2018-12-11T00:00:00"
     },
     {
@@ -23662,7 +23676,7 @@
           "contributor_roles": [],
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -23681,7 +23695,7 @@
           "contributor_roles": [],
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -23700,7 +23714,7 @@
           "contributor_roles": [],
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -23715,6 +23729,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -23967,7 +23982,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2998436258",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-01-10T00:00:00"
     },
     {
@@ -24171,6 +24186,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -25374,6 +25390,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -25889,6 +25906,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -25979,57 +25997,57 @@
         {
           "id": "https://openalex.org/keywords/carbonate-mudstone",
           "display_name": "carbonate mudstone",
-          "score": 0.7070000171661377
+          "score": 0.6819999814033508
         },
         {
           "id": "https://openalex.org/keywords/unconventional-reservoirs",
           "display_name": "unconventional reservoirs",
-          "score": 0.8700000047683716
+          "score": 0.8840000033378601
         },
         {
           "id": "https://openalex.org/keywords/sweet-spot-identification",
           "display_name": "sweet spot identification",
-          "score": 0.8820000290870667
+          "score": 0.8859999775886536
         },
         {
           "id": "https://openalex.org/keywords/x-ray-fluorescence-core-scanning",
           "display_name": "X-ray fluorescence core scanning",
-          "score": 0.7300000190734863
+          "score": 0.7390000224113464
         },
         {
           "id": "https://openalex.org/keywords/chemostratigraphy",
           "display_name": "chemostratigraphy",
-          "score": 0.9160000085830688
-        },
-        {
-          "id": "https://openalex.org/keywords/late-cretaceous",
-          "display_name": "Late Cretaceous",
-          "score": 0.7990000247955322
+          "score": 0.9210000038146973
         },
         {
           "id": "https://openalex.org/keywords/lithofacies-classification",
           "display_name": "lithofacies classification",
-          "score": 0.8199999928474426
+          "score": 0.8270000219345093
         },
         {
           "id": "https://openalex.org/keywords/redox-sensitive-trace-elements",
           "display_name": "redox-sensitive elements",
-          "score": 0.8690000176429749
+          "score": 0.8550000190734863
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphic-correlation",
-          "display_name": "stratigraphic correlation",
-          "score": 0.7549999952316284
+          "id": "https://openalex.org/keywords/late-cretaceous",
+          "display_name": "Late Cretaceous",
+          "score": 0.8059999942779541
         },
         {
           "id": "https://openalex.org/keywords/reservoir-characterization",
           "display_name": "reservoir characterization",
-          "score": 0.7739999890327454
+          "score": 0.6449999809265137
         },
         {
-          "id": "https://openalex.org/keywords/organic-rich-mudstones",
-          "display_name": "organic-rich mudstones",
-          "score": 0.7509999871253967
+          "id": "https://openalex.org/keywords/stratigraphic-correlation",
+          "display_name": "stratigraphic correlation",
+          "score": 0.8809999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/non-destructive-core-analysis",
+          "display_name": "non-destructive core analysis",
+          "score": 0.777999997138977
         }
       ],
       "concepts": [
@@ -27109,7 +27127,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414237558",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27158,7 +27176,8 @@
         {
           "id": "https://openalex.org/W4415354273",
           "display_name": "Advances in the Understanding and Interpretation of Carbonates",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -27313,6 +27332,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,

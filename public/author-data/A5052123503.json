@@ -185,7 +185,7 @@
       {
         "id": "https://openalex.org/T13885",
         "display_name": "Geophysics and Sensor Technology",
-        "value": 0.0001492,
+        "value": 0.0001491,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -202,7 +202,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0001011,
+        "value": 0.000101,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0000908,
+        "value": 0.0000907,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -365,7 +365,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5052123503",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5052123503",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-09-16T00:00:00"
   },
   "works": [
@@ -789,6 +789,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.84871658,
         "is_in_top_1_percent": false,
@@ -1805,885 +1806,6 @@
       "created_date": "2022-02-08T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4291755119",
-      "doi": "https://doi.org/10.1190/image2022-3735875.1",
-      "title": "Evaluating HD weathering surveys and surface seismic with DAS in a sand dune environment",
-      "display_name": "Evaluating HD weathering surveys and surface seismic with DAS in a sand dune environment",
-      "alternate_titles": [],
-      "publication_year": 2022,
-      "publication_date": "2022-08-15",
-      "ids": {
-        "openalex": "https://openalex.org/W4291755119",
-        "doi": "https://doi.org/10.1190/image2022-3735875.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/image2022-3735875.1",
-        "doi": "https://doi.org/10.1190/image2022-3735875.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/image2022-3735875.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience & Energy",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310316678",
-          "host_organization_name": "Society of Exploration Geophysicists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316678"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Exploration Geophysicists"
-          ],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W4291755119"
-      ],
-      "child_works_count": 0,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5067998463",
-            "display_name": "Andrey V. Bakulin",
-            "orcid": "https://orcid.org/0000-0002-6638-7821",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6638-7821"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Andrey Bakulin",
-          "raw_affiliation_strings": [
-            "1 Saudi Aramco",
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1 Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052123503",
-            "display_name": "Ezzedeen Alfataierge",
-            "orcid": "https://orcid.org/0000-0003-4543-530X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4543-530X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Ezzedeen Alfataierge",
-          "raw_affiliation_strings": [
-            "1 Saudi Aramco",
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1 Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5058094928",
-            "display_name": "Roman Pevzner",
-            "orcid": "https://orcid.org/0000-0002-2555-6860",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2555-6860"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I205640436",
-              "display_name": "Curtin University",
-              "ror": "https://ror.org/02n415q13",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I205640436"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Roman Pevzner",
-          "raw_affiliation_strings": [
-            "2 Curtin University",
-            "Curtin University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "2 Curtin University",
-              "institution_ids": [
-                "https://openalex.org/I205640436"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Curtin University",
-              "institution_ids": [
-                "https://openalex.org/I205640436"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 3.4117,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.90247179,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "1",
-        "issue": null,
-        "first_page": "621",
-        "last_page": "625"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 0.9312000274658203,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9312000274658203,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.05810000002384186,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13885",
-          "display_name": "Geophysics and Sensor Technology",
-          "score": 0.0024999999441206455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
-          "display_name": "distributed acoustic sensing",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/surface-seismic",
-          "display_name": "surface seismic",
-          "score": 0.6930000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/full-waveform-inversion",
-          "display_name": "full waveform inversion",
-          "score": 0.6880000233650208
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C40724407",
-          "wikidata": "https://www.wikidata.org/wiki/Q179177",
-          "display_name": "Weathering",
-          "level": 2,
-          "score": 0.8722360730171204
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6204349994659424
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.35430434346199036
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.3532501757144928
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.34108465909957886
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.312395840883255
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/image2022-3735875.1",
-          "doi": "https://doi.org/10.1190/image2022-3735875.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/image2022-3735875.1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience & Energy",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310316678",
-            "host_organization_name": "Society of Exploration Geophysicists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316678"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Exploration Geophysicists"
-            ],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 14,
-      "referenced_works": [
-        "https://openalex.org/W22588692",
-        "https://openalex.org/W1850977552",
-        "https://openalex.org/W2072831198",
-        "https://openalex.org/W2111327087",
-        "https://openalex.org/W2312911531",
-        "https://openalex.org/W2769680008",
-        "https://openalex.org/W2922492880",
-        "https://openalex.org/W2967688085",
-        "https://openalex.org/W2986800866",
-        "https://openalex.org/W3015104346",
-        "https://openalex.org/W3094660067",
-        "https://openalex.org/W3126553123",
-        "https://openalex.org/W3198608370",
-        "https://openalex.org/W3204051352"
-      ],
-      "related_works": [
-        "https://openalex.org/W2890838352",
-        "https://openalex.org/W3094660067",
-        "https://openalex.org/W4285230658",
-        "https://openalex.org/W3097682670",
-        "https://openalex.org/W2922492880",
-        "https://openalex.org/W3204051352",
-        "https://openalex.org/W3126553123",
-        "https://openalex.org/W4297839956",
-        "https://openalex.org/W2986800866",
-        "https://openalex.org/W7125696426"
-      ],
-      "abstract_inverted_index": {
-        "Surface": [
-          0
-        ],
-        "seismic": [
-          1,
-          106,
-          169
-        ],
-        "on": [
-          2,
-          115
-        ],
-        "land": [
-          3
-        ],
-        "demands": [
-          4
-        ],
-        "more": [
-          5,
-          37
-        ],
-        "significant": [
-          6
-        ],
-        "trace": [
-          7
-        ],
-        "density": [
-          8
-        ],
-        "with": [
-          9,
-          26,
-          40,
-          70,
-          107,
-          125,
-          170
-        ],
-        "finer": [
-          10
-        ],
-        "sampling": [
-          11
-        ],
-        "to": [
-          12,
-          22,
-          55,
-          92,
-          132
-        ],
-        "address": [
-          13
-        ],
-        "imaging": [
-          14
-        ],
-        "and": [
-          15,
-          65,
-          104,
-          129,
-          135
-        ],
-        "near": [
-          16
-        ],
-        "surface": [
-          17,
-          105,
-          168
-        ],
-        "challenges.": [
-          18
-        ],
-        "It": [
-          19
-        ],
-        "becomes": [
-          20
-        ],
-        "challenging": [
-          21
-        ],
-        "meet": [
-          23
-        ],
-        "these": [
-          24
-        ],
-        "requirements": [
-          25
-        ],
-        "conventional": [
-          27,
-          84
-        ],
-        "point": [
-          28,
-          85
-        ],
-        "sensors.": [
-          29
-        ],
-        "Distributed": [
-          30
-        ],
-        "Acoustic": [
-          31
-        ],
-        "Sensing": [
-          32
-        ],
-        "(DAS)": [
-          33
-        ],
-        "offers": [
-          34,
-          77
-        ],
-        "a": [
-          35,
-          97,
-          110
-        ],
-        "potentially": [
-          36
-        ],
-        "attractive": [
-          38
-        ],
-        "alternative": [
-          39
-        ],
-        "less": [
-          41
-        ],
-        "cost,": [
-          42,
-          83
-        ],
-        "provided": [
-          43
-        ],
-        "the": [
-          44,
-          60,
-          71,
-          116,
-          157
-        ],
-        "directivity": [
-          45,
-          117
-        ],
-        "challenge": [
-          46
-        ],
-        "can": [
-          47
-        ],
-        "be": [
-          48
-        ],
-        "solved.": [
-          49
-        ],
-        "DAS": [
-          50,
-          76,
-          108,
-          137,
-          161
-        ],
-        "also": [
-          51
-        ],
-        "opens": [
-          52
-        ],
-        "new": [
-          53
-        ],
-        "horizons": [
-          54
-        ],
-        "deliver": [
-          56
-        ],
-        "multiscale": [
-          57,
-          78
-        ],
-        "data": [
-          58,
-          79
-        ],
-        "in": [
-          59,
-          109,
-          163
-        ],
-        "form": [
-          61
-        ],
-        "of": [
-          62,
-          160
-        ],
-        "“shallow”,": [
-          63
-        ],
-        "“deep”,": [
-          64
-        ],
-        "“FWI”": [
-          66
-        ],
-        "surveys": [
-          67,
-          103
-        ],
-        "leveraging": [
-          68
-        ],
-        "acquisition": [
-          69
-        ],
-        "same": [
-          72
-        ],
-        "fixed": [
-          73
-        ],
-        "cables.": [
-          74,
-          138
-        ],
-        "While": [
-          75
-        ],
-        "at": [
-          80
-        ],
-        "no": [
-          81
-        ],
-        "extra": [
-          82
-        ],
-        "sensors": [
-          86
-        ],
-        "would": [
-          87
-        ],
-        "require": [
-          88
-        ],
-        "separate": [
-          89
-        ],
-        "receiver": [
-          90
-        ],
-        "layouts": [
-          91
-        ],
-        "achieve": [
-          93
-        ],
-        "them.": [
-          94
-        ],
-        "We": [
-          95,
-          139
-        ],
-        "present": [
-          96
-        ],
-        "field": [
-          98
-        ],
-        "trial": [
-          99,
-          151
-        ],
-        "evaluating": [
-          100
-        ],
-        "HD": [
-          101
-        ],
-        "weathering": [
-          102
-        ],
-        "sand": [
-          111,
-          164
-        ],
-        "dune": [
-          112,
-          165
-        ],
-        "environment.": [
-          113
-        ],
-        "Focusing": [
-          114
-        ],
-        "challenge,": [
-          118
-        ],
-        "we": [
-          119
-        ],
-        "evaluate": [
-          120,
-          141
-        ],
-        "four": [
-          121
-        ],
-        "different": [
-          122,
-          143
-        ],
-        "omnidirectional": [
-          123
-        ],
-        "cables": [
-          124,
-          162
-        ],
-        "varying": [
-          126
-        ],
-        "wrapping": [
-          127
-        ],
-        "angles": [
-          128
-        ],
-        "compare": [
-          130
-        ],
-        "them": [
-          131
-        ],
-        "3C": [
-          133
-        ],
-        "geophones": [
-          134
-        ],
-        "straight": [
-          136
-        ],
-        "further": [
-          140
-        ],
-        "three": [
-          142
-        ],
-        "source": [
-          144
-        ],
-        "types": [
-          145
-        ],
-        "considered": [
-          146
-        ],
-        "for": [
-          147,
-          155,
-          167
-        ],
-        "various": [
-          148
-        ],
-        "applications.": [
-          149
-        ],
-        "Field": [
-          150
-        ],
-        "provides": [
-          152
-        ],
-        "comprehensive": [
-          153
-        ],
-        "datasets": [
-          154
-        ],
-        "assessing": [
-          156
-        ],
-        "initial": [
-          158
-        ],
-        "performance": [
-          159
-        ],
-        "environments": [
-          166
-        ],
-        "DAS.": [
-          171
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4291755119",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-17T12:49:18.490984",
-      "created_date": "2022-08-16T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3090541542",
       "doi": "https://doi.org/10.1190/segam2020-3419066.1",
       "title": "Influence of gauge length on DAS VSP data at the Houston Research Center test well",
@@ -2994,12 +2116,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.7542,
+      "fwci": 5.68,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96627319,
+        "value": 0.96585779,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4025,12 +3148,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1734,
+      "fwci": 5.1045,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95807282,
+        "value": 0.95761614,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4789,6 +3913,886 @@
       "created_date": "2021-09-13T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4291755119",
+      "doi": "https://doi.org/10.1190/image2022-3735875.1",
+      "title": "Evaluating HD weathering surveys and surface seismic with DAS in a sand dune environment",
+      "display_name": "Evaluating HD weathering surveys and surface seismic with DAS in a sand dune environment",
+      "alternate_titles": [],
+      "publication_year": 2022,
+      "publication_date": "2022-08-15",
+      "ids": {
+        "openalex": "https://openalex.org/W4291755119",
+        "doi": "https://doi.org/10.1190/image2022-3735875.1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/image2022-3735875.1",
+        "doi": "https://doi.org/10.1190/image2022-3735875.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/image2022-3735875.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience & Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310316678",
+          "host_organization_name": "Society of Exploration Geophysicists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316678"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Exploration Geophysicists"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4291755119"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5067998463",
+            "display_name": "Andrey V. Bakulin",
+            "orcid": "https://orcid.org/0000-0002-6638-7821",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6638-7821"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Andrey Bakulin",
+          "raw_affiliation_strings": [
+            "1 Saudi Aramco",
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052123503",
+            "display_name": "Ezzedeen Alfataierge",
+            "orcid": "https://orcid.org/0000-0003-4543-530X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4543-530X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Ezzedeen Alfataierge",
+          "raw_affiliation_strings": [
+            "1 Saudi Aramco",
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5058094928",
+            "display_name": "Roman Pevzner",
+            "orcid": "https://orcid.org/0000-0002-2555-6860",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2555-6860"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205640436",
+              "display_name": "Curtin University",
+              "ror": "https://ror.org/02n415q13",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205640436"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Roman Pevzner",
+          "raw_affiliation_strings": [
+            "2 Curtin University",
+            "Curtin University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2 Curtin University",
+              "institution_ids": [
+                "https://openalex.org/I205640436"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Curtin University",
+              "institution_ids": [
+                "https://openalex.org/I205640436"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 3.3552,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 8,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.90008146,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "1",
+        "issue": null,
+        "first_page": "621",
+        "last_page": "625"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11757",
+        "display_name": "Seismic Waves and Analysis",
+        "score": 0.9312000274658203,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.9312000274658203,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.05810000002384186,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13885",
+          "display_name": "Geophysics and Sensor Technology",
+          "score": 0.0024999999441206455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
+          "display_name": "distributed acoustic sensing",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/surface-seismic",
+          "display_name": "surface seismic",
+          "score": 0.6930000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/full-waveform-inversion",
+          "display_name": "full waveform inversion",
+          "score": 0.6880000233650208
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C40724407",
+          "wikidata": "https://www.wikidata.org/wiki/Q179177",
+          "display_name": "Weathering",
+          "level": 2,
+          "score": 0.8722360730171204
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6204349994659424
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.35430434346199036
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.3532501757144928
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.34108465909957886
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.312395840883255
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/image2022-3735875.1",
+          "doi": "https://doi.org/10.1190/image2022-3735875.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/image2022-3735875.1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience & Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310316678",
+            "host_organization_name": "Society of Exploration Geophysicists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316678"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Exploration Geophysicists"
+            ],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 14,
+      "referenced_works": [
+        "https://openalex.org/W22588692",
+        "https://openalex.org/W1850977552",
+        "https://openalex.org/W2072831198",
+        "https://openalex.org/W2111327087",
+        "https://openalex.org/W2312911531",
+        "https://openalex.org/W2769680008",
+        "https://openalex.org/W2922492880",
+        "https://openalex.org/W2967688085",
+        "https://openalex.org/W2986800866",
+        "https://openalex.org/W3015104346",
+        "https://openalex.org/W3094660067",
+        "https://openalex.org/W3126553123",
+        "https://openalex.org/W3198608370",
+        "https://openalex.org/W3204051352"
+      ],
+      "related_works": [
+        "https://openalex.org/W2890838352",
+        "https://openalex.org/W3094660067",
+        "https://openalex.org/W4285230658",
+        "https://openalex.org/W3097682670",
+        "https://openalex.org/W2922492880",
+        "https://openalex.org/W3204051352",
+        "https://openalex.org/W3126553123",
+        "https://openalex.org/W4297839956",
+        "https://openalex.org/W2986800866",
+        "https://openalex.org/W7125696426"
+      ],
+      "abstract_inverted_index": {
+        "Surface": [
+          0
+        ],
+        "seismic": [
+          1,
+          106,
+          169
+        ],
+        "on": [
+          2,
+          115
+        ],
+        "land": [
+          3
+        ],
+        "demands": [
+          4
+        ],
+        "more": [
+          5,
+          37
+        ],
+        "significant": [
+          6
+        ],
+        "trace": [
+          7
+        ],
+        "density": [
+          8
+        ],
+        "with": [
+          9,
+          26,
+          40,
+          70,
+          107,
+          125,
+          170
+        ],
+        "finer": [
+          10
+        ],
+        "sampling": [
+          11
+        ],
+        "to": [
+          12,
+          22,
+          55,
+          92,
+          132
+        ],
+        "address": [
+          13
+        ],
+        "imaging": [
+          14
+        ],
+        "and": [
+          15,
+          65,
+          104,
+          129,
+          135
+        ],
+        "near": [
+          16
+        ],
+        "surface": [
+          17,
+          105,
+          168
+        ],
+        "challenges.": [
+          18
+        ],
+        "It": [
+          19
+        ],
+        "becomes": [
+          20
+        ],
+        "challenging": [
+          21
+        ],
+        "meet": [
+          23
+        ],
+        "these": [
+          24
+        ],
+        "requirements": [
+          25
+        ],
+        "conventional": [
+          27,
+          84
+        ],
+        "point": [
+          28,
+          85
+        ],
+        "sensors.": [
+          29
+        ],
+        "Distributed": [
+          30
+        ],
+        "Acoustic": [
+          31
+        ],
+        "Sensing": [
+          32
+        ],
+        "(DAS)": [
+          33
+        ],
+        "offers": [
+          34,
+          77
+        ],
+        "a": [
+          35,
+          97,
+          110
+        ],
+        "potentially": [
+          36
+        ],
+        "attractive": [
+          38
+        ],
+        "alternative": [
+          39
+        ],
+        "less": [
+          41
+        ],
+        "cost,": [
+          42,
+          83
+        ],
+        "provided": [
+          43
+        ],
+        "the": [
+          44,
+          60,
+          71,
+          116,
+          157
+        ],
+        "directivity": [
+          45,
+          117
+        ],
+        "challenge": [
+          46
+        ],
+        "can": [
+          47
+        ],
+        "be": [
+          48
+        ],
+        "solved.": [
+          49
+        ],
+        "DAS": [
+          50,
+          76,
+          108,
+          137,
+          161
+        ],
+        "also": [
+          51
+        ],
+        "opens": [
+          52
+        ],
+        "new": [
+          53
+        ],
+        "horizons": [
+          54
+        ],
+        "deliver": [
+          56
+        ],
+        "multiscale": [
+          57,
+          78
+        ],
+        "data": [
+          58,
+          79
+        ],
+        "in": [
+          59,
+          109,
+          163
+        ],
+        "form": [
+          61
+        ],
+        "of": [
+          62,
+          160
+        ],
+        "“shallow”,": [
+          63
+        ],
+        "“deep”,": [
+          64
+        ],
+        "“FWI”": [
+          66
+        ],
+        "surveys": [
+          67,
+          103
+        ],
+        "leveraging": [
+          68
+        ],
+        "acquisition": [
+          69
+        ],
+        "same": [
+          72
+        ],
+        "fixed": [
+          73
+        ],
+        "cables.": [
+          74,
+          138
+        ],
+        "While": [
+          75
+        ],
+        "at": [
+          80
+        ],
+        "no": [
+          81
+        ],
+        "extra": [
+          82
+        ],
+        "sensors": [
+          86
+        ],
+        "would": [
+          87
+        ],
+        "require": [
+          88
+        ],
+        "separate": [
+          89
+        ],
+        "receiver": [
+          90
+        ],
+        "layouts": [
+          91
+        ],
+        "achieve": [
+          93
+        ],
+        "them.": [
+          94
+        ],
+        "We": [
+          95,
+          139
+        ],
+        "present": [
+          96
+        ],
+        "field": [
+          98
+        ],
+        "trial": [
+          99,
+          151
+        ],
+        "evaluating": [
+          100
+        ],
+        "HD": [
+          101
+        ],
+        "weathering": [
+          102
+        ],
+        "sand": [
+          111,
+          164
+        ],
+        "dune": [
+          112,
+          165
+        ],
+        "environment.": [
+          113
+        ],
+        "Focusing": [
+          114
+        ],
+        "challenge,": [
+          118
+        ],
+        "we": [
+          119
+        ],
+        "evaluate": [
+          120,
+          141
+        ],
+        "four": [
+          121
+        ],
+        "different": [
+          122,
+          143
+        ],
+        "omnidirectional": [
+          123
+        ],
+        "cables": [
+          124,
+          162
+        ],
+        "varying": [
+          126
+        ],
+        "wrapping": [
+          127
+        ],
+        "angles": [
+          128
+        ],
+        "compare": [
+          130
+        ],
+        "them": [
+          131
+        ],
+        "3C": [
+          133
+        ],
+        "geophones": [
+          134
+        ],
+        "straight": [
+          136
+        ],
+        "further": [
+          140
+        ],
+        "three": [
+          142
+        ],
+        "source": [
+          144
+        ],
+        "types": [
+          145
+        ],
+        "considered": [
+          146
+        ],
+        "for": [
+          147,
+          155,
+          167
+        ],
+        "various": [
+          148
+        ],
+        "applications.": [
+          149
+        ],
+        "Field": [
+          150
+        ],
+        "provides": [
+          152
+        ],
+        "comprehensive": [
+          153
+        ],
+        "datasets": [
+          154
+        ],
+        "assessing": [
+          156
+        ],
+        "initial": [
+          158
+        ],
+        "performance": [
+          159
+        ],
+        "environments": [
+          166
+        ],
+        "DAS.": [
+          171
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4291755119",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2022-08-16T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3197378496",
       "doi": "https://doi.org/10.1190/segam2021-3579450.1",
       "title": "Amplitude-based DAS logging: Turning DAS VSP amplitudes into subsurface elastic properties",
@@ -5054,12 +5058,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.0357,
+      "fwci": 5.9553,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96837072,
+        "value": 0.96761059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5970,6 +5975,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.59185059,
         "is_in_top_1_percent": false,
@@ -7246,12 +7252,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0436,
+      "fwci": 1.0369,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67646871,
+        "value": 0.67495695,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7272,7 +7279,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11609",
         "display_name": "Geophysical Methods and Applications",
-        "score": 0.7387999892234802,
+        "score": 0.7817000150680542,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -7290,7 +7297,7 @@
         {
           "id": "https://openalex.org/T11609",
           "display_name": "Geophysical Methods and Applications",
-          "score": 0.7387999892234802,
+          "score": 0.7817000150680542,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -7307,7 +7314,7 @@
         {
           "id": "https://openalex.org/T11211",
           "display_name": "3D Surveying and Cultural Heritage",
-          "score": 0.08860000222921371,
+          "score": 0.07209999859333038,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -7324,7 +7331,7 @@
         {
           "id": "https://openalex.org/T11133",
           "display_name": "UAV Applications and Optimization",
-          "score": 0.04839999973773956,
+          "score": 0.04019999876618385,
           "subfield": {
             "id": "https://openalex.org/subfields/2202",
             "display_name": "Aerospace Engineering"
@@ -8120,7 +8127,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-08-02T00:00:00"
     },
     {
@@ -8438,12 +8445,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0308,
+      "fwci": 3.9647,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91319882,
+        "value": 0.91039125,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8630,9 +8638,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.7207000255584717
+          "score": 0.7207000255584717,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -9388,12 +9396,13 @@
         "currency": "CHF",
         "value_usd": 3137
       },
-      "fwci": 3.9862,
+      "fwci": 3.9063,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89480701,
+        "value": 0.89294258,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10653,12 +10662,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0025,
+      "fwci": 2.9302,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89195231,
+        "value": 0.88897196,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11430,12 +11440,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8216,
+      "fwci": 1.8035,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82847849,
+        "value": 0.82640383,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12764,12 +12775,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7245,
+      "fwci": 1.7015,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7614932,
+        "value": 0.75698686,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13582,12 +13594,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3436,
+      "fwci": 1.3216,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65384615,
+        "value": 0.65061001,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13850,9 +13863,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4943999946117401
+          "score": 0.4943999946117401,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -14686,12 +14699,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3623,
+      "fwci": 0.359,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3896795,
+        "value": 0.38776243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14712,7 +14726,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.5810999870300293,
+        "score": 0.5508000254631042,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -14730,7 +14744,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.5810999870300293,
+          "score": 0.5508000254631042,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -14747,7 +14761,7 @@
         {
           "id": "https://openalex.org/T13885",
           "display_name": "Geophysics and Sensor Technology",
-          "score": 0.049400001764297485,
+          "score": 0.05180000141263008,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -14762,20 +14776,20 @@
           }
         },
         {
-          "id": "https://openalex.org/T13287",
-          "display_name": "Robotic Process Automation Applications",
-          "score": 0.039900001138448715,
+          "id": "https://openalex.org/T13382",
+          "display_name": "Robotics and Automated Systems",
+          "score": 0.04320000112056732,
           "subfield": {
-            "id": "https://openalex.org/subfields/1404",
-            "display_name": "Management Information Systems"
+            "id": "https://openalex.org/subfields/2207",
+            "display_name": "Control and Systems Engineering"
           },
           "field": {
-            "id": "https://openalex.org/fields/14",
-            "display_name": "Business, Management and Accounting"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         }
       ],
@@ -14978,9 +14992,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.8970999717712402
+          "score": 0.8970999717712402,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -15389,7 +15403,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-04-03T00:00:00"
     },
     {
@@ -15708,12 +15722,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3623,
+      "fwci": 0.359,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3896795,
+        "value": 0.38776243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15805,17 +15820,42 @@
         {
           "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
           "display_name": "distributed acoustic sensing",
-          "score": 0.9980000257492065
+          "score": 0.996999979019165
         },
         {
           "id": "https://openalex.org/keywords/vertical-seismic-profiling",
           "display_name": "vertical seismic profiling",
-          "score": 0.8690000176429749
+          "score": 0.8619999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/full-waveform-inversion",
+          "display_name": "full waveform inversion",
+          "score": 0.8109999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/deep-learning",
+          "display_name": "deep learning",
+          "score": 0.7269999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/noise-mitigation",
+          "display_name": "noise mitigation",
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/desert-environment",
+          "display_name": "desert environment",
+          "score": 0.6060000061988831
         },
         {
           "id": "https://openalex.org/keywords/velocity-inversion",
           "display_name": "velocity inversion",
-          "score": 0.6700000166893005
+          "score": 0.6620000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/kinematic-inversion",
+          "display_name": "kinematic inversion",
+          "score": 0.4699999988079071
         }
       ],
       "concepts": [
@@ -16427,7 +16467,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16629,6 +16669,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -17432,12 +17473,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1578,
+      "fwci": 2.13,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83192805,
+        "value": 0.82928894,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18336,12 +18378,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.112,
+      "fwci": 0.1162,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41411645,
+        "value": 0.41362389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18678,9 +18721,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.4390000104904175
+          "score": 0.4390000104904175,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -19357,6 +19400,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.38133147,
         "is_in_top_1_percent": false,
@@ -20763,12 +20807,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8529,
+      "fwci": 0.8388,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59967759,
+        "value": 0.59571002,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21037,9 +21082,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.7207000255584717
+          "score": 0.7207000255584717,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -21719,12 +21764,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1708,
+      "fwci": 1.1554,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67284768,
+        "value": 0.6681231,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22658,12 +22704,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3436,
+      "fwci": 1.3216,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65384615,
+        "value": 0.65061001,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23171,7 +23218,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -23212,7 +23259,7 @@
           "contributor_roles": [],
           "raw_author_name": "Yan Jin",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-2247-6854",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -23231,7 +23278,7 @@
           "contributor_roles": [],
           "raw_author_name": "Nikolay Dyaur",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-2842-9883",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -23269,7 +23316,7 @@
           "contributor_roles": [],
           "raw_author_name": "Yiming Zheng",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-7947-2769",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -23284,6 +23331,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -23447,7 +23495,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -23485,7 +23533,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3033999366",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-06-12T00:00:00"
     },
     {
@@ -23564,6 +23612,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -24110,6 +24159,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -24927,6 +24977,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -25443,6 +25494,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -26319,6 +26371,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -27165,6 +27218,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -28522,6 +28576,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -28612,37 +28667,37 @@
         {
           "id": "https://openalex.org/keywords/well-placement",
           "display_name": "well placement",
-          "score": 0.7680000066757202
+          "score": 0.7450000047683716
         },
         {
           "id": "https://openalex.org/keywords/cross-correlation-function",
           "display_name": "cross correlation function",
-          "score": 0.7710000276565552
+          "score": 0.7570000290870667
         },
         {
           "id": "https://openalex.org/keywords/drill-string",
           "display_name": "drill string",
-          "score": 0.5199999809265137
+          "score": 0.5289999842643738
         },
         {
           "id": "https://openalex.org/keywords/probability-distribution-functions",
           "display_name": "probability distribution functions",
-          "score": 0.6000000238418579
+          "score": 0.5960000157356262
         },
         {
           "id": "https://openalex.org/keywords/positional-uncertainty",
           "display_name": "position uncertainty",
-          "score": 0.8399999737739563
+          "score": 0.8889999985694885
         },
         {
           "id": "https://openalex.org/keywords/source-localization",
           "display_name": "source localization",
-          "score": 0.5559999942779541
+          "score": 0.515999972820282
         },
         {
           "id": "https://openalex.org/keywords/measurement-while-drilling",
           "display_name": "measurement while drilling",
-          "score": 0.7680000066757202
+          "score": 0.781000018119812
         }
       ],
       "concepts": [
@@ -29281,7 +29336,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414232848",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29489,6 +29544,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -30582,6 +30638,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -30861,9 +30918,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -31233,6 +31290,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -32193,6 +32251,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -32936,6 +32995,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -33605,6 +33665,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -33851,14 +33912,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5378999710083008
+          "score": 0.5378999710083008,
+          "id": "https://metadata.un.org/sdg/9"
         },
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.4390000104904175
+          "score": 0.4390000104904175,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],

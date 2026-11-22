@@ -150,7 +150,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000167,
+        "value": 0.0000166,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -167,7 +167,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000016,
+        "value": 0.0000159,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -184,7 +184,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000138,
+        "value": 0.0000137,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -216,16 +216,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000129,
+        "id": "https://openalex.org/T10811",
+        "display_name": "Hydrogen Storage and Materials",
+        "value": 0.0000126,
         "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -329,7 +329,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5009697450",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5009697450",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2018-01-26T00:00:00"
   },
   "works": [
@@ -800,12 +800,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 6.4289,
+      "fwci": 6.3389,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 48,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97873328,
+        "value": 0.97855624,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1109,8 +1110,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -1614,6 +1615,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.95337774,
         "is_in_top_1_percent": false,
@@ -1927,8 +1929,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -2454,6 +2456,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.84049838,
         "is_in_top_1_percent": false,
@@ -2828,8 +2831,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
@@ -4243,12 +4246,13 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 3.0309,
+      "fwci": 2.9939,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90971223,
+        "value": 0.90774579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4576,8 +4580,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -4833,12 +4837,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2399,
+      "fwci": 1.2253,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73961988,
+        "value": 0.73711416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5133,8 +5138,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5830,6 +5835,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.71278795,
         "is_in_top_1_percent": false,
@@ -6072,8 +6078,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6861,12 +6867,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.0474,
+      "fwci": 2.0151,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84129106,
+        "value": 0.83721372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7082,11 +7089,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 126,
+      "referenced_works_count": 125,
       "referenced_works": [
         "https://openalex.org/W101633874",
         "https://openalex.org/W1513110486",
@@ -7211,7 +7218,6 @@
         "https://openalex.org/W4387760936",
         "https://openalex.org/W4399662683",
         "https://openalex.org/W6639136611",
-        "https://openalex.org/W6639287538",
         "https://openalex.org/W7015307384",
         "https://openalex.org/W7073995326"
       ],
@@ -7247,7 +7253,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-07-27T00:00:00"
     },
     {
@@ -7644,6 +7650,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.78818718,
         "is_in_top_1_percent": false,
@@ -8016,8 +8023,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -9132,6 +9139,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.43076923,
         "is_in_top_1_percent": false,
@@ -9457,8 +9465,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2783424239.pdf",
@@ -10061,6 +10069,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.56309298,
         "is_in_top_1_percent": false,
@@ -10504,8 +10513,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
@@ -11313,6 +11322,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.68787879,
         "is_in_top_1_percent": false,
@@ -11599,8 +11609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12353,12 +12363,13 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 2.6089,
+      "fwci": 2.5705,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85213849,
+        "value": 0.84997659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12822,8 +12833,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -14026,6 +14037,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.45566809,
         "is_in_top_1_percent": false,
@@ -14373,8 +14385,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -15184,10 +15196,8 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
+          "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310319845",
           "host_organization_name": "Geological Society of America",
           "host_organization_lineage": [
@@ -15196,7 +15206,7 @@
           "host_organization_lineage_names": [
             "Geological Society of America"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -15501,6 +15511,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -15751,10 +15762,8 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
+            "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310319845",
             "host_organization_name": "Geological Society of America",
             "host_organization_lineage": [
@@ -15763,7 +15772,7 @@
             "host_organization_lineage_names": [
               "Geological Society of America"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -15780,8 +15789,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15800,7 +15809,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4389353271",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2023-12-06T00:00:00"
     },
     {
@@ -16127,6 +16136,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -16146,7 +16156,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9916999936103821,
+        "score": 0.9940999746322632,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -16164,7 +16174,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9916999936103821,
+          "score": 0.9940999746322632,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -16181,7 +16191,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.002099999925121665,
+          "score": 0.001500000013038516,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -16198,7 +16208,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.001500000013038516,
+          "score": 0.0010999999940395355,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -16425,8 +16435,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -17203,7 +17213,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4404013502",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-11-04T00:00:00"
     },
     {
@@ -17453,6 +17463,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -17877,8 +17888,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7160955974.pdf",
@@ -19005,6 +19016,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -19383,8 +19395,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,

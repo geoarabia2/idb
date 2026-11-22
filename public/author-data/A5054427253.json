@@ -14,7 +14,7 @@
     ],
     "full_name": "LE NINDRE, YVES-MICHEL, and JACQUES",
     "works_count": 37,
-    "cited_by_count": 1170,
+    "cited_by_count": 1180,
     "summary_stats": {
       "2yr_mean_citedness": 0.5,
       "h_index": 18,
@@ -38,7 +38,7 @@
           ]
         },
         "years": [
-          2023,
+          2024,
           2019,
           2018,
           2015,
@@ -158,7 +158,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000718,
+        "value": 0.0000715,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -175,7 +175,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000311,
+        "value": 0.000031,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -209,7 +209,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000293,
+        "value": 0.0000292,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -362,7 +362,7 @@
         "year": 2015,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 59
+        "cited_by_count": 61
       },
       {
         "year": 2016,
@@ -374,13 +374,13 @@
         "year": 2017,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 77
+        "cited_by_count": 76
       },
       {
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 45
+        "cited_by_count": 46
       },
       {
         "year": 2019,
@@ -392,31 +392,31 @@
         "year": 2020,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 55
+        "cited_by_count": 56
       },
       {
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 78
+        "cited_by_count": 79
       },
       {
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 78
+        "cited_by_count": 80
       },
       {
         "year": 2023,
-        "works_count": 2,
-        "oa_works_count": 2,
-        "cited_by_count": 82
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 65
       },
       {
         "year": 2024,
-        "works_count": 0,
-        "oa_works_count": 0,
-        "cited_by_count": 99
+        "works_count": 2,
+        "oa_works_count": 2,
+        "cited_by_count": 116
       },
       {
         "year": 2025,
@@ -443,7 +443,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5054427253",
-    "updated_date": "2026-11-20T12:36:48",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -490,7 +490,7 @@
           "host_organization_lineage_names": [
             "Elsevier BV"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -1056,12 +1056,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 24.4445,
+      "fwci": 24.7177,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 203,
+      "cited_by_count": 204,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99836601,
+        "value": 0.99869452,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1375,7 +1376,7 @@
             "host_organization_lineage_names": [
               "Elsevier BV"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": "cc-by-nc-nd",
           "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -1475,7 +1476,7 @@
           "host_organization_lineage_names": [
             "Elsevier BV"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -1487,13 +1488,13 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         },
         {
-          "score": 0.571399986743927,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.571399986743927,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -1795,7 +1796,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-19T14:11:59.513116",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2177,17 +2178,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3581,
+      "fwci": 2.3295,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 101,
+      "cited_by_count": 102,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87777563,
+        "value": 0.8752655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -2519,7 +2521,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 66,
+      "referenced_works_count": 63,
       "referenced_works": [
         "https://openalex.org/W57810535",
         "https://openalex.org/W62814192",
@@ -2578,11 +2580,8 @@
         "https://openalex.org/W3174426671",
         "https://openalex.org/W3200669176",
         "https://openalex.org/W4232328127",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6602627032",
         "https://openalex.org/W6616703885",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6692110163",
         "https://openalex.org/W6884882557",
         "https://openalex.org/W6986330232",
         "https://openalex.org/W7036357283",
@@ -3739,7 +3738,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3989,12 +3988,13 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 3.0012,
+      "fwci": 2.9648,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 88,
+      "cited_by_count": 91,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90924889,
+        "value": 0.90809036,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4313,7 +4313,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 14,
+      "referenced_works_count": 13,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W201823505",
@@ -4327,8 +4327,7 @@
         "https://openalex.org/W2328556468",
         "https://openalex.org/W2332566917",
         "https://openalex.org/W2443223835",
-        "https://openalex.org/W2982770547",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W2982770547"
       ],
       "related_works": [
         "https://openalex.org/W2188233270",
@@ -4695,7 +4694,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2019,
@@ -4715,7 +4714,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 6
+          "cited_by_count": 8
         },
         {
           "year": 2014,
@@ -4730,7 +4729,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5004,17 +5003,18 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.6144,
+      "fwci": 3.53,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 86,
+      "cited_by_count": 87,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89958935,
+        "value": 0.89630513,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -5323,7 +5323,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 22,
+      "referenced_works_count": 21,
       "referenced_works": [
         "https://openalex.org/W8117645",
         "https://openalex.org/W195523536",
@@ -5345,7 +5345,6 @@
         "https://openalex.org/W2470200639",
         "https://openalex.org/W2990128836",
         "https://openalex.org/W3036213764",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6720189415"
       ],
       "related_works": [
@@ -5385,7 +5384,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2020,
@@ -5424,7 +5423,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5657,17 +5656,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4979,
+      "fwci": 0.4924,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 82,
+      "cited_by_count": 84,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58938011,
+        "value": 0.58495554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -6000,7 +6000,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 26,
+      "referenced_works_count": 25,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W635268030",
@@ -6022,7 +6022,6 @@
         "https://openalex.org/W3095638343",
         "https://openalex.org/W3154818699",
         "https://openalex.org/W4243494384",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4384103667",
         "https://openalex.org/W6980752811",
         "https://openalex.org/W7008743747",
@@ -6598,11 +6597,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2021,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2020,
@@ -6637,7 +6636,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-01-13T00:00:00"
     },
     {
@@ -6835,12 +6834,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5102,
+      "fwci": 3.4565,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 68,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90945625,
+        "value": 0.90785375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7252,7 +7252,7 @@
         "pdf": "https://content.openalex.org/works/W1542845244.pdf",
         "grobid_xml": "https://content.openalex.org/works/W1542845244.grobid-xml"
       },
-      "referenced_works_count": 75,
+      "referenced_works_count": 73,
       "referenced_works": [
         "https://openalex.org/W64953067",
         "https://openalex.org/W69505290",
@@ -7322,10 +7322,8 @@
         "https://openalex.org/W3045296169",
         "https://openalex.org/W3106777510",
         "https://openalex.org/W3214948090",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4302045188",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6723182262",
         "https://openalex.org/W6912024222",
         "https://openalex.org/W7015159553",
         "https://openalex.org/W7052948001"
@@ -8995,7 +8993,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9299,12 +9297,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 3.0283,
+      "fwci": 3.0091,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 56,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92237121,
+        "value": 0.92180663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9623,8 +9622,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         }
       ],
@@ -9642,7 +9641,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 107,
+      "referenced_works_count": 106,
       "referenced_works": [
         "https://openalex.org/W41374818",
         "https://openalex.org/W351797465",
@@ -9748,7 +9747,6 @@
         "https://openalex.org/W2792382008",
         "https://openalex.org/W2990128836",
         "https://openalex.org/W2994434476",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6697866919",
         "https://openalex.org/W7148398267"
       ],
@@ -9804,7 +9802,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2018-09-27T00:00:00"
     },
     {
@@ -9951,12 +9949,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5724,
+      "fwci": 2.5413,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 63,
+      "cited_by_count": 64,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89206411,
+        "value": 0.88955397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10282,7 +10281,7 @@
         "pdf": "https://content.openalex.org/works/W2954113145.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2954113145.grobid-xml"
       },
-      "referenced_works_count": 114,
+      "referenced_works_count": 108,
       "referenced_works": [
         "https://openalex.org/W62814192",
         "https://openalex.org/W88175743",
@@ -10381,14 +10380,8 @@
         "https://openalex.org/W3216710455",
         "https://openalex.org/W4206611360",
         "https://openalex.org/W4213430214",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4389048967",
-        "https://openalex.org/W6631212401",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6687735218",
-        "https://openalex.org/W6688970562",
-        "https://openalex.org/W6689585193",
-        "https://openalex.org/W6690074511",
         "https://openalex.org/W6726756750",
         "https://openalex.org/W6884882557",
         "https://openalex.org/W6903777390",
@@ -10760,7 +10753,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -11066,12 +11059,13 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 2.7972,
+      "fwci": 2.7671,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87990438,
+        "value": 0.87847943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11422,13 +11416,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         },
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4000000059604645,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -11440,7 +11434,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 67,
+      "referenced_works_count": 66,
       "referenced_works": [
         "https://openalex.org/W72170512",
         "https://openalex.org/W396069048",
@@ -11504,7 +11498,6 @@
         "https://openalex.org/W2972611128",
         "https://openalex.org/W3160761443",
         "https://openalex.org/W4205129767",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6720823322",
         "https://openalex.org/W7000613008",
         "https://openalex.org/W7073995326",
@@ -11578,7 +11571,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11783,12 +11776,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7422,
+      "fwci": 2.7029,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87162431,
+        "value": 0.86927197,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13609,12 +13603,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.053,
+      "fwci": 1.0377,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73850085,
+        "value": 0.7361655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15148,12 +15143,13 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 1.5993,
+      "fwci": 1.5946,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 23,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.787001,
+        "value": 0.78589558,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15583,7 +15579,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 116,
+      "referenced_works_count": 115,
       "referenced_works": [
         "https://openalex.org/W40378051",
         "https://openalex.org/W69505290",
@@ -15694,7 +15690,6 @@
         "https://openalex.org/W4230328441",
         "https://openalex.org/W4245270370",
         "https://openalex.org/W4247165743",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4312684448",
         "https://openalex.org/W6605132905",
         "https://openalex.org/W6892322463",
@@ -15746,7 +15741,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-02-21T00:00:00"
     },
     {
@@ -16408,12 +16403,13 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 3.6169,
+      "fwci": 3.8051,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 43,
+      "cited_by_count": 44,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91164518,
+        "value": 0.91809831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16776,8 +16772,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         }
       ],
@@ -16880,7 +16876,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17010,12 +17006,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9941,
+      "fwci": 0.983,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 30,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70756492,
+        "value": 0.70493037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17312,8 +17309,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -17328,7 +17325,7 @@
         "pdf": "https://content.openalex.org/works/W2188233270.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2188233270.grobid-xml"
       },
-      "referenced_works_count": 40,
+      "referenced_works_count": 38,
       "referenced_works": [
         "https://openalex.org/W62814192",
         "https://openalex.org/W195523536",
@@ -17366,8 +17363,6 @@
         "https://openalex.org/W3127056474",
         "https://openalex.org/W3157716230",
         "https://openalex.org/W4233471792",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6602627032",
         "https://openalex.org/W6678618728",
         "https://openalex.org/W7061123377"
       ],
@@ -17801,7 +17796,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18050,12 +18045,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6096,
+      "fwci": 2.5728,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86707211,
+        "value": 0.86517209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18425,7 +18421,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 29,
+      "referenced_works_count": 28,
       "referenced_works": [
         "https://openalex.org/W57810535",
         "https://openalex.org/W128346347",
@@ -18454,7 +18450,6 @@
         "https://openalex.org/W3023665096",
         "https://openalex.org/W3127056474",
         "https://openalex.org/W4210840637",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W7167724021"
       ],
       "related_works": [
@@ -19127,7 +19122,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19181,7 +19176,8 @@
         {
           "id": "https://openalex.org/W3003836963",
           "display_name": "Siliciclastic Reservoirs of the Arabian Plate",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -19417,12 +19413,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9975,
+      "fwci": 1.9701,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83412322,
+        "value": 0.83222749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19703,7 +19700,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 57,
+      "referenced_works_count": 55,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W203584942",
@@ -19755,9 +19752,7 @@
         "https://openalex.org/W3017267468",
         "https://openalex.org/W3036213764",
         "https://openalex.org/W3127866639",
-        "https://openalex.org/W6635303797",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6790285102",
         "https://openalex.org/W7055719650",
         "https://openalex.org/W7070646910",
         "https://openalex.org/W7167724021",
@@ -20283,7 +20278,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -20329,7 +20324,7 @@
           "host_organization_lineage_names": [
             "Elsevier BV"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -20655,12 +20650,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3548,
+      "fwci": 1.3281,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 10,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77521692,
+        "value": 0.77133568,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21001,7 +20997,7 @@
             "host_organization_lineage_names": [
               "Elsevier BV"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": "cc-by-nc-nd",
           "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -21072,7 +21068,7 @@
           "host_organization_lineage_names": [
             "Elsevier BV"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -21084,13 +21080,13 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         },
         {
-          "score": 0.878000020980835,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.878000020980835,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -21908,7 +21904,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22124,6 +22120,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.84593301,
         "is_in_top_1_percent": false,
@@ -23682,12 +23679,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1929,
+      "fwci": 1.1796,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 25,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75254046,
+        "value": 0.74934136,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24016,7 +24014,7 @@
         "pdf": "https://content.openalex.org/works/W3127056474.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3127056474.grobid-xml"
       },
-      "referenced_works_count": 43,
+      "referenced_works_count": 41,
       "referenced_works": [
         "https://openalex.org/W61519228",
         "https://openalex.org/W62814192",
@@ -24057,8 +24055,6 @@
         "https://openalex.org/W3174426671",
         "https://openalex.org/W3200669176",
         "https://openalex.org/W4233471792",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6602627032",
         "https://openalex.org/W6678618728",
         "https://openalex.org/W6720189415"
       ],
@@ -24547,7 +24543,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -24871,12 +24867,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6849,
+      "fwci": 0.6743,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68223223,
+        "value": 0.68008008,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25261,8 +25258,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927,
           "display_name": "Climate action"
         }
       ],
@@ -26015,12 +26012,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.864,
+      "fwci": 1.8377,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82686992,
+        "value": 0.8253868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27592,12 +27590,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1988,
+      "fwci": 0.1966,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38050433,
+        "value": 0.37862251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27946,7 +27945,7 @@
         "pdf": "https://content.openalex.org/works/W2968599283.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2968599283.grobid-xml"
       },
-      "referenced_works_count": 42,
+      "referenced_works_count": 39,
       "referenced_works": [
         "https://openalex.org/W62814192",
         "https://openalex.org/W159079554",
@@ -27981,11 +27980,8 @@
         "https://openalex.org/W3157716230",
         "https://openalex.org/W4211100411",
         "https://openalex.org/W4233471792",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W4300450990",
-        "https://openalex.org/W6602627032",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6691761363",
         "https://openalex.org/W6930888263",
         "https://openalex.org/W6986330232",
         "https://openalex.org/W7045941398",
@@ -28331,7 +28327,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-08-22T00:00:00"
     },
     {
@@ -28459,12 +28455,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3976,
+      "fwci": 0.3932,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 10,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50395183,
+        "value": 0.50056455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29408,12 +29405,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7953,
+      "fwci": 0.7864,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 17,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65863756,
+        "value": 0.65637938,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29714,7 +29712,7 @@
         "pdf": "https://content.openalex.org/works/W2972134149.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2972134149.grobid-xml"
       },
-      "referenced_works_count": 23,
+      "referenced_works_count": 21,
       "referenced_works": [
         "https://openalex.org/W62814192",
         "https://openalex.org/W195523536",
@@ -29734,8 +29732,6 @@
         "https://openalex.org/W2473132188",
         "https://openalex.org/W2954113145",
         "https://openalex.org/W3127056474",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6602627032",
         "https://openalex.org/W6678618728",
         "https://openalex.org/W6745066065",
         "https://openalex.org/W6991328826"
@@ -30196,7 +30192,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -30232,7 +30228,8 @@
         {
           "id": "https://openalex.org/W3122357362",
           "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -30355,12 +30352,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3164,
+      "fwci": 1.2773,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73713235,
+        "value": 0.72794118,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31588,6 +31586,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.54401914,
         "is_in_top_1_percent": false,
@@ -32782,479 +32781,6 @@
       "created_date": "2023-07-29T00:00:00"
     },
     {
-      "id": "https://openalex.org/W50354605",
-      "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
-      "title": "Characterisation of the lower watrous aquitard as a major seal for CO2 geological sequestration, (Weyburn Unit, Canada)",
-      "display_name": "Characterisation of the lower watrous aquitard as a major seal for CO2 geological sequestration, (Weyburn Unit, Canada)",
-      "alternate_titles": [],
-      "publication_year": 2005,
-      "publication_date": "2005-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W50354605",
-        "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
-        "mag": "50354605"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-008044704-9/50077-x",
-        "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-008044704-9/50077-x",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Greenhouse Gas Control Technologies 7",
-        "raw_type": "book-chapter"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W50354605"
-      ],
-      "child_works_count": 0,
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5054427253",
-            "display_name": "Yves-Michel Le Nindre",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Y NINDRE",
-          "raw_affiliation_strings": [
-            "BRGM, BP6009, 45060 Orléans Cedex 2 France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, BP6009, 45060 Orléans Cedex 2 France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5021700453",
-            "display_name": "Irina Gaus",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "I GAUS",
-          "raw_affiliation_strings": [
-            "BRGM, BP6009, 45060 Orléans Cedex 2 France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, BP6009, 45060 Orléans Cedex 2 France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.7372,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.62614379,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 87,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "761",
-        "last_page": "769"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2103",
-            "display_name": "Fuel Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/aquitard",
-          "display_name": "aquitard",
-          "score": 0.8199999928474426
-        },
-        {
-          "id": "https://openalex.org/keywords/geological-co2-storage",
-          "display_name": "CO2 geological storage",
-          "score": 0.9440000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/caprock",
-          "display_name": "caprock",
-          "score": 0.5690000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-diffusion",
-          "display_name": "CO2 diffusion",
-          "score": 0.6299999952316284
-        },
-        {
-          "id": "https://openalex.org/keywords/enhanced-oil-recovery",
-          "display_name": "enhanced oil recovery",
-          "score": 0.7580000162124634
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "unconformity",
-          "score": 0.8420000076293945
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemical-reactions",
-          "display_name": "geochemical reactions",
-          "score": 0.6539999842643738
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-monitoring",
-          "display_name": "CO2 monitoring",
-          "score": 0.6880000233650208
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777755289",
-          "wikidata": "https://www.wikidata.org/wiki/Q162919",
-          "display_name": "Seal (emblem)",
-          "level": 2,
-          "score": 0.7669917941093445
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5904773473739624
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.5077782273292542
-        },
-        {
-          "id": "https://openalex.org/C22884784",
-          "wikidata": "https://www.wikidata.org/wiki/Q15305550",
-          "display_name": "Carbon sequestration",
-          "level": 3,
-          "score": 0.5045331716537476
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3996574282646179
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.3806008994579315
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.35659259557724
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.21531224250793457
-        },
-        {
-          "id": "https://openalex.org/C530467964",
-          "wikidata": "https://www.wikidata.org/wiki/Q1997",
-          "display_name": "Carbon dioxide",
-          "level": 2,
-          "score": 0.1300525963306427
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.12226492166519165
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.08853429555892944
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.08564925193786621
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.07145851850509644
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-008044704-9/50077-x",
-          "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-008044704-9/50077-x",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Greenhouse Gas Control Technologies 7",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 3,
-      "referenced_works": [
-        "https://openalex.org/W22237605",
-        "https://openalex.org/W1604035276",
-        "https://openalex.org/W2009825402"
-      ],
-      "related_works": [
-        "https://openalex.org/W2158985230",
-        "https://openalex.org/W303336561",
-        "https://openalex.org/W181206328",
-        "https://openalex.org/W2261131373",
-        "https://openalex.org/W4229660497",
-        "https://openalex.org/W1555117137",
-        "https://openalex.org/W138127086",
-        "https://openalex.org/W2150092139",
-        "https://openalex.org/W1982268238",
-        "https://openalex.org/W2102818705"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W50354605",
-      "counts_by_year": [
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2139545889",
       "doi": "https://doi.org/10.1306/0c9b1c05-1710-11d7-8645000102c1865d",
       "title": "Sequential Stratigraphy of Jurassic and Cretaceous in the Central Saudi Arabian Platform",
@@ -33360,6 +32886,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -33952,6 +33479,480 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W50354605",
+      "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
+      "title": "Characterisation of the lower watrous aquitard as a major seal for CO2 geological sequestration, (Weyburn Unit, Canada)",
+      "display_name": "Characterisation of the lower watrous aquitard as a major seal for CO2 geological sequestration, (Weyburn Unit, Canada)",
+      "alternate_titles": [],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W50354605",
+        "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
+        "mag": "50354605"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-008044704-9/50077-x",
+        "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-008044704-9/50077-x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463230",
+          "display_name": "Elsevier eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Greenhouse Gas Control Technologies 7",
+        "raw_type": "book-chapter"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W50354605"
+      ],
+      "child_works_count": 0,
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054427253",
+            "display_name": "Yves-Michel Le Nindre",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Y NINDRE",
+          "raw_affiliation_strings": [
+            "BRGM, BP6009, 45060 Orléans Cedex 2 France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, BP6009, 45060 Orléans Cedex 2 France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5021700453",
+            "display_name": "Irina Gaus",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "I GAUS",
+          "raw_affiliation_strings": [
+            "BRGM, BP6009, 45060 Orléans Cedex 2 France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, BP6009, 45060 Orléans Cedex 2 France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210158893"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.7252,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.62451613,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 92
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "761",
+        "last_page": "769"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aquitard",
+          "display_name": "aquitard",
+          "score": 0.8199999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/geological-co2-storage",
+          "display_name": "CO2 geological storage",
+          "score": 0.9440000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/caprock",
+          "display_name": "caprock",
+          "score": 0.5690000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-diffusion",
+          "display_name": "CO2 diffusion",
+          "score": 0.6299999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/enhanced-oil-recovery",
+          "display_name": "enhanced oil recovery",
+          "score": 0.7580000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.8420000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemical-reactions",
+          "display_name": "geochemical reactions",
+          "score": 0.6539999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-monitoring",
+          "display_name": "CO2 monitoring",
+          "score": 0.6880000233650208
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777755289",
+          "wikidata": "https://www.wikidata.org/wiki/Q162919",
+          "display_name": "Seal (emblem)",
+          "level": 2,
+          "score": 0.7669917941093445
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5904773473739624
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.5077782273292542
+        },
+        {
+          "id": "https://openalex.org/C22884784",
+          "wikidata": "https://www.wikidata.org/wiki/Q15305550",
+          "display_name": "Carbon sequestration",
+          "level": 3,
+          "score": 0.5045331716537476
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3996574282646179
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.3806008994579315
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.35659259557724
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.21531224250793457
+        },
+        {
+          "id": "https://openalex.org/C530467964",
+          "wikidata": "https://www.wikidata.org/wiki/Q1997",
+          "display_name": "Carbon dioxide",
+          "level": 2,
+          "score": 0.1300525963306427
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.12226492166519165
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.08853429555892944
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.08564925193786621
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.07145851850509644
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-008044704-9/50077-x",
+          "doi": "https://doi.org/10.1016/b978-008044704-9/50077-x",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-008044704-9/50077-x",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463230",
+            "display_name": "Elsevier eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Greenhouse Gas Control Technologies 7",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 3,
+      "referenced_works": [
+        "https://openalex.org/W22237605",
+        "https://openalex.org/W1604035276",
+        "https://openalex.org/W2009825402"
+      ],
+      "related_works": [
+        "https://openalex.org/W2158985230",
+        "https://openalex.org/W303336561",
+        "https://openalex.org/W181206328",
+        "https://openalex.org/W2261131373",
+        "https://openalex.org/W4229660497",
+        "https://openalex.org/W1555117137",
+        "https://openalex.org/W138127086",
+        "https://openalex.org/W2150092139",
+        "https://openalex.org/W1982268238",
+        "https://openalex.org/W2102818705"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W50354605",
+      "counts_by_year": [
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3023665096",
       "doi": "https://doi.org/10.3997/2214-4609-pdb.248.089",
       "title": "Minjur Sandstone Revisited: New Advances in Sequence Stratigraphy and Modeling in the Khashm-Al-Khalta Reference Area (Central Saudi Arabia)",
@@ -33988,7 +33989,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -34153,12 +34154,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6737,
+      "fwci": 4.5079,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9120603,
+        "value": 0.90831663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34458,7 +34460,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -34503,8 +34505,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action"
         }
       ],
@@ -34834,7 +34836,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -34943,6 +34945,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -35748,6 +35751,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -36138,7 +36142,7 @@
           "host_organization_lineage_names": [
             "Elsevier BV"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -36490,6 +36494,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -36787,7 +36792,7 @@
             "host_organization_lineage_names": [
               "Elsevier BV"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": "cc-by-nc-nd",
           "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -36858,7 +36863,7 @@
           "host_organization_lineage_names": [
             "Elsevier BV"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
@@ -36870,18 +36875,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy"
         },
         {
-          "score": 0.5378999710083008,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5378999710083008,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -36896,7 +36901,7 @@
         "pdf": "https://content.openalex.org/works/W2037835118.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2037835118.grobid-xml"
       },
-      "referenced_works_count": 14,
+      "referenced_works_count": 13,
       "referenced_works": [
         "https://openalex.org/W1562598360",
         "https://openalex.org/W1979422933",
@@ -36910,8 +36915,7 @@
         "https://openalex.org/W2106802871",
         "https://openalex.org/W2140982950",
         "https://openalex.org/W2185702267",
-        "https://openalex.org/W2553093918",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W2553093918"
       ],
       "related_works": [
         "https://openalex.org/W2101795741",
@@ -37743,7 +37747,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2037835118",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -37775,15 +37779,13 @@
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
+          "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -37841,6 +37843,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -38058,15 +38061,13 @@
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
+            "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -38365,7 +38366,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2039093430",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -38638,6 +38639,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -40047,6 +40049,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -40254,8 +40257,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6618000268936157,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -41260,7 +41263,7 @@
           "contributor_roles": [],
           "raw_author_name": "Lucia Angiolini",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-0778-5771",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41268,10 +41271,8 @@
           "author": {
             "id": null,
             "display_name": "F. A. Darbyshire",
-            "orcid": "https://orcid.org/0000-0003-0967-7248",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0967-7248"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -41279,7 +41280,7 @@
           "contributor_roles": [],
           "raw_author_name": "F. A. Darbyshire",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-0967-7248",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41298,7 +41299,7 @@
           "contributor_roles": [],
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-1115-5166",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41317,7 +41318,7 @@
           "contributor_roles": [],
           "raw_author_name": "Fabrizio Berra",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-4354-1806",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41336,7 +41337,7 @@
           "contributor_roles": [],
           "raw_author_name": "G. Gambacorta",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-6364-7026",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41355,7 +41356,7 @@
           "contributor_roles": [],
           "raw_author_name": "Flavio Jadoul",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5006-5799",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41421,6 +41422,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -41667,7 +41669,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3159567963",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -41729,7 +41731,7 @@
           "contributor_roles": [],
           "raw_author_name": "Christophe Kervévan",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-6703-7102",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41765,7 +41767,7 @@
           "contributor_roles": [],
           "raw_author_name": "N. Jacquemet",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-0145-2469",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41784,7 +41786,7 @@
           "contributor_roles": [],
           "raw_author_name": "Éric Lasseur",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-9857-2052",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41826,10 +41828,8 @@
           "author": {
             "id": null,
             "display_name": "Gilles Hubert",
-            "orcid": "https://orcid.org/0000-0003-3494-7561",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3494-7561"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -41837,7 +41837,7 @@
           "contributor_roles": [],
           "raw_author_name": "Gilles Hubert",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0003-3494-7561",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -41939,6 +41939,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -42139,8 +42140,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927,
           "display_name": "Climate action"
         }
       ],
@@ -42168,7 +42169,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3196741789",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-09-13T00:00:00"
     }
   ]

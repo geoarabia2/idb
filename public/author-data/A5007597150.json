@@ -16,9 +16,9 @@
     ],
     "full_name": "Mohammed H. Al Kindi",
     "works_count": 13,
-    "cited_by_count": 40,
+    "cited_by_count": 41,
     "summary_stats": {
-      "2yr_mean_citedness": 2.8,
+      "2yr_mean_citedness": 3,
       "h_index": 4,
       "i10_index": 1
     },
@@ -272,7 +272,7 @@
         "year": 2025,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 15
+        "cited_by_count": 16
       },
       {
         "year": 2026,
@@ -293,7 +293,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5007597150",
-    "updated_date": "2026-11-20T12:36:48",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2020-03-13T00:00:00"
   },
   "works": [
@@ -409,6 +409,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.71074211,
         "is_in_top_1_percent": false,
@@ -782,13 +783,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -1517,12 +1518,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0062,
+      "fwci": 1.1975,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 5,
+      "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70400071,
+        "value": 0.74338176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1851,8 +1853,9 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 82,
+      "referenced_works_count": 81,
       "referenced_works": [
+        "https://openalex.org/W109596884",
         "https://openalex.org/W129587241",
         "https://openalex.org/W131303653",
         "https://openalex.org/W575412826",
@@ -1926,8 +1929,6 @@
         "https://openalex.org/W4241978057",
         "https://openalex.org/W4248854731",
         "https://openalex.org/W4249009346",
-        "https://openalex.org/W6604406349",
-        "https://openalex.org/W6605333369",
         "https://openalex.org/W6635232110",
         "https://openalex.org/W6643559261",
         "https://openalex.org/W6750538592",
@@ -2420,10 +2421,10 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-05-03T00:00:00"
     },
     {
@@ -2813,12 +2814,13 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.3159,
+      "fwci": 1.3043,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71872779,
+        "value": 0.71681023,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2839,7 +2841,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "score": 0.9678000211715698,
+        "score": 0.9463000297546387,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -2857,7 +2859,7 @@
         {
           "id": "https://openalex.org/T12383",
           "display_name": "Aeolian processes and effects",
-          "score": 0.9678000211715698,
+          "score": 0.9463000297546387,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -2874,7 +2876,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.019899999722838402,
+          "score": 0.03460000082850456,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -2891,7 +2893,7 @@
         {
           "id": "https://openalex.org/T10406",
           "display_name": "Planetary Science and Exploration",
-          "score": 0.0017999999690800905,
+          "score": 0.003000000026077032,
           "subfield": {
             "id": "https://openalex.org/subfields/1912",
             "display_name": "Space and Planetary Science"
@@ -3972,7 +3974,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2025-05-28T00:00:00"
     },
     {
@@ -4098,6 +4100,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.70396626,
         "is_in_top_1_percent": false,
@@ -5479,12 +5482,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8588,
+      "fwci": 0.8501,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73274535,
+        "value": 0.73110302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5992,6 +5996,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.40515075,
         "is_in_top_1_percent": false,
@@ -7505,12 +7510,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4659,
+      "fwci": 0.4587,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44548086,
+        "value": 0.44109149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8183,12 +8189,13 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.4294,
+      "fwci": 0.4251,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66722666,
+        "value": 0.66559351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8429,8 +8436,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -8798,6 +8805,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -9146,8 +9154,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.53329998254776,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -9674,6 +9682,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -10237,6 +10246,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -11542,6 +11552,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -12611,6 +12622,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -12701,27 +12713,37 @@
         {
           "id": "https://openalex.org/keywords/palynology",
           "display_name": "palynology",
-          "score": 0.7110000252723694
+          "score": 0.6880000233650208
         },
         {
           "id": "https://openalex.org/keywords/vitrinite-reflectance",
           "display_name": "vitrinite reflectance",
-          "score": 0.8700000047683716
+          "score": 0.878000020980835
         },
         {
           "id": "https://openalex.org/keywords/thermal-maturity",
           "display_name": "thermal maturity",
-          "score": 0.8809999823570251
+          "score": 0.8899999856948853
         },
         {
-          "id": "https://openalex.org/keywords/paleoclimate",
-          "display_name": "paleoclimate",
-          "score": 0.42500001192092896
+          "id": "https://openalex.org/keywords/oil-window",
+          "display_name": "oil window",
+          "score": 0.6330000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-matter-preservation",
+          "display_name": "organic matter preservation",
+          "score": 0.6230000257492065
         },
         {
           "id": "https://openalex.org/keywords/masirah-island",
           "display_name": "Masirah Island",
-          "score": 0.949999988079071
+          "score": 0.8050000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoenvironmental-reconstruction",
+          "display_name": "paleoenvironmental reconstruction",
+          "score": 0.4129999876022339
         }
       ],
       "concepts": [
@@ -13456,7 +13478,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162646169",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2026-05-29T00:00:00"
     }
   ]

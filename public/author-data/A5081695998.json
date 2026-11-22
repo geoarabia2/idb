@@ -22,7 +22,7 @@
     ],
     "full_name": "Salah A. Al‐Khirbash",
     "works_count": 63,
-    "cited_by_count": 1130,
+    "cited_by_count": 1136,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 18,
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000519,
+        "value": 0.0000518,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000311,
+        "value": 0.000031,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -386,13 +386,13 @@
         "year": 2013,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 43
+        "cited_by_count": 45
       },
       {
         "year": 2014,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 44
+        "cited_by_count": 45
       },
       {
         "year": 2015,
@@ -410,7 +410,7 @@
         "year": 2017,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 49
+        "cited_by_count": 50
       },
       {
         "year": 2018,
@@ -428,43 +428,43 @@
         "year": 2020,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 83
+        "cited_by_count": 78
       },
       {
         "year": 2021,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 120
+        "cited_by_count": 124
       },
       {
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 67
+        "cited_by_count": 66
       },
       {
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 70
+        "cited_by_count": 72
       },
       {
         "year": 2024,
         "works_count": 8,
         "oa_works_count": 5,
-        "cited_by_count": 93
+        "cited_by_count": 89
       },
       {
         "year": 2025,
         "works_count": 8,
         "oa_works_count": 8,
-        "cited_by_count": 80
+        "cited_by_count": 85
       },
       {
         "year": 2026,
         "works_count": 3,
         "oa_works_count": 3,
-        "cited_by_count": 71
+        "cited_by_count": 72
       }
     ],
     "display_name_alternatives": [
@@ -485,7 +485,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081695998",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5081695998",
-    "updated_date": "2026-11-20T12:36:48",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1183,17 +1183,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.293,
+      "fwci": 7.2448,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 164,
+      "cited_by_count": 166,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96643656,
+        "value": 0.96619852,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -3139,7 +3140,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2013,
@@ -3150,7 +3151,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3542,17 +3543,18 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 4.1653,
+      "fwci": 4.1477,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 125,
+      "cited_by_count": 126,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93396082,
+        "value": 0.93357849,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -3887,7 +3889,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 79,
+      "referenced_works_count": 78,
       "referenced_works": [
         "https://openalex.org/W230004097",
         "https://openalex.org/W560472657",
@@ -3965,7 +3967,6 @@
         "https://openalex.org/W3174487190",
         "https://openalex.org/W4214564766",
         "https://openalex.org/W4242651478",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6635232110",
         "https://openalex.org/W6683432648"
       ],
@@ -4006,7 +4007,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2020,
@@ -4045,7 +4046,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4375,12 +4376,13 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.4167,
+      "fwci": 2.3973,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 121,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85598876,
+        "value": 0.85516918,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4695,7 +4697,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 26,
+      "referenced_works_count": 24,
       "referenced_works": [
         "https://openalex.org/W101348917",
         "https://openalex.org/W166150482",
@@ -4720,9 +4722,7 @@
         "https://openalex.org/W2295773194",
         "https://openalex.org/W2994153442",
         "https://openalex.org/W3162981350",
-        "https://openalex.org/W4250688638",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6633626605"
+        "https://openalex.org/W4250688638"
       ],
       "related_works": [
         "https://openalex.org/W3188862868",
@@ -4800,7 +4800,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5194,17 +5194,18 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.8477,
+      "fwci": 0.8364,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 99,
+      "cited_by_count": 100,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69433337,
+        "value": 0.69238272,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -5702,14 +5703,14 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2012,
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6222,6 +6223,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 63,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.93777261,
         "is_in_top_1_percent": false,
@@ -7474,12 +7476,13 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 1.627,
+      "fwci": 1.6147,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 51,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78995464,
+        "value": 0.78798238,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7805,7 +7808,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 77,
+      "referenced_works_count": 76,
       "referenced_works": [
         "https://openalex.org/W195544255",
         "https://openalex.org/W608765505",
@@ -7880,7 +7883,6 @@
         "https://openalex.org/W3138234010",
         "https://openalex.org/W3146943782",
         "https://openalex.org/W3201640375",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6635232110",
         "https://openalex.org/W6718468226",
         "https://openalex.org/W6726280601"
@@ -7949,7 +7951,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8164,12 +8166,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9512,
+      "fwci": 1.9388,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81882353,
+        "value": 0.81810458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8579,7 +8582,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 37,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W18459997",
         "https://openalex.org/W76481000",
@@ -8616,8 +8619,7 @@
         "https://openalex.org/W2312478095",
         "https://openalex.org/W2797914455",
         "https://openalex.org/W2935894711",
-        "https://openalex.org/W4244717332",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W4244717332"
       ],
       "related_works": [
         "https://openalex.org/W2594487706",
@@ -9157,7 +9159,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-07-22T00:00:00"
     },
     {
@@ -9618,6 +9620,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.80221066,
         "is_in_top_1_percent": false,
@@ -10759,12 +10762,13 @@
         "value_usd": 2600
       },
       "apc_paid": null,
-      "fwci": 2.1029,
+      "fwci": 2.0933,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85400622,
+        "value": 0.85337282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11114,7 +11118,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 85,
+      "referenced_works_count": 84,
       "referenced_works": [
         "https://openalex.org/W1479963809",
         "https://openalex.org/W1635748889",
@@ -11199,7 +11203,6 @@
         "https://openalex.org/W3144736467",
         "https://openalex.org/W3201640375",
         "https://openalex.org/W4254632217",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6718468226"
       ],
       "related_works": [
@@ -11246,7 +11249,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-03-06T00:00:00"
     },
     {
@@ -11324,7 +11327,7 @@
           "raw_affiliation_strings": [
             "École Normale Superieure"
           ],
-          "raw_orcid": "https://orcid.org/0000-0002-8463-7054",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "École Normale Superieure",
@@ -11419,10 +11422,8 @@
           "author": {
             "id": null,
             "display_name": "Jean‐Michel Gaulier",
-            "orcid": "https://orcid.org/0000-0003-1111-4671",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1111-4671"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11446,7 +11447,7 @@
           "raw_affiliation_strings": [
             "École Normale Superieure"
           ],
-          "raw_orcid": "https://orcid.org/0000-0003-1111-4671",
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "École Normale Superieure",
@@ -11530,17 +11531,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6361,
+      "fwci": 1.6091,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 69,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81378299,
+        "value": 0.81063777,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 98
       },
       "biblio": {
@@ -11810,7 +11812,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-07-14T00:00:00"
     },
     {
@@ -12286,12 +12288,13 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 1.0964,
+      "fwci": 1.083,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 38,
+      "cited_by_count": 39,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74664628,
+        "value": 0.74567798,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12638,14 +12641,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.7811999917030334,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -12656,7 +12659,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 53,
+      "referenced_works_count": 52,
       "referenced_works": [
         "https://openalex.org/W12646806",
         "https://openalex.org/W101563426",
@@ -12709,8 +12712,7 @@
         "https://openalex.org/W2489506844",
         "https://openalex.org/W2507005435",
         "https://openalex.org/W2610650944",
-        "https://openalex.org/W4252021292",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W4252021292"
       ],
       "related_works": [
         "https://openalex.org/W2075974225",
@@ -12756,7 +12758,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2016,
@@ -12779,7 +12781,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13267,6 +13269,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.8046469,
         "is_in_top_1_percent": false,
@@ -14132,6 +14135,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.6583767,
         "is_in_top_1_percent": false,
@@ -14846,17 +14850,18 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 1.6369,
+      "fwci": 1.6147,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.790579,
+        "value": 0.78798238,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 98
       },
       "biblio": {
@@ -15113,9 +15118,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -15588,6 +15593,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.74880904,
         "is_in_top_1_percent": false,
@@ -16150,12 +16156,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.7095,
+      "fwci": 0.705,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 23,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64078431,
+        "value": 0.64026144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16470,7 +16477,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 90,
+      "referenced_works_count": 89,
       "referenced_works": [
         "https://openalex.org/W224714343",
         "https://openalex.org/W642264229",
@@ -16557,7 +16564,6 @@
         "https://openalex.org/W3111005246",
         "https://openalex.org/W3138234010",
         "https://openalex.org/W3201640375",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6718468226",
         "https://openalex.org/W6726280601",
         "https://openalex.org/W6991958730",
@@ -16619,7 +16625,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-09-30T00:00:00"
     },
     {
@@ -16928,12 +16934,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.406,
+      "fwci": 0.4029,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.5893562,
+        "value": 0.58819927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17244,7 +17251,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 26,
+      "referenced_works_count": 25,
       "referenced_works": [
         "https://openalex.org/W101348917",
         "https://openalex.org/W1601779419",
@@ -17269,7 +17276,6 @@
         "https://openalex.org/W3136547615",
         "https://openalex.org/W4231820044",
         "https://openalex.org/W4250688638",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6816030541",
         "https://openalex.org/W7046409852"
       ],
@@ -17325,7 +17331,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17387,7 +17393,8 @@
         {
           "id": "https://openalex.org/W4233909369",
           "display_name": "The Geology of the Arabian-Nubian Shield",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -17622,6 +17629,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.91856287,
         "is_in_top_1_percent": false,
@@ -18257,6 +18265,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.63240223,
         "is_in_top_1_percent": false,
@@ -19492,6 +19501,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.85671763,
         "is_in_top_1_percent": false,
@@ -20689,12 +20699,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.2604,
+      "fwci": 0.2586,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 21,
+      "cited_by_count": 22,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54044201,
+        "value": 0.53933779,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21035,6 +21046,10 @@
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1559635086",
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 3
         },
@@ -21075,7 +21090,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21322,6 +21337,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.35446351,
         "is_in_top_1_percent": false,
@@ -22633,12 +22649,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3619,
+      "fwci": 0.3602,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4236609,
+        "value": 0.42247681,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22908,6 +22925,7 @@
         "https://openalex.org/W168202908",
         "https://openalex.org/W346356495",
         "https://openalex.org/W406569343",
+        "https://openalex.org/W1500273871",
         "https://openalex.org/W1776911905",
         "https://openalex.org/W1864897624",
         "https://openalex.org/W1965701586",
@@ -23030,7 +23048,6 @@
         "https://openalex.org/W4320036722",
         "https://openalex.org/W4323041646",
         "https://openalex.org/W4388601075",
-        "https://openalex.org/W6629795392",
         "https://openalex.org/W7024133469"
       ],
       "related_works": [
@@ -23778,7 +23795,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2024-10-19T00:00:00"
     },
     {
@@ -24130,6 +24147,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.84400202,
         "is_in_top_1_percent": false,
@@ -25125,6 +25143,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -26593,12 +26612,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6995,
+      "fwci": 0.6917,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59979751,
+        "value": 0.59760087,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27906,12 +27926,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3054,
+      "fwci": 0.2996,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6207256,
+        "value": 0.61855527,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29107,6 +29128,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.37733921,
         "is_in_top_1_percent": false,
@@ -29535,7 +29557,7 @@
           "contributor_roles": [],
           "raw_author_name": "Salah Al‐Khirbash",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -29563,12 +29585,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2839,
+      "fwci": 2.2441,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81676846,
+        "value": 0.81232649,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29785,7 +29808,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2021-01-05T00:00:00"
     },
     {
@@ -30101,12 +30124,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0521,
+      "fwci": 2.0219,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74313666,
+        "value": 0.74035698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30397,9 +30421,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.7811999917030334,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -30851,6 +30875,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.34397163,
         "is_in_top_1_percent": false,
@@ -31662,6 +31687,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.33621586,
         "is_in_top_1_percent": false,
@@ -32885,6 +32911,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -34019,6 +34046,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -34880,7 +34908,7 @@
           "contributor_roles": [],
           "raw_author_name": "Salah Al‐Khirbash",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -34897,6 +34925,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -35981,7 +36010,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2278301637",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -36702,6 +36731,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -37592,7 +37622,7 @@
           "contributor_roles": [],
           "raw_author_name": "Salah Al‐Khirbash",
           "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -37609,6 +37639,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -37848,7 +37879,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2463796432",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-07-22T00:00:00"
     },
     {
@@ -38336,6 +38367,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -39114,6 +39146,7 @@
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -39644,6 +39677,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -40204,6 +40238,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -40659,6 +40694,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -41737,6 +41773,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -42323,6 +42360,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -42876,6 +42914,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -43451,6 +43490,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -44019,6 +44059,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -44584,6 +44625,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -45126,6 +45168,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -46303,6 +46346,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -46818,6 +46862,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -47465,6 +47510,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -48170,6 +48216,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -49242,6 +49289,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {

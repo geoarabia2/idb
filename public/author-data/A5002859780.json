@@ -11,7 +11,7 @@
     ],
     "full_name": "Abdulaziz A. Al-Duaiji",
     "works_count": 9,
-    "cited_by_count": 81,
+    "cited_by_count": 82,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -144,7 +144,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000167,
+        "value": 0.0000166,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -390,7 +390,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5002859780",
-    "updated_date": "2026-11-17T13:41:00",
+    "updated_date": "2026-11-21T13:19:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -550,12 +550,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5438,
+      "fwci": 0.5309,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 68,
+      "cited_by_count": 69,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65964643,
+        "value": 0.65616838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1719,7 +1720,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -1773,7 +1774,8 @@
         {
           "id": "https://openalex.org/W3003836963",
           "display_name": "Siliciclastic Reservoirs of the Arabian Plate",
-          "relationship": "volume"
+          "relationship": "volume",
+          "link_type": "volume"
         }
       ],
       "lineage": [
@@ -1905,12 +1907,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6658,
+      "fwci": 0.6567,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63412322,
+        "value": 0.63127962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3755,6 +3758,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -4002,18 +4006,18 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 1
+          "score": 1,
+          "display_name": "Responsible consumption and production"
         },
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
         },
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -4739,18 +4743,19 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 0.3241,
+      "fwci": 0.3203,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62260006,
+        "value": 0.62015282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 86,
-        "max": 93
+        "max": 92
       },
       "biblio": {
         "volume": "124",
@@ -5012,8 +5017,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.875
+          "score": 0.878000020980835,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -5030,7 +5035,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 25,
+      "referenced_works_count": 24,
       "referenced_works": [
         "https://openalex.org/W1160582",
         "https://openalex.org/W57810535",
@@ -5055,7 +5060,6 @@
         "https://openalex.org/W4205550164",
         "https://openalex.org/W4240862957",
         "https://openalex.org/W4250537886",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W6678618728"
       ],
       "related_works": [
@@ -5097,7 +5101,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5137,7 +5141,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -5210,6 +5214,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -5217,7 +5222,7 @@
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 93
+        "max": 92
       },
       "biblio": {
         "volume": null,
@@ -5589,7 +5594,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -6202,7 +6207,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -6347,6 +6352,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -7112,6 +7118,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
@@ -7368,7 +7375,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -7477,6 +7484,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -7744,7 +7752,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -8358,7 +8366,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2587344789",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2017-02-17T00:00:00"
     },
     {
@@ -8397,7 +8405,7 @@
           "host_organization_lineage_names": [
             "EAGE Publications bv"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -8470,6 +8478,7 @@
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 0,
+      "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
         "is_in_top_1_percent": false,
@@ -8750,7 +8759,7 @@
             "host_organization_lineage_names": [
               "EAGE Publications bv"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -9330,7 +9339,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4246415414",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-21T10:27:49.728292",
       "created_date": "2022-05-12T00:00:00"
     }
   ]
