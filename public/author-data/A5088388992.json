@@ -335,6 +335,783 @@
   },
   "works": [
     {
+      "id": "https://openalex.org/W2997880404",
+      "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
+      "title": "Experimental investigation and development of correlation for static and dynamic polymer adsorption in porous media",
+      "display_name": "Experimental investigation and development of correlation for static and dynamic polymer adsorption in porous media",
+      "alternate_titles": [],
+      "publication_year": 2019,
+      "publication_date": "2019-12-27",
+      "ids": {
+        "openalex": "https://openalex.org/W2997880404",
+        "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
+        "mag": "2997880404"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.petrol.2019.106864",
+        "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.petrol.2019.106864",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S19016632",
+          "display_name": "Journal of Petroleum Science and Engineering",
+          "issn_l": "0920-4105",
+          "issn": [
+            "0920-4105",
+            "1873-4715"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "poland-20"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2997880404"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5059457709",
+            "display_name": "Sameer Al‐Hajri",
+            "orcid": "https://orcid.org/0000-0002-4441-397X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4441-397X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Sameer Al-Hajri",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+            "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010375854",
+            "display_name": "Syed Mohammad Mahmood",
+            "orcid": "https://orcid.org/0000-0001-7343-9581",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7343-9581"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Syed M. Mahmood",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101461139",
+            "display_name": "Saeed Akbari",
+            "orcid": "https://orcid.org/0000-0003-1713-6409",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1713-6409"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Saeed Akbari",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038141698",
+            "display_name": "Hesham Abdulelah",
+            "orcid": "https://orcid.org/0000-0002-0035-0612",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0035-0612"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Hesham Abdulelah",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+            "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086234953",
+            "display_name": "Nurudeen Peter Yekeen",
+            "orcid": "https://orcid.org/0000-0001-6738-7893",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6738-7893"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Nurudeen Yekeen",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+            "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5088388992",
+            "display_name": "Nabil Ali Saraih",
+            "orcid": "https://orcid.org/0009-0006-8245-3792",
+            "observed_orcids": [
+              "https://orcid.org/0009-0006-8245-3792"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Nabil Saraih",
+          "raw_affiliation_strings": [
+            "College of Petroleum and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, 34463, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, 34463, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5010375854",
+        "https://openalex.org/A5059457709"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I203899302"
+      ],
+      "apc_list": {
+        "value": 3300,
+        "currency": "USD",
+        "value_usd": 3300
+      },
+      "apc_paid": null,
+      "fwci": 1.88,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 39,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.82642459,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 92,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "189",
+        "issue": null,
+        "first_page": "106864",
+        "last_page": "106864"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10491",
+        "display_name": "Enhanced Oil Recovery Techniques",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2103",
+          "display_name": "Fuel Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10894",
+          "display_name": "Groundwater flow and contamination studies",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/polymer-adsorption",
+          "display_name": "polymer adsorption",
+          "score": 0.9729999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/polymer-flooding",
+          "display_name": "polymer flooding",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/porous-media",
+          "display_name": "porous media",
+          "score": 0.699999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/langmuir-isotherm",
+          "display_name": "Langmuir isotherm",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/bet-surface-area",
+          "display_name": "BET surface area",
+          "score": 0.8209999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/polymer-molecular-weight",
+          "display_name": "polymer molecular weight",
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/nacl-salinity",
+          "display_name": "NaCl salinity",
+          "score": 0.8600000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/polymer-retention",
+          "display_name": "polymer retention",
+          "score": 0.43299999833106995
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C150394285",
+          "wikidata": "https://www.wikidata.org/wiki/Q180254",
+          "display_name": "Adsorption",
+          "level": 2,
+          "score": 0.8140142560005188
+        },
+        {
+          "id": "https://openalex.org/C521977710",
+          "wikidata": "https://www.wikidata.org/wiki/Q81163",
+          "display_name": "Polymer",
+          "level": 2,
+          "score": 0.7081323266029358
+        },
+        {
+          "id": "https://openalex.org/C105569014",
+          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
+          "display_name": "Porous medium",
+          "level": 3,
+          "score": 0.5764243602752686
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.5689494013786316
+        },
+        {
+          "id": "https://openalex.org/C17104167",
+          "wikidata": "https://www.wikidata.org/wiki/Q7226544",
+          "display_name": "Polymer adsorption",
+          "level": 3,
+          "score": 0.5276321768760681
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.4505206346511841
+        },
+        {
+          "id": "https://openalex.org/C12143843",
+          "wikidata": "https://www.wikidata.org/wiki/Q6486358",
+          "display_name": "Langmuir adsorption model",
+          "level": 3,
+          "score": 0.449554979801178
+        },
+        {
+          "id": "https://openalex.org/C120882062",
+          "wikidata": "https://www.wikidata.org/wiki/Q28352",
+          "display_name": "Permeability (electromagnetism)",
+          "level": 3,
+          "score": 0.4162519872188568
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.39867711067199707
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.3649236559867859
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.35215848684310913
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.23375043272972107
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.14627113938331604
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.10066109895706177
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.0973747968673706
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.petrol.2019.106864",
+          "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.petrol.2019.106864",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S19016632",
+            "display_name": "Journal of Petroleum Science and Engineering",
+            "issn_l": "0920-4105",
+            "issn": [
+              "0920-4105",
+              "1873-4715"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "poland-20"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Science and Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323380",
+          "display_name": "Universiti Teknologi Petronas",
+          "ror": "https://ror.org/048g2sh07"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 57,
+      "referenced_works": [
+        "https://openalex.org/W615914851",
+        "https://openalex.org/W627215250",
+        "https://openalex.org/W1840048959",
+        "https://openalex.org/W1964167166",
+        "https://openalex.org/W1964540821",
+        "https://openalex.org/W1965432344",
+        "https://openalex.org/W1966612917",
+        "https://openalex.org/W1967791181",
+        "https://openalex.org/W1972256819",
+        "https://openalex.org/W1973774856",
+        "https://openalex.org/W1980434848",
+        "https://openalex.org/W1989774853",
+        "https://openalex.org/W1991929676",
+        "https://openalex.org/W1993720660",
+        "https://openalex.org/W1998097168",
+        "https://openalex.org/W1998353091",
+        "https://openalex.org/W2023915111",
+        "https://openalex.org/W2026565108",
+        "https://openalex.org/W2029177347",
+        "https://openalex.org/W2038375479",
+        "https://openalex.org/W2043853435",
+        "https://openalex.org/W2045965256",
+        "https://openalex.org/W2049169556",
+        "https://openalex.org/W2061511921",
+        "https://openalex.org/W2063403475",
+        "https://openalex.org/W2066213148",
+        "https://openalex.org/W2077007432",
+        "https://openalex.org/W2079957107",
+        "https://openalex.org/W2081042095",
+        "https://openalex.org/W2087165129",
+        "https://openalex.org/W2132514334",
+        "https://openalex.org/W2167860989",
+        "https://openalex.org/W2180963020",
+        "https://openalex.org/W2432359412",
+        "https://openalex.org/W2476243516",
+        "https://openalex.org/W2478435339",
+        "https://openalex.org/W2489252044",
+        "https://openalex.org/W2523141952",
+        "https://openalex.org/W2527889622",
+        "https://openalex.org/W2552493501",
+        "https://openalex.org/W2570063778",
+        "https://openalex.org/W2611394190",
+        "https://openalex.org/W2621230590",
+        "https://openalex.org/W2739030156",
+        "https://openalex.org/W2755634098",
+        "https://openalex.org/W2769783125",
+        "https://openalex.org/W2772219416",
+        "https://openalex.org/W2895797037",
+        "https://openalex.org/W2896879313",
+        "https://openalex.org/W2937182469",
+        "https://openalex.org/W2944259572",
+        "https://openalex.org/W2952415594",
+        "https://openalex.org/W2960061289",
+        "https://openalex.org/W2971780062",
+        "https://openalex.org/W2973138423",
+        "https://openalex.org/W3044656254",
+        "https://openalex.org/W3196067587"
+      ],
+      "related_works": [
+        "https://openalex.org/W3087899084",
+        "https://openalex.org/W3029014611",
+        "https://openalex.org/W2793442251",
+        "https://openalex.org/W7133379758",
+        "https://openalex.org/W7221037657",
+        "https://openalex.org/W2023242103",
+        "https://openalex.org/W2368869548",
+        "https://openalex.org/W2993802331",
+        "https://openalex.org/W2026091778",
+        "https://openalex.org/W2772180999"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2997880404",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-11-22T12:46:00.618207",
+      "created_date": "2020-01-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4417279471",
       "doi": "https://doi.org/10.1016/j.geoen.2025.214342",
       "title": "Pix2Geomodel: A next-generation reservoir geomodeling with property-to-property translation",
@@ -797,13 +1574,13 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 4.8754,
+      "fwci": 5.1783,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95515733,
+        "value": 0.95915956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1395,16 +2172,12 @@
         "https://openalex.org/W4285093386"
       ],
       "abstract_inverted_index": {
-        "90": [
-          313
-        ],
         "Accurate": [
           0
         ],
         "geological": [
           1,
-          178,
-          299
+          178
         ],
         "modeling": [
           2
@@ -1422,16 +2195,13 @@
           150,
           191,
           196,
-          250,
-          277
+          250
         ],
         "reservoir": [
           6,
           45,
           56,
-          265,
-          278,
-          295
+          265
         ],
         "characterization,": [
           7
@@ -1481,11 +2251,7 @@
           207,
           210,
           233,
-          267,
-          286,
-          306,
-          323,
-          327
+          267
         ],
         "the": [
           17,
@@ -1499,8 +2265,7 @@
           215,
           239,
           242,
-          256,
-          273
+          256
         ],
         "conditioning": [
           18
@@ -1579,8 +2344,7 @@
           37
         ],
         "Pix2Pix": [
-          39,
-          275
+          39
         ],
         "architecture,": [
           40
@@ -1729,8 +2493,7 @@
         ],
         "accuracy": [
           103,
-          133,
-          292
+          133
         ],
         "(PA),": [
           104
@@ -1783,8 +2546,7 @@
         ],
         "property": [
           124,
-          212,
-          279
+          212
         ],
         "prediction": [
           125
@@ -1796,8 +2558,7 @@
           128
         ],
         "translation.": [
-          129,
-          280
+          129
         ],
         "Results": [
           130
@@ -1806,8 +2567,7 @@
           131
         ],
         "high": [
-          132,
-          291
+          132
         ],
         "facies": [
           135
@@ -1901,19 +2661,16 @@
           176
         ],
         "realism,": [
-          179,
-          300
+          179
         ],
         "as": [
           180
         ],
         "validated": [
-          181,
-          301
+          181
         ],
         "by": [
-          182,
-          302
+          182
         ],
         "variogram": [
           183
@@ -1987,8 +2744,7 @@
           223
         ],
         "future": [
-          224,
-          317
+          224
         ],
         "work": [
           225
@@ -2006,8 +2762,7 @@
           230
         ],
         "3D": [
-          231,
-          318
+          231
         ],
         "geomodeling": [
           232
@@ -2071,898 +2826,17 @@
         ],
         "initiatives.": [
           270
-        ],
-        "•": [
-          271,
-          281,
-          289,
-          297,
-          309,
-          320
-        ],
-        "Pix2Geomodel:": [
-          272
-        ],
-        "first": [
-          274
-        ],
-        "cGAN": [
-          276
-        ],
-        "Handles": [
-          282
-        ],
-        "both": [
-          283
-        ],
-        "missing-data": [
-          284
-        ],
-        "reconstruction": [
-          285
-        ],
-        "cross-property": [
-          287
-        ],
-        "prediction.": [
-          288
-        ],
-        "Achieves": [
-          290
-        ],
-        "across": [
-          293
-        ],
-        "multiple": [
-          294
-        ],
-        "properties.": [
-          296
-        ],
-        "Preserves": [
-          298
-        ],
-        "variograms,": [
-          303
-        ],
-        "error": [
-          304
-        ],
-        "metrics,": [
-          305
-        ],
-        "expert": [
-          307
-        ],
-        "reviews.": [
-          308
-        ],
-        "Scalable": [
-          310
-        ],
-        "workflow:": [
-          311
-        ],
-        "∼": [
-          312
-        ],
-        "%": [
-          314
-        ],
-        "faster,": [
-          315
-        ],
-        "enabling": [
-          316
-        ],
-        "applications.": [
-          319
-        ],
-        "Open-source": [
-          321
-        ],
-        "datasets": [
-          322
-        ],
-        "code": [
-          324
-        ],
-        "ensure": [
-          325
-        ],
-        "reproducibility": [
-          326
-        ],
-        "reuse.": [
-          328
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4417279471",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-12-12T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2997880404",
-      "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
-      "title": "Experimental investigation and development of correlation for static and dynamic polymer adsorption in porous media",
-      "display_name": "Experimental investigation and development of correlation for static and dynamic polymer adsorption in porous media",
-      "alternate_titles": [],
-      "publication_year": 2019,
-      "publication_date": "2019-12-27",
-      "ids": {
-        "openalex": "https://openalex.org/W2997880404",
-        "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
-        "mag": "2997880404"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.petrol.2019.106864",
-        "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.petrol.2019.106864",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S19016632",
-          "display_name": "Journal of Petroleum Science and Engineering",
-          "issn_l": "0920-4105",
-          "issn": [
-            "0920-4105",
-            "1873-4715"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "poland-20"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Petroleum Science and Engineering",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2997880404"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5059457709",
-            "display_name": "Sameer Al‐Hajri",
-            "orcid": "https://orcid.org/0000-0002-4441-397X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4441-397X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Sameer Al-Hajri",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-            "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5010375854",
-            "display_name": "Syed Mohammad Mahmood",
-            "orcid": "https://orcid.org/0000-0001-7343-9581",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7343-9581"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Syed M. Mahmood",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5101461139",
-            "display_name": "Saeed Akbari",
-            "orcid": "https://orcid.org/0000-0003-1713-6409",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1713-6409"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Saeed Akbari",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038141698",
-            "display_name": "Hesham Abdulelah",
-            "orcid": "https://orcid.org/0000-0002-0035-0612",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0035-0612"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Hesham Abdulelah",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-            "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086234953",
-            "display_name": "Nurudeen Peter Yekeen",
-            "orcid": "https://orcid.org/0000-0001-6738-7893",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6738-7893"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Nurudeen Yekeen",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-            "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Shale Gas Research Group (SGRG), Institute of Hydrocarbon Recovery, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5088388992",
-            "display_name": "Nabil Ali Saraih",
-            "orcid": "https://orcid.org/0009-0006-8245-3792",
-            "observed_orcids": [
-              "https://orcid.org/0009-0006-8245-3792"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Nabil Saraih",
-          "raw_affiliation_strings": [
-            "College of Petroleum and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, 34463, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, 34463, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5010375854",
-        "https://openalex.org/A5059457709"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I203899302"
-      ],
-      "apc_list": {
-        "value": 3300,
-        "currency": "USD",
-        "value_usd": 3300
-      },
-      "apc_paid": null,
-      "fwci": 1.7925,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 38,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.81688632,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 92,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "189",
-        "issue": null,
-        "first_page": "106864",
-        "last_page": "106864"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10491",
-        "display_name": "Enhanced Oil Recovery Techniques",
-        "score": 0.9990000128746033,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2103",
-          "display_name": "Fuel Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2103",
-            "display_name": "Fuel Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.00019999999494757503,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2103",
-            "display_name": "Fuel Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10894",
-          "display_name": "Groundwater flow and contamination studies",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/polymer-adsorption",
-          "display_name": "polymer adsorption",
-          "score": 0.9729999899864197
-        },
-        {
-          "id": "https://openalex.org/keywords/polymer-flooding",
-          "display_name": "polymer flooding",
-          "score": 0.9929999709129333
-        },
-        {
-          "id": "https://openalex.org/keywords/porous-media",
-          "display_name": "porous media",
-          "score": 0.699999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/langmuir-isotherm",
-          "display_name": "Langmuir isotherm",
-          "score": 0.8690000176429749
-        },
-        {
-          "id": "https://openalex.org/keywords/bet-surface-area",
-          "display_name": "BET surface area",
-          "score": 0.8209999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/polymer-molecular-weight",
-          "display_name": "polymer molecular weight",
-          "score": 0.5920000076293945
-        },
-        {
-          "id": "https://openalex.org/keywords/nacl-salinity",
-          "display_name": "NaCl salinity",
-          "score": 0.8600000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/polymer-retention",
-          "display_name": "polymer retention",
-          "score": 0.43299999833106995
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C150394285",
-          "wikidata": "https://www.wikidata.org/wiki/Q180254",
-          "display_name": "Adsorption",
-          "level": 2,
-          "score": 0.8140142560005188
-        },
-        {
-          "id": "https://openalex.org/C521977710",
-          "wikidata": "https://www.wikidata.org/wiki/Q81163",
-          "display_name": "Polymer",
-          "level": 2,
-          "score": 0.7081323266029358
-        },
-        {
-          "id": "https://openalex.org/C105569014",
-          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
-          "display_name": "Porous medium",
-          "level": 3,
-          "score": 0.5764243602752686
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.5689494013786316
-        },
-        {
-          "id": "https://openalex.org/C17104167",
-          "wikidata": "https://www.wikidata.org/wiki/Q7226544",
-          "display_name": "Polymer adsorption",
-          "level": 3,
-          "score": 0.5276321768760681
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.4505206346511841
-        },
-        {
-          "id": "https://openalex.org/C12143843",
-          "wikidata": "https://www.wikidata.org/wiki/Q6486358",
-          "display_name": "Langmuir adsorption model",
-          "level": 3,
-          "score": 0.449554979801178
-        },
-        {
-          "id": "https://openalex.org/C120882062",
-          "wikidata": "https://www.wikidata.org/wiki/Q28352",
-          "display_name": "Permeability (electromagnetism)",
-          "level": 3,
-          "score": 0.4162519872188568
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.39867711067199707
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.3649236559867859
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0.35215848684310913
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.23375043272972107
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.14627113938331604
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.10066109895706177
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.0973747968673706
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.petrol.2019.106864",
-          "doi": "https://doi.org/10.1016/j.petrol.2019.106864",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.petrol.2019.106864",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S19016632",
-            "display_name": "Journal of Petroleum Science and Engineering",
-            "issn_l": "0920-4105",
-            "issn": [
-              "0920-4105",
-              "1873-4715"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "poland-20"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Petroleum Science and Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320323380",
-          "display_name": "Universiti Teknologi Petronas",
-          "ror": "https://ror.org/048g2sh07"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 57,
-      "referenced_works": [
-        "https://openalex.org/W615914851",
-        "https://openalex.org/W627215250",
-        "https://openalex.org/W1840048959",
-        "https://openalex.org/W1964167166",
-        "https://openalex.org/W1964540821",
-        "https://openalex.org/W1965432344",
-        "https://openalex.org/W1966612917",
-        "https://openalex.org/W1967791181",
-        "https://openalex.org/W1972256819",
-        "https://openalex.org/W1973774856",
-        "https://openalex.org/W1980434848",
-        "https://openalex.org/W1989774853",
-        "https://openalex.org/W1991929676",
-        "https://openalex.org/W1993720660",
-        "https://openalex.org/W1998097168",
-        "https://openalex.org/W1998353091",
-        "https://openalex.org/W2023915111",
-        "https://openalex.org/W2026565108",
-        "https://openalex.org/W2029177347",
-        "https://openalex.org/W2038375479",
-        "https://openalex.org/W2043853435",
-        "https://openalex.org/W2045965256",
-        "https://openalex.org/W2049169556",
-        "https://openalex.org/W2061511921",
-        "https://openalex.org/W2063403475",
-        "https://openalex.org/W2066213148",
-        "https://openalex.org/W2077007432",
-        "https://openalex.org/W2079957107",
-        "https://openalex.org/W2081042095",
-        "https://openalex.org/W2087165129",
-        "https://openalex.org/W2132514334",
-        "https://openalex.org/W2167860989",
-        "https://openalex.org/W2180963020",
-        "https://openalex.org/W2432359412",
-        "https://openalex.org/W2476243516",
-        "https://openalex.org/W2478435339",
-        "https://openalex.org/W2489252044",
-        "https://openalex.org/W2523141952",
-        "https://openalex.org/W2527889622",
-        "https://openalex.org/W2552493501",
-        "https://openalex.org/W2570063778",
-        "https://openalex.org/W2611394190",
-        "https://openalex.org/W2621230590",
-        "https://openalex.org/W2739030156",
-        "https://openalex.org/W2755634098",
-        "https://openalex.org/W2769783125",
-        "https://openalex.org/W2772219416",
-        "https://openalex.org/W2895797037",
-        "https://openalex.org/W2896879313",
-        "https://openalex.org/W2937182469",
-        "https://openalex.org/W2944259572",
-        "https://openalex.org/W2952415594",
-        "https://openalex.org/W2960061289",
-        "https://openalex.org/W2971780062",
-        "https://openalex.org/W2973138423",
-        "https://openalex.org/W3044656254",
-        "https://openalex.org/W3196067587"
-      ],
-      "related_works": [
-        "https://openalex.org/W3087899084",
-        "https://openalex.org/W3029014611",
-        "https://openalex.org/W2793442251",
-        "https://openalex.org/W7133379758",
-        "https://openalex.org/W7221037657",
-        "https://openalex.org/W2023242103",
-        "https://openalex.org/W2368869548",
-        "https://openalex.org/W2993802331",
-        "https://openalex.org/W2026091778",
-        "https://openalex.org/W2772180999"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2997880404",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2020-01-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W4386495999",
@@ -3346,13 +3220,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.3487,
+      "fwci": 1.3379,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77021906,
+        "value": 0.76846289,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3764,6 +3638,13 @@
           "funder_award_id": "SF19031",
           "funder_id": "https://openalex.org/F4320336956",
           "funder_display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
+        },
+        {
+          "id": "https://openalex.org/G873832165",
+          "display_name": null,
+          "funder_award_id": "SF19031",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
         }
       ],
       "funders": [
@@ -4351,7 +4232,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-09-07T00:00:00"
     },
     {
@@ -4815,13 +4696,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.7963,
+      "fwci": 1.7782,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82752473,
+        "value": 0.82569135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5078,6 +4959,13 @@
       "study_designs": [],
       "awards": [
         {
+          "id": "https://openalex.org/G394724057",
+          "display_name": null,
+          "funder_award_id": "SF19031",
+          "funder_id": "https://openalex.org/F4320336956",
+          "funder_display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
+        },
+        {
           "id": "https://openalex.org/G873832165",
           "display_name": null,
           "funder_award_id": "SF19031",
@@ -5188,7 +5076,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-06-18T00:00:00"
     },
     {
@@ -5531,13 +5419,13 @@
         "currency": "CHF",
         "value_usd": 1520
       },
-      "fwci": 0.5675,
+      "fwci": 0.658,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 17,
+      "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58601661,
+        "value": 0.61150386,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5948,8 +5836,27 @@
       },
       "sustainable_development_goals": [],
       "study_designs": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G8706771436",
+          "display_name": null,
+          "funder_award_id": "0153AA",
+          "funder_id": "https://openalex.org/F4320329394",
+          "funder_display_name": "Yayasan UTP"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323380",
+          "display_name": "Universiti Teknologi Petronas",
+          "ror": "https://ror.org/048g2sh07"
+        },
+        {
+          "id": "https://openalex.org/F4320329394",
+          "display_name": "Yayasan UTP",
+          "ror": "https://ror.org/00mj5vx34"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -6524,7 +6431,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2020,
@@ -6535,7 +6442,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -8061,13 +7968,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 44.9211,
+      "fwci": 41.5091,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99516484,
+        "value": 0.99430324,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -9135,13 +9042,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 44.9211,
+      "fwci": 41.5091,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99516484,
+        "value": 0.99430324,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -9456,8 +9363,11 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
+      "referenced_works_count": 2,
+      "referenced_works": [
+        "https://openalex.org/W2552465644",
+        "https://openalex.org/W2952232639"
+      ],
       "related_works": [
         "https://openalex.org/W7135212378",
         "https://openalex.org/W7134970022",
@@ -9963,7 +9873,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-02-18T00:00:00"
     },
     {
@@ -10454,13 +10364,13 @@
         "currency": "CHF",
         "value_usd": 1901
       },
-      "fwci": 0.9123,
+      "fwci": 0.9086,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66314455,
+        "value": 0.66235195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10883,7 +10793,7 @@
         {
           "id": "pmh:oai:doaj.org/article:bc265d0bb2ad4ab9840708a9ecfd5dbf",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/bc265d0bb2ad4ab9840708a9ecfd5dbf",
           "pdf_url": null,
           "source": {
@@ -10901,8 +10811,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -10970,6 +10880,11 @@
           "id": "https://openalex.org/F4320322323",
           "display_name": "King Fahd University of Petroleum and Minerals",
           "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
         }
       ],
       "has_content": {
@@ -11723,7 +11638,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-09-21T00:00:00"
     },
     {
@@ -13627,13 +13542,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -14797,13 +14712,13 @@
         "currency": "USD",
         "value_usd": 3360
       },
-      "fwci": 1.2852,
+      "fwci": 1.2702,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71094116,
+        "value": 0.70892824,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15205,18 +15120,25 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
       "awards": [
+        {
+          "id": "https://openalex.org/G2208678706",
+          "display_name": null,
+          "funder_award_id": "H2FC2313",
+          "funder_id": "https://openalex.org/F4320336956",
+          "funder_display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
+        },
         {
           "id": "https://openalex.org/G4224580674",
           "display_name": null,
@@ -15939,7 +15861,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-05-19T00:00:00"
     },
     {
@@ -16030,7 +15952,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Abdulrahman Al-Fakih",
           "raw_affiliation_strings": [
@@ -16078,7 +16000,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Sherif Hanafy",
           "raw_affiliation_strings": [
@@ -16250,10 +16172,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013827317",
-        "https://openalex.org/A5104116379"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
       ],
@@ -17031,7 +16950,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-03-14T00:00:00"
     },
     {
@@ -17743,8 +17662,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         }
       ],
@@ -20043,8 +19962,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         }
       ],
@@ -21652,6 +21571,11 @@
       "awards": [],
       "funders": [
         {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
           "id": "https://openalex.org/F4320336956",
           "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
           "ror": null
@@ -22382,7 +22306,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7171831159",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-07-31T00:00:00"
     }
   ]

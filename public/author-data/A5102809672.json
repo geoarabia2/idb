@@ -689,8 +689,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -709,7 +709,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/18/2/67/5446813/abed.pdf",
         "any_repository_has_fulltext": false
       },
@@ -750,13 +750,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.8017,
+      "fwci": 4.788,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 136,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94163713,
+        "value": 0.94140915,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1053,8 +1053,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -1089,8 +1089,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -2081,7 +2081,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2335,13 +2335,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.9331,
+      "fwci": 0.9321,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 120,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69671239,
+        "value": 0.69644803,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2648,7 +2648,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334593",
+          "display_name": "Natural Sciences and Engineering Research Council of Canada",
+          "ror": "https://ror.org/01h531d29"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -2851,7 +2857,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5324,13 +5330,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4565,
+      "fwci": 3.445,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 68,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90785375,
+        "value": 0.90743625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5733,7 +5739,18 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321464",
+          "display_name": "British Geological Survey",
+          "ror": "https://ror.org/04a7gbp98"
+        },
+        {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -7483,7 +7500,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7700,13 +7717,13 @@
         "value_usd": 2910
       },
       "apc_paid": null,
-      "fwci": 1.7959,
+      "fwci": 1.7938,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 59,
+      "cited_by_count": 60,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82426471,
+        "value": 0.82383578,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8081,6 +8098,11 @@
           "id": "https://openalex.org/F4320309249",
           "display_name": "University of Miami",
           "ror": "https://ror.org/02dgjyy92"
+        },
+        {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
         }
       ],
       "has_content": {
@@ -8185,7 +8207,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2016,
@@ -8208,7 +8230,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10617,13 +10639,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7884,
+      "fwci": 0.7792,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 67,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65856819,
+        "value": 0.65403304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10891,7 +10913,265 @@
         "https://openalex.org/W1499677798",
         "https://openalex.org/W2788582446"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Glaciofluvial": [
+          0
+        ],
+        "deposits": [
+          1
+        ],
+        "that": [
+          2
+        ],
+        "crop": [
+          3
+        ],
+        "out": [
+          4
+        ],
+        "in": [
+          5,
+          92,
+          100
+        ],
+        "southern": [
+          6
+        ],
+        "Jordan": [
+          7
+        ],
+        "are": [
+          8,
+          16,
+          29
+        ],
+        "reported": [
+          9
+        ],
+        "here": [
+          10
+        ],
+        "for": [
+          11
+        ],
+        "the": [
+          12,
+          19,
+          24,
+          44,
+          56,
+          82,
+          90,
+          93,
+          98
+        ],
+        "first": [
+          13
+        ],
+        "time": [
+          14
+        ],
+        "and": [
+          15,
+          38,
+          63,
+          67,
+          71,
+          84
+        ],
+        "separated": [
+          17
+        ],
+        "from": [
+          18
+        ],
+        "marine": [
+          20
+        ],
+        "Mudawwara": [
+          21,
+          57
+        ],
+        "Formation": [
+          22,
+          96
+        ],
+        "under": [
+          23
+        ],
+        "name": [
+          25
+        ],
+        "Ammar": [
+          26
+        ],
+        "Formation.": [
+          27
+        ],
+        "They": [
+          28
+        ],
+        "of": [
+          30,
+          43,
+          61,
+          78
+        ],
+        "Late": [
+          31
+        ],
+        "Ordovician": [
+          32
+        ],
+        "(Ashgillian": [
+          33
+        ],
+        "to": [
+          34,
+          81,
+          97
+        ],
+        "early": [
+          35
+        ],
+        "Llandoverian)": [
+          36
+        ],
+        "age": [
+          37
+        ],
+        "form": [
+          39
+        ],
+        "an": [
+          40
+        ],
+        "inseparable": [
+          41
+        ],
+        "part": [
+          42
+        ],
+        "northern": [
+          45
+        ],
+        "African-Arabian": [
+          46
+        ],
+        "glacial": [
+          47
+        ],
+        "event.": [
+          48
+        ],
+        "Glacial": [
+          49
+        ],
+        "evidence": [
+          50
+        ],
+        "includes": [
+          51
+        ],
+        "paleovalleys": [
+          52
+        ],
+        "cut": [
+          53
+        ],
+        "deep": [
+          54
+        ],
+        "into": [
+          55
+        ],
+        "Formation,": [
+          58
+        ],
+        "various": [
+          59
+        ],
+        "types": [
+          60
+        ],
+        "faceted": [
+          62
+        ],
+        "striated": [
+          64,
+          72
+        ],
+        "exotic": [
+          65
+        ],
+        "clasts,": [
+          66
+        ],
+        "possible": [
+          68
+        ],
+        "reworked": [
+          69
+        ],
+        "tillites": [
+          70
+        ],
+        "channel": [
+          73
+        ],
+        "basement.": [
+          74
+        ],
+        "The": [
+          75
+        ],
+        "general": [
+          76
+        ],
+        "direction": [
+          77
+        ],
+        "flow": [
+          79,
+          91
+        ],
+        "was": [
+          80
+        ],
+        "north": [
+          83
+        ],
+        "northeast,": [
+          85
+        ],
+        "which": [
+          86
+        ],
+        "is": [
+          87
+        ],
+        "consistent": [
+          88
+        ],
+        "with": [
+          89
+        ],
+        "equivalent": [
+          94
+        ],
+        "Sarah": [
+          95
+        ],
+        "south": [
+          99
+        ],
+        "Saudi": [
+          101
+        ],
+        "Arabia.": [
+          102
+        ]
+      },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2974796042",
       "counts_by_year": [
         {
@@ -10951,7 +11231,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-09-26T00:00:00"
     },
     {
@@ -11803,6 +12083,588 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2112850090",
+      "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
+      "title": "Fluvial-shallow marine-glaciofluvial depositional environments of the Ordovician System in Jordan",
+      "display_name": "Fluvial-shallow marine-glaciofluvial depositional environments of the Ordovician System in Jordan",
+      "alternate_titles": [],
+      "publication_year": 2001,
+      "publication_date": "2001-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2112850090",
+        "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
+        "mag": "2112850090"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s1367-9120(00)00010-9",
+        "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s1367-9120(00)00010-9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S80045625",
+          "display_name": "Journal of Asian Earth Sciences",
+          "issn_l": "1367-9120",
+          "issn": [
+            "1367-9120",
+            "1878-5786"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Asian Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2112850090"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050328906",
+            "display_name": "Belal S. Amireh",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "B.S Amireh",
+          "raw_affiliation_strings": [
+            "Department of Geology, University of Jordan, Amman, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, University of Jordan, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110134613",
+            "display_name": "W. Schneider",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I94509681",
+              "display_name": "Technische Universität Braunschweig",
+              "ror": "https://ror.org/010nsgg66",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I94509681"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "W Schneider",
+          "raw_affiliation_strings": [
+            "Institut für Geowissenscaften, TU Braunschweig, Postfach 3329, Braunschweig, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Geowissenscaften, TU Braunschweig, Postfach 3329, Braunschweig, Germany",
+              "institution_ids": [
+                "https://openalex.org/I94509681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "A.M Abed",
+          "raw_affiliation_strings": [
+            "Department of Geology, University of Jordan, Amman, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, University of Jordan, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050328906"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114972647"
+      ],
+      "apc_list": {
+        "value": 3330,
+        "currency": "USD",
+        "value_usd": 3330
+      },
+      "apc_paid": null,
+      "fwci": 1.0371,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 65,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.74312068,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "19",
+        "issue": "1-2",
+        "first_page": "45",
+        "last_page": "60"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.0005000000237487257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/braidplain",
+          "display_name": "braidplain",
+          "score": 0.7979999780654907
+        },
+        {
+          "id": "https://openalex.org/keywords/tidal-flats",
+          "display_name": "tidal flats",
+          "score": 0.890999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/shoreface",
+          "display_name": "shoreface",
+          "score": 0.9200000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/storm-deposits",
+          "display_name": "storm deposits",
+          "score": 0.703000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/glaciofluvial-deposits",
+          "display_name": "glaciofluvial deposits",
+          "score": 0.9539999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/jordan",
+          "display_name": "Jordan",
+          "score": 0.621999979019165
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.9231196045875549
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9053990244865417
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6482893824577332
+        },
+        {
+          "id": "https://openalex.org/C91442348",
+          "wikidata": "https://www.wikidata.org/wiki/Q62100",
+          "display_name": "Ordovician",
+          "level": 2,
+          "score": 0.6003313660621643
+        },
+        {
+          "id": "https://openalex.org/C138841024",
+          "wikidata": "https://www.wikidata.org/wiki/Q7127148",
+          "display_name": "Paleocurrent",
+          "level": 4,
+          "score": 0.4259141683578491
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/s1367-9120(00)00010-9",
+          "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s1367-9120(00)00010-9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S80045625",
+            "display_name": "Journal of Asian Earth Sciences",
+            "issn_l": "1367-9120",
+            "issn": [
+              "1367-9120",
+              "1878-5786"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Asian Earth Sciences",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.476.2808",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.476.2808",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://elmu.umm.ac.id/file.php/1/jurnal/J-a/Journal of Asian Earth Science/Vol19.Issue1-2.Feb2001/394.pdf",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320879",
+          "display_name": "Deutsche Forschungsgemeinschaft",
+          "ror": "https://ror.org/018mejw64"
+        },
+        {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 37,
+      "referenced_works": [
+        "https://openalex.org/W43588767",
+        "https://openalex.org/W574405496",
+        "https://openalex.org/W578079095",
+        "https://openalex.org/W1539070761",
+        "https://openalex.org/W1564145569",
+        "https://openalex.org/W1673688546",
+        "https://openalex.org/W1736736726",
+        "https://openalex.org/W1755726326",
+        "https://openalex.org/W1967191496",
+        "https://openalex.org/W1968172155",
+        "https://openalex.org/W1970328100",
+        "https://openalex.org/W1980408084",
+        "https://openalex.org/W1980506837",
+        "https://openalex.org/W1981723811",
+        "https://openalex.org/W1996519019",
+        "https://openalex.org/W2016486221",
+        "https://openalex.org/W2020471797",
+        "https://openalex.org/W2029135825",
+        "https://openalex.org/W2032902645",
+        "https://openalex.org/W2045933517",
+        "https://openalex.org/W2054829011",
+        "https://openalex.org/W2056646610",
+        "https://openalex.org/W2058510863",
+        "https://openalex.org/W2060332607",
+        "https://openalex.org/W2063368779",
+        "https://openalex.org/W2067628429",
+        "https://openalex.org/W2085874723",
+        "https://openalex.org/W2095363054",
+        "https://openalex.org/W2226743912",
+        "https://openalex.org/W2244540091",
+        "https://openalex.org/W2913153466",
+        "https://openalex.org/W2974207299",
+        "https://openalex.org/W2974796042",
+        "https://openalex.org/W3215980238",
+        "https://openalex.org/W4394682092",
+        "https://openalex.org/W6834576109",
+        "https://openalex.org/W7015159553"
+      ],
+      "related_works": [
+        "https://openalex.org/W2605319065",
+        "https://openalex.org/W2032902645",
+        "https://openalex.org/W4306942052",
+        "https://openalex.org/W7064830407",
+        "https://openalex.org/W2357418260",
+        "https://openalex.org/W2742813258",
+        "https://openalex.org/W2069526936",
+        "https://openalex.org/W2017867064",
+        "https://openalex.org/W2110801167"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2112850090",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 6
+        }
+      ],
+      "updated_date": "2026-11-22T12:46:00.618207",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2082197446",
       "doi": "https://doi.org/10.1016/s0031-0182(00)00042-0",
       "title": "On the paleoclimate of Jordan during the last glacial maximum",
@@ -12463,577 +13325,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2112850090",
-      "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
-      "title": "Fluvial-shallow marine-glaciofluvial depositional environments of the Ordovician System in Jordan",
-      "display_name": "Fluvial-shallow marine-glaciofluvial depositional environments of the Ordovician System in Jordan",
-      "alternate_titles": [],
-      "publication_year": 2001,
-      "publication_date": "2001-02-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2112850090",
-        "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
-        "mag": "2112850090"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/s1367-9120(00)00010-9",
-        "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s1367-9120(00)00010-9",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S80045625",
-          "display_name": "Journal of Asian Earth Sciences",
-          "issn_l": "1367-9120",
-          "issn": [
-            "1367-9120",
-            "1878-5786"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-b",
-            "jufo-1",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Asian Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2112850090"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5050328906",
-            "display_name": "Belal S. Amireh",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "B.S Amireh",
-          "raw_affiliation_strings": [
-            "Department of Geology, University of Jordan, Amman, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5110134613",
-            "display_name": "W. Schneider",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I94509681",
-              "display_name": "Technische Universität Braunschweig",
-              "ror": "https://ror.org/010nsgg66",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I94509681"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "W Schneider",
-          "raw_affiliation_strings": [
-            "Institut für Geowissenscaften, TU Braunschweig, Postfach 3329, Braunschweig, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institut für Geowissenscaften, TU Braunschweig, Postfach 3329, Braunschweig, Germany",
-              "institution_ids": [
-                "https://openalex.org/I94509681"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7843-4218"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "A.M Abed",
-          "raw_affiliation_strings": [
-            "Department of Geology, University of Jordan, Amman, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050328906"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I114972647"
-      ],
-      "apc_list": {
-        "value": 3330,
-        "currency": "USD",
-        "value_usd": 3330
-      },
-      "apc_paid": null,
-      "fwci": 1.0617,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 64,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.75495468,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "19",
-        "issue": "1-2",
-        "first_page": "45",
-        "last_page": "60"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9990000128746033,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.0005000000237487257,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.00019999999494757503,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/braidplain",
-          "display_name": "braidplain",
-          "score": 0.7979999780654907
-        },
-        {
-          "id": "https://openalex.org/keywords/tidal-flats",
-          "display_name": "tidal flats",
-          "score": 0.890999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/shoreface",
-          "display_name": "shoreface",
-          "score": 0.9200000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/storm-deposits",
-          "display_name": "storm deposits",
-          "score": 0.703000009059906
-        },
-        {
-          "id": "https://openalex.org/keywords/glaciofluvial-deposits",
-          "display_name": "glaciofluvial deposits",
-          "score": 0.9539999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/jordan",
-          "display_name": "Jordan",
-          "score": 0.621999979019165
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.9231196045875549
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9053990244865417
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6482893824577332
-        },
-        {
-          "id": "https://openalex.org/C91442348",
-          "wikidata": "https://www.wikidata.org/wiki/Q62100",
-          "display_name": "Ordovician",
-          "level": 2,
-          "score": 0.6003313660621643
-        },
-        {
-          "id": "https://openalex.org/C138841024",
-          "wikidata": "https://www.wikidata.org/wiki/Q7127148",
-          "display_name": "Paleocurrent",
-          "level": 4,
-          "score": 0.4259141683578491
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/s1367-9120(00)00010-9",
-          "doi": "https://doi.org/10.1016/s1367-9120(00)00010-9",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s1367-9120(00)00010-9",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S80045625",
-            "display_name": "Journal of Asian Earth Sciences",
-            "issn_l": "1367-9120",
-            "issn": [
-              "1367-9120",
-              "1878-5786"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-b",
-              "jufo-1",
-              "norway-1",
-              "poland-100",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Asian Earth Sciences",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:CiteSeerX.psu:10.1.1.476.2808",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.476.2808",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "http://elmu.umm.ac.id/file.php/1/jurnal/J-a/Journal of Asian Earth Science/Vol19.Issue1-2.Feb2001/394.pdf",
-          "raw_type": "text"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 37,
-      "referenced_works": [
-        "https://openalex.org/W43588767",
-        "https://openalex.org/W574405496",
-        "https://openalex.org/W578079095",
-        "https://openalex.org/W1539070761",
-        "https://openalex.org/W1564145569",
-        "https://openalex.org/W1673688546",
-        "https://openalex.org/W1736736726",
-        "https://openalex.org/W1755726326",
-        "https://openalex.org/W1967191496",
-        "https://openalex.org/W1968172155",
-        "https://openalex.org/W1970328100",
-        "https://openalex.org/W1980408084",
-        "https://openalex.org/W1980506837",
-        "https://openalex.org/W1981723811",
-        "https://openalex.org/W1996519019",
-        "https://openalex.org/W2016486221",
-        "https://openalex.org/W2020471797",
-        "https://openalex.org/W2029135825",
-        "https://openalex.org/W2032902645",
-        "https://openalex.org/W2045933517",
-        "https://openalex.org/W2054829011",
-        "https://openalex.org/W2056646610",
-        "https://openalex.org/W2058510863",
-        "https://openalex.org/W2060332607",
-        "https://openalex.org/W2063368779",
-        "https://openalex.org/W2067628429",
-        "https://openalex.org/W2085874723",
-        "https://openalex.org/W2095363054",
-        "https://openalex.org/W2226743912",
-        "https://openalex.org/W2244540091",
-        "https://openalex.org/W2913153466",
-        "https://openalex.org/W2974207299",
-        "https://openalex.org/W2974796042",
-        "https://openalex.org/W3215980238",
-        "https://openalex.org/W4394682092",
-        "https://openalex.org/W6834576109",
-        "https://openalex.org/W7015159553"
-      ],
-      "related_works": [
-        "https://openalex.org/W2605319065",
-        "https://openalex.org/W2032902645",
-        "https://openalex.org/W4306942052",
-        "https://openalex.org/W7064830407",
-        "https://openalex.org/W2357418260",
-        "https://openalex.org/W2742813258",
-        "https://openalex.org/W2069526936",
-        "https://openalex.org/W2017867064",
-        "https://openalex.org/W2110801167"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2112850090",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 6
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2072896739",
       "doi": "https://doi.org/10.1006/cres.1999.0147",
       "title": "Sedimentology, geochemistry, economic potential and palaeogeography of an Upper Cretaceous phosphorite belt in the southeastern desert of Jordan",
@@ -13201,13 +13492,13 @@
         "value_usd": 3560
       },
       "apc_paid": null,
-      "fwci": 0.6346,
+      "fwci": 0.6271,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60596808,
+        "value": 0.60413487,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14541,13 +14832,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.8015,
+      "fwci": 4.7958,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93454677,
+        "value": 0.93431361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14904,7 +15195,18 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320875",
+          "display_name": "Deutscher Akademischer Austauschdienst",
+          "ror": "https://ror.org/039djdh30"
+        },
+        {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -15873,7 +16175,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-10-06T00:00:00"
     },
     {
@@ -16030,16 +16332,23 @@
           "countries": [
             "JO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Mohammad Al-Hwaiti",
           "raw_affiliation_strings": [
-            "Environmental Engineering Department, Faculty of Engineering, Al-Hussein Bin Talal University, Ma’an, Jordan"
+            "Environmental Engineering Department, Faculty of Engineering, Al-Hussein Bin Talal University, P.O. Box (20), Ma’an, Jordan",
+            "Environmental Engineering Department, Faculty of Engineering, Al-Hussein Bin Talal University, Ma'an, Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Environmental Engineering Department, Faculty of Engineering, Al-Hussein Bin Talal University, Ma’an, Jordan",
+              "raw_affiliation_string": "Environmental Engineering Department, Faculty of Engineering, Al-Hussein Bin Talal University, P.O. Box (20), Ma’an, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I100086675"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environmental Engineering Department, Faculty of Engineering, Al-Hussein Bin Talal University, Ma'an, Jordan",
               "institution_ids": [
                 "https://openalex.org/I100086675"
               ]
@@ -16071,14 +16380,21 @@
           "countries": [
             "JO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Kholoud Mashal",
           "raw_affiliation_strings": [
+            "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, P.O. Box 150459, Zarqa, 13115, Jordan",
             "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, Zarqa, Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, P.O. Box 150459, Zarqa, 13115, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I157392197"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, Zarqa, Jordan",
               "institution_ids": [
@@ -16112,14 +16428,21 @@
           "countries": [
             "JO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Abdulkader M. Abed",
           "raw_affiliation_strings": [
+            "Department of Applied Geology and Environment, The University of Jordan, 11942, Amman, Jordan",
             "Department of Applied Geology and Environment, The University of Jordan, Amman, Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, 11942, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, Amman, Jordan",
               "institution_ids": [
@@ -16133,15 +16456,10 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
-        "https://openalex.org/A5013553375",
-        "https://openalex.org/A5040373852",
-        "https://openalex.org/A5087995404",
-        "https://openalex.org/A5102809672"
+        "https://openalex.org/A5087995404"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I100086675",
-        "https://openalex.org/I114972647",
-        "https://openalex.org/I157392197"
+        "https://openalex.org/I114972647"
       ],
       "apc_list": {
         "value": 2790,
@@ -16149,13 +16467,13 @@
         "value_usd": 2790
       },
       "apc_paid": null,
-      "fwci": 0.8653,
+      "fwci": 0.8633,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 31,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72912676,
+        "value": 0.72839606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16596,6 +16914,11 @@
           "ror": "https://ror.org/02dgjyy92"
         },
         {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        },
+        {
           "id": "https://openalex.org/F4320337174",
           "display_name": "Deanship of Scientific Research, University of Jordan",
           "ror": null
@@ -16728,7 +17051,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -16833,17 +17156,10 @@
           "contributor_roles": [],
           "raw_author_name": "Abdulkader M. Abed",
           "raw_affiliation_strings": [
-            "Department of Geology, The University of Jordan, Amman, Jordan",
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
               "institution_ids": [
@@ -16879,17 +17195,10 @@
           "contributor_roles": [],
           "raw_author_name": "Oday Jaber",
           "raw_affiliation_strings": [
-            "Department of Geology, The University of Jordan, Amman, Jordan",
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
               "institution_ids": [
@@ -16927,17 +17236,10 @@
           "contributor_roles": [],
           "raw_author_name": "Mustafa Alkuisi",
           "raw_affiliation_strings": [
-            "Department of Geology, The University of Jordan, Amman, Jordan",
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
               "institution_ids": [
@@ -16973,17 +17275,10 @@
           "contributor_roles": [],
           "raw_author_name": "Rushdi Sadaqah",
           "raw_affiliation_strings": [
-            "Department of Geology, The University of Jordan, Amman, Jordan",
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
               "institution_ids": [
@@ -17008,13 +17303,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.2338,
+      "fwci": 1.2185,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73294118,
+        "value": 0.73041203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17323,7 +17618,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320337174",
+          "display_name": "Deanship of Scientific Research, University of Jordan",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -17455,7 +17756,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20616,19 +20917,12 @@
           "raw_author_name": "Abdulkader M. Abed",
           "raw_affiliation_strings": [
             "Department of Applied and Environmental Geology, University of Jordan, Amman, 11942, Jordan",
-            "Department of Applied and Environmental Geology, University of Jordan, Amman, Jordan",
             "UNiversity of Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman, 11942, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman, Jordan",
               "institution_ids": [
                 "https://openalex.org/I114972647"
               ]
@@ -20669,19 +20963,12 @@
           "raw_author_name": "Rushdi Sadaqah",
           "raw_affiliation_strings": [
             "Department of Applied and Environmental Geology, University of Jordan, Amman, 11942, Jordan",
-            "Department of Applied and Environmental Geology, University of Jordan, Amman, Jordan",
             "UNiversity of Jordan"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman, 11942, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Applied and Environmental Geology, University of Jordan, Amman, Jordan",
               "institution_ids": [
                 "https://openalex.org/I114972647"
               ]
@@ -20758,13 +21045,13 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.6305,
+      "fwci": 1.6299,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79664027,
+        "value": 0.79661268,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21201,7 +21488,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21395,13 +21682,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.7286,
+      "fwci": 0.7009,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63827384,
+        "value": 0.61599277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22607,13 +22894,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.4368,
+      "fwci": 1.4256,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 32,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77940524,
+        "value": 0.7774079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22890,7 +23177,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320337174",
+          "display_name": "Deanship of Scientific Research, University of Jordan",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -22998,7 +23291,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23153,13 +23446,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.7286,
+      "fwci": 0.7009,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63827384,
+        "value": 0.61599277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25081,13 +25374,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5884,
+      "fwci": 0.5866,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60923322,
+        "value": 0.6075419,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25450,7 +25743,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25663,13 +25956,13 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 0.3772,
+      "fwci": 0.3754,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59822479,
+        "value": 0.59247783,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25977,6 +26270,11 @@
       "awards": [],
       "funders": [
         {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        },
+        {
           "id": "https://openalex.org/F4320338075",
           "display_name": "Core Research for Evolutional Science and Technology",
           "ror": "https://ror.org/00097mb19"
@@ -26144,7 +26442,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26474,13 +26772,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.4587,
+      "fwci": 0.4531,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54640033,
+        "value": 0.54427083,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26796,9 +27094,19 @@
       "awards": [],
       "funders": [
         {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        },
+        {
           "id": "https://openalex.org/F4320331393",
           "display_name": "Muhimbili University of Health and Allied Sciences",
           "ror": "https://ror.org/027pr6c67"
+        },
+        {
+          "id": "https://openalex.org/F4320337174",
+          "display_name": "Deanship of Scientific Research, University of Jordan",
+          "ror": null
         }
       ],
       "has_content": {
@@ -26910,7 +27218,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -29941,13 +30249,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8079,
+      "fwci": 0.7699,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6482808,
+        "value": 0.62913592,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31811,13 +32119,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2098,
+      "fwci": 3.2017,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90377837,
+        "value": 0.90351145,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32220,7 +32528,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -38674,13 +38982,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.6839,
+      "fwci": 0.681,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.600988,
+        "value": 0.60014124,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38920,7 +39228,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -39004,7 +39318,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2018-08-22T00:00:00"
     },
     {
@@ -40091,13 +40405,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.4952,
+      "fwci": 0.4948,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57244594,
+        "value": 0.57226107,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40424,7 +40738,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323382",
+          "display_name": "University of Jordan",
+          "ror": "https://ror.org/05k89ew48"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -40492,7 +40812,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -41453,7 +41773,178 @@
         "https://openalex.org/W6999002311",
         "https://openalex.org/W4389511275"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          14
+        ],
+        "Nodular": [
+          1
+        ],
+        "Limestone": [
+          2
+        ],
+        "Member": [
+          3
+        ],
+        "dominates": [
+          4
+        ],
+        "the": [
+          5,
+          9,
+          19,
+          23,
+          47,
+          68
+        ],
+        "lower": [
+          6
+        ],
+        "portion": [
+          7
+        ],
+        "of": [
+          8,
+          12,
+          18,
+          29,
+          37,
+          53
+        ],
+        "Upper": [
+          10
+        ],
+        "Cretaceous": [
+          11
+        ],
+        "Jordan.": [
+          13
+        ],
+        "marine": [
+          15,
+          43
+        ],
+        "carbonate": [
+          16
+        ],
+        "sequence": [
+          17
+        ],
+        "north": [
+          20
+        ],
+        "interfingers": [
+          21
+        ],
+        "to": [
+          22,
+          67
+        ],
+        "south": [
+          24
+        ],
+        "with": [
+          25,
+          42
+        ],
+        "thinner": [
+          26
+        ],
+        "clastic": [
+          27
+        ],
+        "sediments": [
+          28
+        ],
+        "brackish": [
+          30
+        ],
+        "and": [
+          31,
+          35,
+          39,
+          50,
+          61
+        ],
+        "deltaic": [
+          32
+        ],
+        "origin.": [
+          33
+        ],
+        "Limestones": [
+          34
+        ],
+        "dolomites": [
+          36,
+          52
+        ],
+        "subtidal": [
+          38
+        ],
+        "intertidal": [
+          40,
+          49
+        ],
+        "environments": [
+          41
+        ],
+        "fauna": [
+          44
+        ],
+        "predominate": [
+          45
+        ],
+        "in": [
+          46
+        ],
+        "north,": [
+          48
+        ],
+        "supratidal": [
+          51
+        ],
+        "early": [
+          54
+        ],
+        "diagenetic": [
+          55
+        ],
+        "origin": [
+          56
+        ],
+        "accompanied": [
+          57
+        ],
+        "by": [
+          58
+        ],
+        "steep": [
+          59
+        ],
+        "relief": [
+          60
+        ],
+        "karst": [
+          62
+        ],
+        "features": [
+          63
+        ],
+        "become": [
+          64
+        ],
+        "more": [
+          65
+        ],
+        "important": [
+          66
+        ],
+        "south.": [
+          69
+        ]
+      },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3092592676",
       "counts_by_year": [
         {
@@ -41461,7 +41952,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-10-15T00:00:00"
     },
     {
@@ -51413,7 +51904,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4252726123",
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2022-05-12T00:00:00"
     }
   ]

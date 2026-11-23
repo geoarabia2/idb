@@ -627,13 +627,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.6048,
+      "fwci": 7.5663,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 610,
+      "cited_by_count": 621,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96944319,
+        "value": 0.9694501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -959,14 +959,54 @@
       "awards": [],
       "funders": [
         {
+          "id": "https://openalex.org/F4320309652",
+          "display_name": "University of Michigan",
+          "ror": "https://ror.org/00jmfr291"
+        },
+        {
+          "id": "https://openalex.org/F4320310419",
+          "display_name": "Pennsylvania State University",
+          "ror": "https://ror.org/04p491231"
+        },
+        {
+          "id": "https://openalex.org/F4320310862",
+          "display_name": "Colorado School of Mines",
+          "ror": "https://ror.org/04raf6v53"
+        },
+        {
+          "id": "https://openalex.org/F4320313660",
+          "display_name": "Association for Applied Sport Psychology",
+          "ror": "https://ror.org/01ga4sr49"
+        },
+        {
+          "id": "https://openalex.org/F4320321008",
+          "display_name": "Universiteit van Amsterdam",
+          "ror": "https://ror.org/04dkp9463"
+        },
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320322573",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47"
+        },
+        {
           "id": "https://openalex.org/F4320324706",
           "display_name": "Saudi Aramco",
           "ror": "https://ror.org/03ypap427"
+        },
+        {
+          "id": "https://openalex.org/F4320332183",
+          "display_name": "U.S. Geological Survey",
+          "ror": "https://ror.org/035a68863"
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939888277.pdf",
@@ -1853,7 +1893,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 61
+          "cited_by_count": 63
         },
         {
           "year": 2023,
@@ -1861,11 +1901,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 43
+          "cited_by_count": 45
         },
         {
           "year": 2021,
-          "cited_by_count": 39
+          "cited_by_count": 40
         },
         {
           "year": 2020,
@@ -1873,11 +1913,11 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 27
+          "cited_by_count": 28
         },
         {
           "year": 2018,
-          "cited_by_count": 24
+          "cited_by_count": 28
         },
         {
           "year": 2017,
@@ -1893,7 +1933,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 23
+          "cited_by_count": 24
         },
         {
           "year": 2013,
@@ -1904,7 +1944,7 @@
           "cited_by_count": 24
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-04-25T00:00:00"
     },
     {
@@ -2109,13 +2149,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7924,
+      "fwci": 2.7818,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 197,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89210661,
+        "value": 0.89162183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2450,8 +2490,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2469,789 +2509,275 @@
         "https://openalex.org/W2009607869"
       ],
       "abstract_inverted_index": {
-        "24": [
-          98,
-          154
-        ],
-        "1996": [
-          4
-        ],
-        "2017": [
-          108
-        ],
-        "16802": [
-          84
-        ],
-        "Research": [
+        "Macerations": [
           0
         ],
-        "Article|": [
-          1
-        ],
-        "January": [
-          2
-        ],
-        "01,": [
-          3
-        ],
-        "New": [
-          5,
-          139
-        ],
-        "evidence": [
-          6,
-          140
-        ],
-        "for": [
-          7,
-          37,
-          61,
-          86,
-          141
-        ],
-        "land": [
-          8,
-          142,
-          211
-        ],
-        "plants": [
-          9,
-          143,
-          212,
-          274
-        ],
-        "from": [
-          10,
-          144,
-          201,
-          272
-        ],
-        "the": [
-          11,
-          145,
-          229,
-          256,
-          287,
-          307
-        ],
-        "lower": [
-          12,
-          146
-        ],
-        "Middle": [
-          13,
-          147,
-          197
-        ],
-        "Ordovician": [
-          14,
-          148,
-          198
-        ],
         "of": [
-          15,
-          27,
-          76,
-          149,
-          196,
-          207,
-          209,
-          219,
-          228,
-          237,
-          283
-        ],
-        "Saudi": [
-          16,
-          58,
-          150,
-          202
-        ],
-        "Arabia": [
-          17,
-          59,
-          203
-        ],
-        "Paul": [
-          18,
-          21,
-          132
-        ],
-        "K.": [
-          19,
-          22,
-          133
-        ],
-        "Strother;": [
-          20
-        ],
-        "Strother": [
-          23
-        ],
-        "1Boston": [
-          24
-        ],
-        "College": [
-          25
-        ],
-        "Department": [
-          26
-        ],
-        "Geology": [
-          28,
-          96,
-          152
-        ],
-        "and": [
-          29,
-          215,
-          262
-        ],
-        "Geophysics,": [
-          30
-        ],
-        "Weston": [
-          31
-        ],
-        "Observatory,": [
-          32
-        ],
-        "Weston,": [
-          33
-        ],
-        "Massachusetts": [
-          34
-        ],
-        "02193": [
-          35
-        ],
-        "Search": [
-          36,
-          60,
-          85,
-          129,
-          174,
-          181,
-          191,
-          193
-        ],
-        "other": [
-          38,
-          62,
-          87
-        ],
-        "works": [
-          39,
-          63,
+          1,
+          12,
+          14,
+          24,
+          33,
+          42,
           88
         ],
-        "by": [
-          40,
-          64,
-          89,
-          296
-        ],
-        "this": [
-          41,
-          65,
-          90,
-          238,
-          246,
-          323
-        ],
-        "author": [
-          42,
-          66,
-          91
-        ],
-        "on:": [
-          43,
-          67,
-          92
-        ],
-        "GSW": [
-          44,
-          68,
-          93
-        ],
-        "Google": [
-          45,
-          69,
-          94
-        ],
-        "Scholar": [
-          46,
-          70,
-          95
-        ],
-        "Said": [
-          47,
-          49,
-          135
-        ],
-        "Al-Hajri;": [
-          48
-        ],
-        "Al-Hajri": [
-          50
-        ],
-        "2Saudi": [
-          51
-        ],
-        "Aramco,": [
-          52
-        ],
-        "P.O.": [
-          53
-        ],
-        "Box": [
-          54
-        ],
-        "2141,": [
-          55
-        ],
-        "Dhahran": [
-          56
-        ],
-        "31311,": [
-          57
-        ],
-        "Alfred": [
-          71,
-          73,
-          137
-        ],
-        "Traverse": [
-          72,
-          74
-        ],
-        "3Department": [
-          75
-        ],
-        "Geosciences,": [
-          77
-        ],
-        "Pennsylvania": [
-          78,
-          83
-        ],
-        "State": [
-          79
-        ],
-        "University,": [
-          80
-        ],
-        "University": [
-          81
-        ],
-        "Park,": [
-          82
-        ],
-        "(1996)": [
-          97
-        ],
-        "(1):": [
-          99,
-          155
-        ],
-        "55–58.": [
-          100,
-          156
-        ],
-        "https://doi.org/10.1130/0091-7613(1996)024<0055:NEFLPF>2.3.CO;2": [
-          101,
-          158
-        ],
-        "Article": [
-          102
-        ],
-        "history": [
-          103
-        ],
-        "first": [
-          104
-        ],
-        "online:": [
-          105
-        ],
-        "02": [
-          106
-        ],
-        "Jun": [
-          107
-        ],
-        "Cite": [
-          109
-        ],
-        "View": [
-          110
-        ],
-        "This": [
-          111,
-          299
-        ],
-        "Citation": [
-          112,
-          115,
-          131
-        ],
-        "Add": [
-          113
-        ],
-        "to": [
-          114,
-          310,
-          322,
-          327
-        ],
-        "Manager": [
-          116
-        ],
-        "Share": [
-          117,
-          119
-        ],
-        "Icon": [
-          118,
-          125
-        ],
-        "Facebook": [
-          120
-        ],
-        "Twitter": [
-          121
-        ],
-        "LinkedIn": [
-          122
-        ],
-        "MailTo": [
-          123
-        ],
-        "Tools": [
-          124,
-          126
-        ],
-        "Get": [
-          127
-        ],
-        "Permissions": [
-          128
-        ],
-        "Site": [
-          130
-        ],
-        "Strother,": [
-          134
-        ],
-        "Al-Hajri,": [
-          136
-        ],
-        "Traverse;": [
-          138
-        ],
-        "Arabia.": [
-          151
-        ],
-        "1996;;": [
-          153
-        ],
-        "doi:": [
-          157
-        ],
-        "Download": [
-          159
-        ],
-        "citation": [
-          160
-        ],
-        "file:": [
-          161
-        ],
-        "Ris": [
-          162
-        ],
-        "(Zotero)": [
-          163
-        ],
-        "Refmanager": [
-          164
-        ],
-        "EasyBib": [
-          165
-        ],
-        "Bookends": [
-          166
-        ],
-        "Mendeley": [
-          167
-        ],
-        "Papers": [
-          168
-        ],
-        "EndNote": [
-          169
-        ],
-        "RefWorks": [
-          170
-        ],
-        "BibTex": [
-          171
-        ],
-        "toolbar": [
-          172,
-          177
-        ],
-        "search": [
-          173,
-          178,
-          179,
-          187
-        ],
-        "Dropdown": [
-          175
-        ],
-        "Menu": [
-          176
-        ],
-        "input": [
-          180,
-          182
-        ],
-        "auto": [
-          183
-        ],
-        "suggest": [
-          184
-        ],
-        "filter": [
-          185
-        ],
-        "your": [
-          186,
-          328
-        ],
-        "All": [
-          188
-        ],
-        "ContentBy": [
-          189
-        ],
-        "SocietyGeology": [
-          190
-        ],
-        "Advanced": [
-          192
-        ],
-        "Abstract": [
-          194
-        ],
-        "Macerations": [
-          195
+        "Middle": [
+          2
+        ],
+        "Ordovician": [
+          3
         ],
         "(Llanvirnian)": [
-          199
+          4
         ],
         "shales": [
-          200
+          5
+        ],
+        "from": [
+          6,
+          77
+        ],
+        "Saudi": [
+          7
+        ],
+        "Arabia": [
+          8
         ],
         "yield": [
-          204
+          9
         ],
         "an": [
-          205
+          10
         ],
         "assemblage": [
-          206,
-          289
+          11,
+          94
         ],
         "spores": [
-          208,
-          236,
-          242
+          13,
+          41,
+          47
         ],
         "probable": [
-          210
+          15
+        ],
+        "land": [
+          16
+        ],
+        "plants": [
+          17,
+          79
         ],
         "(cryptospores),": [
-          213
+          18
         ],
         "acritarchs,": [
-          214
+          19
+        ],
+        "and": [
+          20,
+          67
         ],
         "chitinozoa.": [
-          216
+          21
         ],
         "The": [
-          217
+          22
         ],
         "production": [
-          218
+          23
         ],
         "sporopollenin-containing,": [
-          220
+          25
         ],
         "sporelike": [
-          221
+          26
         ],
         "tetrads": [
-          222,
-          254,
-          261
+          27,
+          59,
+          66
         ],
         "is": [
-          223,
-          301
+          28
         ],
         "considered": [
-          224
+          29
         ],
         "a": [
-          225,
-          276
+          30,
+          81
         ],
         "fundamental": [
-          226
+          31
         ],
         "character": [
-          227
+          32
+        ],
+        "the": [
+          34,
+          61,
+          92
         ],
         "embryophytes,": [
-          230
+          35
         ],
         "because": [
-          231
+          36
         ],
         "no": [
-          232
+          37
         ],
         "extant": [
-          233
+          38
         ],
         "algae": [
-          234
+          39
         ],
         "produce": [
-          235
+          40
+        ],
+        "this": [
+          43,
+          51
         ],
         "type.": [
-          239
+          44
         ],
         "No": [
-          240
+          45
         ],
         "trilete": [
-          241,
-          258
+          46,
+          63
         ],
         "were": [
-          243,
-          269
+          48,
+          74
         ],
         "found": [
-          244
+          49
         ],
         "at": [
-          245,
-          275
+          50,
+          80
         ],
         "horizon,": [
-          247
+          52
         ],
         "reinforcing": [
-          248
+          53
         ],
         "previous": [
-          249
+          54
         ],
         "assertions": [
-          250
+          55
         ],
         "that": [
-          251
+          56
         ],
         "obligate": [
-          252
+          57
         ],
         "meiotic": [
-          253
+          58
         ],
         "predate": [
-          255
+          60
         ],
         "earliest": [
-          257
+          62
         ],
         "spores.": [
-          259
+          64
         ],
         "Sporomorph": [
-          260
+          65
         ],
         "dyads,": [
-          263
+          68
         ],
         "in": [
-          264
+          69
         ],
         "conjunction": [
-          265
+          70
         ],
         "with": [
-          266
+          71
         ],
         "cuticlelike": [
-          267
+          72
         ],
         "fragments,": [
-          268
+          73
         ],
         "probably": [
-          270
+          75
         ],
         "derived": [
-          271
+          76
         ],
         "terrestrial": [
-          273
+          78
         ],
         "bryophyte": [
-          277
+          82
         ],
         "grade.": [
-          278
+          83
         ],
         "Although": [
-          279
+          84
         ],
         "there": [
-          280
+          85
         ],
         "are": [
-          281
+          86
         ],
         "reports": [
-          282
+          87
         ],
         "possibly": [
-          284
+          89
         ],
         "older": [
-          285
+          90
         ],
         "cryptospores,": [
-          286
+          91
         ],
         "Hanadir": [
-          288
+          93
         ],
         "described": [
-          290
+          95
         ],
         "herein": [
-          291
+          96
         ],
         "clearly": [
-          292
+          97
         ],
         "establishes": [
-          293
+          98
         ],
         "their": [
-          294
+          99
         ],
         "presence": [
-          295
+          100
+        ],
+        "by": [
+          101
         ],
         "Llanvirnian": [
-          297
+          102
         ],
         "time.": [
-          298
-        ],
-        "content": [
-          300
-        ],
-        "PDF": [
-          302,
-          308
-        ],
-        "only.": [
-          303
-        ],
-        "Please": [
-          304
-        ],
-        "click": [
-          305
-        ],
-        "on": [
-          306
-        ],
-        "icon": [
-          309
-        ],
-        "access.": [
-          311,
-          337
-        ],
-        "First": [
-          312
-        ],
-        "Page": [
-          313
-        ],
-        "Preview": [
-          314
-        ],
-        "Close": [
-          315
-        ],
-        "Modal": [
-          316
-        ],
-        "You": [
-          317
-        ],
-        "do": [
-          318
-        ],
-        "not": [
-          319
-        ],
-        "have": [
-          320,
-          336
-        ],
-        "access": [
-          321
-        ],
-        "content,": [
-          324
-        ],
-        "please": [
-          325
-        ],
-        "speak": [
-          326
-        ],
-        "institutional": [
-          329
-        ],
-        "administrator": [
-          330
-        ],
-        "if": [
-          331
-        ],
-        "you": [
-          332,
-          334
-        ],
-        "feel": [
-          333
-        ],
-        "should": [
-          335
+          103
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1970514128",
@@ -3313,7 +2839,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3397,10 +2923,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -3576,13 +3100,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.9948,
+      "fwci": 2.9697,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 65,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90161527,
+        "value": 0.90061747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3946,8 +3470,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -4049,7 +3573,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4183,13 +3707,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.4278,
+      "fwci": 0.4242,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 61,
+      "cited_by_count": 62,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.51042584,
+        "value": 0.50543958,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4497,8 +4021,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -4568,7 +4092,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2019,
@@ -4603,7 +4127,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4838,13 +4362,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6818,
+      "fwci": 1.6711,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 51,
+      "cited_by_count": 52,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82031466,
+        "value": 0.81865857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5156,10 +4680,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -5646,7 +5176,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2014,
@@ -5657,7 +5187,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -5741,10 +5271,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -6032,13 +5560,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.6105,
+      "fwci": 2.6062,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 43,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8936049,
+        "value": 0.89317761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6383,8 +5911,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -6534,7 +6062,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6596,10 +6124,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -6732,13 +6258,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3086,
+      "fwci": 2.2842,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84432718,
+        "value": 0.84210526,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6962,8 +6488,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -7598,7 +7124,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -8062,8 +7588,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -8296,13 +7822,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8469,
+      "fwci": 1.8273,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 35,
+      "cited_by_count": 37,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76781003,
+        "value": 0.76578947,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8532,8 +8058,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -8704,7 +8230,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2023,
@@ -8724,6 +8250,10 @@
         },
         {
           "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
           "cited_by_count": 1
         },
         {
@@ -8747,7 +8277,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9213,8 +8743,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -9813,13 +9343,13 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 0.7309,
+      "fwci": 0.7285,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 23,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60969849,
+        "value": 0.60859288,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10097,8 +9627,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -10199,7 +9729,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-18T13:11:19.462570",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-01-26T00:00:00"
     },
     {
@@ -10329,10 +9859,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -10484,13 +10012,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.1421,
+      "fwci": 1.1402,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7232588,
+        "value": 0.72297394,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10847,8 +10375,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1973948464.pdf",
@@ -10952,7 +10480,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11036,10 +10564,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11247,18 +10773,18 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.3052,
+      "fwci": 1.3031,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75473579,
+        "value": 0.75402364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 97
       },
       "biblio": {
@@ -11529,8 +11055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2043876474.pdf",
@@ -11646,7 +11172,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11767,10 +11293,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11848,13 +11372,13 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.8772,
+      "fwci": 1.8642,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 36,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85454051,
+        "value": 0.85345296,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12148,8 +11672,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
@@ -12163,8 +11687,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -12238,7 +11762,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12607,8 +12131,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -13701,8 +13225,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -14175,10 +13699,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14284,8 +13806,7 @@
             "display_name": "Mark Williams",
             "orcid": "https://orcid.org/0000-0002-7987-6069",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7987-6069",
-              "https://orcid.org/0000-0001-5161-3219"
+              "https://orcid.org/0000-0002-7987-6069"
             ]
           },
           "institutions": [],
@@ -14579,8 +14100,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15388,7 +14909,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15641,10 +15162,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -15801,13 +15320,13 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 0.2924,
+      "fwci": 0.2914,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43434764,
+        "value": 0.43298109,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16244,8 +15763,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2233849553.pdf",
@@ -16382,7 +15901,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -16449,10 +15968,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -16576,13 +16093,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3239,
+      "fwci": 5.338,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87002653,
+        "value": 0.87037037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16826,8 +16343,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17547,7 +17064,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17650,10 +17167,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -17979,8 +17494,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18265,7 +17780,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -18778,8 +18293,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -19326,8 +18841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -19737,8 +19252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20197,8 +19712,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20575,8 +20090,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20822,10 +20337,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -21249,8 +20762,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2263524228.pdf"
@@ -21744,7 +21257,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2263524228",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21903,10 +21416,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -22242,8 +21753,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22263,7 +21774,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2548034072",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-11-11T00:00:00"
     },
     {
@@ -22422,10 +21933,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -22758,8 +22267,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22778,7 +22287,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2561168856",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-01-06T00:00:00"
     },
     {
@@ -23224,8 +22733,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23620,8 +23129,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23829,8 +23338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

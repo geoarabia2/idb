@@ -718,13 +718,13 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 1.2783,
+      "fwci": 1.2735,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 38,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78997057,
+        "value": 0.78918728,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1091,7 +1091,7 @@
         {
           "id": "pmh:oai:doaj.org/article:5a913c462132460cb3d22fdcefc9a7e5",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/5a913c462132460cb3d22fdcefc9a7e5",
           "pdf_url": null,
           "source": {
@@ -1109,8 +1109,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -1167,8 +1167,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2400592313.pdf",
@@ -1590,7 +1590,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1904,13 +1904,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 4.2356,
+      "fwci": 4.5806,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 51,
+      "cited_by_count": 53,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92553984,
+        "value": 0.93466729,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2256,8 +2256,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -2356,7 +2356,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2016,
@@ -2376,10 +2376,10 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2457,7 +2457,7 @@
         "is_oa": true,
         "oa_status": "diamond",
         "oa_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
-        "any_repository_has_fulltext": true
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -2685,13 +2685,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6331,
+      "fwci": 1.6311,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 45,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79936198,
+        "value": 0.7992941,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2919,7 +2919,7 @@
         {
           "id": "pmh:oai:doaj.org/article:ae022d36839b44cda2fb009e3bed1274",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/ae022d36839b44cda2fb009e3bed1274",
           "pdf_url": null,
           "source": {
@@ -2937,8 +2937,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -3026,8 +3026,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W176213037.pdf",
@@ -3091,7 +3091,6 @@
       "related_works": [
         "https://openalex.org/W2057705754",
         "https://openalex.org/W34660398",
-        "https://openalex.org/W6903870726",
         "https://openalex.org/W2000484930",
         "https://openalex.org/W3021616832",
         "https://openalex.org/W7000784726",
@@ -3496,7 +3495,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4071,8 +4070,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -4961,8 +4960,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1966461395.pdf",
@@ -5295,13 +5294,13 @@
         "currency": "USD",
         "value_usd": 3390
       },
-      "fwci": 0.8287,
+      "fwci": 0.8171,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67974244,
+        "value": 0.67692481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5393,32 +5392,32 @@
         {
           "id": "https://openalex.org/keywords/oily-wastewater-treatment",
           "display_name": "oily wastewater treatment",
-          "score": 0.8180000185966492
+          "score": 0.8169999718666077
         },
         {
           "id": "https://openalex.org/keywords/olive-mill-wastewater",
           "display_name": "olive mill wastewater",
-          "score": 0.8930000066757202
+          "score": 0.8730000257492065
         },
         {
           "id": "https://openalex.org/keywords/lubricating-oil",
           "display_name": "lubricating oil",
-          "score": 0.8690000176429749
+          "score": 0.8769999742507935
         },
         {
           "id": "https://openalex.org/keywords/motor-oil",
           "display_name": "engine oil",
-          "score": 0.9909999966621399
+          "score": 0.9919999837875366
         },
         {
           "id": "https://openalex.org/keywords/fired-clay-bricks",
           "display_name": "ceramic bricks",
-          "score": 0.9259999990463257
+          "score": 0.9340000152587891
         },
         {
           "id": "https://openalex.org/keywords/kaolinite",
           "display_name": "kaolinite",
-          "score": 0.8920000195503235
+          "score": 0.9269999861717224
         },
         {
           "id": "https://openalex.org/keywords/smectite",
@@ -5428,42 +5427,42 @@
         {
           "id": "https://openalex.org/keywords/filtration",
           "display_name": "filtration",
-          "score": 0.36899998784065247
+          "score": 0.3659999966621399
         },
         {
           "id": "https://openalex.org/keywords/compressive-strength",
           "display_name": "compressive strength",
-          "score": 0.7160000205039978
+          "score": 0.7080000042915344
         },
         {
           "id": "https://openalex.org/keywords/porosity",
           "display_name": "porosity",
-          "score": 0.6890000104904175
+          "score": 0.7229999899864197
         },
         {
           "id": "https://openalex.org/keywords/water-uptake",
           "display_name": "water absorption",
-          "score": 0.8560000061988831
+          "score": 0.8140000104904175
         },
         {
           "id": "https://openalex.org/keywords/thermal-conductivity",
           "display_name": "thermal conductivity",
-          "score": 0.9020000100135803
+          "score": 0.8690000176429749
         },
         {
           "id": "https://openalex.org/keywords/sintering-microstructure",
           "display_name": "sintering microstructure",
-          "score": 0.7369999885559082
+          "score": 0.7440000176429749
         },
         {
           "id": "https://openalex.org/keywords/circular-economy",
           "display_name": "circular economy",
-          "score": 0.7960000038146973
+          "score": 0.7730000019073486
         },
         {
           "id": "https://openalex.org/keywords/building-materials",
           "display_name": "building materials",
-          "score": 0.6100000143051147
+          "score": 0.6430000066757202
         }
       ],
       "concepts": [
@@ -5609,18 +5608,18 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 1
+          "score": 1,
+          "display_name": "Responsible consumption and production"
         },
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         },
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4943999946117401
+          "score": 0.4943999946117401,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
@@ -5648,8 +5647,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4403532362.pdf",
@@ -6284,7 +6283,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-10-19T00:00:00"
     },
     {
@@ -6757,8 +6756,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -6785,868 +6784,437 @@
       ],
       "abstract_inverted_index": {
         "150": [
-          23,
-          218
+          25
         ],
-        "Dans": [
+        "In": [
           0
         ],
-        "le": [
+        "the": [
           1,
-          9,
-          134,
-          146,
+          10,
+          68,
+          76,
+          81,
+          85,
+          120,
+          124,
+          131,
+          135,
+          143,
+          148,
+          154,
+          160,
+          164,
           169,
-          173
+          172,
+          177
         ],
-        "djebel": [
-          2,
-          190
+        "Jebel": [
+          2
         ],
         "Bou": [
           3,
-          191,
-          196,
-          371
+          178
         ],
         "Kornine": [
           4,
-          197,
-          372
-        ],
-        "d’Hammam": [
-          5
-        ],
-        "Lif": [
-          6,
-          200
-        ],
-        "(Tunisie": [
-          7
-        ],
-        "septentrionale),": [
-          8
-        ],
-        "passage": [
-          10
-        ],
-        "du": [
-          11,
-          189
-        ],
-        "Lias": [
-          12,
-          206
-        ],
-        "au": [
-          13,
-          16
-        ],
-        "Dogger": [
-          14,
-          208
-        ],
-        "s’effectue": [
-          15
-        ],
-        "sein": [
-          17
-        ],
-        "d’une": [
-          18,
-          137
-        ],
-        "épaisse": [
-          19
-        ],
-        "formation": [
-          20,
-          26,
-          214,
-          318
-        ],
-        "carbonatée": [
-          21
-        ],
-        "(environ": [
-          22
-        ],
-        "m),": [
-          24
-        ],
-        "la": [
-          25,
-          58,
-          73,
-          77,
-          92,
-          97,
-          152,
-          159,
-          164,
-          177,
-          182
-        ],
-        "Kef": [
-          27
-        ],
-        "El": [
-          28,
-          222
-        ],
-        "Orma.": [
-          29
-        ],
-        "Son": [
-          30
-        ],
-        "âge": [
-          31
-        ],
-        "Toarcien": [
-          32,
-          68,
-          135,
-          174
-        ],
-        "supérieur,": [
-          33,
-          136,
-          175
-        ],
-        "zone": [
-          34,
-          40,
-          78
-        ],
-        "à": [
-          35,
-          37,
-          41,
-          79,
-          82,
-          94,
-          96,
-          99,
-          102,
-          158
-        ],
-        "Aalensis,": [
-          36
-        ],
-        "Bajocien": [
-          38
-        ],
-        "inférieur,": [
-          39,
-          90
-        ],
-        "Propinquans,": [
-          42
-        ],
-        "a": [
-          43,
-          212,
-          296,
-          300,
-          309
-        ],
-        "pu": [
-          44
-        ],
-        "être": [
-          45
-        ],
-        "bien": [
-          46
-        ],
-        "établi": [
-          47
-        ],
-        "par": [
-          48,
-          126,
-          176
-        ],
-        "les": [
-          49
-        ],
-        "ammonites.": [
-          50
-        ],
-        "Quatre": [
-          51
-        ],
-        "assises": [
-          52
-        ],
-        "conglomératiques": [
-          53,
-          188
-        ],
-        "successives": [
-          54
-        ],
-        "sont": [
-          55
-        ],
-        "repérées": [
-          56
-        ],
-        "pour": [
-          57
-        ],
-        "première": [
-          59
-        ],
-        "fois": [
-          60
-        ],
-        "dans": [
-          61,
-          72,
-          88,
-          181
-        ],
-        "cette": [
-          62
-        ],
-        "formation.": [
-          63,
-          253
-        ],
-        "Les": [
-          64,
-          84
-        ],
-        "deux": [
-          65,
-          85,
-          142,
-          157
-        ],
-        "premières,": [
-          66
-        ],
-        "d’âge": [
-          67
-        ],
-        "terminal,": [
-          69
-        ],
-        "se": [
-          70
-        ],
-        "placent": [
-          71
-        ],
-        "partie": [
-          74
-        ],
-        "supérieure": [
-          75
-        ],
-        "de": [
-          76,
-          91,
-          163
-        ],
-        "Aalensis": [
-          80
-        ],
-        "(sous-zone": [
-          81
-        ],
-        "Lugdunensis).": [
-          83
-        ],
-        "dernières": [
-          86
-        ],
-        "s’échelonnent": [
-          87
-        ],
-        "l’Aalénien": [
-          89
-        ],
-        "sous-zone": [
-          93,
-          98
-        ],
-        "Opalinum": [
-          95,
-          275
-        ],
-        "Comptum": [
-          100,
-          283
-        ],
-        "(zone": [
-          101
-        ],
-        "Opalinum).": [
-          103
-        ],
-        "Ces": [
-          104
-        ],
-        "dépôts": [
-          105
-        ],
-        "associant": [
-          106
-        ],
-        "des": [
-          107,
-          111,
-          127,
-          186
-        ],
-        "conglomérats": [
-          108
-        ],
-        "carbonatés": [
-          109
-        ],
-        "et": [
-          110,
-          114,
-          151
-        ],
-        "calcarénites": [
-          112
-        ],
-        "laminées": [
-          113
-        ],
-        "«": [
-          115,
-          147
-        ],
-        "slumpées": [
-          116
-        ],
-        "»,": [
-          117
-        ],
-        "résultent": [
-          118
-        ],
-        "d’un": [
-          119
-        ],
-        "écoulement": [
-          120
-        ],
-        "gravitaire": [
-          121
-        ],
-        "sur": [
-          122,
-          168
-        ],
-        "une": [
-          123
-        ],
-        "paléopente": [
-          124
-        ],
-        "induite": [
-          125
-        ],
-        "paléofailles": [
-          128
-        ],
-        "en": [
-          129,
-          184
-        ],
-        "extension.": [
-          130
-        ],
-        "Ils": [
-          131
-        ],
-        "témoignent": [
-          132
-        ],
-        "dès": [
-          133,
-          172
-        ],
-        "instabilité": [
-          138
-        ],
-        "tectonique": [
-          139,
-          178
-        ],
-        "jouant": [
-          140
-        ],
-        "entre": [
-          141
-        ],
-        "unités": [
-          143
-        ],
-        "paléostructurales": [
-          144
-        ],
-        "distinctes,": [
-          145
-        ],
-        "Sillon": [
-          148
-        ],
-        "tunisien": [
-          149
-        ],
-        "»": [
-          150
-        ],
-        "Dorsale": [
-          153
-        ],
-        "tunisienne,": [
-          154
-        ],
-        "appartenant": [
-          155
-        ],
-        "tous": [
-          156
-        ],
-        "marge": [
-          160
-        ],
-        "passive": [
-          161,
-          338
-        ],
-        "maghrébine": [
-          162
-        ],
-        "Téthys.": [
-          165
-        ],
-        "Nous": [
-          166
-        ],
-        "insistons": [
-          167
-        ],
-        "rôle": [
-          170
-        ],
-        "joué,": [
-          171
-        ],
-        "distensive": [
           179
         ],
-        "polyphasée": [
-          180
-        ],
-        "mise": [
-          183
-        ],
-        "place": [
-          185
-        ],
-        "niveaux": [
-          187
-        ],
-        "Kornine.": [
-          192
-        ],
-        "In": [
-          193
-        ],
-        "the": [
-          194,
-          203,
-          261,
-          269,
-          274,
-          278,
-          313,
-          317,
-          324,
-          328,
-          336,
-          341,
-          347,
-          353,
-          357,
-          362,
-          365,
-          370
-        ],
-        "Jebel": [
-          195
-        ],
         "of": [
-          198,
-          277,
-          319,
-          340,
-          364,
-          369
+          5,
+          84,
+          126,
+          147,
+          171,
+          176
         ],
         "Hammam": [
-          199
+          6
+        ],
+        "Lif": [
+          7
         ],
         "(northern": [
-          201
+          8
         ],
         "Tunisia),": [
-          202
+          9
         ],
         "transition": [
-          204
+          11
         ],
         "between": [
-          205
+          12
+        ],
+        "Lias": [
+          13
         ],
         "and": [
-          207,
-          282,
-          327
+          14,
+          89,
+          134
+        ],
+        "Dogger": [
+          15
         ],
         "is": [
-          209,
-          216
+          16,
+          23
         ],
         "located": [
-          210
+          17
         ],
         "in": [
-          211,
-          251,
-          260,
-          273
+          18,
+          58,
+          67,
+          80
+        ],
+        "a": [
+          19,
+          103,
+          107,
+          116
         ],
         "carbonate": [
-          213
+          20
+        ],
+        "formation": [
+          21,
+          125
         ],
         "that": [
-          215
+          22
         ],
         "approximately": [
-          217
+          24
         ],
         "m": [
-          219
+          26
         ],
         "thick": [
-          220
+          27
         ],
         "(Kef": [
-          221
+          28
+        ],
+        "El": [
+          29
         ],
         "Orma": [
-          223
+          30
         ],
         "Formation).": [
-          224
+          31
         ],
         "Based": [
-          225
+          32
         ],
         "on": [
-          226,
-          299,
-          346,
-          361
+          33,
+          106,
+          153,
+          168
         ],
         "ammonite": [
-          227
+          34
         ],
         "faunas,": [
-          228
+          35
         ],
         "its": [
-          229
+          36
         ],
         "age": [
-          230
+          37
         ],
         "can": [
-          231
+          38
         ],
         "be": [
-          232
+          39
         ],
         "determined": [
-          233
+          40
         ],
         "as": [
-          234,
-          350,
-          352
+          41,
+          157,
+          159
         ],
         "Upper": [
-          235,
-          314,
-          354
+          42,
+          121,
+          161
         ],
         "Toarcian": [
-          236,
-          263
+          43,
+          70
         ],
         "(Aalensis": [
-          237,
-          264
+          44,
+          71
         ],
         "Zone)": [
-          238
+          45
         ],
         "up": [
-          239
+          46
         ],
         "to": [
-          240,
-          308,
-          335
+          47,
+          115,
+          142
         ],
         "Lower": [
-          241,
-          279
+          48,
+          86
         ],
         "Bajocian": [
-          242
+          49
         ],
         "(Propinquans": [
-          243
+          50
         ],
         "Zone).": [
-          244
+          51
         ],
         "Four": [
-          245
+          52
         ],
         "successive": [
-          246
+          53
         ],
         "conglomeratic": [
-          247,
-          367
+          54,
+          174
         ],
         "units": [
-          248,
-          368
+          55,
+          175
         ],
         "are": [
-          249,
-          258,
-          272
+          56,
+          65,
+          79
         ],
         "recognized": [
-          250
+          57
         ],
         "this": [
-          252
+          59
+        ],
+        "formation.": [
+          60
         ],
         "The": [
-          254
+          61
         ],
         "two": [
-          255,
-          271,
-          320
+          62,
+          78,
+          127
         ],
         "earlier": [
-          256
+          63
         ],
         "ones": [
-          257
+          64
         ],
         "situated": [
-          259
+          66
         ],
         "Uppermost": [
-          262
+          69
         ],
         "Zone,": [
-          265
+          72
         ],
         "Lugdunensis": [
-          266
+          73
         ],
         "Subzone),": [
-          267
+          74
         ],
         "while": [
-          268
+          75
         ],
         "later": [
-          270
+          77
+        ],
+        "Opalinum": [
+          82
         ],
         "Zone": [
-          276
+          83
         ],
         "Aalenian": [
-          280
+          87
         ],
         "(Opalinum": [
-          281
+          88
+        ],
+        "Comptum": [
+          90
         ],
         "Subzones).": [
-          284
+          91
         ],
         "These": [
-          285
+          92
         ],
         "deposits,": [
-          286
+          93
         ],
         "which": [
-          287
+          94
         ],
         "associate": [
-          288
+          95
         ],
         "carbonate-bearing": [
-          289
+          96
         ],
         "conglomerates": [
-          290
+          97
         ],
         "with": [
-          291
+          98
         ],
         "laminated/slumped": [
-          292
+          99
         ],
         "calcarenites,": [
-          293
+          100
         ],
         "result": [
-          294
+          101
         ],
         "from": [
-          295
+          102
         ],
         "gravitational": [
-          297
+          104
         ],
         "flow": [
-          298
+          105
         ],
         "palaeoslope": [
-          301
+          108
         ],
         "induced": [
-          302
+          109
         ],
         "by": [
-          303,
-          356
+          110,
+          163
         ],
         "extensive": [
-          304
+          111
         ],
         "palaeofaults.": [
-          305
+          112
         ],
         "They": [
-          306
+          113
         ],
         "testify": [
-          307
+          114
         ],
         "tectonic": [
-          310
+          117
         ],
         "instability": [
-          311
+          118
         ],
         "during": [
-          312
+          119
         ],
         "Toarcian,": [
-          315,
-          355
+          122,
+          162
         ],
         "causing": [
-          316
+          123
         ],
         "distinct": [
-          321
+          128
         ],
         "palaeostructural": [
-          322
+          129
         ],
         "units:": [
-          323
+          130
         ],
         "‘Tunisian": [
-          325,
-          329
+          132,
+          136
         ],
         "trough’": [
-          326
+          133
         ],
         "ridge’": [
-          330
+          137
         ],
         "carbonated": [
-          331
+          138
         ],
         "platform,": [
-          332
+          139
         ],
         "both": [
-          333
+          140
         ],
         "belonging": [
-          334
+          141
         ],
         "Maghrebian": [
-          337
+          144
+        ],
+        "passive": [
+          145
         ],
         "margin": [
-          339
+          146
         ],
         "Tethys.": [
-          342
+          149
         ],
         "We": [
-          343
+          150
         ],
         "must": [
-          344
+          151
         ],
         "insist": [
-          345
+          152
         ],
         "part": [
-          348
+          155
         ],
         "played,": [
-          349
+          156
         ],
         "soon": [
-          351
+          158
         ],
         "polyphased": [
-          358
+          165
         ],
         "tilted-blocks": [
-          359
+          166
         ],
         "tectonics": [
-          360
+          167
         ],
         "deposition": [
-          363
+          170
         ],
         "different": [
-          366
+          173
         ],
         "Jebel.": [
-          373
+          180
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2174189874",
@@ -7700,7 +7268,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8209,8 +7777,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -9014,8 +8582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9487,7 +9055,7 @@
           "countries": [
             "TN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Lassaâd Ben Aissa",
           "raw_affiliation_strings": [
@@ -9628,7 +9196,6 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
-        "https://openalex.org/A5022326152",
         "https://openalex.org/A5028508336"
       ],
       "corresponding_institution_ids": [
@@ -9640,13 +9207,13 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.2767,
+      "fwci": 0.2734,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44492912,
+        "value": 0.43907227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9952,8 +9519,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -10039,7 +9606,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-04-07T00:00:00"
     },
     {
@@ -10407,8 +9974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11341,8 +10908,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -11844,13 +11411,13 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.4615,
+      "fwci": 0.4556,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4423756,
+        "value": 0.43846401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12217,10 +11784,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320319409",
+          "display_name": "University of Carthage",
+          "ror": "https://ror.org/057x6za15"
+        },
+        {
+          "id": "https://openalex.org/F4320324489",
+          "display_name": "Istanbul Teknik Üniversitesi",
+          "ror": "https://ror.org/059636586"
+        }
+      ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385952766.pdf",
@@ -12915,7 +12493,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-08-18T00:00:00"
     },
     {
@@ -13411,8 +12989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14089,8 +13667,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14836,8 +14414,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3140554541.pdf",
@@ -15839,8 +15417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -16547,8 +16125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386418130.pdf",
@@ -16763,7 +16341,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Wiem Ben Aissa",
           "raw_affiliation_strings": [
@@ -16861,9 +16439,7 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5028508336"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I100532134",
         "https://openalex.org/I179097149",
@@ -17297,8 +16873,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -17324,7 +16900,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4415692890",
       "counts_by_year": [],
-      "updated_date": "2026-11-15T12:55:33.944570",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-10-30T00:00:00"
     },
     {
@@ -18029,8 +17605,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7124470295.pdf",
@@ -19245,16 +18821,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.7811999917030334
+          "score": 0.7811999917030334,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -19885,8 +19461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20380,8 +19956,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

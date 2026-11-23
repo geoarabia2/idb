@@ -569,13 +569,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 9.5989,
+      "fwci": 9.8051,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 170,
+      "cited_by_count": 171,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98816618,
+        "value": 0.98859283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -865,6 +865,16 @@
       "awards": [],
       "funders": [
         {
+          "id": "https://openalex.org/F4320307899",
+          "display_name": "ConocoPhillips",
+          "ror": "https://ror.org/04hadnb81"
+        },
+        {
+          "id": "https://openalex.org/F4320308825",
+          "display_name": "Areva",
+          "ror": "https://ror.org/04eb8df09"
+        },
+        {
           "id": "https://openalex.org/F4320320298",
           "display_name": "University of Leeds",
           "ror": "https://ror.org/024mrxd33"
@@ -873,6 +883,11 @@
           "id": "https://openalex.org/F4320324706",
           "display_name": "Saudi Aramco",
           "ror": "https://ror.org/03ypap427"
+        },
+        {
+          "id": "https://openalex.org/F4320330039",
+          "display_name": "Tullow Oil",
+          "ror": "https://ror.org/00aqh0734"
         }
       ],
       "has_content": {
@@ -1052,7 +1067,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2017,
@@ -1067,7 +1082,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1829,19 +1844,12 @@
           "contributor_roles": [],
           "raw_author_name": "Abdulwahab Muhammad Bello",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -1877,19 +1885,12 @@
           "contributor_roles": [],
           "raw_author_name": "Abduljamiu Amao",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -1926,9 +1927,7 @@
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-0543-9026",
           "affiliations": [
@@ -1939,19 +1938,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -1987,19 +1974,12 @@
           "contributor_roles": [],
           "raw_author_name": "Murtada Al-Hashem",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -2033,19 +2013,12 @@
           "contributor_roles": [],
           "raw_author_name": "Houssin Albarri",
           "raw_affiliation_strings": [
-            "Saudi Aramco, 31311, Dhahran, Saudi Arabia",
-            "Saudi Aramco, Dhahran, Saudi Arabia"
+            "Saudi Aramco, 31311, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco, 31311, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
@@ -2081,19 +2054,12 @@
           "contributor_roles": [],
           "raw_author_name": "Mohammed Al-Masrahy",
           "raw_affiliation_strings": [
-            "Saudi Aramco, 31311, Dhahran, Saudi Arabia",
-            "Saudi Aramco, Dhahran, Saudi Arabia"
+            "Saudi Aramco, 31311, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco, 31311, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
@@ -2130,9 +2096,7 @@
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -2143,19 +2107,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -2191,19 +2143,12 @@
           "contributor_roles": [],
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -2229,13 +2174,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.1955,
+      "fwci": 2.1734,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86264373,
+        "value": 0.86128457,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2532,6 +2477,11 @@
       ],
       "funders": [
         {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        },
+        {
           "id": "https://openalex.org/F4320336956",
           "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
           "ror": null
@@ -2637,7 +2587,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-01-03T00:00:00"
     },
     {
@@ -4213,13 +4163,13 @@
         "currency": "USD",
         "value_usd": 4250
       },
-      "fwci": 3.0434,
+      "fwci": 3.0055,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90320575,
+        "value": 0.90202371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4316,52 +4266,62 @@
         {
           "id": "https://openalex.org/keywords/cheshire-basin",
           "display_name": "Cheshire Basin",
-          "score": 0.8479999899864197
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/triassic",
+          "display_name": "Triassic",
+          "score": 0.6759999990463257
         },
         {
           "id": "https://openalex.org/keywords/aeolian-dunes",
           "display_name": "aeolian dunes",
-          "score": 0.6520000100135803
+          "score": 0.7369999885559082
         },
         {
           "id": "https://openalex.org/keywords/water-table",
           "display_name": "water table",
-          "score": 0.5170000195503235
+          "score": 0.45100000500679016
         },
         {
           "id": "https://openalex.org/keywords/interdune-deposits",
           "display_name": "interdune deposits",
-          "score": 0.7979999780654907
+          "score": 0.8399999737739563
         },
         {
           "id": "https://openalex.org/keywords/fluvial-deposits",
           "display_name": "fluvial deposits",
-          "score": 0.6510000228881836
+          "score": 0.6520000100135803
         },
         {
           "id": "https://openalex.org/keywords/rift-basins",
           "display_name": "rift basins",
-          "score": 0.5460000038146973
+          "score": 0.6179999709129333
         },
         {
           "id": "https://openalex.org/keywords/end-permian-mass-extinction",
           "display_name": "end-Permian mass extinction",
-          "score": 0.7870000004768372
+          "score": 0.8389999866485596
         },
         {
           "id": "https://openalex.org/keywords/monsoon-climate",
           "display_name": "monsoon climate",
-          "score": 0.8029999732971191
+          "score": 0.843999981880188
         },
         {
           "id": "https://openalex.org/keywords/sedimentary-architecture",
           "display_name": "sedimentary architecture",
-          "score": 0.6629999876022339
+          "score": 0.753000020980835
         },
         {
           "id": "https://openalex.org/keywords/facies-model",
           "display_name": "facies model",
-          "score": 0.4449999928474426
+          "score": 0.5329999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment-heterogeneity",
+          "display_name": "sediment heterogeneity",
+          "score": 0.628000020980835
         }
       ],
       "concepts": [
@@ -4583,6 +4543,11 @@
           "ror": "https://ror.org/04hadnb81"
         },
         {
+          "id": "https://openalex.org/F4320308825",
+          "display_name": "Areva",
+          "ror": "https://ror.org/04eb8df09"
+        },
+        {
           "id": "https://openalex.org/F4320316864",
           "display_name": "Occidental Petroleum",
           "ror": "https://ror.org/036wrr275"
@@ -4596,6 +4561,11 @@
           "id": "https://openalex.org/F4320317044",
           "display_name": "Aker BP",
           "ror": "https://ror.org/05g9srn20"
+        },
+        {
+          "id": "https://openalex.org/F4320320298",
+          "display_name": "University of Leeds",
+          "ror": "https://ror.org/024mrxd33"
         },
         {
           "id": "https://openalex.org/F4320322143",
@@ -5535,7 +5505,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-03-13T00:00:00"
     },
     {
@@ -5735,13 +5705,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2462,
+      "fwci": 6.151,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95191788,
+        "value": 0.94978402,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5836,39 +5806,44 @@
           "score": 0.9909999966621399
         },
         {
+          "id": "https://openalex.org/keywords/permo-carboniferous",
+          "display_name": "Permo-Carboniferous",
+          "score": 0.8619999885559082
+        },
+        {
           "id": "https://openalex.org/keywords/paleogeography",
           "display_name": "paleogeography",
-          "score": 0.7519999742507935
+          "score": 0.8379999995231628
         },
         {
           "id": "https://openalex.org/keywords/sedimentary-tectonics",
           "display_name": "sedimentary tectonics",
-          "score": 0.6579999923706055
+          "score": 0.6610000133514404
         },
         {
           "id": "https://openalex.org/keywords/lacustrine-facies",
           "display_name": "lacustrine facies",
-          "score": 0.9169999957084656
+          "score": 0.9039999842643738
         },
         {
           "id": "https://openalex.org/keywords/oil-reservoirs",
           "display_name": "hydrocarbon reservoirs",
-          "score": 0.734000027179718
+          "score": 0.7360000014305115
         },
         {
           "id": "https://openalex.org/keywords/depositional-systems",
           "display_name": "depositional systems",
-          "score": 0.6959999799728394
+          "score": 0.7250000238418579
         },
         {
-          "id": "https://openalex.org/keywords/paleotopography",
-          "display_name": "paleotopography",
-          "score": 0.7319999933242798
+          "id": "https://openalex.org/keywords/paleoflow",
+          "display_name": "paleoflow",
+          "score": 0.6010000109672546
         },
         {
           "id": "https://openalex.org/keywords/saudi-arabia",
           "display_name": "Saudi Arabia",
-          "score": 0.4020000100135803
+          "score": 0.4090000092983246
         }
       ],
       "concepts": [
@@ -6775,7 +6750,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -6891,15 +6866,15 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7856,
+      "fwci": 4.5237,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86991279,
+        "value": 0.94694767,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 86,
@@ -8090,14 +8065,18 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
         },
         {
           "year": 2020,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-01-23T00:00:00"
     },
     {
@@ -8399,13 +8378,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2984,
+      "fwci": 0.4441,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42872767,
+        "value": 0.4958098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9658,9 +9637,13 @@
         {
           "year": 2023,
           "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-08-16T00:00:00"
     },
     {
@@ -13792,8 +13775,15 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
+      "referenced_works_count": 6,
+      "referenced_works": [
+        "https://openalex.org/W210066156",
+        "https://openalex.org/W1526822102",
+        "https://openalex.org/W2017537975",
+        "https://openalex.org/W2162577881",
+        "https://openalex.org/W2332377646",
+        "https://openalex.org/W3190305429"
+      ],
       "related_works": [
         "https://openalex.org/W2999406968",
         "https://openalex.org/W2078423908",
@@ -14356,7 +14346,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4312650265",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-01-05T00:00:00"
     },
     {

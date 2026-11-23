@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 01:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:33:24 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Towards universally robust oil spill detection: A systematic remote sensing review on transferability, look-alikes, and real-time deployment</title>
@@ -34,6 +34,15 @@
       <description>Authors: Michael H. Stephenson; Jiaxi Yang; Alessandro Paolo CARNITI | Venue: Review of Palaeobotany and Palynology | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.revpalbo.2026.105771 | OpenAlex: https://openalex.org/W7225831151</description>
     </item>
     <item>
+      <title>DUNE: code for a reproducible two-stage 1 km surface NO2 benchmark over the Gulf Cooperation Council</title>
+      <link>https://doi.org/10.5281/zenodo.24090322</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7225649364</guid>
+      <dc:creator>Shahadat Baser; Bassam Tawabini; Muhammad Bilal; Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Authors: Shahadat Baser; Bassam Tawabini; Muhammad Bilal; Ardiansyah Koeshidayatullah | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.24090322 | OpenAlex: https://openalex.org/W7225649364</description>
+    </item>
+    <item>
       <title>DUNE: models, predictor rasters, 1 km surface NO₂ maps and district series for the Gulf Cooperation Council</title>
       <link>https://doi.org/10.5281/zenodo.24145831</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
@@ -41,15 +50,6 @@
       <dc:creator>Shahadat Baser; Bassam Tawabini; Muhammad Bilal; Ardiansyah Koeshidayatullah</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
       <description>Authors: Shahadat Baser; Bassam Tawabini; Muhammad Bilal; Ardiansyah Koeshidayatullah | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.24145831 | OpenAlex: https://openalex.org/W7225899525</description>
-    </item>
-    <item>
-      <title>DUNE: code for a reproducible two-stage 1 km surface NO2 benchmark over the Gulf Cooperation Council</title>
-      <link>https://doi.org/10.5281/zenodo.24090322</link>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7225649364</guid>
-      <dc:creator>Shahadat Baser; Bassam Tawabini; Muhammad Bilal; Ardiansyah Koeshidayatullah</dc:creator>
-      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
-      <description>Authors: Shahadat Baser; Bassam Tawabini; Muhammad Bilal; Ardiansyah Koeshidayatullah | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.24090322 | OpenAlex: https://openalex.org/W7225649364</description>
     </item>
     <item>
       <title>Geochronology and geochemistry of Upper Paleozoic sandstones at Tiekelike, NW China: Implications for the tectonic evolution of the southwestern margin of the Tarim Block</title>
@@ -391,7 +391,7 @@
       <guid isPermaLink="false">https://openalex.org/W7203890155</guid>
       <dc:creator>Daffa Arrofi; Israa S. Abu‐Mahfouz</dc:creator>
       <dc:publisher>Earth-Science Reviews</dc:publisher>
-      <description>Authors: Daffa Arrofi; Israa S. Abu‐Mahfouz | Venue: Earth-Science Reviews | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.earscirev.2026.105664 | OpenAlex: https://openalex.org/W7203890155</description>
+      <description>Authors: Daffa Arrofi; Israa S. Abu‐Mahfouz | Venue: Earth-Science Reviews | Year: 2026 | Citations: 1 | DOI: https://doi.org/10.1016/j.earscirev.2026.105664 | OpenAlex: https://openalex.org/W7203890155</description>
     </item>
     <item>
       <title>Occurrence, characterization and screening-level risk assessment of polymer-confirmed microplastics in hyper-arid coastal groundwater from Al-Qatif, Saudi Arabia</title>

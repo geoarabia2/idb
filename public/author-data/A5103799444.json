@@ -1465,10 +1465,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -2052,13 +2050,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.9758,
+      "fwci": 16.9543,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 304,
-      "reviewed_by_count": 0,
+      "cited_by_count": 305,
+      "reviewed_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.99738249,
+        "value": 0.9973822,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2613,8 +2611,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2048864911.pdf",
@@ -2992,7 +2990,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 21
+          "cited_by_count": 22
         },
         {
           "year": 2017,
@@ -3019,7 +3017,7 @@
           "cited_by_count": 29
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3130,13 +3128,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1283,
+      "fwci": 3.0969,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 71,
+      "cited_by_count": 75,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89092118,
+        "value": 0.89077401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3444,10 +3442,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955893822.pdf",
@@ -4244,7 +4248,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 4
         },
         {
           "year": 2024,
@@ -4268,7 +4272,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2017,
@@ -4280,7 +4284,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2014,
@@ -4295,7 +4299,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -4378,14 +4382,36 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "John Melvin",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Box 12646, Dhahran 31311, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Box 12646, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -4395,14 +4421,36 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Ronald A. Sprague",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Box 12646, Dhahran 31311, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Box 12646, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -4412,30 +4460,54 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Christian J. Heine",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Box 12646, Dhahran 31311, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Box 12646, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2578,
+      "fwci": 4.2656,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 55,
+      "cited_by_count": 57,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93382353,
+        "value": 0.93394495,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4699,8 +4771,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4720,7 +4792,8 @@
       "abstract_inverted_index": {
         "The": [
           0,
-          32
+          32,
+          86
         ],
         "late": [
           1
@@ -4739,7 +4812,8 @@
         ],
         "is": [
           6,
-          36
+          36,
+          89
         ],
         "represented": [
           7
@@ -4760,7 +4834,8 @@
           67,
           70,
           80,
-          83
+          83,
+          98
         ],
         "subsurface": [
           10
@@ -4812,11 +4887,13 @@
         ],
         "overlying": [
           29,
-          55
+          55,
+          97
         ],
         "Unayzah": [
           30,
-          44
+          44,
+          87
         ],
         "Formation.": [
           31,
@@ -4841,7 +4918,8 @@
           41
         ],
         "Formation": [
-          45
+          45,
+          88
         ],
         "as": [
           46,
@@ -4921,6 +4999,30 @@
         ],
         "Ocean.": [
           85
+        ],
+        "subdivided": [
+          90
+        ],
+        "into": [
+          91
+        ],
+        "four": [
+          92
+        ],
+        "stratigraphic": [
+          93
+        ],
+        "members.": [
+          94
+        ],
+        "Thus,": [
+          95
+        ],
+        "directly": [
+          96
+        ],
+        "Hercynian...": [
+          99
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2335960062",
@@ -4959,7 +5061,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2017,
@@ -4971,7 +5073,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2014,
@@ -4986,7 +5088,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5070,10 +5172,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5361,13 +5461,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.6105,
+      "fwci": 2.6062,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 43,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8936049,
+        "value": 0.89317761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5712,8 +5812,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -5863,7 +5963,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5997,13 +6097,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 4.3207,
+      "fwci": 4.3063,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 36,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93293983,
+        "value": 0.93268837,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6246,10 +6346,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -6355,7 +6461,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6827,8 +6933,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -7411,8 +7517,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -8071,6 +8177,1074 @@
       "created_date": "2018-06-13T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2922140448",
+      "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
+      "title": "Saudi Aramco Permian-Carboniferous (Unayzah) stratigraphic nomenclature of Saudi Arabia",
+      "display_name": "Saudi Aramco Permian-Carboniferous (Unayzah) stratigraphic nomenclature of Saudi Arabia",
+      "alternate_titles": [],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2922140448",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
+        "mag": "2922140448"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609-pdb.246.295",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.246.295",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306511248",
+          "display_name": "GEO 2008",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4404685331",
+          "host_organization_name": "EAGE Publications bv",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404685331"
+          ],
+          "host_organization_lineage_names": [
+            "EAGE Publications bv"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GEO 2008",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2922140448"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5079226320",
+            "display_name": "Roger J. Price",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Roger J. Price",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013096023",
+            "display_name": "A. Kent Norton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "A. Kent Norton",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103799444",
+            "display_name": "John Melvin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "John Melvin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Christian J. Heine",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Christian J. Heine",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027634361",
+            "display_name": "John Filatoff",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "John Filatoff",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5051190082",
+            "display_name": "Ronald A. Sprague",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Ronald A. Sprague and Sa’id Al-Hajri",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.7728999853134155,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.7728999853134155,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.1615000069141388,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.047200001776218414,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-nomenclature",
+          "display_name": "stratigraphic nomenclature",
+          "score": 0.8989999890327454
+        },
+        {
+          "id": "https://openalex.org/keywords/non-associated-gas",
+          "display_name": "non-associated gas",
+          "score": 0.7789999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.8619999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.7210000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/siliciclastics",
+          "display_name": "siliciclastics",
+          "score": 0.8050000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.7459999918937683
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.9374335408210754
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8483830690383911
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.7836018800735474
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7684441804885864
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.7216207981109619
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.6234265565872192
+        },
+        {
+          "id": "https://openalex.org/C112959462",
+          "wikidata": "https://www.wikidata.org/wiki/Q1434465",
+          "display_name": "Fluvial",
+          "level": 3,
+          "score": 0.5944158434867859
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.564651370048523
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.5466738939285278
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.503025233745575
+        },
+        {
+          "id": "https://openalex.org/C2781311116",
+          "wikidata": "https://www.wikidata.org/wiki/Q83306",
+          "display_name": "Group (periodic table)",
+          "level": 2,
+          "score": 0.4222482442855835
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.23149847984313965
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.07375398278236389
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609-pdb.246.295",
+          "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.246.295",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306511248",
+            "display_name": "GEO 2008",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4404685331",
+            "host_organization_name": "EAGE Publications bv",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404685331"
+            ],
+            "host_organization_lineage_names": [
+              "EAGE Publications bv"
+            ],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GEO 2008",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2053493272",
+        "https://openalex.org/W2071064541",
+        "https://openalex.org/W1499803425",
+        "https://openalex.org/W2022210751",
+        "https://openalex.org/W7217357401",
+        "https://openalex.org/W3022654826",
+        "https://openalex.org/W7167924677",
+        "https://openalex.org/W2562655431",
+        "https://openalex.org/W156455234",
+        "https://openalex.org/W3023840164"
+      ],
+      "abstract_inverted_index": {
+        "Saudi": [
+          0,
+          93
+        ],
+        "Aramco": [
+          1
+        ],
+        "is": [
+          2,
+          73,
+          108,
+          133,
+          156,
+          189
+        ],
+        "pursuing": [
+          3
+        ],
+        "an": [
+          4
+        ],
+        "aggressive": [
+          5
+        ],
+        "non-associated": [
+          6
+        ],
+        "gas": [
+          7
+        ],
+        "exploration": [
+          8
+        ],
+        "and": [
+          9,
+          31,
+          38,
+          95,
+          117,
+          149,
+          172,
+          197,
+          224
+        ],
+        "development": [
+          10
+        ],
+        "program": [
+          11
+        ],
+        "of": [
+          12,
+          25,
+          34,
+          43,
+          67,
+          79
+        ],
+        "Permian-": [
+          13
+        ],
+        "Carboniferous": [
+          14
+        ],
+        "sandstone": [
+          15
+        ],
+        "reservoirs.": [
+          16
+        ],
+        "This": [
+          17,
+          131
+        ],
+        "has": [
+          18
+        ],
+        "resulted": [
+          19
+        ],
+        "in": [
+          20,
+          53,
+          124
+        ],
+        "a": [
+          21,
+          77,
+          83
+        ],
+        "considerably": [
+          22
+        ],
+        "increased": [
+          23
+        ],
+        "understanding": [
+          24
+        ],
+        "the": [
+          26,
+          56,
+          65,
+          102,
+          114,
+          119,
+          136,
+          145,
+          160,
+          168,
+          173,
+          182,
+          192,
+          198,
+          204,
+          228,
+          235,
+          242
+        ],
+        "depositional": [
+          27
+        ],
+        "facies,": [
+          28
+        ],
+        "systems": [
+          29
+        ],
+        "tracts,": [
+          30
+        ],
+        "stratal": [
+          32
+        ],
+        "architecture": [
+          33
+        ],
+        "these": [
+          35
+        ],
+        "biostratigraphically": [
+          36
+        ],
+        "lean": [
+          37
+        ],
+        "lithologically": [
+          39
+        ],
+        "heterogeneous": [
+          40
+        ],
+        "siliciclastics,": [
+          41
+        ],
+        "typical": [
+          42
+        ],
+        "continental": [
+          44
+        ],
+        "successions.": [
+          45
+        ],
+        "Various": [
+          46
+        ],
+        "nomenclatures,": [
+          47
+        ],
+        "which": [
+          48,
+          75
+        ],
+        "include": [
+          49
+        ],
+        "numerous": [
+          50
+        ],
+        "inconsistencies,": [
+          51
+        ],
+        "are": [
+          52,
+          213
+        ],
+        "use": [
+          54
+        ],
+        "throughout": [
+          55
+        ],
+        "industry": [
+          57
+        ],
+        "with": [
+          58
+        ],
+        "no": [
+          59
+        ],
+        "clear": [
+          60
+        ],
+        "standards": [
+          61
+        ],
+        "that": [
+          62
+        ],
+        "adhere": [
+          63
+        ],
+        "to": [
+          64,
+          128,
+          138,
+          162,
+          175
+        ],
+        "rules": [
+          66
+        ],
+        "stratigraphic": [
+          68,
+          71,
+          85,
+          211
+        ],
+        "nomenclature.": [
+          69
+        ],
+        "A": [
+          70,
+          206
+        ],
+        "nomenclature": [
+          72
+        ],
+        "proposed,": [
+          74
+        ],
+        "defines": [
+          76
+        ],
+        "number": [
+          78
+        ],
+        "discrete": [
+          80
+        ],
+        "units": [
+          81,
+          98,
+          212
+        ],
+        "within": [
+          82
+        ],
+        "sequence": [
+          84
+        ],
+        "framework.": [
+          86
+        ],
+        "These": [
+          87,
+          208
+        ],
+        "sequences": [
+          88
+        ],
+        "can": [
+          89
+        ],
+        "be": [
+          90
+        ],
+        "mapped": [
+          91
+        ],
+        "across": [
+          92
+        ],
+        "Arabia": [
+          94
+        ],
+        "into": [
+          96,
+          135,
+          159,
+          191
+        ],
+        "correlative": [
+          97
+        ],
+        "defined": [
+          99,
+          109,
+          210
+        ],
+        "elsewhere": [
+          100
+        ],
+        "on": [
+          101
+        ],
+        "Arabian": [
+          103
+        ],
+        "Plate.": [
+          104
+        ],
+        "The": [
+          105,
+          153,
+          186
+        ],
+        "Unayzah": [
+          106,
+          169,
+          183,
+          205
+        ],
+        "Group": [
+          107
+        ],
+        "as": [
+          110
+        ],
+        "those": [
+          111
+        ],
+        "rocks": [
+          112,
+          240
+        ],
+        "above": [
+          113,
+          227
+        ],
+        "Hercynian": [
+          115
+        ],
+        "unconformity": [
+          116,
+          230
+        ],
+        "below": [
+          118
+        ],
+        "pre-Khuff": [
+          120,
+          229
+        ],
+        "unconformity.": [
+          121
+        ],
+        "They": [
+          122
+        ],
+        "range": [
+          123
+        ],
+        "age": [
+          125
+        ],
+        "from": [
+          126,
+          215
+        ],
+        "mid-Carboniferous": [
+          127
+        ],
+        "Early": [
+          129,
+          176
+        ],
+        "Permian.": [
+          130
+        ],
+        "group": [
+          132
+        ],
+        "subdivided": [
+          134,
+          158,
+          190
+        ],
+        "glacio-fluvial": [
+          137
+        ],
+        "glacio-": [
+          139
+        ],
+        "lacustrine": [
+          140
+        ],
+        "Juwayl": [
+          141,
+          154
+        ],
+        "Formation,": [
+          142
+        ],
+        "overlain": [
+          143
+        ],
+        "by": [
+          144,
+          218
+        ],
+        "postglacial": [
+          146
+        ],
+        "(fluvial,": [
+          147
+        ],
+        "playa": [
+          148
+        ],
+        "eolian)": [
+          150
+        ],
+        "Nuayyim": [
+          151,
+          187
+        ],
+        "Formation.": [
+          152
+        ],
+        "Formation": [
+          155,
+          188
+        ],
+        "further": [
+          157
+        ],
+        "Serpukhovian?": [
+          161
+        ],
+        "Asselian": [
+          163,
+          174
+        ],
+        "Ghazal": [
+          164
+        ],
+        "Member": [
+          165,
+          179,
+          196,
+          201
+        ],
+        "(which": [
+          166,
+          180,
+          202
+        ],
+        "includes": [
+          167,
+          181,
+          203
+        ],
+        "C": [
+          170
+        ],
+        "Reservoir)": [
+          171
+        ],
+        "Sakmarian": [
+          177,
+          194
+        ],
+        "Jawb": [
+          178
+        ],
+        "B": [
+          184
+        ],
+        "Reservoir).": [
+          185,
+          207
+        ],
+        "Late": [
+          193
+        ],
+        "Wudayhi": [
+          195
+        ],
+        "Artinskian": [
+          199
+        ],
+        "Tinat": [
+          200
+        ],
+        "newly": [
+          209
+        ],
+        "separated": [
+          214
+        ],
+        "each": [
+          216
+        ],
+        "other": [
+          217
+        ],
+        "unconformities": [
+          219
+        ],
+        "(sensu": [
+          220
+        ],
+        "lato).": [
+          221
+        ],
+        "Middle": [
+          222
+        ],
+        "Permian": [
+          223
+        ],
+        "younger": [
+          225
+        ],
+        "siliciclastics": [
+          226
+        ],
+        "retain": [
+          231
+        ],
+        "their": [
+          232
+        ],
+        "original": [
+          233
+        ],
+        "name,": [
+          234
+        ],
+        "Basal": [
+          236
+        ],
+        "Khuff": [
+          237,
+          243
+        ],
+        "Clastics.": [
+          238
+        ],
+        "Those": [
+          239
+        ],
+        "contain": [
+          241
+        ],
+        "Clastics": [
+          244
+        ],
+        "Reservoir.": [
+          245
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2922140448",
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-22T12:46:00.618207",
+      "created_date": "2019-03-22T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1494618508",
       "doi": "https://doi.org/10.2113/geoarabia180197",
       "title": "Advances in Arabian stratigraphy: Comparative studies of glaciogenic Juwayl and lower Unayzah strata (Carboniferous – Permian) of Saudi Arabia",
@@ -8178,13 +9352,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9207,
+      "fwci": 1.9152,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82301542,
+        "value": 0.8224145,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8536,10 +9710,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -9850,7 +11030,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9955,13 +11135,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1394,
+      "fwci": 2.046,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82380114,
+        "value": 0.81598595,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10238,8 +11418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -12127,8 +13307,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 149,
@@ -12716,8 +13896,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -13611,1070 +14791,6 @@
       "created_date": "2018-03-29T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2922140448",
-      "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
-      "title": "Saudi Aramco Permian-Carboniferous (Unayzah) stratigraphic nomenclature of Saudi Arabia",
-      "display_name": "Saudi Aramco Permian-Carboniferous (Unayzah) stratigraphic nomenclature of Saudi Arabia",
-      "alternate_titles": [],
-      "publication_year": 2008,
-      "publication_date": "2008-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2922140448",
-        "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
-        "mag": "2922140448"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609-pdb.246.295",
-        "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.246.295",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306511248",
-          "display_name": "GEO 2008",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4404685331",
-          "host_organization_name": "EAGE Publications bv",
-          "host_organization_lineage": [
-            "https://openalex.org/P4404685331"
-          ],
-          "host_organization_lineage_names": [
-            "EAGE Publications bv"
-          ],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GEO 2008",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2922140448"
-      ],
-      "child_works_count": 0,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5079226320",
-            "display_name": "Roger J. Price",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Roger J. Price",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013096023",
-            "display_name": "A. Kent Norton",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "A. Kent Norton",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103799444",
-            "display_name": "John Melvin",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "John Melvin",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Christian J. Heine",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Christian J. Heine",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027634361",
-            "display_name": "John Filatoff",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "John Filatoff",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5051190082",
-            "display_name": "Ronald A. Sprague",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Ronald A. Sprague and Sa’id Al-Hajri",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 11,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 97
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.7728999853134155,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.7728999853134155,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.1615000069141388,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.047200001776218414,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-nomenclature",
-          "display_name": "stratigraphic nomenclature",
-          "score": 0.8989999890327454
-        },
-        {
-          "id": "https://openalex.org/keywords/non-associated-gas",
-          "display_name": "non-associated gas",
-          "score": 0.7789999842643738
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "sequence stratigraphy",
-          "score": 0.8619999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "unconformity",
-          "score": 0.7210000157356262
-        },
-        {
-          "id": "https://openalex.org/keywords/siliciclastics",
-          "display_name": "siliciclastics",
-          "score": 0.8050000071525574
-        },
-        {
-          "id": "https://openalex.org/keywords/saudi-arabia",
-          "display_name": "Saudi Arabia",
-          "score": 0.7459999918937683
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C191735495",
-          "wikidata": "https://www.wikidata.org/wiki/Q876798",
-          "display_name": "Unconformity",
-          "level": 3,
-          "score": 0.9374335408210754
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8483830690383911
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.7836018800735474
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7684441804885864
-        },
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.7216207981109619
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.6234265565872192
-        },
-        {
-          "id": "https://openalex.org/C112959462",
-          "wikidata": "https://www.wikidata.org/wiki/Q1434465",
-          "display_name": "Fluvial",
-          "level": 3,
-          "score": 0.5944158434867859
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.564651370048523
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.5466738939285278
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.503025233745575
-        },
-        {
-          "id": "https://openalex.org/C2781311116",
-          "wikidata": "https://www.wikidata.org/wiki/Q83306",
-          "display_name": "Group (periodic table)",
-          "level": 2,
-          "score": 0.4222482442855835
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.23149847984313965
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.07375398278236389
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609-pdb.246.295",
-          "doi": "https://doi.org/10.3997/2214-4609-pdb.246.295",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.246.295",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306511248",
-            "display_name": "GEO 2008",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4404685331",
-            "host_organization_name": "EAGE Publications bv",
-            "host_organization_lineage": [
-              "https://openalex.org/P4404685331"
-            ],
-            "host_organization_lineage_names": [
-              "EAGE Publications bv"
-            ],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GEO 2008",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2053493272",
-        "https://openalex.org/W2071064541",
-        "https://openalex.org/W1499803425",
-        "https://openalex.org/W2022210751",
-        "https://openalex.org/W7217357401",
-        "https://openalex.org/W3022654826",
-        "https://openalex.org/W7167924677",
-        "https://openalex.org/W2562655431",
-        "https://openalex.org/W156455234",
-        "https://openalex.org/W3023840164"
-      ],
-      "abstract_inverted_index": {
-        "Saudi": [
-          0,
-          93
-        ],
-        "Aramco": [
-          1
-        ],
-        "is": [
-          2,
-          73,
-          108,
-          133,
-          156,
-          189
-        ],
-        "pursuing": [
-          3
-        ],
-        "an": [
-          4
-        ],
-        "aggressive": [
-          5
-        ],
-        "non-associated": [
-          6
-        ],
-        "gas": [
-          7
-        ],
-        "exploration": [
-          8
-        ],
-        "and": [
-          9,
-          31,
-          38,
-          95,
-          117,
-          149,
-          172,
-          197,
-          224
-        ],
-        "development": [
-          10
-        ],
-        "program": [
-          11
-        ],
-        "of": [
-          12,
-          25,
-          34,
-          43,
-          67,
-          79
-        ],
-        "Permian-": [
-          13
-        ],
-        "Carboniferous": [
-          14
-        ],
-        "sandstone": [
-          15
-        ],
-        "reservoirs.": [
-          16
-        ],
-        "This": [
-          17,
-          131
-        ],
-        "has": [
-          18
-        ],
-        "resulted": [
-          19
-        ],
-        "in": [
-          20,
-          53,
-          124
-        ],
-        "a": [
-          21,
-          77,
-          83
-        ],
-        "considerably": [
-          22
-        ],
-        "increased": [
-          23
-        ],
-        "understanding": [
-          24
-        ],
-        "the": [
-          26,
-          56,
-          65,
-          102,
-          114,
-          119,
-          136,
-          145,
-          160,
-          168,
-          173,
-          182,
-          192,
-          198,
-          204,
-          228,
-          235,
-          242
-        ],
-        "depositional": [
-          27
-        ],
-        "facies,": [
-          28
-        ],
-        "systems": [
-          29
-        ],
-        "tracts,": [
-          30
-        ],
-        "stratal": [
-          32
-        ],
-        "architecture": [
-          33
-        ],
-        "these": [
-          35
-        ],
-        "biostratigraphically": [
-          36
-        ],
-        "lean": [
-          37
-        ],
-        "lithologically": [
-          39
-        ],
-        "heterogeneous": [
-          40
-        ],
-        "siliciclastics,": [
-          41
-        ],
-        "typical": [
-          42
-        ],
-        "continental": [
-          44
-        ],
-        "successions.": [
-          45
-        ],
-        "Various": [
-          46
-        ],
-        "nomenclatures,": [
-          47
-        ],
-        "which": [
-          48,
-          75
-        ],
-        "include": [
-          49
-        ],
-        "numerous": [
-          50
-        ],
-        "inconsistencies,": [
-          51
-        ],
-        "are": [
-          52,
-          213
-        ],
-        "use": [
-          54
-        ],
-        "throughout": [
-          55
-        ],
-        "industry": [
-          57
-        ],
-        "with": [
-          58
-        ],
-        "no": [
-          59
-        ],
-        "clear": [
-          60
-        ],
-        "standards": [
-          61
-        ],
-        "that": [
-          62
-        ],
-        "adhere": [
-          63
-        ],
-        "to": [
-          64,
-          128,
-          138,
-          162,
-          175
-        ],
-        "rules": [
-          66
-        ],
-        "stratigraphic": [
-          68,
-          71,
-          85,
-          211
-        ],
-        "nomenclature.": [
-          69
-        ],
-        "A": [
-          70,
-          206
-        ],
-        "nomenclature": [
-          72
-        ],
-        "proposed,": [
-          74
-        ],
-        "defines": [
-          76
-        ],
-        "number": [
-          78
-        ],
-        "discrete": [
-          80
-        ],
-        "units": [
-          81,
-          98,
-          212
-        ],
-        "within": [
-          82
-        ],
-        "sequence": [
-          84
-        ],
-        "framework.": [
-          86
-        ],
-        "These": [
-          87,
-          208
-        ],
-        "sequences": [
-          88
-        ],
-        "can": [
-          89
-        ],
-        "be": [
-          90
-        ],
-        "mapped": [
-          91
-        ],
-        "across": [
-          92
-        ],
-        "Arabia": [
-          94
-        ],
-        "into": [
-          96,
-          135,
-          159,
-          191
-        ],
-        "correlative": [
-          97
-        ],
-        "defined": [
-          99,
-          109,
-          210
-        ],
-        "elsewhere": [
-          100
-        ],
-        "on": [
-          101
-        ],
-        "Arabian": [
-          103
-        ],
-        "Plate.": [
-          104
-        ],
-        "The": [
-          105,
-          153,
-          186
-        ],
-        "Unayzah": [
-          106,
-          169,
-          183,
-          205
-        ],
-        "Group": [
-          107
-        ],
-        "as": [
-          110
-        ],
-        "those": [
-          111
-        ],
-        "rocks": [
-          112,
-          240
-        ],
-        "above": [
-          113,
-          227
-        ],
-        "Hercynian": [
-          115
-        ],
-        "unconformity": [
-          116,
-          230
-        ],
-        "below": [
-          118
-        ],
-        "pre-Khuff": [
-          120,
-          229
-        ],
-        "unconformity.": [
-          121
-        ],
-        "They": [
-          122
-        ],
-        "range": [
-          123
-        ],
-        "age": [
-          125
-        ],
-        "from": [
-          126,
-          215
-        ],
-        "mid-Carboniferous": [
-          127
-        ],
-        "Early": [
-          129,
-          176
-        ],
-        "Permian.": [
-          130
-        ],
-        "group": [
-          132
-        ],
-        "subdivided": [
-          134,
-          158,
-          190
-        ],
-        "glacio-fluvial": [
-          137
-        ],
-        "glacio-": [
-          139
-        ],
-        "lacustrine": [
-          140
-        ],
-        "Juwayl": [
-          141,
-          154
-        ],
-        "Formation,": [
-          142
-        ],
-        "overlain": [
-          143
-        ],
-        "by": [
-          144,
-          218
-        ],
-        "postglacial": [
-          146
-        ],
-        "(fluvial,": [
-          147
-        ],
-        "playa": [
-          148
-        ],
-        "eolian)": [
-          150
-        ],
-        "Nuayyim": [
-          151,
-          187
-        ],
-        "Formation.": [
-          152
-        ],
-        "Formation": [
-          155,
-          188
-        ],
-        "further": [
-          157
-        ],
-        "Serpukhovian?": [
-          161
-        ],
-        "Asselian": [
-          163,
-          174
-        ],
-        "Ghazal": [
-          164
-        ],
-        "Member": [
-          165,
-          179,
-          196,
-          201
-        ],
-        "(which": [
-          166,
-          180,
-          202
-        ],
-        "includes": [
-          167,
-          181,
-          203
-        ],
-        "C": [
-          170
-        ],
-        "Reservoir)": [
-          171
-        ],
-        "Sakmarian": [
-          177,
-          194
-        ],
-        "Jawb": [
-          178
-        ],
-        "B": [
-          184
-        ],
-        "Reservoir).": [
-          185,
-          207
-        ],
-        "Late": [
-          193
-        ],
-        "Wudayhi": [
-          195
-        ],
-        "Artinskian": [
-          199
-        ],
-        "Tinat": [
-          200
-        ],
-        "newly": [
-          209
-        ],
-        "separated": [
-          214
-        ],
-        "each": [
-          216
-        ],
-        "other": [
-          217
-        ],
-        "unconformities": [
-          219
-        ],
-        "(sensu": [
-          220
-        ],
-        "lato).": [
-          221
-        ],
-        "Middle": [
-          222
-        ],
-        "Permian": [
-          223
-        ],
-        "younger": [
-          225
-        ],
-        "siliciclastics": [
-          226
-        ],
-        "retain": [
-          231
-        ],
-        "their": [
-          232
-        ],
-        "original": [
-          233
-        ],
-        "name,": [
-          234
-        ],
-        "Basal": [
-          236
-        ],
-        "Khuff": [
-          237,
-          243
-        ],
-        "Clastics.": [
-          238
-        ],
-        "Those": [
-          239
-        ],
-        "contain": [
-          241
-        ],
-        "Clastics": [
-          244
-        ],
-        "Reservoir.": [
-          245
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2922140448",
-      "counts_by_year": [
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2019-03-22T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3095044980",
       "doi": "https://doi.org/10.1306/m37435c19",
       "title": "Lithofacies, Diagenesis and Porosity of the Ivishak Formation, Prudhoe Bay Area, Alaska",
@@ -15056,8 +15172,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15917,8 +16033,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16558,13 +16674,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0589,
+      "fwci": 1.0571,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 17,
+      "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75046538,
+        "value": 0.74974407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16864,10 +16980,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3022763138.pdf",
@@ -18022,6 +18144,10 @@
           "cited_by_count": 2
         },
         {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
           "year": 2014,
           "cited_by_count": 1
         },
@@ -18034,7 +18160,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -18687,8 +18813,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -20456,8 +20582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 129,
@@ -21923,8 +22049,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -22459,8 +22585,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23470,8 +23596,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24088,8 +24214,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -24927,8 +25053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -26019,8 +26145,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -26506,8 +26632,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27417,8 +27543,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28445,8 +28571,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -29466,8 +29592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29880,8 +30006,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30227,8 +30353,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30596,8 +30722,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31416,8 +31542,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31739,8 +31865,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31883,10 +32009,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": "https://orcid.org/0000-0001-6421-4559",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6421-4559"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -32190,8 +32314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32854,7 +32978,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2374158414",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -33243,8 +33367,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34383,8 +34507,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

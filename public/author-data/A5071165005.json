@@ -672,18 +672,18 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 5.4946,
+      "fwci": 5.7413,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 57,
+      "cited_by_count": 60,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97698312,
+        "value": 0.97948787,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 98,
+        "min": 99,
         "max": 100
       },
       "biblio": {
@@ -991,17 +991,23 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324219",
+          "display_name": "Total",
+          "ror": "https://ror.org/04sk34n56"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4402326942.pdf",
@@ -1083,18 +1089,18 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 30
+          "cited_by_count": 31
         },
         {
           "year": 2025,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2024,
-          "cited_by_count": 9
+          "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-09-08T00:00:00"
     },
     {
@@ -1331,13 +1337,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 19.4928,
+      "fwci": 19.5918,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 80,
+      "cited_by_count": 83,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99936568,
+        "value": 0.99936558,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1765,8 +1771,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3003329782.pdf",
@@ -2362,11 +2368,11 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2024,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2023,
@@ -2378,14 +2384,14 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2020,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-02-07T00:00:00"
     },
     {
@@ -2851,13 +2857,13 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 4.8754,
+      "fwci": 5.1783,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95515733,
+        "value": 0.95915956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3347,8 +3353,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417279471.pdf",
@@ -3449,16 +3455,12 @@
         "https://openalex.org/W4285093386"
       ],
       "abstract_inverted_index": {
-        "90": [
-          313
-        ],
         "Accurate": [
           0
         ],
         "geological": [
           1,
-          178,
-          299
+          178
         ],
         "modeling": [
           2
@@ -3476,16 +3478,13 @@
           150,
           191,
           196,
-          250,
-          277
+          250
         ],
         "reservoir": [
           6,
           45,
           56,
-          265,
-          278,
-          295
+          265
         ],
         "characterization,": [
           7
@@ -3535,11 +3534,7 @@
           207,
           210,
           233,
-          267,
-          286,
-          306,
-          323,
-          327
+          267
         ],
         "the": [
           17,
@@ -3553,8 +3548,7 @@
           215,
           239,
           242,
-          256,
-          273
+          256
         ],
         "conditioning": [
           18
@@ -3633,8 +3627,7 @@
           37
         ],
         "Pix2Pix": [
-          39,
-          275
+          39
         ],
         "architecture,": [
           40
@@ -3783,8 +3776,7 @@
         ],
         "accuracy": [
           103,
-          133,
-          292
+          133
         ],
         "(PA),": [
           104
@@ -3837,8 +3829,7 @@
         ],
         "property": [
           124,
-          212,
-          279
+          212
         ],
         "prediction": [
           125
@@ -3850,8 +3841,7 @@
           128
         ],
         "translation.": [
-          129,
-          280
+          129
         ],
         "Results": [
           130
@@ -3860,8 +3850,7 @@
           131
         ],
         "high": [
-          132,
-          291
+          132
         ],
         "facies": [
           135
@@ -3955,19 +3944,16 @@
           176
         ],
         "realism,": [
-          179,
-          300
+          179
         ],
         "as": [
           180
         ],
         "validated": [
-          181,
-          301
+          181
         ],
         "by": [
-          182,
-          302
+          182
         ],
         "variogram": [
           183
@@ -4041,8 +4027,7 @@
           223
         ],
         "future": [
-          224,
-          317
+          224
         ],
         "work": [
           225
@@ -4060,8 +4045,7 @@
           230
         ],
         "3D": [
-          231,
-          318
+          231
         ],
         "geomodeling": [
           232
@@ -4125,120 +4109,16 @@
         ],
         "initiatives.": [
           270
-        ],
-        "•": [
-          271,
-          281,
-          289,
-          297,
-          309,
-          320
-        ],
-        "Pix2Geomodel:": [
-          272
-        ],
-        "first": [
-          274
-        ],
-        "cGAN": [
-          276
-        ],
-        "Handles": [
-          282
-        ],
-        "both": [
-          283
-        ],
-        "missing-data": [
-          284
-        ],
-        "reconstruction": [
-          285
-        ],
-        "cross-property": [
-          287
-        ],
-        "prediction.": [
-          288
-        ],
-        "Achieves": [
-          290
-        ],
-        "across": [
-          293
-        ],
-        "multiple": [
-          294
-        ],
-        "properties.": [
-          296
-        ],
-        "Preserves": [
-          298
-        ],
-        "variograms,": [
-          303
-        ],
-        "error": [
-          304
-        ],
-        "metrics,": [
-          305
-        ],
-        "expert": [
-          307
-        ],
-        "reviews.": [
-          308
-        ],
-        "Scalable": [
-          310
-        ],
-        "workflow:": [
-          311
-        ],
-        "∼": [
-          312
-        ],
-        "%": [
-          314
-        ],
-        "faster,": [
-          315
-        ],
-        "enabling": [
-          316
-        ],
-        "applications.": [
-          319
-        ],
-        "Open-source": [
-          321
-        ],
-        "datasets": [
-          322
-        ],
-        "code": [
-          324
-        ],
-        "ensure": [
-          325
-        ],
-        "reproducibility": [
-          326
-        ],
-        "reuse.": [
-          328
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4417279471",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -4560,13 +4440,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2309,
+      "fwci": 3.5429,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92062922,
+        "value": 0.93165209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4658,47 +4538,47 @@
         {
           "id": "https://openalex.org/keywords/large-language-models",
           "display_name": "large language models",
-          "score": 0.9760000109672546
+          "score": 0.9729999899864197
         },
         {
           "id": "https://openalex.org/keywords/autonomous-agents",
           "display_name": "autonomous agents",
-          "score": 0.6669999957084656
+          "score": 0.6620000004768372
         },
         {
           "id": "https://openalex.org/keywords/seismic-data-processing",
           "display_name": "seismic data processing",
-          "score": 0.9779999852180481
+          "score": 0.9739999771118164
         },
         {
           "id": "https://openalex.org/keywords/generative-ai",
           "display_name": "generative AI",
-          "score": 0.746999979019165
+          "score": 0.7519999742507935
         },
         {
           "id": "https://openalex.org/keywords/workflow-automation",
           "display_name": "workflow automation",
-          "score": 0.6380000114440918
+          "score": 0.640999972820282
         },
         {
           "id": "https://openalex.org/keywords/bandpass-filtering",
           "display_name": "bandpass filtering",
-          "score": 0.8980000019073486
+          "score": 0.8920000195503235
         },
         {
           "id": "https://openalex.org/keywords/frequency-spectrum-analysis",
           "display_name": "frequency spectrum analysis",
-          "score": 0.984000027179718
+          "score": 0.9909999966621399
         },
         {
           "id": "https://openalex.org/keywords/guardrails",
           "display_name": "guardrails",
-          "score": 0.7419999837875366
+          "score": 0.7379999756813049
         },
         {
           "id": "https://openalex.org/keywords/data-security",
           "display_name": "data security",
-          "score": 0.5910000205039978
+          "score": 0.578000009059906
         }
       ],
       "concepts": [
@@ -4817,8 +4697,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -5295,14 +5175,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-02-02T00:00:00"
     },
     {
@@ -5411,19 +5291,12 @@
           "contributor_roles": [],
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
-            "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
-            "Department of Energy Science and Engineering, Stanford University, Stanford, USA"
+            "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-4321-5573",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
-              "institution_ids": [
-                "https://openalex.org/I97018004"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, Stanford, USA",
               "institution_ids": [
                 "https://openalex.org/I97018004"
               ]
@@ -5459,19 +5332,12 @@
           "contributor_roles": [],
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
-            "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
-            "Department of Energy Science and Engineering, Stanford University, Stanford, USA"
+            "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
-              "institution_ids": [
-                "https://openalex.org/I97018004"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, Stanford, USA",
               "institution_ids": [
                 "https://openalex.org/I97018004"
               ]
@@ -5495,13 +5361,13 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.269,
+      "fwci": 1.2544,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73691528,
+        "value": 0.73326713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5814,8 +5680,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -5894,7 +5760,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-09-02T00:00:00"
     },
     {
@@ -6126,18 +5992,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6459,
+      "fwci": 1.2704,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49616858,
+        "value": 0.69348659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 92
       },
       "biblio": {
@@ -6224,42 +6090,42 @@
         {
           "id": "https://openalex.org/keywords/well-placement-optimization",
           "display_name": "well placement optimization",
-          "score": 0.8640000224113464
+          "score": 0.8870000243186951
         },
         {
           "id": "https://openalex.org/keywords/partially-observable-markov-decision-processes",
           "display_name": "partially observable Markov decision processes",
-          "score": 0.8650000095367432
+          "score": 0.8479999899864197
         },
         {
           "id": "https://openalex.org/keywords/generative-adversarial-networks",
           "display_name": "generative adversarial networks",
-          "score": 0.9900000095367432
+          "score": 0.9909999966621399
         },
         {
           "id": "https://openalex.org/keywords/sequential-decision-making",
           "display_name": "sequential decision making",
-          "score": 0.8500000238418579
+          "score": 0.8510000109672546
         },
         {
           "id": "https://openalex.org/keywords/lidar-survey",
           "display_name": "LiDAR survey",
-          "score": 0.6880000233650208
+          "score": 0.6859999895095825
         },
         {
           "id": "https://openalex.org/keywords/subsurface-investigation",
           "display_name": "subsurface investigation",
-          "score": 0.5730000138282776
+          "score": 0.5440000295639038
         },
         {
           "id": "https://openalex.org/keywords/drilling-hazards",
           "display_name": "drilling hazards",
-          "score": 0.36399999260902405
+          "score": 0.37400001287460327
         },
         {
           "id": "https://openalex.org/keywords/san-salvador-island",
           "display_name": "San Salvador Island",
-          "score": 0.824999988079071
+          "score": 0.8370000123977661
         }
       ],
       "concepts": [
@@ -6345,8 +6211,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -6819,9 +6685,13 @@
         {
           "year": 2025,
           "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -7308,8 +7178,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,

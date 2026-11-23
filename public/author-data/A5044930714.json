@@ -537,7 +537,7 @@
             "DE",
             "GB"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "Huw S. Groucutt",
           "raw_affiliation_strings": [
@@ -1107,7 +1107,8 @@
               "country_code": "GB",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I20581793"
+                "https://openalex.org/I20581793",
+                "https://openalex.org/I4405292468"
               ]
             },
             {
@@ -1870,11 +1871,13 @@
       "countries_distinct_count": 9,
       "institutions_distinct_count": 21,
       "corresponding_author_ids": [
-        "https://openalex.org/A5037966215"
+        "https://openalex.org/A5037966215",
+        "https://openalex.org/A5087955542"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I103187081",
         "https://openalex.org/I1341618623",
+        "https://openalex.org/I40120149",
         "https://openalex.org/I4210161060"
       ],
       "apc_list": {
@@ -1883,13 +1886,13 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 54.0406,
+      "fwci": 53.7275,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 211,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99893292,
+        "value": 0.99893421,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2750,6 +2753,13 @@
       "study_designs": [],
       "awards": [
         {
+          "id": "https://openalex.org/G1712318707",
+          "display_name": "Developing High Resolution Electron Spin Resonance (ESR) dating of fossil teeth: contribution to the chronology of early hominid occupations in the Mediterranean area",
+          "funder_award_id": "626474",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        },
+        {
           "id": "https://openalex.org/G2553481603",
           "display_name": null,
           "funder_award_id": "262618",
@@ -2771,11 +2781,25 @@
           "funder_display_name": "FP7 Ideas: European Research Council"
         },
         {
+          "id": "https://openalex.org/G8082585462",
+          "display_name": "Development of a Novel Stone Sawing Equipment to valorise Undersized and Irregular Stone Blocks for a more rationale Use of Natural Stone Quarry Resources",
+          "funder_award_id": "262618",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        },
+        {
           "id": "https://openalex.org/G8171447520",
           "display_name": "Adaptation, Dispersals and Phenotype: understanding the roles of climate,  natural selection and energetics in shaping global hunter-gatherer adaptability.",
           "funder_award_id": "617627",
           "funder_id": "https://openalex.org/F4320338352",
           "funder_display_name": "FP7 Ideas: European Research Council"
+        },
+        {
+          "id": "https://openalex.org/G8262488330",
+          "display_name": "Sumatra’s role in ancient human movements and evolution",
+          "funder_award_id": "FT160100450",
+          "funder_id": "https://openalex.org/F4320334704",
+          "funder_display_name": "Australian Research Council"
         },
         {
           "id": "https://openalex.org/G8599712077",
@@ -2799,9 +2823,19 @@
           "ror": "https://ror.org/012mzw131"
         },
         {
+          "id": "https://openalex.org/F4320320004",
+          "display_name": "British Academy",
+          "ror": "https://ror.org/0302b4677"
+        },
+        {
           "id": "https://openalex.org/F4320320290",
           "display_name": "University of Oxford",
           "ror": "https://ror.org/052gg0110"
+        },
+        {
+          "id": "https://openalex.org/F4320320300",
+          "display_name": "European Commission",
+          "ror": "https://ror.org/00k4n6c32"
         },
         {
           "id": "https://openalex.org/F4320322434",
@@ -3079,7 +3113,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -5380,13 +5414,13 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 9.3269,
+      "fwci": 9.282,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 45,
+      "cited_by_count": 46,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97407407,
+        "value": 0.9740418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6102,7 +6136,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2024,
@@ -6137,7 +6171,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-03-16T00:00:00"
     },
     {
@@ -6440,13 +6474,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3846,
+      "fwci": 1.3576,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7785745,
+        "value": 0.77194492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6810,7 +6844,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -7333,7 +7373,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -7411,7 +7451,7 @@
         "is_oa": true,
         "oa_status": "gold",
         "oa_url": "https://jm.copernicus.org/articles/40/145/2021/jm-40-145-2021.pdf",
-        "any_repository_has_fulltext": true
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -7617,13 +7657,13 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.1396,
+      "fwci": 0.1393,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27751872,
+        "value": 0.27656868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7902,7 +7942,7 @@
         {
           "id": "pmh:oai:doaj.org/article:887e7f9ecffa4b4f9676ad441ddeea72",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/887e7f9ecffa4b4f9676ad441ddeea72",
           "pdf_url": null,
           "source": {
@@ -7920,8 +7960,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -8535,7 +8575,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-10-11T00:00:00"
     },
     {
@@ -8784,13 +8824,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5728,
+      "fwci": 2.5686,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86517209,
+        "value": 0.8651038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9154,7 +9194,18 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321662",
+          "display_name": "Agence de l'Environnement et de la Maîtrise de l'Energie",
+          "ror": "https://ror.org/05rth8x13"
+        },
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -9861,7 +9912,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12286,10 +12337,17 @@
           "contributor_roles": [],
           "raw_author_name": "Abdullah O. Bamousa",
           "raw_affiliation_strings": [
+            "Taibah University, P.O. Box 30002, Madinah, Saudi Arabia",
             "Taibah University, Madinah, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Taibah University, P.O. Box 30002, Madinah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I23075662"
+              ]
+            },
             {
               "raw_affiliation_string": "Taibah University, Madinah, Saudi Arabia",
               "institution_ids": [
@@ -12314,10 +12372,15 @@
           "contributor_roles": [],
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
             "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
               "institution_ids": []
@@ -12338,10 +12401,15 @@
           "contributor_roles": [],
           "raw_author_name": "Saleh M. Dini",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
             "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
               "institution_ids": []
@@ -12364,13 +12432,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.724,
+      "fwci": 0.7186,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74717331,
+        "value": 0.745736,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12725,7 +12793,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13296,13 +13364,13 @@
         "currency": "CHF",
         "value_usd": 1944
       },
-      "fwci": 1.1357,
+      "fwci": 1.1129,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69714098,
+        "value": 0.69228746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13638,7 +13706,15 @@
       },
       "sustainable_development_goals": [],
       "study_designs": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5638207122",
+          "display_name": null,
+          "funder_award_id": "LCEQ01",
+          "funder_id": "https://openalex.org/F4320328717",
+          "funder_display_name": "China National Nuclear Corporation"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320328717",
@@ -14219,7 +14295,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -14431,13 +14507,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9878,
+      "fwci": 1.957,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84593301,
+        "value": 0.84293278,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14818,7 +14894,7 @@
         {
           "id": "pmh:oai:doaj.org/article:736bda46d40a46f192a01f6d1b3473fc",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/736bda46d40a46f192a01f6d1b3473fc",
           "pdf_url": null,
           "source": {
@@ -14836,8 +14912,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -14924,7 +15000,18 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        },
+        {
+          "id": "https://openalex.org/F4320330232",
+          "display_name": "Sorbonne Université",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -15832,7 +15919,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-06-23T00:00:00"
     },
     {
@@ -16111,18 +16198,18 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 1.0075,
+      "fwci": 1.1987,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 5,
+      "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6590326,
+        "value": 0.70537839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 94,
         "max": 97
       },
       "biblio": {
@@ -16586,9 +16673,6 @@
         "420": [
           185
         ],
-        "800": [
-          255
-        ],
         "1000": [
           31
         ],
@@ -16613,9 +16697,7 @@
         "dissolution": [
           4,
           110,
-          235,
-          246,
-          274
+          235
         ],
         "fronts": [
           5
@@ -16628,9 +16710,7 @@
           150,
           164,
           207,
-          212,
-          260,
-          297
+          212
         ],
         "gently": [
           7
@@ -16640,9 +16720,7 @@
         ],
         "evaporite": [
           9,
-          78,
-          245,
-          291
+          78
         ],
         "formations": [
           10
@@ -16674,8 +16752,7 @@
           192,
           204,
           226,
-          237,
-          264
+          237
         ],
         "adjacent": [
           16
@@ -16711,9 +16788,7 @@
           208,
           227,
           230,
-          234,
-          248,
-          298
+          234
         ],
         "supra-evaporite": [
           23
@@ -16739,15 +16814,11 @@
         ],
         "to": [
           30,
-          218,
-          244,
-          290,
-          303
+          218
         ],
         "km": [
           32,
-          108,
-          256
+          108
         ],
         "long,": [
           33
@@ -16776,8 +16847,7 @@
           42
         ],
         "fold": [
-          43,
-          272
+          43
         ],
         "escarpments": [
           44
@@ -16793,32 +16863,26 @@
         ],
         "largest": [
           50,
-          146,
-          249
+          146
         ],
         "karst": [
           51,
           79,
-          148,
-          250
+          148
         ],
         "features": [
           52,
           80,
-          95,
-          251
+          95
         ],
         "on": [
           53,
           90,
           97,
-          138,
-          252,
-          286
+          138
         ],
         "Earth.": [
-          54,
-          253
+          54
         ],
         "Despite": [
           55
@@ -16894,8 +16958,7 @@
         ],
         "are": [
           81,
-          172,
-          247
+          172
         ],
         "rather": [
           82
@@ -16955,17 +17018,13 @@
           107
         ],
         "long": [
-          109,
-          257
+          109
         ],
         "subsidence": [
-          112,
-          258,
-          287
+          112
         ],
         "belt": [
-          113,
-          259
+          113
         ],
         "updip": [
           117
@@ -16983,8 +17042,7 @@
           123
         ],
         "Hith": [
-          125,
-          265
+          125
         ],
         "anhydrites": [
           126
@@ -16999,8 +17057,7 @@
           132
         ],
         "Saudi": [
-          133,
-          261
+          133
         ],
         "Arabia,": [
           134
@@ -17060,8 +17117,7 @@
           191
         ],
         "best": [
-          173,
-          267
+          173
         ],
         "displayed.": [
           174
@@ -17089,8 +17145,7 @@
         ],
         "by": [
           188,
-          194,
-          277
+          194
         ],
         "crestal": [
           189
@@ -17099,30 +17154,25 @@
           190
         ],
         "punctured": [
-          193,
-          276
+          193
         ],
         "giant": [
-          196,
-          278
+          196
         ],
         "caprock": [
           197
         ],
         "collapse": [
-          198,
-          279
+          198
         ],
         "sinkholes.": [
-          199,
-          280
+          199
         ],
         "increased": [
           201
         ],
         "hazard": [
-          203,
-          295
+          203
         ],
         "risk": [
           205
@@ -17131,19 +17181,14 @@
           206
         ],
         "Ar": [
-          209,
-          282,
-          299
+          209
         ],
         "Riyadh": [
-          210,
-          283,
-          300
+          210
         ],
         "area": [
           211,
-          232,
-          301
+          232
         ],
         "recent": [
           213
@@ -17182,91 +17227,24 @@
           233
         ],
         "front": [
-          236,
-          275
+          236
         ],
         "scarp.": [
           239
-        ],
-        "•": [
-          240,
-          254,
-          270,
-          281,
-          293
-        ],
-        "Subsidence": [
-          241
-        ],
-        "belts": [
-          242
-        ],
-        "related": [
-          243,
-          289,
-          302
-        ],
-        "Arabia": [
-          262
-        ],
-        "(Arab": [
-          263
-        ],
-        "anhydrites),": [
-          266
-        ],
-        "displayed": [
-          268
-        ],
-        "example.": [
-          269
-        ],
-        "Monoclinal": [
-          271
-        ],
-        "atop": [
-          273
-        ],
-        "city": [
-          284
-        ],
-        "lies": [
-          285
-        ],
-        "depression": [
-          288
-        ],
-        "dissolution.": [
-          292
-        ],
-        "Sinkhole": [
-          294
-        ],
-        "increase": [
-          296
-        ],
-        "anthropogenic": [
-          304
-        ],
-        "hydrological": [
-          305
-        ],
-        "impacts.": [
-          306
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4405807404",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-12-27T00:00:00"
     },
     {
@@ -17499,13 +17477,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8377,
+      "fwci": 1.8347,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8253868,
+        "value": 0.82516379,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17865,7 +17843,23 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321662",
+          "display_name": "Agence de l'Environnement et de la Maîtrise de l'Energie",
+          "ror": "https://ror.org/05rth8x13"
+        },
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        },
+        {
+          "id": "https://openalex.org/F4320323810",
+          "display_name": "Association Instituts Carnot",
+          "ror": "https://ror.org/0452y0518"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -18930,7 +18924,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22758,13 +22752,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6626,
+      "fwci": 0.6523,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54401914,
+        "value": 0.53826408,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23157,7 +23151,7 @@
         {
           "id": "pmh:oai:doaj.org/article:55e6ed9f507a445197b9305672301bcd",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/55e6ed9f507a445197b9305672301bcd",
           "pdf_url": null,
           "source": {
@@ -23175,8 +23169,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -23268,6 +23262,11 @@
           "id": "https://openalex.org/F4320323731",
           "display_name": "Bureau de Recherches Géologiques et Minières",
           "ror": "https://ror.org/05hnb7x64"
+        },
+        {
+          "id": "https://openalex.org/F4320330232",
+          "display_name": "Sorbonne Université",
+          "ror": null
         }
       ],
       "has_content": {
@@ -23953,7 +23952,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-07-29T00:00:00"
     },
     {
@@ -24209,7 +24208,7 @@
           "countries": [
             "EG"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "Mohamed Tawfik",
           "raw_affiliation_strings": [
@@ -24234,17 +24233,21 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5073580342"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I192398990"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.423,
+      "fwci": 0.4181,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48535108,
+        "value": 0.48103277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25145,7 +25148,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-11-01T00:00:00"
     },
     {
@@ -27796,13 +27799,13 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 1.4919,
+      "fwci": 1.4498,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7844567,
+        "value": 0.77964056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28400,7 +28403,7 @@
         {
           "id": "pmh:oai:doaj.org/article:ec9396ac490f41aa88f191ad8978269d",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/ec9396ac490f41aa88f191ad8978269d",
           "pdf_url": null,
           "source": {
@@ -28418,8 +28421,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -29075,7 +29078,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-11-20T00:00:00"
     },
     {
@@ -31864,14 +31867,37 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "John W. Whitney",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Federal Center MS 980, Denver, CO 80225"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Federal Center MS 980, Denver, CO 80225",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -31886,9 +31912,21 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Ahmed Banakar",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "SAUDI GEOLOGICAL SURVEY, JEDDAH, Saudi Arabia",
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SAUDI GEOLOGICAL SURVEY, JEDDAH, Saudi Arabia",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -31905,9 +31943,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Abdulla M. Memesh",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -31922,9 +31967,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Mir F. Karim",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Geocomp Corporation, Geotesting Express Inc., 125, Nagog Park, Acton, MA 01720"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geocomp Corporation, Geotesting Express Inc., 125, Nagog Park, Acton, MA 01720",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -31939,9 +31991,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Saleh M. Dini",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -31956,9 +32015,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Abdulraheem Sabbahi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "SAUDI GEOLOGICAL SURVEY, JEDDAH, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SAUDI GEOLOGICAL SURVEY, JEDDAH, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -31973,9 +32039,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Saeed Amoudi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -31990,9 +32063,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Abdurrahman Jeaid",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -32007,14 +32087,21 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Abdullah Nabhan",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -32200,10 +32287,746 @@
         "https://openalex.org/W2490546707",
         "https://openalex.org/W3090137343"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "3": [
+          55
+        ],
+        "4": [
+          57
+        ],
+        "Yardangs": [
+          0,
+          268
+        ],
+        "are": [
+          1,
+          14,
+          26,
+          48,
+          269,
+          286,
+          294
+        ],
+        "wind–eroded": [
+          2
+        ],
+        "landforms": [
+          3,
+          317
+        ],
+        "predominantly": [
+          4
+        ],
+        "found": [
+          5
+        ],
+        "on": [
+          6,
+          54,
+          108
+        ],
+        "desert": [
+          7
+        ],
+        "floors": [
+          8
+        ],
+        "around": [
+          9
+        ],
+        "the": [
+          10,
+          63,
+          75,
+          86,
+          100,
+          114,
+          118,
+          155,
+          179,
+          184,
+          221,
+          235,
+          244,
+          252,
+          266,
+          292,
+          301,
+          306
+        ],
+        "globe.": [
+          11
+        ],
+        "Commonly,": [
+          12
+        ],
+        "yardangs": [
+          13,
+          33,
+          47,
+          203,
+          231,
+          285
+        ],
+        "carved": [
+          15,
+          34,
+          233
+        ],
+        "into": [
+          16,
+          35
+        ],
+        "soft": [
+          17
+        ],
+        "earth": [
+          18
+        ],
+        "materials": [
+          19
+        ],
+        "such": [
+          20
+        ],
+        "as": [
+          21,
+          288
+        ],
+        "lakebeds.": [
+          22
+        ],
+        "Bedrock": [
+          23
+        ],
+        "yardangs,": [
+          24
+        ],
+        "however,": [
+          25,
+          144
+        ],
+        "relatively": [
+          27
+        ],
+        "rare.": [
+          28
+        ],
+        "A": [
+          29,
+          254
+        ],
+        "large": [
+          30
+        ],
+        "region": [
+          31
+        ],
+        "of": [
+          32,
+          99,
+          117,
+          124,
+          154,
+          172,
+          217,
+          230,
+          248,
+          256,
+          276,
+          279,
+          303
+        ],
+        "dolomite": [
+          36,
+          307
+        ],
+        "has": [
+          37,
+          69,
+          262
+        ],
+        "been": [
+          38
+        ],
+        "recently": [
+          39
+        ],
+        "located": [
+          40
+        ],
+        "in": [
+          41,
+          72,
+          85,
+          91,
+          122,
+          131,
+          136,
+          164,
+          196,
+          220,
+          239,
+          251
+        ],
+        "northern": [
+          42
+        ],
+        "Saudi": [
+          43,
+          46
+        ],
+        "Arabia.": [
+          44
+        ],
+        "The": [
+          45,
+          283
+        ],
+        "unique,": [
+          49
+        ],
+        "because": [
+          50
+        ],
+        "they": [
+          51
+        ],
+        "have": [
+          52
+        ],
+        "formed": [
+          53,
+          84
+        ],
+        "to": [
+          56,
+          74,
+          93,
+          178,
+          271
+        ],
+        "sequentially": [
+          58
+        ],
+        "higher": [
+          59
+        ],
+        "bedrock": [
+          60,
+          240,
+          314
+        ],
+        "surfaces": [
+          61
+        ],
+        "above": [
+          62
+        ],
+        "modern": [
+          64
+        ],
+        "drainage": [
+          65
+        ],
+        "floor.": [
+          66
+        ],
+        "Yardang": [
+          67
+        ],
+        "evolution": [
+          68
+        ],
+        "taken": [
+          70,
+          263
+        ],
+        "place": [
+          71,
+          112,
+          264
+        ],
+        "response": [
+          73,
+          92
+        ],
+        "following": [
+          76
+        ],
+        "proposed": [
+          77
+        ],
+        "geologic": [
+          78
+        ],
+        "history.": [
+          79
+        ],
+        "Multiple": [
+          80
+        ],
+        "parallel": [
+          81,
+          177
+        ],
+        "dendritic": [
+          82
+        ],
+        "drainages": [
+          83
+        ],
+        "Umm": [
+          87
+        ],
+        "er": [
+          88
+        ],
+        "Radhuma": [
+          89
+        ],
+        "Formation": [
+          90
+        ],
+        "mid": [
+          94,
+          165
+        ],
+        "Miocene": [
+          95
+        ],
+        "uplift": [
+          96
+        ],
+        "and": [
+          97,
+          158,
+          168,
+          175,
+          202,
+          211,
+          297,
+          318
+        ],
+        "tilt": [
+          98
+        ],
+        "Arabian": [
+          101,
+          139
+        ],
+        "Shield.": [
+          102
+        ],
+        "Surface": [
+          103
+        ],
+        "lowering": [
+          104
+        ],
+        "by": [
+          105,
+          150,
+          193,
+          206,
+          273,
+          312
+        ],
+        "karstic": [
+          106,
+          316
+        ],
+        "dissolution": [
+          107,
+          195
+        ],
+        "interstream": [
+          109
+        ],
+        "divides": [
+          110
+        ],
+        "took": [
+          111
+        ],
+        "during": [
+          113,
+          127,
+          141,
+          198,
+          209,
+          234,
+          243,
+          265
+        ],
+        "wet-to-semiarid": [
+          115
+        ],
+        "climates": [
+          116
+        ],
+        "Neogene.": [
+          119
+        ],
+        "Duricrust": [
+          120
+        ],
+        "cementation": [
+          121
+        ],
+        "scores": [
+          123
+        ],
+        "channels": [
+          125,
+          146
+        ],
+        "occurred": [
+          126
+        ],
+        "a": [
+          128,
+          170
+        ],
+        "dry": [
+          129
+        ],
+        "period(s)": [
+          130
+        ],
+        "mid-late": [
+          132
+        ],
+        "Pliocene.": [
+          133
+        ],
+        "Dissolution": [
+          134
+        ],
+        "continued": [
+          135,
+          194
+        ],
+        "sediment-filled": [
+          137
+        ],
+        "dolines,": [
+          138
+        ],
+        "khabras,": [
+          140
+        ],
+        "wetter": [
+          142
+        ],
+        "climates;": [
+          143
+        ],
+        "duricrust-filled": [
+          145
+        ],
+        "were": [
+          147,
+          204
+        ],
+        "not": [
+          148
+        ],
+        "affected": [
+          149
+        ],
+        "chemical": [
+          151,
+          226,
+          249
+        ],
+        "weathering.": [
+          152
+        ],
+        "Growth": [
+          153
+        ],
+        "An": [
+          156
+        ],
+        "Nafud": [
+          157
+        ],
+        "Ad": [
+          159
+        ],
+        "Dhana": [
+          160
+        ],
+        "sand": [
+          161,
+          174,
+          180,
+          207
+        ],
+        "seas": [
+          162
+        ],
+        "began": [
+          163
+        ],
+        "Pleistocene": [
+          166
+        ],
+        "time": [
+          167
+        ],
+        "created": [
+          169,
+          242
+        ],
+        "zone": [
+          171,
+          302
+        ],
+        "wind-blown": [
+          173
+        ],
+        "dust": [
+          176
+        ],
+        "deserts": [
+          181
+        ],
+        "that": [
+          182
+        ],
+        "supplied": [
+          183
+        ],
+        "sediment": [
+          185
+        ],
+        "necessary": [
+          186
+        ],
+        "for": [
+          187
+        ],
+        "wind": [
+          188
+        ],
+        "abrasion.": [
+          189
+        ],
+        "Local": [
+          190
+        ],
+        "relief": [
+          191
+        ],
+        "increased": [
+          192
+        ],
+        "khabras": [
+          197
+        ],
+        "wet,": [
+          199
+        ],
+        "interglacial": [
+          200
+        ],
+        "conditions,": [
+          201
+        ],
+        "eroded": [
+          205
+        ],
+        "abrasion": [
+          208
+        ],
+        "dry,": [
+          210
+        ],
+        "very": [
+          212
+        ],
+        "windy,": [
+          213
+        ],
+        "glacial": [
+          214,
+          237
+        ],
+        "conditions.": [
+          215
+        ],
+        "Return": [
+          216
+        ],
+        "wet": [
+          218
+        ],
+        "conditions": [
+          219
+        ],
+        "next": [
+          222
+        ],
+        "climate": [
+          223
+        ],
+        "cycle": [
+          224
+        ],
+        "renewed": [
+          225
+        ],
+        "degradation.": [
+          227
+        ],
+        "Another": [
+          228
+        ],
+        "generation": [
+          229
+        ],
+        "was": [
+          232
+        ],
+        "subsequent": [
+          236
+        ],
+        "episode": [
+          238,
+          247
+        ],
+        "ledges": [
+          241
+        ],
+        "most": [
+          245
+        ],
+        "recent": [
+          246
+        ],
+        "erosion": [
+          250
+        ],
+        "khabras.": [
+          253
+        ],
+        "minimum": [
+          255
+        ],
+        "three,": [
+          257
+        ],
+        "possibly": [
+          258
+        ],
+        "four,": [
+          259
+        ],
+        "khabra-yardang": [
+          260
+        ],
+        "cycles": [
+          261
+        ],
+        "Quaternary.": [
+          267
+        ],
+        "subject": [
+          270
+        ],
+        "degradation": [
+          272
+        ],
+        "slow": [
+          274
+        ],
+        "weathering": [
+          275
+        ],
+        "thin": [
+          277
+        ],
+        "units": [
+          278
+        ],
+        "interbedded": [
+          280
+        ],
+        "chalky": [
+          281
+        ],
+        "dolostones.": [
+          282
+        ],
+        "oldest": [
+          284
+        ],
+        "preserved": [
+          287
+        ],
+        "rounded": [
+          289
+        ],
+        "domes,": [
+          290
+        ],
+        "while": [
+          291
+        ],
+        "youngest": [
+          293
+        ],
+        "low,": [
+          295
+        ],
+        "flat": [
+          296
+        ],
+        "sharp": [
+          298
+        ],
+        "landforms.": [
+          299
+        ],
+        "Beyond": [
+          300
+        ],
+        "blowing": [
+          304
+        ],
+        "sand,": [
+          305
+        ],
+        "landscape": [
+          308
+        ],
+        "is": [
+          309
+        ],
+        "characterized": [
+          310
+        ],
+        "primarily": [
+          311
+        ],
+        "exposed": [
+          313
+        ],
+        "with": [
+          315
+        ],
+        "duricrust": [
+          319
+        ],
+        "surfaces.": [
+          320
+        ]
+      },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2533465336",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -32305,12 +33128,12 @@
           "contributor_roles": [],
           "raw_author_name": "Abdulla M. Memesh",
           "raw_affiliation_strings": [
-            "Saudi Geological Survey"
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Geological Survey",
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
               "institution_ids": []
             }
           ]
@@ -32328,9 +33151,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Abdullah I. Nabhan",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -32345,9 +33175,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Saleh M. Dini",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, PO Box 54141, Jeddah, 2151, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         }
       ],
       "institutions": [],
@@ -32585,10 +33422,575 @@
         "https://openalex.org/W650514499",
         "https://openalex.org/W3014098635"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Lithostratigraphic": [
+          0
+        ],
+        "field": [
+          1
+        ],
+        "investigations": [
+          2
+        ],
+        "and": [
+          3,
+          25,
+          69,
+          77,
+          93,
+          118,
+          127,
+          150,
+          188,
+          225,
+          254
+        ],
+        "interpretations": [
+          4
+        ],
+        "of": [
+          5,
+          13,
+          40,
+          45,
+          142,
+          146,
+          176,
+          183,
+          213,
+          236
+        ],
+        "the": [
+          6,
+          14,
+          32,
+          46,
+          61,
+          134,
+          143,
+          147,
+          152,
+          169,
+          173,
+          177,
+          192,
+          230,
+          248,
+          258
+        ],
+        "Middle": [
+          7,
+          47,
+          153,
+          259
+        ],
+        "Cambrian": [
+          8,
+          48,
+          136,
+          154,
+          260
+        ],
+        "sedimentary": [
+          9
+        ],
+        "rock": [
+          10
+        ],
+        "units,": [
+          11
+        ],
+        "southern": [
+          12
+        ],
+        "Tabuk": [
+          15
+        ],
+        "basin": [
+          16
+        ],
+        "northwestern": [
+          17,
+          82
+        ],
+        "Saudi": [
+          18,
+          83,
+          186
+        ],
+        "Arabia,": [
+          19
+        ],
+        "provide": [
+          20
+        ],
+        "insights": [
+          21,
+          246
+        ],
+        "into": [
+          22,
+          247
+        ],
+        "depositional": [
+          23
+        ],
+        "environments": [
+          24,
+          206
+        ],
+        "stratigraphic": [
+          26
+        ],
+        "framework": [
+          27
+        ],
+        "in": [
+          28,
+          31,
+          60,
+          71,
+          81,
+          91,
+          164,
+          185,
+          197
+        ],
+        "Paleozoic": [
+          29
+        ],
+        "succession": [
+          30
+        ],
+        "Arabian": [
+          33
+        ],
+        "platform.": [
+          34
+        ],
+        "Moreover,": [
+          35
+        ],
+        "it": [
+          36
+        ],
+        "provides": [
+          37,
+          245
+        ],
+        "new": [
+          38,
+          62,
+          249
+        ],
+        "record": [
+          39
+        ],
+        "an": [
+          41,
+          189
+        ],
+        "extensive": [
+          42
+        ],
+        "marine": [
+          43,
+          205,
+          217,
+          241,
+          252
+        ],
+        "influence": [
+          44,
+          238
+        ],
+        "transgression.": [
+          49
+        ],
+        "The": [
+          50,
+          130,
+          199,
+          211
+        ],
+        "lithologic": [
+          51
+        ],
+        "studies": [
+          52
+        ],
+        "were": [
+          53
+        ],
+        "carried": [
+          54
+        ],
+        "out": [
+          55,
+          163
+        ],
+        "on": [
+          56
+        ],
+        "four": [
+          57
+        ],
+        "measured": [
+          58
+        ],
+        "sections": [
+          59
+        ],
+        "formation,": [
+          63,
+          250
+        ],
+        "which": [
+          64
+        ],
+        "is": [
+          65
+        ],
+        "named": [
+          66
+        ],
+        "Shigri": [
+          67,
+          200
+        ],
+        "formation": [
+          68,
+          86,
+          131,
+          161,
+          201
+        ],
+        "located": [
+          70
+        ],
+        "Haqal,": [
+          72
+        ],
+        "Al": [
+          73,
+          75,
+          79,
+          156,
+          179
+        ],
+        "Bada,": [
+          74
+        ],
+        "Ula": [
+          76,
+          157
+        ],
+        "Jibal": [
+          78,
+          178
+        ],
+        "Misma": [
+          80,
+          180
+        ],
+        "Arabia.": [
+          84
+        ],
+        "This": [
+          85,
+          160,
+          243
+        ],
+        "varies": [
+          87
+        ],
+        "from": [
+          88,
+          168
+        ],
+        "25-80": [
+          89
+        ],
+        "m": [
+          90
+        ],
+        "thickness": [
+          92
+        ],
+        "contains": [
+          94
+        ],
+        "a": [
+          95,
+          165,
+          214
+        ],
+        "light": [
+          96
+        ],
+        "brown": [
+          97
+        ],
+        "bioturbated": [
+          98
+        ],
+        "medium": [
+          99
+        ],
+        "to": [
+          100,
+          112,
+          172,
+          191,
+          239
+        ],
+        "fine-grained": [
+          101
+        ],
+        "sandstone": [
+          102,
+          140,
+          158,
+          195
+        ],
+        "with": [
+          103,
+          207
+        ],
+        "vertical": [
+          104,
+          220
+        ],
+        "Skolithos": [
+          105,
+          221
+        ],
+        "trace": [
+          106,
+          222
+        ],
+        "fossils": [
+          107,
+          223
+        ],
+        "burrows": [
+          108,
+          224
+        ],
+        "that": [
+          109
+        ],
+        "are": [
+          110
+        ],
+        "horizontal": [
+          111
+        ],
+        "wavy": [
+          113
+        ],
+        "bedding,": [
+          114,
+          228
+        ],
+        "sigmoidal": [
+          115,
+          226
+        ],
+        "cross": [
+          116,
+          227
+        ],
+        "bedding": [
+          117
+        ],
+        "sandy": [
+          119,
+          231
+        ],
+        "cross-bedded": [
+          120,
+          232
+        ],
+        "conglomerate": [
+          121
+        ],
+        "capped": [
+          122
+        ],
+        "by": [
+          123
+        ],
+        "very": [
+          124
+        ],
+        "fine": [
+          125
+        ],
+        "grained": [
+          126
+        ],
+        "silty": [
+          128
+        ],
+        "sandstone.": [
+          129,
+          261
+        ],
+        "overlies": [
+          132
+        ],
+        "unconformably": [
+          133
+        ],
+        "Early": [
+          135
+        ],
+        "fluvial": [
+          137,
+          155,
+          209,
+          237
+        ],
+        "Ash": [
+          138
+        ],
+        "Shiq": [
+          139
+        ],
+        "Formation": [
+          141,
+          196
+        ],
+        "lower": [
+          144
+        ],
+        "part": [
+          145
+        ],
+        "Tayma": [
+          148
+        ],
+        "Group": [
+          149
+        ],
+        "underlying": [
+          151
+        ],
+        "Formation.": [
+          159
+        ],
+        "crops": [
+          162
+        ],
+        "curved": [
+          166
+        ],
+        "belt": [
+          167
+        ],
+        "Saudi-Jordan": [
+          170
+        ],
+        "border": [
+          171
+        ],
+        "southeastern": [
+          174
+        ],
+        "corner": [
+          175
+        ],
+        "quadrangle,": [
+          181
+        ],
+        "west": [
+          182
+        ],
+        "Hail": [
+          184
+        ],
+        "Arabia": [
+          187
+        ],
+        "equivalent": [
+          190
+        ],
+        "Abu": [
+          193
+        ],
+        "Khusheiba": [
+          194
+        ],
+        "Jordan.": [
+          198
+        ],
+        "interpreted": [
+          202
+        ],
+        "as": [
+          203
+        ],
+        "shallow": [
+          204,
+          215,
+          240
+        ],
+        "continental": [
+          208
+        ],
+        "influx.": [
+          210
+        ],
+        "evidence": [
+          212
+        ],
+        "transgression": [
+          216
+        ],
+        "origin": [
+          218
+        ],
+        "includes": [
+          219
+        ],
+        "while": [
+          229
+        ],
+        "conglomeratic": [
+          233
+        ],
+        "channels": [
+          234
+        ],
+        "indicative": [
+          235
+        ],
+        "deposits.": [
+          242
+        ],
+        "study": [
+          244
+        ],
+        "fluvial-shallow": [
+          251
+        ],
+        "sedimentation,": [
+          253
+        ],
+        "identification": [
+          255
+        ],
+        "criteria": [
+          256
+        ],
+        "for": [
+          257
+        ]
+      },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2902600113",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2018-12-11T00:00:00"
     },
     {
@@ -33036,10 +34438,761 @@
         "https://openalex.org/W2106845468",
         "https://openalex.org/W2802135592"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          127,
+          259,
+          308
+        ],
+        "Jurassic": [
+          1,
+          135,
+          238
+        ],
+        "carbonate": [
+          2
+        ],
+        "successions": [
+          3
+        ],
+        "of": [
+          4,
+          29,
+          33,
+          67,
+          98,
+          109,
+          129,
+          152,
+          164,
+          218,
+          233,
+          271,
+          288,
+          299,
+          322,
+          327
+        ],
+        "the": [
+          5,
+          49,
+          62,
+          71,
+          87,
+          95,
+          99,
+          106,
+          110,
+          120,
+          125,
+          142,
+          161,
+          165,
+          171,
+          185,
+          190,
+          193,
+          202,
+          210,
+          230,
+          236,
+          264,
+          268,
+          275,
+          282,
+          296,
+          331
+        ],
+        "Amran": [
+          6,
+          100,
+          265
+        ],
+        "Formation": [
+          7,
+          101,
+          266
+        ],
+        "exposed": [
+          8
+        ],
+        "in": [
+          9,
+          105,
+          118,
+          124,
+          223,
+          240,
+          295,
+          320
+        ],
+        "southwestern": [
+          10
+        ],
+        "Saudi": [
+          11,
+          88,
+          139,
+          314,
+          336
+        ],
+        "Arabia": [
+          12,
+          140,
+          315,
+          337
+        ],
+        "have": [
+          13,
+          113,
+          304
+        ],
+        "been": [
+          14,
+          76,
+          114,
+          318
+        ],
+        "poorly": [
+          15
+        ],
+        "studied": [
+          16,
+          77
+        ],
+        "for": [
+          17,
+          79,
+          214
+        ],
+        "their": [
+          18,
+          221
+        ],
+        "stratigraphic": [
+          19
+        ],
+        "and": [
+          20,
+          39,
+          46,
+          56,
+          64,
+          93,
+          141,
+          155,
+          178,
+          192,
+          195,
+          220,
+          255,
+          277,
+          290,
+          302
+        ],
+        "paleontological": [
+          21
+        ],
+        "value.": [
+          22
+        ],
+        "This": [
+          23,
+          144,
+          180,
+          204
+        ],
+        "unique": [
+          24
+        ],
+        "sedimentary": [
+          25
+        ],
+        "package": [
+          26
+        ],
+        "is": [
+          27,
+          132,
+          145,
+          182,
+          206,
+          278
+        ],
+        "composed": [
+          28
+        ],
+        "several": [
+          30
+        ],
+        "hundred": [
+          31
+        ],
+        "meters": [
+          32
+        ],
+        "thick,": [
+          34
+        ],
+        "dark": [
+          35,
+          172
+        ],
+        "gray": [
+          36
+        ],
+        "crystalline": [
+          37
+        ],
+        "limestone": [
+          38,
+          173,
+          187,
+          199,
+          225
+        ],
+        "dolomite,": [
+          40
+        ],
+        "occasionally": [
+          41
+        ],
+        "intercalated": [
+          42
+        ],
+        "with": [
+          43,
+          167,
+          175,
+          335,
+          338
+        ],
+        "sands,": [
+          44
+        ],
+        "silts,": [
+          45
+        ],
+        "clays": [
+          47
+        ],
+        "across": [
+          48
+        ],
+        "entire": [
+          50
+        ],
+        "succession.": [
+          51
+        ],
+        "Invertebrate": [
+          52
+        ],
+        "fossils,": [
+          53
+        ],
+        "mostly": [
+          54,
+          159
+        ],
+        "brachiopods": [
+          55
+        ],
+        "bivalves,": [
+          57
+        ],
+        "were": [
+          58
+        ],
+        "previously": [
+          59
+        ],
+        "documented": [
+          60
+        ],
+        "from": [
+          61,
+          138,
+          160,
+          263,
+          274,
+          312
+        ],
+        "lower": [
+          63
+        ],
+        "middle": [
+          65
+        ],
+        "parts": [
+          66
+        ],
+        "this": [
+          68,
+          130,
+          241
+        ],
+        "formation,": [
+          69
+        ],
+        "while": [
+          70
+        ],
+        "upper": [
+          72,
+          162
+        ],
+        "part": [
+          73,
+          163
+        ],
+        "has": [
+          74,
+          316
+        ],
+        "not": [
+          75,
+          317
+        ],
+        "thoroughly": [
+          78
+        ],
+        "its": [
+          80,
+          215
+        ],
+        "faunal": [
+          81
+        ],
+        "contents.": [
+          82
+        ],
+        "Recent": [
+          83
+        ],
+        "visits": [
+          84
+        ],
+        "made": [
+          85
+        ],
+        "by": [
+          86
+        ],
+        "Geological": [
+          89
+        ],
+        "Survey": [
+          90
+        ],
+        "to": [
+          91,
+          229,
+          281
+        ],
+        "explore": [
+          92
+        ],
+        "study": [
+          94
+        ],
+        "type": [
+          96
+        ],
+        "locality": [
+          97
+        ],
+        "along": [
+          102
+        ],
+        "Wadi": [
+          103
+        ],
+        "Khulab": [
+          104
+        ],
+        "southernmost": [
+          107
+        ],
+        "end": [
+          108
+        ],
+        "Jazan": [
+          111
+        ],
+        "Region": [
+          112
+        ],
+        "a": [
+          115,
+          133,
+          148
+        ],
+        "great": [
+          116
+        ],
+        "success": [
+          117
+        ],
+        "understanding": [
+          119
+        ],
+        "Tethyan": [
+          121
+        ],
+        "Mesozoic": [
+          122
+        ],
+        "system": [
+          123
+        ],
+        "region.": [
+          126,
+          143
+        ],
+        "result": [
+          128
+        ],
+        "endeavor": [
+          131
+        ],
+        "new": [
+          134,
+          237
+        ],
+        "fossil": [
+          136,
+          150,
+          310
+        ],
+        "assemblage": [
+          137,
+          273,
+          311
+        ],
+        "based": [
+          146
+        ],
+        "on": [
+          147,
+          170
+        ],
+        "well-preserved": [
+          149
+        ],
+        "collection": [
+          151
+        ],
+        "invertebrates,": [
+          153
+        ],
+        "vertebrates": [
+          154
+        ],
+        "plant": [
+          156
+        ],
+        "remains": [
+          157
+        ],
+        "extracted": [
+          158
+        ],
+        "formation": [
+          166
+        ],
+        "an": [
+          168
+        ],
+        "emphasis": [
+          169
+        ],
+        "interbedded": [
+          174
+        ],
+        "organic": [
+          176
+        ],
+        "shale": [
+          177
+        ],
+        "marl.": [
+          179
+        ],
+        "unit": [
+          181
+        ],
+        "sandwiched": [
+          183
+        ],
+        "between": [
+          184
+        ],
+        "echinoid": [
+          186
+        ],
+        "bed": [
+          188,
+          200
+        ],
+        "at": [
+          189,
+          201
+        ],
+        "base": [
+          191
+        ],
+        "thick": [
+          194
+        ],
+        "massive": [
+          196
+        ],
+        "fossiliferous": [
+          197
+        ],
+        "(coquinal)": [
+          198
+        ],
+        "top.": [
+          203
+        ],
+        "level": [
+          205
+        ],
+        "best": [
+          207
+        ],
+        "known": [
+          208
+        ],
+        "as": [
+          209
+        ],
+        "Shelly": [
+          211
+        ],
+        "Limestone": [
+          212
+        ],
+        "Level": [
+          213
+        ],
+        "intense": [
+          216
+        ],
+        "contents": [
+          217
+        ],
+        "bivalves": [
+          219
+        ],
+        "ichnofaunas": [
+          222
+        ],
+        "muddy": [
+          224
+        ],
+        "facies.": [
+          226
+        ],
+        "In": [
+          227
+        ],
+        "addition": [
+          228
+        ],
+        "tremendous": [
+          231
+        ],
+        "number": [
+          232
+        ],
+        "lamellibranches": [
+          234
+        ],
+        "(bivalves),": [
+          235
+        ],
+        "fauna": [
+          239,
+          261,
+          284
+        ],
+        "report": [
+          242
+        ],
+        "includes:": [
+          243
+        ],
+        "Hypodontidae": [
+          244
+        ],
+        "(sharks),": [
+          245
+        ],
+        "Actinopterygian": [
+          246
+        ],
+        "fishes": [
+          247
+        ],
+        "(Pycnodontiformes,": [
+          248
+        ],
+        "Lepisosteiformes),": [
+          249
+        ],
+        "Testudines": [
+          250
+        ],
+        "(turtles),": [
+          251
+        ],
+        "Plesiosaurides": [
+          252
+        ],
+        "(marine": [
+          253
+        ],
+        "lizards),": [
+          254
+        ],
+        "small": [
+          256
+        ],
+        "crocodilian-like": [
+          257
+        ],
+        "remains.": [
+          258
+        ],
+        "Pangean": [
+          260
+        ],
+        "collected": [
+          262
+        ],
+        "represents": [
+          267
+        ],
+        "first": [
+          269
+        ],
+        "record": [
+          270
+        ],
+        "vertebrate": [
+          272,
+          306
+        ],
+        "region": [
+          276
+        ],
+        "compared": [
+          279
+        ],
+        "favorably": [
+          280
+        ],
+        "Kimmeridgian": [
+          283
+        ],
+        "(Middle": [
+          285
+        ],
+        "Late": [
+          286
+        ],
+        "Jurassic)": [
+          287
+        ],
+        "England": [
+          289
+        ],
+        "Europe.": [
+          291
+        ],
+        "Time": [
+          292
+        ],
+        "equivalent": [
+          293
+        ],
+        "strata": [
+          294
+        ],
+        "neighboring": [
+          297
+        ],
+        "countries": [
+          298,
+          329
+        ],
+        "Yemen,": [
+          300
+        ],
+        "Ethiopia,": [
+          301
+        ],
+        "Kenya": [
+          303
+        ],
+        "different": [
+          305
+        ],
+        "faunas.": [
+          307
+        ],
+        "current": [
+          309
+        ],
+        "southern": [
+          313
+        ],
+        "recorded": [
+          319
+        ],
+        "any": [
+          321
+        ],
+        "these": [
+          323,
+          328
+        ],
+        "countries,": [
+          324
+        ],
+        "although": [
+          325
+        ],
+        "some": [
+          326
+        ],
+        "shared": [
+          330,
+          339
+        ],
+        "same": [
+          332
+        ],
+        "depositional": [
+          333
+        ],
+        "basin": [
+          334
+        ],
+        "paleogeographic": [
+          340
+        ],
+        "boards.": [
+          341
+        ]
+      },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4417217538",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-12-11T00:00:00"
     },
     {
@@ -33942,6 +36095,11 @@
           "id": "https://openalex.org/F4320322323",
           "display_name": "King Fahd University of Petroleum and Minerals",
           "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
         }
       ],
       "has_content": {
@@ -34038,7 +36196,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7132844398",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-03-01T00:00:00"
     },
     {

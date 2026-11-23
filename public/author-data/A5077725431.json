@@ -614,30 +614,73 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I22590746",
+              "display_name": "Marathon Oil (United States)",
+              "ror": "https://ror.org/04sm3yz09",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I22590746"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I98635879",
+              "display_name": "American University of Beirut",
+              "ror": "https://ror.org/04pznsd21",
+              "country_code": "LB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ],
+          "countries": [
+            "LB",
+            "US"
+          ],
           "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "American University of Beirut, Beirut, Lebanon",
+            "Marathon International Petroleum (GB) Ltd., London, U.K"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "American University of Beirut, Beirut, Lebanon",
+              "institution_ids": [
+                "https://openalex.org/I98635879"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Marathon International Petroleum (GB) Ltd., London, U.K",
+              "institution_ids": [
+                "https://openalex.org/I22590746"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5077725431"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I22590746",
+        "https://openalex.org/I98635879"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 4.4286,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 426,
-      "reviewed_by_count": 0,
+      "cited_by_count": 428,
+      "reviewed_by_count": 1,
       "citation_normalized_percentile": {
         "value": 0.93981481,
         "is_in_top_1_percent": false,
@@ -953,8 +996,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -982,7 +1025,7 @@
         ],
         "hydrocarbon": [
           2,
-          235
+          236
         ],
         "reserves": [
           3,
@@ -1001,9 +1044,9 @@
           120,
           127,
           158,
-          199,
-          261,
-          270
+          200,
+          263,
+          272
         ],
         "the": [
           5,
@@ -1018,29 +1061,29 @@
           148,
           154,
           197,
-          200,
-          204,
-          243,
-          254,
-          262
+          201,
+          205,
+          245,
+          256,
+          264
         ],
         "Arabian": [
           6,
           82,
           138,
-          246
+          248
         ],
         "plate": [
           7,
           83,
           121,
           139,
-          247
+          249
         ],
         "region": [
           8,
           52,
-          273
+          275
         ],
         "at": [
           9,
@@ -1082,13 +1125,13 @@
           103,
           177,
           187,
-          207,
-          216,
-          231,
-          253,
-          256,
-          264,
-          281
+          208,
+          217,
+          232,
+          255,
+          258,
+          266,
+          283
         ],
         "1,325.4": [
           23
@@ -1153,8 +1196,8 @@
           64,
           86,
           196,
-          203,
-          228
+          204,
+          229
         ],
         "northeast": [
           50,
@@ -1164,8 +1207,8 @@
           51,
           122,
           191,
-          248,
-          269
+          250,
+          271
         ],
         "between": [
           53
@@ -1200,23 +1243,24 @@
         ],
         "late": [
           67,
-          240
+          242
         ],
         "Paleozoic": [
           68,
-          241
+          243
         ],
         "to": [
           69,
           117,
           132,
-          239
+          241
         ],
         "early": [
           70
         ],
         "Neogene.": [
-          71
+          71,
+          198
         ],
         "Additional": [
           72
@@ -1350,14 +1394,14 @@
         ],
         "passive": [
           150,
-          268
+          270
         ],
         "margin.": [
           151
         ],
         "This": [
           152,
-          272
+          274
         ],
         "permitted": [
           153
@@ -1382,8 +1426,8 @@
           184,
           188,
           193,
-          211,
-          217
+          212,
+          218
         ],
         "vast": [
           163
@@ -1433,7 +1477,7 @@
         ],
         "north/northeast": [
           181,
-          245
+          247
         ],
         "margin(s)": [
           182
@@ -1458,166 +1502,169 @@
         "transform": [
           194
         ],
-        "Neogene.Consolidation": [
-          198
+        "Consolidation": [
+          199
         ],
         "Afro-Arabian": [
-          201
-        ],
-        "craton": [
           202
         ],
+        "craton": [
+          203
+        ],
         "latest": [
-          205,
-          237
+          206,
+          239
         ],
         "Proterozoic": [
-          206,
-          238
+          207,
+          240
         ],
         "Early": [
-          208
-        ],
-        "Cambrian": [
           209
         ],
-        "created": [
+        "Cambrian": [
           210
         ],
-        "prominent": [
-          212
+        "created": [
+          211
         ],
-        "north-south": [
+        "prominent": [
           213
         ],
-        "basement": [
+        "north-south": [
           214
         ],
-        "\"grain\"": [
+        "basement": [
           215
         ],
-        "northwest-southeast": [
-          218
+        "“grain”": [
+          216
         ],
-        "(Najd)": [
+        "northwest-southeast": [
           219
         ],
-        "shear": [
+        "(Najd)": [
           220
         ],
-        "fracture": [
+        "shear": [
           221
         ],
-        "system.": [
+        "fracture": [
           222
         ],
-        "Rejuvenations": [
+        "system.": [
           223
         ],
-        "(affecting": [
+        "Rejuvenations": [
           224
         ],
-        "structures/sediment": [
+        "(affecting": [
           225
         ],
-        "patterns)": [
+        "structures/sediment": [
           226
         ],
-        "occurred": [
+        "patterns)": [
           227
         ],
-        "later": [
-          229
+        "occurred": [
+          228
         ],
-        "periods": [
+        "later": [
           230
         ],
-        "have": [
-          232
+        "periods": [
+          231
         ],
-        "controlled": [
+        "have": [
           233
         ],
-        "major": [
+        "controlled": [
           234
         ],
-        "occurrences.From": [
-          236
+        "major": [
+          235
+        ],
+        "occurrences.": [
+          237
+        ],
+        "From": [
+          238
         ],
         "time,": [
-          242
-        ],
-        "present": [
           244
         ],
+        "present": [
+          246
+        ],
         "region,": [
-          249
-        ],
-        "Anatolia,": [
-          250
-        ],
-        "central": [
           251
         ],
-        "Iran": [
+        "Anatolia,": [
           252
         ],
-        "Afghan": [
-          255
+        "central": [
+          253
         ],
-        "Indian": [
+        "Iran": [
+          254
+        ],
+        "Afghan": [
           257
         ],
-        "plates": [
-          258
-        ],
-        "formed": [
+        "Indian": [
           259
         ],
-        "part": [
+        "plates": [
           260
         ],
-        "long": [
-          263
+        "formed": [
+          261
         ],
-        "very": [
+        "part": [
+          262
+        ],
+        "long": [
           265
         ],
-        "wide": [
-          266
-        ],
-        "northern": [
+        "very": [
           267
         ],
+        "wide": [
+          268
+        ],
+        "northern": [
+          269
+        ],
         "Gondwana.": [
-          271
+          273
         ],
         "was": [
-          274
-        ],
-        "intermittently": [
-          275
-        ],
-        "covered": [
           276
         ],
-        "by": [
+        "intermittently": [
           277
         ],
-        "shallow": [
+        "covered": [
           278
         ],
-        "epeiric": [
+        "by": [
           279
         ],
-        "seas": [
+        "shallow": [
           280
         ],
-        "bordering": [
+        "epeiric": [
+          281
+        ],
+        "seas": [
           282
         ],
+        "bordering": [
+          284
+        ],
         "lowland.": [
-          283
+          285
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2282472653",
@@ -1672,7 +1719,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 16
+          "cited_by_count": 18
         },
         {
           "year": 2013,
@@ -1683,7 +1730,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1766,14 +1813,36 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98635879",
+              "display_name": "American University of Beirut",
+              "ror": "https://ror.org/04pznsd21",
+              "country_code": "LB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ],
+          "countries": [
+            "LB"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Z. R. Beydoun",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "American University of Beirut, Lebanon and Marathon International Petroleum (GB) Ltd. London, U.K"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "American University of Beirut, Lebanon and Marathon International Petroleum (GB) Ltd. London, U.K",
+              "institution_ids": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1788,9 +1857,16 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "M. W. Hughes Clarke",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Manningtree, Essex, U.K"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Manningtree, Essex, U.K",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -1800,27 +1876,49 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47508984",
+              "display_name": "Imperial College London",
+              "ror": "https://ror.org/041kmwe10",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "R. Stoneley",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Imperial College, University of London London, U.K"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Imperial College, University of London London, U.K",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1544,
+      "fwci": 3.1323,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 245,
+      "cited_by_count": 248,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.89038462,
@@ -2044,8 +2142,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2063,96 +2161,573 @@
         "https://openalex.org/W3127110815"
       ],
       "abstract_inverted_index": {
-        "This": [
-          0
+        "1": [
+          139
         ],
-        "publication": [
-          1
+        "310": [
+          92
         ],
-        "is": [
+        "435": [
+          94
+        ],
+        "500": [
+          85
+        ],
+        "700": [
+          87
+        ],
+        "1555": [
+          90
+        ],
+        "2500": [
+          83
+        ],
+        "The": [
+          0,
+          184,
+          246
+        ],
+        "Zagros": [
+          1,
+          151,
+          213,
+          247
+        ],
+        "Mountains": [
           2
         ],
-        "the": [
+        "lie": [
           3,
-          6,
-          14,
-          21,
-          29
+          156
         ],
-        "fourth": [
+        "within": [
           4
         ],
-        "in": [
+        "the": [
           5,
-          28
+          12,
+          35,
+          44,
+          50,
+          59,
+          75,
+          109,
+          116,
+          122,
+          146,
+          149,
+          158,
+          165,
+          171,
+          176,
+          181,
+          189,
+          202,
+          208,
+          211,
+          215,
+          221
         ],
-        "AAPG": [
-          7
+        "Middle": [
+          6,
+          45
         ],
-        "Petroleum": [
-          8
-        ],
-        "Basins": [
-          9
-        ],
-        "Series": [
-          10
-        ],
-        "and": [
-          11,
-          18,
-          33
-        ],
-        "focuses": [
-          12
-        ],
-        "on": [
-          13
-        ],
-        "Western": [
-          15
-        ],
-        "Canadian": [
-          16
-        ],
-        "basin": [
-          17
-        ],
-        "foreland": [
-          19
+        "East": [
+          7,
+          46
         ],
         "as": [
-          20
+          8
         ],
-        "type": [
+        "a": [
+          9,
+          79,
+          229
+        ],
+        "part": [
+          10
+        ],
+        "of": [
+          11,
+          15,
+          49,
+          54,
+          58,
+          62,
+          68,
+          121,
+          129,
+          160,
+          180,
+          193,
+          210,
+          220,
+          227
+        ],
+        "world": [
+          13
+        ],
+        "girdle": [
+          14
+        ],
+        "Alpine": [
+          16
+        ],
+        "mountain": [
+          17,
+          152,
+          248
+        ],
+        "ranges.": [
+          18
+        ],
+        "It": [
+          19
+        ],
+        "is": [
+          20,
+          143,
+          205
+        ],
+        "now": [
+          21,
+          195
+        ],
+        "well": [
           22
         ],
-        "area,": [
+        "documented,": [
           23
         ],
-        "with": [
+        "although": [
           24
         ],
-        "five": [
+        "perhaps": [
           25
         ],
-        "analog": [
+        "not": [
           26
         ],
-        "basins": [
+        "yet": [
           27
         ],
-        "United": [
-          30
+        "fully": [
+          28
         ],
-        "States,": [
+        "assimilated": [
+          29
+        ],
+        "by": [
+          30,
+          84,
+          91,
+          148,
+          175,
+          197,
+          207
+        ],
+        "all": [
           31
         ],
-        "Iran,": [
+        "those": [
           32
         ],
-        "Venezuela.": [
-          34
+        "working": [
+          33
+        ],
+        "in": [
+          34,
+          74,
+          78,
+          112,
+          157
+        ],
+        "oil": [
+          36,
+          55,
+          131
+        ],
+        "industry": [
+          37
+        ],
+        "elsewhere,": [
+          38
+        ],
+        "that,": [
+          39
+        ],
+        "even": [
+          40
+        ],
+        "though": [
+          41
+        ],
+        "incompletely": [
+          42
+        ],
+        "explored,": [
+          43
+        ],
+        "contains": [
+          47
+        ],
+        "two-thirds": [
+          48
+        ],
+        "world’s": [
+          51,
+          60
+        ],
+        "proven": [
+          52
+        ],
+        "reserves": [
+          53,
+          61
+        ],
+        "and": [
+          56,
+          108,
+          132,
+          163,
+          169,
+          173,
+          201
+        ],
+        "one-third": [
+          57
+        ],
+        "gas": [
+          63,
+          133
+        ],
+        "(Beydoun,": [
+          64
+        ],
+        "1991).": [
+          65
+        ],
+        "Some": [
+          66
+        ],
+        "98%": [
+          67
+        ],
+        "these": [
+          69
+        ],
+        "vast": [
+          70
+        ],
+        "volumes": [
+          71
+        ],
+        "are": [
+          72
+        ],
+        "lodged": [
+          73
+        ],
+        "fields": [
+          76,
+          134,
+          155
+        ],
+        "lying": [
+          77
+        ],
+        "broad": [
+          80
+        ],
+        "belt": [
+          81,
+          128
+        ],
+        "(approximately": [
+          82
+        ],
+        "to": [
+          86,
+          93,
+          100,
+          243
+        ],
+        "km,": [
+          88
+        ],
+        "or": [
+          89
+        ],
+        "mi)": [
+          95
+        ],
+        "running": [
+          96
+        ],
+        "from": [
+          97
+        ],
+        "northern": [
+          98
+        ],
+        "Iraq": [
+          99
+        ],
+        "Oman,": [
+          101,
+          194
+        ],
+        "including": [
+          102
+        ],
+        "southwestern": [
+          103
+        ],
+        "Iran,": [
+          104
+        ],
+        "eastern": [
+          105
+        ],
+        "Saudi": [
+          106
+        ],
+        "Arabia,": [
+          107
+        ],
+        "Gulf": [
+          110
+        ],
+        "States,": [
+          111
+        ],
+        "an": [
+          113
+        ],
+        "area": [
+          114
+        ],
+        "constituting": [
+          115
+        ],
+        "pre-Neogene": [
+          117
+        ],
+        "northeastern": [
+          118
+        ],
+        "continental": [
+          119
+        ],
+        "shelf": [
+          120
+        ],
+        "Arabian": [
+          123,
+          166,
+          182,
+          190
+        ],
+        "plate": [
+          124
+        ],
+        "(Figure": [
+          125,
+          135,
+          224
+        ],
+        "1).": [
+          126
+        ],
+        "This": [
+          127
+        ],
+        "prolific": [
+          130
+        ],
+        "2;": [
+          136
+        ],
+        "see": [
+          137
+        ],
+        "Table": [
+          138
+        ],
+        "for": [
+          140
+        ],
+        "field/discovery": [
+          141
+        ],
+        "names)": [
+          142
+        ],
+        "bounded": [
+          144,
+          196
+        ],
+        "on": [
+          145,
+          170
+        ],
+        "northeast": [
+          147
+        ],
+        "high": [
+          150
+        ],
+        "range": [
+          153,
+          162,
+          249
+        ],
+        "(the": [
+          154
+        ],
+        "foothills": [
+          159
+        ],
+        "this": [
+          161
+        ],
+        "across": [
+          164
+        ],
+        "plains": [
+          167
+        ],
+        "areas),": [
+          168
+        ],
+        "south": [
+          172
+        ],
+        "west": [
+          174,
+          226
+        ],
+        "outcropping": [
+          177
+        ],
+        "crystalline": [
+          178
+        ],
+        "basement": [
+          179
+        ],
+        "shield.": [
+          183
+        ],
+        "southeastern": [
+          185
+        ],
+        "end": [
+          186,
+          204
+        ],
+        "lies": [
+          187
+        ],
+        "at": [
+          188
+        ],
+        "Sea": [
+          191
+        ],
+        "margin": [
+          192
+        ],
+        "Indian": [
+          198
+        ],
+        "Ocean": [
+          199
+        ],
+        "crust,": [
+          200
+        ],
+        "northwestern": [
+          203
+        ],
+        "formed": [
+          206
+        ],
+        "convergence": [
+          209
+        ],
+        "High": [
+          212
+        ],
+        "with": [
+          214,
+          234
+        ],
+        "prominent": [
+          216
+        ],
+        "north-south": [
+          217
+        ],
+        "structural": [
+          218
+        ],
+        "feature": [
+          219
+        ],
+        "Ha’il-Ga’ara": [
+          222
+        ],
+        "arch": [
+          223
+        ],
+        "1),": [
+          225
+        ],
+        "which": [
+          228
+        ],
+        "more": [
+          230
+        ],
+        "restless": [
+          231
+        ],
+        "geologic": [
+          232
+        ],
+        "history": [
+          233
+        ],
+        "important": [
+          235
+        ],
+        "stratigraphic": [
+          236
+        ],
+        "gaps": [
+          237
+        ],
+        "has": [
+          238
+        ],
+        "been": [
+          239
+        ],
+        "much": [
+          240
+        ],
+        "less": [
+          241
+        ],
+        "favorable": [
+          242
+        ],
+        "hydrocarbon": [
+          244
+        ],
+        "generation/retention.": [
+          245
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1543099629",
@@ -2171,11 +2746,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2022,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2021,
@@ -2199,7 +2774,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2015,
@@ -2218,7 +2793,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2718,8 +3293,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -3833,8 +4408,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -4843,8 +5418,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -5010,10 +5585,10 @@
         "doaj"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://doaj.org/article/0b43ed62d7bf46d7af9588a12a5ea90f",
-        "any_repository_has_fulltext": true
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -5074,18 +5649,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.737,
+      "fwci": 2.7111,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 93,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87972867,
+        "value": 0.87813152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -5407,7 +5982,7 @@
         {
           "id": "pmh:oai:doaj.org/article:0b43ed62d7bf46d7af9588a12a5ea90f",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/0b43ed62d7bf46d7af9588a12a5ea90f",
           "pdf_url": null,
           "source": {
@@ -5425,8 +6000,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -5434,42 +6009,14 @@
           "raw_type": "article"
         }
       ],
-      "best_oa_location": {
-        "id": "pmh:oai:doaj.org/article:0b43ed62d7bf46d7af9588a12a5ea90f",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "https://doaj.org/article/0b43ed62d7bf46d7af9588a12a5ea90f",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306401280",
-          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "cc-by-sa",
-        "license_id": "https://openalex.org/licenses/cc-by-sa",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Oil & Gas Science and Technology, Vol 48, Iss 4, Pp 311-345 (2006)",
-        "raw_type": "article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5894,7 +6441,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5961,10 +6508,10 @@
         "doaj"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://doaj.org/article/8d6e747b18954981ad292edaf8a07771",
-        "any_repository_has_fulltext": true
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -6084,13 +6631,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7179,
+      "fwci": 0.7068,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 93,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71851342,
+        "value": 0.71307339,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6387,7 +6934,7 @@
         {
           "id": "pmh:oai:doaj.org/article:8d6e747b18954981ad292edaf8a07771",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/8d6e747b18954981ad292edaf8a07771",
           "pdf_url": null,
           "source": {
@@ -6405,8 +6952,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -6414,42 +6961,14 @@
           "raw_type": "article"
         }
       ],
-      "best_oa_location": {
-        "id": "pmh:oai:doaj.org/article:8d6e747b18954981ad292edaf8a07771",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "https://doaj.org/article/8d6e747b18954981ad292edaf8a07771",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306401280",
-          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "cc-by-sa",
-        "license_id": "https://openalex.org/licenses/cc-by-sa",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Oil & Gas Science and Technology, Vol 51, Iss 6, Pp 763-775 (2006)",
-        "raw_type": "article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7453,7 +7972,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7951,8 +8470,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -9428,8 +9947,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -10527,8 +11046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11001,8 +11520,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11923,13 +12442,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.432,
+      "fwci": 1.425,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 91,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76907397,
+        "value": 0.76891735,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12191,8 +12710,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2973294836.pdf",
@@ -12231,21 +12750,23 @@
       ],
       "abstract_inverted_index": {
         "43": [
-          186
+          191
         ],
         "2000": [
-          125
+          129
         ],
         "3000": [
-          131
+          135
         ],
         "The": [
-          0
+          0,
+          58,
+          115
         ],
         "Arabian": [
           1,
           6,
-          49
+          50
         ],
         "plate": [
           2
@@ -12262,13 +12783,13 @@
           19,
           27,
           36,
-          47,
-          66,
-          73,
-          116,
+          48,
+          69,
+          76,
           120,
-          168,
-          189
+          124,
+          173,
+          194
         ],
         "Peninsula,": [
           7
@@ -12284,12 +12805,12 @@
           14,
           24,
           31,
-          84,
-          91,
-          104,
-          129,
-          151,
-          171
+          87,
+          94,
+          107,
+          133,
+          156,
+          176
         ],
         "SE": [
           12
@@ -12311,14 +12832,14 @@
           26,
           35,
           38,
-          41,
-          65,
-          75,
-          108,
-          119,
-          149,
-          175,
-          193
+          42,
+          68,
+          78,
+          111,
+          123,
+          154,
+          180,
+          198
         ],
         "Taurus/Zagros": [
           20
@@ -12335,7 +12856,7 @@
         "33.9%": [
           25
         ],
-        "world's": [
+        "world’s": [
           28
         ],
         "recoverable": [
@@ -12349,7 +12870,7 @@
         ],
         "reserves": [
           33,
-          43
+          44
         ],
         "as": [
           34
@@ -12357,343 +12878,352 @@
         "start": [
           37
         ],
-        "1998.Over": [
+        "1998.": [
           39
         ],
-        "98%": [
+        "Over": [
           40
         ],
+        "98%": [
+          41
+        ],
         "these": [
-          42
+          43
         ],
         "are": [
-          44,
-          63
+          45,
+          65
         ],
         "located": [
-          45
-        ],
-        "along": [
           46
         ],
+        "along": [
+          47
+        ],
         "NE": [
-          48,
-          121
+          49,
+          125
         ],
         "shelf": [
-          50,
-          123
+          51,
+          127
         ],
         "margin": [
-          51,
-          122
+          52,
+          126
         ],
         "stretching": [
-          52
-        ],
-        "from": [
           53
         ],
-        "Iraq": [
+        "from": [
           54
         ],
+        "Iraq": [
+          55
+        ],
         "to": [
-          55,
-          154,
-          161,
-          181
+          56,
+          159,
+          166,
+          186
         ],
-        "Oman.The": [
-          56
-        ],
-        "reasons": [
+        "Oman.": [
           57
         ],
+        "reasons": [
+          59
+        ],
         "behind": [
-          58
+          60
         ],
         "this": [
-          59,
-          162
-        ],
-        "richness": [
-          60,
-          71
-        ],
-        "in": [
           61,
-          95,
-          127,
-          133,
-          184
-        ],
-        "hydrocarbons": [
-          62
-        ],
-        "examined.Some": [
-          64
-        ],
-        "factors": [
-          67
-        ],
-        "responsible": [
-          68
-        ],
-        "for": [
-          69,
-          135,
-          145,
           167
         ],
-        "such": [
-          70
-        ],
-        "include": [
-          72
-        ],
-        "presence": [
+        "richness": [
+          62,
           74
         ],
-        "many": [
-          76
+        "in": [
+          63,
+          98,
+          131,
+          137,
+          189
         ],
-        "petroleum": [
-          77
+        "hydrocarbons": [
+          64
         ],
-        "systems": [
-          78
+        "examined.": [
+          66
         ],
-        "over": [
-          79
+        "Some": [
+          67
         ],
-        "geological": [
-          80
+        "factors": [
+          70
         ],
-        "time": [
-          81
+        "responsible": [
+          71
         ],
-        "including": [
-          82
-        ],
-        "repeated": [
-          83
-        ],
-        "extensive": [
-          85
-        ],
-        "source": [
-          86,
-          174
-        ],
-        "rock": [
-          87
-        ],
-        "beds,": [
-          88
-        ],
-        "excellent": [
-          89,
-          98
-        ],
-        "carbonate": [
-          90
-        ],
-        "some": [
-          92
-        ],
-        "sandstone": [
-          93
-        ],
-        "reservoirs": [
-          94
-        ],
-        "good": [
-          96
-        ],
-        "juxtaposition,": [
-          97
-        ],
-        "regional": [
-          99
-        ],
-        "seals,": [
-          100
-        ],
-        "huge": [
-          101,
-          173
-        ],
-        "anticlinal": [
-          102
-        ],
-        "traps": [
-          103
-        ],
-        "a": [
-          105,
-          156,
+        "for": [
+          72,
+          139,
+          150,
           172
         ],
-        "long": [
-          106
+        "such": [
+          73
         ],
-        "history": [
-          107
+        "include": [
+          75
         ],
-        "almost": [
-          109
+        "presence": [
+          77
         ],
-        "uninterrupted": [
-          110
+        "many": [
+          79
         ],
-        "sedimentation.The": [
-          111
+        "petroleum": [
+          80
         ],
-        "critical": [
-          112
+        "systems": [
+          81
         ],
-        "factor,": [
-          113
+        "over": [
+          82
         ],
-        "however,": [
-          114
+        "geological": [
+          83
         ],
-        "is": [
-          115,
-          138,
-          143,
+        "time": [
+          84
+        ],
+        "including": [
+          85
+        ],
+        "repeated": [
+          86
+        ],
+        "extensive": [
+          88
+        ],
+        "source": [
+          89,
           179
         ],
-        "areal": [
-          117
+        "rock": [
+          90
         ],
-        "extent": [
-          118
+        "beds,": [
+          91
         ],
-        "reaching": [
-          124
+        "excellent": [
+          92,
+          101
         ],
-        "km": [
-          126,
-          132
+        "carbonate": [
+          93
         ],
-        "width": [
-          128
+        "some": [
+          95
         ],
-        "nearly": [
-          130
+        "sandstone": [
+          96
         ],
-        "length,": [
-          134
+        "reservoirs": [
+          97
         ],
-        "which": [
-          136,
+        "good": [
+          99
+        ],
+        "juxtaposition,": [
+          100
+        ],
+        "regional": [
+          102
+        ],
+        "seals,": [
+          103
+        ],
+        "huge": [
+          104,
           178
         ],
-        "there": [
-          137
+        "anticlinal": [
+          105
         ],
-        "no": [
-          139
+        "traps": [
+          106
         ],
-        "modern": [
-          140
-        ],
-        "analogue.A": [
-          141
-        ],
-        "plea": [
-          142
-        ],
-        "made": [
-          144
-        ],
-        "an": [
-          146
-        ],
-        "immediate": [
-          147
-        ],
-        "input": [
-          148
-        ],
-        "R": [
-          150
-        ],
-        "D": [
-          152
-        ],
-        "funds": [
-          153
-        ],
-        "establish": [
-          155
-        ],
-        "commercially": [
-          157
-        ],
-        "viable": [
-          158
-        ],
-        "energy": [
-          159
-        ],
-        "alternative(s)": [
-          160
-        ],
-        "finite": [
-          163
-        ],
-        "valuable": [
-          164
-        ],
-        "resource": [
-          165
-        ],
-        "(feedstock": [
-          166
-        ],
-        "petrochemical": [
-          169
-        ],
-        "industries": [
-          170
-        ],
-        "synthetic": [
-          176
-        ],
-        "proteins)": [
+        "a": [
+          108,
+          161,
           177
         ],
-        "due": [
-          180
+        "long": [
+          109
         ],
-        "run": [
-          182
+        "history": [
+          110
         ],
-        "out": [
+        "almost": [
+          112
+        ],
+        "uninterrupted": [
+          113
+        ],
+        "sedimentation.": [
+          114
+        ],
+        "critical": [
+          116
+        ],
+        "factor,": [
+          117
+        ],
+        "however,": [
+          118
+        ],
+        "is": [
+          119,
+          142,
+          148,
+          184
+        ],
+        "areal": [
+          121
+        ],
+        "extent": [
+          122
+        ],
+        "reaching": [
+          128
+        ],
+        "km": [
+          130,
+          136
+        ],
+        "width": [
+          132
+        ],
+        "nearly": [
+          134
+        ],
+        "length,": [
+          138
+        ],
+        "which": [
+          140,
           183
         ],
-        "about": [
+        "there": [
+          141
+        ],
+        "no": [
+          143
+        ],
+        "modern": [
+          144
+        ],
+        "analogue.": [
+          145
+        ],
+        "A": [
+          146
+        ],
+        "plea": [
+          147
+        ],
+        "made": [
+          149
+        ],
+        "an": [
+          151
+        ],
+        "immediate": [
+          152
+        ],
+        "input": [
+          153
+        ],
+        "R": [
+          155
+        ],
+        "D": [
+          157
+        ],
+        "funds": [
+          158
+        ],
+        "establish": [
+          160
+        ],
+        "commercially": [
+          162
+        ],
+        "viable": [
+          163
+        ],
+        "energy": [
+          164
+        ],
+        "alternative(s)": [
+          165
+        ],
+        "finite": [
+          168
+        ],
+        "valuable": [
+          169
+        ],
+        "resource": [
+          170
+        ],
+        "(feedstock": [
+          171
+        ],
+        "petrochemical": [
+          174
+        ],
+        "industries": [
+          175
+        ],
+        "synthetic": [
+          181
+        ],
+        "proteins)": [
+          182
+        ],
+        "due": [
           185
         ],
-        "years": [
+        "run": [
           187
         ],
-        "at": [
+        "out": [
           188
         ],
-        "present": [
+        "about": [
           190
         ],
-        "day": [
-          191
-        ],
-        "rate": [
+        "years": [
           192
         ],
+        "at": [
+          193
+        ],
+        "present": [
+          195
+        ],
+        "day": [
+          196
+        ],
+        "rate": [
+          197
+        ],
         "consumption.": [
-          194
+          199
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2973294836",
@@ -12759,7 +13289,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-09-26T00:00:00"
     },
     {
@@ -13103,8 +13633,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -14213,8 +14743,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -15475,8 +16005,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -16093,8 +16623,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -16719,8 +17249,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -18122,8 +18652,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18629,8 +19159,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -19260,8 +19790,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -19908,13 +20438,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.49,
+      "fwci": 0.4915,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 65,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64117647,
+        "value": 0.63953488,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20179,8 +20709,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -20284,7 +20814,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20764,8 +21294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -22347,8 +22877,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -22833,8 +23363,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24358,8 +24888,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25223,13 +25753,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.5609,
+      "fwci": 14.5652,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 26,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95489845,
+        "value": 0.95491191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25475,8 +26005,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -25616,7 +26146,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25924,8 +26454,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26439,8 +26969,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -27376,8 +27906,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27880,8 +28410,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -28756,8 +29286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29217,8 +29747,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -29704,8 +30234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30660,8 +31190,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31082,8 +31612,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31388,8 +31918,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31799,8 +32329,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W166150482.pdf",
@@ -32457,8 +32987,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32784,8 +33314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32941,8 +33471,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33341,8 +33871,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33656,8 +34186,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33997,8 +34527,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34325,8 +34855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34612,8 +35142,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34858,8 +35388,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35134,8 +35664,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35429,8 +35959,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35679,8 +36209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35958,8 +36488,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36199,8 +36729,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36478,8 +37008,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36776,8 +37306,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

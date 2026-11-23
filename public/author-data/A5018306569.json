@@ -759,13 +759,13 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 5.4277,
+      "fwci": 5.3515,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97069969,
+        "value": 0.97014512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1264,7 +1264,7 @@
         {
           "id": "pmh:oai:doaj.org/article:aff794d49607408ab50183c593039556",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/aff794d49607408ab50183c593039556",
           "pdf_url": null,
           "source": {
@@ -1282,8 +1282,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -1392,8 +1392,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388818709.pdf",
@@ -1831,7 +1831,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-11-21T00:00:00"
     },
     {
@@ -2630,8 +2630,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -3603,8 +3603,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -4088,13 +4088,13 @@
         "currency": "USD",
         "value_usd": 2290
       },
-      "fwci": 4.6284,
+      "fwci": 4.5444,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 23,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95518132,
+        "value": 0.95477252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4495,7 +4495,7 @@
         {
           "id": "pmh:oai:doaj.org/article:2cbb617532204e72966922c7fc059bd2",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/2cbb617532204e72966922c7fc059bd2",
           "pdf_url": null,
           "source": {
@@ -4513,8 +4513,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -4524,7 +4524,7 @@
         {
           "id": "pmh:oai:doaj.org/article:4dd90660e75a482cab2d6405133f3145",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/4dd90660e75a482cab2d6405133f3145",
           "pdf_url": null,
           "source": {
@@ -4542,8 +4542,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -4625,8 +4625,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391640940.pdf",
@@ -5251,7 +5251,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-02-09T00:00:00"
     },
     {
@@ -5357,8 +5357,7 @@
           "contributor_roles": [],
           "raw_author_name": "S. Morad",
           "raw_affiliation_strings": [
-            "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates",
-            "Petrographica, Vikvägen 82, 75655, Uppsala, Sweden"
+            "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -5367,10 +5366,6 @@
               "institution_ids": [
                 "https://openalex.org/I176601375"
               ]
-            },
-            {
-              "raw_affiliation_string": "Petrographica, Vikvägen 82, 75655, Uppsala, Sweden",
-              "institution_ids": []
             }
           ]
         },
@@ -5704,13 +5699,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.5625,
+      "fwci": 2.542,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89305851,
+        "value": 0.89213421,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6091,8 +6086,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -6244,7 +6239,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-06-06T00:00:00"
     },
     {
@@ -6642,13 +6637,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.0871,
+      "fwci": 2.0546,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85368631,
+        "value": 0.85059439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6980,14 +6975,19 @@
       ],
       "funders": [
         {
+          "id": "https://openalex.org/F4320321399",
+          "display_name": "Abu Dhabi National Oil Company",
+          "ror": "https://ror.org/010e8pt90"
+        },
+        {
           "id": "https://openalex.org/F4320322334",
           "display_name": "Khalifa University of Science, Technology and Research",
           "ror": "https://ror.org/05hffr360"
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -7090,7 +7090,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2022-09-11T00:00:00"
     },
     {
@@ -7530,13 +7530,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.9939,
+      "fwci": 2.9637,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90774579,
+        "value": 0.90677966,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8036,6 +8036,11 @@
       ],
       "funders": [
         {
+          "id": "https://openalex.org/F4320310620",
+          "display_name": "University of Texas at Austin",
+          "ror": "https://ror.org/00hj54h04"
+        },
+        {
           "id": "https://openalex.org/F4320321399",
           "display_name": "Abu Dhabi National Oil Company",
           "ror": "https://ror.org/010e8pt90"
@@ -8052,8 +8057,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -8171,7 +8176,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-11-20T00:00:00"
     },
     {
@@ -8647,13 +8652,13 @@
         "currency": "USD",
         "value_usd": 3400
       },
-      "fwci": 2.8188,
+      "fwci": 2.7883,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89127325,
+        "value": 0.89055776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9114,10 +9119,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323428",
+          "display_name": "Universitat de Barcelona",
+          "ror": "https://ror.org/021018s57"
+        },
+        {
+          "id": "https://openalex.org/F4320328228",
+          "display_name": "Tempus Közalapítvány",
+          "ror": "https://ror.org/053mvwx19"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -10119,7 +10135,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-11-19T00:00:00"
     },
     {
@@ -11010,14 +11026,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -11035,8 +11051,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -11519,18 +11535,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0703,
+      "fwci": 1.1469,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 28,
+      "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70094146,
+        "value": 0.71727694,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 92,
+        "min": 94,
         "max": 98
       },
       "biblio": {
@@ -11869,8 +11885,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -12481,10 +12497,10 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-07-02T00:00:00"
     },
     {
@@ -12671,8 +12687,7 @@
             "display_name": "Namam Muhammed Salih",
             "orcid": "https://orcid.org/0000-0002-5691-5205",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-5691-5205",
-              "https://orcid.org/0000-0002-1021-6222"
+              "https://orcid.org/0000-0002-5691-5205"
             ]
           },
           "institutions": [
@@ -12790,13 +12805,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.3977,
+      "fwci": 2.3495,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88675649,
+        "value": 0.88335854,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13120,8 +13135,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -13251,7 +13266,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-03-15T00:00:00"
     },
     {
@@ -13856,8 +13871,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -14759,9 +14774,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -14801,8 +14816,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4281644459.pdf",
@@ -15830,13 +15845,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.1464,
+      "fwci": 2.1236,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85266655,
+        "value": 0.85133315,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16161,9 +16176,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -16181,6 +16196,13 @@
           "funder_award_id": "01-LEC-EMA10F",
           "funder_id": "https://openalex.org/F4320320301",
           "funder_display_name": "European Science Foundation"
+        },
+        {
+          "id": "https://openalex.org/G8076216799",
+          "display_name": null,
+          "funder_award_id": "ERAS-CT-2003-980409",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
         }
       ],
       "funders": [
@@ -16196,8 +16218,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -16307,7 +16329,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -16605,13 +16627,13 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 1.3743,
+      "fwci": 1.3628,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
-      "reviewed_by_count": 0,
+      "reviewed_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.75253721,
+        "value": 0.75109983,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16897,8 +16919,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -17498,7 +17520,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-01-05T00:00:00"
     },
     {
@@ -17906,13 +17928,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5947,
+      "fwci": 2.5686,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88822533,
+        "value": 0.88724353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18004,67 +18026,67 @@
         {
           "id": "https://openalex.org/keywords/hydrothermal-dolomitization",
           "display_name": "hydrothermal dolomitization",
-          "score": 0.9850000143051147
+          "score": 0.9829999804496765
         },
         {
           "id": "https://openalex.org/keywords/saddle-dolomite",
           "display_name": "saddle dolomite",
-          "score": 0.8799999952316284
+          "score": 0.890999972820282
         },
         {
           "id": "https://openalex.org/keywords/calcite-cementation",
           "display_name": "calcite cementation",
-          "score": 0.6880000233650208
+          "score": 0.6959999799728394
         },
         {
           "id": "https://openalex.org/keywords/quartz-cementation",
           "display_name": "quartz cementation",
-          "score": 0.859000027179718
+          "score": 0.8600000143051147
         },
         {
           "id": "https://openalex.org/keywords/disconformity",
           "display_name": "disconformity",
-          "score": 0.949999988079071
+          "score": 0.9599999785423279
         },
         {
           "id": "https://openalex.org/keywords/basinal-brines",
           "display_name": "basinal brines",
-          "score": 0.7739999890327454
+          "score": 0.7950000166893005
         },
         {
           "id": "https://openalex.org/keywords/meteoric-water",
           "display_name": "meteoric water",
-          "score": 0.7080000042915344
+          "score": 0.6869999766349792
         },
         {
           "id": "https://openalex.org/keywords/diagenesis",
           "display_name": "diagenesis",
-          "score": 0.7179999947547913
+          "score": 0.6980000138282776
         },
         {
           "id": "https://openalex.org/keywords/basin-evolution",
           "display_name": "basin evolution",
-          "score": 0.7139999866485596
+          "score": 0.6940000057220459
         },
         {
           "id": "https://openalex.org/keywords/tectonic-compression",
           "display_name": "tectonic compression",
-          "score": 0.7480000257492065
+          "score": 0.7390000224113464
         },
         {
           "id": "https://openalex.org/keywords/fluid-inclusions",
           "display_name": "fluid inclusions",
-          "score": 0.8489999771118164
+          "score": 0.8769999742507935
         },
         {
           "id": "https://openalex.org/keywords/stable-isotopes",
           "display_name": "stable isotopes",
-          "score": 0.7020000219345093
+          "score": 0.6869999766349792
         },
         {
           "id": "https://openalex.org/keywords/united-arab-emirates",
           "display_name": "United Arab Emirates",
-          "score": 0.6460000276565552
+          "score": 0.6499999761581421
         }
       ],
       "concepts": [
@@ -18312,8 +18334,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393031684.pdf",
@@ -18770,7 +18792,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-03-22T00:00:00"
     },
     {
@@ -19429,9 +19451,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -19452,8 +19474,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 158,
@@ -20353,8 +20375,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -20815,13 +20837,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 3.533,
+      "fwci": 3.4855,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9338301,
+        "value": 0.93336328,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21092,7 +21114,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "study_designs": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G7083578857",
+          "display_name": null,
+          "funder_award_id": "RSP2025R139",
+          "funder_id": "https://openalex.org/F4320321145",
+          "funder_display_name": "King Saud University"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321145",
@@ -21101,8 +21131,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -21234,7 +21264,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-02-23T00:00:00"
     },
     {
@@ -21511,13 +21541,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0496,
+      "fwci": 4.0137,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93420267,
+        "value": 0.93298148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21609,37 +21639,47 @@
         {
           "id": "https://openalex.org/keywords/geothermal-potential",
           "display_name": "geothermal potential",
-          "score": 0.8790000081062317
+          "score": 0.8679999709129333
         },
         {
           "id": "https://openalex.org/keywords/vienna-basin",
           "display_name": "Vienna Basin",
-          "score": 0.9350000023841858
+          "score": 0.9290000200271606
         },
         {
           "id": "https://openalex.org/keywords/reservoir-permeability",
           "display_name": "reservoir permeability",
-          "score": 0.699999988079071
+          "score": 0.7960000038146973
         },
         {
-          "id": "https://openalex.org/keywords/reservoir-stimulation",
-          "display_name": "reservoir stimulation",
-          "score": 0.7239999771118164
+          "id": "https://openalex.org/keywords/geothermal-reservoir-characterization",
+          "display_name": "geothermal reservoir characterization",
+          "score": 0.5680000185966492
         },
         {
           "id": "https://openalex.org/keywords/binary-cycle-power-generation",
           "display_name": "binary cycle power generation",
-          "score": 0.7770000100135803
+          "score": 0.7549999952316284
         },
         {
-          "id": "https://openalex.org/keywords/subsurface-conditions",
-          "display_name": "ground conditions",
-          "score": 0.5730000138282776
+          "id": "https://openalex.org/keywords/reservoir-stimulation",
+          "display_name": "reservoir stimulation",
+          "score": 0.5870000123977661
         },
         {
-          "id": "https://openalex.org/keywords/energy-diversification",
-          "display_name": "energy diversification",
-          "score": 0.45500001311302185
+          "id": "https://openalex.org/keywords/energy-transition",
+          "display_name": "energy transition",
+          "score": 0.3580000102519989
+        },
+        {
+          "id": "https://openalex.org/keywords/net-present-value",
+          "display_name": "net present value",
+          "score": 0.5109999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/internal-rate-of-return",
+          "display_name": "internal rate of return",
+          "score": 0.7160000205039978
         }
       ],
       "concepts": [
@@ -21719,22 +21759,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -22701,7 +22741,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-11-04T00:00:00"
     },
     {
@@ -23429,9 +23469,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -23449,8 +23489,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4288040109.pdf",
@@ -24731,8 +24771,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 113,
@@ -25578,8 +25618,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -26077,13 +26117,13 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 1.0075,
+      "fwci": 0.9989,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6590326,
+        "value": 0.65625892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26427,6 +26467,13 @@
           "funder_award_id": "CIRA 2019-92",
           "funder_id": "https://openalex.org/F4320322334",
           "funder_display_name": "Khalifa University of Science, Technology and Research"
+        },
+        {
+          "id": "https://openalex.org/G5157695438",
+          "display_name": null,
+          "funder_award_id": "PID2021-12246NB-C22",
+          "funder_id": "https://openalex.org/F4320322930",
+          "funder_display_name": "Ministerio de Ciencia e Innovación"
         }
       ],
       "funders": [
@@ -26441,6 +26488,11 @@
           "ror": "https://ror.org/05hffr360"
         },
         {
+          "id": "https://openalex.org/F4320322930",
+          "display_name": "Ministerio de Ciencia e Innovación",
+          "ror": null
+        },
+        {
           "id": "https://openalex.org/F4320323428",
           "display_name": "Universitat de Barcelona",
           "ror": "https://ror.org/021018s57"
@@ -26452,8 +26504,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -26577,7 +26629,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2024-11-15T00:00:00"
     },
     {
@@ -26912,13 +26964,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.2081,
+      "fwci": 2.1784,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85052161,
+        "value": 0.84755915,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27179,7 +27231,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "study_designs": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G7083578857",
+          "display_name": null,
+          "funder_award_id": "RSP2025R139",
+          "funder_id": "https://openalex.org/F4320321145",
+          "funder_display_name": "King Saud University"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321145",
@@ -27188,8 +27248,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 124,
@@ -27343,7 +27403,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-05-13T00:00:00"
     },
     {
@@ -27508,14 +27568,36 @@
               "https://orcid.org/0000-0003-2055-1398"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Emad W. Al-Shalabi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Research and Innovation Center on CO2 and Hydrogen (RICH), Department of Chemical and Petroleum Engineering, Khalifa University of Science & Technology (KU), Abu Dhabi, United Arab Emirates"
+          ],
           "raw_orcid": "https://orcid.org/0000-0003-2055-1398",
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research and Innovation Center on CO2 and Hydrogen (RICH), Department of Chemical and Petroleum Engineering, Khalifa University of Science & Technology (KU), Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -27578,13 +27660,13 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 5.141,
+      "fwci": 5.0808,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94312471,
+        "value": 0.94223455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27891,13 +27973,20 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [
+        {
+          "id": "https://openalex.org/G128515629",
+          "display_name": null,
+          "funder_award_id": "project RC2-2019-007",
+          "funder_id": "https://openalex.org/F4320322334",
+          "funder_display_name": "Khalifa University of Science, Technology and Research"
+        },
         {
           "id": "https://openalex.org/G2582087611",
           "display_name": null,
@@ -27914,8 +28003,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -28642,7 +28731,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-02-11T00:00:00"
     },
     {
@@ -29326,9 +29415,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -29356,8 +29445,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -30724,9 +30813,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.685699999332428,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -30739,8 +30828,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -31634,17 +31723,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.8273000121116638,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -32681,8 +32770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2890054025.pdf",
@@ -33716,8 +33805,7 @@
             "display_name": "Namam Muhammed Salih",
             "orcid": "https://orcid.org/0000-0002-5691-5205",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-5691-5205",
-              "https://orcid.org/0000-0002-1021-6222"
+              "https://orcid.org/0000-0002-5691-5205"
             ]
           },
           "institutions": [
@@ -34012,13 +34100,13 @@
         "currency": "CHF",
         "value_usd": 2447
       },
-      "fwci": 0.6785,
+      "fwci": 0.6689,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.61262594,
+        "value": 0.60837416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34481,9 +34569,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -34509,8 +34597,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4377293771.pdf",
@@ -34977,7 +35065,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-05-23T00:00:00"
     },
     {
@@ -35282,13 +35370,13 @@
         "currency": "CHF",
         "value_usd": 2160
       },
-      "fwci": 0.723,
+      "fwci": 0.7145,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63149551,
+        "value": 0.62807296,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35705,10 +35793,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322676",
+          "display_name": "University of Waterloo",
+          "ror": "https://ror.org/01aff2v68"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3182053178.pdf"
@@ -36196,7 +36290,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-07-19T00:00:00"
     },
     {
@@ -36498,13 +36592,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6934,
+      "fwci": 0.6716,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64804469,
+        "value": 0.63258897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36870,8 +36964,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -38116,8 +38210,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -39384,14 +39478,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -39412,8 +39506,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -40141,8 +40235,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -41274,13 +41368,13 @@
         "currency": "USD",
         "value_usd": 3160
       },
-      "fwci": 2.1069,
+      "fwci": 2.0921,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74397187,
+        "value": 0.74188149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41702,14 +41796,27 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1014726591",
+          "display_name": null,
+          "funder_award_id": "CIRA-2021-013",
+          "funder_id": "https://openalex.org/F4320322334",
+          "funder_display_name": "Khalifa University of Science, Technology and Research"
+        }
+      ],
       "funders": [
+        {
+          "id": "https://openalex.org/F4320321399",
+          "display_name": "Abu Dhabi National Oil Company",
+          "ror": "https://ror.org/010e8pt90"
+        },
         {
           "id": "https://openalex.org/F4320322334",
           "display_name": "Khalifa University of Science, Technology and Research",
@@ -41717,8 +41824,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -42502,7 +42609,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-02-25T00:00:00"
     },
     {
@@ -43332,8 +43439,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -44454,8 +44561,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -45752,8 +45859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46916,8 +47023,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47917,8 +48024,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48352,8 +48459,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48944,17 +49051,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50369,8 +50476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51454,14 +51561,36 @@
               "https://orcid.org/0000-0003-2651-8097"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130442723",
+              "display_name": "Universidade Federal do Rio Grande do Sul",
+              "ror": "https://ror.org/041yk2d64",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130442723"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Luiz Fernando De Ros",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Geosciences Institute, Federal University of Rio Grande do Sul, Porto Alegre, Brazil"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Institute, Federal University of Rio Grande do Sul, Porto Alegre, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I130442723"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -51588,8 +51717,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5061877618"
       ],
@@ -52106,8 +52235,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -52234,7 +52363,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414398479",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52637,17 +52766,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53170,8 +53299,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53321,7 +53450,7 @@
           "countries": [
             "IL"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Boaz Lazar",
           "raw_affiliation_strings": [
@@ -53660,12 +53789,8 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5002305567"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I197251160"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -54093,8 +54218,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54746,7 +54871,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7135397955",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2026-03-15T00:00:00"
     }
   ]

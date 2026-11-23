@@ -597,13 +597,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.805,
+      "fwci": 0.8024,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 216,
+      "cited_by_count": 218,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65271205,
+        "value": 0.65211063,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -898,8 +898,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2974207299.pdf",
@@ -931,12 +931,12 @@
           22,
           37,
           65,
-          128,
-          133,
-          136,
-          151,
-          159,
-          168
+          129,
+          134,
+          137,
+          152,
+          160,
+          169
         ],
         "the": [
           2,
@@ -946,11 +946,11 @@
           50,
           55,
           93,
-          126,
-          137,
-          154,
-          164,
-          169
+          127,
+          138,
+          155,
+          165,
+          170
         ],
         "major": [
           3,
@@ -975,7 +975,7 @@
         "Arabian": [
           13,
           103,
-          138
+          139
         ],
         "Directorate": [
           14
@@ -1014,10 +1014,10 @@
           68,
           81,
           104,
-          131,
-          141,
-          146,
-          172
+          132,
+          142,
+          147,
+          173
         ],
         "periglacial,": [
           28
@@ -1027,15 +1027,15 @@
         ],
         "to": [
           30,
-          122,
-          163
+          123,
+          164
         ],
         "subaquatic": [
           31
         ],
         "deposits": [
           32,
-          127
+          128
         ],
         "in": [
           33,
@@ -1043,20 +1043,21 @@
           79,
           101,
           109,
-          120
+          121
         ],
         "lower": [
           34
         ],
         "Paleozoic": [
           35,
-          156
+          157
         ],
         "outcrops": [
           36
         ],
         "Arabia.": [
-          39
+          39,
+          111
         ],
         "A": [
           40
@@ -1072,14 +1073,14 @@
         ],
         "been": [
           44,
-          115
+          116
         ],
         "established": [
           45
         ],
         "between": [
           46,
-          125
+          126
         ],
         "these": [
           47
@@ -1102,11 +1103,11 @@
         ],
         "Gondwana": [
           56,
-          170
+          171
         ],
         "palecontinent": [
           57,
-          171
+          172
         ],
         "Late": [
           59
@@ -1142,7 +1143,7 @@
         ],
         "a": [
           73,
-          149
+          150
         ],
         "pronounced": [
           74
@@ -1162,7 +1163,7 @@
         "central": [
           80,
           102,
-          129
+          130
         ],
         "northwestern": [
           82
@@ -1216,116 +1217,116 @@
         ],
         "early": [
           106,
-          155
+          156
         ],
         "north-western": [
           110
         ],
-        "Arabia.Updated": [
-          111
-        ],
-        "paleofacies": [
+        "Updated": [
           112
         ],
-        "maps": [
+        "paleofacies": [
           113
         ],
-        "have": [
+        "maps": [
           114
         ],
-        "integrated": [
-          116
+        "have": [
+          115
         ],
-        "with": [
+        "integrated": [
           117
         ],
-        "lithologic": [
+        "with": [
           118
         ],
-        "comparisons": [
+        "lithologic": [
           119
         ],
+        "comparisons": [
+          120
+        ],
         "order": [
-          121
+          122
         ],
         "establish": [
-          123
-        ],
-        "correlations": [
           124
         ],
+        "correlations": [
+          125
+        ],
         "Arabia": [
-          130,
-          160
-        ],
-        "those": [
-          132
-        ],
-        "other": [
-          134
-        ],
-        "regions": [
-          135
-        ],
-        "Peninsula,": [
-          139
-        ],
-        "northern": [
-          140
-        ],
-        "western": [
-          142
-        ],
-        "Africa,": [
-          143
-        ],
-        "Turkey,": [
-          144
-        ],
-        "Iran,": [
-          145
-        ],
-        "Syria.": [
-          147
-        ],
-        "As": [
-          148
-        ],
-        "result": [
-          150
-        ],
-        "this": [
-          152
-        ],
-        "work,": [
-          153
-        ],
-        "geodynamic": [
-          157
-        ],
-        "evolution": [
-          158
-        ],
-        "clearly": [
+          131,
           161
         ],
-        "belongs": [
+        "those": [
+          133
+        ],
+        "other": [
+          135
+        ],
+        "regions": [
+          136
+        ],
+        "Peninsula,": [
+          140
+        ],
+        "northern": [
+          141
+        ],
+        "western": [
+          143
+        ],
+        "Africa,": [
+          144
+        ],
+        "Turkey,": [
+          145
+        ],
+        "Iran,": [
+          146
+        ],
+        "Syria.": [
+          148
+        ],
+        "As": [
+          149
+        ],
+        "result": [
+          151
+        ],
+        "this": [
+          153
+        ],
+        "work,": [
+          154
+        ],
+        "geodynamic": [
+          158
+        ],
+        "evolution": [
+          159
+        ],
+        "clearly": [
           162
         ],
-        "broader": [
-          165
+        "belongs": [
+          163
         ],
-        "paleogeographic": [
+        "broader": [
           166
         ],
-        "context": [
+        "paleogeographic": [
           167
         ],
+        "context": [
+          168
+        ],
         "its": [
-          173
+          174
         ],
         "margins.": [
-          174
+          175
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2974207299",
@@ -1348,7 +1349,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2021,
@@ -1364,7 +1365,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2017,
@@ -1391,7 +1392,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-09-26T00:00:00"
     },
     {
@@ -1550,13 +1551,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8856,
+      "fwci": 5.829,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 198,
+      "cited_by_count": 202,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95090689,
+        "value": 0.94995164,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1790,8 +1791,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -2295,11 +2296,11 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2024,
-          "cited_by_count": 6
+          "cited_by_count": 8
         },
         {
           "year": 2023,
@@ -2339,7 +2340,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2013,
@@ -2350,7 +2351,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2631,18 +2632,18 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.2312,
+      "fwci": 1.223,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 122,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76646011,
+        "value": 0.76395349,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -2863,8 +2864,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -2960,7 +2961,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3342,13 +3343,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3295,
+      "fwci": 2.3275,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 102,
+      "cited_by_count": 103,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8752655,
+        "value": 0.87521731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3679,10 +3680,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -4891,7 +4903,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2013,
@@ -4902,7 +4914,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5348,8 +5360,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6157,7 +6169,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "SYLVIE CRASQUIN-SOLEAU",
           "raw_affiliation_strings": [
@@ -6205,7 +6217,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "DENIS VASLET",
           "raw_affiliation_strings": [
@@ -6251,7 +6263,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "YVES-MICHEL LE NINDRE",
           "raw_affiliation_strings": [
@@ -6278,29 +6290,21 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5038965329",
-        "https://openalex.org/A5054427253",
-        "https://openalex.org/A5066243148"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1294671590",
-        "https://openalex.org/I4210158893",
-        "https://openalex.org/I4405264447"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 5000,
         "currency": "USD",
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 2.9648,
+      "fwci": 2.9622,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 91,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90809036,
+        "value": 0.90805486,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6615,8 +6619,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -6647,333 +6651,330 @@
       ],
       "abstract_inverted_index": {
         "1": [
-          132
+          131
         ],
         "17": [
-          43
+          42
         ],
         "50": [
-          134
-        ],
-        "Abstract:": [
-          0
+          133
         ],
         "Ostracods": [
-          1
+          0
         ],
         "are": [
-          2,
-          45,
-          50
+          1,
+          44,
+          49
         ],
         "described": [
-          3,
-          37
+          2,
+          36
         ],
         "for": [
-          4,
-          29,
-          69,
-          80
+          3,
+          28,
+          68,
+          79
         ],
         "the": [
-          5,
-          14,
-          70,
-          81,
-          86,
-          96,
-          102,
-          108,
-          113,
-          122,
-          125
+          4,
+          13,
+          69,
+          80,
+          85,
+          95,
+          101,
+          107,
+          112,
+          121,
+          124
         ],
         "first": [
-          6
+          5
         ],
         "time": [
-          7
+          6
         ],
         "from": [
-          8,
-          33
+          7,
+          32
         ],
         "Permian–Triassic": [
-          9
+          8
         ],
         "shallow": [
+          9,
+          128
+        ],
+        "marine": [
           10,
           129
         ],
-        "marine": [
-          11,
-          130
-        ],
         "sediments": [
-          12
+          11
         ],
         "of": [
-          13,
-          17,
-          85,
-          89,
-          124
+          12,
+          16,
+          84,
+          88,
+          123
         ],
         "Khuff": [
+          14,
+          86,
+          125
+        ],
+        "Formation": [
           15,
           87,
           126
         ],
-        "Formation": [
-          16,
-          88,
-          127
-        ],
         "central": [
+          17,
+          89
+        ],
+        "Saudi": [
           18,
           90
         ],
-        "Saudi": [
+        "Arabia.": [
           19,
           91
         ],
-        "Arabia.": [
-          20,
-          92
-        ],
         "They": [
-          21
+          20
         ],
         "were": [
-          22
+          21
         ],
         "collected": [
-          23
+          22
         ],
         "using": [
-          24
+          23
         ],
         "a": [
-          25,
-          65,
-          75
+          24,
+          64,
+          74
         ],
         "modified": [
-          26
+          25
         ],
         "acetolysis": [
-          27
+          26
         ],
         "technique": [
-          28
+          27
         ],
         "releasing": [
-          30
+          29
         ],
         "calcareous": [
-          31
+          30
         ],
         "shells": [
-          32
+          31
         ],
         "limestones": [
-          34
+          33
         ],
         "that": [
-          35,
-          95,
-          121
-        ],
-        "is": [
-          36,
-          99
-        ],
-        "herein.": [
-          38
-        ],
-        "Thirty-four": [
-          39
-        ],
-        "species": [
-          40,
-          49
-        ],
-        "belonging": [
-          41
-        ],
-        "to": [
-          42
-        ],
-        "genera": [
-          44
-        ],
-        "recognized.": [
-          46
-        ],
-        "Two": [
-          47
-        ],
-        "new": [
-          48
-        ],
-        "described:": [
-          51
-        ],
-        "Arqoviella": [
-          52
-        ],
-        "arabica": [
-          53
-        ],
-        "sp.": [
-          54,
-          59
-        ],
-        "nov.": [
-          55,
-          60
-        ],
-        "and": [
-          56,
-          74,
-          115,
-          133
-        ],
-        "A.": [
-          57
-        ],
-        "khartamensis": [
-          58
-        ],
-        "The": [
-          61
-        ],
-        "ostracod": [
-          62
-        ],
-        "fauna": [
-          63
-        ],
-        "supports": [
-          64
-        ],
-        "Late": [
-          66
-        ],
-        "Permian": [
-          67
-        ],
-        "age": [
-          68,
-          79
-        ],
-        "lower": [
-          71
-        ],
-        "Khartam": [
-          72,
-          83,
-          103,
-          116
-        ],
-        "Member": [
-          73,
-          84
-        ],
-        "probable": [
-          76
-        ],
-        "Early": [
-          77
-        ],
-        "Triassic": [
-          78
-        ],
-        "upper": [
-          82
-        ],
-        "This": [
-          93
-        ],
-        "suggests": [
+          34,
           94,
           120
         ],
-        "Permian/Triassic": [
-          97
-        ],
-        "boundary": [
+        "is": [
+          35,
           98
         ],
-        "located": [
-          100
+        "herein.": [
+          37
         ],
-        "within": [
-          101
+        "Thirty-four": [
+          38
         ],
-        "Member,": [
-          104
+        "species": [
+          39,
+          48
         ],
-        "rather": [
-          105
+        "belonging": [
+          40
         ],
-        "than": [
-          106
+        "to": [
+          41
         ],
-        "at": [
-          107
+        "genera": [
+          43
         ],
-        "major": [
-          109
+        "recognized.": [
+          45
         ],
-        "lithological": [
-          110
+        "Two": [
+          46
         ],
-        "break": [
-          111
+        "new": [
+          47
         ],
-        "between": [
-          112
+        "described:": [
+          50
         ],
-        "Midhnab": [
-          114
+        "Arqoviella": [
+          51
         ],
-        "members.": [
-          117
+        "arabica": [
+          52
         ],
-        "Palaeoecological": [
-          118
+        "sp.": [
+          53,
+          58
         ],
-        "analysis": [
+        "nov.": [
+          54,
+          59
+        ],
+        "and": [
+          55,
+          73,
+          114,
+          132
+        ],
+        "A.": [
+          56
+        ],
+        "khartamensis": [
+          57
+        ],
+        "The": [
+          60
+        ],
+        "ostracod": [
+          61
+        ],
+        "fauna": [
+          62
+        ],
+        "supports": [
+          63
+        ],
+        "Late": [
+          65
+        ],
+        "Permian": [
+          66
+        ],
+        "age": [
+          67,
+          78
+        ],
+        "lower": [
+          70
+        ],
+        "Khartam": [
+          71,
+          82,
+          102,
+          115
+        ],
+        "Member": [
+          72,
+          83
+        ],
+        "probable": [
+          75
+        ],
+        "Early": [
+          76
+        ],
+        "Triassic": [
+          77
+        ],
+        "upper": [
+          81
+        ],
+        "This": [
+          92
+        ],
+        "suggests": [
+          93,
           119
         ],
+        "Permian/Triassic": [
+          96
+        ],
+        "boundary": [
+          97
+        ],
+        "located": [
+          99
+        ],
+        "within": [
+          100
+        ],
+        "Member,": [
+          103
+        ],
+        "rather": [
+          104
+        ],
+        "than": [
+          105
+        ],
+        "at": [
+          106
+        ],
+        "major": [
+          108
+        ],
+        "lithological": [
+          109
+        ],
+        "break": [
+          110
+        ],
+        "between": [
+          111
+        ],
+        "Midhnab": [
+          113
+        ],
+        "members.": [
+          116
+        ],
+        "Palaeoecological": [
+          117
+        ],
+        "analysis": [
+          118
+        ],
         "palaeoenvironment": [
-          123
+          122
         ],
         "was": [
-          128
+          127
         ],
         "(between": [
-          131
+          130
         ],
         "m": [
-          135
+          134
         ],
         "deep)": [
-          136
+          135
         ],
         "on": [
-          137
+          136
         ],
         "an": [
-          138
+          137
         ],
         "internal": [
-          139
+          138
         ],
         "shelf.": [
-          140
+          139
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1580174060",
@@ -7035,7 +7036,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7309,13 +7310,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.53,
+      "fwci": 3.4646,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 87,
+      "cited_by_count": 90,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89630513,
+        "value": 0.89598516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7625,8 +7626,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -7674,7 +7675,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 5
+          "cited_by_count": 7
         },
         {
           "year": 2024,
@@ -7686,7 +7687,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2021,
@@ -7729,7 +7730,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8302,8 +8303,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -10059,8 +10060,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -10368,6 +10369,7 @@
               "country_code": "FR",
               "type": "archive",
               "lineage": [
+                "https://openalex.org/I4210123595",
                 "https://openalex.org/I4210163586"
               ]
             }
@@ -10868,13 +10870,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3129,
+      "fwci": 0.3107,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 70,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.47009244,
+        "value": 0.46601414,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11228,8 +11230,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -11315,7 +11317,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11699,13 +11701,13 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 4.3285,
+      "fwci": 4.1021,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 66,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92763029,
+        "value": 0.92451347,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12090,8 +12092,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -12335,13 +12337,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5413,
+      "fwci": 2.5391,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 64,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88955397,
+        "value": 0.8895113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12658,10 +12660,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321464",
+          "display_name": "British Geological Survey",
+          "ror": "https://ror.org/04a7gbp98"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf",
@@ -13139,7 +13152,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -13926,8 +13939,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7778000235557556,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -13940,8 +13953,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -14405,13 +14418,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3846,
+      "fwci": 1.3576,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7785745,
+        "value": 0.77194492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14775,10 +14788,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -15298,7 +15317,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -15650,8 +15669,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -16828,13 +16847,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7029,
+      "fwci": 2.6997,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86927197,
+        "value": 0.86905705,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17195,10 +17214,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -18356,7 +18381,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-02-03T00:00:00"
     },
     {
@@ -18486,13 +18511,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.983,
+      "fwci": 0.982,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70493037,
+        "value": 0.7047296,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18790,16 +18815,27 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321464",
+          "display_name": "British Geological Survey",
+          "ror": "https://ror.org/04a7gbp98"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf",
@@ -19276,7 +19312,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19804,13 +19840,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8453,
+      "fwci": 0.8355,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 21,
+      "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68399111,
+        "value": 0.67733922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20035,8 +20071,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -20068,7 +20104,7 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2024,
@@ -20099,7 +20135,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20311,13 +20347,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9878,
+      "fwci": 1.957,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84593301,
+        "value": 0.84293278,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20698,7 +20734,7 @@
         {
           "id": "pmh:oai:doaj.org/article:736bda46d40a46f192a01f6d1b3473fc",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/736bda46d40a46f192a01f6d1b3473fc",
           "pdf_url": null,
           "source": {
@@ -20716,8 +20752,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -20804,10 +20840,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        },
+        {
+          "id": "https://openalex.org/F4320330232",
+          "display_name": "Sorbonne Université",
+          "ror": null
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -21712,7 +21759,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-06-23T00:00:00"
     },
     {
@@ -22064,13 +22111,13 @@
         "value_usd": 4670
       },
       "apc_paid": null,
-      "fwci": 2.2684,
+      "fwci": 2.2498,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 69,
+      "cited_by_count": 70,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85410245,
+        "value": 0.853741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22440,8 +22487,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -22519,6 +22566,10 @@
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2127288366",
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 3
         },
@@ -22567,7 +22618,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23086,8 +23137,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -23169,7 +23220,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -24138,8 +24189,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25270,8 +25321,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -25986,13 +26037,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1796,
+      "fwci": 1.1784,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74934136,
+        "value": 0.74919917,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26312,10 +26363,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf",
@@ -26850,7 +26907,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -26997,13 +27054,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1966,
+      "fwci": 0.1964,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37862251,
+        "value": 0.37761447,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27343,10 +27400,16 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf",
@@ -27734,7 +27797,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-08-22T00:00:00"
     },
     {
@@ -28165,8 +28228,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf",
@@ -28960,13 +29023,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1827,
+      "fwci": 1.1399,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72667946,
+        "value": 0.71165291,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29231,8 +29294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30231,13 +30294,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7864,
+      "fwci": 0.7856,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65637938,
+        "value": 0.65611457,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30529,10 +30592,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321464",
+          "display_name": "British Geological Survey",
+          "ror": "https://ror.org/04a7gbp98"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf",
@@ -31018,7 +31092,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -31454,8 +31528,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -32408,13 +32482,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6626,
+      "fwci": 0.6523,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54401914,
+        "value": 0.53826408,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32807,7 +32881,7 @@
         {
           "id": "pmh:oai:doaj.org/article:55e6ed9f507a445197b9305672301bcd",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/55e6ed9f507a445197b9305672301bcd",
           "pdf_url": null,
           "source": {
@@ -32825,8 +32899,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -32918,11 +32992,16 @@
           "id": "https://openalex.org/F4320323731",
           "display_name": "Bureau de Recherches Géologiques et Minières",
           "ror": "https://ror.org/05hnb7x64"
+        },
+        {
+          "id": "https://openalex.org/F4320330232",
+          "display_name": "Sorbonne Université",
+          "ror": null
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -33603,7 +33682,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2023-07-29T00:00:00"
     },
     {
@@ -34092,8 +34171,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35494,8 +35573,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36037,8 +36116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36663,8 +36742,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37420,8 +37499,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38102,8 +38181,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38785,8 +38864,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39408,8 +39487,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39893,8 +39972,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40352,8 +40431,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41011,8 +41090,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

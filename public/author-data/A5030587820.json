@@ -557,7 +557,8 @@
               "country_code": "CA",
               "type": "company",
               "lineage": [
-                "https://openalex.org/I196198406"
+                "https://openalex.org/I196198406",
+                "https://openalex.org/I212195252"
               ]
             }
           ],
@@ -900,10 +901,10 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 18.7415,
+      "fwci": 18.6068,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 149,
+      "cited_by_count": 150,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.99535963,
@@ -1216,8 +1217,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -1324,7 +1325,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2019,
@@ -1359,7 +1360,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-04-28T00:00:00"
     },
     {
@@ -1968,8 +1969,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 159,
@@ -2409,7 +2410,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
@@ -2429,17 +2430,21 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5104094821"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7211,
+      "fwci": 0.715,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57587089,
+        "value": 0.5738189,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2757,8 +2762,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -3635,7 +3640,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2022-11-04T00:00:00"
     },
     {
@@ -3965,13 +3970,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9215,
+      "fwci": 1.9035,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 31,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85558739,
+        "value": 0.85478169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4298,10 +4303,21 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320307899",
+          "display_name": "ConocoPhillips",
+          "ror": "https://ror.org/04hadnb81"
+        },
+        {
+          "id": "https://openalex.org/F4320319946",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -4973,7 +4989,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5626,8 +5642,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -7395,8 +7411,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 129,
@@ -8374,7 +8390,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "Ivan Deshenenkov",
           "raw_affiliation_strings": [
@@ -8433,19 +8449,21 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5046919784"
+      ],
       "corresponding_institution_ids": [
         "https://openalex.org/I4210143841"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1233,
+      "fwci": 2.0555,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82775713,
+        "value": 0.82250724,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8815,7 +8833,7 @@
         {
           "id": "pmh:oai:doaj.org/article:cb0e4942c0bb42b7b4110e8800c0bced",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/cb0e4942c0bb42b7b4110e8800c0bced",
           "pdf_url": null,
           "source": {
@@ -8833,8 +8851,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -8896,8 +8914,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3005990354.pdf",
@@ -9425,7 +9443,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2020-02-24T00:00:00"
     },
     {
@@ -10014,8 +10032,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -10584,8 +10602,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

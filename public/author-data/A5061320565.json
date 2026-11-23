@@ -517,29 +517,53 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "Abdulaziz Abdullah al-Laboun",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "ARAMCO Dhahran Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ARAMCO Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5061320565"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5334,
+      "fwci": 1.5321,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 110,
+      "cited_by_count": 111,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.78436658,
@@ -805,8 +829,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -824,223 +848,233 @@
         "https://openalex.org/W1489814294"
       ],
       "abstract_inverted_index": {
-        "31": [
-          11
+        "The": [
+          0,
+          26,
+          49,
+          76
         ],
-        "1984": [
-          3
-        ],
-        "Based": [
-          0
-        ],
-        "on": [
-          1
-        ],
-        "a": [
-          2,
-          8
-        ],
-        "conference,": [
-          4
-        ],
-        "this": [
-          5
-        ],
-        "volume": [
-          6
-        ],
-        "is": [
-          7
-        ],
-        "compilation": [
-          9
-        ],
-        "of": [
-          10,
-          12,
-          25,
-          45,
-          51
-        ],
-        "the": [
-          13,
-          22,
-          27,
-          74
-        ],
-        "papers": [
-          14
-        ],
-        "presented": [
-          15
-        ],
-        "at": [
-          16
-        ],
-        "that": [
-          17
-        ],
-        "conference.": [
-          18
-        ],
-        "These": [
-          19
-        ],
-        "articles": [
-          20
-        ],
-        "address": [
-          21
-        ],
-        "challenging": [
-          23
-        ],
-        "questions": [
-          24
-        ],
-        "where": [
-          26
-        ],
-        "world's": [
-          28
-        ],
-        "explorationists": [
-          29
-        ],
-        "must": [
-          30
-        ],
-        "search": [
-          31
-        ],
-        "for": [
-          32
-        ],
-        "petroleum.": [
-          33
-        ],
-        "Potential": [
-          34
-        ],
-        "and": [
-          35,
-          73
-        ],
-        "prospective": [
-          36
-        ],
-        "areas": [
-          37
-        ],
-        "discussed": [
-          38
-        ],
-        "include:": [
-          39
-        ],
-        "Antarctica,": [
-          40
-        ],
-        "Circum-Arctic,": [
-          41
-        ],
-        "Alaska,": [
-          42
-        ],
-        "Arctic": [
-          43
-        ],
-        "basins": [
-          44
-        ],
-        "Canada,": [
-          46,
-          48
-        ],
-        "Eastern": [
-          47
-        ],
-        "Amazon,": [
-          49
-        ],
-        "Gulf": [
+        "Tabuk": [
+          1,
+          37,
           50
         ],
-        "Mexico,": [
-          52
+        "and": [
+          2,
+          19,
+          22,
+          42
         ],
-        "U.S.": [
-          53
+        "Widyan": [
+          3,
+          44,
+          64,
+          89
         ],
-        "Atlantic": [
-          54
+        "basins": [
+          4
         ],
-        "margin,": [
+        "of": [
+          5,
+          17,
+          57,
+          83,
+          95
+        ],
+        "the": [
+          6,
+          30,
+          36,
+          40,
+          43,
+          47,
+          63,
+          84,
+          88,
+          92,
+          96
+        ],
+        "greater": [
+          7
+        ],
+        "Arabian": [
+          8,
+          97
+        ],
+        "basin": [
+          9,
+          38,
+          45,
+          51,
+          65,
+          90
+        ],
+        "contain": [
+          10
+        ],
+        "more": [
+          11
+        ],
+        "than": [
+          12
+        ],
+        "5,000": [
+          13
+        ],
+        "m": [
+          14
+        ],
+        "(16,400": [
+          15
+        ],
+        "ft)": [
+          16
+        ],
+        "oil-": [
+          18
+        ],
+        "gas-prospective": [
+          20
+        ],
+        "clastic": [
+          21
+        ],
+        "carbonate": [
+          23
+        ],
+        "Paleozoic": [
+          24,
           55
         ],
-        "Arabia,": [
-          56
+        "sediments.": [
+          25
         ],
-        "Mozambique,": [
-          57
+        "Ha'il-Rutbah": [
+          27
         ],
-        "Ghana,": [
-          58
+        "Arch": [
+          28
         ],
-        "Australia,": [
-          59
+        "divides": [
+          29
         ],
-        "northwestern": [
-          60
+        "region": [
+          31
         ],
-        "China,": [
-          61
+        "into": [
+          32
         ],
-        "Philippine": [
-          62
+        "two": [
+          33
         ],
-        "Islands,": [
-          63
+        "main": [
+          34
+        ],
+        "basins:": [
+          35
+        ],
+        "to": [
+          39,
+          46,
+          59,
+          78
         ],
         "west": [
-          64
+          41
         ],
-        "Siberia,": [
-          65
+        "east.": [
+          48
         ],
-        "Mediterranean,": [
-          66
+        "is": [
+          52
         ],
-        "Sicily,": [
+        "filled": [
+          53
+        ],
+        "with": [
+          54
+        ],
+        "sediments": [
+          56,
           67
         ],
-        "North": [
-          68
-        ],
-        "Sea,": [
-          69
-        ],
-        "Norway,": [
-          70
-        ],
-        "Greenland": [
-          71
-        ],
-        "sea,": [
+        "Cambrian": [
+          58,
           72
         ],
-        "Barents": [
+        "Devonian": [
+          60
+        ],
+        "age,": [
+          61
+        ],
+        "whereas": [
+          62
+        ],
+        "contains": [
+          66
+        ],
+        "ranging": [
+          68
+        ],
+        "in": [
+          69
+        ],
+        "age": [
+          70
+        ],
+        "from": [
+          71,
+          91
+        ],
+        "through": [
+          73
+        ],
+        "Late": [
+          74
+        ],
+        "Permian.": [
           75
         ],
-        "sea.": [
-          76
+        "north": [
+          77
+        ],
+        "south": [
+          79
+        ],
+        "trending": [
+          80
+        ],
+        "basement": [
+          81
+        ],
+        "rock": [
+          82
+        ],
+        "Summan": [
+          85
+        ],
+        "Platform": [
+          86
+        ],
+        "separates": [
+          87
+        ],
+        "eastern": [
+          93
+        ],
+        "sector": [
+          94
+        ],
+        "basin.": [
+          98
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1525628619",
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -1099,7 +1133,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1466,8 +1500,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -2285,8 +2319,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -2925,8 +2959,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -3387,8 +3421,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4771,8 +4805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2169570507.pdf",
@@ -5802,8 +5836,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -5988,13 +6022,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1175,
+      "fwci": 2.1082,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 51,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84542411,
+        "value": 0.84490934,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6290,8 +6324,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6309,892 +6343,445 @@
         "https://openalex.org/W7217357401"
       ],
       "abstract_inverted_index": {
-        "100": [
-          75,
-          126
-        ],
-        "1026": [
-          23,
-          47
-        ],
-        "1988": [
-          4
-        ],
-        "2017": [
-          61,
-          85
-        ],
-        "Research": [
+        "Correlative": [
           0
         ],
-        "Article|": [
-          1
-        ],
-        "March": [
-          2
-        ],
-        "01,": [
-          3
-        ],
-        "The": [
-          5,
-          112,
-          213,
-          255
-        ],
-        "distribution": [
-          6,
-          113
-        ],
-        "of": [
-          7,
-          55,
-          70,
-          114,
-          170,
-          179,
-          208,
-          282,
-          291,
-          296,
-          302,
-          307,
-          313,
-          323,
-          330,
-          334,
-          346,
-          353
-        ],
-        "Carboniferous-Permian": [
-          8,
-          115,
-          226,
-          233,
-          336
-        ],
-        "siliciclastic": [
-          9,
-          116
-        ],
-        "rocks": [
-          10,
-          117,
-          196,
-          234,
-          260,
-          275,
-          355
-        ],
-        "in": [
-          11,
-          118,
-          237,
-          244,
-          252,
-          356,
-          359
-        ],
-        "the": [
-          12,
-          119,
-          190,
-          245,
-          253,
-          279,
-          285,
-          288,
-          293,
-          299,
-          304,
-          310,
-          316,
-          327,
-          360,
-          370
-        ],
-        "greater": [
-          13,
-          120,
-          192
-        ],
-        "Arabian": [
-          14,
-          121,
-          193
-        ],
-        "basin": [
-          15
-        ],
-        "ABDULAZIZ": [
-          16,
-          19,
-          43,
-          109
-        ],
-        "ABDULLAH": [
-          17,
-          20,
-          44,
-          110
-        ],
-        "AL-LABOUN": [
-          18,
-          21,
-          45
-        ],
-        "1Box": [
-          22,
-          46
-        ],
-        "Aramco,": [
-          24,
-          48
-        ],
-        "Dhahran,": [
-          25,
-          49
-        ],
-        "Saudi": [
-          26,
-          50
-        ],
-        "Arabia": [
-          27,
-          51,
-          283
-        ],
-        "Search": [
-          28,
-          106,
-          146,
-          153,
-          164,
-          166
-        ],
-        "for": [
-          29,
-          258
-        ],
-        "other": [
-          30
-        ],
-        "works": [
-          31
-        ],
-        "by": [
-          32,
-          199,
-          218,
-          278
-        ],
-        "this": [
-          33,
-          225,
-          386
-        ],
-        "author": [
-          34
-        ],
-        "on:": [
-          35
-        ],
-        "GSW": [
-          36
-        ],
-        "Google": [
-          37
-        ],
-        "Scholar": [
-          38
-        ],
-        "Author": [
-          39
-        ],
-        "and": [
-          40,
-          174,
-          204,
-          240,
-          267,
-          284,
-          318,
-          326
-        ],
-        "Article": [
-          41,
-          79
-        ],
-        "Information": [
-          42
-        ],
-        "Publisher:": [
-          52
-        ],
-        "Geological": [
-          53,
-          68
-        ],
-        "Society": [
-          54,
-          69
-        ],
-        "America": [
-          56,
-          71
-        ],
-        "First": [
-          57,
-          81,
-          375
-        ],
-        "Online:": [
-          58,
-          82
-        ],
-        "01": [
-          59,
-          83
-        ],
-        "Jun": [
-          60,
-          84
-        ],
-        "Online": [
-          62
-        ],
-        "ISSN:": [
-          63,
-          66
-        ],
-        "1943-2674": [
-          64
-        ],
-        "Print": [
-          65
-        ],
-        "0016-7606": [
-          67
-        ],
-        "GSA": [
-          72,
-          123
-        ],
-        "Bulletin": [
-          73,
-          124,
-          163
-        ],
-        "(1988)": [
-          74
-        ],
-        "(3):": [
-          76,
-          127
-        ],
-        "362–373.": [
-          77,
-          128
-        ],
-        "https://doi.org/10.1130/0016-7606(1988)100<0362:TDOCPS>2.3.CO;2": [
-          78,
-          130
-        ],
-        "history": [
-          80
-        ],
-        "Cite": [
-          86
-        ],
-        "View": [
-          87
-        ],
-        "This": [
-          88,
-          362
-        ],
-        "Citation": [
-          89,
-          92,
-          108
-        ],
-        "Add": [
-          90
-        ],
-        "to": [
-          91,
-          373,
-          385,
-          390
-        ],
-        "Manager": [
-          93
-        ],
-        "Share": [
-          94,
-          96
-        ],
-        "Icon": [
-          95,
-          102
-        ],
-        "Facebook": [
-          97
-        ],
-        "Twitter": [
-          98
-        ],
-        "LinkedIn": [
-          99
-        ],
-        "MailTo": [
-          100
-        ],
-        "Tools": [
-          101,
-          103
-        ],
-        "Get": [
-          104
-        ],
-        "Permissions": [
-          105
-        ],
-        "Site": [
-          107
-        ],
-        "AL-LABOUN;": [
-          111
-        ],
-        "basin.": [
-          122,
-          194,
-          361
-        ],
-        "1988;;": [
-          125
-        ],
-        "doi:": [
-          129
-        ],
-        "Download": [
-          131
-        ],
-        "citation": [
-          132
-        ],
-        "file:": [
-          133
-        ],
-        "Ris": [
-          134
-        ],
-        "(Zotero)": [
-          135
-        ],
-        "Refmanager": [
-          136
-        ],
-        "EasyBib": [
-          137
-        ],
-        "Bookends": [
-          138
-        ],
-        "Mendeley": [
-          139
-        ],
-        "Papers": [
-          140
-        ],
-        "EndNote": [
-          141
-        ],
-        "RefWorks": [
-          142
-        ],
-        "BibTex": [
-          143
-        ],
-        "toolbar": [
-          144,
-          149
-        ],
-        "search": [
-          145,
-          150,
-          151,
-          159
-        ],
-        "Dropdown": [
-          147
-        ],
-        "Menu": [
-          148
-        ],
-        "input": [
-          152,
-          154
-        ],
-        "auto": [
-          155
-        ],
-        "suggest": [
-          156
-        ],
-        "filter": [
-          157
-        ],
-        "your": [
-          158,
-          391
-        ],
-        "All": [
-          160
-        ],
-        "ContentBy": [
-          161
-        ],
-        "SocietyGSA": [
-          162
-        ],
-        "Advanced": [
-          165
-        ],
-        "Abstract": [
-          167
-        ],
-        "Correlative": [
-          168
-        ],
         "sequences": [
-          169,
-          337
-        ],
-        "sandstones,": [
+          1,
           171
         ],
-        "silt-stones,": [
-          172
-        ],
-        "claystones,": [
-          173
-        ],
-        "thin": [
-          175,
-          238
-        ],
-        "argillaceous": [
-          176
-        ],
-        "carbonate": [
-          177
-        ],
-        "beds": [
-          178
-        ],
-        "late": [
-          180
-        ],
-        "Carboniferous-Early": [
-          181
-        ],
-        "Permian": [
-          182,
-          209
-        ],
-        "age": [
-          183,
-          256
-        ],
-        "occupy": [
-          184
-        ],
-        "a": [
-          185,
-          200,
-          205,
-          219
-        ],
-        "distinct": [
-          186
-        ],
-        "stratigraphic": [
+        "of": [
+          2,
+          11,
+          40,
+          116,
+          125,
+          130,
+          136,
+          141,
+          147,
+          157,
+          164,
+          168,
+          180,
           187
         ],
+        "sandstones,": [
+          3
+        ],
+        "silt-stones,": [
+          4
+        ],
+        "claystones,": [
+          5
+        ],
+        "and": [
+          6,
+          36,
+          73,
+          100,
+          118,
+          152,
+          160
+        ],
+        "thin": [
+          7,
+          71
+        ],
+        "argillaceous": [
+          8
+        ],
+        "carbonate": [
+          9
+        ],
+        "beds": [
+          10
+        ],
+        "late": [
+          12
+        ],
+        "Carboniferous-Early": [
+          13
+        ],
+        "Permian": [
+          14,
+          41
+        ],
+        "age": [
+          15,
+          89
+        ],
+        "occupy": [
+          16
+        ],
+        "a": [
+          17,
+          32,
+          37,
+          51
+        ],
+        "distinct": [
+          18
+        ],
+        "stratigraphic": [
+          19
+        ],
         "position": [
-          188
+          20
         ],
         "over": [
-          189
+          21
+        ],
+        "the": [
+          22,
+          78,
+          86,
+          113,
+          119,
+          122,
+          127,
+          133,
+          138,
+          144,
+          150,
+          161,
+          194
         ],
         "entire": [
-          191
+          23
         ],
-        "These": [
+        "greater": [
+          24
+        ],
+        "Arabian": [
+          25
+        ],
+        "basin.": [
+          26,
           195
         ],
+        "These": [
+          27,
+          108
+        ],
+        "rocks": [
+          28,
+          67,
+          93,
+          109,
+          189
+        ],
         "are": [
-          197,
-          249,
-          276,
-          338,
-          348
+          29,
+          82,
+          110,
+          172,
+          182
         ],
         "bracketed": [
-          198
+          30
+        ],
+        "by": [
+          31,
+          50,
+          112
         ],
         "regional": [
-          201
+          33
         ],
         "unconformity": [
-          202,
-          222
+          34,
+          54
         ],
         "below": [
-          203
+          35
         ],
         "conformable": [
-          206
+          38
         ],
         "succession": [
-          207,
-          227
+          39,
+          59
         ],
         "carbonates": [
-          210
+          42
         ],
         "above": [
-          211
+          43
         ],
         "them.": [
-          212
+          44
+        ],
+        "The": [
+          45,
+          65,
+          88
         ],
         "basal": [
-          214
+          46
         ],
         "contact": [
-          215
+          47
         ],
         "is": [
-          216,
-          261,
-          364
+          48,
+          94
         ],
         "marked": [
-          217
+          49
         ],
         "pronounced": [
-          220
+          52
         ],
         "angular": [
-          221
+          53
         ],
         "which": [
-          223
+          55
         ],
         "separates": [
-          224
+          56
+        ],
+        "this": [
+          57
+        ],
+        "Carboniferous-Permian": [
+          58,
+          66,
+          170
         ],
         "from": [
-          228,
-          351
+          60,
+          185
         ],
         "underlying,": [
-          229
+          61
         ],
         "much": [
-          230
+          62
         ],
         "older": [
-          231
+          63
         ],
-        "rocks.The": [
-          232
+        "rocks.": [
+          64
         ],
         "crop": [
-          235
+          68
         ],
         "out": [
-          236
+          69
+        ],
+        "in": [
+          70,
+          77,
+          85,
+          190,
+          193
         ],
         "bands": [
-          239
+          72
         ],
         "scattered": [
-          241
+          74
         ],
         "small": [
-          242
+          75
         ],
         "exposures": [
-          243
+          76
         ],
         "basin,": [
-          246
+          79
         ],
         "but": [
-          247
+          80
         ],
         "they": [
-          248
+          81
         ],
         "commonly": [
-          250
+          83
         ],
         "encountered": [
-          251
+          84
         ],
         "subsurface.": [
-          254
+          87
         ],
         "assignment": [
-          257
+          90
+        ],
+        "for": [
+          91
         ],
         "these": [
-          259,
-          335,
-          354
+          92,
+          169,
+          188
         ],
         "based": [
-          262
+          95
         ],
         "on": [
-          263,
-          272,
-          369
+          96,
+          105
         ],
         "both": [
-          264
+          97
         ],
         "fossil": [
-          265
+          98
         ],
         "plants": [
-          266
+          99
         ],
         "palynomorphs": [
-          268
+          101
         ],
         "as": [
-          269,
-          271,
-          343
+          102,
+          104,
+          177
         ],
         "well": [
-          270
+          103
         ],
         "stratigraphie": [
-          273
+          106
         ],
-        "position.These": [
-          274
+        "position.": [
+          107
         ],
         "represented": [
-          277
+          111
         ],
         "Unayzah": [
-          280
+          114
         ],
         "formation": [
-          281,
-          290,
-          295,
-          301,
-          306,
-          312,
-          329
+          115,
+          124,
+          129,
+          135,
+          140,
+          146,
+          163
+        ],
+        "Arabia": [
+          117
         ],
         "Gulf": [
-          286
+          120
         ],
         "region,": [
-          287
+          121
         ],
         "Amanus": [
-          289
+          123
         ],
         "Syria,": [
-          292
+          126
         ],
         "Hazro": [
-          294
+          128
         ],
         "southeast": [
-          297
+          131
         ],
         "Turkey,": [
-          298
+          132
         ],
         "Ga'ara": [
-          300
+          134
         ],
         "Iraq,": [
-          303
+          137
         ],
         "Faraghan": [
-          305
+          139
         ],
         "southwest": [
-          308
+          142
         ],
         "Iran,": [
-          309
+          143
         ],
         "Asfar": [
-          311
+          145
         ],
         "north": [
-          314
+          148
         ],
         "Oman,": [
-          315,
-          325
+          149,
+          159
         ],
         "Gharif": [
-          317
+          151
         ],
         "Khlata": [
-          319
+          153
         ],
         "formations": [
-          320
+          154
         ],
         "(Haushi": [
-          321
+          155
         ],
         "group)": [
-          322
+          156
         ],
         "south": [
-          324
+          158
         ],
         "Akbarah": [
-          328
+          162
         ],
         "North": [
-          331
+          165
         ],
         "Yemen.": [
-          332
+          166
         ],
         "Sandstones": [
-          333
+          167
         ],
         "important": [
-          339
+          173
         ],
         "hydrocarbon": [
-          340
+          174
         ],
         "exploration": [
-          341
+          175
         ],
         "targets,": [
-          342
+          176
         ],
         "significant": [
-          344
+          178
         ],
         "quantities": [
-          345
+          179
         ],
         "hydrocarbons": [
-          347
+          181
         ],
         "currently": [
-          349
+          183
         ],
         "produced": [
-          350
+          184
         ],
         "reservoirs": [
-          352
+          186
         ],
         "several": [
-          357
+          191
         ],
         "oilfields": [
-          358
-        ],
-        "content": [
-          363
-        ],
-        "PDF": [
-          365,
-          371
-        ],
-        "only.": [
-          366
-        ],
-        "Please": [
-          367
-        ],
-        "click": [
-          368
-        ],
-        "icon": [
-          372
-        ],
-        "access.": [
-          374,
-          400
-        ],
-        "Page": [
-          376
-        ],
-        "Preview": [
-          377
-        ],
-        "Close": [
-          378
-        ],
-        "Modal": [
-          379
-        ],
-        "You": [
-          380
-        ],
-        "do": [
-          381
-        ],
-        "not": [
-          382
-        ],
-        "have": [
-          383,
-          399
-        ],
-        "access": [
-          384
-        ],
-        "content,": [
-          387
-        ],
-        "please": [
-          388
-        ],
-        "speak": [
-          389
-        ],
-        "institutional": [
-          392
-        ],
-        "administrator": [
-          393
-        ],
-        "if": [
-          394
-        ],
-        "you": [
-          395,
-          397
-        ],
-        "feel": [
-          396
-        ],
-        "should": [
-          398
+          192
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2057186847",
@@ -7236,7 +6823,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7985,8 +7572,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -8940,8 +8527,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10138,8 +9725,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11043,8 +10630,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11456,8 +11043,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12352,8 +11939,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

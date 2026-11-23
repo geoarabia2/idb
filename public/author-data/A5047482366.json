@@ -518,7 +518,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
@@ -574,7 +574,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [
@@ -595,26 +595,22 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5008853309",
-        "https://openalex.org/A5047482366",
-        "https://openalex.org/A5070429780"
+        "https://openalex.org/A5008853309"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I31512782"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2290,
         "currency": "USD",
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.7474,
+      "fwci": 0.7436,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 35,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6501822,
+        "value": 0.64835069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1021,7 +1017,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2018-03-29T00:00:00"
     },
     {
@@ -1657,7 +1653,7 @@
         "is_oa": true,
         "oa_status": "gold",
         "oa_url": "https://www.mdpi.com/2072-4292/17/5/766/pdf?version=1740389027",
-        "any_repository_has_fulltext": true
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -2052,13 +2048,13 @@
         "currency": "CHF",
         "value_usd": 3258
       },
-      "fwci": 2.5615,
+      "fwci": 2.5199,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88828522,
+        "value": 0.88587388,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2335,7 +2331,7 @@
         {
           "id": "pmh:oai:doaj.org/article:0dee69d7e36c4dbe8407ad485151022f",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/0dee69d7e36c4dbe8407ad485151022f",
           "pdf_url": null,
           "source": {
@@ -2353,8 +2349,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -3202,7 +3198,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2025-02-26T00:00:00"
     },
     {
@@ -3518,13 +3514,13 @@
         "value_usd": 2390
       },
       "apc_paid": null,
-      "fwci": 1.7583,
+      "fwci": 1.7565,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83490319,
+        "value": 0.83480479,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3855,7 +3851,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321112",
+          "display_name": "Eberhard Karls Universität Tübingen",
+          "ror": "https://ror.org/03a1kwz48"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -3984,7 +3986,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4407,13 +4409,13 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 1.3383,
+      "fwci": 1.3339,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 16,
+      "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77680061,
+        "value": 0.77628387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4791,7 +4793,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2018,
@@ -4810,7 +4812,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10897,7 +10899,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6645,
+      "fwci": 0.6618,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
@@ -11207,7 +11209,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {

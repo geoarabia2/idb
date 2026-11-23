@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 01:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:33:24 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Towards universally robust oil spill detection: A systematic remote sensing review on transferability, look-alikes, and real-time deployment</title>
@@ -49,6 +49,20 @@
       <description>Topics: Testbed, Identification (biology), Computer science, Inference, Artificial intelligence&#10;Venue: Review of Palaeobotany and Palynology&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
+      <title>DUNE: code for a reproducible two-stage 1 km surface NO2 benchmark over the Gulf Cooperation Council</title>
+      <link>https://doi.org/10.5281/zenodo.24090322</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7225649364</guid>
+      <dc:creator>Shahadat Baser, Bassam Tawabini, Muhammad Bilal, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Remote sensing</category>
+      <category>Code (set theory)</category>
+      <category>Table (database)</category>
+      <category>Benchmark (surveying)</category>
+      <category>Sensitivity (control systems)</category>
+      <description>Abstract: Google Earth Engine extraction, ground-data quality control, Stage 1 (column-to-surface XGBoost) and Stage 2 (PyTorch LSTM) models, sealed 2026 forward test, sensitivity runs, figure and table scripts for the DUNE benchmark. Ground observations are not redistributed; see README.&#10;Topics: Remote sensing, Code (set theory), Table (database), Benchmark (surveying), Sensitivity (control systems)&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>DUNE: models, predictor rasters, 1 km surface NO₂ maps and district series for the Gulf Cooperation Council</title>
       <link>https://doi.org/10.5281/zenodo.24145831</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
@@ -61,20 +75,6 @@
       <category>Grid</category>
       <category>Metadata</category>
       <description>Abstract: DUNE companion dataset: frozen models, predictor rasters, 1 km surface NO₂ maps and district series for the Gulf Cooperation Council This dataset accompanies the DUNE code (doi: 10.5281/zenodo.24145692) and the article “DUNE: A Reproducible Benchmark for 1-km Surface NO₂ Estimation Over the Gulf Cooperation Council” (S. Baser, B. S. Tawabini, M. Bilal, and A. Koeshidayatullah), submitted to IEEE Transactions on Geoscience and Remote Sensing. Together, the code and this dataset allow every table and figure of the article to be regenerated and the frozen models to be checked independently. DUNE estimates weekly and monthly surface nitrogen dioxide (NO₂) on a 0.01° grid (about 1 km) for the 744 districts of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. Stage 1 is an XGBoost model that converts TROPOMI tropospheric NO₂ columns to surface concentrations using meteorology, night lights, vegetation, human-settlement, and terrain predictors. Stage 2 consists of LSTM networks for estimation and for satellite-free projection of 2024–2025. All rasters share one grid: EPSG:4326, 0.01°, 2534 × 1577 cells. Contents Models (models.zip). The frozen Stage 1 XGBoost model (stage1_&lt;winner&gt;.json) with its metadata file (features, settings, seed, SHA-256 hash), and the LSTM-E and LSTM-P ensembles (lstm_E.pt, lstm_P.pt) with stage2_meta.json, which records the settings, the seeds, and the SHA-256 hash of every frozen file. The archive also holds the validation metrics a…&#10;Topics: Terrain, Benchmark (surveying), Stage (stratigraphy), Grid, Metadata&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>DUNE: code for a reproducible two-stage 1 km surface NO2 benchmark over the Gulf Cooperation Council</title>
-      <link>https://doi.org/10.5281/zenodo.24090322</link>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7225649364</guid>
-      <dc:creator>Shahadat Baser, Bassam Tawabini, Muhammad Bilal, Ardiansyah Koeshidayatullah</dc:creator>
-      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
-      <category>Remote sensing</category>
-      <category>Code (set theory)</category>
-      <category>Table (database)</category>
-      <category>Benchmark (surveying)</category>
-      <category>Sensitivity (control systems)</category>
-      <description>Abstract: Google Earth Engine extraction, ground-data quality control, Stage 1 (column-to-surface XGBoost) and Stage 2 (PyTorch LSTM) models, sealed 2026 forward test, sensitivity runs, figure and table scripts for the DUNE benchmark. Ground observations are not redistributed; see README.&#10;Topics: Remote sensing, Code (set theory), Table (database), Benchmark (surveying), Sensitivity (control systems)&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Geochronology and geochemistry of Upper Paleozoic sandstones at Tiekelike, NW China: Implications for the tectonic evolution of the southwestern margin of the Tarim Block</title>
@@ -606,7 +606,7 @@
       <category>Geology</category>
       <category>Tectonics</category>
       <category>Geochemistry</category>
-      <description>Abstract: Geothermal waters represent a promising unconventional lithium (Li) resource, although economically viable concentrations are limited to a small number of systems worldwide. This study presents the first global quantitative synthesis of geological and hydrogeochemical controls on lithium enrichment in active hydrothermal systems, based on more than 5100 published hydrochemical datasets from geothermal waters and oil-reservoir brines. Integrated geochemical, statistical, and geospatial analyses show that most geothermal waters contain low Li concentrations, whereas a small subset is significantly enriched (&gt;10 mg/L), approaching values typical of oil-reservoir brines. Although tectonic and magmatic settings influence initial Li supply, Li enrichment shows no direct correlation with heat flow or tectonic setting, indicating that reservoir-scale processes exert the dominant control. Li-rich geothermal fluids are characterized by Na-Cl compositions, moderate-to-high salinity, near-neutral pH, and low Mg concentrations. Elevated reservoir temperatures increase water–rock interaction reaction rates and Li mobilization. Isotopic evidence indicates predominantly meteoric recharge, while mixing with magmatic fluids, prolonged fluid–rock interaction, and phase separation drive lithium enrichment. These results define a predictive geochemical–geological framework for identifying Li-enriched hydrothermal systems and demonstrate a fundamental decoupling between regional geothermal indicat…&#10;Topics: Geothermal gradient, Hydrothermal circulation, Geology, Tectonics, Geochemistry&#10;Venue: Earth-Science Reviews&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Abstract: Geothermal waters represent a promising unconventional lithium (Li) resource, although economically viable concentrations are limited to a small number of systems worldwide. This study presents the first global quantitative synthesis of geological and hydrogeochemical controls on lithium enrichment in active hydrothermal systems, based on more than 5100 published hydrochemical datasets from geothermal waters and oil-reservoir brines. Integrated geochemical, statistical, and geospatial analyses show that most geothermal waters contain low Li concentrations, whereas a small subset is significantly enriched (&gt;10 mg/L), approaching values typical of oil-reservoir brines. Although tectonic and magmatic settings influence initial Li supply, Li enrichment shows no direct correlation with heat flow or tectonic setting, indicating that reservoir-scale processes exert the dominant control. Li-rich geothermal fluids are characterized by Na-Cl compositions, moderate-to-high salinity, near-neutral pH, and low Mg concentrations. Elevated reservoir temperatures increase water–rock interaction reaction rates and Li mobilization. Isotopic evidence indicates predominantly meteoric recharge, while mixing with magmatic fluids, prolonged fluid–rock interaction, and phase separation drive lithium enrichment. These results define a predictive geochemical–geological framework for identifying Li-enriched hydrothermal systems and demonstrate a fundamental decoupling between regional geothermal indicat…&#10;Topics: Geothermal gradient, Hydrothermal circulation, Geology, Tectonics, Geochemistry&#10;Venue: Earth-Science Reviews&#10;Year: 2026&#10;Citations: 1</description>
     </item>
     <item>
       <title>Occurrence, characterization and screening-level risk assessment of polymer-confirmed microplastics in hyper-arid coastal groundwater from Al-Qatif, Saudi Arabia</title>
@@ -1390,7 +1390,7 @@
       <category>Geology</category>
       <category>Fractionation</category>
       <category>Geochemistry</category>
-      <description>Topics: Laterite, Supergene (geology), Geology, Fractionation, Geochemistry&#10;Venue: Episodes&#10;Year: 2026&#10;Citations: 1</description>
+      <description>Abstract: REE lateritization is the main pedogenetic process in tropical to subtropical conditions, where the extent of weathering plays a crucial role in the redistribution and accumulation of REEs throughout different soil layers. This study investigated the remobilization of REEs in laterite profiles developed over harzburgite protoliths (northern profiles) and layered gabbro (southern profiles) of the Semail ophiolite in the Oman Mountains. The ΣREE content of the laterite over the harzburgite protolith (350 μg/g) is much lower than that of the layered gabbro-derived laterite (798 μg/g). Oxide-REE correlations suggest that clay minerals such as montmorillonite and kaolinite, along with Fe‒Mn oxides, are likely the primary hosts for REEs. The Ce/Ce* values (0.08–1.04 in harzburgite and 0.75–1.1 in layered gabbro) indicate a slightly higher degree of oxidation during the lateritization of the layered gabbro. Moreover, the Eu/Eu* ratios (0.86–4.06 in harzburgite and 0.33–1.29 in layered gabbro) reflect reductive conditions during the lateritization of the harzburgite protolith. The IOL and UMIA values were used to assess weathering stages and paleoclimate conditions during lateralization. The study concluded that weathering in both the northern and southern profiles occurred under different climates, transitioning from cold and dry in the protolith and oxide horizons to warm in the clay horizons, whereas a hot and humid climate prevailed during saprolite formation. Although detailed s…&#10;Topics: Laterite, Supergene (geology), Geology, Fractionation, Geochemistry&#10;Venue: Episodes&#10;Year: 2026&#10;Citations: 1</description>
     </item>
     <item>
       <title>Assessing water security, climate risk, and groundwater resilience for sustainable development in the Eastern Province of Saudi Arabia</title>

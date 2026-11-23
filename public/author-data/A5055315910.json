@@ -532,13 +532,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4207,
+      "fwci": 1.4277,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 156,
+      "cited_by_count": 160,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79137478,
+        "value": 0.7916849,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -903,7 +903,18 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320313660",
+          "display_name": "Association for Applied Sport Psychology",
+          "ror": "https://ror.org/01ga4sr49"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -1873,7 +1884,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 21
+          "cited_by_count": 23
         },
         {
           "year": 2021,
@@ -1885,7 +1896,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 7
+          "cited_by_count": 9
         },
         {
           "year": 2018,
@@ -1916,7 +1927,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-05-16T00:00:00"
     },
     {
@@ -3805,13 +3816,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5553,
+      "fwci": 0.5561,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 62,
+      "cited_by_count": 64,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57508753,
+        "value": 0.57558461,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4180,7 +4191,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -5261,7 +5278,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2021,
@@ -5273,7 +5290,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2018,
@@ -5288,7 +5305,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -6649,13 +6666,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2732,
+      "fwci": 3.2583,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 86,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9204916,
+        "value": 0.92047165,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7013,7 +7030,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -8002,7 +8025,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-07-23T00:00:00"
     },
     {
@@ -8517,13 +8540,13 @@
         "value_usd": 3150
       },
       "apc_paid": null,
-      "fwci": 2.5125,
+      "fwci": 2.5067,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 28,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89331638,
+        "value": 0.89301865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8861,6 +8884,11 @@
           "id": "https://openalex.org/F4320311148",
           "display_name": "American Association of Petroleum Geologists",
           "ror": "https://ror.org/03aj2mv38"
+        },
+        {
+          "id": "https://openalex.org/F4320324450",
+          "display_name": "International Association of Sedimentologists",
+          "ror": "https://ror.org/05gv5sv44"
         }
       ],
       "has_content": {
@@ -9039,7 +9067,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2021-02-01T00:00:00"
     },
     {
@@ -9137,13 +9165,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5019,
+      "fwci": 0.5015,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53852715,
+        "value": 0.53823195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9478,7 +9506,13 @@
       ],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -10264,7 +10298,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10362,13 +10396,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1688,
+      "fwci": 0.1685,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37029152,
+        "value": 0.36959371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10665,7 +10699,23 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320350",
+          "display_name": "Cardiff University",
+          "ror": "https://ror.org/03kk7td41"
+        },
+        {
+          "id": "https://openalex.org/F4320324049",
+          "display_name": "Université de Bretagne Occidentale",
+          "ror": "https://ror.org/01b8h3982"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -11095,7 +11145,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -11193,13 +11243,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6526,
+      "fwci": 0.6516,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 27,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60119641,
+        "value": 0.60034183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11514,7 +11564,23 @@
       ],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320298",
+          "display_name": "University of Leeds",
+          "ror": "https://ror.org/024mrxd33"
+        },
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -12797,7 +12863,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13426,23 +13492,47 @@
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "G.W. Hughes",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Geological Technical Services Division, Saudi Aramco, Box 10646, Dhahran 31311, Saudi Arabia e-mail: geraint.hughes@aramco.com"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geological Technical Services Division, Saudi Aramco, Box 10646, Dhahran 31311, Saudi Arabia e-mail: geraint.hughes@aramco.com",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5055315910"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
@@ -13725,362 +13815,505 @@
         "https://openalex.org/W397040813"
       ],
       "abstract_inverted_index": {
-        "In": [
-          0
-        ],
-        "recent": [
-          1
-        ],
-        "years": [
-          2
-        ],
-        "the": [
-          3,
-          33,
-          123,
-          139
-        ],
-        "application": [
-          4,
-          124
-        ],
-        "of": [
-          5,
-          35,
-          59,
-          67,
-          93,
-          96,
-          125,
-          131
-        ],
-        "biostratigraphy": [
-          6
-        ],
-        "to": [
-          7,
-          63,
-          70,
-          138
-        ],
-        "hydrocarbon": [
-          8
-        ],
-        "exploration": [
-          9,
-          112
-        ],
-        "and": [
-          10,
-          18,
-          69,
-          110,
-          113,
-          128,
-          133
-        ],
-        "development": [
-          11,
-          28
-        ],
-        "has": [
-          12,
-          30
-        ],
-        "become": [
-          13
-        ],
-        "increasingly": [
-          14
-        ],
-        "important": [
-          15
-        ],
-        "both": [
-          16
-        ],
-        "scientifically": [
-          17
-        ],
-        "economically.": [
-          19
-        ],
         "The": [
-          20,
-          57,
-          80,
-          98,
-          115
+          0,
+          160,
+          192
         ],
-        "demand": [
-          21
-        ],
-        "for": [
-          22
-        ],
-        "higher": [
-          23
-        ],
-        "stratigraphical": [
-          24
-        ],
-        "resolution": [
-          25
-        ],
-        "in": [
-          26,
-          32,
-          39
-        ],
-        "field": [
-          27,
-          106
-        ],
-        "studies": [
-          29
-        ],
-        "resulted": [
-          31
-        ],
-        "utilization": [
-          34
-        ],
-        "new": [
-          36,
-          72,
-          119
-        ],
-        "approaches.": [
-          37
-        ],
-        "However,": [
-          38
-        ],
-        "under-explored": [
-          40
-        ],
-        "areas": [
-          41
-        ],
-        "with": [
-          42
-        ],
-        "little": [
-          43
-        ],
-        "reliable": [
-          44
-        ],
-        "primary": [
-          45
-        ],
-        "biostratigraphical": [
-          46
-        ],
-        "data,": [
-          47
-        ],
-        "conventional": [
-          48
-        ],
-        "methods": [
-          49
-        ],
-        "using": [
-          50
-        ],
-        "relatively": [
-          51
-        ],
-        "coarse": [
-          52
-        ],
-        "biozonations": [
-          53
-        ],
-        "still": [
-          54
-        ],
-        "have": [
-          55
-        ],
-        "relevance.": [
-          56
-        ],
-        "aim": [
-          58
-        ],
-        "this": [
-          60
-        ],
-        "volume": [
-          61
-        ],
-        "is": [
-          62
-        ],
-        "encourage": [
-          64
-        ],
-        "an": [
-          65
-        ],
-        "exchange": [
-          66
-        ],
-        "ideas": [
-          68
-        ],
-        "seed": [
-          71
-        ],
-        "research": [
-          73
-        ],
-        "initiatives": [
-          74
-        ],
-        "particularly": [
-          75
-        ],
-        "within": [
-          76
-        ],
-        "integrated": [
-          77
-        ],
-        "multidisciplinary": [
-          78
-        ],
-        "teams.": [
-          79
-        ],
-        "papers": [
-          81
-        ],
-        "are": [
-          82
-        ],
-        "divided": [
-          83
-        ],
-        "into": [
-          84
-        ],
-        "four": [
-          85
-        ],
-        "main": [
-          86
-        ],
-        "themes": [
-          87,
-          101
-        ],
-        "which": [
-          88
-        ],
-        "cover": [
-          89
-        ],
-        "a": [
-          90
-        ],
-        "broad": [
+        "Khuff": [
+          1,
+          45,
           91
         ],
-        "range": [
-          92
+        "Formation": [
+          2,
+          46
         ],
-        "modern": [
-          94
+        "of": [
+          3,
+          7,
+          10,
+          25,
+          51,
+          89,
+          126,
+          129,
+          168,
+          194,
+          196
         ],
-        "applications": [
-          95
+        "Saudi": [
+          4,
+          27,
+          48
         ],
-        "biostratigraphy.": [
-          97
+        "Arabia": [
+          5,
+          49
         ],
-        "first": [
-          99
+        "consists": [
+          6
         ],
-        "three": [
-          100
+        "a": [
+          8,
+          109,
+          127,
+          203
         ],
-        "are:": [
-          102
-        ],
-        "UK": [
-          103
-        ],
-        "North": [
-          104
-        ],
-        "Sea": [
-          105
-        ],
-        "development;": [
-          107
-        ],
-        "outcrop": [
-          108
-        ],
-        "analogues;": [
-          109
-        ],
-        "international": [
-          111
-        ],
-        "development.": [
-          114
-        ],
-        "final": [
-          116
-        ],
-        "section": [
-          117
-        ],
-        "discusses": [
-          118
-        ],
-        "methodologies,": [
-          120
-        ],
-        "such": [
-          121
-        ],
-        "as": [
+        "succession": [
+          9,
+          103,
           122
         ],
-        "correspondence": [
-          126
+        "shallow": [
+          11,
+          172
         ],
-        "analysis": [
-          127
+        "marine": [
+          12
         ],
-        "multivariate": [
-          129
+        "carbonates,": [
+          13
+        ],
+        "mudstones": [
+          14
+        ],
+        "and": [
+          15,
+          29,
+          77,
+          84,
+          104,
+          146,
+          156
+        ],
+        "evaporites.": [
+          16
+        ],
+        "It": [
+          17
+        ],
+        "is": [
+          18,
+          50,
+          65
+        ],
+        "exposed": [
+          19,
+          102
+        ],
+        "along": [
+          20
+        ],
+        "the": [
+          21,
+          38,
+          44,
+          59,
+          62,
+          71,
+          74,
+          81,
+          86,
+          90,
+          96,
+          101,
+          105,
+          118,
+          197,
+          208
+        ],
+        "basement-flanking": [
+          22
+        ],
+        "outcrop": [
+          23,
+          82
+        ],
+        "belt": [
+          24,
+          83
+        ],
+        "central": [
+          26
+        ],
+        "Arabia,": [
+          28
+        ],
+        "also": [
+          30
+        ],
+        "forms": [
+          31
+        ],
+        "important": [
+          32
+        ],
+        "hydrocarbon": [
+          33
+        ],
+        "reservoirs": [
+          34
+        ],
+        "at": [
+          35
+        ],
+        "depth": [
+          36
+        ],
+        "in": [
+          37,
+          47,
+          80,
+          95,
+          151
+        ],
+        "east.": [
+          39
+        ],
+        "Micropalaeontological": [
+          40,
+          112
+        ],
+        "evidence": [
+          41
+        ],
+        "suggests": [
+          42
+        ],
+        "that": [
+          43,
+          149,
+          176,
+          185
+        ],
+        "latest": [
+          52
+        ],
+        "Permian": [
+          53,
+          120
+        ],
+        "to": [
+          54,
+          123,
+          180
+        ],
+        "early": [
+          55
+        ],
+        "Triassic": [
+          56
+        ],
+        "age.": [
+          57
+        ],
+        "Of": [
+          58
+        ],
+        "four": [
+          60
+        ],
+        "members,": [
+          61
+        ],
+        "Permo-Triassic": [
+          63
+        ],
+        "boundary": [
+          64,
+          72
+        ],
+        "located": [
+          66
+        ],
+        "at,": [
+          67
+        ],
+        "or": [
+          68
+        ],
+        "slightly": [
+          69
+        ],
+        "above,": [
+          70
+        ],
+        "between": [
+          73,
+          100
+        ],
+        "uppermost": [
+          75
+        ],
+        "Midhnab": [
+          76
+        ],
+        "Khartam": [
+          78
+        ],
+        "Members": [
+          79
+        ],
+        "within": [
+          85,
+          117,
+          182
+        ],
+        "lower": [
+          87
+        ],
+        "part": [
+          88
+        ],
+        "B": [
+          92
+        ],
+        "carbonate": [
+          93,
+          121,
+          174
+        ],
+        "reservoir": [
+          94,
+          162
+        ],
+        "subsurface.": [
+          97
+        ],
+        "Accurate": [
+          98
         ],
         "correlation": [
+          99
+        ],
+        "subsurface": [
+          106,
+          161
+        ],
+        "lithologies": [
+          107
+        ],
+        "remains": [
+          108
+        ],
+        "tantalizing": [
+          110
+        ],
+        "problem.": [
+          111
+        ],
+        "biocomponents": [
+          113
+        ],
+        "are": [
+          114
+        ],
+        "sufficiently": [
+          115
+        ],
+        "distinct": [
+          116
+        ],
+        "late": [
+          119
+        ],
+        "enable": [
+          124
+        ],
+        "determination": [
+          125
+        ],
+        "series": [
+          128
+        ],
+        "palaeoenvironmentally": [
           130
         ],
-        "wells,": [
-          132
+        "significant": [
+          131,
+          144
         ],
-        "palynological": [
+        "biofacies": [
+          132,
+          142
+        ],
+        "for": [
+          133
+        ],
+        "which": [
           134
         ],
-        "processing": [
+        "no": [
           135
         ],
-        "techniques": [
+        "previous": [
           136
         ],
-        "applicable": [
+        "interpretation": [
           137
         ],
-        "wellsite.": [
+        "has": [
+          138
+        ],
+        "been": [
+          139,
+          200
+        ],
+        "suggested.": [
           140
+        ],
+        "Tiered": [
+          141
+        ],
+        "reveal": [
+          143
+        ],
+        "deepening": [
+          145
+        ],
+        "shoaling": [
+          147
+        ],
+        "trends": [
+          148
+        ],
+        "assist": [
+          150
+        ],
+        "determining": [
+          152
+        ],
+        "maximum": [
+          153
+        ],
+        "flooding": [
+          154
+        ],
+        "events": [
+          155
+        ],
+        "depositional": [
+          157
+        ],
+        "cycle": [
+          158
+        ],
+        "boundaries.": [
+          159
+        ],
+        "carbonates": [
+          163
+        ],
+        "display": [
+          164
+        ],
+        "subtle": [
+          165
+        ],
+        "palaeoenvironmental": [
+          166
+        ],
+        "variations": [
+          167
+        ],
+        "an": [
+          169
+        ],
+        "extensive,": [
+          170
+        ],
+        "generally": [
+          171
+        ],
+        "marine,": [
+          173
+        ],
+        "platform": [
+          175
+        ],
+        "ranged": [
+          177
+        ],
+        "from": [
+          178
+        ],
+        "intertidal": [
+          179
+        ],
+        "depths": [
+          181
+        ],
+        "intra-shelf": [
+          183
+        ],
+        "basins": [
+          184
+        ],
+        "probably": [
+          186
+        ],
+        "rarely": [
+          187
+        ],
+        "exceeded": [
+          188
+        ],
+        "storm": [
+          189
+        ],
+        "wave": [
+          190
+        ],
+        "base.": [
+          191
+        ],
+        "problems": [
+          193
+        ],
+        "synonomy": [
+          195
+        ],
+        "foraminifera": [
+          198
+        ],
+        "have": [
+          199
+        ],
+        "resolved": [
+          201
+        ],
+        "by": [
+          202,
+          207,
+          213
+        ],
+        "pragmatic": [
+          204
+        ],
+        "approach": [
+          205
+        ],
+        "justified": [
+          206
+        ],
+        "analytical": [
+          209
+        ],
+        "time": [
+          210
+        ],
+        "constraints": [
+          211
+        ],
+        "demanded": [
+          212
+        ],
+        "industrial": [
+          214
+        ],
+        "micropalaeontology.": [
+          215
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2980927449",
@@ -14118,7 +14351,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2019-10-25T00:00:00"
     },
     {
@@ -14203,32 +14436,98 @@
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1336856363",
+              "display_name": "Natural History Museum",
+              "ror": "https://ror.org/039zvsn29",
+              "country_code": "GB",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I1336856363"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "GB",
+            "SA"
+          ],
           "is_corresponding": true,
           "contributor_roles": [],
           "raw_author_name": "G. W. Hughes",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Applied Microfacies Limited, Llanbedr Dyffryn Clwyd, Wales, UK (e-mail: )",
+            "Department of Earth Science, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Department of Earth Science, The Natural History Museum, London",
+            "Saudi Aramco, Dhahran, Saudi Arabia (e-mail: )"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Microfacies Limited, Llanbedr Dyffryn Clwyd, Wales, UK (e-mail: )",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Science, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Science, The Natural History Museum, London",
+              "institution_ids": [
+                "https://openalex.org/I1336856363"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia (e-mail: )",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5055315910"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1336856363",
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5335,
+      "fwci": 4.5188,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94423025,
+        "value": 0.94415561,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14607,351 +14906,438 @@
         "https://openalex.org/W2761921170"
       ],
       "abstract_inverted_index": {
-        "23": [
-          8
+        "1963": [
+          70
         ],
-        "This": [
+        "As": [
           0
         ],
-        "TMS": [
-          1
+        "the": [
+          1,
+          5,
+          10,
+          23,
+          90,
+          99,
+          123,
+          176
         ],
-        "Special": [
+        "Middle": [
           2
         ],
-        "Publication": [
+        "East": [
           3
         ],
-        "comprises": [
-          4
+        "is": [
+          4,
+          13,
+          174
         ],
-        "a": [
-          5,
-          35,
-          56,
-          110
-        ],
-        "collection": [
+        "prime": [
           6
         ],
-        "of": [
-          7,
-          22,
-          47,
-          64,
-          69,
-          81,
-          102,
-          115,
-          126,
-          135
+        "hydrocarbon": [
+          7
         ],
-        "papers": [
-          9
-        ],
-        "with": [
-          10,
-          109,
-          143
-        ],
-        "an": [
-          11,
-          30,
-          144
-        ],
-        "international": [
-          12
-        ],
-        "authorship": [
-          13
-        ],
-        "reflecting": [
-          14
-        ],
-        "on": [
-          15,
-          112
-        ],
-        "landmarks": [
-          16
+        "province": [
+          8
         ],
         "in": [
-          17,
-          52,
-          74,
-          83,
-          118,
-          146
-        ],
-        "the": [
-          18,
-          44,
+          9,
+          46,
           48,
-          62,
-          67,
-          70,
-          75,
-          79,
-          95,
-          99,
-          113,
-          140
-        ],
-        "history": [
-          19
-        ],
-        "and": [
-          20,
-          37,
-          89,
-          98,
-          122,
-          139
-        ],
-        "development": [
-          21
-        ],
-        "Foraminiferal": [
-          23,
           53,
-          119
+          59,
+          62,
+          66,
+          69,
+          73,
+          82,
+          98,
+          128
         ],
-        "micropalaeontology.": [
-          24
+        "world,": [
+          11
         ],
-        "The": [
-          25,
-          106
+        "it": [
+          12
         ],
-        "volume": [
-          26
+        "not": [
+          14
         ],
-        "is": [
-          27
-        ],
-        "prefaced": [
-          28
-        ],
-        "by": [
-          29
-        ],
-        "introductory": [
-          31
-        ],
-        "overview": [
-          32
+        "surprising": [
+          15
         ],
         "that": [
-          33
+          16
         ],
-        "provides": [
-          34
+        "micropalaeontological": [
+          17,
+          80,
+          115,
+          159
         ],
-        "brief": [
-          36
+        "biostratigraphy": [
+          18
         ],
-        "selected": [
-          38
+        "has": [
+          19
         ],
-        "historical": [
-          39
+        "been": [
+          20,
+          165
         ],
-        "setting,": [
-          40
+        "employed": [
+          21
         ],
-        "as": [
-          41,
-          43
-        ],
-        "well": [
-          42
-        ],
-        "intended": [
-          45
-        ],
-        "aims": [
-          46
-        ],
-        "book.": [
-          49
-        ],
-        "Selected": [
-          50
-        ],
-        "developments": [
+        "by": [
+          22,
           51
         ],
-        "studies": [
-          54,
-          93
+        "various": [
+          24
         ],
-        "from": [
-          55,
-          61,
-          94
+        "national": [
+          25
         ],
-        "global": [
-          57
+        "and": [
+          26,
+          34,
+          39,
+          57,
+          71,
+          85,
+          92,
+          107,
+          153
         ],
-        "perspective": [
-          58
+        "international": [
+          27
         ],
-        "are": [
-          59
+        "oil": [
+          28,
+          45
         ],
-        "presented": [
-          60
-        ],
-        "time": [
-          63
-        ],
-        "Alcide": [
-          65
-        ],
-        "d'Orbignyand": [
-          66
-        ],
-        "founding": [
-          68
-        ],
-        "Paris": [
-          71
-        ],
-        "MNHN": [
-          72
-        ],
-        "collections": [
-          73
-        ],
-        "mid-nineteenth": [
-          76
-        ],
-        "century": [
-          77
+        "companies": [
+          29,
+          106
         ],
         "to": [
-          78,
-          129
+          30,
+          76
         ],
-        "use": [
-          80
+        "provide": [
+          31
         ],
-        "foraminifera": [
-          82
+        "chronostratigraphic,": [
+          32
         ],
-        "industry,": [
+        "lithostratigraphic": [
+          33
+        ],
+        "palaeoenvironmental": [
+          35
+        ],
+        "control": [
+          36
+        ],
+        "for": [
+          37
+        ],
+        "surface": [
+          38
+        ],
+        "subsurface": [
+          40
+        ],
+        "samples.": [
+          41
+        ],
+        "The": [
+          42,
+          95
+        ],
+        "discovery": [
+          43
+        ],
+        "of": [
+          44,
+          79,
+          117,
+          161,
+          171,
+          178
+        ],
+        "Iran": [
+          47
+        ],
+        "1908,": [
+          49
+        ],
+        "followed": [
+          50
+        ],
+        "Bahrain": [
+          52
+        ],
+        "1932,": [
+          54
+        ],
+        "Saudi": [
+          55,
+          118
+        ],
+        "Arabia": [
+          56
+        ],
+        "Kuwait": [
+          58
+        ],
+        "1938,": [
+          60
+        ],
+        "Qatar": [
+          61
+        ],
+        "1939,": [
+          63
+        ],
+        "Abu": [
+          64
+        ],
+        "Dhabi": [
+          65
+        ],
+        "1959,": [
+          67
+        ],
+        "Oman": [
+          68
+        ],
+        "Yemen": [
+          72
+        ],
+        "1984,": [
+          74
+        ],
+        "led": [
+          75
+        ],
+        "a": [
+          77,
+          168
+        ],
+        "proliferation": [
+          78
+        ],
+        "laboratories": [
+          81
+        ],
+        "each": [
+          83
+        ],
+        "country,": [
           84
         ],
-        "other": [
-          85,
-          131
+        "numerous": [
+          86
         ],
-        "museum": [
-          86,
-          137
-        ],
-        "collections,": [
+        "taxonomic": [
           87
         ],
-        "palaeoceanography": [
+        "publications": [
           88
         ],
-        "environmental": [
-          90
+        "on": [
+          89
         ],
-        "studies,": [
+        "Mesozoic": [
           91
         ],
-        "regional": [
-          92
-        ],
-        "Southern": [
-          96
-        ],
-        "Hemisphere": [
-          97
-        ],
-        "riseand": [
-          100
-        ],
-        "fall": [
-          101
-        ],
-        "significant": [
-          103
-        ],
-        "research": [
-          104
-        ],
-        "schools.": [
-          105
-        ],
-        "book": [
-          107
-        ],
-        "concludes": [
-          108
-        ],
-        "chapter": [
-          111
-        ],
-        "modelling": [
-          114
+        "Tertiary": [
+          93
         ],
         "foraminifera.": [
-          116
+          94
         ],
-        "Landmarks": [
-          117
+        "early": [
+          96
         ],
-        "Micropalaeontology:": [
-          120
-        ],
-        "History": [
-          121
-        ],
-        "Development": [
-          123
-        ],
-        "will": [
-          124
-        ],
-        "be": [
-          125
-        ],
-        "particular": [
+        "micropalaeontologists": [
+          97,
           127
         ],
-        "interest": [
-          128,
-          145
-        ],
-        "micropalaeontologists,": [
+        "region": [
+          100,
           130
         ],
-        "Earth": [
-          132
+        "were": [
+          101,
+          108,
+          121
         ],
-        "scientists,": [
-          133
+        "associated": [
+          102,
+          113
         ],
-        "historians": [
-          134
+        "with": [
+          103,
+          114
         ],
-        "science,": [
-          136
+        "British": [
+          104
         ],
-        "curators": [
-          138
+        "exploration": [
+          105
         ],
-        "general": [
-          141
+        "therefore": [
+          109
         ],
-        "reader": [
+        "British,": [
+          110
+        ],
+        "whereas": [
+          111
+        ],
+        "those": [
+          112
+        ],
+        "support": [
+          116
+        ],
+        "Arabian": [
+          119
+        ],
+        "stratigraphy": [
+          120
+        ],
+        "from": [
+          122
+        ],
+        "United": [
+          124
+        ],
+        "States.": [
+          125
+        ],
+        "Pioneering": [
+          126
+        ],
+        "this": [
+          129,
+          179
+        ],
+        "include": [
+          131
+        ],
+        "F.": [
+          132,
+          137,
+          140,
           142
         ],
-        "science.": [
+        "R.": [
+          133,
+          148
+        ],
+        "S.": [
+          134
+        ],
+        "Henson,": [
+          135
+        ],
+        "T.": [
+          136
+        ],
+        "Grimsdale,": [
+          138
+        ],
+        "G.": [
+          139
+        ],
+        "Elliott,": [
+          141
+        ],
+        "E.": [
+          143
+        ],
+        "Eames,": [
+          144
+        ],
+        "A.": [
+          145
+        ],
+        "H.": [
+          146
+        ],
+        "Smout,": [
           147
+        ],
+        "Bramkamp,": [
+          149
+        ],
+        "C.": [
+          150
+        ],
+        "D.": [
+          151
+        ],
+        "Redmond": [
+          152
+        ],
+        "N.": [
+          154
+        ],
+        "J.": [
+          155
+        ],
+        "Sander.": [
+          156
+        ],
+        "Other": [
+          157
+        ],
+        "significant": [
+          158
+        ],
+        "contributions": [
+          160
+        ],
+        "regional": [
+          162
+        ],
+        "significance": [
+          163
+        ],
+        "have": [
+          164
+        ],
+        "included,": [
+          166
+        ],
+        "but": [
+          167
+        ],
+        "comprehensive": [
+          169
+        ],
+        "inclusion": [
+          170
+        ],
+        "such": [
+          172
+        ],
+        "works": [
+          173
+        ],
+        "beyond": [
+          175
+        ],
+        "concept": [
+          177
+        ],
+        "chapter.": [
+          180
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2764087124",
@@ -14965,7 +15351,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -15099,13 +15485,13 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.7908,
+      "fwci": 1.7099,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79884726,
+        "value": 0.78767518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15510,7 +15896,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19117,7 +19503,7 @@
         {
           "id": "pmh:oai:doaj.org/article:5c679785733f4d3cb009312f96ccf639",
           "doi": null,
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/5c679785733f4d3cb009312f96ccf639",
           "pdf_url": null,
           "source": {
@@ -19135,8 +19521,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -19520,7 +19906,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-22T12:46:00.618207",
       "created_date": "2016-06-24T00:00:00"
     },
     {
