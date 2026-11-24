@@ -6,6 +6,7 @@
       "https://orcid.org/0009-0002-6134-0511"
     ],
     "display_name": "Anas Muhammad Salisu",
+    "type": null,
     "raw_author_names": [
       "Anas M. Salisu",
       "Anas Muhammad Salisu",
@@ -387,6 +388,7 @@
         "https://openalex.org/W4382051178"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -404,11 +406,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -445,11 +449,13 @@
           "author": {
             "id": "https://openalex.org/A5032123306",
             "display_name": "Musa Bappah Usman",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9989-6115",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9989-6115"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -486,9 +492,11 @@
           "author": {
             "id": null,
             "display_name": "Muhammad A. Ismail",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -525,9 +533,11 @@
           "author": {
             "id": "https://openalex.org/A5064250321",
             "display_name": "Shehu Mukkafa",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4387156178",
@@ -564,11 +574,13 @@
           "author": {
             "id": "https://openalex.org/A5011772444",
             "display_name": "Usman Abubakar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0203-0038",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0203-0038"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I116953780",
@@ -635,11 +647,13 @@
           "author": {
             "id": "https://openalex.org/A5011287395",
             "display_name": "Ibrahim Abdulkarim Kwami",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6771-3505",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6771-3505"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -676,11 +690,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -724,11 +740,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -765,11 +783,13 @@
           "author": {
             "id": "https://openalex.org/A5080266129",
             "display_name": "Murtada Al-Hashem",
+            "type": null,
             "orcid": "https://orcid.org/0009-0005-4916-7930",
             "observed_orcids": [
               "https://orcid.org/0009-0005-4916-7930"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -806,11 +826,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -847,12 +869,14 @@
           "author": {
             "id": "https://openalex.org/A5031632734",
             "display_name": "Kachalla Aliyuda",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6158-5493",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6158-5493",
               "https://orcid.org/0000-0003-1738-1287"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -889,11 +913,13 @@
           "author": {
             "id": "https://openalex.org/A5109617590",
             "display_name": "M.B. Abubakar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7794-4435",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7794-4435"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -930,11 +956,13 @@
           "author": {
             "id": "https://openalex.org/A5048630127",
             "display_name": "Abubakar Sadiq Maigari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7276-7145",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7276-7145"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -971,9 +999,11 @@
           "author": {
             "id": "https://openalex.org/A5092266154",
             "display_name": "Lukman U. Chiroma",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -1530,6 +1560,7 @@
         "https://openalex.org/W4388205616"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1547,11 +1578,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1588,11 +1621,13 @@
           "author": {
             "id": "https://openalex.org/A5035537771",
             "display_name": "Abdullah Alqubalee",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0543-9026",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0543-9026"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1636,11 +1671,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1677,11 +1714,13 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2730-4672",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2730-4672"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I86519309",
@@ -1718,11 +1757,13 @@
           "author": {
             "id": "https://openalex.org/A5010595990",
             "display_name": "Abdulrauf R. Adebayo",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0188-2688",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0188-2688"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1759,11 +1800,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1800,11 +1843,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2322,6 +2367,7 @@
         "https://openalex.org/W4403310698"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2339,11 +2385,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2380,9 +2428,11 @@
           "author": {
             "id": "https://openalex.org/A5076343814",
             "display_name": "Hasan Algheryafi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2449,11 +2499,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2490,11 +2542,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2529,11 +2583,13 @@
         {
           "author_position": "middle",
           "author": {
-            "id": null,
-            "display_name": "Bandar Al-Otaibi",
+            "id": "https://openalex.org/A5090082326",
+            "display_name": "Bandar D. Al-Otaibi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2570,11 +2626,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2629,13 +2687,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 4.9395,
+      "fwci": 4.9272,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96012489,
+        "value": 0.96013586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3134,7 +3192,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-10-11T00:00:00"
     },
     {
@@ -3199,6 +3257,7 @@
         "https://openalex.org/W4401946709"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3216,11 +3275,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3257,11 +3318,13 @@
           "author": {
             "id": "https://openalex.org/A5032123306",
             "display_name": "Musa Bappah Usman",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9989-6115",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9989-6115"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -3298,11 +3361,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3339,11 +3404,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3387,11 +3454,13 @@
           "author": {
             "id": "https://openalex.org/A5080266129",
             "display_name": "Murtada Al-Hashem",
+            "type": null,
             "orcid": "https://orcid.org/0009-0005-4916-7930",
             "observed_orcids": [
               "https://orcid.org/0009-0005-4916-7930"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3428,12 +3497,14 @@
           "author": {
             "id": "https://openalex.org/A5031632734",
             "display_name": "Kachalla Aliyuda",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6158-5493",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6158-5493",
               "https://orcid.org/0000-0003-1738-1287"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -3470,11 +3541,13 @@
           "author": {
             "id": "https://openalex.org/A5011772444",
             "display_name": "Usman Abubakar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0203-0038",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0203-0038"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I116953780",
@@ -3541,11 +3614,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3582,9 +3657,11 @@
           "author": {
             "id": "https://openalex.org/A5064250321",
             "display_name": "Shehu Mukkafa",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4387156178",
@@ -3621,11 +3698,13 @@
           "author": {
             "id": "https://openalex.org/A5011287395",
             "display_name": "Ibrahim Abdulkarim Kwami",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6771-3505",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6771-3505"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -3662,11 +3741,13 @@
           "author": {
             "id": "https://openalex.org/A5023943770",
             "display_name": "Oluwafemi E. Aro",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0646-0553",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0646-0553"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3688,11 +3769,13 @@
           "author": {
             "id": "https://openalex.org/A5067104728",
             "display_name": "Muhammad Naveed Butt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1699-7429",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1699-7429"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3729,11 +3812,13 @@
           "author": {
             "id": "https://openalex.org/A5048630127",
             "display_name": "Abubakar Sadiq Maigari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7276-7145",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7276-7145"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -3770,9 +3855,11 @@
           "author": {
             "id": "https://openalex.org/A5109416326",
             "display_name": "Abubakar Yusuf",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -3809,9 +3896,11 @@
           "author": {
             "id": "https://openalex.org/A5092266154",
             "display_name": "Lukman U. Chiroma",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -3848,11 +3937,13 @@
           "author": {
             "id": "https://openalex.org/A5010630446",
             "display_name": "Olumuyiwa T. Akinsanpe",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4320-7410",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4320-7410"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I45711476",
@@ -4406,6 +4497,7 @@
         "https://openalex.org/W4399072009"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4423,11 +4515,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -4464,11 +4558,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -4505,11 +4601,13 @@
           "author": {
             "id": "https://openalex.org/A5035537771",
             "display_name": "Abdullah Alqubalee",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0543-9026",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0543-9026"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -4553,11 +4651,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -4594,11 +4694,13 @@
           "author": {
             "id": "https://openalex.org/A5080266129",
             "display_name": "Murtada Al-Hashem",
+            "type": null,
             "orcid": "https://orcid.org/0009-0005-4916-7930",
             "observed_orcids": [
               "https://orcid.org/0009-0005-4916-7930"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -4635,11 +4737,13 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2730-4672",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2730-4672"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I86519309",
@@ -4676,11 +4780,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -5103,6 +5209,1278 @@
       "created_date": "2024-05-29T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4404794745",
+      "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
+      "title": "Linking provenance and diagenesis to reservoir quality evolution of sandstones: The Paleocene-Eocene Kerri-Kerri Formation, northeastern Nigeria",
+      "display_name": "Linking provenance and diagenesis to reservoir quality evolution of sandstones: The Paleocene-Eocene Kerri-Kerri Formation, northeastern Nigeria",
+      "alternate_titles": [],
+      "publication_year": 2024,
+      "publication_date": "2024-11-28",
+      "ids": {
+        "openalex": "https://openalex.org/W4404794745",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.marpetgeo.2024.107227",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S93565542",
+          "display_name": "Marine and Petroleum Geology",
+          "issn_l": "0264-8172",
+          "issn": [
+            "0264-8172",
+            "1873-4073"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Marine and Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4404794745"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5014657720",
+            "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-4637-9883",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4637-9883"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Abdulwahab M. Bello",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4637-9883",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032123306",
+            "display_name": "Musa Bappah Usman",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-9989-6115",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9989-6115"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Musa B. Usman",
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Abduljamiu O. Amao",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "type": null,
+            "orcid": "https://orcid.org/0009-0002-6134-0511",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-6134-0511"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Anas M. Salisu",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011772444",
+            "display_name": "Usman Abubakar",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-0203-0038",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0203-0038"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116953780",
+              "display_name": "Tongji University",
+              "ror": "https://ror.org/03rc6as71",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116953780"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391767744",
+              "display_name": "State Key Laboratory of Marine Geology",
+              "ror": "https://ror.org/02bxj9z30",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I116953780",
+                "https://openalex.org/I4391767744"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Usman Abubakar",
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China",
+              "institution_ids": [
+                "https://openalex.org/I116953780",
+                "https://openalex.org/I4391767744"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064250321",
+            "display_name": "Shehu Mukkafa",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387156178",
+              "display_name": "Federal University Dutse",
+              "ror": "https://ror.org/0278jft56",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4387156178"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Shehu Mukkafa",
+          "raw_affiliation_strings": [
+            "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I4387156178"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011287395",
+            "display_name": "Ibrahim Abdulkarim Kwami",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-6771-3505",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6771-3505"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Ibrahim A. Kwami",
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5092266154",
+            "display_name": "Lukman U. Chiroma",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Lukman U. Chiroma",
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080266129",
+            "display_name": "Murtada Al-Hashem",
+            "type": null,
+            "orcid": "https://orcid.org/0009-0005-4916-7930",
+            "observed_orcids": [
+              "https://orcid.org/0009-0005-4916-7930"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Murtada Al-Hashem",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Abubakar Yusuf",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Abubakar Yusuf",
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048630127",
+            "display_name": "Abubakar Sadiq Maigari",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-7276-7145",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7276-7145"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169864488",
+              "display_name": "Abubakar Tafawa Balewa University",
+              "ror": "https://ror.org/019vfke14",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Abubakar S. Maigari",
+          "raw_affiliation_strings": [
+            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031632734",
+            "display_name": "Kachalla Aliyuda",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-6158-5493",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6158-5493",
+              "https://orcid.org/0000-0003-1738-1287"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Aliyuda Kachalla",
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023943770",
+            "display_name": "Oluwafemi E. Aro",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-0646-0553",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0646-0553"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Oluwafemi E. Aro",
+          "raw_affiliation_strings": [
+            "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Muhammad A. Ismai'l",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169864488",
+              "display_name": "Abubakar Tafawa Balewa University",
+              "ror": "https://ror.org/019vfke14",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Muhammad A. Ismai'l",
+          "raw_affiliation_strings": [
+            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077716064",
+            "display_name": "Umar S. Umar",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169864488",
+              "display_name": "Abubakar Tafawa Balewa University",
+              "ror": "https://ror.org/019vfke14",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Umar S. Umar",
+          "raw_affiliation_strings": [
+            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5010630446",
+            "display_name": "Olumuyiwa T. Akinsanpe",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-4320-7410",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4320-7410"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45711476",
+              "display_name": "Obafemi Awolowo University",
+              "ror": "https://ror.org/04snhqa82",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I45711476"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Olumuyiwa T. Akinsanpe",
+          "raw_affiliation_strings": [
+            "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I45711476"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5014657720"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3590,
+        "currency": "USD",
+        "value_usd": 3590
+      },
+      "apc_paid": null,
+      "fwci": 3.7446,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 19,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.93644977,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "172",
+        "issue": null,
+        "first_page": "107227",
+        "last_page": "107227"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.4740999937057495,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.4740999937057495,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.4722000062465668,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.03840000182390213,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sandstone-reservoir-quality",
+          "display_name": "sandstone reservoir quality",
+          "score": 0.8159999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment-provenance",
+          "display_name": "sediment provenance",
+          "score": 0.9620000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.9169999957084656
+        },
+        {
+          "id": "https://openalex.org/keywords/paleocene-eocene",
+          "display_name": "Paleocene-Eocene",
+          "score": 0.9179999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-benue-trough",
+          "display_name": "Upper Benue Trough",
+          "score": 0.8769999742507935
+        },
+        {
+          "id": "https://openalex.org/keywords/kaolinite",
+          "display_name": "kaolinite",
+          "score": 0.6790000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/authigenic-illite",
+          "display_name": "authigenic illite",
+          "score": 0.8840000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/illitization",
+          "display_name": "illitization",
+          "score": 0.7099999785423279
+        },
+        {
+          "id": "https://openalex.org/keywords/feldspar-dissolution",
+          "display_name": "feldspar dissolution",
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/quartz-cementation",
+          "display_name": "quartz cementation",
+          "score": 0.652999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/clay-coatings",
+          "display_name": "clay coatings",
+          "score": 0.6110000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/detrital-clay",
+          "display_name": "detrital clay",
+          "score": 0.6420000195503235
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.9190309047698975
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.892432451248169
+        },
+        {
+          "id": "https://openalex.org/C2780049196",
+          "wikidata": "https://www.wikidata.org/wiki/Q23582628",
+          "display_name": "Provenance",
+          "level": 2,
+          "score": 0.8618870973587036
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.553878128528595
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.46428051590919495
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.38151389360427856
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3372495770454407
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.3175901770591736
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.marpetgeo.2024.107227",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S93565542",
+            "display_name": "Marine and Petroleum Geology",
+            "issn_l": "0264-8172",
+            "issn": [
+              "0264-8172",
+              "1873-4073"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Marine and Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 143,
+      "referenced_works": [
+        "https://openalex.org/W134798769",
+        "https://openalex.org/W585986684",
+        "https://openalex.org/W1499564834",
+        "https://openalex.org/W1503890406",
+        "https://openalex.org/W1516566041",
+        "https://openalex.org/W1517081022",
+        "https://openalex.org/W1540632399",
+        "https://openalex.org/W1682080479",
+        "https://openalex.org/W1880555926",
+        "https://openalex.org/W1912927042",
+        "https://openalex.org/W1944335342",
+        "https://openalex.org/W1970531672",
+        "https://openalex.org/W1971116545",
+        "https://openalex.org/W1972001643",
+        "https://openalex.org/W1972939651",
+        "https://openalex.org/W1975787804",
+        "https://openalex.org/W1975890505",
+        "https://openalex.org/W1977858458",
+        "https://openalex.org/W1988113181",
+        "https://openalex.org/W1988627424",
+        "https://openalex.org/W1991540761",
+        "https://openalex.org/W1992281845",
+        "https://openalex.org/W1996133323",
+        "https://openalex.org/W1997639027",
+        "https://openalex.org/W1997662856",
+        "https://openalex.org/W2001800904",
+        "https://openalex.org/W2004427321",
+        "https://openalex.org/W2011307050",
+        "https://openalex.org/W2016223358",
+        "https://openalex.org/W2016848487",
+        "https://openalex.org/W2019495710",
+        "https://openalex.org/W2021300589",
+        "https://openalex.org/W2023601146",
+        "https://openalex.org/W2029401070",
+        "https://openalex.org/W2036057044",
+        "https://openalex.org/W2046008208",
+        "https://openalex.org/W2050716036",
+        "https://openalex.org/W2056139142",
+        "https://openalex.org/W2062177211",
+        "https://openalex.org/W2065152652",
+        "https://openalex.org/W2067784425",
+        "https://openalex.org/W2068580384",
+        "https://openalex.org/W2071027307",
+        "https://openalex.org/W2080661638",
+        "https://openalex.org/W2091008893",
+        "https://openalex.org/W2093096931",
+        "https://openalex.org/W2097033875",
+        "https://openalex.org/W2101874561",
+        "https://openalex.org/W2102029231",
+        "https://openalex.org/W2106161981",
+        "https://openalex.org/W2110834950",
+        "https://openalex.org/W2118657171",
+        "https://openalex.org/W2123607694",
+        "https://openalex.org/W2126963790",
+        "https://openalex.org/W2138821921",
+        "https://openalex.org/W2140945815",
+        "https://openalex.org/W2144758446",
+        "https://openalex.org/W2151656933",
+        "https://openalex.org/W2154098558",
+        "https://openalex.org/W2157099954",
+        "https://openalex.org/W2162266211",
+        "https://openalex.org/W2167385998",
+        "https://openalex.org/W2210008135",
+        "https://openalex.org/W2247098479",
+        "https://openalex.org/W2276314002",
+        "https://openalex.org/W2297607672",
+        "https://openalex.org/W2306724485",
+        "https://openalex.org/W2462006658",
+        "https://openalex.org/W2498691888",
+        "https://openalex.org/W2562655431",
+        "https://openalex.org/W2565262769",
+        "https://openalex.org/W2581834115",
+        "https://openalex.org/W2607039879",
+        "https://openalex.org/W2750936038",
+        "https://openalex.org/W2761408622",
+        "https://openalex.org/W2801195208",
+        "https://openalex.org/W2944404310",
+        "https://openalex.org/W2945516514",
+        "https://openalex.org/W2955035850",
+        "https://openalex.org/W2972228046",
+        "https://openalex.org/W2975175096",
+        "https://openalex.org/W2980217397",
+        "https://openalex.org/W3003921492",
+        "https://openalex.org/W3023321511",
+        "https://openalex.org/W3025516192",
+        "https://openalex.org/W3033641280",
+        "https://openalex.org/W3080778756",
+        "https://openalex.org/W3089691162",
+        "https://openalex.org/W3117936035",
+        "https://openalex.org/W3127914907",
+        "https://openalex.org/W3129034920",
+        "https://openalex.org/W3133851408",
+        "https://openalex.org/W3147913709",
+        "https://openalex.org/W3198961371",
+        "https://openalex.org/W3209052431",
+        "https://openalex.org/W4224231587",
+        "https://openalex.org/W4225129549",
+        "https://openalex.org/W4229376096",
+        "https://openalex.org/W4249069860",
+        "https://openalex.org/W4285492085",
+        "https://openalex.org/W4291222571",
+        "https://openalex.org/W4292081009",
+        "https://openalex.org/W4296821131",
+        "https://openalex.org/W4302028070",
+        "https://openalex.org/W4307637027",
+        "https://openalex.org/W4309609812",
+        "https://openalex.org/W4312008296",
+        "https://openalex.org/W4313367735",
+        "https://openalex.org/W4319441783",
+        "https://openalex.org/W4365516011",
+        "https://openalex.org/W4378190373",
+        "https://openalex.org/W4379647935",
+        "https://openalex.org/W4382051178",
+        "https://openalex.org/W4384023269",
+        "https://openalex.org/W4384558344",
+        "https://openalex.org/W4386257864",
+        "https://openalex.org/W4387745571",
+        "https://openalex.org/W4387760936",
+        "https://openalex.org/W4387801558",
+        "https://openalex.org/W4387996609",
+        "https://openalex.org/W4388202676",
+        "https://openalex.org/W4388205616",
+        "https://openalex.org/W4388805478",
+        "https://openalex.org/W4388923668",
+        "https://openalex.org/W4390510283",
+        "https://openalex.org/W4390667796",
+        "https://openalex.org/W4391429665",
+        "https://openalex.org/W4392964788",
+        "https://openalex.org/W4395688030",
+        "https://openalex.org/W4399072009",
+        "https://openalex.org/W4399534445",
+        "https://openalex.org/W4399662683",
+        "https://openalex.org/W4399732376",
+        "https://openalex.org/W4400608847",
+        "https://openalex.org/W4400654836",
+        "https://openalex.org/W4401029303",
+        "https://openalex.org/W4401946709",
+        "https://openalex.org/W4403310698",
+        "https://openalex.org/W4403558876",
+        "https://openalex.org/W6632509500",
+        "https://openalex.org/W6939752470",
+        "https://openalex.org/W7000703592",
+        "https://openalex.org/W7073995326"
+      ],
+      "related_works": [
+        "https://openalex.org/W4387801558",
+        "https://openalex.org/W2141598340",
+        "https://openalex.org/W2972228046",
+        "https://openalex.org/W2050189679",
+        "https://openalex.org/W3203367653",
+        "https://openalex.org/W3033490969",
+        "https://openalex.org/W4401946709",
+        "https://openalex.org/W6906578862",
+        "https://openalex.org/W1973989066",
+        "https://openalex.org/W3023033146"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4404794745",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-23T12:01:36.302904",
+      "created_date": "2024-11-28T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4410313152",
       "doi": "https://doi.org/10.2110/jsr.2024.099",
       "title": "Experimental development of chlorite: insights from a kaolinite precursor",
@@ -5165,6 +6543,7 @@
         "https://openalex.org/W4410313152"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5182,11 +6561,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -5223,11 +6604,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -5264,11 +6647,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -5305,9 +6690,11 @@
           "author": {
             "id": null,
             "display_name": "Mustapha Umar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405254986",
@@ -5344,11 +6731,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -6587,1243 +7976,6 @@
       "created_date": "2025-05-13T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4404794745",
-      "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
-      "title": "Linking provenance and diagenesis to reservoir quality evolution of sandstones: The Paleocene-Eocene Kerri-Kerri Formation, northeastern Nigeria",
-      "display_name": "Linking provenance and diagenesis to reservoir quality evolution of sandstones: The Paleocene-Eocene Kerri-Kerri Formation, northeastern Nigeria",
-      "alternate_titles": [],
-      "publication_year": 2024,
-      "publication_date": "2024-11-28",
-      "ids": {
-        "openalex": "https://openalex.org/W4404794745",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.marpetgeo.2024.107227",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S93565542",
-          "display_name": "Marine and Petroleum Geology",
-          "issn_l": "0264-8172",
-          "issn": [
-            "0264-8172",
-            "1873-4073"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-b",
-            "jufo-1",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Marine and Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W4404794745"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5014657720",
-            "display_name": "Abdulwahab Muhammad Bello",
-            "orcid": "https://orcid.org/0000-0002-4637-9883",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Abdulwahab M. Bello",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-4637-9883",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032123306",
-            "display_name": "Musa Bappah Usman",
-            "orcid": "https://orcid.org/0000-0001-9989-6115",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9989-6115"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Musa B. Usman",
-          "raw_affiliation_strings": [
-            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8203-851X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Abduljamiu O. Amao",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072935704",
-            "display_name": "Anas Muhammad Salisu",
-            "orcid": "https://orcid.org/0009-0002-6134-0511",
-            "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Anas M. Salisu",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid A. Al-Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4872-6201"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011772444",
-            "display_name": "Usman Abubakar",
-            "orcid": "https://orcid.org/0000-0003-0203-0038",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0203-0038"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I116953780",
-              "display_name": "Tongji University",
-              "ror": "https://ror.org/03rc6as71",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I116953780"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4391767744",
-              "display_name": "State Key Laboratory of Marine Geology",
-              "ror": "https://ror.org/02bxj9z30",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I116953780",
-                "https://openalex.org/I4391767744"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Usman Abubakar",
-          "raw_affiliation_strings": [
-            "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China",
-              "institution_ids": [
-                "https://openalex.org/I116953780",
-                "https://openalex.org/I4391767744"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5064250321",
-            "display_name": "Shehu Mukkafa",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4387156178",
-              "display_name": "Federal University Dutse",
-              "ror": "https://ror.org/0278jft56",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4387156178"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Shehu Mukkafa",
-          "raw_affiliation_strings": [
-            "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I4387156178"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011287395",
-            "display_name": "Ibrahim Abdulkarim Kwami",
-            "orcid": "https://orcid.org/0000-0001-6771-3505",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6771-3505"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Ibrahim A. Kwami",
-          "raw_affiliation_strings": [
-            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5092266154",
-            "display_name": "Lukman U. Chiroma",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Lukman U. Chiroma",
-          "raw_affiliation_strings": [
-            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080266129",
-            "display_name": "Murtada Al-Hashem",
-            "orcid": "https://orcid.org/0009-0005-4916-7930",
-            "observed_orcids": [
-              "https://orcid.org/0009-0005-4916-7930"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Murtada Al-Hashem",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Abubakar Yusuf",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Abubakar Yusuf",
-          "raw_affiliation_strings": [
-            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5048630127",
-            "display_name": "Abubakar Sadiq Maigari",
-            "orcid": "https://orcid.org/0000-0001-7276-7145",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7276-7145"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I169864488",
-              "display_name": "Abubakar Tafawa Balewa University",
-              "ror": "https://ror.org/019vfke14",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I169864488"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Abubakar S. Maigari",
-          "raw_affiliation_strings": [
-            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I169864488"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031632734",
-            "display_name": "Kachalla Aliyuda",
-            "orcid": "https://orcid.org/0000-0001-6158-5493",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6158-5493",
-              "https://orcid.org/0000-0003-1738-1287"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Aliyuda Kachalla",
-          "raw_affiliation_strings": [
-            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5023943770",
-            "display_name": "Oluwafemi E. Aro",
-            "orcid": "https://orcid.org/0000-0003-0646-0553",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0646-0553"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Oluwafemi E. Aro",
-          "raw_affiliation_strings": [
-            "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Muhammad A. Ismai'l",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I169864488",
-              "display_name": "Abubakar Tafawa Balewa University",
-              "ror": "https://ror.org/019vfke14",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I169864488"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Muhammad A. Ismai'l",
-          "raw_affiliation_strings": [
-            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I169864488"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5077716064",
-            "display_name": "Umar S. Umar",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I169864488",
-              "display_name": "Abubakar Tafawa Balewa University",
-              "ror": "https://ror.org/019vfke14",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I169864488"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Umar S. Umar",
-          "raw_affiliation_strings": [
-            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I169864488"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5010630446",
-            "display_name": "Olumuyiwa T. Akinsanpe",
-            "orcid": "https://orcid.org/0000-0002-4320-7410",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4320-7410"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I45711476",
-              "display_name": "Obafemi Awolowo University",
-              "ror": "https://ror.org/04snhqa82",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I45711476"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Olumuyiwa T. Akinsanpe",
-          "raw_affiliation_strings": [
-            "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I45711476"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5014657720"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3590,
-        "currency": "USD",
-        "value_usd": 3590
-      },
-      "apc_paid": null,
-      "fwci": 3.5926,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 18,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.93109903,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "172",
-        "issue": null,
-        "first_page": "107227",
-        "last_page": "107227"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.4740999937057495,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.4740999937057495,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.4722000062465668,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.03840000182390213,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/sandstone-reservoir-quality",
-          "display_name": "sandstone reservoir quality",
-          "score": 0.8159999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment-provenance",
-          "display_name": "sediment provenance",
-          "score": 0.9620000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "diagenesis",
-          "score": 0.9169999957084656
-        },
-        {
-          "id": "https://openalex.org/keywords/paleocene-eocene",
-          "display_name": "Paleocene-Eocene",
-          "score": 0.9179999828338623
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-benue-trough",
-          "display_name": "Upper Benue Trough",
-          "score": 0.8769999742507935
-        },
-        {
-          "id": "https://openalex.org/keywords/kaolinite",
-          "display_name": "kaolinite",
-          "score": 0.6790000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/authigenic-illite",
-          "display_name": "authigenic illite",
-          "score": 0.8840000033378601
-        },
-        {
-          "id": "https://openalex.org/keywords/illitization",
-          "display_name": "illitization",
-          "score": 0.7099999785423279
-        },
-        {
-          "id": "https://openalex.org/keywords/feldspar-dissolution",
-          "display_name": "feldspar dissolution",
-          "score": 0.6499999761581421
-        },
-        {
-          "id": "https://openalex.org/keywords/quartz-cementation",
-          "display_name": "quartz cementation",
-          "score": 0.652999997138977
-        },
-        {
-          "id": "https://openalex.org/keywords/clay-coatings",
-          "display_name": "clay coatings",
-          "score": 0.6110000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/detrital-clay",
-          "display_name": "detrital clay",
-          "score": 0.6420000195503235
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.9190309047698975
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.892432451248169
-        },
-        {
-          "id": "https://openalex.org/C2780049196",
-          "wikidata": "https://www.wikidata.org/wiki/Q23582628",
-          "display_name": "Provenance",
-          "level": 2,
-          "score": 0.8618870973587036
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.553878128528595
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.46428051590919495
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.38151389360427856
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3372495770454407
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.3175901770591736
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.marpetgeo.2024.107227",
-          "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107227",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S93565542",
-            "display_name": "Marine and Petroleum Geology",
-            "issn_l": "0264-8172",
-            "issn": [
-              "0264-8172",
-              "1873-4073"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-b",
-              "jufo-1",
-              "norway-1",
-              "poland-140",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Marine and Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320336956",
-          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 143,
-      "referenced_works": [
-        "https://openalex.org/W134798769",
-        "https://openalex.org/W585986684",
-        "https://openalex.org/W1499564834",
-        "https://openalex.org/W1503890406",
-        "https://openalex.org/W1516566041",
-        "https://openalex.org/W1517081022",
-        "https://openalex.org/W1540632399",
-        "https://openalex.org/W1682080479",
-        "https://openalex.org/W1880555926",
-        "https://openalex.org/W1912927042",
-        "https://openalex.org/W1944335342",
-        "https://openalex.org/W1970531672",
-        "https://openalex.org/W1971116545",
-        "https://openalex.org/W1972001643",
-        "https://openalex.org/W1972939651",
-        "https://openalex.org/W1975787804",
-        "https://openalex.org/W1975890505",
-        "https://openalex.org/W1977858458",
-        "https://openalex.org/W1988113181",
-        "https://openalex.org/W1988627424",
-        "https://openalex.org/W1991540761",
-        "https://openalex.org/W1992281845",
-        "https://openalex.org/W1996133323",
-        "https://openalex.org/W1997639027",
-        "https://openalex.org/W1997662856",
-        "https://openalex.org/W2001800904",
-        "https://openalex.org/W2004427321",
-        "https://openalex.org/W2011307050",
-        "https://openalex.org/W2016223358",
-        "https://openalex.org/W2016848487",
-        "https://openalex.org/W2019495710",
-        "https://openalex.org/W2021300589",
-        "https://openalex.org/W2023601146",
-        "https://openalex.org/W2029401070",
-        "https://openalex.org/W2036057044",
-        "https://openalex.org/W2046008208",
-        "https://openalex.org/W2050716036",
-        "https://openalex.org/W2056139142",
-        "https://openalex.org/W2062177211",
-        "https://openalex.org/W2065152652",
-        "https://openalex.org/W2067784425",
-        "https://openalex.org/W2068580384",
-        "https://openalex.org/W2071027307",
-        "https://openalex.org/W2080661638",
-        "https://openalex.org/W2091008893",
-        "https://openalex.org/W2093096931",
-        "https://openalex.org/W2097033875",
-        "https://openalex.org/W2101874561",
-        "https://openalex.org/W2102029231",
-        "https://openalex.org/W2106161981",
-        "https://openalex.org/W2110834950",
-        "https://openalex.org/W2118657171",
-        "https://openalex.org/W2123607694",
-        "https://openalex.org/W2126963790",
-        "https://openalex.org/W2138821921",
-        "https://openalex.org/W2140945815",
-        "https://openalex.org/W2144758446",
-        "https://openalex.org/W2151656933",
-        "https://openalex.org/W2154098558",
-        "https://openalex.org/W2157099954",
-        "https://openalex.org/W2162266211",
-        "https://openalex.org/W2167385998",
-        "https://openalex.org/W2210008135",
-        "https://openalex.org/W2247098479",
-        "https://openalex.org/W2276314002",
-        "https://openalex.org/W2297607672",
-        "https://openalex.org/W2306724485",
-        "https://openalex.org/W2462006658",
-        "https://openalex.org/W2498691888",
-        "https://openalex.org/W2562655431",
-        "https://openalex.org/W2565262769",
-        "https://openalex.org/W2581834115",
-        "https://openalex.org/W2607039879",
-        "https://openalex.org/W2750936038",
-        "https://openalex.org/W2761408622",
-        "https://openalex.org/W2801195208",
-        "https://openalex.org/W2944404310",
-        "https://openalex.org/W2945516514",
-        "https://openalex.org/W2955035850",
-        "https://openalex.org/W2972228046",
-        "https://openalex.org/W2975175096",
-        "https://openalex.org/W2980217397",
-        "https://openalex.org/W3003921492",
-        "https://openalex.org/W3023321511",
-        "https://openalex.org/W3025516192",
-        "https://openalex.org/W3033641280",
-        "https://openalex.org/W3080778756",
-        "https://openalex.org/W3089691162",
-        "https://openalex.org/W3117936035",
-        "https://openalex.org/W3127914907",
-        "https://openalex.org/W3129034920",
-        "https://openalex.org/W3133851408",
-        "https://openalex.org/W3147913709",
-        "https://openalex.org/W3198961371",
-        "https://openalex.org/W3209052431",
-        "https://openalex.org/W4224231587",
-        "https://openalex.org/W4225129549",
-        "https://openalex.org/W4229376096",
-        "https://openalex.org/W4249069860",
-        "https://openalex.org/W4285492085",
-        "https://openalex.org/W4291222571",
-        "https://openalex.org/W4292081009",
-        "https://openalex.org/W4296821131",
-        "https://openalex.org/W4302028070",
-        "https://openalex.org/W4307637027",
-        "https://openalex.org/W4309609812",
-        "https://openalex.org/W4312008296",
-        "https://openalex.org/W4313367735",
-        "https://openalex.org/W4319441783",
-        "https://openalex.org/W4365516011",
-        "https://openalex.org/W4378190373",
-        "https://openalex.org/W4379647935",
-        "https://openalex.org/W4382051178",
-        "https://openalex.org/W4384023269",
-        "https://openalex.org/W4384558344",
-        "https://openalex.org/W4386257864",
-        "https://openalex.org/W4387745571",
-        "https://openalex.org/W4387760936",
-        "https://openalex.org/W4387801558",
-        "https://openalex.org/W4387996609",
-        "https://openalex.org/W4388202676",
-        "https://openalex.org/W4388205616",
-        "https://openalex.org/W4388805478",
-        "https://openalex.org/W4388923668",
-        "https://openalex.org/W4390510283",
-        "https://openalex.org/W4390667796",
-        "https://openalex.org/W4391429665",
-        "https://openalex.org/W4392964788",
-        "https://openalex.org/W4395688030",
-        "https://openalex.org/W4399072009",
-        "https://openalex.org/W4399534445",
-        "https://openalex.org/W4399662683",
-        "https://openalex.org/W4399732376",
-        "https://openalex.org/W4400608847",
-        "https://openalex.org/W4400654836",
-        "https://openalex.org/W4401029303",
-        "https://openalex.org/W4401946709",
-        "https://openalex.org/W4403310698",
-        "https://openalex.org/W4403558876",
-        "https://openalex.org/W6632509500",
-        "https://openalex.org/W6939752470",
-        "https://openalex.org/W7000703592",
-        "https://openalex.org/W7073995326"
-      ],
-      "related_works": [
-        "https://openalex.org/W4387801558",
-        "https://openalex.org/W2141598340",
-        "https://openalex.org/W2972228046",
-        "https://openalex.org/W2050189679",
-        "https://openalex.org/W3203367653",
-        "https://openalex.org/W3033490969",
-        "https://openalex.org/W4401946709",
-        "https://openalex.org/W6906578862",
-        "https://openalex.org/W1973989066",
-        "https://openalex.org/W3023033146"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4404794745",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-16T12:05:36.265796",
-      "created_date": "2024-11-28T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4408660286",
       "doi": "https://doi.org/10.2110/jsr.2024.135",
       "title": "Experimental study of smectite authigenesis and its subsequent illitization: insights from modern estuary sediments",
@@ -7886,6 +8038,7 @@
         "https://openalex.org/W4408660286"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7903,11 +8056,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -7944,11 +8099,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -7985,11 +8142,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -8026,11 +8185,13 @@
           "author": {
             "id": "https://openalex.org/A5006378908",
             "display_name": "Robert H. Lander",
+            "type": null,
             "orcid": "https://orcid.org/0009-0006-8046-8456",
             "observed_orcids": [
               "https://orcid.org/0009-0006-8046-8456"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8057,11 +8218,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -9507,6 +9670,7 @@
         "https://openalex.org/W4387996609"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9526,11 +9690,13 @@
           "author": {
             "id": "https://openalex.org/A5035537771",
             "display_name": "Abdullah Alqubalee",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0543-9026",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0543-9026"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -9588,11 +9754,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -9629,11 +9797,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -9675,11 +9845,13 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2730-4672",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2730-4672"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9721,11 +9893,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -11007,6 +11181,7 @@
         "https://openalex.org/W4408588305"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11024,11 +11199,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -11065,11 +11242,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -11106,11 +11285,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -11147,11 +11328,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -11210,13 +11393,13 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 5.3817,
+      "fwci": 5.2466,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97436244,
+        "value": 0.97342193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12452,6 +12635,7 @@
         "https://openalex.org/W4417503339"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12469,9 +12653,11 @@
           "author": {
             "id": "https://openalex.org/A5077822143",
             "display_name": "Mashaer A. Alfaraj",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -12508,11 +12694,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -12549,11 +12737,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -12590,11 +12780,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -13723,6 +13915,7 @@
         "https://openalex.org/W4414459744"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13740,11 +13933,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -13781,11 +13976,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -13822,11 +14019,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -13863,11 +14062,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -13916,13 +14117,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5878,
+      "fwci": 3.4977,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94101333,
+        "value": 0.93904672,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14847,6 +15048,7 @@
         "https://openalex.org/W7133693243"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14866,11 +15068,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -14944,11 +15148,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -15002,11 +15208,13 @@
           "author": {
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -15064,12 +15272,14 @@
           "author": {
             "id": "https://openalex.org/A5015196228",
             "display_name": "Olalekan Saheed Alade",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1657-9737",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1657-9737",
               "https://orcid.org/0000-0002-1967-0704"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -15106,11 +15316,13 @@
           "author": {
             "id": "https://openalex.org/A5049649985",
             "display_name": "Mohamed Mahmoud",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4395-9567",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4395-9567"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -15164,11 +15376,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -16394,7 +16608,7 @@
       "display_name": "The Negative Impact of Ophiomorpha on Reservoir Quality of Tidal Channel Deposits: The Case Study of the Dam Formation, Saudi Arabia",
       "alternate_titles": [],
       "publication_year": 2022,
-      "publication_date": "2022-01-01",
+      "publication_date": "2022-03-30",
       "ids": {
         "openalex": "https://openalex.org/W4220873824",
         "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105666"
@@ -16449,6 +16663,7 @@
         "https://openalex.org/W4220873824"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16466,11 +16681,13 @@
           "author": {
             "id": "https://openalex.org/A5035537771",
             "display_name": "Abdullah Alqubalee",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0543-9026",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0543-9026"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -16514,11 +16731,13 @@
           "author": {
             "id": "https://openalex.org/A5061727407",
             "display_name": "Jaber Muharrag",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4156-2950",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4156-2950"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -16555,11 +16774,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -16596,11 +16817,13 @@
           "author": {
             "id": "https://openalex.org/A5040857714",
             "display_name": "Hassan A. Eltom",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3515-0127",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3515-0127"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -16655,13 +16878,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.3286,
+      "fwci": 2.3218,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87332382,
+        "value": 0.87281914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17137,7 +17360,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -17200,6 +17423,7 @@
         "https://openalex.org/W4403558876"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17217,9 +17441,11 @@
           "author": {
             "id": "https://openalex.org/A5106565993",
             "display_name": "Haitham Sulaiman Alhindi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -17256,11 +17482,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -17297,11 +17525,13 @@
           "author": {
             "id": "https://openalex.org/A5011150776",
             "display_name": "Syed Rizwanullah Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7371-1522",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7371-1522"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -17338,11 +17568,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -17385,13 +17617,15 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
+            "display_name": "Ardiansyah Ibnu Koeshidayatullah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7558-8783",
               "https://orcid.org/0000-0003-0940-678X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -17446,13 +17680,13 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.5967,
+      "fwci": 1.5767,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80524111,
+        "value": 0.8021094,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17803,7 +18037,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-10-19T00:00:00"
     },
     {
@@ -17872,6 +18106,7 @@
         "https://openalex.org/W4401646659"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17891,11 +18126,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -17932,9 +18169,11 @@
           "author": {
             "id": "https://openalex.org/A5106565993",
             "display_name": "Haitham Sulaiman Alhindi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -17971,11 +18210,13 @@
           "author": {
             "id": "https://openalex.org/A5011150776",
             "display_name": "Syed Rizwanullah Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7371-1522",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7371-1522"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -18012,11 +18253,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -18053,11 +18296,13 @@
           "author": {
             "id": "https://openalex.org/A5091708119",
             "display_name": "Hezam Al-Awah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9283-1909",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9283-1909"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18094,11 +18339,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -18141,13 +18388,15 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
+            "display_name": "Ardiansyah Ibnu Koeshidayatullah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7558-8783",
               "https://orcid.org/0000-0003-0940-678X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -18206,13 +18455,13 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.1975,
+      "fwci": 1.1825,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74338176,
+        "value": 0.74025742,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19401,7 +19650,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-08-17T00:00:00"
     },
     {
@@ -19459,6 +19708,7 @@
         "https://openalex.org/W7128601178"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19476,11 +19726,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19517,9 +19769,11 @@
           "author": {
             "id": "https://openalex.org/A5090082326",
             "display_name": "Bandar D. Al-Otaibi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19556,11 +19810,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19597,9 +19853,11 @@
           "author": {
             "id": "https://openalex.org/A5076343814",
             "display_name": "Hasan Algheryafi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19636,11 +19894,13 @@
           "author": {
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19677,11 +19937,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19732,13 +19994,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.0656,
+      "fwci": 5.8984,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94872183,
+        "value": 0.94739627,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20314,6 +20576,7 @@
         "https://openalex.org/W4407393621"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20332,11 +20595,13 @@
           "author": {
             "id": "https://openalex.org/A5106908772",
             "display_name": "Adamu Kimayim Gaduwang",
+            "type": null,
             "orcid": "https://orcid.org/0009-0009-8749-785X",
             "observed_orcids": [
               "https://orcid.org/0009-0009-8749-785X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20373,11 +20638,13 @@
           "author": {
             "id": "https://openalex.org/A5090251412",
             "display_name": "Daniel Muñoz‐López",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2615-4166",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2615-4166"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20414,11 +20681,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20455,11 +20724,13 @@
           "author": {
             "id": "https://openalex.org/A5074883327",
             "display_name": "Bassam Tawabini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0096-2723",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0096-2723"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20496,11 +20767,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20543,13 +20816,15 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
+            "display_name": "Ardiansyah Ibnu Koeshidayatullah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7558-8783",
               "https://orcid.org/0000-0003-0940-678X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20608,13 +20883,13 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.6251,
+      "fwci": 1.5892,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79320209,
+        "value": 0.78808899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21644,7 +21919,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2025-02-12T00:00:00"
     },
     {
@@ -21710,6 +21985,7 @@
         "https://openalex.org/W7167713482"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21727,11 +22003,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -21768,11 +22046,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -21809,11 +22089,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -21850,11 +22132,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -21909,13 +22193,13 @@
         "value_usd": 3810
       },
       "apc_paid": null,
-      "fwci": 2.1279,
+      "fwci": 2.1052,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79003006,
+        "value": 0.78823758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22450,6 +22734,7 @@
         "https://openalex.org/W7140201938"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22467,11 +22752,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -22508,9 +22795,11 @@
           "author": {
             "id": "https://openalex.org/A5140074396",
             "display_name": "Musa B. Usman",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -22547,9 +22836,11 @@
           "author": {
             "id": "https://openalex.org/A5064250321",
             "display_name": "Shehu Mukkafa",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4387156178",
@@ -22586,11 +22877,13 @@
           "author": {
             "id": "https://openalex.org/A5011287395",
             "display_name": "Ibrahim Abdulkarim Kwami",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6771-3505",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6771-3505"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -22627,11 +22920,13 @@
           "author": {
             "id": "https://openalex.org/A5120350283",
             "display_name": "Usman Abubakar",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-2100-8000",
             "observed_orcids": [
               "https://orcid.org/0009-0007-2100-8000"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -22668,11 +22963,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -22709,11 +23006,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -22750,11 +23049,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -22798,9 +23099,11 @@
           "author": {
             "id": "https://openalex.org/A5146880193",
             "display_name": "Muhammad A. Ismail",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -22837,11 +23140,13 @@
           "author": {
             "id": "https://openalex.org/A5048630127",
             "display_name": "Abubakar Sadiq Maigari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7276-7145",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7276-7145"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -22878,9 +23183,11 @@
           "author": {
             "id": "https://openalex.org/A5138611441",
             "display_name": "Ahmed I. Haruna",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -22917,9 +23224,11 @@
           "author": {
             "id": "https://openalex.org/A5090082326",
             "display_name": "Bandar D. Al-Otaibi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -22956,9 +23265,11 @@
           "author": {
             "id": "https://openalex.org/A5119242908",
             "display_name": "Yusuf Abdulkarim Abdullahi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -22995,12 +23306,14 @@
           "author": {
             "id": "https://openalex.org/A5031632734",
             "display_name": "Kachalla Aliyuda",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6158-5493",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6158-5493",
               "https://orcid.org/0000-0003-1738-1287"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I876237426",
@@ -23037,9 +23350,11 @@
           "author": {
             "id": "https://openalex.org/A5077716064",
             "display_name": "Umar S. Umar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -23076,11 +23391,13 @@
           "author": {
             "id": "https://openalex.org/A5010630446",
             "display_name": "Olumuyiwa T. Akinsanpe",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4320-7410",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4320-7410"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I45711476",
@@ -23117,11 +23434,13 @@
           "author": {
             "id": "https://openalex.org/A5005830513",
             "display_name": "Nuru Abdullahi Nabage",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3713-7233",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3713-7233"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I169864488",
@@ -23796,6 +24115,7 @@
         "https://openalex.org/W7162865535"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23813,11 +24133,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -23854,11 +24176,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -23895,11 +24219,13 @@
           "author": {
             "id": "https://openalex.org/A5009697450",
             "display_name": "Muhammad Hammad Malik",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9451-0188",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9451-0188"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -23936,11 +24262,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -23984,11 +24312,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -25565,6 +25895,7 @@
         "https://openalex.org/W7163876794"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25582,9 +25913,11 @@
           "author": {
             "id": "https://openalex.org/A5057204136",
             "display_name": "Fatimah Al Ibrahim",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -25621,11 +25954,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -25662,11 +25997,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -26941,6 +27278,7 @@
         "https://openalex.org/W7163885047"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26958,9 +27296,11 @@
           "author": {
             "id": "https://openalex.org/A5138152327",
             "display_name": "Ayah Alkhalifah",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -26997,11 +27337,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -27038,11 +27380,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -28327,6 +28671,7 @@
         "https://openalex.org/W7167189447"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -28342,11 +28687,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -28999,6 +29346,7 @@
         "https://openalex.org/W7204475104"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29016,11 +29364,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -29057,9 +29407,11 @@
           "author": {
             "id": "https://openalex.org/A5148455789",
             "display_name": "Tukur Yakubu Muhammad",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -29096,11 +29448,13 @@
           "author": {
             "id": "https://openalex.org/A5081161425",
             "display_name": "Nuraddeen Nasiru Garba",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1620-4214",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1620-4214"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -29137,9 +29491,11 @@
           "author": {
             "id": "https://openalex.org/A5064487843",
             "display_name": "Bashir Danladi Jatau",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -29176,9 +29532,11 @@
           "author": {
             "id": "https://openalex.org/A5148418058",
             "display_name": "Aliyu Muhammad",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -30221,6 +30579,7 @@
         "https://openalex.org/W7204476743"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30238,11 +30597,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -30279,9 +30640,11 @@
           "author": {
             "id": "https://openalex.org/A5148430347",
             "display_name": "Darius Audu Gajere",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -30318,9 +30681,11 @@
           "author": {
             "id": "https://openalex.org/A5112893042",
             "display_name": "Sunday Adesunloye Jonah",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I12789410",
@@ -31201,6 +31566,7 @@
         "https://openalex.org/W7214226277"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31218,11 +31584,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -31259,11 +31627,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -31300,11 +31670,13 @@
           "author": {
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -31341,11 +31713,13 @@
           "author": {
             "id": "https://openalex.org/A5077816186",
             "display_name": "Ignatius Argadestya",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7540-3897",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7540-3897"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I118564535",
@@ -31393,11 +31767,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -31883,6 +32259,7 @@
         "https://openalex.org/W7214804335"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31900,9 +32277,11 @@
           "author": {
             "id": "https://openalex.org/A5153525081",
             "display_name": "Shahad Darwish",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -31968,11 +32347,13 @@
           "author": {
             "id": "https://openalex.org/A5072935704",
             "display_name": "Anas Muhammad Salisu",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
               "https://orcid.org/0009-0002-6134-0511"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -32038,11 +32419,13 @@
           "author": {
             "id": "https://openalex.org/A5074832503",
             "display_name": "Isah Mohammed",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3420-7910",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3420-7910"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -32100,11 +32483,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",

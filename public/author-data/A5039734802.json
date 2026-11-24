@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0003-3118-9769"
     ],
     "display_name": "Dave L. Cantrell",
+    "type": null,
     "raw_author_names": [
       "D. L. Cantrell",
       "D.L. Cantrel",
@@ -18,7 +19,7 @@
     ],
     "full_name": "Dave L. Cantrell",
     "works_count": 40,
-    "cited_by_count": 1588,
+    "cited_by_count": 1610,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 21,
@@ -438,7 +439,7 @@
         "year": 2015,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 50
+        "cited_by_count": 51
       },
       {
         "year": 2016,
@@ -450,7 +451,7 @@
         "year": 2017,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 116
+        "cited_by_count": 117
       },
       {
         "year": 2018,
@@ -462,7 +463,7 @@
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 93
+        "cited_by_count": 95
       },
       {
         "year": 2020,
@@ -474,37 +475,37 @@
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 127
+        "cited_by_count": 132
       },
       {
         "year": 2022,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 123
+        "cited_by_count": 131
       },
       {
         "year": 2023,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 98
+        "cited_by_count": 99
       },
       {
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 117
+        "cited_by_count": 118
       },
       {
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 91
+        "cited_by_count": 92
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 95
+        "cited_by_count": 97
       }
     ],
     "display_name_alternatives": [
@@ -521,7 +522,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5039734802",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -579,6 +580,7 @@
         "https://openalex.org/W3014355492"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -596,11 +598,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -637,9 +641,11 @@
           "author": {
             "id": "https://openalex.org/A5089518847",
             "display_name": "Royal M. Hagerty",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I923382979",
@@ -1067,8 +1073,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -1678,6 +1684,7 @@
         "https://openalex.org/W4237155486"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -1695,9 +1702,11 @@
           "author": {
             "id": "https://openalex.org/A5086882344",
             "display_name": "Robert F. Lindsay",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1712,11 +1721,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1731,11 +1742,13 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-2140-8370",
             "observed_orcids": [
               "https://orcid.org/0009-0007-2140-8370"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1750,9 +1763,11 @@
           "author": {
             "id": "https://openalex.org/A5079028256",
             "display_name": "Thomas H. Keith",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1767,9 +1782,11 @@
           "author": {
             "id": null,
             "display_name": "Harry W. Mueller",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1784,9 +1801,11 @@
           "author": {
             "id": null,
             "display_name": "S. Duffy Russell",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -1826,13 +1845,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.0087,
+      "fwci": 4.9744,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 121,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93414211,
+        "value": 0.9347079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1853,7 +1872,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.5205000042915344,
+        "score": 0.5814999938011169,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -1871,7 +1890,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.5205000042915344,
+          "score": 0.5814999938011169,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -1888,7 +1907,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.4074999988079071,
+          "score": 0.382099986076355,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -1905,7 +1924,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.04960000142455101,
+          "score": 0.016699999570846558,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -1924,72 +1943,62 @@
         {
           "id": "https://openalex.org/keywords/ghawar-field",
           "display_name": "Ghawar field",
-          "score": 0.8970000147819519
+          "score": 0.8119999766349792
         },
         {
           "id": "https://openalex.org/keywords/carbonate-ramp",
           "display_name": "carbonate ramp",
-          "score": 0.5899999737739563
+          "score": 0.5950000286102295
         },
         {
           "id": "https://openalex.org/keywords/sequence-stratigraphy",
           "display_name": "sequence stratigraphy",
-          "score": 0.8500000238418579
-        },
-        {
-          "id": "https://openalex.org/keywords/kimmeridgian",
-          "display_name": "Kimmeridgian",
-          "score": 0.8040000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/jurassic-carbonate-reservoirs",
-          "display_name": "Jurassic carbonate reservoirs",
-          "score": 0.5289999842643738
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-quality",
-          "display_name": "reservoir quality",
-          "score": 0.43299999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/collapse-breccias",
-          "display_name": "collapse breccias",
-          "score": 0.6759999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/high-frequency-sequences",
-          "display_name": "high-frequency sequences",
-          "score": 0.609000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/parasequences",
-          "display_name": "parasequences",
-          "score": 0.7710000276565552
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-zonation",
-          "display_name": "reservoir zonation",
-          "score": 0.5509999990463257
+          "score": 0.8109999895095825
         },
         {
           "id": "https://openalex.org/keywords/carbonate-cycle",
           "display_name": "carbonate cycle",
-          "score": 0.3050000071525574
+          "score": 0.7540000081062317
         },
         {
-          "id": "https://openalex.org/keywords/ammonite-biostratigraphy",
-          "display_name": "ammonite biostratigraphy",
-          "score": 0.6850000023841858
+          "id": "https://openalex.org/keywords/parasequences",
+          "display_name": "parasequences",
+          "score": 0.7160000205039978
         },
         {
-          "id": "https://openalex.org/keywords/benthic-foraminifera",
-          "display_name": "benthic foraminifera",
-          "score": 0.8679999709129333
+          "id": "https://openalex.org/keywords/high-frequency-sequences",
+          "display_name": "high-frequency sequences",
+          "score": 0.6869999766349792
         },
         {
-          "id": "https://openalex.org/keywords/reservoir-management",
-          "display_name": "reservoir management",
-          "score": 0.44200000166893005
+          "id": "https://openalex.org/keywords/reservoir-porosity",
+          "display_name": "reservoir porosity",
+          "score": 0.5759999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.49000000953674316
+        },
+        {
+          "id": "https://openalex.org/keywords/kimmeridgian",
+          "display_name": "Kimmeridgian",
+          "score": 0.7570000290870667
+        },
+        {
+          "id": "https://openalex.org/keywords/jurassic-carbonate-reservoirs",
+          "display_name": "Jurassic carbonate reservoirs",
+          "score": 0.5550000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/collapse-breccias",
+          "display_name": "collapse breccias",
+          "score": 0.6449999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-zonation",
+          "display_name": "reservoir zonation",
+          "score": 0.5759999752044678
         }
       ],
       "concepts": [
@@ -2096,8 +2105,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -3843,7 +3852,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3910,6 +3919,7 @@
         "https://openalex.org/W2138691371"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3927,11 +3937,13 @@
           "author": {
             "id": "https://openalex.org/A5050486511",
             "display_name": "Peter Koenraad Swart",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6743-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6743-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -3975,11 +3987,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4023,11 +4037,13 @@
           "author": {
             "id": "https://openalex.org/A5002249331",
             "display_name": "Hildegard Westphal",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7324-6122",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7324-6122"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -4084,11 +4100,13 @@
           "author": {
             "id": "https://openalex.org/A5013547666",
             "display_name": "C. Robertson Handford",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6311-0771",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6311-0771"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4115,11 +4133,13 @@
           "author": {
             "id": "https://openalex.org/A5103003307",
             "display_name": "Christopher Kendall",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9968-8145",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9968-8145"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I155781252",
@@ -4166,13 +4186,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.9539,
+      "fwci": 8.7906,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 139,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97475094,
+        "value": 0.97395742,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4450,8 +4470,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -5342,6 +5362,7 @@
         "https://openalex.org/W2941825081"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5359,11 +5380,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5390,11 +5413,13 @@
           "author": {
             "id": "https://openalex.org/A5050486511",
             "display_name": "Peter Koenraad Swart",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6743-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6743-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5421,9 +5446,11 @@
           "author": {
             "id": "https://openalex.org/A5089518847",
             "display_name": "Royal M. Hagerty",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5755,8 +5782,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2941825081.pdf",
@@ -6671,6 +6698,7 @@
         "https://openalex.org/W2292572168"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -6686,11 +6714,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6705,9 +6735,11 @@
           "author": {
             "id": null,
             "display_name": "Patrick G. Nicholson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6722,11 +6754,13 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-2140-8370",
             "observed_orcids": [
               "https://orcid.org/0009-0007-2140-8370"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6741,9 +6775,11 @@
           "author": {
             "id": null,
             "display_name": "Mark A. Miller",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6758,9 +6794,11 @@
           "author": {
             "id": "https://openalex.org/A5076963743",
             "display_name": "A. G. Buhllar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6775,9 +6813,11 @@
           "author": {
             "id": "https://openalex.org/A5023374284",
             "display_name": "S. T. Abdelbagi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6792,9 +6832,11 @@
           "author": {
             "id": "https://openalex.org/A5013096023",
             "display_name": "A. Kent Norton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6812,13 +6854,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.0063,
+      "fwci": 7.7242,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 87,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97545368,
+        "value": 0.97456715,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7161,8 +7203,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7875,6 +7917,7 @@
         "https://openalex.org/W3022076686"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7892,11 +7935,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -7923,9 +7968,11 @@
           "author": {
             "id": null,
             "display_name": "R.A. Shah",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7952,9 +7999,11 @@
           "author": {
             "id": null,
             "display_name": "J. Ou",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7976,11 +8025,13 @@
           "author": {
             "id": "https://openalex.org/A5039827691",
             "display_name": "Chuan Xu",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7836-8276",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7836-8276"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8007,9 +8058,11 @@
           "author": {
             "id": null,
             "display_name": "C. Phillips",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8036,9 +8089,11 @@
           "author": {
             "id": "https://openalex.org/A5065433002",
             "display_name": "X.L. Li",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8065,9 +8120,11 @@
           "author": {
             "id": "https://openalex.org/A5072925053",
             "display_name": "Tingting Hu",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8098,13 +8155,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 3.9701,
+      "fwci": 3.856,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 52,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94739513,
+        "value": 0.94521844,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8382,8 +8439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -8555,6 +8612,7 @@
         "https://openalex.org/W1803742928"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8572,11 +8630,13 @@
           "author": {
             "id": "https://openalex.org/A5084753403",
             "display_name": "Peng Lü",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9159-370X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9159-370X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8613,11 +8673,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8963,8 +9025,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -9827,6 +9889,7 @@
         "https://openalex.org/W2312299597"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9844,11 +9907,13 @@
           "author": {
             "id": "https://openalex.org/A5050486511",
             "display_name": "Peter Koenraad Swart",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6743-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6743-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -9885,11 +9950,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9926,11 +9993,13 @@
           "author": {
             "id": "https://openalex.org/A5008890165",
             "display_name": "Monica M. Arienzo",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3444-9810",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3444-9810"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -9984,11 +10053,13 @@
           "author": {
             "id": "https://openalex.org/A5075774703",
             "display_name": "Sean T. Murray",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1416-4183",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1416-4183"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -10036,13 +10107,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 2.5393,
+      "fwci": 2.4755,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8747192,
+        "value": 0.87246176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10374,8 +10445,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -11018,6 +11089,7 @@
         "https://openalex.org/W2973127997"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11035,11 +11107,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -11075,13 +11149,15 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
+            "display_name": "Ardiansyah Ibnu Koeshidayatullah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7558-8783",
               "https://orcid.org/0000-0003-0940-678X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -11136,11 +11212,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -11177,11 +11255,13 @@
           "author": {
             "id": "https://openalex.org/A5050486511",
             "display_name": "Peter Koenraad Swart",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6743-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6743-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -11221,13 +11301,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5314,
+      "fwci": 3.4734,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 38,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92286549,
+        "value": 0.92166943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11588,8 +11668,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -12495,7 +12575,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2019-09-19T00:00:00"
     },
     {
@@ -12561,6 +12641,7 @@
         "https://openalex.org/W2555546878"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12578,11 +12659,13 @@
           "author": {
             "id": "https://openalex.org/A5009963240",
             "display_name": "Mustafa A. Al Ibrahim",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9765-0162",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9765-0162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12650,9 +12733,11 @@
           "author": {
             "id": "https://openalex.org/A5112535784",
             "display_name": "J. Frederick Sarg",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I167576493",
@@ -12696,11 +12781,13 @@
           "author": {
             "id": "https://openalex.org/A5046450060",
             "display_name": "Neil F. Hurley",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8786-1089",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8786-1089"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210118014",
@@ -12742,11 +12829,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -12794,11 +12883,13 @@
           "author": {
             "id": "https://openalex.org/A5082826691",
             "display_name": "JOHN D. HUMPHREY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8927-2322"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -12828,13 +12919,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8084,
+      "fwci": 2.7652,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 34,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8856371,
+        "value": 0.88381592,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13169,8 +13260,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -13981,6 +14072,7 @@
         "https://openalex.org/W4411625917"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13999,11 +14091,13 @@
           "author": {
             "id": "https://openalex.org/A5001052278",
             "display_name": "Pulkit Singh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8588-5650",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8588-5650"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -14040,9 +14134,11 @@
           "author": {
             "id": "https://openalex.org/A5060032483",
             "display_name": "Jordan Ferré",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -14079,11 +14175,13 @@
           "author": {
             "id": "https://openalex.org/A5036217481",
             "display_name": "Bridget L. Thrasher",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3961-1971",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3961-1971"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -14120,11 +14218,13 @@
           "author": {
             "id": "https://openalex.org/A5027418132",
             "display_name": "Pedro M. Monarrez",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4221-0693",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4221-0693"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I859038795",
@@ -14172,11 +14272,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -14213,11 +14315,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4387154068",
@@ -14256,11 +14360,13 @@
           "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0838-3814",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0838-3814"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60060512",
@@ -14297,11 +14403,13 @@
           "author": {
             "id": "https://openalex.org/A5088439801",
             "display_name": "Michele Morsilli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6950-3659",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6950-3659"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I201324441",
@@ -14338,11 +14446,13 @@
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9601-3310"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -14390,13 +14500,13 @@
         "value_usd": 7030
       },
       "apc_paid": null,
-      "fwci": 4.4163,
+      "fwci": 4.3568,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95767511,
+        "value": 0.95717281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14871,8 +14981,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -14919,8 +15029,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -15093,6 +15203,7 @@
         "https://openalex.org/W2607243671"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15110,11 +15221,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15151,11 +15264,13 @@
           "author": {
             "id": "https://openalex.org/A5050486511",
             "display_name": "Peter Koenraad Swart",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6743-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6743-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -15192,9 +15307,11 @@
           "author": {
             "id": "https://openalex.org/A5110329047",
             "display_name": "Robertson C. Handford",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -15216,11 +15333,13 @@
           "author": {
             "id": "https://openalex.org/A5103003307",
             "display_name": "Christopher Kendall",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9968-8145",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9968-8145"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I155781252",
@@ -15257,11 +15376,13 @@
           "author": {
             "id": "https://openalex.org/A5002249331",
             "display_name": "Hildegard Westphal",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7324-6122",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7324-6122"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I114112103",
@@ -15612,8 +15733,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -16552,6 +16673,7 @@
         "https://openalex.org/W2305072269"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -16569,11 +16691,13 @@
           "author": {
             "id": "https://openalex.org/A5000172249",
             "display_name": "John C. Mitchell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2945-3292",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2945-3292"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16588,9 +16712,11 @@
           "author": {
             "id": "https://openalex.org/A5076614893",
             "display_name": "Patrick J. Lehmann",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16605,11 +16731,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I923382979",
@@ -16646,9 +16774,11 @@
           "author": {
             "id": "https://openalex.org/A5038548183",
             "display_name": "Ibrahim A. Al-Jallal",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16663,9 +16793,11 @@
           "author": {
             "id": "https://openalex.org/A5069109201",
             "display_name": "M. A. R. AL-THAGAFY",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -16981,8 +17113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17859,6 +17991,7 @@
         "https://openalex.org/W2944023070"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17876,11 +18009,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -17907,9 +18042,11 @@
           "author": {
             "id": "https://openalex.org/A5089518847",
             "display_name": "Royal M. Hagerty",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -18393,8 +18530,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2944023070.pdf",
@@ -19532,6 +19669,7 @@
         "https://openalex.org/W4252144897"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -19549,9 +19687,11 @@
           "author": {
             "id": "https://openalex.org/A5086882344",
             "display_name": "Robert F. Lindsay",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19566,11 +19706,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19585,11 +19727,13 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-2140-8370",
             "observed_orcids": [
               "https://orcid.org/0009-0007-2140-8370"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19604,9 +19748,11 @@
           "author": {
             "id": "https://openalex.org/A5067893709",
             "display_name": "Thomas H. Keith Harry W. Mueller",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19621,9 +19767,11 @@
           "author": {
             "id": "https://openalex.org/A5086852033",
             "display_name": "and S. Duffy Russell",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19641,13 +19789,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 19.8163,
+      "fwci": 20.6084,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 62,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99742401,
+        "value": 0.996673,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -19990,8 +20138,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20695,6 +20843,7 @@
         "https://openalex.org/W2489708704"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -20712,11 +20861,13 @@
           "author": {
             "id": "https://openalex.org/A5013547666",
             "display_name": "C. Robertson Handford",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6311-0771",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6311-0771"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20731,11 +20882,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20750,9 +20903,11 @@
           "author": {
             "id": "https://openalex.org/A5079028256",
             "display_name": "Thomas H. Keith",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -21006,8 +21161,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -21162,6 +21317,7 @@
         "https://openalex.org/W2067688778"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21179,11 +21335,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21231,13 +21389,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.3871,
+      "fwci": 0.3792,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59935684,
+        "value": 0.59134453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21544,8 +21702,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -21728,6 +21886,7 @@
         "https://openalex.org/W2774797267"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21745,11 +21904,13 @@
           "author": {
             "id": "https://openalex.org/A5040857714",
             "display_name": "Hassan A. Eltom",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3515-0127",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3515-0127"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -21786,11 +21947,13 @@
           "author": {
             "id": "https://openalex.org/A5047905444",
             "display_name": "Luis A. González",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7600-8306",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7600-8306"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -21845,11 +22008,13 @@
           "author": {
             "id": "https://openalex.org/A5010428004",
             "display_name": "Stephen T. Hasiotis",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5794-3112",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5794-3112"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -21886,11 +22051,13 @@
           "author": {
             "id": "https://openalex.org/A5021951962",
             "display_name": "Eugene C. Rankey",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1603-2934",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1603-2934"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -21927,11 +22094,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -21979,13 +22148,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.1854,
+      "fwci": 2.1022,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 35,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.871802,
+        "value": 0.86609851,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22357,8 +22526,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -22372,8 +22541,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -22555,6 +22724,7 @@
         "https://openalex.org/W2134130095"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22572,11 +22742,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -22644,9 +22816,11 @@
           "author": {
             "id": "https://openalex.org/A5054186525",
             "display_name": "Cedric M. Griffiths",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1292875679",
@@ -22707,11 +22881,13 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-2140-8370",
             "observed_orcids": [
               "https://orcid.org/0009-0007-2140-8370"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1336856363",
@@ -22781,13 +22957,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6345,
+      "fwci": 0.6179,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71615554,
+        "value": 0.70820698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23018,8 +23194,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -23661,6 +23837,7 @@
         "https://openalex.org/W3205126413"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23678,9 +23855,11 @@
           "author": {
             "id": "https://openalex.org/A5077123632",
             "display_name": "Mahmoud Samir El-Yamani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -23735,11 +23914,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -23776,11 +23957,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4387154068",
@@ -24201,8 +24384,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -24368,6 +24551,7 @@
         "https://openalex.org/W2775124168"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24385,11 +24569,13 @@
           "author": {
             "id": "https://openalex.org/A5040857714",
             "display_name": "Hassan A. Eltom",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3515-0127",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3515-0127"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -24433,11 +24619,13 @@
           "author": {
             "id": "https://openalex.org/A5021951962",
             "display_name": "Eugene C. Rankey",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1603-2934",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1603-2934"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -24481,11 +24669,13 @@
           "author": {
             "id": "https://openalex.org/A5010428004",
             "display_name": "Stephen T. Hasiotis",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5794-3112",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5794-3112"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -24529,11 +24719,13 @@
           "author": {
             "id": "https://openalex.org/A5047905444",
             "display_name": "Luis A. González",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7600-8306",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7600-8306"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -24602,11 +24794,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -24653,13 +24847,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0232,
+      "fwci": 0.981,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 26,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69473392,
+        "value": 0.68106312,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24921,8 +25115,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -25725,6 +25919,7 @@
         "https://openalex.org/W4250163215"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -25742,11 +25937,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25761,9 +25958,11 @@
           "author": {
             "id": "https://openalex.org/A5082587005",
             "display_name": "P.G. Nicholson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25778,9 +25977,11 @@
           "author": {
             "id": "https://openalex.org/A5158403669",
             "display_name": "G.W. Hughes",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25795,9 +25996,11 @@
           "author": {
             "id": "https://openalex.org/A5079432009",
             "display_name": "M.A. Miller",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25812,9 +26015,11 @@
           "author": {
             "id": "https://openalex.org/A5053663456",
             "display_name": "A.G. Bhullar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25829,9 +26034,11 @@
           "author": {
             "id": "https://openalex.org/A5023374284",
             "display_name": "S. T. Abdelbagi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25846,9 +26053,11 @@
           "author": {
             "id": "https://openalex.org/A5086152766",
             "display_name": "A.K. Norton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26028,8 +26237,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26160,6 +26369,7 @@
         "https://openalex.org/W2139650230"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26177,11 +26387,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I923382979",
@@ -26218,9 +26430,11 @@
           "author": {
             "id": "https://openalex.org/A5103638669",
             "display_name": "Kenneth R. Walker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I75027704",
@@ -26260,13 +26474,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3711,
+      "fwci": 1.3027,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75289575,
+        "value": 0.7443609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26597,8 +26811,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27485,6 +27699,7 @@
         "https://openalex.org/W2795665315"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27502,9 +27717,11 @@
           "author": {
             "id": "https://openalex.org/A5077123632",
             "display_name": "Mahmoud Samir El-Yamani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -27541,11 +27758,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -27582,11 +27801,13 @@
           "author": {
             "id": "https://openalex.org/A5014647917",
             "display_name": "Axel Munnecke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6898-1082",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6898-1082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I181369854",
@@ -27623,11 +27844,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -27664,9 +27887,11 @@
           "author": {
             "id": "https://openalex.org/A5076990100",
             "display_name": "Waleed Abdulghani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -27703,9 +27928,11 @@
           "author": {
             "id": "https://openalex.org/A5007202653",
             "display_name": "Lukas Reub",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I181369854",
@@ -27753,13 +27980,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.308,
+      "fwci": 1.2887,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74587888,
+        "value": 0.74271717,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28122,8 +28349,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -28303,6 +28530,7 @@
         "https://openalex.org/W2757732133"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -28320,11 +28548,13 @@
           "author": {
             "id": "https://openalex.org/A5005324517",
             "display_name": "Carl Jacquemyn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8627-7144",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8627-7144"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -28361,11 +28591,13 @@
           "author": {
             "id": "https://openalex.org/A5019080744",
             "display_name": "Matthew D. Jackson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8276-3575",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8276-3575"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -28402,11 +28634,13 @@
           "author": {
             "id": "https://openalex.org/A5075368069",
             "display_name": "Gary J. Hampson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2047-8469",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2047-8469"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -28443,11 +28677,13 @@
           "author": {
             "id": "https://openalex.org/A5081422106",
             "display_name": "Cédric M. John",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9711-1548",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9711-1548"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -28484,11 +28720,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -28525,11 +28763,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -28566,9 +28806,11 @@
           "author": {
             "id": "https://openalex.org/A5039403239",
             "display_name": "AbdulJaleel AbuBshait",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -28605,9 +28847,11 @@
           "author": {
             "id": "https://openalex.org/A5086882344",
             "display_name": "Robert F. Lindsay",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -28644,9 +28888,11 @@
           "author": {
             "id": "https://openalex.org/A5000104738",
             "display_name": "Ronald Monsen",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -28694,13 +28940,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 0.6018,
+      "fwci": 0.5925,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62863575,
+        "value": 0.62276482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29028,8 +29274,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -29920,6 +30166,7 @@
         "https://openalex.org/W2978412508"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29937,11 +30184,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29956,9 +30205,11 @@
           "author": {
             "id": "https://openalex.org/A5087184401",
             "display_name": "Abdullah Al-Khammash",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29973,9 +30224,11 @@
           "author": {
             "id": "https://openalex.org/A5056155361",
             "display_name": "Peter D. Jenden",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30359,8 +30612,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2978412508.pdf",
@@ -30938,6 +31191,7 @@
         "https://openalex.org/W2768709882"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30955,6 +31209,7 @@
           "author": {
             "id": "https://openalex.org/A5100450362",
             "display_name": "Shuo Zhang",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2170-4299",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2170-4299",
@@ -30963,6 +31218,7 @@
               "https://orcid.org/0009-0004-3454-1806"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I62856769",
@@ -31000,11 +31256,13 @@
           "author": {
             "id": "https://openalex.org/A5084753403",
             "display_name": "Peng Lü",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9159-370X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9159-370X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -31041,11 +31299,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -31082,9 +31342,11 @@
           "author": {
             "id": "https://openalex.org/A5061827722",
             "display_name": "Yan Zaretskiy",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I62856769",
@@ -31122,9 +31384,11 @@
           "author": {
             "id": "https://openalex.org/A5010879307",
             "display_name": "Dawn Jobe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I62856769",
@@ -31162,9 +31426,11 @@
           "author": {
             "id": "https://openalex.org/A5110469285",
             "display_name": "Susan M. Agar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I62856769",
@@ -31556,8 +31822,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -32106,6 +32372,7 @@
         "https://openalex.org/W2597185442"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -32123,11 +32390,13 @@
           "author": {
             "id": "https://openalex.org/A5102780937",
             "display_name": "Maaruf Hussain",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7418-3813",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7418-3813"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -32164,11 +32433,13 @@
           "author": {
             "id": "https://openalex.org/A5082527698",
             "display_name": "Naeem Minhas",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4529-4378",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4529-4378"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I257179599",
@@ -32205,9 +32476,11 @@
           "author": {
             "id": "https://openalex.org/A5102003855",
             "display_name": "Gaurav Agrawal",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I257179599",
@@ -32244,11 +32517,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -32288,13 +32563,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3687,
+      "fwci": 2.3786,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85287443,
+        "value": 0.85387132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32522,8 +32797,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32611,6 +32886,7 @@
         "https://openalex.org/W3021400260"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -32628,11 +32904,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32647,9 +32925,11 @@
           "author": {
             "id": "https://openalex.org/A5054186525",
             "display_name": "Cedric M. Griffiths",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32664,11 +32944,13 @@
           "author": {
             "id": "https://openalex.org/A5008294416",
             "display_name": "Stephen G. Franks",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0120-1472",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0120-1472"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32683,9 +32965,11 @@
           "author": {
             "id": "https://openalex.org/A5003794148",
             "display_name": "Mohammad R. Al-Khadhrawi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32703,13 +32987,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.254,
+      "fwci": 2.3876,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77154309,
+        "value": 0.78422274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32964,8 +33248,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33699,6 +33983,7 @@
         "https://openalex.org/W4293329459"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33716,11 +34001,13 @@
           "author": {
             "id": "https://openalex.org/A5101941241",
             "display_name": "Xiaowei Li",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0892-5553",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0892-5553"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -33757,11 +34044,13 @@
           "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0838-3814",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0838-3814"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60060512",
@@ -33798,11 +34087,13 @@
           "author": {
             "id": "https://openalex.org/A5003296602",
             "display_name": "John A. Luczaj",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0318-9887",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0318-9887"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I129510320",
@@ -33839,11 +34130,13 @@
           "author": {
             "id": "https://openalex.org/A5055780050",
             "display_name": "Brian M. Kelley",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4203-1481",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4203-1481"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130769515",
@@ -33880,11 +34173,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4387154068",
@@ -33941,9 +34236,11 @@
           "author": {
             "id": "https://openalex.org/A5025273046",
             "display_name": "Meiyi Yu",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I178232147",
@@ -33980,9 +34277,11 @@
           "author": {
             "id": "https://openalex.org/A5032775593",
             "display_name": "Nathaniel Ledbetter Ferrill",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60060512",
@@ -34019,11 +34318,13 @@
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9601-3310"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -34427,8 +34728,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -34579,6 +34880,7 @@
         "https://openalex.org/W2184740681"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34593,13 +34895,15 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
+            "display_name": "Ardiansyah Ibnu Koeshidayatullah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7558-8783",
               "https://orcid.org/0000-0003-0940-678X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34614,11 +34918,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34633,11 +34939,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34920,8 +35228,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -35522,7 +35830,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2184740681",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -35579,6 +35887,7 @@
         "https://openalex.org/W2533249104"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -35596,11 +35905,13 @@
           "author": {
             "id": "https://openalex.org/A5040857714",
             "display_name": "Hassan A. Eltom",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3515-0127",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3515-0127"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -35637,11 +35948,13 @@
           "author": {
             "id": "https://openalex.org/A5047905444",
             "display_name": "Luis A. González",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7600-8306",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7600-8306"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -35678,11 +35991,13 @@
           "author": {
             "id": "https://openalex.org/A5021951962",
             "display_name": "Eugene C. Rankey",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1603-2934",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1603-2934"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -35719,11 +36034,13 @@
           "author": {
             "id": "https://openalex.org/A5010428004",
             "display_name": "Stephen T. Hasiotis",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5794-3112",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5794-3112"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -35760,11 +36077,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -35824,7 +36143,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9976000189781189,
+        "score": 0.9804999828338623,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -35842,7 +36161,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9976000189781189,
+          "score": 0.9804999828338623,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -35857,12 +36176,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.000699999975040555,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.015200000256299973,
           "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -35874,12 +36193,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.00039999998989515007,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.0013000000035390258,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -35895,32 +36214,67 @@
         {
           "id": "https://openalex.org/keywords/carbon-isotope-stratigraphy",
           "display_name": "carbon isotope stratigraphy",
-          "score": 0.9259999990463257
+          "score": 0.9589999914169312
         },
         {
           "id": "https://openalex.org/keywords/middle-jurassic",
           "display_name": "Middle Jurassic",
-          "score": 0.8809999823570251
+          "score": 0.6269999742507935
         },
         {
-          "id": "https://openalex.org/keywords/lower-kimmeridgian",
-          "display_name": "Lower Kimmeridgian",
-          "score": 0.9769999980926514
+          "id": "https://openalex.org/keywords/late-jurassic",
+          "display_name": "Late Jurassic",
+          "score": 0.921999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/callovian",
+          "display_name": "Callovian",
+          "score": 0.8360000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/kimmeridgian",
+          "display_name": "Kimmeridgian",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/hanifa-formation",
+          "display_name": "Hanifa Formation",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-stratigraphy",
+          "display_name": "carbonate stratigraphy",
+          "score": 0.5950000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.9760000109672546
+        },
+        {
+          "id": "https://openalex.org/keywords/chronostratigraphic-units",
+          "display_name": "chronostratigraphic units",
+          "score": 0.7400000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-matter-burial",
+          "display_name": "organic matter burial",
+          "score": 0.8100000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.6610000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.5820000171661377
         },
         {
           "id": "https://openalex.org/keywords/central-saudi-arabia",
           "display_name": "central Saudi Arabia",
-          "score": 0.6079999804496765
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "biostratigraphy",
-          "score": 0.6930000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-cycle",
-          "display_name": "carbon cycle",
-          "score": 0.3400000035762787
+          "score": 0.6759999990463257
         }
       ],
       "concepts": [
@@ -36070,13 +36424,19 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
+      "sustainable_development_goals": [
+        {
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36772,7 +37132,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2533249104",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -36829,6 +37189,7 @@
         "https://openalex.org/W2535213321"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -36846,11 +37207,13 @@
           "author": {
             "id": "https://openalex.org/A5040857714",
             "display_name": "Hassan A. Eltom",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3515-0127",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3515-0127"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -36887,11 +37250,13 @@
           "author": {
             "id": "https://openalex.org/A5010428004",
             "display_name": "Stephen T. Hasiotis",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5794-3112",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5794-3112"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -36928,11 +37293,13 @@
           "author": {
             "id": "https://openalex.org/A5021951962",
             "display_name": "Eugene C. Rankey",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1603-2934",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1603-2934"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -36969,11 +37336,13 @@
           "author": {
             "id": "https://openalex.org/A5047905444",
             "display_name": "Luis A. González",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7600-8306",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7600-8306"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146416000",
@@ -37010,11 +37379,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -37074,7 +37445,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.8955000042915344,
+        "score": 0.9897000193595886,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -37092,7 +37463,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.8955000042915344,
+          "score": 0.9897000193595886,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -37107,12 +37478,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.04919999837875366,
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.004699999932199717,
           "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -37124,12 +37495,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.027300000190734863,
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.0020000000949949026,
           "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -37143,54 +37514,89 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "sequence stratigraphy",
-          "score": 0.8370000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/ichnology",
-          "display_name": "ichnology",
-          "score": 0.9900000095367432
+          "id": "https://openalex.org/keywords/hanifa-formation",
+          "display_name": "Hanifa Formation",
+          "score": 0.9869999885559082
         },
         {
           "id": "https://openalex.org/keywords/oxfordian",
           "display_name": "Oxfordian",
-          "score": 0.722000002861023
+          "score": 0.8149999976158142
         },
         {
-          "id": "https://openalex.org/keywords/jurassic",
-          "display_name": "Jurassic",
-          "score": 0.8410000205039978
+          "id": "https://openalex.org/keywords/jurassic-carbonate-reservoirs",
+          "display_name": "Jurassic carbonate reservoirs",
+          "score": 0.8029999732971191
         },
         {
-          "id": "https://openalex.org/keywords/hanifa-formation",
-          "display_name": "Hanifa Formation",
-          "score": 0.9950000047683716
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.8669999837875366
         },
         {
-          "id": "https://openalex.org/keywords/reservoir-quality",
-          "display_name": "reservoir quality",
-          "score": 0.6010000109672546
+          "id": "https://openalex.org/keywords/ichnology",
+          "display_name": "ichnology",
+          "score": 0.9309999942779541
         },
         {
-          "id": "https://openalex.org/keywords/outcrop-studies",
-          "display_name": "outcrop studies",
-          "score": 0.765999972820282
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "bioturbation",
+          "score": 0.9789999723434448
         },
         {
-          "id": "https://openalex.org/keywords/trace-fossils",
-          "display_name": "trace fossils",
-          "score": 0.6370000243186951
+          "id": "https://openalex.org/keywords/ichnofacies",
+          "display_name": "ichnofacies",
+          "score": 0.8130000233650208
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-reservoirs",
-          "display_name": "carbonate reservoirs",
-          "score": 0.6629999876022339
+          "id": "https://openalex.org/keywords/glossifungites",
+          "display_name": "Glossifungites",
+          "score": 0.949999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/lithofacies-associations",
+          "display_name": "lithofacies associations",
+          "score": 0.7739999890327454
+        },
+        {
+          "id": "https://openalex.org/keywords/high-frequency-sequences",
+          "display_name": "high-frequency sequences",
+          "score": 0.7400000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.8259999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/flooding-surfaces",
+          "display_name": "flooding surfaces",
+          "score": 0.8619999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-boundaries",
+          "display_name": "sequence boundaries",
+          "score": 0.8709999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality-prediction",
+          "display_name": "reservoir quality prediction",
+          "score": 0.6140000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop-analogs",
+          "display_name": "outcrop analogs",
+          "score": 0.5149999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-sedimentology",
+          "display_name": "carbonate sedimentology",
+          "score": 0.4269999861717224
         },
         {
           "id": "https://openalex.org/keywords/central-saudi-arabia",
           "display_name": "central Saudi Arabia",
-          "score": 0.6759999990463257
+          "score": 0.6859999895095825
         }
       ],
       "concepts": [
@@ -37331,8 +37737,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38055,7 +38461,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2535213321",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -38110,6 +38516,7 @@
         "https://openalex.org/W2597944828"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -38127,11 +38534,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38146,9 +38555,11 @@
           "author": {
             "id": "https://openalex.org/A5104594019",
             "display_name": "Holger Cremer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38163,9 +38574,11 @@
           "author": {
             "id": "https://openalex.org/A5000405726",
             "display_name": "Oscar A. Abbink",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38180,11 +38593,13 @@
           "author": {
             "id": "https://openalex.org/A5008294416",
             "display_name": "Stephen G. Franks",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0120-1472",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0120-1472"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38199,9 +38614,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38216,9 +38633,11 @@
           "author": {
             "id": "https://openalex.org/A5079229433",
             "display_name": "Linda Garming",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38233,11 +38652,13 @@
           "author": {
             "id": "https://openalex.org/A5037213164",
             "display_name": "Roel Verreussel",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2228-350X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2228-350X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38541,8 +38962,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39295,6 +39716,7 @@
         "https://openalex.org/W2908719499"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -39310,11 +39732,13 @@
           "author": {
             "id": "https://openalex.org/A5005324517",
             "display_name": "Carl Jacquemyn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8627-7144",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8627-7144"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39329,11 +39753,13 @@
           "author": {
             "id": "https://openalex.org/A5019080744",
             "display_name": "Matthew D. Jackson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8276-3575",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8276-3575"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39348,11 +39774,13 @@
           "author": {
             "id": "https://openalex.org/A5075368069",
             "display_name": "Gary J. Hampson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2047-8469",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2047-8469"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39367,11 +39795,13 @@
           "author": {
             "id": "https://openalex.org/A5081422106",
             "display_name": "Cédric M. John",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9711-1548",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9711-1548"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39386,11 +39816,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39405,11 +39837,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39424,9 +39858,11 @@
           "author": {
             "id": "https://openalex.org/A5039403239",
             "display_name": "AbdulJaleel AbuBshait",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39441,9 +39877,11 @@
           "author": {
             "id": "https://openalex.org/A5086882344",
             "display_name": "Robert F. Lindsay",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39515,8 +39953,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39591,6 +40029,7 @@
         "https://openalex.org/W4312824837"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -39608,11 +40047,13 @@
           "author": {
             "id": "https://openalex.org/A5001052278",
             "display_name": "Pulkit Singh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8588-5650",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8588-5650"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -39649,9 +40090,11 @@
           "author": {
             "id": "https://openalex.org/A5060032483",
             "display_name": "Jordan Ferré",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -39688,11 +40131,13 @@
           "author": {
             "id": "https://openalex.org/A5037423208",
             "display_name": "Gabriella Del Viscio",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9389-8849",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9389-8849"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I201324441",
@@ -39729,11 +40174,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39755,11 +40202,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -39796,11 +40245,13 @@
           "author": {
             "id": "https://openalex.org/A5088439801",
             "display_name": "Michele Morsilli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6950-3659",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6950-3659"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I201324441",
@@ -39837,11 +40288,13 @@
           "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0838-3814",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0838-3814"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60060512",
@@ -39878,11 +40331,13 @@
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9601-3310"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -39942,7 +40397,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9785000085830688,
+        "score": 0.9750999808311462,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -39960,7 +40415,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9785000085830688,
+          "score": 0.9750999808311462,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -39975,12 +40430,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.008999999612569809,
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.021199999377131462,
           "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -39992,12 +40447,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.0035000001080334187,
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.000699999975040555,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -40013,37 +40468,37 @@
         {
           "id": "https://openalex.org/keywords/marine-limestones",
           "display_name": "marine limestones",
-          "score": 0.9610000252723694
+          "score": 0.9729999899864197
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-sediments",
-          "display_name": "carbonate sediments",
-          "score": 0.5830000042915344
+          "id": "https://openalex.org/keywords/phanerozoic",
+          "display_name": "Phanerozoic",
+          "score": 0.9309999942779541
         },
         {
-          "id": "https://openalex.org/keywords/paleoecology",
-          "display_name": "paleoecology",
-          "score": 0.5879999995231628
+          "id": "https://openalex.org/keywords/compositional-data",
+          "display_name": "compositional data",
+          "score": 0.6729999780654907
         },
         {
-          "id": "https://openalex.org/keywords/early-paleozoic",
-          "display_name": "Lower Paleozoic",
-          "score": 0.5400000214576721
+          "id": "https://openalex.org/keywords/resource-availability",
+          "display_name": "resource availability",
+          "score": 0.6729999780654907
         },
         {
-          "id": "https://openalex.org/keywords/ordovician",
-          "display_name": "Ordovician",
-          "score": 0.5
+          "id": "https://openalex.org/keywords/primary-productivity",
+          "display_name": "primary productivity",
+          "score": 0.7300000190734863
         },
         {
-          "id": "https://openalex.org/keywords/bioerosion",
-          "display_name": "bioerosion",
-          "score": 0.5339999794960022
+          "id": "https://openalex.org/keywords/mass-extinction",
+          "display_name": "mass extinction",
+          "score": 0.6520000100135803
         },
         {
-          "id": "https://openalex.org/keywords/benthic-organisms",
-          "display_name": "benthic organisms",
-          "score": 0.40400001406669617
+          "id": "https://openalex.org/keywords/depositional-architecture",
+          "display_name": "depositional architecture",
+          "score": 0.6949999928474426
         }
       ],
       "concepts": [
@@ -40123,13 +40578,19 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
+      "sustainable_development_goals": [
+        {
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40741,7 +41202,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4312824837",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2023-01-05T00:00:00"
     },
     {
@@ -40797,6 +41258,7 @@
         "https://openalex.org/W4389353987"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -40814,11 +41276,13 @@
           "author": {
             "id": "https://openalex.org/A5001052278",
             "display_name": "Pulkit Singh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8588-5650",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8588-5650"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -40855,9 +41319,11 @@
           "author": {
             "id": "https://openalex.org/A5060032483",
             "display_name": "Jordan Ferré",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40872,11 +41338,13 @@
           "author": {
             "id": "https://openalex.org/A5036217481",
             "display_name": "Bridget L. Thrasher",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3961-1971",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3961-1971"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -40913,11 +41381,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -40954,11 +41424,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40973,11 +41445,13 @@
           "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0838-3814",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0838-3814"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60060512",
@@ -41019,11 +41493,13 @@
           "author": {
             "id": "https://openalex.org/A5088439801",
             "display_name": "Michele Morsilli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6950-3659",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6950-3659"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I201324441",
@@ -41060,11 +41536,13 @@
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9601-3310"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -41340,8 +41818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41417,6 +41895,7 @@
         "https://openalex.org/W4403857065"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -41434,11 +41913,13 @@
           "author": {
             "id": "https://openalex.org/A5001052278",
             "display_name": "Pulkit Singh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8588-5650",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8588-5650"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -41475,11 +41956,13 @@
           "author": {
             "id": "https://openalex.org/A5054558073",
             "display_name": "Karrie L. Weaver",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7094-3501",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7094-3501"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -41516,9 +41999,11 @@
           "author": {
             "id": null,
             "display_name": "Katie Dunn",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -41555,11 +42040,13 @@
           "author": {
             "id": "https://openalex.org/A5027250044",
             "display_name": "Dale Burns",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6062-6230",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6062-6230"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -41596,11 +42083,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41615,11 +42104,13 @@
           "author": {
             "id": "https://openalex.org/A5088439801",
             "display_name": "Michele Morsilli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6950-3659",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6950-3659"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I201324441",
@@ -41656,11 +42147,13 @@
           "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0838-3814",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0838-3814"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60060512",
@@ -41697,11 +42190,13 @@
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9601-3310"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -42014,8 +42509,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42087,6 +42582,7 @@
         "https://openalex.org/W4408525198"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -42104,11 +42600,13 @@
           "author": {
             "id": "https://openalex.org/A5001052278",
             "display_name": "Pulkit Singh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8588-5650",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8588-5650"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42123,9 +42621,11 @@
           "author": {
             "id": null,
             "display_name": "Katie Dunn",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42140,11 +42640,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42159,11 +42661,13 @@
           "author": {
             "id": "https://openalex.org/A5054558073",
             "display_name": "Karrie L. Weaver",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7094-3501",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7094-3501"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42178,11 +42682,13 @@
           "author": {
             "id": "https://openalex.org/A5027250044",
             "display_name": "Dale Burns",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6062-6230",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6062-6230"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42197,11 +42703,13 @@
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9601-3310"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42216,11 +42724,13 @@
           "author": {
             "id": "https://openalex.org/A5088439801",
             "display_name": "Michele Morsilli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6950-3659",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6950-3659"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42235,11 +42745,13 @@
           "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0838-3814",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0838-3814"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42584,8 +43096,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408525198.pdf",
@@ -42664,6 +43176,7 @@
         "https://openalex.org/W4417217385"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -42681,11 +43194,13 @@
           "author": {
             "id": "https://openalex.org/A5001052278",
             "display_name": "Pulkit Singh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8588-5650",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8588-5650"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42700,9 +43215,11 @@
           "author": {
             "id": "https://openalex.org/A5060032483",
             "display_name": "Jordan Ferré",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42717,11 +43234,13 @@
           "author": {
             "id": "https://openalex.org/A5036217481",
             "display_name": "Bridget L. Thrasher",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3961-1971",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3961-1971"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42736,11 +43255,13 @@
           "author": {
             "id": "https://openalex.org/A5027418132",
             "display_name": "Pedro M. Monarrez",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4221-0693",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4221-0693"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42755,11 +43276,13 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42774,11 +43297,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42793,11 +43318,13 @@
           "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0838-3814",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0838-3814"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42812,11 +43339,13 @@
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9601-3310"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42854,7 +43383,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.8794000148773193,
+        "score": 0.986299991607666,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -42872,7 +43401,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.8794000148773193,
+          "score": 0.986299991607666,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -42889,7 +43418,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.04340000078082085,
+          "score": 0.00430000014603138,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -42904,12 +43433,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.030500000342726707,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.0031999999191612005,
           "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -42925,32 +43454,62 @@
         {
           "id": "https://openalex.org/keywords/sedimentary-carbonates",
           "display_name": "sedimentary carbonates",
-          "score": 0.9440000057220459
+          "score": 0.9829999804496765
         },
         {
           "id": "https://openalex.org/keywords/phanerozoic",
           "display_name": "Phanerozoic",
-          "score": 0.949999988079071
+          "score": 0.8830000162124634
         },
         {
-          "id": "https://openalex.org/keywords/seafloor",
-          "display_name": "ocean floor",
-          "score": 0.6489999890327454
+          "id": "https://openalex.org/keywords/micrite",
+          "display_name": "micrite",
+          "score": 0.7820000052452087
         },
         {
-          "id": "https://openalex.org/keywords/quantitative-assessment",
-          "display_name": "quantitative evaluation",
-          "score": 0.6460000276565552
+          "id": "https://openalex.org/keywords/carbonate-cement",
+          "display_name": "carbonate cement",
+          "score": 0.8080000281333923
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-geochemistry",
-          "display_name": "carbonate geochemistry",
-          "score": 0.5860000252723694
+          "id": "https://openalex.org/keywords/calcareous-algae",
+          "display_name": "calcareous algae",
+          "score": 0.8309999704360962
         },
         {
-          "id": "https://openalex.org/keywords/paleoceanography",
-          "display_name": "paleoceanography",
-          "score": 0.6430000066757202
+          "id": "https://openalex.org/keywords/foraminifera",
+          "display_name": "foraminifera",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/echinoderms",
+          "display_name": "Echinodermata",
+          "score": 0.9869999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/bryozoa",
+          "display_name": "Bryozoa",
+          "score": 0.8629999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/brachiopods",
+          "display_name": "brachiopods",
+          "score": 0.8960000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/calcareous-sponges",
+          "display_name": "calcareous sponges",
+          "score": 0.9020000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/reef-carbonates",
+          "display_name": "reef carbonates",
+          "score": 0.5139999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-factory",
+          "display_name": "carbonate factory",
+          "score": 0.722000002861023
         }
       ],
       "concepts": [
@@ -43086,13 +43645,19 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
+      "sustainable_development_goals": [
+        {
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43836,7 +44401,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4417217385",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2025-12-11T00:00:00"
     }
   ]

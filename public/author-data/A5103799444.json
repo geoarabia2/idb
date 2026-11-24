@@ -4,13 +4,14 @@
     "orcid": null,
     "observed_orcids": [],
     "display_name": "John Melvin",
+    "type": null,
     "raw_author_names": [
       "J. Melvin",
       "John Melvin"
     ],
     "full_name": "John Melvin (2)",
     "works_count": 35,
-    "cited_by_count": 850,
+    "cited_by_count": 860,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 15,
@@ -142,6 +143,7 @@
           2018,
           2017,
           2014,
+          2010,
           2009
         ]
       },
@@ -539,7 +541,7 @@
         "year": 2015,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 35
+        "cited_by_count": 39
       },
       {
         "year": 2016,
@@ -557,7 +559,7 @@
         "year": 2018,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 56
+        "cited_by_count": 60
       },
       {
         "year": 2019,
@@ -599,7 +601,7 @@
         "year": 2025,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 51
+        "cited_by_count": 53
       },
       {
         "year": 2026,
@@ -616,7 +618,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5103799444",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -691,6 +693,7 @@
         "https://openalex.org/W2048864911"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -709,11 +712,13 @@
           "author": {
             "id": "https://openalex.org/A5044489988",
             "display_name": "Philippe Steemans",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1183-6324",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1183-6324"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -899,9 +904,11 @@
           "author": {
             "id": "https://openalex.org/A5090141705",
             "display_name": "Alain Le Hérissé",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -1087,9 +1094,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -1275,11 +1284,13 @@
           "author": {
             "id": "https://openalex.org/A5021079925",
             "display_name": "Merrell A. Miller",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6046-4283",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6046-4283"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -1465,9 +1476,11 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -1653,11 +1666,13 @@
           "author": {
             "id": "https://openalex.org/A5029025019",
             "display_name": "Jacques Verniers",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2939-7684",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2939-7684"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -1843,11 +1858,13 @@
           "author": {
             "id": "https://openalex.org/A5058654714",
             "display_name": "Charles H. Wellman",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7511-0464",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7511-0464"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -2050,13 +2067,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.9543,
+      "fwci": 16.8314,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 305,
+      "cited_by_count": 304,
       "reviewed_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.9973822,
+        "value": 0.99733293,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3010,14 +3027,14 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 24
+          "cited_by_count": 23
         },
         {
           "year": 2012,
           "cited_by_count": 29
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3074,6 +3091,7 @@
         "https://openalex.org/W2955893822"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3091,9 +3109,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3108,9 +3128,11 @@
           "author": {
             "id": "https://openalex.org/A5051190082",
             "display_name": "Ronald A. Sprague",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3128,13 +3150,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0969,
+      "fwci": 3.0336,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 75,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89077401,
+        "value": 0.88853826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4362,6 +4384,7 @@
         "https://openalex.org/W571241029"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -4379,9 +4402,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4418,9 +4443,11 @@
           "author": {
             "id": "https://openalex.org/A5051190082",
             "display_name": "Ronald A. Sprague",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4457,9 +4484,11 @@
           "author": {
             "id": null,
             "display_name": "Christian J. Heine",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4501,13 +4530,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2656,
+      "fwci": 4.2646,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93394495,
+        "value": 0.93418647,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4528,7 +4557,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.7383000254631042,
+        "score": 0.7426999807357788,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -4546,7 +4575,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.7383000254631042,
+          "score": 0.7426999807357788,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -4563,7 +4592,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.13600000739097595,
+          "score": 0.15360000729560852,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -4580,7 +4609,7 @@
         {
           "id": "https://openalex.org/T10017",
           "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.0786999985575676,
+          "score": 0.0617000013589859,
           "subfield": {
             "id": "https://openalex.org/subfields/1902",
             "display_name": "Atmospheric Science"
@@ -4599,47 +4628,52 @@
         {
           "id": "https://openalex.org/keywords/gondwanan-glaciation",
           "display_name": "Gondwanan glaciation",
-          "score": 0.8989999890327454
+          "score": 0.8790000081062317
         },
         {
           "id": "https://openalex.org/keywords/late-paleozoic-glaciation",
           "display_name": "Late Paleozoic glaciation",
-          "score": 0.9570000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/carboniferous-permian",
-          "display_name": "Carboniferous-Permian",
-          "score": 0.7179999947547913
+          "score": 0.9620000123977661
         },
         {
           "id": "https://openalex.org/keywords/unayzah-formation",
           "display_name": "Unayzah Formation",
-          "score": 0.9959999918937683
+          "score": 0.9950000047683716
         },
         {
           "id": "https://openalex.org/keywords/khuff-formation",
           "display_name": "Khuff Formation",
-          "score": 0.9950000047683716
+          "score": 0.9850000143051147
         },
         {
           "id": "https://openalex.org/keywords/postglacial-transgression",
           "display_name": "postglacial transgression",
-          "score": 0.9869999885559082
+          "score": 0.9819999933242798
         },
         {
           "id": "https://openalex.org/keywords/neo-tethys-ocean",
           "display_name": "Neo-Tethys Ocean",
-          "score": 0.8600000143051147
+          "score": 0.8650000095367432
         },
         {
-          "id": "https://openalex.org/keywords/climate-amelioration",
-          "display_name": "climate amelioration",
-          "score": 0.7480000257492065
+          "id": "https://openalex.org/keywords/carboniferous-permian",
+          "display_name": "Carboniferous-Permian",
+          "score": 0.7310000061988831
         },
         {
           "id": "https://openalex.org/keywords/saudi-arabia",
           "display_name": "Saudi Arabia",
-          "score": 0.4880000054836273
+          "score": 0.5289999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "stratigraphy",
+          "score": 0.5699999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/glacial-deposits",
+          "display_name": "glacial deposits",
+          "score": 0.47699999809265137
         }
       ],
       "concepts": [
@@ -5088,7 +5122,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5155,6 +5189,7 @@
         "https://openalex.org/W2003091363"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5172,9 +5207,11 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -5261,11 +5298,13 @@
           "author": {
             "id": "https://openalex.org/A5029025019",
             "display_name": "Jacques Verniers",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2939-7684",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2939-7684"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I32597200",
@@ -5302,11 +5341,13 @@
           "author": {
             "id": "https://openalex.org/A5021079925",
             "display_name": "Merrell A. Miller",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6046-4283",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6046-4283"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5328,9 +5369,11 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5367,9 +5410,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5406,11 +5451,13 @@
           "author": {
             "id": "https://openalex.org/A5058654714",
             "display_name": "Charles H. Wellman",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7511-0464",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7511-0464"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I91136226",
@@ -5461,13 +5508,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.6062,
+      "fwci": 2.5305,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 43,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89317761,
+        "value": 0.88941176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6030,6 +6077,7 @@
         "https://openalex.org/W2007218904"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6047,9 +6095,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -6097,13 +6147,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 4.3063,
+      "fwci": 4.2022,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 36,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93268837,
+        "value": 0.93067315,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6524,6 +6574,7 @@
         "https://openalex.org/W4235085602"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -6541,11 +6592,13 @@
           "author": {
             "id": "https://openalex.org/A5039701585",
             "display_name": "Daniel Paul Le Heron",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7213-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7213-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I184558857",
@@ -6583,11 +6636,13 @@
           "author": {
             "id": "https://openalex.org/A5068207422",
             "display_name": "S. Tofaif",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3241-1261",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3241-1261"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I184558857",
@@ -6625,9 +6680,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7138,6 +7195,7 @@
         "https://openalex.org/W2807631896"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7155,11 +7213,13 @@
           "author": {
             "id": "https://openalex.org/A5068207422",
             "display_name": "S. Tofaif",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3241-1261",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3241-1261"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7196,11 +7256,13 @@
           "author": {
             "id": "https://openalex.org/A5039701585",
             "display_name": "Daniel Paul Le Heron",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7213-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7213-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I129774422",
@@ -7237,9 +7299,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7279,13 +7343,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8848,
+      "fwci": 1.859,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81652491,
+        "value": 0.81440972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8228,6 +8292,7 @@
         "https://openalex.org/W2922140448"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -8245,9 +8310,11 @@
           "author": {
             "id": "https://openalex.org/A5079226320",
             "display_name": "Roger J. Price",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8262,9 +8329,11 @@
           "author": {
             "id": "https://openalex.org/A5013096023",
             "display_name": "A. Kent Norton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8279,9 +8348,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8296,9 +8367,11 @@
           "author": {
             "id": null,
             "display_name": "Christian J. Heine",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8313,9 +8386,11 @@
           "author": {
             "id": "https://openalex.org/A5027634361",
             "display_name": "John Filatoff",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8330,9 +8405,11 @@
           "author": {
             "id": "https://openalex.org/A5051190082",
             "display_name": "Ronald A. Sprague",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -9298,6 +9375,7 @@
         "https://openalex.org/W1494618508"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9315,9 +9393,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -9332,9 +9412,11 @@
           "author": {
             "id": "https://openalex.org/A5013096023",
             "display_name": "A. Kent Norton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -9352,13 +9434,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9152,
+      "fwci": 1.8785,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8224145,
+        "value": 0.81858593,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11096,6 +11178,7 @@
         "https://openalex.org/W1991443707"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11113,9 +11196,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -12752,6 +12837,7 @@
         "https://openalex.org/W2901499799"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12769,11 +12855,13 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2730-4672",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2730-4672"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12828,11 +12916,13 @@
           "author": {
             "id": "https://openalex.org/A5010680677",
             "display_name": "Ronald J. Steel",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6846-7788",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6846-7788"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I86519309",
@@ -12869,9 +12959,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12908,11 +13000,13 @@
           "author": {
             "id": "https://openalex.org/A5055054874",
             "display_name": "Cornel Olariu",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2837-4664",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2837-4664"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I86519309",
@@ -12949,9 +13043,11 @@
           "author": {
             "id": "https://openalex.org/A5028197559",
             "display_name": "Kaya Ertug",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12988,9 +13084,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13039,13 +13137,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.9343,
+      "fwci": 0.9205,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68827,
+        "value": 0.68419211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13571,6 +13669,7 @@
         "https://openalex.org/W2792359833"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13588,9 +13687,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13634,13 +13735,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3194,
+      "fwci": 1.3013,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74761326,
+        "value": 0.74496528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14850,6 +14951,7 @@
         "https://openalex.org/W4249970592"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -14867,9 +14969,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14891,9 +14995,11 @@
           "author": {
             "id": "https://openalex.org/A5048956476",
             "display_name": "Angela S. Knight",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14918,13 +15024,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0237,
+      "fwci": 0.9614,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 34,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67759563,
+        "value": 0.66756032,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15777,6 +15883,7 @@
         "https://openalex.org/W143289163"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -15794,9 +15901,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -15816,18 +15925,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1459,
+      "fwci": 1.1296,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7470726,
+        "value": 0.74647887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 96
       },
       "biblio": {
@@ -16603,6 +16712,7 @@
         "https://openalex.org/W3022763138"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16620,9 +16730,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16637,9 +16749,11 @@
           "author": {
             "id": "https://openalex.org/A5091093305",
             "display_name": "Brian P. Wallick",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16654,9 +16768,11 @@
           "author": {
             "id": null,
             "display_name": "Christian J. Heine",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16674,13 +16790,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0571,
+      "fwci": 1.0303,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74974407,
+        "value": 0.74348032,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18227,6 +18343,7 @@
         "https://openalex.org/W2891129024"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18244,9 +18361,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18290,9 +18409,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18336,9 +18457,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18382,11 +18505,13 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6243-7756",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6243-7756"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18430,11 +18555,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -18478,9 +18605,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -18527,13 +18656,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9343,
+      "fwci": 0.9205,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68827,
+        "value": 0.68419211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20028,6 +20157,7 @@
         "https://openalex.org/W2979622934"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20045,9 +20175,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -20084,9 +20216,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -20123,9 +20257,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -20162,11 +20298,13 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6243-7756",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6243-7756"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -20203,11 +20341,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -20244,9 +20384,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -21527,6 +21669,7 @@
         "https://openalex.org/W2955843737"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21544,9 +21687,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21583,9 +21728,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21622,9 +21769,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21661,11 +21810,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -21702,9 +21853,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -21752,13 +21905,13 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.1595,
+      "fwci": 0.1558,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39648296,
+        "value": 0.38736087,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22281,6 +22434,7 @@
         "https://openalex.org/W2008841467"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22298,9 +22452,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -22327,13 +22483,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1764,
+      "fwci": 2.0566,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 34,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83235981,
+        "value": 0.82476982,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23331,6 +23487,7 @@
         "https://openalex.org/W2622786717"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -23346,9 +23503,11 @@
           "author": {
             "id": null,
             "display_name": "S. Sakurai",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23370,9 +23529,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23689,6 +23850,7 @@
         "https://openalex.org/W1999115540"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -23706,9 +23868,11 @@
           "author": {
             "id": "https://openalex.org/A5017198168",
             "display_name": "Trond B. Jensen",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I24101674",
@@ -23745,9 +23909,11 @@
           "author": {
             "id": "https://openalex.org/A5049523792",
             "display_name": "Laird D. Little",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I24101674",
@@ -23784,9 +23950,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I24101674",
@@ -23823,9 +23991,11 @@
           "author": {
             "id": "https://openalex.org/A5074711784",
             "display_name": "Eric W. Reinbold",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I24101674",
@@ -23862,9 +24032,11 @@
           "author": {
             "id": "https://openalex.org/A5008017264",
             "display_name": "David P. Jamieson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I24101674",
@@ -23901,9 +24073,11 @@
           "author": {
             "id": "https://openalex.org/A5108414660",
             "display_name": "Wen Shi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I24101674",
@@ -23945,13 +24119,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.745,
+      "fwci": 0.7493,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59695726,
+        "value": 0.60066241,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24729,6 +24903,7 @@
         "https://openalex.org/W2160234329"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24746,9 +24921,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -25650,6 +25827,7 @@
         "https://openalex.org/W2921727826"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25667,11 +25845,13 @@
           "author": {
             "id": "https://openalex.org/A5068207422",
             "display_name": "S. Tofaif",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3241-1261",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3241-1261"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -25708,11 +25888,13 @@
           "author": {
             "id": "https://openalex.org/A5017457262",
             "display_name": "Thomas Matthew Vandyk",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7732-9977",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7732-9977"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I184558857",
@@ -25750,11 +25932,13 @@
           "author": {
             "id": "https://openalex.org/A5039701585",
             "display_name": "Daniel Paul Le Heron",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7213-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7213-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I129774422",
@@ -25791,9 +25975,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -25841,13 +26027,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.6397,
+      "fwci": 0.6233,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60613741,
+        "value": 0.5992089,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26302,6 +26488,7 @@
         "https://openalex.org/W2110832266"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -26317,9 +26504,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26334,9 +26523,11 @@
           "author": {
             "id": "https://openalex.org/A5048956476",
             "display_name": "Angela S. Knight",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27212,6 +27403,7 @@
         "https://openalex.org/W2184990391"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -27227,9 +27419,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27244,9 +27438,11 @@
           "author": {
             "id": "https://openalex.org/A5009455259",
             "display_name": "Arlen Ehm",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27261,9 +27457,11 @@
           "author": {
             "id": "https://openalex.org/A5109860807",
             "display_name": "IRVIN L. TAILLEUR",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28158,6 +28356,7 @@
         "https://openalex.org/W2620705869"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -28175,9 +28374,11 @@
           "author": {
             "id": "https://openalex.org/A5002608700",
             "display_name": "Fares Alaboud",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -28214,9 +28415,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -28557,8 +28760,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -29340,6 +29543,7 @@
         "https://openalex.org/W2586174234"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -29355,9 +29559,11 @@
           "author": {
             "id": "https://openalex.org/A5024893356",
             "display_name": "Raed A. Alsalhi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29372,9 +29578,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29770,6 +29978,7 @@
         "https://openalex.org/W2199349327"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -29785,9 +29994,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -30082,6 +30293,7 @@
         "https://openalex.org/W2335889560"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -30097,9 +30309,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98677209",
@@ -30440,6 +30654,7 @@
         "https://openalex.org/W2037267813"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30457,9 +30672,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -30486,13 +30703,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6851,
+      "fwci": 0.6513,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62306701,
+        "value": 0.60640732,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31367,6 +31584,7 @@
         "https://openalex.org/W2269690062"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -31382,9 +31600,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -31634,6 +31854,7 @@
         "https://openalex.org/W2016300358"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31651,9 +31872,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -31922,6 +32145,7 @@
         "https://openalex.org/W2374158414"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -31937,11 +32161,13 @@
           "author": {
             "id": "https://openalex.org/A5044489988",
             "display_name": "Philippe Steemans",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1183-6324",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1183-6324"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31956,9 +32182,11 @@
           "author": {
             "id": "https://openalex.org/A5090141705",
             "display_name": "Alain Le Hérissé",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31973,9 +32201,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31990,11 +32220,13 @@
           "author": {
             "id": "https://openalex.org/A5021079925",
             "display_name": "Merrell A. Miller",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6046-4283",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6046-4283"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32009,9 +32241,11 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32026,11 +32260,13 @@
           "author": {
             "id": "https://openalex.org/A5029025019",
             "display_name": "Jacques Verniers",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2939-7684",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2939-7684"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32045,11 +32281,13 @@
           "author": {
             "id": "https://openalex.org/A5058654714",
             "display_name": "Charles H. Wellman",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7511-0464",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7511-0464"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33033,6 +33271,7 @@
         "https://openalex.org/W2969932007"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -33050,9 +33289,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33067,9 +33308,11 @@
           "author": {
             "id": "https://openalex.org/A5013096023",
             "display_name": "A. Kent Norton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34036,6 +34279,7 @@
         "https://openalex.org/W4378231229"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -34053,11 +34297,13 @@
           "author": {
             "id": "https://openalex.org/A5037314686",
             "display_name": "Mohammed Alsheikh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7918-7634",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7918-7634"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -34094,9 +34340,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -34133,9 +34381,11 @@
           "author": {
             "id": null,
             "display_name": "K. Dasgupta",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210097752",
@@ -34172,9 +34422,11 @@
           "author": {
             "id": "https://openalex.org/A5002608700",
             "display_name": "Fares Alaboud",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -34211,9 +34463,11 @@
           "author": {
             "id": "https://openalex.org/A5076343814",
             "display_name": "Hasan Algheryafi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",

@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0001-6787-3533"
     ],
     "display_name": "Hamad Al-Saad Al-Kuwari",
+    "type": null,
     "raw_author_names": [
       "H Al-Kuwari",
       "H. A. Al‐Saad Al‐Kuwari",
@@ -20,7 +21,7 @@
     ],
     "full_name": "Hamad A. Al Saad Al-Kuwari",
     "works_count": 44,
-    "cited_by_count": 607,
+    "cited_by_count": 608,
     "summary_stats": {
       "2yr_mean_citedness": 4.714285714285714,
       "h_index": 12,
@@ -339,7 +340,7 @@
         "year": 2022,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 75
+        "cited_by_count": 76
       },
       {
         "year": 2023,
@@ -382,7 +383,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5079669280",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-10-28T00:00:00"
   },
   "works": [
@@ -458,6 +459,7 @@
         "https://openalex.org/W3132684617"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -478,11 +480,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -526,11 +530,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -567,11 +573,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -608,11 +616,13 @@
           "author": {
             "id": "https://openalex.org/A5054305899",
             "display_name": "O. A. Anisimov",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9515-4576",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9515-4576"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I2801901952",
@@ -651,11 +661,13 @@
           "author": {
             "id": "https://openalex.org/A5066001291",
             "display_name": "Himanshu Govil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3433-8355",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3433-8355"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I38335241",
@@ -692,11 +704,13 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4906-510X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4906-510X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47818738",
@@ -733,12 +747,14 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2849-5370",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2849-5370",
               "https://orcid.org/0000-0002-2747-7568"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -790,13 +806,13 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 3.9512,
+      "fwci": 3.9944,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 101,
+      "cited_by_count": 102,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95045122,
+        "value": 0.95197655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1938,10 +1954,10 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 13
+          "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -2012,6 +2028,7 @@
         "https://openalex.org/W3129040100"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2030,11 +2047,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -2078,12 +2097,14 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2849-5370",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2849-5370",
               "https://orcid.org/0000-0002-2747-7568"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -2120,11 +2141,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -2161,11 +2184,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -2202,11 +2227,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -2243,11 +2270,13 @@
           "author": {
             "id": "https://openalex.org/A5063428511",
             "display_name": "Vashist Omprasad Seegobin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6334-4105",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6334-4105"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I69072986",
@@ -2284,11 +2313,13 @@
           "author": {
             "id": "https://openalex.org/A5066001291",
             "display_name": "Himanshu Govil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3433-8355",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3433-8355"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I38335241",
@@ -2325,11 +2356,13 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4906-510X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4906-510X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47818738",
@@ -2377,13 +2410,13 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 3.2539,
+      "fwci": 3.2998,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 81,
+      "cited_by_count": 82,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92990976,
+        "value": 0.93141354,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2890,14 +2923,14 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2021,
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -2965,6 +2998,7 @@
         "https://openalex.org/W4386468571"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2983,9 +3017,11 @@
           "author": {
             "id": null,
             "display_name": "Rajendran Sankaran",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -3042,11 +3078,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -3083,11 +3121,13 @@
           "author": {
             "id": "https://openalex.org/A5069611643",
             "display_name": "J Aravinth",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1354-3277",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1354-3277"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I81556334",
@@ -3124,11 +3164,13 @@
           "author": {
             "id": "https://openalex.org/A5010036065",
             "display_name": "Mark  Edward Chatting",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7916-7107",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7916-7107"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I100930933",
@@ -3165,11 +3207,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -3215,11 +3259,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -4602,6 +4648,7 @@
         "https://openalex.org/W2583394094"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4620,11 +4667,13 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0935-4545",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0935-4545"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -4661,11 +4710,13 @@
           "author": {
             "id": "https://openalex.org/A5008564076",
             "display_name": "Samir Jaoua",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8819-131X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8819-131X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -4702,11 +4753,13 @@
           "author": {
             "id": "https://openalex.org/A5069824368",
             "display_name": "Tomaso R. R. Bontognali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4917-0388",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4917-0388"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I35440088",
@@ -4744,9 +4797,11 @@
           "author": {
             "id": "https://openalex.org/A5023033320",
             "display_name": "Essam Attia",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -4783,11 +4838,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -4824,11 +4881,13 @@
           "author": {
             "id": "https://openalex.org/A5013723407",
             "display_name": "Nabil Zouari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4652-1656",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4652-1656"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -4880,13 +4939,13 @@
         "currency": "CHF",
         "value_usd": 3801
       },
-      "fwci": 3.5341,
+      "fwci": 3.3635,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 74,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93719605,
+        "value": 0.93341037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6231,6 +6290,7 @@
         "https://openalex.org/W3109758233"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6248,9 +6308,11 @@
           "author": {
             "id": null,
             "display_name": "M. Alipour",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -6287,9 +6349,11 @@
           "author": {
             "id": "https://openalex.org/A5017622517",
             "display_name": "Erica Esatyana",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -6326,11 +6390,13 @@
           "author": {
             "id": "https://openalex.org/A5009925314",
             "display_name": "A. Sakhaee-Pour",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9312-0479",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9312-0479"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -6367,11 +6433,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -6408,11 +6476,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -6893,6 +6963,7 @@
         "https://openalex.org/W4205176598"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6911,11 +6982,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -6959,11 +7032,13 @@
           "author": {
             "id": "https://openalex.org/A5091672367",
             "display_name": "Valliyil Mohammed Aboobacker",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0385-6918",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0385-6918"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -7000,11 +7075,13 @@
           "author": {
             "id": "https://openalex.org/A5063428511",
             "display_name": "Vashist Omprasad Seegobin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6334-4105",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6334-4105"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I69072986",
@@ -7041,11 +7118,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -7082,11 +7161,13 @@
           "author": {
             "id": "https://openalex.org/A5057210692",
             "display_name": "Nelson Guillermo Rangel-Buitrago",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2261-3265",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2261-3265"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I274899335",
@@ -7123,11 +7204,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -7164,11 +7247,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -7205,12 +7290,14 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2849-5370",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2849-5370",
               "https://orcid.org/0000-0002-2747-7568"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -7258,18 +7345,18 @@
         "value_usd": 3630
       },
       "apc_paid": null,
-      "fwci": 2.3176,
+      "fwci": 2.3652,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 49,
+      "cited_by_count": 50,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88435964,
+        "value": 0.88808873,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 97,
         "max": 99
       },
       "biblio": {
@@ -7825,10 +7912,10 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2022-01-25T00:00:00"
     },
     {
@@ -7894,6 +7981,7 @@
         "https://openalex.org/W3145666038"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7913,11 +8001,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -7954,12 +8044,14 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2849-5370",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2849-5370",
               "https://orcid.org/0000-0002-2747-7568"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -7996,11 +8088,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -8037,11 +8131,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -8078,11 +8174,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -8119,11 +8217,13 @@
           "author": {
             "id": "https://openalex.org/A5066001291",
             "display_name": "Himanshu Govil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3433-8355",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3433-8355"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I38335241",
@@ -8160,11 +8260,13 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4906-510X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4906-510X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47818738",
@@ -9321,1336 +9423,6 @@
       "created_date": "2021-04-13T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4385287273",
-      "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-      "title": "Microbially influenced formation of anhydrite at low temperature",
-      "display_name": "Microbially influenced formation of anhydrite at low temperature",
-      "alternate_titles": [],
-      "publication_year": 2023,
-      "publication_date": "2023-07-26",
-      "ids": {
-        "openalex": "https://openalex.org/W4385287273",
-        "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37506898"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.scitotenv.2023.165820",
-        "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S86852077",
-          "display_name": "The Science of The Total Environment",
-          "issn_l": "0048-9697",
-          "issn": [
-            "0048-9697",
-            "1879-1026"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-class-a",
-            "anvur-scientific",
-            "cwts-core",
-            "jufo-2",
-            "medline",
-            "norway-2",
-            "poland-200",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Science of The Total Environment",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W4385287273"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5085989529",
-            "display_name": "Zulfa Ali Al Disi",
-            "orcid": "https://orcid.org/0000-0003-0935-4545",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0935-4545"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [
-            {
-              "id": "https://openalex.org/contributor-roles/conceptualization",
-              "display_name": "Conceptualization"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/formal-analysis",
-              "display_name": "Formal analysis"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/investigation",
-              "display_name": "Investigation"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/visualization",
-              "display_name": "Visualization"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/writing-original-draft",
-              "display_name": "Writing – original draft"
-            }
-          ],
-          "raw_author_name": "Zulfa Ali Al Disi",
-          "raw_affiliation_strings": [
-            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070411489",
-            "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5027-0648"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [
-            {
-              "id": "https://openalex.org/contributor-roles/conceptualization",
-              "display_name": "Conceptualization"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/formal-analysis",
-              "display_name": "Formal analysis"
-            }
-          ],
-          "raw_author_name": "Fadhil Sadooni",
-          "raw_affiliation_strings": [
-            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079669280",
-            "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6787-3533"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [
-            {
-              "id": "https://openalex.org/contributor-roles/funding-acquisition",
-              "display_name": "Funding acquisition"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/supervision",
-              "display_name": "Supervision"
-            }
-          ],
-          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
-          "raw_affiliation_strings": [
-            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5069824368",
-            "display_name": "Tomaso R. R. Bontognali",
-            "orcid": "https://orcid.org/0000-0003-4917-0388",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4917-0388"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1850255",
-              "display_name": "University of Basel",
-              "ror": "https://ror.org/02s6k3f65",
-              "country_code": "CH",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I1850255"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "CH",
-            "QA"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [
-            {
-              "id": "https://openalex.org/contributor-roles/conceptualization",
-              "display_name": "Conceptualization"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/formal-analysis",
-              "display_name": "Formal analysis"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/investigation",
-              "display_name": "Investigation"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/visualization",
-              "display_name": "Visualization"
-            },
-            {
-              "id": "https://openalex.org/contributor-roles/writing-original-draft",
-              "display_name": "Writing – original draft"
-            }
-          ],
-          "raw_author_name": "Tomaso R.R. Bontognali",
-          "raw_affiliation_strings": [
-            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch",
-            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
-            "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
-            "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch",
-              "institution_ids": [
-                "https://openalex.org/I1850255",
-                "https://openalex.org/I60342839"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
-              "institution_ids": [
-                "https://openalex.org/I1850255"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5069824368"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1850255",
-        "https://openalex.org/I60342839"
-      ],
-      "apc_list": {
-        "value": 3790,
-        "currency": "USD",
-        "value_usd": 3790
-      },
-      "apc_paid": {
-        "value": 3790,
-        "currency": "USD",
-        "value_usd": 3790
-      },
-      "fwci": 0.9855,
-      "is_authors_truncated": false,
-      "has_fulltext": true,
-      "cited_by_count": 14,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.6822113,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "902",
-        "issue": null,
-        "first_page": "165820",
-        "last_page": "165820"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12247",
-        "display_name": "Microbial Applications in Construction Materials",
-        "score": 0.5996000170707703,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12247",
-          "display_name": "Microbial Applications in Construction Materials",
-          "score": 0.5996000170707703,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11278",
-          "display_name": "Calcium Carbonate Crystallization and Inhibition",
-          "score": 0.2295999974012375,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2502",
-            "display_name": "Biomaterials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.03579999879002571,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/anhydrite-formation",
-          "display_name": "anhydrite formation",
-          "score": 0.9559999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/calcium-sulfate-minerals",
-          "display_name": "calcium sulfate minerals",
-          "score": 0.6610000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/gypsum",
-          "display_name": "gypsum",
-          "score": 0.6890000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/bassanite",
-          "display_name": "bassanite",
-          "score": 0.847000002861023
-        },
-        {
-          "id": "https://openalex.org/keywords/microbial-mineralization",
-          "display_name": "microbial mineralization",
-          "score": 0.6660000085830688
-        },
-        {
-          "id": "https://openalex.org/keywords/extracellular-polymeric-substances",
-          "display_name": "extracellular polymeric substances",
-          "score": 0.9819999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporitic-environments",
-          "display_name": "evaporitic environments",
-          "score": 0.5440000295639038
-        },
-        {
-          "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "sabkha",
-          "score": 0.9179999828338623
-        },
-        {
-          "id": "https://openalex.org/keywords/seawater-evaporation",
-          "display_name": "seawater evaporation",
-          "score": 0.7749999761581421
-        },
-        {
-          "id": "https://openalex.org/keywords/low-temperature-precipitation",
-          "display_name": "low-temperature precipitation",
-          "score": 0.753000020980835
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776044767",
-          "wikidata": "https://www.wikidata.org/wiki/Q105439",
-          "display_name": "Anhydrite",
-          "level": 3,
-          "score": 0.9850220084190369
-        },
-        {
-          "id": "https://openalex.org/C2779229104",
-          "wikidata": "https://www.wikidata.org/wiki/Q82658",
-          "display_name": "Gypsum",
-          "level": 2,
-          "score": 0.9441486597061157
-        },
-        {
-          "id": "https://openalex.org/C186660238",
-          "wikidata": "https://www.wikidata.org/wiki/Q637600",
-          "display_name": "Sabkha",
-          "level": 4,
-          "score": 0.7307803630828857
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.5548985004425049
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5022623538970947
-        },
-        {
-          "id": "https://openalex.org/C2778343803",
-          "wikidata": "https://www.wikidata.org/wiki/Q172290",
-          "display_name": "Sulfate",
-          "level": 2,
-          "score": 0.48975133895874023
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.4478302597999573
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4353983402252197
-        },
-        {
-          "id": "https://openalex.org/C107054158",
-          "wikidata": "https://www.wikidata.org/wiki/Q25257",
-          "display_name": "Precipitation",
-          "level": 2,
-          "score": 0.4329186975955963
-        },
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.2752756178379059
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.13393723964691162
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.09813088178634644
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.07799685001373291
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C153294291",
-          "wikidata": "https://www.wikidata.org/wiki/Q25261",
-          "display_name": "Meteorology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.scitotenv.2023.165820",
-          "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S86852077",
-            "display_name": "The Science of The Total Environment",
-            "issn_l": "0048-9697",
-            "issn": [
-              "0048-9697",
-              "1879-1026"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-class-a",
-              "anvur-scientific",
-              "cwts-core",
-              "jufo-2",
-              "medline",
-              "norway-2",
-              "poland-200",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Science of The Total Environment",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:37506898",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37506898",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "The Science of the total environment",
-          "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:figshare.com:article/25116623",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://figshare.com/articles/journal_contribution/Microbially_influenced_formation_of_anhydrite_at_low_temperature/25116623",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196282",
-            "display_name": "Figshare",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I4210132348",
-            "host_organization_name": "Figshare (United Kingdom)",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210132348"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:qspace.qu.edu.qa:10576/47320",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/10576/47320",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400014",
-            "display_name": "Qatar University QSpace (Qatar University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I60342839",
-            "host_organization_name": "Qatar University",
-            "host_organization_lineage": [
-              "https://openalex.org/I60342839"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.scitotenv.2023.165820",
-        "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S86852077",
-          "display_name": "The Science of The Total Environment",
-          "issn_l": "0048-9697",
-          "issn": [
-            "0048-9697",
-            "1879-1026"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-class-a",
-            "anvur-scientific",
-            "cwts-core",
-            "jufo-2",
-            "medline",
-            "norway-2",
-            "poland-200",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Science of The Total Environment",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G4575350107",
-          "display_name": null,
-          "funder_award_id": "NPRP13S‐0207‐200291",
-          "funder_id": "https://openalex.org/F4320332753",
-          "funder_display_name": "Qatar National Research Fund"
-        },
-        {
-          "id": "https://openalex.org/G8154206437",
-          "display_name": null,
-          "funder_award_id": "NPRP13S-0207-200291",
-          "funder_id": "https://openalex.org/F4320309815",
-          "funder_display_name": "Qatar Foundation"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320309815",
-          "display_name": "Qatar Foundation",
-          "ror": "https://ror.org/01cawbq05"
-        },
-        {
-          "id": "https://openalex.org/F4320321038",
-          "display_name": "Fonds National de la Recherche Luxembourg",
-          "ror": "https://ror.org/039z13y21"
-        },
-        {
-          "id": "https://openalex.org/F4320322472",
-          "display_name": "Qatar University",
-          "ror": "https://ror.org/00yhnba62"
-        },
-        {
-          "id": "https://openalex.org/F4320332753",
-          "display_name": "Qatar National Research Fund",
-          "ror": "https://ror.org/01svaqq28"
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4385287273.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4385287273.grobid-xml"
-      },
-      "referenced_works_count": 28,
-      "referenced_works": [
-        "https://openalex.org/W1565008566",
-        "https://openalex.org/W1895649650",
-        "https://openalex.org/W1995558270",
-        "https://openalex.org/W2013882840",
-        "https://openalex.org/W2024135285",
-        "https://openalex.org/W2063725002",
-        "https://openalex.org/W2096522903",
-        "https://openalex.org/W2132638924",
-        "https://openalex.org/W2136351736",
-        "https://openalex.org/W2147871651",
-        "https://openalex.org/W2294782901",
-        "https://openalex.org/W2481124984",
-        "https://openalex.org/W2583394094",
-        "https://openalex.org/W2616935735",
-        "https://openalex.org/W2811158931",
-        "https://openalex.org/W2910754831",
-        "https://openalex.org/W2967334030",
-        "https://openalex.org/W2968988152",
-        "https://openalex.org/W3022775428",
-        "https://openalex.org/W3127605655",
-        "https://openalex.org/W3173582197",
-        "https://openalex.org/W3175154366",
-        "https://openalex.org/W3186584782",
-        "https://openalex.org/W3193713661",
-        "https://openalex.org/W3214716846",
-        "https://openalex.org/W4210851622",
-        "https://openalex.org/W4283024137",
-        "https://openalex.org/W4283815056"
-      ],
-      "related_works": [
-        "https://openalex.org/W7089151005",
-        "https://openalex.org/W2739164476",
-        "https://openalex.org/W2013882840",
-        "https://openalex.org/W2151647901",
-        "https://openalex.org/W3211165429",
-        "https://openalex.org/W6910559522",
-        "https://openalex.org/W2075572819",
-        "https://openalex.org/W2028326456",
-        "https://openalex.org/W2025027549",
-        "https://openalex.org/W2766675154"
-      ],
-      "abstract_inverted_index": {
-        "35": [
-          90
-        ],
-        "Calcium": [
-          0
-        ],
-        "sulfate": [
-          1
-        ],
-        "minerals": [
-          2
-        ],
-        "are": [
-          3
-        ],
-        "abundant": [
-          4
-        ],
-        "in": [
-          5,
-          16,
-          34,
-          46,
-          55,
-          105,
-          127,
-          135
-        ],
-        "nature": [
-          6
-        ],
-        "–": [
-          7,
-          13
-        ],
-        "on": [
-          8,
-          11
-        ],
-        "Earth": [
-          9
-        ],
-        "and": [
-          10,
-          14,
-          26,
-          162
-        ],
-        "Mars": [
-          12
-        ],
-        "important": [
-          15
-        ],
-        "several": [
-          17,
-          149
-        ],
-        "fields": [
-          18
-        ],
-        "of": [
-          19,
-          40,
-          44,
-          73,
-          80,
-          108,
-          148,
-          152
-        ],
-        "material": [
-          20
-        ],
-        "sciences.": [
-          21
-        ],
-        "With": [
-          22
-        ],
-        "respect": [
-          23
-        ],
-        "to": [
-          24
-        ],
-        "gypsum": [
-          25,
-          133
-        ],
-        "bassanite,": [
-          27
-        ],
-        "anhydrite": [
-          28,
-          45,
-          86,
-          153
-        ],
-        "represents": [
-          29
-        ],
-        "the": [
-          30,
-          35,
-          42,
-          47,
-          56,
-          78,
-          106,
-          123,
-          146
-        ],
-        "anhydrous": [
-          31
-        ],
-        "crystalline": [
-          32
-        ],
-        "phase": [
-          33,
-          67
-        ],
-        "CaSO4–H2O": [
-          36
-        ],
-        "system.": [
-          37
-        ],
-        "Despite": [
-          38
-        ],
-        "years": [
-          39
-        ],
-        "research,": [
-          41
-        ],
-        "formation": [
-          43
-        ],
-        "laboratory": [
-          48,
-          81
-        ],
-        "at": [
-          49,
-          89
-        ],
-        "low": [
-          50
-        ],
-        "temperature": [
-          51
-        ],
-        "remains": [
-          52
-        ],
-        "challenging": [
-          53
-        ],
-        "and,": [
-          54
-        ],
-        "geological": [
-          57
-        ],
-        "record,": [
-          58
-        ],
-        "this": [
-          59
-        ],
-        "mineral": [
-          60
-        ],
-        "is": [
-          61
-        ],
-        "mostly": [
-          62
-        ],
-        "interpreted": [
-          63
-        ],
-        "as": [
-          64
-        ],
-        "a": [
-          65,
-          96,
-          119,
-          142,
-          164
-        ],
-        "secondary": [
-          66
-        ],
-        "that": [
-          68,
-          85,
-          154,
-          168
-        ],
-        "form": [
-          69,
-          88
-        ],
-        "through": [
-          70,
-          95
-        ],
-        "metamorphic": [
-          71
-        ],
-        "dehydration": [
-          72
-        ],
-        "gypsum.": [
-          74
-        ],
-        "Here,": [
-          75
-        ],
-        "we": [
-          76
-        ],
-        "present": [
-          77
-        ],
-        "results": [
-          79
-        ],
-        "precipitation": [
-          82,
-          166
-        ],
-        "experiments": [
-          83,
-          102
-        ],
-        "showing": [
-          84
-        ],
-        "can": [
-          87
-        ],
-        "°C": [
-          91
-        ],
-        "from": [
-          92,
-          118
-        ],
-        "evaporated": [
-          93
-        ],
-        "seawater": [
-          94
-        ],
-        "microbially": [
-          97
-        ],
-        "influenced": [
-          98
-        ],
-        "mineralization": [
-          99
-        ],
-        "process.": [
-          100
-        ],
-        "The": [
-          101
-        ],
-        "were": [
-          103
-        ],
-        "conducted": [
-          104
-        ],
-        "presence": [
-          107
-        ],
-        "extracellular": [
-          109
-        ],
-        "polymeric": [
-          110
-        ],
-        "substances": [
-          111
-        ],
-        "(EPS)": [
-          112
-        ],
-        "produced": [
-          113
-        ],
-        "by": [
-          114,
-          159
-        ],
-        "bacterial": [
-          115
-        ],
-        "strains": [
-          116
-        ],
-        "isolated": [
-          117
-        ],
-        "modern": [
-          120
-        ],
-        "evaporitic": [
-          121
-        ],
-        "environment,": [
-          122
-        ],
-        "Dohat": [
-          124
-        ],
-        "Faishakh": [
-          125
-        ],
-        "sabkha": [
-          126
-        ],
-        "Qatar.": [
-          128
-        ],
-        "Without": [
-          129
-        ],
-        "organic": [
-          130
-        ],
-        "molecules,": [
-          131
-        ],
-        "only": [
-          132
-        ],
-        "formed": [
-          134
-        ],
-        "parallel": [
-          136
-        ],
-        "control": [
-          137
-        ],
-        "experiments.": [
-          138
-        ],
-        "This": [
-          139
-        ],
-        "finding": [
-          140
-        ],
-        "provides": [
-          141
-        ],
-        "possible": [
-          143
-        ],
-        "explanation": [
-          144
-        ],
-        "for": [
-          145
-        ],
-        "origin": [
-          147
-        ],
-        "natural": [
-          150
-        ],
-        "occurrences": [
-          151
-        ],
-        "cannot": [
-          155
-        ],
-        "be": [
-          156
-        ],
-        "satisfactorily": [
-          157
-        ],
-        "explained": [
-          158
-        ],
-        "existing": [
-          160
-        ],
-        "models": [
-          161
-        ],
-        "reveals": [
-          163
-        ],
-        "new": [
-          165
-        ],
-        "pathway": [
-          167
-        ],
-        "may": [
-          169
-        ],
-        "have": [
-          170
-        ],
-        "industrial": [
-          171
-        ],
-        "applications.": [
-          172
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4385287273",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-20T13:11:24.684918",
-      "created_date": "2023-07-27T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4413289789",
       "doi": "https://doi.org/10.1016/j.stress.2025.100999",
       "title": "Mangroves in the State of Qatar: Influences and adaptations of climate change",
@@ -10710,6 +9482,7 @@
         "https://openalex.org/W4413289789"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10728,9 +9501,11 @@
           "author": {
             "id": "https://openalex.org/A5115780538",
             "display_name": "Rana Al- Absi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -10745,12 +9520,14 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2849-5370",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2849-5370",
               "https://orcid.org/0000-0002-2747-7568"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -10787,11 +9564,13 @@
           "author": {
             "id": "https://openalex.org/A5091672367",
             "display_name": "Valliyil Mohammed Aboobacker",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0385-6918",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0385-6918"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -10828,11 +9607,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -10869,11 +9650,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -10910,11 +9693,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -12195,6 +10980,7 @@
         "https://openalex.org/W3150907985"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12212,11 +10998,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -12266,11 +11054,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -12316,11 +11106,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -12366,11 +11158,13 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4906-510X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4906-510X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47818738",
@@ -12407,11 +11201,13 @@
           "author": {
             "id": "https://openalex.org/A5066001291",
             "display_name": "Himanshu Govil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3433-8355",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3433-8355"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I38335241",
@@ -12463,13 +11259,13 @@
         "currency": "EUR",
         "value_usd": 3176
       },
-      "fwci": 1.7593,
+      "fwci": 1.6867,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 23,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81669405,
+        "value": 0.80817949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13752,6 +12548,7 @@
         "https://openalex.org/W3133550770"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13769,11 +12566,13 @@
           "author": {
             "id": "https://openalex.org/A5039497286",
             "display_name": "Semaa Alessa",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2137-2084",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2137-2084"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -13810,11 +12609,13 @@
           "author": {
             "id": "https://openalex.org/A5009925314",
             "display_name": "A. Sakhaee-Pour",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9312-0479",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9312-0479"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -13851,11 +12652,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -13892,11 +12695,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -13944,13 +12749,13 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 2.1765,
+      "fwci": 2.1436,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85991531,
+        "value": 0.85707992,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14472,6 +13277,7 @@
         "https://openalex.org/W3089140590"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14489,9 +13295,11 @@
           "author": {
             "id": "https://openalex.org/A5017622517",
             "display_name": "Erica Esatyana",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -14528,11 +13336,13 @@
           "author": {
             "id": "https://openalex.org/A5009925314",
             "display_name": "A. Sakhaee-Pour",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9312-0479",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9312-0479"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -14569,11 +13379,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -14610,11 +13422,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -14654,13 +13468,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0732,
+      "fwci": 1.0421,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73074161,
+        "value": 0.72336346,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14957,6 +13771,1345 @@
       "created_date": "2020-10-01T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4385287273",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+      "title": "Microbially influenced formation of anhydrite at low temperature",
+      "display_name": "Microbially influenced formation of anhydrite at low temperature",
+      "alternate_titles": [],
+      "publication_year": 2023,
+      "publication_date": "2023-07-26",
+      "ids": {
+        "openalex": "https://openalex.org/W4385287273",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37506898"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.scitotenv.2023.165820",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S86852077",
+          "display_name": "The Science of The Total Environment",
+          "issn_l": "0048-9697",
+          "issn": [
+            "0048-9697",
+            "1879-1026"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-2",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Science of The Total Environment",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4385287273"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5085989529",
+            "display_name": "Zulfa Ali Al Disi",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-0935-4545",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0935-4545"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            }
+          ],
+          "raw_author_name": "Zulfa Ali Al Disi",
+          "raw_affiliation_strings": [
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070411489",
+            "display_name": "Fadhil Sadooni",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            }
+          ],
+          "raw_author_name": "Fadhil Sadooni",
+          "raw_affiliation_strings": [
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079669280",
+            "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/funding-acquisition",
+              "display_name": "Funding acquisition"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/supervision",
+              "display_name": "Supervision"
+            }
+          ],
+          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
+          "raw_affiliation_strings": [
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5069824368",
+            "display_name": "Tomaso R. R. Bontognali",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-4917-0388",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4917-0388"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1850255",
+              "display_name": "University of Basel",
+              "ror": "https://ror.org/02s6k3f65",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1850255"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "CH",
+            "QA"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [
+            {
+              "id": "https://openalex.org/contributor-roles/conceptualization",
+              "display_name": "Conceptualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/formal-analysis",
+              "display_name": "Formal analysis"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/investigation",
+              "display_name": "Investigation"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/visualization",
+              "display_name": "Visualization"
+            },
+            {
+              "id": "https://openalex.org/contributor-roles/writing-original-draft",
+              "display_name": "Writing – original draft"
+            }
+          ],
+          "raw_author_name": "Tomaso R.R. Bontognali",
+          "raw_affiliation_strings": [
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch",
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+            "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
+            "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch",
+              "institution_ids": [
+                "https://openalex.org/I1850255",
+                "https://openalex.org/I60342839"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I1850255"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5069824368"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1850255",
+        "https://openalex.org/I60342839"
+      ],
+      "apc_list": {
+        "value": 3790,
+        "currency": "USD",
+        "value_usd": 3790
+      },
+      "apc_paid": {
+        "value": 3790,
+        "currency": "USD",
+        "value_usd": 3790
+      },
+      "fwci": 0.9751,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 14,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.67951991,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "902",
+        "issue": null,
+        "first_page": "165820",
+        "last_page": "165820"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12247",
+        "display_name": "Microbial Applications in Construction Materials",
+        "score": 0.5996000170707703,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12247",
+          "display_name": "Microbial Applications in Construction Materials",
+          "score": 0.5996000170707703,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11278",
+          "display_name": "Calcium Carbonate Crystallization and Inhibition",
+          "score": 0.2295999974012375,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2502",
+            "display_name": "Biomaterials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.03579999879002571,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/anhydrite-formation",
+          "display_name": "anhydrite formation",
+          "score": 0.9559999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/calcium-sulfate-minerals",
+          "display_name": "calcium sulfate minerals",
+          "score": 0.6610000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/gypsum",
+          "display_name": "gypsum",
+          "score": 0.6890000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/bassanite",
+          "display_name": "bassanite",
+          "score": 0.847000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/microbial-mineralization",
+          "display_name": "microbial mineralization",
+          "score": 0.6660000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/extracellular-polymeric-substances",
+          "display_name": "extracellular polymeric substances",
+          "score": 0.9819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporitic-environments",
+          "display_name": "evaporitic environments",
+          "score": 0.5440000295639038
+        },
+        {
+          "id": "https://openalex.org/keywords/sabkha",
+          "display_name": "sabkha",
+          "score": 0.9179999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/seawater-evaporation",
+          "display_name": "seawater evaporation",
+          "score": 0.7749999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/low-temperature-precipitation",
+          "display_name": "low-temperature precipitation",
+          "score": 0.753000020980835
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776044767",
+          "wikidata": "https://www.wikidata.org/wiki/Q105439",
+          "display_name": "Anhydrite",
+          "level": 3,
+          "score": 0.9850220084190369
+        },
+        {
+          "id": "https://openalex.org/C2779229104",
+          "wikidata": "https://www.wikidata.org/wiki/Q82658",
+          "display_name": "Gypsum",
+          "level": 2,
+          "score": 0.9441486597061157
+        },
+        {
+          "id": "https://openalex.org/C186660238",
+          "wikidata": "https://www.wikidata.org/wiki/Q637600",
+          "display_name": "Sabkha",
+          "level": 4,
+          "score": 0.7307803630828857
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5548985004425049
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5022623538970947
+        },
+        {
+          "id": "https://openalex.org/C2778343803",
+          "wikidata": "https://www.wikidata.org/wiki/Q172290",
+          "display_name": "Sulfate",
+          "level": 2,
+          "score": 0.48975133895874023
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.4478302597999573
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4353983402252197
+        },
+        {
+          "id": "https://openalex.org/C107054158",
+          "wikidata": "https://www.wikidata.org/wiki/Q25257",
+          "display_name": "Precipitation",
+          "level": 2,
+          "score": 0.4329186975955963
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.2752756178379059
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.13393723964691162
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.09813088178634644
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.07799685001373291
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C153294291",
+          "wikidata": "https://www.wikidata.org/wiki/Q25261",
+          "display_name": "Meteorology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.scitotenv.2023.165820",
+          "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S86852077",
+            "display_name": "The Science of The Total Environment",
+            "issn_l": "0048-9697",
+            "issn": [
+              "0048-9697",
+              "1879-1026"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
+              "cwts-core",
+              "jufo-2",
+              "medline",
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Science of The Total Environment",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:37506898",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37506898",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Science of the total environment",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:figshare.com:article/25116623",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/journal_contribution/Microbially_influenced_formation_of_anhydrite_at_low_temperature/25116623",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:qspace.qu.edu.qa:10576/47320",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10576/47320",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400014",
+            "display_name": "Qatar University QSpace (Qatar University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I60342839",
+            "host_organization_name": "Qatar University",
+            "host_organization_lineage": [
+              "https://openalex.org/I60342839"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.scitotenv.2023.165820",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S86852077",
+          "display_name": "The Science of The Total Environment",
+          "issn_l": "0048-9697",
+          "issn": [
+            "0048-9697",
+            "1879-1026"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-2",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Science of The Total Environment",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4575350107",
+          "display_name": null,
+          "funder_award_id": "NPRP13S‐0207‐200291",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G8154206437",
+          "display_name": null,
+          "funder_award_id": "NPRP13S-0207-200291",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320309815",
+          "display_name": "Qatar Foundation",
+          "ror": "https://ror.org/01cawbq05"
+        },
+        {
+          "id": "https://openalex.org/F4320321038",
+          "display_name": "Fonds National de la Recherche Luxembourg",
+          "ror": "https://ror.org/039z13y21"
+        },
+        {
+          "id": "https://openalex.org/F4320322472",
+          "display_name": "Qatar University",
+          "ror": "https://ror.org/00yhnba62"
+        },
+        {
+          "id": "https://openalex.org/F4320332753",
+          "display_name": "Qatar National Research Fund",
+          "ror": "https://ror.org/01svaqq28"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4385287273.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4385287273.grobid-xml"
+      },
+      "referenced_works_count": 28,
+      "referenced_works": [
+        "https://openalex.org/W1565008566",
+        "https://openalex.org/W1895649650",
+        "https://openalex.org/W1995558270",
+        "https://openalex.org/W2013882840",
+        "https://openalex.org/W2024135285",
+        "https://openalex.org/W2063725002",
+        "https://openalex.org/W2096522903",
+        "https://openalex.org/W2132638924",
+        "https://openalex.org/W2136351736",
+        "https://openalex.org/W2147871651",
+        "https://openalex.org/W2294782901",
+        "https://openalex.org/W2481124984",
+        "https://openalex.org/W2583394094",
+        "https://openalex.org/W2616935735",
+        "https://openalex.org/W2811158931",
+        "https://openalex.org/W2910754831",
+        "https://openalex.org/W2967334030",
+        "https://openalex.org/W2968988152",
+        "https://openalex.org/W3022775428",
+        "https://openalex.org/W3127605655",
+        "https://openalex.org/W3173582197",
+        "https://openalex.org/W3175154366",
+        "https://openalex.org/W3186584782",
+        "https://openalex.org/W3193713661",
+        "https://openalex.org/W3214716846",
+        "https://openalex.org/W4210851622",
+        "https://openalex.org/W4283024137",
+        "https://openalex.org/W4283815056"
+      ],
+      "related_works": [
+        "https://openalex.org/W7089151005",
+        "https://openalex.org/W2739164476",
+        "https://openalex.org/W2013882840",
+        "https://openalex.org/W2151647901",
+        "https://openalex.org/W3211165429",
+        "https://openalex.org/W6910559522",
+        "https://openalex.org/W2075572819",
+        "https://openalex.org/W2028326456",
+        "https://openalex.org/W2025027549",
+        "https://openalex.org/W2766675154"
+      ],
+      "abstract_inverted_index": {
+        "35": [
+          90
+        ],
+        "Calcium": [
+          0
+        ],
+        "sulfate": [
+          1
+        ],
+        "minerals": [
+          2
+        ],
+        "are": [
+          3
+        ],
+        "abundant": [
+          4
+        ],
+        "in": [
+          5,
+          16,
+          34,
+          46,
+          55,
+          105,
+          127,
+          135
+        ],
+        "nature": [
+          6
+        ],
+        "–": [
+          7,
+          13
+        ],
+        "on": [
+          8,
+          11
+        ],
+        "Earth": [
+          9
+        ],
+        "and": [
+          10,
+          14,
+          26,
+          162
+        ],
+        "Mars": [
+          12
+        ],
+        "important": [
+          15
+        ],
+        "several": [
+          17,
+          149
+        ],
+        "fields": [
+          18
+        ],
+        "of": [
+          19,
+          40,
+          44,
+          73,
+          80,
+          108,
+          148,
+          152
+        ],
+        "material": [
+          20
+        ],
+        "sciences.": [
+          21
+        ],
+        "With": [
+          22
+        ],
+        "respect": [
+          23
+        ],
+        "to": [
+          24
+        ],
+        "gypsum": [
+          25,
+          133
+        ],
+        "bassanite,": [
+          27
+        ],
+        "anhydrite": [
+          28,
+          45,
+          86,
+          153
+        ],
+        "represents": [
+          29
+        ],
+        "the": [
+          30,
+          35,
+          42,
+          47,
+          56,
+          78,
+          106,
+          123,
+          146
+        ],
+        "anhydrous": [
+          31
+        ],
+        "crystalline": [
+          32
+        ],
+        "phase": [
+          33,
+          67
+        ],
+        "CaSO4–H2O": [
+          36
+        ],
+        "system.": [
+          37
+        ],
+        "Despite": [
+          38
+        ],
+        "years": [
+          39
+        ],
+        "research,": [
+          41
+        ],
+        "formation": [
+          43
+        ],
+        "laboratory": [
+          48,
+          81
+        ],
+        "at": [
+          49,
+          89
+        ],
+        "low": [
+          50
+        ],
+        "temperature": [
+          51
+        ],
+        "remains": [
+          52
+        ],
+        "challenging": [
+          53
+        ],
+        "and,": [
+          54
+        ],
+        "geological": [
+          57
+        ],
+        "record,": [
+          58
+        ],
+        "this": [
+          59
+        ],
+        "mineral": [
+          60
+        ],
+        "is": [
+          61
+        ],
+        "mostly": [
+          62
+        ],
+        "interpreted": [
+          63
+        ],
+        "as": [
+          64
+        ],
+        "a": [
+          65,
+          96,
+          119,
+          142,
+          164
+        ],
+        "secondary": [
+          66
+        ],
+        "that": [
+          68,
+          85,
+          154,
+          168
+        ],
+        "form": [
+          69,
+          88
+        ],
+        "through": [
+          70,
+          95
+        ],
+        "metamorphic": [
+          71
+        ],
+        "dehydration": [
+          72
+        ],
+        "gypsum.": [
+          74
+        ],
+        "Here,": [
+          75
+        ],
+        "we": [
+          76
+        ],
+        "present": [
+          77
+        ],
+        "results": [
+          79
+        ],
+        "precipitation": [
+          82,
+          166
+        ],
+        "experiments": [
+          83,
+          102
+        ],
+        "showing": [
+          84
+        ],
+        "can": [
+          87
+        ],
+        "°C": [
+          91
+        ],
+        "from": [
+          92,
+          118
+        ],
+        "evaporated": [
+          93
+        ],
+        "seawater": [
+          94
+        ],
+        "microbially": [
+          97
+        ],
+        "influenced": [
+          98
+        ],
+        "mineralization": [
+          99
+        ],
+        "process.": [
+          100
+        ],
+        "The": [
+          101
+        ],
+        "were": [
+          103
+        ],
+        "conducted": [
+          104
+        ],
+        "presence": [
+          107
+        ],
+        "extracellular": [
+          109
+        ],
+        "polymeric": [
+          110
+        ],
+        "substances": [
+          111
+        ],
+        "(EPS)": [
+          112
+        ],
+        "produced": [
+          113
+        ],
+        "by": [
+          114,
+          159
+        ],
+        "bacterial": [
+          115
+        ],
+        "strains": [
+          116
+        ],
+        "isolated": [
+          117
+        ],
+        "modern": [
+          120
+        ],
+        "evaporitic": [
+          121
+        ],
+        "environment,": [
+          122
+        ],
+        "Dohat": [
+          124
+        ],
+        "Faishakh": [
+          125
+        ],
+        "sabkha": [
+          126
+        ],
+        "Qatar.": [
+          128
+        ],
+        "Without": [
+          129
+        ],
+        "organic": [
+          130
+        ],
+        "molecules,": [
+          131
+        ],
+        "only": [
+          132
+        ],
+        "formed": [
+          134
+        ],
+        "parallel": [
+          136
+        ],
+        "control": [
+          137
+        ],
+        "experiments.": [
+          138
+        ],
+        "This": [
+          139
+        ],
+        "finding": [
+          140
+        ],
+        "provides": [
+          141
+        ],
+        "possible": [
+          143
+        ],
+        "explanation": [
+          144
+        ],
+        "for": [
+          145
+        ],
+        "origin": [
+          147
+        ],
+        "natural": [
+          150
+        ],
+        "occurrences": [
+          151
+        ],
+        "cannot": [
+          155
+        ],
+        "be": [
+          156
+        ],
+        "satisfactorily": [
+          157
+        ],
+        "explained": [
+          158
+        ],
+        "existing": [
+          160
+        ],
+        "models": [
+          161
+        ],
+        "reveals": [
+          163
+        ],
+        "new": [
+          165
+        ],
+        "pathway": [
+          167
+        ],
+        "may": [
+          169
+        ],
+        "have": [
+          170
+        ],
+        "industrial": [
+          171
+        ],
+        "applications.": [
+          172
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4385287273",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-20T13:11:24.684918",
+      "created_date": "2023-07-27T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4385707698",
       "doi": "https://doi.org/10.1016/j.geoen.2023.212245",
       "title": "Integrated approach for closure correction of mercury injection capillary pressure measurements",
@@ -15016,6 +15169,7 @@
         "https://openalex.org/W4385707698"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15033,11 +15187,13 @@
           "author": {
             "id": "https://openalex.org/A5012844641",
             "display_name": "Ahmed Kasha",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4989-1954",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4989-1954"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -15074,11 +15230,13 @@
           "author": {
             "id": "https://openalex.org/A5103217427",
             "display_name": "Michael T. Myers",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9508-183X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9508-183X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -15115,11 +15273,13 @@
           "author": {
             "id": "https://openalex.org/A5009574600",
             "display_name": "Lori Hathon",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7639-1675",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7639-1675"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -15156,11 +15316,13 @@
           "author": {
             "id": "https://openalex.org/A5009925314",
             "display_name": "A. Sakhaee-Pour",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9312-0479",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9312-0479"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -15197,11 +15359,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -15238,11 +15402,13 @@
           "author": {
             "id": "https://openalex.org/A5024046807",
             "display_name": "Mustafa Saleh Nasser",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7646-558X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7646-558X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -15279,11 +15445,13 @@
           "author": {
             "id": "https://openalex.org/A5046712711",
             "display_name": "Ibnelwaleed A. Hussein",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6672-8649",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6672-8649"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -15320,11 +15488,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -16016,6 +16186,7 @@
         "https://openalex.org/W4297991379"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16033,9 +16204,11 @@
           "author": {
             "id": "https://openalex.org/A5003344476",
             "display_name": "Mehdi Alipour Kallehbasti",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16050,11 +16223,13 @@
           "author": {
             "id": "https://openalex.org/A5012844641",
             "display_name": "Ahmed Kasha",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4989-1954",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4989-1954"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16069,11 +16244,13 @@
           "author": {
             "id": "https://openalex.org/A5009925314",
             "display_name": "A. Sakhaee-Pour",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9312-0479",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9312-0479"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16088,11 +16265,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16107,11 +16286,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16129,13 +16310,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5258,
+      "fwci": 1.5067,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78818718,
+        "value": 0.78563956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16982,6 +17163,7 @@
         "https://openalex.org/W3122332124"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17000,11 +17182,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -17048,11 +17232,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -17089,11 +17275,13 @@
           "author": {
             "id": "https://openalex.org/A5075463735",
             "display_name": "S. Veerasingam",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1791-3418",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1791-3418"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -17130,11 +17318,13 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4906-510X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4906-510X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47818738",
@@ -17171,12 +17361,14 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2849-5370",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2849-5370",
               "https://orcid.org/0000-0002-2747-7568"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -17213,11 +17405,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -17254,11 +17448,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -17306,13 +17502,13 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 1.2366,
+      "fwci": 1.2048,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72259846,
+        "value": 0.71486323,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17783,7 +17979,7 @@
         "doi": "https://doi.org/10.1016/j.petrol.2022.110908",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.petrol.2022.110908",
-        "pdf_url": "https://doi.org/science/article/pii/S0920410522007641",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S19016632",
           "display_name": "Journal of Petroleum Science and Engineering",
@@ -17822,6 +18018,7 @@
         "https://openalex.org/W4291014806"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17830,7 +18027,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "bronze",
-        "oa_url": "https://doi.org/science/article/pii/S0920410522007641",
+        "oa_url": "https://doi.org/10.1016/j.petrol.2022.110908",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -17839,11 +18036,13 @@
           "author": {
             "id": "https://openalex.org/A5039497286",
             "display_name": "Semaa Alessa",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2137-2084",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2137-2084"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -17909,11 +18108,13 @@
           "author": {
             "id": "https://openalex.org/A5009925314",
             "display_name": "A. Sakhaee-Pour",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9312-0479",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9312-0479"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -17987,11 +18188,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18041,11 +18244,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18106,13 +18311,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.3698,
+      "fwci": 1.3658,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76462197,
+        "value": 0.76394318,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18372,7 +18577,7 @@
           "doi": "https://doi.org/10.1016/j.petrol.2022.110908",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.petrol.2022.110908",
-          "pdf_url": "https://doi.org/science/article/pii/S0920410522007641",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S19016632",
             "display_name": "Journal of Petroleum Science and Engineering",
@@ -18443,7 +18648,7 @@
         "doi": "https://doi.org/10.1016/j.petrol.2022.110908",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.petrol.2022.110908",
-        "pdf_url": "https://doi.org/science/article/pii/S0920410522007641",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S19016632",
           "display_name": "Journal of Petroleum Science and Engineering",
@@ -18623,7 +18828,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2022-08-13T00:00:00"
     },
     {
@@ -18690,6 +18895,7 @@
         "https://openalex.org/W4410781702"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18709,11 +18915,13 @@
           "author": {
             "id": "https://openalex.org/A5070682798",
             "display_name": "Khaled Naja",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9259-3082",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9259-3082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18774,11 +18982,13 @@
           "author": {
             "id": "https://openalex.org/A5019107354",
             "display_name": "Sara H. Al-Hadidi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8816-7846",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8816-7846"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18828,11 +19038,13 @@
           "author": {
             "id": "https://openalex.org/A5011492717",
             "display_name": "Hadil Elsayed",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7566-4002",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7566-4002"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18878,11 +19090,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18928,11 +19142,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -18982,11 +19198,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -19040,11 +19258,13 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0935-4545",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0935-4545"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -20279,6 +20499,7 @@
         "https://openalex.org/W4407260658"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20296,11 +20517,13 @@
           "author": {
             "id": null,
             "display_name": "Ivan Strakhov",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1140-1745",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1140-1745"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -20356,11 +20579,13 @@
           "author": {
             "id": "https://openalex.org/A5011492717",
             "display_name": "Hadil Elsayed",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7566-4002",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7566-4002"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -20397,11 +20622,13 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0295-2764",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0295-2764"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -20450,11 +20677,13 @@
           "author": {
             "id": "https://openalex.org/A5070705874",
             "display_name": "Khoren Avetisyan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4145-5477",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4145-5477"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -20503,11 +20732,13 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0935-4545",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0935-4545"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -20544,11 +20775,13 @@
           "author": {
             "id": "https://openalex.org/A5070682798",
             "display_name": "Khaled Naja",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9259-3082",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9259-3082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -20585,11 +20818,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -20626,11 +20861,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -20667,11 +20904,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -20708,11 +20947,13 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8112-2661",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8112-2661"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -22055,6 +22296,7 @@
         "https://openalex.org/W4405637401"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22072,11 +22314,13 @@
           "author": {
             "id": "https://openalex.org/A5079560983",
             "display_name": "Cheriyeri Poyil Abdulla",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3388-0716",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3388-0716"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -22113,11 +22357,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -22154,11 +22400,13 @@
           "author": {
             "id": "https://openalex.org/A5091672367",
             "display_name": "Valliyil Mohammed Aboobacker",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0385-6918",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0385-6918"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -22195,11 +22443,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -22236,12 +22486,14 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2849-5370",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2849-5370",
               "https://orcid.org/0000-0002-2747-7568"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -23309,6 +23561,7 @@
         "https://openalex.org/W4393167241"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23326,11 +23579,13 @@
           "author": {
             "id": "https://openalex.org/A5094242788",
             "display_name": "Brendan Aruah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7496-4027",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7496-4027"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -23367,11 +23622,13 @@
           "author": {
             "id": "https://openalex.org/A5009925314",
             "display_name": "A. Sakhaee-Pour",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9312-0479",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9312-0479"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -23408,11 +23665,13 @@
           "author": {
             "id": "https://openalex.org/A5003654485",
             "display_name": "D. G. Hatzignatiou",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0740-764X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0740-764X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -23449,11 +23708,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -23490,11 +23751,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -23969,7 +24232,7 @@
         "doi": "https://doi.org/10.1080/19475705.2022.2122873",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1080/19475705.2022.2122873",
-        "pdf_url": "https://doi.org/10.1080/19475705.2022.2122873",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S83752769",
           "display_name": "Geomatics Natural Hazards and Risk",
@@ -24017,6 +24280,7 @@
         "https://openalex.org/W4295775983"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24036,11 +24300,13 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9371-9908",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9371-9908"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -24077,11 +24343,13 @@
           "author": {
             "id": "https://openalex.org/A5013723407",
             "display_name": "Nabil Zouari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4652-1656",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4652-1656"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -24118,11 +24386,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -24159,11 +24429,13 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0935-4545",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0935-4545"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -24200,9 +24472,11 @@
           "author": {
             "id": "https://openalex.org/A5020874322",
             "display_name": "Abdulaziz Al-Jabri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -24224,11 +24498,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -24280,13 +24556,13 @@
         "currency": "GBP",
         "value_usd": 1790
       },
-      "fwci": 0.429,
+      "fwci": 0.4255,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46466535,
+        "value": 0.46044806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24549,7 +24825,7 @@
           "doi": "https://doi.org/10.1080/19475705.2022.2122873",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1080/19475705.2022.2122873",
-          "pdf_url": "https://doi.org/10.1080/19475705.2022.2122873",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S83752769",
             "display_name": "Geomatics Natural Hazards and Risk",
@@ -24751,7 +25027,7 @@
         "doi": "https://doi.org/10.1080/19475705.2022.2122873",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1080/19475705.2022.2122873",
-        "pdf_url": "https://doi.org/10.1080/19475705.2022.2122873",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S83752769",
           "display_name": "Geomatics Natural Hazards and Risk",
@@ -25377,7 +25653,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2022-09-15T00:00:00"
     },
     {
@@ -25437,6 +25713,7 @@
         "https://openalex.org/W4408699740"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25455,9 +25732,11 @@
           "author": {
             "id": "https://openalex.org/A5036328647",
             "display_name": "Syed Oubee Khadri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -25494,11 +25773,13 @@
           "author": {
             "id": "https://openalex.org/A5090879935",
             "display_name": "Ahmed Hamza",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2990-2772",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2990-2772"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -25535,11 +25816,13 @@
           "author": {
             "id": "https://openalex.org/A5046712711",
             "display_name": "Ibnelwaleed A. Hussein",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6672-8649",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6672-8649"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -25583,11 +25866,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -25624,11 +25909,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -26691,6 +26978,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -26708,11 +26996,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -26749,11 +27039,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -27386,6 +27678,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 9,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -27403,11 +27696,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -27444,11 +27739,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -27490,13 +27787,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1676,
+      "fwci": 1.2381,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70646766,
+        "value": 0.71980676,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27824,6 +28121,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -27841,11 +28139,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -27882,11 +28182,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -28367,6 +28669,7 @@
         "https://openalex.org/W4242817784"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -28384,11 +28687,13 @@
           "author": {
             "id": "https://openalex.org/A5039383179",
             "display_name": "Jihad Mohamad Alja’am",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0989-4648",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0989-4648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -28425,9 +28730,11 @@
           "author": {
             "id": null,
             "display_name": "M AlSaady",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -28464,9 +28771,11 @@
           "author": {
             "id": "https://openalex.org/A5048728593",
             "display_name": "Mohamed Al-Marri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -28503,11 +28812,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -29430,6 +29741,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -29447,11 +29759,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -29488,11 +29802,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -29982,6 +30298,7 @@
         "https://openalex.org/W4312290890"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -29999,9 +30316,11 @@
           "author": {
             "id": null,
             "display_name": "Ivan Strakhov",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -30038,11 +30357,13 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0295-2764",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0295-2764"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405278283",
@@ -30080,11 +30401,13 @@
           "author": {
             "id": "https://openalex.org/A5011492717",
             "display_name": "Hadil Elsayed",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7566-4002",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7566-4002"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -30121,11 +30444,13 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0935-4545",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0935-4545"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30140,11 +30465,13 @@
           "author": {
             "id": "https://openalex.org/A5070682798",
             "display_name": "Khaled Naja",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9259-3082",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9259-3082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -30181,11 +30508,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -30222,11 +30551,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -30263,11 +30594,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -30304,11 +30637,13 @@
           "author": {
             "id": "https://openalex.org/A5017154958",
             "display_name": "Scott O. C. Mundle",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5976-9656",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5976-9656"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I74413500",
@@ -30345,11 +30680,13 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8112-2661",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8112-2661"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -30710,6 +31047,7 @@
         "https://openalex.org/W4312435439"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30727,11 +31065,13 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8112-2661",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8112-2661"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -30768,11 +31108,13 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0295-2764",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0295-2764"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -30809,9 +31151,11 @@
           "author": {
             "id": "https://openalex.org/A5007426089",
             "display_name": "Mirza-Shaharyar Ahmad",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -30848,11 +31192,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -30889,11 +31235,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -30930,11 +31278,13 @@
           "author": {
             "id": "https://openalex.org/A5069824368",
             "display_name": "Tomaso R. R. Bontognali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4917-0388",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4917-0388"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210140478",
@@ -31280,6 +31630,7 @@
         "https://openalex.org/W4389562204"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -31297,9 +31648,11 @@
           "author": {
             "id": null,
             "display_name": "Ivan Strakhov",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31314,11 +31667,13 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0295-2764",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0295-2764"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31333,11 +31688,13 @@
           "author": {
             "id": "https://openalex.org/A5011492717",
             "display_name": "Hadil Elsayed",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7566-4002",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7566-4002"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31352,11 +31709,13 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0935-4545",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0935-4545"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31371,11 +31730,13 @@
           "author": {
             "id": "https://openalex.org/A5070682798",
             "display_name": "Khaled Naja",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9259-3082",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9259-3082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31390,11 +31751,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31409,11 +31772,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31428,11 +31793,13 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim Abdulla A Al-Khayat",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5511-1029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5511-1029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31447,11 +31814,13 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8112-2661",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8112-2661"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31794,6 +32163,7 @@
         "https://openalex.org/W4408523099"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -31811,11 +32181,13 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0295-2764",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0295-2764"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31830,11 +32202,13 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8112-2661",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8112-2661"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31849,11 +32223,13 @@
           "author": {
             "id": "https://openalex.org/A5075345350",
             "display_name": "Xiancai Lu",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8977-2661",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8977-2661"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31868,11 +32244,13 @@
           "author": {
             "id": "https://openalex.org/A5100338878",
             "display_name": "Huan Liu",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6322-9513",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6322-9513"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31887,11 +32265,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31906,11 +32286,13 @@
           "author": {
             "id": "https://openalex.org/A5069824368",
             "display_name": "Tomaso R. R. Bontognali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4917-0388",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4917-0388"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31925,11 +32307,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32373,6 +32757,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -32390,11 +32775,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -32431,11 +32818,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -33002,6 +33391,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -33019,11 +33409,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -33060,11 +33452,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -33689,6 +34083,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -33706,11 +34101,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -33747,11 +34144,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -34378,6 +34777,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -34395,11 +34795,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -34436,11 +34838,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -35052,6 +35456,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -35069,11 +35474,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -35110,11 +35517,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -35775,6 +36184,7 @@
         "https://openalex.org/W4414525693"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -35792,11 +36202,13 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5027-0648",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5027-0648"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -35833,11 +36245,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -36279,6 +36693,7 @@
         "https://openalex.org/W7236304434"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -36297,11 +36712,13 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8112-2661",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8112-2661"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -36356,12 +36773,14 @@
           "author": {
             "id": "https://openalex.org/A5027867813",
             "display_name": "Andreas Voegelin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2873-8966",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2873-8966",
               "https://orcid.org/0000-0002-0329-015X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I63664421",
@@ -36399,11 +36818,13 @@
           "author": {
             "id": "https://openalex.org/A5070705874",
             "display_name": "Khoren Avetisyan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4145-5477",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4145-5477"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -36440,11 +36861,13 @@
           "author": {
             "id": "https://openalex.org/A5040118511",
             "display_name": "Sara Zaferani",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3248-376X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3248-376X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185261750",
@@ -36481,11 +36904,13 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6787-3533",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6787-3533"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I60342839",
@@ -36522,11 +36947,13 @@
           "author": {
             "id": "https://openalex.org/A5069824368",
             "display_name": "Tomaso R. R. Bontognali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4917-0388",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4917-0388"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1850255",
@@ -36586,11 +37013,13 @@
           "author": {
             "id": "https://openalex.org/A5039794160",
             "display_name": "Helmut Bürgmann",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5651-5906",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5651-5906"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I63664421",

@@ -4,6 +4,7 @@
     "orcid": null,
     "observed_orcids": [],
     "display_name": "Camilo A. Polo",
+    "type": null,
     "raw_author_names": [
       "Camilo A. Polo",
       "Camilo Polo",
@@ -12,7 +13,7 @@
     ],
     "full_name": "Camilo A. Polo",
     "works_count": 9,
-    "cited_by_count": 234,
+    "cited_by_count": 235,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -331,7 +332,7 @@
         "year": 2020,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 21
+        "cited_by_count": 22
       },
       {
         "year": 2021,
@@ -380,7 +381,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5030587820",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5030587820",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -449,6 +450,7 @@
         "https://openalex.org/W4206317699"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -466,11 +468,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -507,9 +511,11 @@
           "author": {
             "id": "https://openalex.org/A5068368545",
             "display_name": "Greg M. Baniak",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -546,9 +552,11 @@
           "author": {
             "id": "https://openalex.org/A5069112963",
             "display_name": "John B. Gordon",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I196198406",
@@ -586,11 +594,13 @@
           "author": {
             "id": "https://openalex.org/A5025902503",
             "display_name": "Jussi Hovikoski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6330-8713",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6330-8713"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I2801979204",
@@ -628,11 +638,13 @@
           "author": {
             "id": "https://openalex.org/A5043661461",
             "display_name": "Kurt O. Konhauser",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7722-7068",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7722-7068"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -669,11 +681,13 @@
           "author": {
             "id": "https://openalex.org/A5046641260",
             "display_name": "Andrew D. La Croix",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9716-9501",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9716-9501"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I18014758",
@@ -710,9 +724,11 @@
           "author": {
             "id": "https://openalex.org/A5012026878",
             "display_name": "Ryan Thomas Lemiski",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -734,11 +750,13 @@
           "author": {
             "id": "https://openalex.org/A5017187944",
             "display_name": "Carl A. Mendoza",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2731-0004",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2731-0004"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -775,9 +793,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -814,9 +834,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -853,11 +875,13 @@
           "author": {
             "id": "https://openalex.org/A5010976769",
             "display_name": "John‐Paul Zonneveld",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0299-4291",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0299-4291"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -901,13 +925,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 18.6068,
+      "fwci": 18.2197,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 150,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99535963,
+        "value": 0.99537037,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1426,6 +1450,7 @@
         "https://openalex.org/W3122970365"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1443,11 +1468,13 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2730-4672",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2730-4672"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -1484,11 +1511,13 @@
           "author": {
             "id": "https://openalex.org/A5078743538",
             "display_name": "Mahmoud Alnazghah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9209-7676",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9209-7676"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -1525,11 +1554,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1566,11 +1597,13 @@
           "author": {
             "id": "https://openalex.org/A5043958071",
             "display_name": "Mohammed Fallatah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7871-7755",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7871-7755"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -1607,9 +1640,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -1657,13 +1692,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.6354,
+      "fwci": 1.6044,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7926796,
+        "value": 0.7884296,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2237,6 +2272,7 @@
         "https://openalex.org/W4307637027"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2254,9 +2290,11 @@
           "author": {
             "id": "https://openalex.org/A5076343814",
             "display_name": "Hasan Algheryafi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2310,11 +2348,13 @@
           "author": {
             "id": "https://openalex.org/A5033042201",
             "display_name": "César Viseras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2219-3566",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2219-3566"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I173304897",
@@ -2351,9 +2391,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2390,11 +2432,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3708,6 +3752,7 @@
         "https://openalex.org/W2010582339"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3725,9 +3770,11 @@
           "author": {
             "id": "https://openalex.org/A5068368545",
             "display_name": "Greg M. Baniak",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -3764,11 +3811,13 @@
           "author": {
             "id": "https://openalex.org/A5046641260",
             "display_name": "Andrew D. La Croix",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9716-9501",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9716-9501"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I18014758",
@@ -3805,9 +3854,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -3844,9 +3895,11 @@
           "author": {
             "id": "https://openalex.org/A5001576969",
             "display_name": "Tiffany Playter",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -3883,9 +3936,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -3922,11 +3977,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -3970,13 +4027,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9035,
+      "fwci": 1.8538,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 31,
+      "cited_by_count": 32,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85478169,
+        "value": 0.85112002,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4958,7 +5015,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2022,
@@ -4989,7 +5046,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5056,6 +5113,7 @@
         "https://openalex.org/W2891129024"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5073,9 +5131,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5119,9 +5179,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5165,9 +5227,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5211,11 +5275,13 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6243-7756",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6243-7756"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5259,11 +5325,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -5307,9 +5375,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -5356,13 +5426,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9343,
+      "fwci": 0.9205,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68827,
+        "value": 0.68419211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6857,6 +6927,7 @@
         "https://openalex.org/W2979622934"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6874,9 +6945,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -6913,9 +6986,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -6952,9 +7027,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -6991,11 +7068,13 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6243-7756",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6243-7756"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7032,11 +7111,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -7073,9 +7154,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -8354,6 +8437,7 @@
         "https://openalex.org/W3005990354"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -8372,9 +8456,11 @@
           "author": {
             "id": "https://openalex.org/A5046919784",
             "display_name": "Ivan Sergeevich Deshenenkov",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8411,9 +8497,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9510,6 +9598,7 @@
         "https://openalex.org/W2955843737"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9527,9 +9616,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9566,9 +9657,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9605,9 +9698,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9644,11 +9739,13 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6683-1750",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6683-1750"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -9685,9 +9782,11 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I154425047",
@@ -9735,13 +9834,13 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.1595,
+      "fwci": 0.1558,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39648296,
+        "value": 0.38736087,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10250,6 +10349,7 @@
         "https://openalex.org/W2800502811"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [
@@ -10267,9 +10367,11 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,

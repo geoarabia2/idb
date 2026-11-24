@@ -6,6 +6,7 @@
       "https://orcid.org/0009-0008-1422-1783"
     ],
     "display_name": "Henk Droste",
+    "type": null,
     "raw_author_names": [
       "Droste, Henk",
       "H. DROSTE",
@@ -19,7 +20,7 @@
     ],
     "full_name": "DROSTE, HENK, Shell Research B.V.,",
     "works_count": 52,
-    "cited_by_count": 2807,
+    "cited_by_count": 2839,
     "summary_stats": {
       "2yr_mean_citedness": 2.6666666666666665,
       "h_index": 22,
@@ -65,6 +66,21 @@
           2024,
           2023,
           2021
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210114766",
+          "ror": "https://ror.org/01zhpv322",
+          "display_name": "Muscat College",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210114766"
+          ]
+        },
+        "years": [
+          2001
         ]
       },
       {
@@ -470,13 +486,13 @@
         "year": 2014,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 111
+        "cited_by_count": 112
       },
       {
         "year": 2015,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 123
+        "cited_by_count": 125
       },
       {
         "year": 2016,
@@ -488,37 +504,37 @@
         "year": 2017,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 141
+        "cited_by_count": 142
       },
       {
         "year": 2018,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 114
+        "cited_by_count": 122
       },
       {
         "year": 2019,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 136
+        "cited_by_count": 139
       },
       {
         "year": 2020,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 172
+        "cited_by_count": 173
       },
       {
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 172
+        "cited_by_count": 176
       },
       {
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 139
+        "cited_by_count": 144
       },
       {
         "year": 2023,
@@ -530,19 +546,19 @@
         "year": 2024,
         "works_count": 5,
         "oa_works_count": 5,
-        "cited_by_count": 204
+        "cited_by_count": 207
       },
       {
         "year": 2025,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 225
+        "cited_by_count": 226
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 120
+        "cited_by_count": 123
       }
     ],
     "display_name_alternatives": [
@@ -560,7 +576,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5058646530",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -618,6 +634,7 @@
         "https://openalex.org/W2939888277"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -635,9 +652,11 @@
           "author": {
             "id": "https://openalex.org/A5051035705",
             "display_name": "G. Konert",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -659,11 +678,13 @@
           "author": {
             "id": "https://openalex.org/A5074794653",
             "display_name": "Abdulkader M. Afifi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3193-4792",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3193-4792"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -700,9 +721,11 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -739,11 +762,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -768,13 +793,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.5663,
+      "fwci": 7.5955,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 621,
+      "cited_by_count": 622,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9694501,
+        "value": 0.9700503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2054,7 +2079,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 28
+          "cited_by_count": 29
         },
         {
           "year": 2018,
@@ -2085,7 +2110,7 @@
           "cited_by_count": 24
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2019-04-25T00:00:00"
     },
     {
@@ -2150,6 +2175,7 @@
         "https://openalex.org/W2167454550"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2167,9 +2193,11 @@
           "author": {
             "id": null,
             "display_name": "F. S. P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I184886455",
@@ -2206,11 +2234,13 @@
           "author": {
             "id": "https://openalex.org/A5069580302",
             "display_name": "Michael D. Simmons",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8974-7351",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8974-7351"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2232,11 +2262,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -2273,9 +2305,11 @@
           "author": {
             "id": "https://openalex.org/A5042844492",
             "display_name": "Roger Brett Davies",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2300,13 +2334,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.7277,
+      "fwci": 4.9648,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 161,
+      "cited_by_count": 162,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93818657,
+        "value": 0.94310528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3578,10 +3612,10 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 6
+          "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3638,6 +3672,7 @@
         "https://openalex.org/W2774779682"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3655,9 +3690,11 @@
           "author": {
             "id": "https://openalex.org/A5108291309",
             "display_name": "Frans S.P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I265217849",
@@ -3694,11 +3731,13 @@
           "author": {
             "id": "https://openalex.org/A5105512556",
             "display_name": "Bernard Pittet",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8756-4460",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8756-4460"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I265217849",
@@ -3735,9 +3774,11 @@
           "author": {
             "id": "https://openalex.org/A5051979229",
             "display_name": "Heiko Hillgärtner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I265217849",
@@ -3774,9 +3815,11 @@
           "author": {
             "id": "https://openalex.org/A5021795934",
             "display_name": "Jürgen Grötsch",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97699614",
@@ -3813,9 +3856,11 @@
           "author": {
             "id": "https://openalex.org/A5112337272",
             "display_name": "A. Mansouri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97699614",
@@ -3852,9 +3897,11 @@
           "author": {
             "id": "https://openalex.org/A5026017481",
             "display_name": "Ian Billing",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -3891,11 +3938,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -3932,9 +3981,11 @@
           "author": {
             "id": "https://openalex.org/A5016690296",
             "display_name": "W. Heiko Oterdoom",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -3971,9 +4022,11 @@
           "author": {
             "id": "https://openalex.org/A5074392881",
             "display_name": "Mia Van Steenwinkel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -4017,13 +4070,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.0506,
+      "fwci": 8.8638,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 247,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98364888,
+        "value": 0.98323615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5452,6 +5505,7 @@
         "https://openalex.org/W3122357362"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -5469,9 +5523,11 @@
           "author": {
             "id": "https://openalex.org/A5108291309",
             "display_name": "Frans S.P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5486,11 +5542,13 @@
           "author": {
             "id": "https://openalex.org/A5081811780",
             "display_name": "Moujahed I. Al-Husseini",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-1087-5882",
             "observed_orcids": [
               "https://orcid.org/0009-0002-1087-5882"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5505,9 +5563,11 @@
           "author": {
             "id": null,
             "display_name": "Florian Maurer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5522,11 +5582,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5541,9 +5603,11 @@
           "author": {
             "id": "https://openalex.org/A5085509873",
             "display_name": "Lyndon A. Yose",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5561,13 +5625,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 37.841,
+      "fwci": 38.4799,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 197,
+      "cited_by_count": 198,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99911111,
+        "value": 0.99910233,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6826,10 +6890,10 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 9
+          "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6897,6 +6961,7 @@
         "https://openalex.org/W2136306839"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6914,11 +6979,13 @@
           "author": {
             "id": "https://openalex.org/A5105512556",
             "display_name": "Bernard Pittet",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8756-4460",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8756-4460"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I265217849",
@@ -6955,9 +7022,11 @@
           "author": {
             "id": "https://openalex.org/A5108291309",
             "display_name": "Frans S.P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I265217849",
@@ -6994,9 +7063,11 @@
           "author": {
             "id": "https://openalex.org/A5051979229",
             "display_name": "Heiko Hillgärtner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I265217849",
@@ -7051,12 +7122,14 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I15057530",
@@ -7093,9 +7166,11 @@
           "author": {
             "id": "https://openalex.org/A5021795934",
             "display_name": "Jürgen Grötsch",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7122,11 +7197,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -7191,13 +7268,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 4.5253,
+      "fwci": 4.4319,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 161,
+      "cited_by_count": 162,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93086632,
+        "value": 0.92857143,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8134,7 +8211,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8202,6 +8279,7 @@
         "https://openalex.org/W1620496676"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8219,11 +8297,13 @@
           "author": {
             "id": "https://openalex.org/A5010939944",
             "display_name": "Niels Rameil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6711-3411",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6711-3411"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I904495901",
@@ -8260,11 +8340,13 @@
           "author": {
             "id": "https://openalex.org/A5037041743",
             "display_name": "Adrian Immenhauser",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9494-2450",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9494-2450"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I904495901",
@@ -8308,11 +8390,13 @@
           "author": {
             "id": "https://openalex.org/A5082190198",
             "display_name": "Georg Warrlich",
+            "type": null,
             "orcid": "https://orcid.org/0009-0009-0200-5968",
             "observed_orcids": [
               "https://orcid.org/0009-0009-0200-5968"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -8349,9 +8433,11 @@
           "author": {
             "id": "https://openalex.org/A5051979229",
             "display_name": "Heiko Hillgärtner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8373,11 +8459,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -8431,13 +8519,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 7.4255,
+      "fwci": 7.3087,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 148,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98116607,
+        "value": 0.98060345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9770,6 +9858,7 @@
         "https://openalex.org/W2013446430"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9787,9 +9876,11 @@
           "author": {
             "id": "https://openalex.org/A5051979229",
             "display_name": "Heiko Hillgärtner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I265217849",
@@ -9845,9 +9936,11 @@
           "author": {
             "id": "https://openalex.org/A5108291309",
             "display_name": "Frans S.P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I2540865",
@@ -9902,9 +9995,11 @@
           "author": {
             "id": "https://openalex.org/A5058956888",
             "display_name": "Fabrice Gaumet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I2540865",
@@ -9959,12 +10054,14 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I15057530",
@@ -10006,11 +10103,13 @@
           "author": {
             "id": "https://openalex.org/A5105512556",
             "display_name": "Bernard Pittet",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8756-4460",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8756-4460"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I100532134",
@@ -10066,9 +10165,11 @@
           "author": {
             "id": "https://openalex.org/A5021795934",
             "display_name": "Jürgen Grötsch",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -10095,11 +10196,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -10146,13 +10249,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.7363,
+      "fwci": 5.4745,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 142,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95417825,
+        "value": 0.95184786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10510,9 +10613,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -11563,6 +11666,7 @@
         "https://openalex.org/W2938243655"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11580,11 +11684,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -11628,13 +11734,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.675,
+      "fwci": 4.5565,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 135,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9356803,
+        "value": 0.9342386,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12588,6 +12694,7 @@
         "https://openalex.org/W2048410163"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12605,11 +12712,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -12657,13 +12766,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.6929,
+      "fwci": 3.6345,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 133,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9042654,
+        "value": 0.90171043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13096,6 +13205,7 @@
         "https://openalex.org/W2773138833"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13113,11 +13223,13 @@
           "author": {
             "id": "https://openalex.org/A5037041743",
             "display_name": "Adrian Immenhauser",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9494-2450",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9494-2450"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13132,9 +13244,11 @@
           "author": {
             "id": "https://openalex.org/A5051979229",
             "display_name": "Heiko Hillgärtner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13149,9 +13263,11 @@
           "author": {
             "id": "https://openalex.org/A5038984683",
             "display_name": "U. Sattler",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13166,11 +13282,13 @@
           "author": {
             "id": "https://openalex.org/A5021407832",
             "display_name": "Giovanni Bertotti",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7368-4867",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7368-4867"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13185,9 +13303,11 @@
           "author": {
             "id": "https://openalex.org/A5081958001",
             "display_name": "Pascal Schoepfer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13202,11 +13322,13 @@
           "author": {
             "id": "https://openalex.org/A5035885381",
             "display_name": "Peter W. Homewood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7278-9619",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7278-9619"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13221,11 +13343,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13240,11 +13364,13 @@
           "author": {
             "id": "https://openalex.org/A5012668465",
             "display_name": "Thomas Steuber",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3342-9885",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3342-9885"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13259,9 +13385,11 @@
           "author": {
             "id": "https://openalex.org/A5007170675",
             "display_name": "Jean‐Pierre Masse",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13276,11 +13404,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13295,9 +13425,11 @@
           "author": {
             "id": "https://openalex.org/A5052481333",
             "display_name": "J.K.J. Taal-van Koppen",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13312,9 +13444,11 @@
           "author": {
             "id": "https://openalex.org/A5022385654",
             "display_name": "Bram van der Kooij",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13329,9 +13463,11 @@
           "author": {
             "id": "https://openalex.org/A5048826634",
             "display_name": "Elisabeth C. van Bentum",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13346,9 +13482,11 @@
           "author": {
             "id": "https://openalex.org/A5108522201",
             "display_name": "Klaas Verwer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13363,9 +13501,11 @@
           "author": {
             "id": "https://openalex.org/A5060486425",
             "display_name": "Eilard H. Hoogerduijn Strating",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13380,9 +13520,11 @@
           "author": {
             "id": "https://openalex.org/A5057770838",
             "display_name": "Wim J. A. M. Swinkels",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13397,9 +13539,11 @@
           "author": {
             "id": "https://openalex.org/A5080688655",
             "display_name": "Jeroen M. Peters",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13414,9 +13558,11 @@
           "author": {
             "id": "https://openalex.org/A5051468412",
             "display_name": "Ina Immenhauser-Potthast",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13431,9 +13577,11 @@
           "author": {
             "id": "https://openalex.org/A5049697878",
             "display_name": "S. Al-Maskery",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13451,13 +13599,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.4306,
+      "fwci": 6.2177,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 117,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9589717,
+        "value": 0.95849256,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15075,6 +15223,7 @@
         "https://openalex.org/W1560753261"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [],
@@ -15090,11 +15239,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -15109,9 +15260,11 @@
           "author": {
             "id": "https://openalex.org/A5074392881",
             "display_name": "Mia Van Steenwinkel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16953,6 +17106,7 @@
         "https://openalex.org/W2138863895"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -16970,11 +17124,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -17011,9 +17167,11 @@
           "author": {
             "id": "https://openalex.org/A5074392881",
             "display_name": "Mia Van Steenwinkel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405272748",
@@ -17055,13 +17213,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6926,
+      "fwci": 3.5746,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 71,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90996169,
+        "value": 0.90682037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18836,6 +18994,7 @@
         "https://openalex.org/W3122357362"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -18853,11 +19012,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -20295,6 +20456,7 @@
         "https://openalex.org/W4399334238"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20312,11 +20474,13 @@
           "author": {
             "id": "https://openalex.org/A5069580302",
             "display_name": "Michael D. Simmons",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8974-7351",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8974-7351"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1336856363",
@@ -20358,11 +20522,13 @@
           "author": {
             "id": "https://openalex.org/A5080598412",
             "display_name": "Mike Bidgood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4310-2467",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4310-2467"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20384,9 +20550,11 @@
           "author": {
             "id": "https://openalex.org/A5042844492",
             "display_name": "Roger Brett Davies",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20408,11 +20576,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -20449,11 +20619,13 @@
           "author": {
             "id": "https://openalex.org/A5041843348",
             "display_name": "Bruce Levell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7414-1565",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7414-1565"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -20490,12 +20662,14 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210160189",
@@ -20532,9 +20706,11 @@
           "author": {
             "id": "https://openalex.org/A5108291309",
             "display_name": "Frans S.P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -22184,1419 +22360,6 @@
       "created_date": "2024-06-05T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3195207218",
-      "doi": "https://doi.org/10.1130/ges02376.1",
-      "title": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
-      "display_name": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
-      "alternate_titles": [],
-      "publication_year": 2021,
-      "publication_date": "2021-08-19",
-      "ids": {
-        "openalex": "https://openalex.org/W3195207218",
-        "doi": "https://doi.org/10.1130/ges02376.1",
-        "mag": "3195207218"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1130/ges02376.1",
-        "doi": "https://doi.org/10.1130/ges02376.1",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S8074494",
-          "display_name": "Geosphere",
-          "issn_l": "1553-040X",
-          "issn": [
-            "1553-040X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "oarl",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310319845",
-          "host_organization_name": "Geological Society of America",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319845"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of America"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geosphere",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W3195207218"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1130/ges02376.1",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5041843348",
-            "display_name": "Bruce Levell",
-            "orcid": "https://orcid.org/0000-0002-7414-1565",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7414-1565"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Bruce Levell",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-7414-1565",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5060286659",
-            "display_name": "M. P. Searle",
-            "orcid": "https://orcid.org/0000-0001-6904-6398",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6904-6398"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Michael Searle",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5007329363",
-            "display_name": "Adrian White",
-            "orcid": "https://orcid.org/0000-0003-3917-3438",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3917-3438"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Adrian White",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5048457692",
-            "display_name": "Lauren Kedar",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Lauren Kedar",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5058646530",
-            "display_name": "Henk Droste",
-            "orcid": "https://orcid.org/0009-0008-1422-1783",
-            "observed_orcids": [
-              "https://orcid.org/0009-0008-1422-1783"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Henk Droste",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5074392881",
-            "display_name": "Mia Van Steenwinkel",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Mia Van Steenwinkel",
-          "raw_affiliation_strings": [
-            "Locquetstraat 11, Hombeek, 2811, Belgium"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Locquetstraat 11, Hombeek, 2811, Belgium",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2750,
-        "currency": "USD",
-        "value_usd": 2750
-      },
-      "apc_paid": {
-        "value": 2750,
-        "currency": "USD",
-        "value_usd": 2750
-      },
-      "fwci": 1.3013,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 23,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.75506429,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "17",
-        "issue": "5",
-        "first_page": "1472",
-        "last_page": "1493"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.9057999849319458,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9057999849319458,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.07980000227689743,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.006200000178068876,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/semail-ophiolite",
-          "display_name": "Samail ophiolite",
-          "score": 0.8830000162124634
-        },
-        {
-          "id": "https://openalex.org/keywords/obduction",
-          "display_name": "obduction",
-          "score": 0.6840000152587891
-        },
-        {
-          "id": "https://openalex.org/keywords/gulf-of-oman",
-          "display_name": "Gulf of Oman",
-          "score": 0.9570000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/thin-skinned-thrusting",
-          "display_name": "thin-skinned thrusting",
-          "score": 0.7820000052452087
-        },
-        {
-          "id": "https://openalex.org/keywords/extensional-faults",
-          "display_name": "extensional faults",
-          "score": 0.8050000071525574
-        },
-        {
-          "id": "https://openalex.org/keywords/growth-faults",
-          "display_name": "growth faults",
-          "score": 0.8529999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/box-folds",
-          "display_name": "box folds",
-          "score": 0.781000018119812
-        },
-        {
-          "id": "https://openalex.org/keywords/makran-accretionary-prism",
-          "display_name": "Makran accretionary prism",
-          "score": 0.9200000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/subduction",
-          "display_name": "subduction",
-          "score": 0.621999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/late-cretaceous",
-          "display_name": "Late Cretaceous",
-          "score": 0.6029999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/miocene",
-          "display_name": "Miocene",
-          "score": 0.5450000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonic-evolution",
-          "display_name": "tectonic evolution",
-          "score": 0.5950000286102295
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9361240863800049
-        },
-        {
-          "id": "https://openalex.org/C192717286",
-          "wikidata": "https://www.wikidata.org/wiki/Q772239",
-          "display_name": "Obduction",
-          "level": 5,
-          "score": 0.7040687203407288
-        },
-        {
-          "id": "https://openalex.org/C193748577",
-          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
-          "display_name": "Foreland basin",
-          "level": 3,
-          "score": 0.6503768563270569
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6149313449859619
-        },
-        {
-          "id": "https://openalex.org/C201867031",
-          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
-          "display_name": "Continental margin",
-          "level": 3,
-          "score": 0.5257319211959839
-        },
-        {
-          "id": "https://openalex.org/C2781297371",
-          "wikidata": "https://www.wikidata.org/wiki/Q234852",
-          "display_name": "Basement",
-          "level": 2,
-          "score": 0.5176113843917847
-        },
-        {
-          "id": "https://openalex.org/C201633675",
-          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
-          "display_name": "Passive margin",
-          "level": 4,
-          "score": 0.5169288516044617
-        },
-        {
-          "id": "https://openalex.org/C116637073",
-          "wikidata": "https://www.wikidata.org/wiki/Q190147",
-          "display_name": "Anticline",
-          "level": 3,
-          "score": 0.5082992911338806
-        },
-        {
-          "id": "https://openalex.org/C110041135",
-          "wikidata": "https://www.wikidata.org/wiki/Q496325",
-          "display_name": "Thrust fault",
-          "level": 3,
-          "score": 0.5056343078613281
-        },
-        {
-          "id": "https://openalex.org/C153220577",
-          "wikidata": "https://www.wikidata.org/wiki/Q1479638",
-          "display_name": "Nappe",
-          "level": 3,
-          "score": 0.4852876365184784
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4573920965194702
-        },
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.4412640929222107
-        },
-        {
-          "id": "https://openalex.org/C141646446",
-          "wikidata": "https://www.wikidata.org/wiki/Q858571",
-          "display_name": "Continental crust",
-          "level": 3,
-          "score": 0.4374120831489563
-        },
-        {
-          "id": "https://openalex.org/C175551986",
-          "wikidata": "https://www.wikidata.org/wiki/Q47089",
-          "display_name": "Fault (geology)",
-          "level": 2,
-          "score": 0.43662816286087036
-        },
-        {
-          "id": "https://openalex.org/C204330871",
-          "wikidata": "https://www.wikidata.org/wiki/Q55810",
-          "display_name": "Paleogene",
-          "level": 3,
-          "score": 0.4278808534145355
-        },
-        {
-          "id": "https://openalex.org/C117485682",
-          "wikidata": "https://www.wikidata.org/wiki/Q215920",
-          "display_name": "Seafloor spreading",
-          "level": 2,
-          "score": 0.4263201951980591
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.41147133708000183
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.4061698913574219
-        },
-        {
-          "id": "https://openalex.org/C2776698055",
-          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
-          "display_name": "Crust",
-          "level": 2,
-          "score": 0.38596123456954956
-        },
-        {
-          "id": "https://openalex.org/C58097730",
-          "wikidata": "https://www.wikidata.org/wiki/Q176318",
-          "display_name": "Subduction",
-          "level": 3,
-          "score": 0.3784680962562561
-        },
-        {
-          "id": "https://openalex.org/C154200439",
-          "wikidata": "https://www.wikidata.org/wiki/Q238851",
-          "display_name": "Oceanic crust",
-          "level": 4,
-          "score": 0.3749732971191406
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.32843393087387085
-        },
-        {
-          "id": "https://openalex.org/C50682988",
-          "wikidata": "https://www.wikidata.org/wiki/Q473935",
-          "display_name": "Rift",
-          "level": 3,
-          "score": 0.2603079378604889
-        },
-        {
-          "id": "https://openalex.org/C147176958",
-          "wikidata": "https://www.wikidata.org/wiki/Q77590",
-          "display_name": "Civil engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1130/ges02376.1",
-          "doi": "https://doi.org/10.1130/ges02376.1",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1130/ges02376.1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S8074494",
-            "display_name": "Geosphere",
-            "issn_l": "1553-040X",
-            "issn": [
-              "1553-040X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "doaj",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "oarl",
-              "poland-140",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310319845",
-            "host_organization_name": "Geological Society of America",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319845"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of America"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geosphere",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1130/ges02376.1",
-        "doi": "https://doi.org/10.1130/ges02376.1",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S8074494",
-          "display_name": "Geosphere",
-          "issn_l": "1553-040X",
-          "issn": [
-            "1553-040X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "oarl",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310319845",
-          "host_organization_name": "Geological Society of America",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319845"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of America"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geosphere",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 61,
-      "referenced_works": [
-        "https://openalex.org/W1537425267",
-        "https://openalex.org/W1839680979",
-        "https://openalex.org/W1965622457",
-        "https://openalex.org/W1969766565",
-        "https://openalex.org/W1971083798",
-        "https://openalex.org/W1976668940",
-        "https://openalex.org/W1977995085",
-        "https://openalex.org/W1980622023",
-        "https://openalex.org/W1981547392",
-        "https://openalex.org/W1985748982",
-        "https://openalex.org/W1991062313",
-        "https://openalex.org/W1991819870",
-        "https://openalex.org/W1994737413",
-        "https://openalex.org/W2007355390",
-        "https://openalex.org/W2008114980",
-        "https://openalex.org/W2023619610",
-        "https://openalex.org/W2029351736",
-        "https://openalex.org/W2048539408",
-        "https://openalex.org/W2060017564",
-        "https://openalex.org/W2065247298",
-        "https://openalex.org/W2065692916",
-        "https://openalex.org/W2071075619",
-        "https://openalex.org/W2074344573",
-        "https://openalex.org/W2077977387",
-        "https://openalex.org/W2079585454",
-        "https://openalex.org/W2081508306",
-        "https://openalex.org/W2083772074",
-        "https://openalex.org/W2086891158",
-        "https://openalex.org/W2088533800",
-        "https://openalex.org/W2088581780",
-        "https://openalex.org/W2092786871",
-        "https://openalex.org/W2108855048",
-        "https://openalex.org/W2140748778",
-        "https://openalex.org/W2144374166",
-        "https://openalex.org/W2145995786",
-        "https://openalex.org/W2146586425",
-        "https://openalex.org/W2155927047",
-        "https://openalex.org/W2160951938",
-        "https://openalex.org/W2163243405",
-        "https://openalex.org/W2165193198",
-        "https://openalex.org/W2168511870",
-        "https://openalex.org/W2186549523",
-        "https://openalex.org/W2274018172",
-        "https://openalex.org/W2314696333",
-        "https://openalex.org/W2319336632",
-        "https://openalex.org/W2332302581",
-        "https://openalex.org/W2465257908",
-        "https://openalex.org/W2615225651",
-        "https://openalex.org/W2766642050",
-        "https://openalex.org/W2779360006",
-        "https://openalex.org/W2935894711",
-        "https://openalex.org/W2954119218",
-        "https://openalex.org/W2963259956",
-        "https://openalex.org/W2967069995",
-        "https://openalex.org/W2992040756",
-        "https://openalex.org/W3028628319",
-        "https://openalex.org/W3038998202",
-        "https://openalex.org/W3043902524",
-        "https://openalex.org/W3106505032",
-        "https://openalex.org/W3112784815",
-        "https://openalex.org/W4255968852"
-      ],
-      "related_works": [
-        "https://openalex.org/W3112784815",
-        "https://openalex.org/W4392599299",
-        "https://openalex.org/W3078006393",
-        "https://openalex.org/W2615225651",
-        "https://openalex.org/W2032063496",
-        "https://openalex.org/W4409465277",
-        "https://openalex.org/W3082439147",
-        "https://openalex.org/W3028628319",
-        "https://openalex.org/W4415213820",
-        "https://openalex.org/W2073112890"
-      ],
-      "abstract_inverted_index": {
-        "4": [
-          141
-        ],
-        "5": [
-          131
-        ],
-        "Late": [
-          0,
-          134,
-          240
-        ],
-        "Cretaceous": [
-          1,
-          135,
-          241
-        ],
-        "obduction": [
-          2
-        ],
-        "of": [
-          3,
-          11,
-          20,
-          57,
-          65,
-          75,
-          107,
-          126,
-          133,
-          143,
-          191,
-          202,
-          233
-        ],
-        "the": [
-          4,
-          16,
-          43,
-          55,
-          62,
-          66,
-          73,
-          88,
-          96,
-          100,
-          111,
-          115,
-          124,
-          169,
-          182,
-          192,
-          203,
-          223,
-          228,
-          234,
-          249
-        ],
-        "Semail": [
-          5,
-          67,
-          97
-        ],
-        "ophiolite": [
-          6,
-          98
-        ],
-        "and": [
-          7,
-          37,
-          145,
-          149,
-          159,
-          189
-        ],
-        "underlying": [
-          8
-        ],
-        "thrust": [
-          9,
-          44
-        ],
-        "sheets": [
-          10
-        ],
-        "Neo-Tethyan": [
-          12
-        ],
-        "oceanic": [
-          13,
-          105,
-          242
-        ],
-        "sediments": [
-          14
-        ],
-        "onto": [
-          15
-        ],
-        "submerged": [
-          17
-        ],
-        "continental": [
-          18
-        ],
-        "margin": [
-          19,
-          117
-        ],
-        "Oman": [
-          21,
-          76,
-          108,
-          127
-        ],
-        "involved": [
-          22
-        ],
-        "thin-skinned": [
-          23
-        ],
-        "SW-vergent": [
-          24
-        ],
-        "thrusting": [
-          25
-        ],
-        "above": [
-          26,
-          207
-        ],
-        "a": [
-          27,
-          119
-        ],
-        "thick": [
-          28
-        ],
-        "Guadalupian–Cenomanian": [
-          29
-        ],
-        "shelf-carbonate": [
-          30
-        ],
-        "sequence.": [
-          31
-        ],
-        "A": [
-          32,
-          212
-        ],
-        "flexural": [
-          33
-        ],
-        "foreland": [
-          34
-        ],
-        "basin": [
-          35,
-          116,
-          121,
-          170,
-          225,
-          236
-        ],
-        "(Muti": [
-          36
-        ],
-        "Aruma": [
-          38
-        ],
-        "Basin)": [
-          39
-        ],
-        "developed": [
-          40
-        ],
-        "due": [
-          41
-        ],
-        "to": [
-          42,
-          52,
-          87,
-          94,
-          99,
-          110,
-          118,
-          161,
-          216,
-          227
-        ],
-        "loading.": [
-          45
-        ],
-        "Newly": [
-          46
-        ],
-        "available": [
-          47
-        ],
-        "seismic": [
-          48
-        ],
-        "reflection": [
-          49
-        ],
-        "data,": [
-          50
-        ],
-        "tied": [
-          51
-        ],
-        "wells": [
-          53
-        ],
-        "in": [
-          54,
-          72,
-          103,
-          129,
-          199,
-          238
-        ],
-        "Gulf": [
-          56,
-          74,
-          106,
-          125
-        ],
-        "Oman,": [
-          58
-        ],
-        "suggest": [
-          59
-        ],
-        "indirectly": [
-          60
-        ],
-        "that": [
-          61,
-          244
-        ],
-        "trailing": [
-          63
-        ],
-        "edge": [
-          64
-        ],
-        "Ophiolite": [
-          68
-        ],
-        "is": [
-          69,
-          79,
-          92,
-          237,
-          245
-        ],
-        "not": [
-          70
-        ],
-        "rooted": [
-          71
-        ],
-        "crust": [
-          77,
-          109
-        ],
-        "but": [
-          78
-        ],
-        "truncated": [
-          80,
-          206
-        ],
-        "by": [
-          81,
-          208
-        ],
-        "an": [
-          82,
-          209
-        ],
-        "ENE-dipping": [
-          83
-        ],
-        "extensional": [
-          84
-        ],
-        "fault": [
-          85,
-          91
-        ],
-        "parallel": [
-          86,
-          181
-        ],
-        "coastline.": [
-          89
-        ],
-        "This": [
-          90,
-          195
-        ],
-        "inferred": [
-          93,
-          231
-        ],
-        "separate": [
-          95
-        ],
-        "SW": [
-          101
-        ],
-        "from": [
-          102
-        ],
-        "situ": [
-          104,
-          239
-        ],
-        "NE.": [
-          112
-        ],
-        "It": [
-          113
-        ],
-        "forms": [
-          114
-        ],
-        "“hinterland”": [
-          120
-        ],
-        "formed": [
-          122
-        ],
-        "atop": [
-          123
-        ],
-        "crust,": [
-          128
-        ],
-        "which": [
-          130
-        ],
-        "km": [
-          132,
-          142
-        ],
-        "deep-water": [
-          136,
-          147
-        ],
-        "mudstones": [
-          137,
-          148
-        ],
-        "accumulated": [
-          138
-        ],
-        "together": [
-          139
-        ],
-        "with": [
-          140,
-          165,
-          185
-        ],
-        "Miocene": [
-          144
-        ],
-        "younger": [
-          146
-        ],
-        "sandstones.": [
-          150
-        ],
-        "Syndepositional": [
-          151
-        ],
-        "folding": [
-          152
-        ],
-        "included": [
-          153
-        ],
-        "Paleocene–Eocene": [
-          154
-        ],
-        "folds": [
-          155,
-          178
-        ],
-        "on": [
-          156
-        ],
-        "N-S": [
-          157
-        ],
-        "axes,": [
-          158
-        ],
-        "Paleocene": [
-          160
-        ],
-        "Oligocene": [
-          162
-        ],
-        "growth": [
-          163,
-          193
-        ],
-        "faults": [
-          164
-        ],
-        "roll-over": [
-          166
-        ],
-        "anticlines,": [
-          167
-        ],
-        "along": [
-          168
-        ],
-        "flank.": [
-          171
-        ],
-        "Pliocene": [
-          172,
-          196
-        ],
-        "compression": [
-          173,
-          197
-        ],
-        "formed,": [
-          174
-        ],
-        "or": [
-          175
-        ],
-        "tightened,": [
-          176
-        ],
-        "box": [
-          177
-        ],
-        "whose": [
-          179
-        ],
-        "axes": [
-          180
-        ],
-        "modern": [
-          183
-        ],
-        "coast": [
-          184
-        ],
-        "local": [
-          186
-        ],
-        "south-vergent": [
-          187
-        ],
-        "thrusts": [
-          188
-        ],
-        "reversal": [
-          190
-        ],
-        "faults.": [
-          194
-        ],
-        "resulted": [
-          198
-        ],
-        "large-scale": [
-          200
-        ],
-        "buckling": [
-          201
-        ],
-        "Cenozoic": [
-          204
-        ],
-        "section,": [
-          205
-        ],
-        "intra-Pliocene": [
-          210
-        ],
-        "unconformity.": [
-          211
-        ],
-        "spectacular": [
-          213
-        ],
-        "60-km-long,": [
-          214
-        ],
-        "Eocene(?)": [
-          215
-        ],
-        "Recent,": [
-          217
-        ],
-        "low-angle,": [
-          218
-        ],
-        "extensional,": [
-          219
-        ],
-        "gravitational": [
-          220
-        ],
-        "fault,": [
-          221
-        ],
-        "down-throws": [
-          222
-        ],
-        "upper": [
-          224
-        ],
-        "fill": [
-          226
-        ],
-        "north.": [
-          229
-        ],
-        "The": [
-          230
-        ],
-        "basement": [
-          232
-        ],
-        "hinterland": [
-          235
-        ],
-        "lithosphere": [
-          243
-        ],
-        "subducting": [
-          246
-        ],
-        "northwards": [
-          247
-        ],
-        "beneath": [
-          248
-        ],
-        "Makran": [
-          250
-        ],
-        "accretionary": [
-          251
-        ],
-        "prism.": [
-          252
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3195207218",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 5
-        }
-      ],
-      "updated_date": "2026-11-20T13:11:24.684918",
-      "created_date": "2021-08-30T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2943308556",
       "doi": "https://doi.org/10.2113/geoarabia130339",
       "title": "Outcrop sedimentology of the Natih Formation, northern Oman: A field guide to selected outcrops in the Adam Foothills and Al Jabal al Akhdar areas",
@@ -23650,6 +22413,7 @@
         "https://openalex.org/W2943308556"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -23667,11 +22431,13 @@
           "author": {
             "id": "https://openalex.org/A5035885381",
             "display_name": "Peter W. Homewood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7278-9619",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7278-9619"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23686,12 +22452,14 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23706,11 +22474,13 @@
           "author": {
             "id": "https://openalex.org/A5052547610",
             "display_name": "Carine Grélaud",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4544-9728",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4544-9728"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23725,11 +22495,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23744,11 +22516,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23763,9 +22537,11 @@
           "author": {
             "id": "https://openalex.org/A5052594218",
             "display_name": "Monique Mettraux",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23780,9 +22556,11 @@
           "author": {
             "id": "https://openalex.org/A5039636725",
             "display_name": "Joerg Mattner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23800,13 +22578,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3995,
+      "fwci": 5.26,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 71,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94978209,
+        "value": 0.94793773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25228,6 +24006,7 @@
         "https://openalex.org/W7213224513"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -25245,9 +24024,11 @@
           "author": {
             "id": "https://openalex.org/A5029031784",
             "display_name": "Bernard J. Pierson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25262,12 +24043,14 @@
           "author": {
             "id": "https://openalex.org/A5108167128",
             "display_name": "Gregor P. Eberli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2886-7680",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2886-7680",
               "https://orcid.org/0000-0001-5653-6929"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25282,9 +24065,11 @@
           "author": {
             "id": "https://openalex.org/A5073905170",
             "display_name": "Khalil Al‐Mehsin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25299,9 +24084,11 @@
           "author": {
             "id": "https://openalex.org/A5065051587",
             "display_name": "Saeed Al-Menhali",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25316,11 +24103,13 @@
           "author": {
             "id": "https://openalex.org/A5082190198",
             "display_name": "Georg Warrlich",
+            "type": null,
             "orcid": "https://orcid.org/0009-0009-0200-5968",
             "observed_orcids": [
               "https://orcid.org/0009-0009-0200-5968"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25335,11 +24124,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25354,9 +24145,11 @@
           "author": {
             "id": null,
             "display_name": "Florian Maurer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25371,9 +24164,11 @@
           "author": {
             "id": null,
             "display_name": "John Whitworth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25388,9 +24183,11 @@
           "author": {
             "id": "https://openalex.org/A5042016942",
             "display_name": "Donna Drysdale",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26971,6 +25768,7 @@
         "https://openalex.org/W3122357362"
       ],
       "child_works_count": 12,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -26988,9 +25786,11 @@
           "author": {
             "id": "https://openalex.org/A5108291309",
             "display_name": "Frans S.P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27005,11 +25805,13 @@
           "author": {
             "id": "https://openalex.org/A5081811780",
             "display_name": "Moujahed I. Al-Husseini",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-1087-5882",
             "observed_orcids": [
               "https://orcid.org/0009-0002-1087-5882"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27024,9 +25826,11 @@
           "author": {
             "id": null,
             "display_name": "Florian Maurer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27041,11 +25845,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27434,6 +26240,7 @@
         "https://openalex.org/W2023502112"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27451,11 +26258,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -27504,13 +26313,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.8759,
+      "fwci": 3.7778,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 53,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91530945,
+        "value": 0.91313419,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28553,6 +27362,7 @@
         "https://openalex.org/W7213224513"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -28570,9 +27380,11 @@
           "author": {
             "id": "https://openalex.org/A5110956932",
             "display_name": "Florian Maurer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28587,9 +27399,11 @@
           "author": {
             "id": "https://openalex.org/A5073905170",
             "display_name": "Khalil Al‐Mehsin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28604,9 +27418,11 @@
           "author": {
             "id": "https://openalex.org/A5029031784",
             "display_name": "Bernard J. Pierson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28621,12 +27437,14 @@
           "author": {
             "id": "https://openalex.org/A5108167128",
             "display_name": "Gregor P. Eberli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2886-7680",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2886-7680",
               "https://orcid.org/0000-0001-5653-6929"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28641,11 +27459,13 @@
           "author": {
             "id": "https://openalex.org/A5082190198",
             "display_name": "Georg Warrlich",
+            "type": null,
             "orcid": "https://orcid.org/0009-0009-0200-5968",
             "observed_orcids": [
               "https://orcid.org/0009-0009-0200-5968"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28660,9 +27480,11 @@
           "author": {
             "id": "https://openalex.org/A5042016942",
             "display_name": "Donna Drysdale",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28677,11 +27499,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29768,6 +28592,7 @@
         "https://openalex.org/W2959332765"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29785,9 +28610,11 @@
           "author": {
             "id": "https://openalex.org/A5083437397",
             "display_name": "Mathieu Rousseau",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210147046",
@@ -29826,9 +28653,11 @@
           "author": {
             "id": "https://openalex.org/A5112695255",
             "display_name": "Gilles Dromart",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210147046",
@@ -29867,11 +28696,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29886,11 +28717,13 @@
           "author": {
             "id": "https://openalex.org/A5035885381",
             "display_name": "Peter W. Homewood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7278-9619",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7278-9619"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29908,13 +28741,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1613,
+      "fwci": 1.1376,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 35,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75559991,
+        "value": 0.75070438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31395,6 +30228,1432 @@
       "created_date": "2019-07-23T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3195207218",
+      "doi": "https://doi.org/10.1130/ges02376.1",
+      "title": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
+      "display_name": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
+      "alternate_titles": [],
+      "publication_year": 2021,
+      "publication_date": "2021-08-19",
+      "ids": {
+        "openalex": "https://openalex.org/W3195207218",
+        "doi": "https://doi.org/10.1130/ges02376.1",
+        "mag": "3195207218"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1130/ges02376.1",
+        "doi": "https://doi.org/10.1130/ges02376.1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S8074494",
+          "display_name": "Geosphere",
+          "issn_l": "1553-040X",
+          "issn": [
+            "1553-040X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "oarl",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319845",
+          "host_organization_name": "Geological Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319845"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geosphere",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3195207218"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1130/ges02376.1",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5041843348",
+            "display_name": "Bruce Levell",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7414-1565",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7414-1565"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Bruce Levell",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7414-1565",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060286659",
+            "display_name": "M. P. Searle",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-6904-6398",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6904-6398"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Michael Searle",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007329363",
+            "display_name": "Adrian White",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-3917-3438",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3917-3438"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Adrian White",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048457692",
+            "display_name": "Lauren Kedar",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Lauren Kedar",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058646530",
+            "display_name": "Henk Droste",
+            "type": null,
+            "orcid": "https://orcid.org/0009-0008-1422-1783",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-1422-1783"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Henk Droste",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074392881",
+            "display_name": "Mia Van Steenwinkel",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Mia Van Steenwinkel",
+          "raw_affiliation_strings": [
+            "Locquetstraat 11, Hombeek, 2811, Belgium"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Locquetstraat 11, Hombeek, 2811, Belgium",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2750,
+        "currency": "USD",
+        "value_usd": 2750
+      },
+      "apc_paid": {
+        "value": 2750,
+        "currency": "USD",
+        "value_usd": 2750
+      },
+      "fwci": 1.2862,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 23,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.75187241,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "17",
+        "issue": "5",
+        "first_page": "1472",
+        "last_page": "1493"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.9057999849319458,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9057999849319458,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.07980000227689743,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.006200000178068876,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/semail-ophiolite",
+          "display_name": "Samail ophiolite",
+          "score": 0.8830000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/obduction",
+          "display_name": "obduction",
+          "score": 0.6840000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/gulf-of-oman",
+          "display_name": "Gulf of Oman",
+          "score": 0.9570000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/thin-skinned-thrusting",
+          "display_name": "thin-skinned thrusting",
+          "score": 0.7820000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/extensional-faults",
+          "display_name": "extensional faults",
+          "score": 0.8050000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/growth-faults",
+          "display_name": "growth faults",
+          "score": 0.8529999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/box-folds",
+          "display_name": "box folds",
+          "score": 0.781000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/makran-accretionary-prism",
+          "display_name": "Makran accretionary prism",
+          "score": 0.9200000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/subduction",
+          "display_name": "subduction",
+          "score": 0.621999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/late-cretaceous",
+          "display_name": "Late Cretaceous",
+          "score": 0.6029999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/miocene",
+          "display_name": "Miocene",
+          "score": 0.5450000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonic-evolution",
+          "display_name": "tectonic evolution",
+          "score": 0.5950000286102295
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9361240863800049
+        },
+        {
+          "id": "https://openalex.org/C192717286",
+          "wikidata": "https://www.wikidata.org/wiki/Q772239",
+          "display_name": "Obduction",
+          "level": 5,
+          "score": 0.7040687203407288
+        },
+        {
+          "id": "https://openalex.org/C193748577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
+          "display_name": "Foreland basin",
+          "level": 3,
+          "score": 0.6503768563270569
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6149313449859619
+        },
+        {
+          "id": "https://openalex.org/C201867031",
+          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
+          "display_name": "Continental margin",
+          "level": 3,
+          "score": 0.5257319211959839
+        },
+        {
+          "id": "https://openalex.org/C2781297371",
+          "wikidata": "https://www.wikidata.org/wiki/Q234852",
+          "display_name": "Basement",
+          "level": 2,
+          "score": 0.5176113843917847
+        },
+        {
+          "id": "https://openalex.org/C201633675",
+          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
+          "display_name": "Passive margin",
+          "level": 4,
+          "score": 0.5169288516044617
+        },
+        {
+          "id": "https://openalex.org/C116637073",
+          "wikidata": "https://www.wikidata.org/wiki/Q190147",
+          "display_name": "Anticline",
+          "level": 3,
+          "score": 0.5082992911338806
+        },
+        {
+          "id": "https://openalex.org/C110041135",
+          "wikidata": "https://www.wikidata.org/wiki/Q496325",
+          "display_name": "Thrust fault",
+          "level": 3,
+          "score": 0.5056343078613281
+        },
+        {
+          "id": "https://openalex.org/C153220577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1479638",
+          "display_name": "Nappe",
+          "level": 3,
+          "score": 0.4852876365184784
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4573920965194702
+        },
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.4412640929222107
+        },
+        {
+          "id": "https://openalex.org/C141646446",
+          "wikidata": "https://www.wikidata.org/wiki/Q858571",
+          "display_name": "Continental crust",
+          "level": 3,
+          "score": 0.4374120831489563
+        },
+        {
+          "id": "https://openalex.org/C175551986",
+          "wikidata": "https://www.wikidata.org/wiki/Q47089",
+          "display_name": "Fault (geology)",
+          "level": 2,
+          "score": 0.43662816286087036
+        },
+        {
+          "id": "https://openalex.org/C204330871",
+          "wikidata": "https://www.wikidata.org/wiki/Q55810",
+          "display_name": "Paleogene",
+          "level": 3,
+          "score": 0.4278808534145355
+        },
+        {
+          "id": "https://openalex.org/C117485682",
+          "wikidata": "https://www.wikidata.org/wiki/Q215920",
+          "display_name": "Seafloor spreading",
+          "level": 2,
+          "score": 0.4263201951980591
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.41147133708000183
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.4061698913574219
+        },
+        {
+          "id": "https://openalex.org/C2776698055",
+          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
+          "display_name": "Crust",
+          "level": 2,
+          "score": 0.38596123456954956
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0.3784680962562561
+        },
+        {
+          "id": "https://openalex.org/C154200439",
+          "wikidata": "https://www.wikidata.org/wiki/Q238851",
+          "display_name": "Oceanic crust",
+          "level": 4,
+          "score": 0.3749732971191406
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.32843393087387085
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.2603079378604889
+        },
+        {
+          "id": "https://openalex.org/C147176958",
+          "wikidata": "https://www.wikidata.org/wiki/Q77590",
+          "display_name": "Civil engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1130/ges02376.1",
+          "doi": "https://doi.org/10.1130/ges02376.1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1130/ges02376.1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S8074494",
+            "display_name": "Geosphere",
+            "issn_l": "1553-040X",
+            "issn": [
+              "1553-040X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "oarl",
+              "poland-140",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319845",
+            "host_organization_name": "Geological Society of America",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319845"
+            ],
+            "host_organization_lineage_names": [
+              "Geological Society of America"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geosphere",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1130/ges02376.1",
+        "doi": "https://doi.org/10.1130/ges02376.1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S8074494",
+          "display_name": "Geosphere",
+          "issn_l": "1553-040X",
+          "issn": [
+            "1553-040X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "oarl",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319845",
+          "host_organization_name": "Geological Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319845"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geosphere",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 61,
+      "referenced_works": [
+        "https://openalex.org/W1537425267",
+        "https://openalex.org/W1839680979",
+        "https://openalex.org/W1965622457",
+        "https://openalex.org/W1969766565",
+        "https://openalex.org/W1971083798",
+        "https://openalex.org/W1976668940",
+        "https://openalex.org/W1977995085",
+        "https://openalex.org/W1980622023",
+        "https://openalex.org/W1981547392",
+        "https://openalex.org/W1985748982",
+        "https://openalex.org/W1991062313",
+        "https://openalex.org/W1991819870",
+        "https://openalex.org/W1994737413",
+        "https://openalex.org/W2007355390",
+        "https://openalex.org/W2008114980",
+        "https://openalex.org/W2023619610",
+        "https://openalex.org/W2029351736",
+        "https://openalex.org/W2048539408",
+        "https://openalex.org/W2060017564",
+        "https://openalex.org/W2065247298",
+        "https://openalex.org/W2065692916",
+        "https://openalex.org/W2071075619",
+        "https://openalex.org/W2074344573",
+        "https://openalex.org/W2077977387",
+        "https://openalex.org/W2079585454",
+        "https://openalex.org/W2081508306",
+        "https://openalex.org/W2083772074",
+        "https://openalex.org/W2086891158",
+        "https://openalex.org/W2088533800",
+        "https://openalex.org/W2088581780",
+        "https://openalex.org/W2092786871",
+        "https://openalex.org/W2108855048",
+        "https://openalex.org/W2140748778",
+        "https://openalex.org/W2144374166",
+        "https://openalex.org/W2145995786",
+        "https://openalex.org/W2146586425",
+        "https://openalex.org/W2155927047",
+        "https://openalex.org/W2160951938",
+        "https://openalex.org/W2163243405",
+        "https://openalex.org/W2165193198",
+        "https://openalex.org/W2168511870",
+        "https://openalex.org/W2186549523",
+        "https://openalex.org/W2274018172",
+        "https://openalex.org/W2314696333",
+        "https://openalex.org/W2319336632",
+        "https://openalex.org/W2332302581",
+        "https://openalex.org/W2465257908",
+        "https://openalex.org/W2615225651",
+        "https://openalex.org/W2766642050",
+        "https://openalex.org/W2779360006",
+        "https://openalex.org/W2935894711",
+        "https://openalex.org/W2954119218",
+        "https://openalex.org/W2963259956",
+        "https://openalex.org/W2967069995",
+        "https://openalex.org/W2992040756",
+        "https://openalex.org/W3028628319",
+        "https://openalex.org/W3038998202",
+        "https://openalex.org/W3043902524",
+        "https://openalex.org/W3106505032",
+        "https://openalex.org/W3112784815",
+        "https://openalex.org/W4255968852"
+      ],
+      "related_works": [
+        "https://openalex.org/W3112784815",
+        "https://openalex.org/W4392599299",
+        "https://openalex.org/W3078006393",
+        "https://openalex.org/W2615225651",
+        "https://openalex.org/W2032063496",
+        "https://openalex.org/W4409465277",
+        "https://openalex.org/W3082439147",
+        "https://openalex.org/W3028628319",
+        "https://openalex.org/W4415213820",
+        "https://openalex.org/W2073112890"
+      ],
+      "abstract_inverted_index": {
+        "4": [
+          141
+        ],
+        "5": [
+          131
+        ],
+        "Late": [
+          0,
+          134,
+          240
+        ],
+        "Cretaceous": [
+          1,
+          135,
+          241
+        ],
+        "obduction": [
+          2
+        ],
+        "of": [
+          3,
+          11,
+          20,
+          57,
+          65,
+          75,
+          107,
+          126,
+          133,
+          143,
+          191,
+          202,
+          233
+        ],
+        "the": [
+          4,
+          16,
+          43,
+          55,
+          62,
+          66,
+          73,
+          88,
+          96,
+          100,
+          111,
+          115,
+          124,
+          169,
+          182,
+          192,
+          203,
+          223,
+          228,
+          234,
+          249
+        ],
+        "Semail": [
+          5,
+          67,
+          97
+        ],
+        "ophiolite": [
+          6,
+          98
+        ],
+        "and": [
+          7,
+          37,
+          145,
+          149,
+          159,
+          189
+        ],
+        "underlying": [
+          8
+        ],
+        "thrust": [
+          9,
+          44
+        ],
+        "sheets": [
+          10
+        ],
+        "Neo-Tethyan": [
+          12
+        ],
+        "oceanic": [
+          13,
+          105,
+          242
+        ],
+        "sediments": [
+          14
+        ],
+        "onto": [
+          15
+        ],
+        "submerged": [
+          17
+        ],
+        "continental": [
+          18
+        ],
+        "margin": [
+          19,
+          117
+        ],
+        "Oman": [
+          21,
+          76,
+          108,
+          127
+        ],
+        "involved": [
+          22
+        ],
+        "thin-skinned": [
+          23
+        ],
+        "SW-vergent": [
+          24
+        ],
+        "thrusting": [
+          25
+        ],
+        "above": [
+          26,
+          207
+        ],
+        "a": [
+          27,
+          119
+        ],
+        "thick": [
+          28
+        ],
+        "Guadalupian–Cenomanian": [
+          29
+        ],
+        "shelf-carbonate": [
+          30
+        ],
+        "sequence.": [
+          31
+        ],
+        "A": [
+          32,
+          212
+        ],
+        "flexural": [
+          33
+        ],
+        "foreland": [
+          34
+        ],
+        "basin": [
+          35,
+          116,
+          121,
+          170,
+          225,
+          236
+        ],
+        "(Muti": [
+          36
+        ],
+        "Aruma": [
+          38
+        ],
+        "Basin)": [
+          39
+        ],
+        "developed": [
+          40
+        ],
+        "due": [
+          41
+        ],
+        "to": [
+          42,
+          52,
+          87,
+          94,
+          99,
+          110,
+          118,
+          161,
+          216,
+          227
+        ],
+        "loading.": [
+          45
+        ],
+        "Newly": [
+          46
+        ],
+        "available": [
+          47
+        ],
+        "seismic": [
+          48
+        ],
+        "reflection": [
+          49
+        ],
+        "data,": [
+          50
+        ],
+        "tied": [
+          51
+        ],
+        "wells": [
+          53
+        ],
+        "in": [
+          54,
+          72,
+          103,
+          129,
+          199,
+          238
+        ],
+        "Gulf": [
+          56,
+          74,
+          106,
+          125
+        ],
+        "Oman,": [
+          58
+        ],
+        "suggest": [
+          59
+        ],
+        "indirectly": [
+          60
+        ],
+        "that": [
+          61,
+          244
+        ],
+        "trailing": [
+          63
+        ],
+        "edge": [
+          64
+        ],
+        "Ophiolite": [
+          68
+        ],
+        "is": [
+          69,
+          79,
+          92,
+          237,
+          245
+        ],
+        "not": [
+          70
+        ],
+        "rooted": [
+          71
+        ],
+        "crust": [
+          77,
+          109
+        ],
+        "but": [
+          78
+        ],
+        "truncated": [
+          80,
+          206
+        ],
+        "by": [
+          81,
+          208
+        ],
+        "an": [
+          82,
+          209
+        ],
+        "ENE-dipping": [
+          83
+        ],
+        "extensional": [
+          84
+        ],
+        "fault": [
+          85,
+          91
+        ],
+        "parallel": [
+          86,
+          181
+        ],
+        "coastline.": [
+          89
+        ],
+        "This": [
+          90,
+          195
+        ],
+        "inferred": [
+          93,
+          231
+        ],
+        "separate": [
+          95
+        ],
+        "SW": [
+          101
+        ],
+        "from": [
+          102
+        ],
+        "situ": [
+          104,
+          239
+        ],
+        "NE.": [
+          112
+        ],
+        "It": [
+          113
+        ],
+        "forms": [
+          114
+        ],
+        "“hinterland”": [
+          120
+        ],
+        "formed": [
+          122
+        ],
+        "atop": [
+          123
+        ],
+        "crust,": [
+          128
+        ],
+        "which": [
+          130
+        ],
+        "km": [
+          132,
+          142
+        ],
+        "deep-water": [
+          136,
+          147
+        ],
+        "mudstones": [
+          137,
+          148
+        ],
+        "accumulated": [
+          138
+        ],
+        "together": [
+          139
+        ],
+        "with": [
+          140,
+          165,
+          185
+        ],
+        "Miocene": [
+          144
+        ],
+        "younger": [
+          146
+        ],
+        "sandstones.": [
+          150
+        ],
+        "Syndepositional": [
+          151
+        ],
+        "folding": [
+          152
+        ],
+        "included": [
+          153
+        ],
+        "Paleocene–Eocene": [
+          154
+        ],
+        "folds": [
+          155,
+          178
+        ],
+        "on": [
+          156
+        ],
+        "N-S": [
+          157
+        ],
+        "axes,": [
+          158
+        ],
+        "Paleocene": [
+          160
+        ],
+        "Oligocene": [
+          162
+        ],
+        "growth": [
+          163,
+          193
+        ],
+        "faults": [
+          164
+        ],
+        "roll-over": [
+          166
+        ],
+        "anticlines,": [
+          167
+        ],
+        "along": [
+          168
+        ],
+        "flank.": [
+          171
+        ],
+        "Pliocene": [
+          172,
+          196
+        ],
+        "compression": [
+          173,
+          197
+        ],
+        "formed,": [
+          174
+        ],
+        "or": [
+          175
+        ],
+        "tightened,": [
+          176
+        ],
+        "box": [
+          177
+        ],
+        "whose": [
+          179
+        ],
+        "axes": [
+          180
+        ],
+        "modern": [
+          183
+        ],
+        "coast": [
+          184
+        ],
+        "local": [
+          186
+        ],
+        "south-vergent": [
+          187
+        ],
+        "thrusts": [
+          188
+        ],
+        "reversal": [
+          190
+        ],
+        "faults.": [
+          194
+        ],
+        "resulted": [
+          198
+        ],
+        "large-scale": [
+          200
+        ],
+        "buckling": [
+          201
+        ],
+        "Cenozoic": [
+          204
+        ],
+        "section,": [
+          205
+        ],
+        "intra-Pliocene": [
+          210
+        ],
+        "unconformity.": [
+          211
+        ],
+        "spectacular": [
+          213
+        ],
+        "60-km-long,": [
+          214
+        ],
+        "Eocene(?)": [
+          215
+        ],
+        "Recent,": [
+          217
+        ],
+        "low-angle,": [
+          218
+        ],
+        "extensional,": [
+          219
+        ],
+        "gravitational": [
+          220
+        ],
+        "fault,": [
+          221
+        ],
+        "down-throws": [
+          222
+        ],
+        "upper": [
+          224
+        ],
+        "fill": [
+          226
+        ],
+        "north.": [
+          229
+        ],
+        "The": [
+          230
+        ],
+        "basement": [
+          232
+        ],
+        "hinterland": [
+          235
+        ],
+        "lithosphere": [
+          243
+        ],
+        "subducting": [
+          246
+        ],
+        "northwards": [
+          247
+        ],
+        "beneath": [
+          248
+        ],
+        "Makran": [
+          250
+        ],
+        "accretionary": [
+          251
+        ],
+        "prism.": [
+          252
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3195207218",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        }
+      ],
+      "updated_date": "2026-11-20T13:11:24.684918",
+      "created_date": "2021-08-30T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2311582321",
       "doi": "https://doi.org/10.1144/0040459",
       "title": "Late Jurassic plays along the western margin of the Central Graben",
@@ -31450,6 +31709,7 @@
         "https://openalex.org/W2311582321"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -31467,9 +31727,11 @@
           "author": {
             "id": null,
             "display_name": "L. L. WAKEFIELD",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210164678",
@@ -31507,11 +31769,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210164678",
@@ -31549,9 +31813,11 @@
           "author": {
             "id": "https://openalex.org/A5066496767",
             "display_name": "Melvyn R. Giles",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210164678",
@@ -31589,9 +31855,11 @@
           "author": {
             "id": null,
             "display_name": "R. JANSSEN",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210164678",
@@ -31634,13 +31902,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.3199,
+      "fwci": 6.508,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96130031,
+        "value": 0.96374622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32409,6 +32677,7 @@
         "https://openalex.org/W7213224513"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -32426,11 +32695,13 @@
           "author": {
             "id": "https://openalex.org/A5082190198",
             "display_name": "Georg Warrlich",
+            "type": null,
             "orcid": "https://orcid.org/0009-0009-0200-5968",
             "observed_orcids": [
               "https://orcid.org/0009-0009-0200-5968"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32445,9 +32716,11 @@
           "author": {
             "id": "https://openalex.org/A5051979229",
             "display_name": "Heiko Hillgärtner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32462,11 +32735,13 @@
           "author": {
             "id": "https://openalex.org/A5010939944",
             "display_name": "Niels Rameil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6711-3411",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6711-3411"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32481,9 +32756,11 @@
           "author": {
             "id": "https://openalex.org/A5044313765",
             "display_name": "James Gittins",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32498,9 +32775,11 @@
           "author": {
             "id": "https://openalex.org/A5061993931",
             "display_name": "Issa Mahruqi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32515,9 +32794,11 @@
           "author": {
             "id": null,
             "display_name": "Tim Johnson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32532,9 +32813,11 @@
           "author": {
             "id": null,
             "display_name": "David Alexander",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32549,9 +32832,11 @@
           "author": {
             "id": "https://openalex.org/A5011601198",
             "display_name": "Bart M. Wassing",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32566,9 +32851,11 @@
           "author": {
             "id": "https://openalex.org/A5074392881",
             "display_name": "Mia Van Steenwinkel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32583,11 +32870,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32605,13 +32894,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.5873,
+      "fwci": 5.1042,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9371345,
+        "value": 0.93284672,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -33424,6 +33713,7 @@
         "https://openalex.org/W2501674867"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -33439,11 +33729,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -33463,13 +33755,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3203,
+      "fwci": 0.309,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62015282,
+        "value": 0.6049105,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33784,6 +34076,7 @@
         "https://openalex.org/W2561614970"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33801,11 +34094,13 @@
           "author": {
             "id": "https://openalex.org/A5035885381",
             "display_name": "Peter W. Homewood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7278-9619",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7278-9619"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33827,11 +34122,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33846,9 +34143,11 @@
           "author": {
             "id": "https://openalex.org/A5052594218",
             "display_name": "Monique Mettraux",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33870,9 +34169,11 @@
           "author": {
             "id": "https://openalex.org/A5039636725",
             "display_name": "Joerg Mattner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33894,11 +34195,13 @@
           "author": {
             "id": "https://openalex.org/A5022836837",
             "display_name": "Brigitte Vlaswinkel",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-7699-109X",
             "observed_orcids": [
               "https://orcid.org/0009-0007-7699-109X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -33935,11 +34238,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33961,11 +34266,13 @@
           "author": {
             "id": "https://openalex.org/A5012524105",
             "display_name": "Andy Y. Kwarteng",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7929-458X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7929-458X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33990,13 +34297,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1316,
+      "fwci": 1.0944,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75499947,
+        "value": 0.7475442,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34724,6 +35031,7 @@
         "https://openalex.org/W4250163215"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -34741,11 +35049,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -35063,6 +35373,7 @@
         "https://openalex.org/W2971403499"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -35080,11 +35391,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -35532,6 +35845,7 @@
         "https://openalex.org/W2051588678"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -35549,11 +35863,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -35600,7 +35916,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.6215999722480774,
+        "score": 0.49149999022483826,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -35618,7 +35934,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.6215999722480774,
+          "score": 0.49149999022483826,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -35635,7 +35951,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.17090000212192535,
+          "score": 0.25609999895095825,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -35652,7 +35968,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.0869000032544136,
+          "score": 0.09629999846220016,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -35671,32 +35987,27 @@
         {
           "id": "https://openalex.org/keywords/natih-formation",
           "display_name": "Natih Formation",
-          "score": 0.9959999918937683
+          "score": 0.9990000128746033
         },
         {
           "id": "https://openalex.org/keywords/stratigraphy",
           "display_name": "stratigraphy",
-          "score": 0.8460000157356262
+          "score": 0.8159999847412109
         },
         {
           "id": "https://openalex.org/keywords/stratigraphic-framework",
           "display_name": "stratigraphic framework",
-          "score": 0.859000027179718
+          "score": 0.8790000081062317
         },
         {
           "id": "https://openalex.org/keywords/oman",
           "display_name": "Oman",
-          "score": 0.40400001406669617
+          "score": 0.42500001192092896
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphic-nomenclature",
-          "display_name": "stratigraphic nomenclature",
-          "score": 0.6420000195503235
-        },
-        {
-          "id": "https://openalex.org/keywords/lithostratigraphic-unit",
-          "display_name": "lithostratigraphic unit",
-          "score": 0.7360000014305115
+          "id": "https://openalex.org/keywords/stratigraphic-units",
+          "display_name": "stratigraphic units",
+          "score": 0.527999997138977
         }
       ],
       "concepts": [
@@ -35835,7 +36146,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -35903,6 +36214,7 @@
         "https://openalex.org/W4205966803"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -35920,9 +36232,11 @@
           "author": {
             "id": "https://openalex.org/A5083163044",
             "display_name": "Dick van Harten",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I887064364",
@@ -35959,11 +36273,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I887064364",
@@ -36295,9 +36611,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -36430,6 +36746,7 @@
         "https://openalex.org/W1774602195"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -36447,9 +36764,11 @@
           "author": {
             "id": "https://openalex.org/A5051035705",
             "display_name": "G. Konert",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -36486,9 +36805,11 @@
           "author": {
             "id": "https://openalex.org/A5057927186",
             "display_name": "S. A. Al-Hajri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -36525,9 +36846,11 @@
           "author": {
             "id": "https://openalex.org/A5041599397",
             "display_name": "A. A. Al Naim",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -36564,9 +36887,11 @@
           "author": {
             "id": "https://openalex.org/A5024321135",
             "display_name": "A. M. Afifi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -36603,9 +36928,11 @@
           "author": {
             "id": "https://openalex.org/A5088563088",
             "display_name": "K. de Groot",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -36642,11 +36969,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210114766",
@@ -36686,13 +37015,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9432,
+      "fwci": 0.9369,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72440945,
+        "value": 0.72207792,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36713,7 +37042,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "score": 0.5541999936103821,
+        "score": 0.9272000193595886,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -36731,7 +37060,24 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.5541999936103821,
+          "score": 0.9272000193595886,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.031700000166893005,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -36748,27 +37094,10 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.3334999978542328,
+          "score": 0.02199999988079071,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.08429999649524689,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -36784,32 +37113,32 @@
         {
           "id": "https://openalex.org/keywords/paleozoic-stratigraphy",
           "display_name": "Paleozoic stratigraphy",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-habitat",
-          "display_name": "hydrocarbon habitat",
-          "score": 0.8360000252723694
+          "score": 0.9860000014305115
         },
         {
           "id": "https://openalex.org/keywords/arabian-plate",
           "display_name": "Arabian Plate",
-          "score": 0.9750000238418579
+          "score": 0.7609999775886536
         },
         {
-          "id": "https://openalex.org/keywords/petroleum-geology",
-          "display_name": "petroleum geology",
-          "score": 0.5839999914169312
+          "id": "https://openalex.org/keywords/hydrocarbon-habitat",
+          "display_name": "hydrocarbon habitat",
+          "score": 0.4410000145435333
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-basins",
-          "display_name": "sedimentary basins",
-          "score": 0.6439999938011169
+          "id": "https://openalex.org/keywords/variscan-orogeny",
+          "display_name": "Variscan orogeny",
+          "score": 0.9430000185966492
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphic-correlation",
-          "display_name": "stratigraphic correlation",
-          "score": 0.4429999887943268
+          "id": "https://openalex.org/keywords/salt-basins",
+          "display_name": "salt basins",
+          "score": 0.7559999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-expulsion",
+          "display_name": "hydrocarbon expulsion",
+          "score": 0.6110000014305115
         }
       ],
       "concepts": [
@@ -37781,7 +38110,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -37817,6 +38146,7 @@
         "https://openalex.org/W1888245519"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -37832,11 +38162,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -38387,6 +38719,7 @@
         "https://openalex.org/W7213224513"
       ],
       "child_works_count": 11,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -38404,9 +38737,11 @@
           "author": {
             "id": "https://openalex.org/A5108291309",
             "display_name": "Frans S.P. van Buchem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38421,11 +38756,13 @@
           "author": {
             "id": "https://openalex.org/A5081811780",
             "display_name": "Moujahed I. Al-Husseini",
+            "type": null,
             "orcid": "https://orcid.org/0009-0002-1087-5882",
             "observed_orcids": [
               "https://orcid.org/0009-0002-1087-5882"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38440,9 +38777,11 @@
           "author": {
             "id": "https://openalex.org/A5110956932",
             "display_name": "Florian Maurer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38457,11 +38796,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38768,6 +39109,7 @@
         "https://openalex.org/W2294145311"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -38783,11 +39125,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -39955,6 +40299,7 @@
         "https://openalex.org/W1980028455"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -39972,11 +40317,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -40020,13 +40367,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6136,
+      "fwci": 0.6231,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66837519,
+        "value": 0.67383692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40366,6 +40713,7 @@
         "https://openalex.org/W1989012109"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -40383,9 +40731,11 @@
           "author": {
             "id": "https://openalex.org/A5029031784",
             "display_name": "Bernard J. Pierson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40400,12 +40750,14 @@
           "author": {
             "id": "https://openalex.org/A5108167128",
             "display_name": "Gregor P. Eberli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2886-7680",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2886-7680",
               "https://orcid.org/0000-0001-5653-6929"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40420,9 +40772,11 @@
           "author": {
             "id": "https://openalex.org/A5073905170",
             "display_name": "Khalil Al‐Mehsin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40437,9 +40791,11 @@
           "author": {
             "id": "https://openalex.org/A5065051587",
             "display_name": "Saeed Al-Menhali",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40454,11 +40810,13 @@
           "author": {
             "id": "https://openalex.org/A5082190198",
             "display_name": "Georg Warrlich",
+            "type": null,
             "orcid": "https://orcid.org/0009-0009-0200-5968",
             "observed_orcids": [
               "https://orcid.org/0009-0009-0200-5968"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40473,9 +40831,11 @@
           "author": {
             "id": "https://openalex.org/A5110956932",
             "display_name": "Florian Maurer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40490,11 +40850,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40509,9 +40871,11 @@
           "author": {
             "id": null,
             "display_name": "J. Whitworth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40526,9 +40890,11 @@
           "author": {
             "id": "https://openalex.org/A5042016942",
             "display_name": "Donna Drysdale",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40546,13 +40912,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8309,
+      "fwci": 2.9441,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80680062,
+        "value": 0.81844106,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41664,6 +42030,7 @@
         "https://openalex.org/W2000395061"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -41681,11 +42048,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41700,9 +42069,11 @@
           "author": {
             "id": "https://openalex.org/A5029031784",
             "display_name": "Bernard J. Pierson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42829,6 +43200,7 @@
         "https://openalex.org/W2050079505"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -42846,11 +43218,13 @@
           "author": {
             "id": "https://openalex.org/A5041843348",
             "display_name": "Bruce Levell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7414-1565",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7414-1565"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42865,11 +43239,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -42884,11 +43260,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43167,6 +43545,7 @@
         "https://openalex.org/W2075049925"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -43184,9 +43563,11 @@
           "author": {
             "id": null,
             "display_name": "C. Harvey",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43201,9 +43582,11 @@
           "author": {
             "id": "https://openalex.org/A5038665486",
             "display_name": "Abdulhameed Azzouni",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43218,11 +43601,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43237,9 +43622,11 @@
           "author": {
             "id": "https://openalex.org/A5042036971",
             "display_name": "Andrew Weedon",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43792,7 +44179,7 @@
       "display_name": "New Vision of the Shuaiba at a Regional Scale",
       "alternate_titles": [],
       "publication_year": 2005,
-      "publication_date": "2005-01-01",
+      "publication_date": "2005-11-21",
       "ids": {
         "openalex": "https://openalex.org/W2314467085",
         "doi": "https://doi.org/10.2523/iptc-10659-abstract",
@@ -43833,6 +44220,7 @@
         "https://openalex.org/W2314467085"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -43850,9 +44238,11 @@
           "author": {
             "id": "https://openalex.org/A5073905170",
             "display_name": "Khalil Al‐Mehsin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97699614",
@@ -43889,9 +44279,11 @@
           "author": {
             "id": "https://openalex.org/A5029853672",
             "display_name": "Brittany Davis Pierson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97699614",
@@ -43928,9 +44320,11 @@
           "author": {
             "id": "https://openalex.org/A5032480435",
             "display_name": "D.D Drysdale",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -43967,11 +44361,13 @@
           "author": {
             "id": "https://openalex.org/A5082190198",
             "display_name": "Georg Warrlich",
+            "type": null,
             "orcid": "https://orcid.org/0009-0009-0200-5968",
             "observed_orcids": [
               "https://orcid.org/0009-0009-0200-5968"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I7923278",
@@ -44008,12 +44404,14 @@
           "author": {
             "id": "https://openalex.org/A5108167128",
             "display_name": "Gregor P. Eberli",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2886-7680",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2886-7680",
               "https://orcid.org/0000-0001-5653-6929"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145608581",
@@ -44050,11 +44448,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45165,7 +45565,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2314467085",
       "counts_by_year": [],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -45220,6 +45620,7 @@
         "https://openalex.org/W3021112486"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -45237,9 +45638,11 @@
           "author": {
             "id": null,
             "display_name": "Michael Moir",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45254,11 +45657,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45273,9 +45678,11 @@
           "author": {
             "id": "https://openalex.org/A5113901896",
             "display_name": "Craig Harvey",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45290,9 +45697,11 @@
           "author": {
             "id": "https://openalex.org/A5042036971",
             "display_name": "Andrew Weedon",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45733,6 +46142,7 @@
         "https://openalex.org/W3021305831"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -45750,11 +46160,13 @@
           "author": {
             "id": "https://openalex.org/A5052547610",
             "display_name": "Carine Grélaud",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4544-9728",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4544-9728"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45769,12 +46181,14 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45789,11 +46203,13 @@
           "author": {
             "id": "https://openalex.org/A5035885381",
             "display_name": "Peter W. Homewood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7278-9619",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7278-9619"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45808,11 +46224,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45827,9 +46245,11 @@
           "author": {
             "id": "https://openalex.org/A5097977065",
             "display_name": "Anne Schwab and Volker Vahrenkamp",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -46774,6 +47194,7 @@
         "https://openalex.org/W3021649335"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -46791,9 +47212,11 @@
           "author": {
             "id": "https://openalex.org/A5113901896",
             "display_name": "Craig Harvey",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -46808,9 +47231,11 @@
           "author": {
             "id": "https://openalex.org/A5038665486",
             "display_name": "Abdulhameed Azzouni",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -46825,11 +47250,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -47284,6 +47711,7 @@
         "https://openalex.org/W3022053293"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -47301,11 +47729,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -47692,9 +48122,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -48365,6 +48795,7 @@
         "https://openalex.org/W3023468955"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -48382,11 +48813,13 @@
           "author": {
             "id": "https://openalex.org/A5022836837",
             "display_name": "Brigitte Vlaswinkel",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-7699-109X",
             "observed_orcids": [
               "https://orcid.org/0009-0007-7699-109X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -48401,11 +48834,13 @@
           "author": {
             "id": "https://openalex.org/A5035885381",
             "display_name": "Peter W. Homewood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7278-9619",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7278-9619"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -48420,11 +48855,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -48439,9 +48876,11 @@
           "author": {
             "id": "https://openalex.org/A5056710711",
             "display_name": "Erwin W. Adams",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -48456,11 +48895,13 @@
           "author": {
             "id": "https://openalex.org/A5078355178",
             "display_name": "Cathy Hollis",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3980-2583",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3980-2583"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -49430,6 +49871,7 @@
         "https://openalex.org/W4392599299"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -49448,11 +49890,13 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-1422-1783",
             "observed_orcids": [
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -49489,11 +49933,13 @@
           "author": {
             "id": "https://openalex.org/A5041843348",
             "display_name": "Bruce Levell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7414-1565",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7414-1565"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -49530,11 +49976,13 @@
           "author": {
             "id": "https://openalex.org/A5060286659",
             "display_name": "M. P. Searle",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6904-6398",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6904-6398"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",

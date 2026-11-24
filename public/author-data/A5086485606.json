@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0001-8629-983X"
     ],
     "display_name": "Rainer Zühlke",
+    "type": null,
     "raw_author_names": [
       "R. Zuehlke",
       "R. Zuhlke",
@@ -21,9 +22,9 @@
     ],
     "full_name": "ZÜHLKE, RAINER",
     "works_count": 53,
-    "cited_by_count": 1186,
+    "cited_by_count": 1198,
     "summary_stats": {
-      "2yr_mean_citedness": 7.666666666666667,
+      "2yr_mean_citedness": 7.833333333333333,
       "h_index": 17,
       "i10_index": 20
     },
@@ -183,7 +184,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000968,
+        "value": 0.0000969,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -423,31 +424,31 @@
         "year": 2021,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 57
+        "cited_by_count": 58
       },
       {
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 47
+        "cited_by_count": 49
       },
       {
         "year": 2023,
         "works_count": 4,
         "oa_works_count": 3,
-        "cited_by_count": 47
+        "cited_by_count": 48
       },
       {
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 69
+        "cited_by_count": 75
       },
       {
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 78
+        "cited_by_count": 79
       },
       {
         "year": 2026,
@@ -473,7 +474,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5086485606",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -540,6 +541,7 @@
         "https://openalex.org/W2056353799"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -557,9 +559,11 @@
           "author": {
             "id": "https://openalex.org/A5040308188",
             "display_name": "Jorham Contreras",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -596,11 +600,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -637,9 +643,11 @@
           "author": {
             "id": "https://openalex.org/A5111444059",
             "display_name": "Scott A. Bowman",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -661,11 +669,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I126596746",
@@ -731,13 +741,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 8.1041,
+      "fwci": 7.8991,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 187,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97943229,
+        "value": 0.97885254,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1383,6 +1393,7 @@
         "https://openalex.org/W2008659547"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1400,9 +1411,11 @@
           "author": {
             "id": "https://openalex.org/A5067677570",
             "display_name": "Baba Senowbari‐Daryan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I181369854",
@@ -1446,11 +1459,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -1494,11 +1509,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -1542,9 +1559,11 @@
           "author": {
             "id": "https://openalex.org/A5108807912",
             "display_name": "Erik Flügel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I181369854",
@@ -1595,13 +1614,13 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 1.948,
+      "fwci": 1.9289,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 151,
+      "cited_by_count": 152,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.835115,
+        "value": 0.83377135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1622,7 +1641,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9839000105857849,
+        "score": 0.9829000234603882,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -1640,7 +1659,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9839000105857849,
+          "score": 0.9829000234603882,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -1657,7 +1676,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.010900000110268593,
+          "score": 0.011599999852478504,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -1674,7 +1693,7 @@
         {
           "id": "https://openalex.org/T10955",
           "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.0019000000320374966,
+          "score": 0.0017999999690800905,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -2002,7 +2021,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2047,6 +2066,7 @@
         "https://openalex.org/W2214509940"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -2064,11 +2084,13 @@
           "author": {
             "id": "https://openalex.org/A5049820965",
             "display_name": "Magdalena Scheck‐Wenderoth",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0426-8269",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0426-8269"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2083,11 +2105,13 @@
           "author": {
             "id": "https://openalex.org/A5034083158",
             "display_name": "Piotr Krzywiec",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0081-2191",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0081-2191"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2102,11 +2126,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2121,11 +2147,13 @@
           "author": {
             "id": "https://openalex.org/A5053021222",
             "display_name": "Yuriy Petrovich Maystrenko",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6447-9271",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6447-9271"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2140,11 +2168,13 @@
           "author": {
             "id": "https://openalex.org/A5067003261",
             "display_name": "Nikolaus Froitzheim",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6955-6029",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6955-6029"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2162,13 +2192,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 13.5086,
+      "fwci": 14.6931,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 97,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99488055,
+        "value": 0.99479167,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2189,7 +2219,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "score": 0.7085000276565552,
+        "score": 0.44510000944137573,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -2207,7 +2237,7 @@
         {
           "id": "https://openalex.org/T12821",
           "display_name": "Geological Formations and Processes Exploration",
-          "score": 0.7085000276565552,
+          "score": 0.44510000944137573,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -2222,12 +2252,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.24289999902248383,
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.3910999894142151,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -2241,7 +2271,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.027000000700354576,
+          "score": 0.08169999718666077,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -2260,57 +2290,52 @@
         {
           "id": "https://openalex.org/keywords/permian-tectonics",
           "display_name": "Permian tectonics",
-          "score": 0.9739999771118164
+          "score": 0.8679999709129333
         },
         {
           "id": "https://openalex.org/keywords/cretaceous-tectonics",
           "display_name": "Cretaceous tectonics",
-          "score": 0.9980000257492065
+          "score": 0.9819999933242798
         },
         {
-          "id": "https://openalex.org/keywords/pangaea",
-          "display_name": "Pangea",
-          "score": 0.5600000023841858
+          "id": "https://openalex.org/keywords/central-europe",
+          "display_name": "Central Europe",
+          "score": 0.7319999933242798
         },
         {
           "id": "https://openalex.org/keywords/variscan-orogeny",
           "display_name": "Variscan orogeny",
-          "score": 0.8029999732971191
+          "score": 0.8569999933242798
         },
         {
-          "id": "https://openalex.org/keywords/caledonian-orogeny",
-          "display_name": "Caledonian orogeny",
-          "score": 0.9509999752044678
+          "id": "https://openalex.org/keywords/rifting",
+          "display_name": "rifting",
+          "score": 0.656000018119812
         },
         {
-          "id": "https://openalex.org/keywords/cadomian-orogeny",
-          "display_name": "Cadomian orogeny",
-          "score": 0.9739999771118164
+          "id": "https://openalex.org/keywords/pangaea-breakup",
+          "display_name": "Pangaea breakup",
+          "score": 0.671999990940094
         },
         {
-          "id": "https://openalex.org/keywords/mesozoic-evolution",
-          "display_name": "Mesozoic evolution",
-          "score": 0.675000011920929
+          "id": "https://openalex.org/keywords/tethys-ocean",
+          "display_name": "Tethys",
+          "score": 0.753000020980835
         },
         {
-          "id": "https://openalex.org/keywords/alpine-orogeny",
-          "display_name": "Alpine orogeny",
-          "score": 0.6679999828338623
+          "id": "https://openalex.org/keywords/north-atlantic",
+          "display_name": "North Atlantic",
+          "score": 0.6079999804496765
         },
         {
-          "id": "https://openalex.org/keywords/microcontinents",
-          "display_name": "microcontinents",
+          "id": "https://openalex.org/keywords/subsidence",
+          "display_name": "subsidence",
           "score": 0.7059999704360962
         },
         {
-          "id": "https://openalex.org/keywords/gondwana-breakup",
-          "display_name": "Gondwana breakup",
-          "score": 0.7110000252723694
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "stratigraphy",
-          "score": 0.42500001192092896
+          "id": "https://openalex.org/keywords/mesozoic-tectonic-evolution",
+          "display_name": "Mesozoic tectonic evolution",
+          "score": 0.7229999899864197
         }
       ],
       "concepts": [
@@ -3375,7 +3400,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2020-12-21T00:00:00"
     },
     {
@@ -3441,6 +3466,7 @@
         "https://openalex.org/W2078052519"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3458,11 +3484,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -3499,9 +3527,11 @@
           "author": {
             "id": "https://openalex.org/A5074930750",
             "display_name": "Mohammed-Saïd Bouaouda",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210125507",
@@ -3538,9 +3568,11 @@
           "author": {
             "id": "https://openalex.org/A5060940235",
             "display_name": "Brahim Ouajhain",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210125507",
@@ -3577,11 +3609,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -3618,11 +3652,13 @@
           "author": {
             "id": "https://openalex.org/A5043465473",
             "display_name": "Reinhold Leinfelder",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4107-2161",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4107-2161"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I8204097",
@@ -4322,6 +4358,7 @@
         "https://openalex.org/W4387747437"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4339,11 +4376,13 @@
           "author": {
             "id": "https://openalex.org/A5030077657",
             "display_name": "Yuri Panara",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4829-850X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4829-850X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -4380,11 +4419,13 @@
           "author": {
             "id": "https://openalex.org/A5064747506",
             "display_name": "Viswasanthi Chandra",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2784-1160",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2784-1160"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -4421,11 +4462,13 @@
           "author": {
             "id": "https://openalex.org/A5061306034",
             "display_name": "Thomas Finkbeiner",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6137-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6137-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -4462,11 +4505,13 @@
           "author": {
             "id": "https://openalex.org/A5078667376",
             "display_name": "Alexander Petrovic",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0804-3665",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0804-3665"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -4503,11 +4548,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4544,11 +4591,13 @@
           "author": {
             "id": "https://openalex.org/A5016147794",
             "display_name": "Pankaj Khanna",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7165-3082",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7165-3082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I27674431",
@@ -4603,11 +4652,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -4659,13 +4710,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 4.0137,
+      "fwci": 4.1389,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 31,
+      "cited_by_count": 32,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94879379,
+        "value": 0.95170244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5557,7 +5608,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -5572,7 +5623,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2023-10-19T00:00:00"
     },
     {
@@ -5630,6 +5681,7 @@
         "https://openalex.org/W7202164125"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -5647,11 +5699,13 @@
           "author": {
             "id": "https://openalex.org/A5059980662",
             "display_name": "Arnoud Slootman",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8719-3041",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8719-3041"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -5688,11 +5742,13 @@
           "author": {
             "id": "https://openalex.org/A5082631348",
             "display_name": "Max de Kruijf",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0357-3125",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0357-3125"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5714,11 +5770,13 @@
           "author": {
             "id": "https://openalex.org/A5030457016",
             "display_name": "Guenther Glatz",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8783-3096",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8783-3096"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -5755,11 +5813,13 @@
           "author": {
             "id": "https://openalex.org/A5033469688",
             "display_name": "Joris T. Eggenhuisen",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7389-9665",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7389-9665"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I193662353",
@@ -5796,11 +5856,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5837,11 +5899,13 @@
           "author": {
             "id": "https://openalex.org/A5079698878",
             "display_name": "John J. G. Reijmer",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5807-1256",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5807-1256"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -5921,13 +5985,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 23.3798,
+      "fwci": 23.5386,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 28,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99701789,
+        "value": 0.99703557,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5948,7 +6012,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.9990000128746033,
+        "score": 0.9994999766349792,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -5966,7 +6030,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9990000128746033,
+          "score": 0.9994999766349792,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -6019,47 +6083,52 @@
         {
           "id": "https://openalex.org/keywords/settling-velocity",
           "display_name": "settling velocity",
-          "score": 0.8119999766349792
+          "score": 0.7889999747276306
         },
         {
           "id": "https://openalex.org/keywords/particle-shape",
           "display_name": "particle shape",
-          "score": 0.8360000252723694
+          "score": 0.8460000157356262
         },
         {
           "id": "https://openalex.org/keywords/calciturbidites",
           "display_name": "calciturbidites",
-          "score": 0.9860000014305115
+          "score": 0.9879999756813049
         },
         {
           "id": "https://openalex.org/keywords/turbidity-currents",
           "display_name": "turbidity currents",
-          "score": 0.890999972820282
+          "score": 0.8539999723434448
         },
         {
           "id": "https://openalex.org/keywords/grain-sorting",
           "display_name": "grain sorting",
-          "score": 0.8799999952316284
+          "score": 0.8939999938011169
         },
         {
           "id": "https://openalex.org/keywords/differential-settling",
           "display_name": "differential settling",
-          "score": 0.7009999752044678
+          "score": 0.7549999952316284
         },
         {
           "id": "https://openalex.org/keywords/grain-size",
           "display_name": "grain size",
-          "score": 0.38999998569488525
+          "score": 0.47699999809265137
         },
         {
           "id": "https://openalex.org/keywords/primary-porosity",
           "display_name": "primary porosity",
-          "score": 0.7770000100135803
+          "score": 0.847000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-turbidites",
+          "display_name": "carbonate turbidites",
+          "score": 0.6100000143051147
         },
         {
           "id": "https://openalex.org/keywords/micro-computed-tomography",
           "display_name": "micro-computed tomography",
-          "score": 0.625
+          "score": 0.6990000009536743
         }
       ],
       "concepts": [
@@ -7302,7 +7371,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2023-05-10T00:00:00"
     },
     {
@@ -7365,6 +7434,7 @@
         "https://openalex.org/W4376879793"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7382,11 +7452,13 @@
           "author": {
             "id": "https://openalex.org/A5028588934",
             "display_name": "Xin Liu",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4420-0912",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4420-0912"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -7423,11 +7495,13 @@
           "author": {
             "id": "https://openalex.org/A5064747506",
             "display_name": "Viswasanthi Chandra",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2784-1160",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2784-1160"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -7464,11 +7538,13 @@
           "author": {
             "id": "https://openalex.org/A5027711423",
             "display_name": "Ahmad Ramdani",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7443-7278",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7443-7278"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -7505,11 +7581,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7546,11 +7624,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -7598,13 +7678,13 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 2.9609,
+      "fwci": 2.9104,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91826398,
+        "value": 0.91645039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7931,7 +8011,7 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "",
+          "raw_source_name": null,
           "raw_type": "Preprint"
         },
         {
@@ -7962,7 +8042,7 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "",
+          "raw_source_name": null,
           "raw_type": "Article"
         }
       ],
@@ -8099,7 +8179,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2023-05-18T00:00:00"
     },
     {
@@ -8164,6 +8244,7 @@
         "https://openalex.org/W4400487005"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8173,7 +8254,7 @@
         "is_oa": true,
         "oa_status": "hybrid",
         "oa_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
-        "any_repository_has_fulltext": false
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -8181,11 +8262,13 @@
           "author": {
             "id": "https://openalex.org/A5030077657",
             "display_name": "Yuri Panara",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4829-850X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4829-850X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -8222,11 +8305,13 @@
           "author": {
             "id": "https://openalex.org/A5050985839",
             "display_name": "Niccolò Menegoni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2857-4930",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2857-4930"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -8263,11 +8348,13 @@
           "author": {
             "id": "https://openalex.org/A5061306034",
             "display_name": "Thomas Finkbeiner",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6137-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6137-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -8304,11 +8391,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8345,11 +8434,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -8401,13 +8492,13 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 3.7541,
+      "fwci": 3.9417,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 19,
+      "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93648528,
+        "value": 0.94252771,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8628,7 +8719,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2024.106998",
@@ -8673,6 +8764,37 @@
           "is_published": true,
           "raw_source_name": "Marine and Petroleum Geology",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:repository.kaust.edu.sa:10754/699196",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401596",
+            "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I71920554",
+            "host_organization_name": "King Abdullah University of Science and Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I71920554"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
         }
       ],
       "best_oa_location": {
@@ -9459,14 +9581,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2025,
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-07-11T00:00:00"
     },
     {
@@ -9534,6 +9656,7 @@
         "https://openalex.org/W2073591847"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9551,11 +9674,13 @@
           "author": {
             "id": "https://openalex.org/A5039182122",
             "display_name": "Sven Egenhoff",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3072-286X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3072-286X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -9599,9 +9724,11 @@
           "author": {
             "id": "https://openalex.org/A5111831209",
             "display_name": "Arndt Peterhänsel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -9645,11 +9772,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -9693,11 +9822,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -9741,9 +9872,11 @@
           "author": {
             "id": "https://openalex.org/A5021795934",
             "display_name": "Jürgen Grötsch",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -10781,6 +10914,7 @@
         "https://openalex.org/W2037741551"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10798,11 +10932,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -10839,11 +10975,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -10880,11 +11018,13 @@
           "author": {
             "id": "https://openalex.org/A5042881068",
             "display_name": "Roland Mundil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9349-6281",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9349-6281"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1325733142",
@@ -11759,6 +11899,7 @@
         "https://openalex.org/W2076390156"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11776,11 +11917,13 @@
           "author": {
             "id": "https://openalex.org/A5042881068",
             "display_name": "Roland Mundil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9349-6281",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9349-6281"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1325733142",
@@ -11817,11 +11960,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -11858,11 +12003,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -11899,9 +12046,11 @@
           "author": {
             "id": "https://openalex.org/A5111831209",
             "display_name": "Arndt Peterhänsel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -11938,11 +12087,13 @@
           "author": {
             "id": "https://openalex.org/A5039182122",
             "display_name": "Sven Egenhoff",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3072-286X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3072-286X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -11979,9 +12130,11 @@
           "author": {
             "id": "https://openalex.org/A5036434069",
             "display_name": "Felix Oberli",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I35440088",
@@ -12026,11 +12179,13 @@
           "author": {
             "id": "https://openalex.org/A5103234532",
             "display_name": "Martin Meier",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4142-0082",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4142-0082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I35440088",
@@ -12075,9 +12230,11 @@
           "author": {
             "id": "https://openalex.org/A5078991363",
             "display_name": "Peter Brack",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I35440088",
@@ -12122,9 +12279,11 @@
           "author": {
             "id": "https://openalex.org/A5037027654",
             "display_name": "Hans Rieber",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I202697423",
@@ -13164,6 +13323,7 @@
         "https://openalex.org/W1488397535"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -13181,11 +13341,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -13229,13 +13391,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6273,
+      "fwci": 0.6157,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62288136,
+        "value": 0.61814346,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14678,6 +14840,7 @@
         "https://openalex.org/W2142600636"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14695,9 +14858,11 @@
           "author": {
             "id": "https://openalex.org/A5078153906",
             "display_name": "A. Wenke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14712,11 +14877,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14731,9 +14898,11 @@
           "author": {
             "id": "https://openalex.org/A5088523314",
             "display_name": "Haddou Jabour",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14748,9 +14917,11 @@
           "author": {
             "id": "https://openalex.org/A5008071032",
             "display_name": "Oliver Kluth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14768,13 +14939,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6885,
+      "fwci": 1.6549,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 28,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80993897,
+        "value": 0.80654023,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15300,6 +15471,7 @@
         "https://openalex.org/W598551091"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -15317,9 +15489,11 @@
           "author": {
             "id": "https://openalex.org/A5004751380",
             "display_name": "Thomas Rüffer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -15334,11 +15508,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -15897,6 +16073,7 @@
         "https://openalex.org/W1994728886"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15914,9 +16091,11 @@
           "author": {
             "id": "https://openalex.org/A5029804707",
             "display_name": "Michael Seeling",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -15953,9 +16132,11 @@
           "author": {
             "id": "https://openalex.org/A5046539808",
             "display_name": "Axel Emmerich",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -15992,11 +16173,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -16033,11 +16216,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -16085,13 +16270,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.1497,
+      "fwci": 2.0842,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 36,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84360636,
+        "value": 0.838643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16640,6 +16825,7 @@
         "https://openalex.org/W1964921771"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16657,9 +16843,11 @@
           "author": {
             "id": "https://openalex.org/A5046539808",
             "display_name": "Axel Emmerich",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -16696,11 +16884,13 @@
           "author": {
             "id": "https://openalex.org/A5030314856",
             "display_name": "Ulrich A. Glasmacher",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1208-2838",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1208-2838"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210156266",
@@ -16738,9 +16928,11 @@
           "author": {
             "id": "https://openalex.org/A5111518644",
             "display_name": "Friederike U. Bauer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -16777,11 +16969,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -16818,11 +17012,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -16870,13 +17066,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.2475,
+      "fwci": 2.1982,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85629905,
+        "value": 0.85295575,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17420,6 +17616,7 @@
         "https://openalex.org/W2518333663"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17437,11 +17634,13 @@
           "author": {
             "id": "https://openalex.org/A5038985275",
             "display_name": "Victoria F. Sachse",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1273-1965",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1273-1965"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I887968799",
@@ -17478,9 +17677,11 @@
           "author": {
             "id": "https://openalex.org/A5078153906",
             "display_name": "A. Wenke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -17517,11 +17718,13 @@
           "author": {
             "id": "https://openalex.org/A5047072062",
             "display_name": "Ralf Littke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0421-8720",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0421-8720"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I887968799",
@@ -17558,9 +17761,11 @@
           "author": {
             "id": "https://openalex.org/A5088523314",
             "display_name": "Haddou Jabour",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -17582,9 +17787,11 @@
           "author": {
             "id": "https://openalex.org/A5008071032",
             "display_name": "Oliver Kluth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210120481",
@@ -17621,11 +17828,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -17658,13 +17867,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.2574,
+      "fwci": 1.2378,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78790497,
+        "value": 0.78475763,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18165,6 +18374,7 @@
         "https://openalex.org/W2757732133"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18182,11 +18392,13 @@
           "author": {
             "id": "https://openalex.org/A5005324517",
             "display_name": "Carl Jacquemyn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8627-7144",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8627-7144"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -18223,11 +18435,13 @@
           "author": {
             "id": "https://openalex.org/A5019080744",
             "display_name": "Matthew D. Jackson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8276-3575",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8276-3575"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -18264,11 +18478,13 @@
           "author": {
             "id": "https://openalex.org/A5075368069",
             "display_name": "Gary J. Hampson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2047-8469",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2047-8469"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -18305,11 +18521,13 @@
           "author": {
             "id": "https://openalex.org/A5081422106",
             "display_name": "Cédric M. John",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9711-1548",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9711-1548"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -18346,11 +18564,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18387,11 +18607,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18428,9 +18650,11 @@
           "author": {
             "id": "https://openalex.org/A5039403239",
             "display_name": "AbdulJaleel AbuBshait",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18467,9 +18691,11 @@
           "author": {
             "id": "https://openalex.org/A5086882344",
             "display_name": "Robert F. Lindsay",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18506,9 +18732,11 @@
           "author": {
             "id": "https://openalex.org/A5000104738",
             "display_name": "Ronald Monsen",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18556,13 +18784,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 0.6018,
+      "fwci": 0.5925,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62863575,
+        "value": 0.62276482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19790,6 +20018,7 @@
         "https://openalex.org/W3210145828"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19807,11 +20036,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -19848,11 +20079,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -19898,13 +20131,13 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.1844,
+      "fwci": 1.1669,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70996539,
+        "value": 0.70557298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20926,6 +21159,7 @@
         "https://openalex.org/W4386964722"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20943,11 +21177,13 @@
           "author": {
             "id": "https://openalex.org/A5084753403",
             "display_name": "Peng Lü",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9159-370X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9159-370X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -20984,6 +21220,7 @@
           "author": {
             "id": "https://openalex.org/A5100450362",
             "display_name": "Shuo Zhang",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2170-4299",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2170-4299",
@@ -20992,6 +21229,7 @@
               "https://orcid.org/0009-0004-3454-1806"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I99065089",
@@ -21028,11 +21266,13 @@
           "author": {
             "id": "https://openalex.org/A5019503886",
             "display_name": "Guanru Zhang",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5288-6921",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5288-6921"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I31595395",
@@ -21069,11 +21309,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21454,9 +21696,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 1,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21646,6 +21888,7 @@
         "https://openalex.org/W2742221252"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21663,11 +21906,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21704,11 +21949,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21745,9 +21992,11 @@
           "author": {
             "id": "https://openalex.org/A5026497777",
             "display_name": "Shaun Hayton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21795,13 +22044,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.003,
+      "fwci": 0.9876,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71022062,
+        "value": 0.70572751,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22708,6 +22957,7 @@
         "https://openalex.org/W1527927531"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -22725,9 +22975,11 @@
           "author": {
             "id": "https://openalex.org/A5046539808",
             "display_name": "Axel Emmerich",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -22795,9 +23047,11 @@
           "author": {
             "id": "https://openalex.org/A5020145003",
             "display_name": "Robert Tscherny",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I887968799",
@@ -22846,11 +23100,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -22894,9 +23150,11 @@
           "author": {
             "id": "https://openalex.org/A5079255679",
             "display_name": "Carsten Büker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210150951",
@@ -22959,11 +23217,13 @@
           "author": {
             "id": "https://openalex.org/A5030314856",
             "display_name": "Ulrich A. Glasmacher",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1208-2838",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1208-2838"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -23007,11 +23267,13 @@
           "author": {
             "id": "https://openalex.org/A5047072062",
             "display_name": "Ralf Littke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0421-8720",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0421-8720"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I887968799",
@@ -23055,11 +23317,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -23527,6 +23791,7 @@
         "https://openalex.org/W2785371066"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -23542,9 +23807,11 @@
           "author": {
             "id": "https://openalex.org/A5052322577",
             "display_name": "Rajesh Goteti",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I62856769",
@@ -23582,9 +23849,11 @@
           "author": {
             "id": "https://openalex.org/A5110469285",
             "display_name": "Susan M. Agar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I62856769",
@@ -23622,9 +23891,11 @@
           "author": {
             "id": "https://openalex.org/A5049912122",
             "display_name": "John Paul Brown",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23646,9 +23917,11 @@
           "author": {
             "id": "https://openalex.org/A5023928880",
             "display_name": "H. J. Sibon",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23670,11 +23943,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -24027,6 +24302,7 @@
         "https://openalex.org/W4399186169"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -24044,11 +24320,13 @@
           "author": {
             "id": "https://openalex.org/A5030077657",
             "display_name": "Yuri Panara",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4829-850X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4829-850X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -24085,11 +24363,13 @@
           "author": {
             "id": "https://openalex.org/A5050985839",
             "display_name": "Niccolò Menegoni",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2857-4930",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2857-4930"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -24126,11 +24406,13 @@
           "author": {
             "id": "https://openalex.org/A5061306034",
             "display_name": "Thomas Finkbeiner",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6137-6162",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6137-6162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -24167,11 +24449,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -24208,11 +24492,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -24252,13 +24538,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0776,
+      "fwci": 1.0746,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63705166,
+        "value": 0.63627386,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24503,7 +24789,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.3997/2214-4609.202410360",
@@ -24533,6 +24819,37 @@
           "is_published": true,
           "raw_source_name": "85th EAGE Annual Conference &amp; Exhibition",
           "raw_type": "proceedings-article"
+        },
+        {
+          "id": "pmh:oai:repository.kaust.edu.sa:10754/702564",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609.202410360",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401596",
+            "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I71920554",
+            "host_organization_name": "King Abdullah University of Science and Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I71920554"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Conference Paper"
         }
       ],
       "best_oa_location": null,
@@ -24950,7 +25267,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-05-31T00:00:00"
     },
     {
@@ -25013,6 +25330,7 @@
         "https://openalex.org/W7124737262"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -25030,11 +25348,13 @@
           "author": {
             "id": "https://openalex.org/A5084753403",
             "display_name": "Peng Lü",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9159-370X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9159-370X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -25071,11 +25391,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -25112,9 +25434,11 @@
           "author": {
             "id": "https://openalex.org/A5059235394",
             "display_name": "Abrar Alabbad",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -25168,11 +25492,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -25209,9 +25535,11 @@
           "author": {
             "id": "https://openalex.org/A5101773455",
             "display_name": "Christopher R. Ellis",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130238516",
@@ -25248,9 +25576,11 @@
           "author": {
             "id": "https://openalex.org/A5010808882",
             "display_name": "Aaron Ketchmark",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130238516",
@@ -25287,9 +25617,11 @@
           "author": {
             "id": "https://openalex.org/A5070102183",
             "display_name": "Chris Paola",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130238516",
@@ -25326,9 +25658,11 @@
           "author": {
             "id": "https://openalex.org/A5119629686",
             "display_name": "Hussain Al-Qatari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25357,13 +25691,13 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.2852,
+      "fwci": 1.2702,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71094116,
+        "value": 0.70892824,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25724,9 +26058,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -25903,6 +26237,7 @@
         "https://openalex.org/W1527927531"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -25920,9 +26255,11 @@
           "author": {
             "id": "https://openalex.org/A5025692814",
             "display_name": "Zbynek Veselovský",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210109027",
@@ -25959,11 +26296,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -26000,11 +26339,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -26365,6 +26706,7 @@
         "https://openalex.org/W2257218972"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -26380,9 +26722,11 @@
           "author": {
             "id": "https://openalex.org/A5040308188",
             "display_name": "Jorham Contreras",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -26419,11 +26763,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -26460,9 +26806,11 @@
           "author": {
             "id": "https://openalex.org/A5038988987",
             "display_name": "T. Bechstaedt",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -26499,9 +26847,11 @@
           "author": {
             "id": "https://openalex.org/A5111444059",
             "display_name": "Scott A. Bowman",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26526,13 +26876,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3381,
+      "fwci": 0.331,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58027383,
+        "value": 0.57231478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27625,6 +27975,7 @@
         "https://openalex.org/W2769096285"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -27642,9 +27993,11 @@
           "author": {
             "id": "https://openalex.org/A5029804707",
             "display_name": "Michael Seeling",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27659,9 +28012,11 @@
           "author": {
             "id": "https://openalex.org/A5046539808",
             "display_name": "Axel Emmerich",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27676,11 +28031,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27695,11 +28052,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27717,13 +28076,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1995,
+      "fwci": 0.1975,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46094946,
+        "value": 0.45765635,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27744,7 +28103,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.9814000129699707,
+        "score": 0.989300012588501,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -27762,7 +28121,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9814000129699707,
+          "score": 0.989300012588501,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -27777,12 +28136,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.005799999926239252,
+          "id": "https://openalex.org/T12821",
+          "display_name": "Geological Formations and Processes Exploration",
+          "score": 0.003599999938160181,
           "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -27794,12 +28153,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T12821",
-          "display_name": "Geological Formations and Processes Exploration",
-          "score": 0.004800000227987766,
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.0034000000450760126,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -27815,27 +28174,32 @@
         {
           "id": "https://openalex.org/keywords/sequence-stratigraphy",
           "display_name": "sequence stratigraphy",
-          "score": 0.9940000176429749
+          "score": 0.9549999833106995
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "carbonate platform",
-          "score": 0.7590000033378601
+          "id": "https://openalex.org/keywords/base-level-change",
+          "display_name": "base-level change",
+          "score": 0.6349999904632568
         },
         {
-          "id": "https://openalex.org/keywords/triassic",
-          "display_name": "Triassic",
-          "score": 0.9819999933242798
+          "id": "https://openalex.org/keywords/sea-level-fluctuations",
+          "display_name": "sea-level fluctuations",
+          "score": 0.6579999923706055
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-sedimentation",
-          "display_name": "carbonate sedimentation",
-          "score": 0.5320000052452087
+          "id": "https://openalex.org/keywords/synsedimentary-tectonics",
+          "display_name": "synsedimentary tectonics",
+          "score": 0.9139999747276306
         },
         {
-          "id": "https://openalex.org/keywords/basin-evolution",
-          "display_name": "basin evolution",
-          "score": 0.6449999809265137
+          "id": "https://openalex.org/keywords/platform-subsidence",
+          "display_name": "platform subsidence",
+          "score": 0.503000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/permian-triassic-boundary",
+          "display_name": "Permian-Triassic boundary",
+          "score": 0.7459999918937683
         }
       ],
       "concepts": [
@@ -28822,7 +29186,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2017-12-04T00:00:00"
     },
     {
@@ -28877,6 +29241,7 @@
         "https://openalex.org/W3022953079"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -28894,9 +29259,11 @@
           "author": {
             "id": "https://openalex.org/A5066416885",
             "display_name": "E. Lewandowski",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28911,9 +29278,11 @@
           "author": {
             "id": "https://openalex.org/A5111166531",
             "display_name": "Hartmut Jäger",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28928,11 +29297,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28947,11 +29318,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28966,11 +29339,13 @@
           "author": {
             "id": "https://openalex.org/A5030314856",
             "display_name": "Ulrich A. Glasmacher",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1208-2838",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1208-2838"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -28985,9 +29360,11 @@
           "author": {
             "id": "https://openalex.org/A5015770813",
             "display_name": "Bastian Wirth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29005,13 +29382,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7743,
+      "fwci": 0.801,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7241535,
+        "value": 0.73333333,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30059,6 +30436,7 @@
         "https://openalex.org/W1977546504"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30076,9 +30454,11 @@
           "author": {
             "id": "https://openalex.org/A5078153906",
             "display_name": "A. Wenke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30093,9 +30473,11 @@
           "author": {
             "id": "https://openalex.org/A5024377207",
             "display_name": "Lucas P. Rohrer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30110,11 +30492,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30129,9 +30513,11 @@
           "author": {
             "id": "https://openalex.org/A5040420863",
             "display_name": "Horst Kreuter",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30146,9 +30532,11 @@
           "author": {
             "id": "https://openalex.org/A5071261076",
             "display_name": "F. Spath",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30163,9 +30551,11 @@
           "author": {
             "id": "https://openalex.org/A5098284403",
             "display_name": "S. Bißmann and E. Zöllner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30587,6 +30977,7 @@
         "https://openalex.org/W2086944217"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30604,9 +30995,11 @@
           "author": {
             "id": "https://openalex.org/A5024377207",
             "display_name": "Lucas P. Rohrer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30621,9 +31014,11 @@
           "author": {
             "id": "https://openalex.org/A5078153906",
             "display_name": "A. Wenke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30638,11 +31033,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30657,9 +31054,11 @@
           "author": {
             "id": "https://openalex.org/A5068687938",
             "display_name": "F. Spath and S. Bissmann",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30967,14 +31366,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.875,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -31212,6 +31611,7 @@
         "https://openalex.org/W2211243306"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -31229,9 +31629,11 @@
           "author": {
             "id": "https://openalex.org/A5026336110",
             "display_name": "Anne Wenke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31246,11 +31648,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31265,9 +31669,11 @@
           "author": {
             "id": "https://openalex.org/A5083795529",
             "display_name": "Lahcen Boutib",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31282,9 +31688,11 @@
           "author": {
             "id": "https://openalex.org/A5088523314",
             "display_name": "Haddou Jabour",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31299,9 +31707,11 @@
           "author": {
             "id": "https://openalex.org/A5008071032",
             "display_name": "Oliver Kluth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31316,9 +31726,11 @@
           "author": {
             "id": "https://openalex.org/A5070814856",
             "display_name": "Jürgen Schober",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32161,6 +32573,7 @@
         "https://openalex.org/W4285147384"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -32178,9 +32591,11 @@
           "author": {
             "id": "https://openalex.org/A5025422825",
             "display_name": "Nikolas A. Michael",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -32217,11 +32632,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -33070,6 +33487,7 @@
         "https://openalex.org/W2305307140"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33088,11 +33506,13 @@
           "author": {
             "id": "https://openalex.org/A5029478023",
             "display_name": "R Rettori",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0505-1280",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0505-1280"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33107,9 +33527,11 @@
           "author": {
             "id": "https://openalex.org/A5067677570",
             "display_name": "Baba Senowbari‐Daryan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33124,11 +33546,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33557,6 +33981,7 @@
         "https://openalex.org/W2753681549"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -33572,11 +33997,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33591,11 +34018,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33613,13 +34042,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1978,
+      "fwci": 0.1906,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46766263,
+        "value": 0.44832634,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33818,9 +34247,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -33899,6 +34328,7 @@
         "https://openalex.org/W1506630614"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -33916,9 +34346,11 @@
           "author": {
             "id": "https://openalex.org/A5066416885",
             "display_name": "E. Lewandowski",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33933,11 +34365,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33952,9 +34386,11 @@
           "author": {
             "id": "https://openalex.org/A5111166531",
             "display_name": "Hartmut Jäger",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33969,11 +34405,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33988,9 +34426,11 @@
           "author": {
             "id": "https://openalex.org/A5090375657",
             "display_name": "T. Leythäuser",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34005,9 +34445,11 @@
           "author": {
             "id": "https://openalex.org/A5087537313",
             "display_name": "R. Aicha",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34829,6 +35271,7 @@
         "https://openalex.org/W1515371129"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34844,9 +35287,11 @@
           "author": {
             "id": "https://openalex.org/A5078153906",
             "display_name": "A. Wenke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34861,11 +35306,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34880,9 +35327,11 @@
           "author": {
             "id": "https://openalex.org/A5088523314",
             "display_name": "Haddou Jabour",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34897,9 +35346,11 @@
           "author": {
             "id": "https://openalex.org/A5008071032",
             "display_name": "Oliver Kluth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35304,6 +35755,7 @@
         "https://openalex.org/W1544530319"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -35319,9 +35771,11 @@
           "author": {
             "id": "https://openalex.org/A5078153906",
             "display_name": "A. Wenke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -35358,11 +35812,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I223822909",
@@ -35399,9 +35855,11 @@
           "author": {
             "id": "https://openalex.org/A5083795529",
             "display_name": "Lahcen Boutib",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210120481",
@@ -35438,9 +35896,11 @@
           "author": {
             "id": "https://openalex.org/A5088523314",
             "display_name": "Haddou Jabour",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210120481",
@@ -35477,9 +35937,11 @@
           "author": {
             "id": "https://openalex.org/A5008071032",
             "display_name": "Oliver Kluth",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I901980530",
@@ -35516,9 +35978,11 @@
           "author": {
             "id": "https://openalex.org/A5070814856",
             "display_name": "Jürgen Schober",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I901980530",
@@ -35854,6 +36318,7 @@
         "https://openalex.org/W2091878469"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -35871,11 +36336,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35890,9 +36357,11 @@
           "author": {
             "id": "https://openalex.org/A5040308188",
             "display_name": "Jorham Contreras",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35907,9 +36376,11 @@
           "author": {
             "id": "https://openalex.org/A5000823784",
             "display_name": "S. Bowman",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35924,9 +36395,11 @@
           "author": {
             "id": "https://openalex.org/A5038988987",
             "display_name": "T. Bechstaedt",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36799,6 +37272,7 @@
         "https://openalex.org/W2325932125"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -36816,9 +37290,11 @@
           "author": {
             "id": "https://openalex.org/A5090173364",
             "display_name": "T. Kissner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36833,11 +37309,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36852,11 +37330,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -37709,6 +38189,7 @@
         "https://openalex.org/W2330815650"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -37726,9 +38207,11 @@
           "author": {
             "id": "https://openalex.org/A5090173364",
             "display_name": "T. Kissner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -37743,11 +38226,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38576,6 +39061,7 @@
         "https://openalex.org/W2332027107"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -38593,9 +39079,11 @@
           "author": {
             "id": "https://openalex.org/A5040308188",
             "display_name": "Jorham Contreras",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38610,11 +39098,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38629,9 +39119,11 @@
           "author": {
             "id": "https://openalex.org/A5000823784",
             "display_name": "S. Bowman",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -38646,11 +39138,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -39285,6 +39779,7 @@
         "https://openalex.org/W2900447501"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -39302,9 +39797,11 @@
           "author": {
             "id": "https://openalex.org/A5068810506",
             "display_name": "Saeed Saad Alshahrani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -39341,11 +39838,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -40741,6 +41240,7 @@
         "https://openalex.org/W2908719499"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -40756,11 +41256,13 @@
           "author": {
             "id": "https://openalex.org/A5005324517",
             "display_name": "Carl Jacquemyn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8627-7144",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8627-7144"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40775,11 +41277,13 @@
           "author": {
             "id": "https://openalex.org/A5019080744",
             "display_name": "Matthew D. Jackson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8276-3575",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8276-3575"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40794,11 +41298,13 @@
           "author": {
             "id": "https://openalex.org/A5075368069",
             "display_name": "Gary J. Hampson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2047-8469",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2047-8469"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40813,11 +41319,13 @@
           "author": {
             "id": "https://openalex.org/A5081422106",
             "display_name": "Cédric M. John",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9711-1548",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9711-1548"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40832,11 +41340,13 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3118-9769",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40851,11 +41361,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40870,9 +41382,11 @@
           "author": {
             "id": "https://openalex.org/A5039403239",
             "display_name": "AbdulJaleel AbuBshait",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -40887,9 +41401,11 @@
           "author": {
             "id": "https://openalex.org/A5086882344",
             "display_name": "Robert F. Lindsay",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41033,6 +41549,7 @@
         "https://openalex.org/W3012475910"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -41048,11 +41565,13 @@
           "author": {
             "id": "https://openalex.org/A5042881068",
             "display_name": "Roland Mundil",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9349-6281",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9349-6281"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41067,11 +41586,13 @@
           "author": {
             "id": "https://openalex.org/A5086838587",
             "display_name": "Thilo Bechstädt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9898-0198",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9898-0198"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41086,9 +41607,11 @@
           "author": {
             "id": "https://openalex.org/A5078991363",
             "display_name": "Peter Brack",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41103,11 +41626,13 @@
           "author": {
             "id": "https://openalex.org/A5039182122",
             "display_name": "Sven Egenhoff",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3072-286X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3072-286X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41122,11 +41647,13 @@
           "author": {
             "id": "https://openalex.org/A5103234532",
             "display_name": "Martin Meier",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4142-0082",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4142-0082"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41141,9 +41668,11 @@
           "author": {
             "id": "https://openalex.org/A5036434069",
             "display_name": "Felix Oberli",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41158,9 +41687,11 @@
           "author": {
             "id": "https://openalex.org/A5111831209",
             "display_name": "Arndt Peterhänsel",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41175,9 +41706,11 @@
           "author": {
             "id": "https://openalex.org/A5037027654",
             "display_name": "Hans Rieber",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41192,11 +41725,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41481,6 +42016,7 @@
         "https://openalex.org/W3042754757"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -41496,9 +42032,11 @@
           "author": {
             "id": "https://openalex.org/A5052322577",
             "display_name": "Rajesh Goteti",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41513,9 +42051,11 @@
           "author": {
             "id": "https://openalex.org/A5110469285",
             "display_name": "Susan M. Agar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41530,9 +42070,11 @@
           "author": {
             "id": "https://openalex.org/A5049912122",
             "display_name": "John Paul Brown",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41547,11 +42089,13 @@
           "author": {
             "id": "https://openalex.org/A5008365801",
             "display_name": "Philip Ball",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5896-6447",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5896-6447"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41566,11 +42110,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -41851,6 +42397,7 @@
         "https://openalex.org/W4200187165"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -41868,11 +42415,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -41909,11 +42458,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -43204,6 +43755,7 @@
         "https://openalex.org/W4410225556"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "preprint",
       "is_traditional": true,
       "indexed_in": [
@@ -43221,11 +43773,13 @@
           "author": {
             "id": "https://openalex.org/A5028588934",
             "display_name": "Xin Liu",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4420-0912",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4420-0912"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -43240,11 +43794,13 @@
           "author": {
             "id": "https://openalex.org/A5064747506",
             "display_name": "Viswasanthi Chandra",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2784-1160",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2784-1160"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43259,11 +43815,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43278,11 +43836,13 @@
           "author": {
             "id": "https://openalex.org/A5100651939",
             "display_name": "Yuzhu Wang",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0449-2973",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0449-2973"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43297,11 +43857,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2182-7993",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2182-7993"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43691,6 +44253,7 @@
         "https://openalex.org/W4414226490"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -43708,11 +44271,13 @@
           "author": {
             "id": "https://openalex.org/A5084753403",
             "display_name": "Peng Lü",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9159-370X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9159-370X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -43749,11 +44314,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -43790,9 +44357,11 @@
           "author": {
             "id": "https://openalex.org/A5059235394",
             "display_name": "Abrar Alabbad",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -43829,11 +44398,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -43870,12 +44441,14 @@
           "author": {
             "id": "https://openalex.org/A5072654893",
             "display_name": "Ahmed M. Hafez",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4927-1333",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4927-1333",
               "https://orcid.org/0000-0003-4107-5925"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43897,9 +44470,11 @@
           "author": {
             "id": "https://openalex.org/A5110602655",
             "display_name": "Avrami Grader",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -43921,9 +44496,11 @@
           "author": {
             "id": "https://openalex.org/A5119629686",
             "display_name": "Hussain Al-Qatari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -45161,6 +45738,7 @@
         "https://openalex.org/W7147648611"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -45178,11 +45756,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -45219,11 +45799,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -45260,9 +45842,11 @@
           "author": {
             "id": "https://openalex.org/A5132680280",
             "display_name": "Eyad Aljshi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -45608,9 +46192,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

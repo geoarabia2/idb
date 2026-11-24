@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0002-9728-9036"
     ],
     "display_name": "Neil W. Craigie",
+    "type": null,
     "raw_author_names": [
       "N. Craigie",
       "Neil Craigie",
@@ -14,7 +15,7 @@
     ],
     "full_name": "Neil William Craigie",
     "works_count": 31,
-    "cited_by_count": 342,
+    "cited_by_count": 357,
     "summary_stats": {
       "2yr_mean_citedness": 0.5,
       "h_index": 10,
@@ -306,7 +307,7 @@
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 14
+        "cited_by_count": 16
       },
       {
         "year": 2020,
@@ -324,31 +325,31 @@
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 42
+        "cited_by_count": 47
       },
       {
         "year": 2023,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 34
+        "cited_by_count": 35
       },
       {
         "year": 2024,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 38
+        "cited_by_count": 42
       },
       {
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 52
+        "cited_by_count": 54
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 40
+        "cited_by_count": 41
       }
     ],
     "display_name_alternatives": [
@@ -361,7 +362,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013083803",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5013083803",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -424,6 +425,7 @@
         "https://openalex.org/W2783004461"
       ],
       "child_works_count": 6,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -441,11 +443,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -489,19 +493,19 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.2253,
+      "fwci": 5.2057,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 94,
+      "cited_by_count": 95,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95180723,
+        "value": 0.94578313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 92,
-        "max": 99
+        "max": 100
       },
       "biblio": {
         "volume": null,
@@ -697,8 +701,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -742,7 +746,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2021,
@@ -761,7 +765,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -827,6 +831,7 @@
         "https://openalex.org/W4408327353"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -844,11 +849,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -885,11 +892,13 @@
           "author": {
             "id": "https://openalex.org/A5009963240",
             "display_name": "Mustafa A. Al Ibrahim",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9765-0162",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9765-0162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -926,9 +935,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -965,11 +976,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -1021,13 +1034,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 3.8475,
+      "fwci": 3.8252,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9495559,
+        "value": 0.94888678,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1048,7 +1061,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.5640000104904175,
+        "score": 0.5156000256538391,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -1066,7 +1079,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.5640000104904175,
+          "score": 0.5156000256538391,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -1083,7 +1096,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.29739999771118164,
+          "score": 0.30000001192092896,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -1100,7 +1113,7 @@
         {
           "id": "https://openalex.org/T13141",
           "display_name": "Statistical Methods and Applications",
-          "score": 0.10239999741315842,
+          "score": 0.1429000049829483,
           "subfield": {
             "id": "https://openalex.org/subfields/2613",
             "display_name": "Statistics and Probability"
@@ -1119,57 +1132,57 @@
         {
           "id": "https://openalex.org/keywords/principal-component-analysis",
           "display_name": "principal component analysis",
-          "score": 0.9359999895095825
+          "score": 0.9580000042915344
         },
         {
           "id": "https://openalex.org/keywords/chemostratigraphy",
           "display_name": "chemostratigraphy",
-          "score": 0.9890000224113464
+          "score": 0.9549999833106995
         },
         {
           "id": "https://openalex.org/keywords/eigenvector-analysis",
           "display_name": "eigenvector method",
-          "score": 0.8709999918937683
+          "score": 0.8999999761581421
         },
         {
           "id": "https://openalex.org/keywords/carbonate-sediments",
           "display_name": "carbonate sediments",
-          "score": 0.9240000247955322
+          "score": 0.8679999709129333
         },
         {
           "id": "https://openalex.org/keywords/siliciclastic-sediment",
           "display_name": "siliciclastic sediment",
-          "score": 0.9390000104904175
+          "score": 0.9599999785423279
         },
         {
           "id": "https://openalex.org/keywords/sample-size-effects",
           "display_name": "sample size effects",
-          "score": 0.6980000138282776
+          "score": 0.7009999752044678
         },
         {
-          "id": "https://openalex.org/keywords/data-stability",
-          "display_name": "data stability",
-          "score": 0.375
+          "id": "https://openalex.org/keywords/model-stability",
+          "display_name": "model stability",
+          "score": 0.47200000286102295
         },
         {
           "id": "https://openalex.org/keywords/depositional-environment",
           "display_name": "depositional environment",
-          "score": 0.6489999890327454
+          "score": 0.6809999942779541
         },
         {
           "id": "https://openalex.org/keywords/diagenesis",
           "display_name": "diagenesis",
-          "score": 0.9810000061988831
+          "score": 0.9829999804496765
         },
         {
           "id": "https://openalex.org/keywords/weathering",
           "display_name": "weathering",
-          "score": 0.8600000143051147
+          "score": 0.8579999804496765
         },
         {
           "id": "https://openalex.org/keywords/rock-geochemistry",
           "display_name": "rock geochemistry",
-          "score": 0.4690000116825104
+          "score": 0.48100000619888306
         }
       ],
       "concepts": [
@@ -1328,8 +1341,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -1978,7 +1991,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2025-03-12T00:00:00"
     },
     {
@@ -2044,6 +2057,7 @@
         "https://openalex.org/W2517057392"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2061,11 +2075,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2102,11 +2118,13 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6243-7756",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6243-7756"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2143,9 +2161,11 @@
           "author": {
             "id": "https://openalex.org/A5023534210",
             "display_name": "K.A.T. MacPherson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2182,9 +2202,11 @@
           "author": {
             "id": "https://openalex.org/A5000364306",
             "display_name": "S. L. Berman",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2232,13 +2254,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.4675,
+      "fwci": 2.437,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86261438,
+        "value": 0.86121648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2545,8 +2567,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -2642,6 +2664,513 @@
       "created_date": "2016-09-16T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2042299971",
+      "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
+      "title": "Applications of chemostratigraphy in Cretaceous sediments encountered in the North Central Rub’ al-Khali Basin, Saudi Arabia",
+      "display_name": "Applications of chemostratigraphy in Cretaceous sediments encountered in the North Central Rub’ al-Khali Basin, Saudi Arabia",
+      "alternate_titles": [],
+      "publication_year": 2015,
+      "publication_date": "2015-01-28",
+      "ids": {
+        "openalex": "https://openalex.org/W2042299971",
+        "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
+        "mag": "2042299971"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.jafrearsci.2015.01.003",
+        "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S125636905",
+          "display_name": "Journal of African Earth Sciences",
+          "issn_l": "0899-5362",
+          "issn": [
+            "0899-5362",
+            "1464-343X",
+            "1879-1956"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-d",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of African Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2042299971"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013083803",
+            "display_name": "Neil W. Craigie",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-9728-9036",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9728-9036"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Neil W. Craigie",
+          "raw_affiliation_strings": [
+            "Exploration Department, Saudi Aramco, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exploration Department, Saudi Aramco, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013083803"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 3370,
+        "currency": "USD",
+        "value_usd": 3370
+      },
+      "apc_paid": null,
+      "fwci": 1.1364,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 29,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.71688426,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "104",
+        "issue": null,
+        "first_page": "27",
+        "last_page": "42"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.5946999788284302,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.5946999788284302,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.37130001187324524,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.01590000092983246,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chemostratigraphy",
+          "display_name": "chemostratigraphy",
+          "score": 0.949999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous-sediments",
+          "display_name": "Cretaceous sediments",
+          "score": 0.9909999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/rub-al-khali-basin",
+          "display_name": "Rub' Al-Khali Basin",
+          "score": 0.9860000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/zircon-geochemistry",
+          "display_name": "zircon geochemistry",
+          "score": 0.5139999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/zr-nb-ratio",
+          "display_name": "Zr/Nb ratio",
+          "score": 0.9459999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/base-level-change",
+          "display_name": "base-level change",
+          "score": 0.5709999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment-provenance",
+          "display_name": "sediment provenance",
+          "score": 0.6990000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/lagoon-sediments",
+          "display_name": "lagoon sediments",
+          "score": 0.6320000290870667
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-correlation",
+          "display_name": "stratigraphic correlation",
+          "score": 0.7360000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/lithostratigraphy",
+          "display_name": "lithostratigraphy",
+          "score": 0.7059999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/icp-oes",
+          "display_name": "ICP-AES",
+          "score": 0.5690000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/inductively-coupled-plasma-mass-spectrometry",
+          "display_name": "inductively coupled plasma mass spectrometry",
+          "score": 0.9210000038146973
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9190163612365723
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.8338656425476074
+        },
+        {
+          "id": "https://openalex.org/C190890723",
+          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
+          "display_name": "Chemostratigraphy",
+          "level": 4,
+          "score": 0.7881296873092651
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.6634800434112549
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5925348997116089
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4617491066455841
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.06553831696510315
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0.04291349649429321
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.jafrearsci.2015.01.003",
+          "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S125636905",
+            "display_name": "Journal of African Earth Sciences",
+            "issn_l": "0899-5362",
+            "issn": [
+              "0899-5362",
+              "1464-343X",
+              "1879-1956"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-d",
+              "jufo-1",
+              "ki-jl-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of African Earth Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W851674763",
+        "https://openalex.org/W1534180280",
+        "https://openalex.org/W1967584812",
+        "https://openalex.org/W1977700429",
+        "https://openalex.org/W1979063392",
+        "https://openalex.org/W2005604628",
+        "https://openalex.org/W2053710304",
+        "https://openalex.org/W2057391595",
+        "https://openalex.org/W2075175782",
+        "https://openalex.org/W2078829636",
+        "https://openalex.org/W2102947943",
+        "https://openalex.org/W2104296040",
+        "https://openalex.org/W2170193952",
+        "https://openalex.org/W2292572168",
+        "https://openalex.org/W2750487160",
+        "https://openalex.org/W2980323464"
+      ],
+      "related_works": [
+        "https://openalex.org/W2980323464",
+        "https://openalex.org/W2301447076",
+        "https://openalex.org/W2261633129",
+        "https://openalex.org/W2193147280",
+        "https://openalex.org/W2517057392",
+        "https://openalex.org/W2971173608",
+        "https://openalex.org/W4381512414",
+        "https://openalex.org/W1995551003",
+        "https://openalex.org/W2994335211",
+        "https://openalex.org/W2897803708"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2042299971",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-23T12:01:36.302904",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2301447076",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2016.01.018",
       "title": "Chemostratigraphy and biostratigraphy of Devonian, Carboniferous and Permian sediments encountered in eastern Saudi Arabia: An integrated approach to reservoir correlation",
@@ -2704,6 +3233,7 @@
         "https://openalex.org/W2301447076"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2721,11 +3251,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2762,9 +3294,11 @@
           "author": {
             "id": "https://openalex.org/A5084822278",
             "display_name": "Pierre Breuer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2801,9 +3335,11 @@
           "author": {
             "id": "https://openalex.org/A5042095531",
             "display_name": "Ahmed Khidir",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -3219,8 +3755,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -3377,6 +3913,7 @@
         "https://openalex.org/W2980323464"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3394,11 +3931,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -3418,13 +3957,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3698,
+      "fwci": 2.3344,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85786733,
+        "value": 0.85567715,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3750,8 +4289,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2980323464.pdf",
@@ -5040,510 +5579,6 @@
       "created_date": "2019-10-25T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2042299971",
-      "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
-      "title": "Applications of chemostratigraphy in Cretaceous sediments encountered in the North Central Rub’ al-Khali Basin, Saudi Arabia",
-      "display_name": "Applications of chemostratigraphy in Cretaceous sediments encountered in the North Central Rub’ al-Khali Basin, Saudi Arabia",
-      "alternate_titles": [],
-      "publication_year": 2015,
-      "publication_date": "2015-01-28",
-      "ids": {
-        "openalex": "https://openalex.org/W2042299971",
-        "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
-        "mag": "2042299971"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.jafrearsci.2015.01.003",
-        "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S125636905",
-          "display_name": "Journal of African Earth Sciences",
-          "issn_l": "0899-5362",
-          "issn": [
-            "0899-5362",
-            "1464-343X",
-            "1879-1956"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-d",
-            "jufo-1",
-            "ki-jl-1",
-            "norway-1",
-            "poland-70",
-            "russia-white-list-2",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of African Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2042299971"
-      ],
-      "child_works_count": 0,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013083803",
-            "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9728-9036"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Neil W. Craigie",
-          "raw_affiliation_strings": [
-            "Exploration Department, Saudi Aramco, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Exploration Department, Saudi Aramco, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013083803"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 3370,
-        "currency": "USD",
-        "value_usd": 3370
-      },
-      "apc_paid": null,
-      "fwci": 1.1674,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 28,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.72467495,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "104",
-        "issue": null,
-        "first_page": "27",
-        "last_page": "42"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.5946999788284302,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.5946999788284302,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.37130001187324524,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.01590000092983246,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/chemostratigraphy",
-          "display_name": "chemostratigraphy",
-          "score": 0.949999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous-sediments",
-          "display_name": "Cretaceous sediments",
-          "score": 0.9909999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/rub-al-khali-basin",
-          "display_name": "Rub' Al-Khali Basin",
-          "score": 0.9860000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/zircon-geochemistry",
-          "display_name": "zircon geochemistry",
-          "score": 0.5139999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/zr-nb-ratio",
-          "display_name": "Zr/Nb ratio",
-          "score": 0.9459999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/base-level-change",
-          "display_name": "base-level change",
-          "score": 0.5709999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment-provenance",
-          "display_name": "sediment provenance",
-          "score": 0.6990000009536743
-        },
-        {
-          "id": "https://openalex.org/keywords/lagoon-sediments",
-          "display_name": "lagoon sediments",
-          "score": 0.6320000290870667
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-correlation",
-          "display_name": "stratigraphic correlation",
-          "score": 0.7360000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/lithostratigraphy",
-          "display_name": "lithostratigraphy",
-          "score": 0.7059999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/icp-oes",
-          "display_name": "ICP-AES",
-          "score": 0.5690000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/inductively-coupled-plasma-mass-spectrometry",
-          "display_name": "inductively coupled plasma mass spectrometry",
-          "score": 0.9210000038146973
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9190163612365723
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.8338656425476074
-        },
-        {
-          "id": "https://openalex.org/C190890723",
-          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
-          "display_name": "Chemostratigraphy",
-          "level": 4,
-          "score": 0.7881296873092651
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.6634800434112549
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5925348997116089
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4617491066455841
-        },
-        {
-          "id": "https://openalex.org/C158787203",
-          "wikidata": "https://www.wikidata.org/wiki/Q900291",
-          "display_name": "Total organic carbon",
-          "level": 2,
-          "score": 0.06553831696510315
-        },
-        {
-          "id": "https://openalex.org/C185059815",
-          "wikidata": "https://www.wikidata.org/wiki/Q471790",
-          "display_name": "Isotopes of carbon",
-          "level": 3,
-          "score": 0.04291349649429321
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.jafrearsci.2015.01.003",
-          "doi": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2015.01.003",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S125636905",
-            "display_name": "Journal of African Earth Sciences",
-            "issn_l": "0899-5362",
-            "issn": [
-              "0899-5362",
-              "1464-343X",
-              "1879-1956"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-d",
-              "jufo-1",
-              "ki-jl-1",
-              "norway-1",
-              "poland-70",
-              "russia-white-list-2",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of African Earth Sciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 16,
-      "referenced_works": [
-        "https://openalex.org/W851674763",
-        "https://openalex.org/W1534180280",
-        "https://openalex.org/W1967584812",
-        "https://openalex.org/W1977700429",
-        "https://openalex.org/W1979063392",
-        "https://openalex.org/W2005604628",
-        "https://openalex.org/W2053710304",
-        "https://openalex.org/W2057391595",
-        "https://openalex.org/W2075175782",
-        "https://openalex.org/W2078829636",
-        "https://openalex.org/W2102947943",
-        "https://openalex.org/W2104296040",
-        "https://openalex.org/W2170193952",
-        "https://openalex.org/W2292572168",
-        "https://openalex.org/W2750487160",
-        "https://openalex.org/W2980323464"
-      ],
-      "related_works": [
-        "https://openalex.org/W2980323464",
-        "https://openalex.org/W2301447076",
-        "https://openalex.org/W2261633129",
-        "https://openalex.org/W2193147280",
-        "https://openalex.org/W2517057392",
-        "https://openalex.org/W2971173608",
-        "https://openalex.org/W4381512414",
-        "https://openalex.org/W1995551003",
-        "https://openalex.org/W2994335211",
-        "https://openalex.org/W2897803708"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2042299971",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2261633129",
       "doi": "https://doi.org/10.1016/j.jafrearsci.2016.02.006",
       "title": "Chemostratigraphy of glaciomarine sediments in the Sarah Formation, northwest Saudi Arabia",
@@ -5608,6 +5643,7 @@
         "https://openalex.org/W2261633129"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5625,11 +5661,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5666,11 +5704,13 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6243-7756",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6243-7756"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5718,13 +5758,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.8813,
+      "fwci": 0.8704,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 23,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67562092,
+        "value": 0.67240026,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6004,8 +6044,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -6156,6 +6196,7 @@
         "https://openalex.org/W3126847908"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6173,11 +6214,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -6214,11 +6257,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -6260,13 +6305,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3602,
+      "fwci": 1.3252,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74903018,
+        "value": 0.74228541,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6521,8 +6566,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -7241,6 +7286,7 @@
         "https://openalex.org/W2783004461"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -7258,11 +7304,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7333,7 +7381,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.7856000065803528,
+        "score": 0.7666000127792358,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -7351,7 +7399,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.7856000065803528,
+          "score": 0.7666000127792358,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -7368,7 +7416,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.08169999718666077,
+          "score": 0.09449999779462814,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -7385,7 +7433,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.05079999938607216,
+          "score": 0.056299999356269836,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -7404,27 +7452,27 @@
         {
           "id": "https://openalex.org/keywords/lithology-prediction",
           "display_name": "lithology prediction",
-          "score": 0.7710000276565552
+          "score": 0.7549999952316284
         },
         {
           "id": "https://openalex.org/keywords/bulk-mineralogy",
           "display_name": "bulk mineralogy",
-          "score": 0.8960000276565552
-        },
-        {
-          "id": "https://openalex.org/keywords/total-depth",
-          "display_name": "total depth",
-          "score": 0.48100000619888306
+          "score": 0.8849999904632568
         },
         {
           "id": "https://openalex.org/keywords/geosteering",
           "display_name": "geosteering",
-          "score": 0.9660000205039978
+          "score": 0.9700000286102295
         },
         {
           "id": "https://openalex.org/keywords/horizontal-wells",
           "display_name": "horizontal wells",
-          "score": 0.781000018119812
+          "score": 0.671999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/inorganic-geochemistry",
+          "display_name": "inorganic geochemistry",
+          "score": 0.7480000257492065
         }
       ],
       "concepts": [
@@ -7577,8 +7625,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -7617,7 +7665,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -7685,6 +7733,7 @@
         "https://openalex.org/W2193147280"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7702,11 +7751,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7754,13 +7805,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.7292,
+      "fwci": 0.7183,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65508148,
+        "value": 0.65068399,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8041,8 +8092,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -8187,6 +8238,7 @@
         "https://openalex.org/W4381512414"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8204,11 +8256,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8245,9 +8299,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8289,13 +8345,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4981,
+      "fwci": 0.4881,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.47807659,
+        "value": 0.46785847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8638,8 +8694,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -9236,6 +9292,7 @@
         "https://openalex.org/W4200232387"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -9253,11 +9310,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9294,9 +9353,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9333,11 +9394,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9675,8 +9738,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -10540,6 +10603,7 @@
         "https://openalex.org/W4402601655"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10557,11 +10621,13 @@
           "author": {
             "id": "https://openalex.org/A5065884074",
             "display_name": "Mohamed Soua",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5089-2893",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5089-2893"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10598,9 +10664,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10637,11 +10705,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10689,13 +10759,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.4443,
+      "fwci": 0.4349,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45020113,
+        "value": 0.44505054,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11000,8 +11070,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -11188,6 +11258,7 @@
         "https://openalex.org/W2783004461"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -11205,11 +11276,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -11253,13 +11326,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4548,
+      "fwci": 0.4465,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6047619,
+        "value": 0.59764706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11554,8 +11627,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 155,
@@ -11822,6 +11895,7 @@
         "https://openalex.org/W2783004461"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -11839,11 +11913,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -11887,13 +11963,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4548,
+      "fwci": 0.4465,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6047619,
+        "value": 0.59764706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12228,8 +12304,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -12360,6 +12436,7 @@
         "https://openalex.org/W2806836536"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12377,11 +12454,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12792,8 +12871,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -12904,6 +12983,7 @@
         "https://openalex.org/W4285268216"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -12921,9 +13001,11 @@
           "author": {
             "id": "https://openalex.org/A5025422825",
             "display_name": "Nikolas A. Michael",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12960,9 +13042,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12999,11 +13083,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13326,8 +13412,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -13874,6 +13960,7 @@
         "https://openalex.org/W2783004461"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -13891,11 +13978,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -14222,8 +14311,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -14338,6 +14427,7 @@
         "https://openalex.org/W4417259470"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14356,9 +14446,11 @@
           "author": {
             "id": "https://openalex.org/A5120778270",
             "display_name": "Verónica Y. Zapata",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I151201029",
@@ -14408,11 +14500,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -14449,9 +14543,11 @@
           "author": {
             "id": "https://openalex.org/A5022818621",
             "display_name": "Guillermina Sagasti",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210128587",
@@ -14512,13 +14608,13 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 0.4063,
+      "fwci": 0.3983,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49427898,
+        "value": 0.48865075,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14958,8 +15054,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -15843,6 +15939,7 @@
         "https://openalex.org/W2996180162"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15860,11 +15957,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15908,13 +16007,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3664,
+      "fwci": 0.3578,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43876496,
+        "value": 0.42669683,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16174,8 +16273,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -16798,6 +16897,7 @@
         "https://openalex.org/W2783004461"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -16815,11 +16915,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -16863,13 +16965,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5074,
+      "fwci": 0.5103,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59616858,
+        "value": 0.59627329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16890,7 +16992,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.3411000072956085,
+        "score": 0.5562000274658203,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -16908,7 +17010,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.3411000072956085,
+          "score": 0.5562000274658203,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -16925,7 +17027,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.2775999903678894,
+          "score": 0.1738000065088272,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -16942,7 +17044,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.195700004696846,
+          "score": 0.13539999723434448,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -16966,67 +17068,72 @@
         {
           "id": "https://openalex.org/keywords/reservoir-correlation",
           "display_name": "reservoir correlation",
-          "score": 0.8529999852180481
+          "score": 0.8289999961853027
         },
         {
-          "id": "https://openalex.org/keywords/clastic-sediments",
-          "display_name": "clastic sediments",
-          "score": 0.7770000100135803
+          "id": "https://openalex.org/keywords/clastic-reservoirs",
+          "display_name": "clastic reservoirs",
+          "score": 0.7960000038146973
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-sediments",
-          "display_name": "carbonate sediments",
-          "score": 0.9700000286102295
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.9990000128746033
         },
         {
           "id": "https://openalex.org/keywords/unconventional-reservoirs",
           "display_name": "unconventional reservoirs",
-          "score": 0.9679999947547913
+          "score": 0.9769999980926514
         },
         {
           "id": "https://openalex.org/keywords/source-rocks",
           "display_name": "source rocks",
-          "score": 0.718999981880188
+          "score": 0.6890000104904175
         },
         {
           "id": "https://openalex.org/keywords/biostratigraphy",
           "display_name": "biostratigraphy",
-          "score": 0.8100000023841858
+          "score": 0.8069999814033508
         },
         {
           "id": "https://openalex.org/keywords/glacial-deposits",
           "display_name": "glacial deposits",
-          "score": 0.7540000081062317
+          "score": 0.7620000243186951
         },
         {
           "id": "https://openalex.org/keywords/heavy-minerals",
           "display_name": "heavy minerals",
-          "score": 0.7390000224113464
+          "score": 0.6890000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-geochemistry",
+          "display_name": "carbonate geochemistry",
+          "score": 0.597000002861023
         },
         {
           "id": "https://openalex.org/keywords/base-level-change",
           "display_name": "base-level change",
-          "score": 0.7459999918937683
+          "score": 0.7239999771118164
         },
         {
           "id": "https://openalex.org/keywords/redox-conditions",
           "display_name": "redox conditions",
-          "score": 0.949999988079071
+          "score": 0.9440000057220459
         },
         {
           "id": "https://openalex.org/keywords/caprock",
           "display_name": "caprock",
-          "score": 0.8690000176429749
+          "score": 0.7490000128746033
         },
         {
           "id": "https://openalex.org/keywords/berkine-basin",
           "display_name": "Berkine Basin",
-          "score": 0.8140000104904175
+          "score": 0.8479999899864197
         },
         {
           "id": "https://openalex.org/keywords/saudi-arabia",
           "display_name": "Saudi Arabia",
-          "score": 0.5389999747276306
+          "score": 0.5519999861717224
         }
       ],
       "concepts": [
@@ -17249,8 +17356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -17316,7 +17423,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2018-01-26T00:00:00"
     },
     {
@@ -17379,6 +17486,7 @@
         "https://openalex.org/W4213042334"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -17396,11 +17504,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -17444,13 +17554,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8135,
+      "fwci": 0.7999,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66029144,
+        "value": 0.65482696,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17724,8 +17834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -17890,6 +18000,7 @@
         "https://openalex.org/W2783004461"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -17907,11 +18018,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -17955,13 +18068,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2274,
+      "fwci": 0.2232,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50357143,
+        "value": 0.50117647,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18184,8 +18297,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -18336,6 +18449,7 @@
         "https://openalex.org/W2900106357"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -18353,9 +18467,11 @@
           "author": {
             "id": "https://openalex.org/A5034670702",
             "display_name": "Aqeel Khalifa",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18392,9 +18508,11 @@
           "author": {
             "id": "https://openalex.org/A5066544746",
             "display_name": "Ibrahim Ali Almakrami",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18431,9 +18549,11 @@
           "author": {
             "id": "https://openalex.org/A5081386379",
             "display_name": "Edward A. Clerke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18470,11 +18590,13 @@
           "author": {
             "id": "https://openalex.org/A5053540177",
             "display_name": "Moustafa Oraby",
+            "type": null,
             "orcid": "https://orcid.org/0009-0005-7333-994X",
             "observed_orcids": [
               "https://orcid.org/0009-0005-7333-994X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I80693520",
@@ -18511,11 +18633,13 @@
           "author": {
             "id": "https://openalex.org/A5065884074",
             "display_name": "Mohamed Soua",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5089-2893",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5089-2893"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18552,11 +18676,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18593,9 +18719,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -18635,13 +18763,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8153,
+      "fwci": 0.7934,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63767154,
+        "value": 0.62735118,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18891,8 +19019,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -20120,6 +20248,7 @@
         "https://openalex.org/W4213042334"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -20137,9 +20266,11 @@
           "author": {
             "id": "https://openalex.org/A5021185414",
             "display_name": "Oleksandr Okprekyi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20161,9 +20292,11 @@
           "author": {
             "id": null,
             "display_name": "Zaw Win Aung",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20185,9 +20318,11 @@
           "author": {
             "id": null,
             "display_name": "Alexey Sokolov",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20209,9 +20344,11 @@
           "author": {
             "id": "https://openalex.org/A5056138445",
             "display_name": "Rajeshwaran Dandapani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405260487",
@@ -20248,9 +20385,11 @@
           "author": {
             "id": "https://openalex.org/A5047229999",
             "display_name": "Robert Avakian",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I2801951318",
@@ -20287,11 +20426,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -20328,9 +20469,11 @@
           "author": {
             "id": null,
             "display_name": "Susan Nash",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4392738079",
@@ -20368,9 +20511,11 @@
           "author": {
             "id": "https://openalex.org/A5076833576",
             "display_name": "Tharwat Hassane",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20395,13 +20540,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8135,
+      "fwci": 0.7999,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66029144,
+        "value": 0.65482696,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20673,8 +20818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -20757,6 +20902,7 @@
         "https://openalex.org/W851674763"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -20772,11 +20918,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -21038,8 +21186,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21134,6 +21282,7 @@
         "https://openalex.org/W3198071017"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -21149,9 +21298,11 @@
           "author": {
             "id": "https://openalex.org/A5025422825",
             "display_name": "Nikolas A. Michael",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -21166,11 +21317,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -21185,9 +21338,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -21423,8 +21578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21500,6 +21655,7 @@
         "https://openalex.org/W2971173608"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -21517,11 +21673,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -21859,8 +22017,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -22410,6 +22568,7 @@
         "https://openalex.org/W4399188468"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -22427,9 +22586,11 @@
           "author": {
             "id": "https://openalex.org/A5025422825",
             "display_name": "Nikolas A. Michael",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -22466,11 +22627,13 @@
           "author": {
             "id": "https://openalex.org/A5009963240",
             "display_name": "Mustafa A. Al Ibrahim",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9765-0162",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9765-0162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -22507,9 +22670,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -22546,11 +22711,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -22902,8 +23069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -23397,6 +23564,7 @@
         "https://openalex.org/W4399189307"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -23414,11 +23582,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -23705,8 +23875,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,

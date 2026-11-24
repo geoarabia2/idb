@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0001-8551-3240"
     ],
     "display_name": "Abdullah M. Memesh",
+    "type": null,
     "raw_author_names": [
       "A. MEMESH",
       "A.M.S. Memesh",
@@ -17,7 +18,7 @@
     ],
     "full_name": "Abdullah M. Memesh",
     "works_count": 29,
-    "cited_by_count": 514,
+    "cited_by_count": 516,
     "summary_stats": {
       "2yr_mean_citedness": 1.25,
       "h_index": 11,
@@ -391,13 +392,13 @@
         "year": 2025,
         "works_count": 5,
         "oa_works_count": 3,
-        "cited_by_count": 61
+        "cited_by_count": 62
       },
       {
         "year": 2026,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 62
+        "cited_by_count": 63
       }
     ],
     "display_name_alternatives": [
@@ -413,7 +414,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5044930714",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -486,6 +487,7 @@
         "https://openalex.org/W2797614480"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -505,11 +507,13 @@
           "author": {
             "id": "https://openalex.org/A5087955542",
             "display_name": "Huw S. Groucutt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9111-1720",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9111-1720"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -572,11 +576,13 @@
           "author": {
             "id": "https://openalex.org/A5014664106",
             "display_name": "Rainer Grün",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1366-3674",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1366-3674"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I11701301",
@@ -630,11 +636,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -656,11 +664,13 @@
           "author": {
             "id": "https://openalex.org/A5108481153",
             "display_name": "Nick Drake",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3451-6668",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3451-6668"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -717,11 +727,13 @@
           "author": {
             "id": "https://openalex.org/A5062177152",
             "display_name": "Simon James Armitage",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1480-9188",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1480-9188"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I124357947",
@@ -788,11 +800,13 @@
           "author": {
             "id": "https://openalex.org/A5047811228",
             "display_name": "Ian Candy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7698-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7698-4411"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I124357947",
@@ -841,11 +855,13 @@
           "author": {
             "id": "https://openalex.org/A5057652745",
             "display_name": "Richard Clark‐Wilson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9619-5778",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9619-5778"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I124357947",
@@ -894,11 +910,13 @@
           "author": {
             "id": "https://openalex.org/A5055696620",
             "display_name": "Julien Louys",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7539-0689",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7539-0689"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I11701301",
@@ -935,11 +953,13 @@
           "author": {
             "id": "https://openalex.org/A5031524231",
             "display_name": "Paul S. Breeze",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2575-8021",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2575-8021"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -977,11 +997,13 @@
           "author": {
             "id": "https://openalex.org/A5060957276",
             "display_name": "Mathieu Duval",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3181-7753",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3181-7753"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I11701301",
@@ -1036,11 +1058,13 @@
           "author": {
             "id": "https://openalex.org/A5043088893",
             "display_name": "Laura Tabitha Buck",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1768-9049",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1768-9049"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1336856363",
@@ -1094,11 +1118,13 @@
           "author": {
             "id": "https://openalex.org/A5034968874",
             "display_name": "Tracy L. Kivell",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5087-0897",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5087-0897"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I20581793",
@@ -1155,11 +1181,13 @@
           "author": {
             "id": "https://openalex.org/A5021410325",
             "display_name": "Emma Pomeroy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6251-2165",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6251-2165"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I241749",
@@ -1213,11 +1241,13 @@
           "author": {
             "id": "https://openalex.org/A5085183365",
             "display_name": "Nicholas B. Stephens",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2838-5606",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2838-5606"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210118560",
@@ -1255,11 +1285,13 @@
           "author": {
             "id": "https://openalex.org/A5057128742",
             "display_name": "Jay T. Stock",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0147-8631",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0147-8631"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I125749732",
@@ -1314,11 +1346,13 @@
           "author": {
             "id": "https://openalex.org/A5071155300",
             "display_name": "Mathew Stewart",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0413-8133",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0413-8133"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I31746571",
@@ -1355,11 +1389,13 @@
           "author": {
             "id": "https://openalex.org/A5008698053",
             "display_name": "Gilbert James Price",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8406-4594",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8406-4594"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I165143802",
@@ -1396,9 +1432,11 @@
           "author": {
             "id": "https://openalex.org/A5050153608",
             "display_name": "Leslie P. J. Kinsley",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I118347636",
@@ -1435,9 +1473,11 @@
           "author": {
             "id": "https://openalex.org/A5030271643",
             "display_name": "Wing Wai Sung",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1336856363",
@@ -1474,11 +1514,13 @@
           "author": {
             "id": "https://openalex.org/A5066236838",
             "display_name": "Abdullah Alsharekh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2666-3262",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2666-3262"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I28022161",
@@ -1515,11 +1557,13 @@
           "author": {
             "id": "https://openalex.org/A5028580948",
             "display_name": "Abdulaziz Al-Omari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0638-348X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0638-348X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1541,11 +1585,13 @@
           "author": {
             "id": "https://openalex.org/A5045873226",
             "display_name": "Muhammad Zahir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1765-6319",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1765-6319"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I263208278",
@@ -1582,11 +1628,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1608,9 +1656,11 @@
           "author": {
             "id": "https://openalex.org/A5006352928",
             "display_name": "Ammar J. Abdulshakoor",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1632,9 +1682,11 @@
           "author": {
             "id": "https://openalex.org/A5081453815",
             "display_name": "Abdu M. Al-Masary",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1656,9 +1708,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1680,9 +1734,11 @@
           "author": {
             "id": "https://openalex.org/A5041891308",
             "display_name": "Khaled M. S. Al Murayyi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1704,11 +1760,13 @@
           "author": {
             "id": "https://openalex.org/A5033474701",
             "display_name": "Badr Zahrani",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5135-5843",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5135-5843"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1730,11 +1788,13 @@
           "author": {
             "id": "https://openalex.org/A5090082899",
             "display_name": "Eleanor M. L. Scerri",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7468-9977",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7468-9977"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -1790,12 +1850,14 @@
           "author": {
             "id": "https://openalex.org/A5037966215",
             "display_name": "Michael D. Petraglia",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2522-5727",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2522-5727",
               "https://orcid.org/0000-0001-5434-6793"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I103187081",
@@ -1886,13 +1948,13 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 53.7275,
+      "fwci": 53.2301,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 211,
+      "cited_by_count": 212,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99893421,
+        "value": 0.99893131,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3082,7 +3144,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2023,
@@ -3113,7 +3175,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3182,6 +3244,7 @@
         "https://openalex.org/W2399942965"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3199,11 +3262,13 @@
           "author": {
             "id": "https://openalex.org/A5026745332",
             "display_name": "Christopher M. Stimpson",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4327-4987",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4327-4987"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3240,11 +3305,13 @@
           "author": {
             "id": "https://openalex.org/A5008745120",
             "display_name": "Adrian M. Lister",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7985-138X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7985-138X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1336856363",
@@ -3281,11 +3348,13 @@
           "author": {
             "id": "https://openalex.org/A5005196675",
             "display_name": "Ash Parton",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1547-7675",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1547-7675"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3322,9 +3391,11 @@
           "author": {
             "id": "https://openalex.org/A5039171376",
             "display_name": "Laine Clark‐Balzan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3361,11 +3432,13 @@
           "author": {
             "id": "https://openalex.org/A5031524231",
             "display_name": "Paul S. Breeze",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2575-8021",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2575-8021"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -3403,11 +3476,13 @@
           "author": {
             "id": "https://openalex.org/A5108481153",
             "display_name": "Nick Drake",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3451-6668",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3451-6668"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -3445,11 +3520,13 @@
           "author": {
             "id": "https://openalex.org/A5087955542",
             "display_name": "Huw S. Groucutt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9111-1720",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9111-1720"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3486,11 +3563,13 @@
           "author": {
             "id": "https://openalex.org/A5012731321",
             "display_name": "Richard P. Jennings",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9996-7518",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9996-7518"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3527,11 +3606,13 @@
           "author": {
             "id": "https://openalex.org/A5090082899",
             "display_name": "Eleanor M. L. Scerri",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7468-9977",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7468-9977"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3568,11 +3649,13 @@
           "author": {
             "id": "https://openalex.org/A5085090223",
             "display_name": "Tom S. White",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9056-7286",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9056-7286"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3609,11 +3692,13 @@
           "author": {
             "id": "https://openalex.org/A5045873226",
             "display_name": "Muhammad Zahir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1765-6319",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1765-6319"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I263208278",
@@ -3650,11 +3735,13 @@
           "author": {
             "id": "https://openalex.org/A5060957276",
             "display_name": "Mathieu Duval",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3181-7753",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3181-7753"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210107073",
@@ -3691,11 +3778,13 @@
           "author": {
             "id": "https://openalex.org/A5014664106",
             "display_name": "Rainer Grün",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1366-3674",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1366-3674"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I11701301",
@@ -3732,11 +3821,13 @@
           "author": {
             "id": "https://openalex.org/A5028580948",
             "display_name": "Abdulaziz Al-Omari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0638-348X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0638-348X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3758,9 +3849,11 @@
           "author": {
             "id": "https://openalex.org/A5070992934",
             "display_name": "Khalid Sultan M. Al Murayyi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3782,11 +3875,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3808,11 +3903,13 @@
           "author": {
             "id": "https://openalex.org/A5074597612",
             "display_name": "Yahya A. Mufarreh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9018-9000",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9018-9000"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3834,11 +3931,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3860,12 +3959,14 @@
           "author": {
             "id": "https://openalex.org/A5037966215",
             "display_name": "Michael D. Petraglia",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2522-5727",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2522-5727",
               "https://orcid.org/0000-0001-5434-6793"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -3913,13 +4014,13 @@
         "value_usd": 3920
       },
       "apc_paid": null,
-      "fwci": 15.2201,
+      "fwci": 15.066,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 51,
+      "cited_by_count": 52,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9880922,
+        "value": 0.98790975,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4748,7 +4849,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2023,
@@ -4783,7 +4884,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4851,6 +4952,7 @@
         "https://openalex.org/W2591900046"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4868,11 +4970,13 @@
           "author": {
             "id": "https://openalex.org/A5031524231",
             "display_name": "Paul S. Breeze",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2575-8021",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2575-8021"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -4910,11 +5014,13 @@
           "author": {
             "id": "https://openalex.org/A5087955542",
             "display_name": "Huw S. Groucutt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9111-1720",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9111-1720"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -4951,11 +5057,13 @@
           "author": {
             "id": "https://openalex.org/A5108481153",
             "display_name": "Nick Drake",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3451-6668",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3451-6668"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -4993,11 +5101,13 @@
           "author": {
             "id": "https://openalex.org/A5055696620",
             "display_name": "Julien Louys",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7539-0689",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7539-0689"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I118347636",
@@ -5034,11 +5144,13 @@
           "author": {
             "id": "https://openalex.org/A5090082899",
             "display_name": "Eleanor M. L. Scerri",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7468-9977",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7468-9977"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -5075,11 +5187,13 @@
           "author": {
             "id": "https://openalex.org/A5062177152",
             "display_name": "Simon James Armitage",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1480-9188",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1480-9188"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I124357947",
@@ -5128,11 +5242,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5154,11 +5270,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5180,9 +5298,11 @@
           "author": {
             "id": "https://openalex.org/A5050631823",
             "display_name": "Mohammed A. Haptari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5204,9 +5324,11 @@
           "author": {
             "id": "https://openalex.org/A5036852220",
             "display_name": "Saleh A. Soubhi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5228,9 +5350,11 @@
           "author": {
             "id": "https://openalex.org/A5027157085",
             "display_name": "Adel H. Matari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5252,11 +5376,13 @@
           "author": {
             "id": "https://openalex.org/A5045873226",
             "display_name": "Muhammad Zahir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-1765-6319",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1765-6319"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I263208278",
@@ -5293,11 +5419,13 @@
           "author": {
             "id": "https://openalex.org/A5028580948",
             "display_name": "Abdulaziz Al-Omari",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0638-348X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0638-348X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5319,11 +5447,13 @@
           "author": {
             "id": "https://openalex.org/A5066236838",
             "display_name": "Abdullah Alsharekh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2666-3262",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2666-3262"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I28022161",
@@ -5360,12 +5490,14 @@
           "author": {
             "id": "https://openalex.org/A5037966215",
             "display_name": "Michael D. Petraglia",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2522-5727",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2522-5727",
               "https://orcid.org/0000-0001-5434-6793"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210161060",
@@ -6228,6 +6360,7 @@
         "https://openalex.org/W2971608975"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6245,9 +6378,11 @@
           "author": {
             "id": "https://openalex.org/A5111895639",
             "display_name": "Jean M. Philip",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405265080",
@@ -6285,9 +6420,11 @@
           "author": {
             "id": "https://openalex.org/A5104831905",
             "display_name": "Jack Roger",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -6324,9 +6461,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -6363,9 +6502,11 @@
           "author": {
             "id": "https://openalex.org/A5057776445",
             "display_name": "Fabrizio Cecca",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405265080",
@@ -6403,11 +6544,13 @@
           "author": {
             "id": "https://openalex.org/A5038238046",
             "display_name": "Silvia Gardin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0718-9323",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0718-9323"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405264447",
@@ -6445,11 +6588,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6474,13 +6619,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3576,
+      "fwci": 1.3296,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77194492,
+        "value": 0.7680758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7441,6 +7586,7 @@
         "https://openalex.org/W3203435426"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -7459,11 +7605,13 @@
           "author": {
             "id": "https://openalex.org/A5053303871",
             "display_name": "Bridget Susan Wade",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7245-8614",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7245-8614"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I45129253",
@@ -7501,11 +7649,13 @@
           "author": {
             "id": "https://openalex.org/A5032633264",
             "display_name": "Mohammed H. Aljahdali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8194-8810",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8194-8810"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185163786",
@@ -7542,9 +7692,11 @@
           "author": {
             "id": "https://openalex.org/A5011385947",
             "display_name": "Yahya A. Mufrreh",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7566,11 +7718,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7592,9 +7746,11 @@
           "author": {
             "id": "https://openalex.org/A5003725129",
             "display_name": "Salih A. AlSoubhi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7616,11 +7772,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8632,6 +8790,7 @@
         "https://openalex.org/W1496924522"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8649,11 +8808,13 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7951-7963",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7951-7963"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -8690,9 +8851,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -8729,11 +8892,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8755,9 +8920,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8779,11 +8946,13 @@
           "author": {
             "id": "https://openalex.org/A5047287014",
             "display_name": "Sophie Viseur",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2098-3692",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2098-3692"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4405265080",
@@ -8824,13 +8993,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5686,
+      "fwci": 2.5092,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8651038,
+        "value": 0.86175972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9975,6 +10144,7 @@
         "https://openalex.org/W3003836963"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -9992,11 +10162,13 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7951-7963",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7951-7963"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -10033,9 +10205,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -10072,9 +10246,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10111,9 +10287,11 @@
           "author": {
             "id": "https://openalex.org/A5004562819",
             "display_name": "Chris Reid",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10150,11 +10328,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -10176,9 +10356,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -11133,6 +11315,7 @@
         "https://openalex.org/W4254410303"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11150,11 +11333,13 @@
           "author": {
             "id": "https://openalex.org/A5032633264",
             "display_name": "Mohammed H. Aljahdali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8194-8810",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8194-8810"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185163786",
@@ -11191,11 +11376,13 @@
           "author": {
             "id": "https://openalex.org/A5066220518",
             "display_name": "Mohamed Elhag",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9048-0084",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9048-0084"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185163786",
@@ -11260,9 +11447,11 @@
           "author": {
             "id": "https://openalex.org/A5011385947",
             "display_name": "Yahya A. Mufrreh",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I185163786",
@@ -11327,11 +11516,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -11358,9 +11549,11 @@
           "author": {
             "id": "https://openalex.org/A5003725129",
             "display_name": "Salih A. AlSoubhi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -11387,11 +11580,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -11413,13 +11608,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9802,
+      "fwci": 0.9541,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6767095,
+        "value": 0.66832579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12296,6 +12491,7 @@
         "https://openalex.org/W1964246278"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12313,11 +12509,13 @@
           "author": {
             "id": "https://openalex.org/A5049961167",
             "display_name": "Abdullah O. Bamousa",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6107-4503",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6107-4503"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I23075662",
@@ -12361,11 +12559,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -12392,9 +12592,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -12432,13 +12634,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.7186,
+      "fwci": 0.7105,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.745736,
+        "value": 0.74192637,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12459,7 +12661,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "score": 0.6255000233650208,
+        "score": 0.6079000234603882,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -12477,7 +12679,7 @@
         {
           "id": "https://openalex.org/T13177",
           "display_name": "Geological and Geophysical Studies",
-          "score": 0.6255000233650208,
+          "score": 0.6079000234603882,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -12494,7 +12696,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.16599999368190765,
+          "score": 0.17080000042915344,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -12511,7 +12713,7 @@
         {
           "id": "https://openalex.org/T12083",
           "display_name": "Karst Systems and Hydrogeology",
-          "score": 0.09860000014305115,
+          "score": 0.0966000035405159,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -12530,42 +12732,42 @@
         {
           "id": "https://openalex.org/keywords/tectonic-geomorphology",
           "display_name": "morphotectonics",
-          "score": 0.9580000042915344
+          "score": 0.9539999961853027
         },
         {
           "id": "https://openalex.org/keywords/mesozoic-carbonates",
           "display_name": "Mesozoic carbonates",
-          "score": 0.9100000262260437
+          "score": 0.921999990940094
         },
         {
           "id": "https://openalex.org/keywords/evaporites",
           "display_name": "evaporites",
-          "score": 0.9779999852180481
+          "score": 0.9800000190734863
         },
         {
           "id": "https://openalex.org/keywords/arab-formation",
           "display_name": "Arab Formation",
-          "score": 0.8519999980926514
+          "score": 0.8420000076293945
         },
         {
           "id": "https://openalex.org/keywords/sinkholes",
           "display_name": "sinkholes",
-          "score": 0.8050000071525574
+          "score": 0.7900000214576721
         },
         {
           "id": "https://openalex.org/keywords/extensional-faulting",
           "display_name": "extensional faulting",
-          "score": 0.7509999871253967
+          "score": 0.734000027179718
         },
         {
           "id": "https://openalex.org/keywords/subsidence",
           "display_name": "subsidence",
-          "score": 0.7289999723434448
+          "score": 0.7699999809265137
         },
         {
           "id": "https://openalex.org/keywords/arabian-platform",
           "display_name": "Arabian Platform",
-          "score": 0.5379999876022339
+          "score": 0.5370000004768372
         }
       ],
       "concepts": [
@@ -12793,7 +12995,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12856,6 +13058,7 @@
         "https://openalex.org/W3146973300"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12873,11 +13076,13 @@
           "author": {
             "id": "https://openalex.org/A5100410599",
             "display_name": "Yunlong Zhang",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8315-0650",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8315-0650"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210134214",
@@ -12935,12 +13140,14 @@
           "author": {
             "id": "https://openalex.org/A5101699144",
             "display_name": "Ziying Li",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3575-1149",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3575-1149",
               "https://orcid.org/0009-0000-1500-7721"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210134214",
@@ -13002,9 +13209,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -13047,9 +13256,11 @@
           "author": {
             "id": "https://openalex.org/A5109396102",
             "display_name": "Mingkuan Qin",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210134214",
@@ -13099,9 +13310,11 @@
           "author": {
             "id": "https://openalex.org/A5002668684",
             "display_name": "Ahmed S. Banakhar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13136,9 +13349,11 @@
           "author": {
             "id": "https://openalex.org/A5143875464",
             "display_name": "Zhixing Li",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210134214",
@@ -13180,11 +13395,13 @@
           "author": {
             "id": "https://openalex.org/A5100655055",
             "display_name": "Zhixing Li",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4535-7623",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4535-7623"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210134214",
@@ -13226,11 +13443,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13265,9 +13484,11 @@
           "author": {
             "id": "https://openalex.org/A5063777274",
             "display_name": "Abdullah M. Al Shammari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13298,11 +13519,13 @@
           "author": {
             "id": "https://openalex.org/A5072328252",
             "display_name": "Guochen Li",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0655-6064",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0655-6064"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210134214",
@@ -13364,13 +13587,13 @@
         "currency": "CHF",
         "value_usd": 1944
       },
-      "fwci": 1.1129,
+      "fwci": 1.0843,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69228746,
+        "value": 0.68420698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14363,6 +14586,7 @@
         "https://openalex.org/W4381681826"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14381,9 +14605,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14398,9 +14624,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14415,9 +14643,11 @@
           "author": {
             "id": "https://openalex.org/A5109445293",
             "display_name": "Bruno Vrielynck",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14432,11 +14662,13 @@
           "author": {
             "id": "https://openalex.org/A5013388794",
             "display_name": "Leopold Krystyn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5137",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5137"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14451,9 +14683,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14468,11 +14702,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -14487,9 +14723,11 @@
           "author": {
             "id": "https://openalex.org/A5042844492",
             "display_name": "Roger Brett Davies",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -15984,6 +16222,7 @@
         "https://openalex.org/W4405807404"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16001,11 +16240,13 @@
           "author": {
             "id": "https://openalex.org/A5009798673",
             "display_name": "Francisco Gutiérrez",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5407-940X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5407-940X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I255234318",
@@ -16042,9 +16283,11 @@
           "author": {
             "id": "https://openalex.org/A5014019772",
             "display_name": "Yasser A. Zabramawi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16066,11 +16309,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16092,11 +16337,13 @@
           "author": {
             "id": "https://openalex.org/A5080352482",
             "display_name": "Ahmed M. Youssef",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3297-4868",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3297-4868"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16118,9 +16365,11 @@
           "author": {
             "id": "https://openalex.org/A5053930144",
             "display_name": "Alaa M. Bahamil",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16142,11 +16391,13 @@
           "author": {
             "id": "https://openalex.org/A5062005396",
             "display_name": "Luis F. Auqué",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1463-1682",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1463-1682"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I255234318",
@@ -16198,13 +16449,13 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 1.1987,
+      "fwci": 1.1867,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70537839,
+        "value": 0.70180665,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16275,16 +16526,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10535",
-          "display_name": "Landslides and related hazards",
+          "id": "https://openalex.org/T12456",
+          "display_name": "Geotourism and Geoheritage Conservation",
           "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/2308",
-            "display_name": "Management, Monitoring, Policy and Law"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -16294,39 +16545,39 @@
       ],
       "keywords": [
         {
+          "id": "https://openalex.org/keywords/dissolution-front",
+          "display_name": "dissolution front",
+          "score": 0.8299999833106995
+        },
+        {
           "id": "https://openalex.org/keywords/evaporite-karst",
           "display_name": "evaporite karst",
-          "score": 0.8859999775886536
+          "score": 0.9539999961853027
         },
         {
           "id": "https://openalex.org/keywords/salt-dissolution",
           "display_name": "salt dissolution",
-          "score": 0.5979999899864197
+          "score": 0.49900001287460327
         },
         {
           "id": "https://openalex.org/keywords/arab-formation",
           "display_name": "Arab Formation",
-          "score": 0.5619999766349792
+          "score": 0.7900000214576721
         },
         {
           "id": "https://openalex.org/keywords/late-jurassic",
           "display_name": "Late Jurassic",
-          "score": 0.515999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/collapse-sinkholes",
-          "display_name": "collapse sinkholes",
-          "score": 0.8610000014305115
+          "score": 0.6579999923706055
         },
         {
           "id": "https://openalex.org/keywords/salt-tectonics",
           "display_name": "salt tectonics",
-          "score": 0.6679999828338623
+          "score": 0.5680000185966492
         },
         {
-          "id": "https://openalex.org/keywords/central-saudi-arabia",
-          "display_name": "central Saudi Arabia",
-          "score": 0.6010000109672546
+          "id": "https://openalex.org/keywords/urban-expansion",
+          "display_name": "urban expansion",
+          "score": 0.43799999356269836
         }
       ],
       "concepts": [
@@ -17244,7 +17495,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-12-27T00:00:00"
     },
     {
@@ -17301,6 +17552,7 @@
         "https://openalex.org/W1604102604"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17318,11 +17570,13 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7951-7963",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7951-7963"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -17359,9 +17613,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -17398,11 +17654,13 @@
           "author": {
             "id": "https://openalex.org/A5047287014",
             "display_name": "Sophie Viseur",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2098-3692",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2098-3692"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -17424,11 +17682,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -17450,9 +17710,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -17477,13 +17739,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8347,
+      "fwci": 1.7923,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82516379,
+        "value": 0.82079664,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18990,6 +19252,7 @@
         "https://openalex.org/W2806939555"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19007,11 +19270,13 @@
           "author": {
             "id": "https://openalex.org/A5020240408",
             "display_name": "Emad Nagm",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0384-0446",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0384-0446"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I184834183",
@@ -19066,11 +19331,13 @@
           "author": {
             "id": "https://openalex.org/A5049961167",
             "display_name": "Abdullah O. Bamousa",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6107-4503",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6107-4503"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I23075662",
@@ -19107,11 +19374,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19133,11 +19402,13 @@
           "author": {
             "id": "https://openalex.org/A5081258749",
             "display_name": "Ibrahim A.A. Babikir",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3608-9057",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3608-9057"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I23075662",
@@ -19174,9 +19445,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19210,13 +19483,13 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 0.5606,
+      "fwci": 0.5523,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6000347,
+        "value": 0.5943487,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19628,6 +19901,7 @@
         "https://openalex.org/W4409425286"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19645,11 +19919,13 @@
           "author": {
             "id": "https://openalex.org/A5076656571",
             "display_name": "Asmaa Korin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9618-3849",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9618-3849"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19686,11 +19962,13 @@
           "author": {
             "id": "https://openalex.org/A5060256566",
             "display_name": "Sherif Allam",
+            "type": null,
             "orcid": "https://orcid.org/0009-0004-4049-9237",
             "observed_orcids": [
               "https://orcid.org/0009-0004-4049-9237"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19727,11 +20005,13 @@
           "author": {
             "id": "https://openalex.org/A5082826691",
             "display_name": "JOHN D. HUMPHREY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8927-2322"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19768,11 +20048,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19809,11 +20091,13 @@
           "author": {
             "id": "https://openalex.org/A5028675144",
             "display_name": "Korhan Ayrancı",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4808-9898",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4808-9898"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -19850,9 +20134,11 @@
           "author": {
             "id": null,
             "display_name": "Mohammed I. Najjar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19874,9 +20160,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19898,11 +20186,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19924,11 +20214,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19950,11 +20242,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20002,13 +20296,13 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 2.2081,
+      "fwci": 2.1784,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85052161,
+        "value": 0.84755915,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20435,6 +20729,7 @@
         "https://openalex.org/W4415698517"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20452,11 +20747,13 @@
           "author": {
             "id": "https://openalex.org/A5060256566",
             "display_name": "Sherif Allam",
+            "type": null,
             "orcid": "https://orcid.org/0009-0004-4049-9237",
             "observed_orcids": [
               "https://orcid.org/0009-0004-4049-9237"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20493,11 +20790,13 @@
           "author": {
             "id": "https://openalex.org/A5076656571",
             "display_name": "Asmaa Korin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9618-3849",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9618-3849"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20534,11 +20833,13 @@
           "author": {
             "id": "https://openalex.org/A5051302005",
             "display_name": "Adhipa Herlambang",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0583-7438",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0583-7438"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20575,11 +20876,13 @@
           "author": {
             "id": "https://openalex.org/A5082826691",
             "display_name": "JOHN D. HUMPHREY",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8927-2322"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20616,9 +20919,11 @@
           "author": {
             "id": "https://openalex.org/A5120157906",
             "display_name": "Mohammed I. Alnajjar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20640,9 +20945,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20664,11 +20971,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20690,11 +20999,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20716,11 +21027,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -20760,13 +21073,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3249,
+      "fwci": 1.307,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71654247,
+        "value": 0.71188979,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21116,8 +21429,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -21731,6 +22044,7 @@
         "https://openalex.org/W2554230596"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -21748,11 +22062,13 @@
           "author": {
             "id": "https://openalex.org/A5049961167",
             "display_name": "Abdullah O. Bamousa",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6107-4503",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6107-4503"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I23075662",
@@ -21789,11 +22105,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -21815,9 +22133,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -21839,9 +22159,11 @@
           "author": {
             "id": "https://openalex.org/A5071471457",
             "display_name": "Ali A. Al-Zahrani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -22305,6 +22627,7 @@
         "https://openalex.org/W4385358246"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22323,9 +22646,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -22367,9 +22692,11 @@
           "author": {
             "id": "https://openalex.org/A5042844492",
             "display_name": "Roger Brett Davies",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -22416,11 +22743,13 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7951-7963",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7951-7963"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -22469,11 +22798,13 @@
           "author": {
             "id": "https://openalex.org/A5013388794",
             "display_name": "Leopold Krystyn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5137",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5137"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I129774422",
@@ -22522,9 +22853,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -22568,9 +22901,11 @@
           "author": {
             "id": "https://openalex.org/A5109445293",
             "display_name": "Bruno Vrielynck",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -22684,11 +23019,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I39804081",
@@ -24014,6 +24351,7 @@
         "https://openalex.org/W4388043308"
       ],
       "child_works_count": 1,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24031,9 +24369,11 @@
           "author": {
             "id": "https://openalex.org/A5062734987",
             "display_name": "Abdullah I. Nabhan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -24055,9 +24395,11 @@
           "author": {
             "id": "https://openalex.org/A5034675340",
             "display_name": "Nawaf Widinly",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -24079,11 +24421,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -24105,9 +24449,11 @@
           "author": {
             "id": "https://openalex.org/A5113033721",
             "display_name": "Mustafa Khorsheed",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -24129,11 +24475,13 @@
           "author": {
             "id": "https://openalex.org/A5020462389",
             "display_name": "Abdelbaset S. El‐Sorogy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0283-1433",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0283-1433"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I192398990",
@@ -24188,11 +24536,13 @@
           "author": {
             "id": "https://openalex.org/A5073580342",
             "display_name": "Mohamed Tawfik",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0192-9471",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0192-9471"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I192398990",
@@ -25213,6 +25563,7 @@
         "https://openalex.org/W4415609376"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "review",
       "is_traditional": true,
       "indexed_in": [
@@ -25230,11 +25581,13 @@
           "author": {
             "id": "https://openalex.org/A5076656571",
             "display_name": "Asmaa Korin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9618-3849",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9618-3849"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -25289,11 +25642,13 @@
           "author": {
             "id": "https://openalex.org/A5060256566",
             "display_name": "Sherif Allam",
+            "type": null,
             "orcid": "https://orcid.org/0009-0004-4049-9237",
             "observed_orcids": [
               "https://orcid.org/0009-0004-4049-9237"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -25330,11 +25685,13 @@
           "author": {
             "id": "https://openalex.org/A5067546940",
             "display_name": "Sinatrya Diko Prayudi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4009-2232",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4009-2232"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -25371,11 +25728,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I27837315",
@@ -25417,11 +25776,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25443,9 +25804,11 @@
           "author": {
             "id": "https://openalex.org/A5120157906",
             "display_name": "Mohammed I. Alnajjar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25467,9 +25830,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25491,11 +25856,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -26578,6 +26945,7 @@
         "https://openalex.org/W4416430946"
       ],
       "child_works_count": 21,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26597,11 +26965,13 @@
           "author": {
             "id": "https://openalex.org/A5087955542",
             "display_name": "Huw S. Groucutt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9111-1720",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9111-1720"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I180923762",
@@ -26685,11 +27055,13 @@
           "author": {
             "id": "https://openalex.org/A5071155300",
             "display_name": "Mathew Stewart",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0413-8133",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0413-8133"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I11701301",
@@ -26759,9 +27131,11 @@
           "author": {
             "id": "https://openalex.org/A5095746657",
             "display_name": "Faisal Al‐Jibreen",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26804,11 +27178,13 @@
           "author": {
             "id": "https://openalex.org/A5001645259",
             "display_name": "Mesfer Alqahtani",
+            "type": null,
             "orcid": "https://orcid.org/0009-0001-6363-3206",
             "observed_orcids": [
               "https://orcid.org/0009-0001-6363-3206"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I170201317",
@@ -26859,11 +27235,13 @@
           "author": {
             "id": "https://openalex.org/A5032509318",
             "display_name": "Mahmoud A. Al-Shanti",
+            "type": null,
             "orcid": "https://orcid.org/0009-0000-5626-4425",
             "observed_orcids": [
               "https://orcid.org/0009-0000-5626-4425"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26902,11 +27280,13 @@
           "author": {
             "id": "https://openalex.org/A5038127118",
             "display_name": "Eric Andrieux",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1688-0543",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1688-0543"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I190082696",
@@ -26952,11 +27332,13 @@
           "author": {
             "id": "https://openalex.org/A5007808888",
             "display_name": "James Blinkhorn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9399-5515",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9399-5515"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146655781",
@@ -27021,11 +27403,13 @@
           "author": {
             "id": "https://openalex.org/A5053711058",
             "display_name": "Nicole L. Boivin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7783-4199",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7783-4199"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I11701301",
@@ -27111,11 +27495,13 @@
           "author": {
             "id": "https://openalex.org/A5031524231",
             "display_name": "Paul S. Breeze",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2575-8021",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2575-8021"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -27178,11 +27564,13 @@
           "author": {
             "id": "https://openalex.org/A5108481153",
             "display_name": "Nick Drake",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3451-6668",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3451-6668"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I183935753",
@@ -27245,11 +27633,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27284,11 +27674,13 @@
           "author": {
             "id": "https://openalex.org/A5074597612",
             "display_name": "Yahya A. Mufarreh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9018-9000",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9018-9000"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27319,11 +27711,13 @@
           "author": {
             "id": "https://openalex.org/A5008698053",
             "display_name": "Gilbert James Price",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8406-4594",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8406-4594"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I165143802",
@@ -27373,11 +27767,13 @@
           "author": {
             "id": "https://openalex.org/A5090082899",
             "display_name": "Eleanor M. L. Scerri",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7468-9977",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7468-9977"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I180923762",
@@ -27459,11 +27855,13 @@
           "author": {
             "id": "https://openalex.org/A5069641491",
             "display_name": "Nils Vanwezer",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2330-0204",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2330-0204"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210161060",
@@ -27515,11 +27913,13 @@
           "author": {
             "id": "https://openalex.org/A5069621379",
             "display_name": "Hubert Vonhof",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0897-8244",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0897-8244"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210113422",
@@ -27566,11 +27966,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -27601,11 +28003,13 @@
           "author": {
             "id": "https://openalex.org/A5066236838",
             "display_name": "Abdullah Alsharekh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2666-3262",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2666-3262"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I28022161",
@@ -27667,12 +28071,14 @@
           "author": {
             "id": "https://openalex.org/A5037966215",
             "display_name": "Michael D. Petraglia",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2522-5727",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2522-5727",
               "https://orcid.org/0000-0001-5434-6793"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I103187081",
@@ -27799,13 +28205,13 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 1.4498,
+      "fwci": 1.4229,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77964056,
+        "value": 0.77677483,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29142,6 +29548,7 @@
         "https://openalex.org/W7133207698"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29159,11 +29566,13 @@
           "author": {
             "id": "https://openalex.org/A5076656571",
             "display_name": "Asmaa Korin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9618-3849",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9618-3849"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29178,11 +29587,13 @@
           "author": {
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29197,11 +29608,13 @@
           "author": {
             "id": "https://openalex.org/A5060256566",
             "display_name": "Sherif Allam",
+            "type": null,
             "orcid": "https://orcid.org/0009-0004-4049-9237",
             "observed_orcids": [
               "https://orcid.org/0009-0004-4049-9237"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29216,11 +29629,13 @@
           "author": {
             "id": "https://openalex.org/A5067546940",
             "display_name": "Sinatrya Diko Prayudi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4009-2232",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4009-2232"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29235,9 +29650,11 @@
           "author": {
             "id": "https://openalex.org/A5120157906",
             "display_name": "Mohammed I. Alnajjar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29252,9 +29669,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29269,11 +29688,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29288,11 +29709,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29307,11 +29730,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -29677,8 +30102,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.617900013923645,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.617900013923645
         }
       ],
       "study_designs": [],
@@ -30273,6 +30698,7 @@
         "https://openalex.org/W2049854591"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30290,11 +30716,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30309,9 +30737,11 @@
           "author": {
             "id": "https://openalex.org/A5057145151",
             "display_name": "Y. M. Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30326,9 +30756,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30343,9 +30775,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -30363,13 +30797,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6136,
+      "fwci": 0.6231,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66837519,
+        "value": 0.67383692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30941,6 +31375,7 @@
         "https://openalex.org/W3023665096"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -30958,11 +31393,13 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7951-7963",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7951-7963"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -30999,9 +31436,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -31038,11 +31477,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31064,9 +31505,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31091,13 +31534,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5079,
+      "fwci": 4.7752,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90831663,
+        "value": 0.91276102,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31443,8 +31886,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -31830,6 +32273,7 @@
         "https://openalex.org/W2533465336"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -31847,9 +32291,11 @@
           "author": {
             "id": null,
             "display_name": "U.S. Geological Survey",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31864,9 +32310,11 @@
           "author": {
             "id": null,
             "display_name": "John W. Whitney",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1286329397",
@@ -31904,9 +32352,11 @@
           "author": {
             "id": "https://openalex.org/A5039653011",
             "display_name": "Ahmed Banakar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31933,11 +32383,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31959,9 +32411,11 @@
           "author": {
             "id": "https://openalex.org/A5013827096",
             "display_name": "Mir Fazlul Karim",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31983,9 +32437,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32007,9 +32463,11 @@
           "author": {
             "id": "https://openalex.org/A5075734583",
             "display_name": "Abdulraheem Sabbahi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32031,9 +32489,11 @@
           "author": {
             "id": "https://openalex.org/A5025003580",
             "display_name": "Saeed Amoudi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32055,9 +32515,11 @@
           "author": {
             "id": "https://openalex.org/A5040292886",
             "display_name": "Abdurrahman Jeaid",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32079,9 +32541,11 @@
           "author": {
             "id": "https://openalex.org/A5062734987",
             "display_name": "Abdullah I. Nabhan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -32126,7 +32590,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "score": 0.7422000169754028,
+        "score": 0.9785000085830688,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -32144,7 +32608,7 @@
         {
           "id": "https://openalex.org/T12383",
           "display_name": "Aeolian processes and effects",
-          "score": 0.7422000169754028,
+          "score": 0.9785000085830688,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -32161,7 +32625,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.1509000062942505,
+          "score": 0.00570000009611249,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -32178,7 +32642,7 @@
         {
           "id": "https://openalex.org/T12577",
           "display_name": "Geography and Environmental Studies",
-          "score": 0.006099999882280827,
+          "score": 0.00279999990016222,
           "subfield": {
             "id": "https://openalex.org/subfields/2312",
             "display_name": "Water Science and Technology"
@@ -32197,22 +32661,32 @@
         {
           "id": "https://openalex.org/keywords/dolomite",
           "display_name": "dolomite",
-          "score": 0.7950000166893005
+          "score": 0.671999990940094
         },
         {
           "id": "https://openalex.org/keywords/wind-erosion",
           "display_name": "wind erosion",
-          "score": 0.6639999747276306
+          "score": 0.8330000042915344
         },
         {
-          "id": "https://openalex.org/keywords/karst",
-          "display_name": "karst",
-          "score": 0.4339999854564667
+          "id": "https://openalex.org/keywords/karst-dissolution",
+          "display_name": "karst dissolution",
+          "score": 0.8199999928474426
         },
         {
-          "id": "https://openalex.org/keywords/saudi-arabia",
-          "display_name": "Saudi Arabia",
-          "score": 0.5189999938011169
+          "id": "https://openalex.org/keywords/duricrusts",
+          "display_name": "duricrusts",
+          "score": 0.8610000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/sand-seas",
+          "display_name": "sand seas",
+          "score": 0.7179999947547913
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-weathering",
+          "display_name": "chemical weathering",
+          "score": 0.5419999957084656
         }
       ],
       "concepts": [
@@ -33026,7 +33500,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2533465336",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -33083,6 +33557,7 @@
         "https://openalex.org/W2902600113"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -33100,9 +33575,11 @@
           "author": {
             "id": null,
             "display_name": "Saudi Geological Survey",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33117,11 +33594,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33143,9 +33622,11 @@
           "author": {
             "id": "https://openalex.org/A5062734987",
             "display_name": "Abdullah I. Nabhan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33167,9 +33648,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -33214,7 +33697,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.5009999871253967,
+        "score": 0.9740999937057495,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -33232,7 +33715,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.5009999871253967,
+          "score": 0.9740999937057495,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -33249,7 +33732,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.3707999885082245,
+          "score": 0.017899999395012856,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -33264,12 +33747,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.052000001072883606,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.002899999963119626,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -33283,29 +33766,34 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/lithostratigraphy",
-          "display_name": "lithostratigraphy",
-          "score": 0.9909999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/environment-of-deposition",
-          "display_name": "environment of deposition",
-          "score": 0.7870000004768372
-        },
-        {
           "id": "https://openalex.org/keywords/middle-cambrian",
           "display_name": "Middle Cambrian",
-          "score": 0.9919999837875366
+          "score": 0.9350000023841858
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "sedimentary rock",
-          "score": 0.9810000061988831
+          "id": "https://openalex.org/keywords/lithostratigraphy",
+          "display_name": "lithostratigraphy",
+          "score": 0.9679999947547913
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphic-nomenclature",
-          "display_name": "stratigraphic nomenclature",
-          "score": 0.6570000052452087
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.9490000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial-influence",
+          "display_name": "fluvial influence",
+          "score": 0.6159999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-platform",
+          "display_name": "Arabian Platform",
+          "score": 0.6290000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.5630000233650208
         }
       ],
       "concepts": [
@@ -33990,7 +34478,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2902600113",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2018-12-11T00:00:00"
     },
     {
@@ -34046,6 +34534,7 @@
         "https://openalex.org/W4417217538"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [
@@ -34063,9 +34552,11 @@
           "author": {
             "id": "https://openalex.org/A5120763492",
             "display_name": "MOHAMMED FADANI",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34080,9 +34571,11 @@
           "author": {
             "id": null,
             "display_name": "MOHAMMED NAJJAR",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34097,9 +34590,11 @@
           "author": {
             "id": "https://openalex.org/A5120763493",
             "display_name": "ABDOU ALMASSARI",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34114,9 +34609,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34131,9 +34628,11 @@
           "author": {
             "id": "https://openalex.org/A5050631823",
             "display_name": "Mohammed A. Haptari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34148,11 +34647,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34167,11 +34668,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -34209,7 +34712,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.8852999806404114,
+        "score": 0.8666999936103821,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -34227,7 +34730,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.8852999806404114,
+          "score": 0.8666999936103821,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -34244,7 +34747,7 @@
         {
           "id": "https://openalex.org/T10955",
           "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.08869999647140503,
+          "score": 0.12409999966621399,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -34259,12 +34762,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.005900000222027302,
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.0044999998062849045,
           "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -34280,27 +34783,62 @@
         {
           "id": "https://openalex.org/keywords/jurassic-paleontology",
           "display_name": "Jurassic paleontology",
-          "score": 0.7269999980926514
+          "score": 0.7799999713897705
         },
         {
           "id": "https://openalex.org/keywords/jazan-region",
           "display_name": "Jazan region",
-          "score": 0.8790000081062317
+          "score": 0.8019999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/kimmeridgian",
+          "display_name": "Kimmeridgian",
+          "score": 0.8009999990463257
         },
         {
           "id": "https://openalex.org/keywords/fossil-vertebrates",
           "display_name": "fossil vertebrates",
-          "score": 0.8740000128746033
+          "score": 0.6930000185966492
         },
         {
-          "id": "https://openalex.org/keywords/fossil-invertebrates",
-          "display_name": "fossil invertebrates",
-          "score": 0.699999988079071
+          "id": "https://openalex.org/keywords/bivalvia",
+          "display_name": "Bivalvia",
+          "score": 0.6800000071525574
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "stratigraphy",
-          "score": 0.30399999022483826
+          "id": "https://openalex.org/keywords/brachiopods",
+          "display_name": "brachiopods",
+          "score": 0.8209999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/pycnodontiformes",
+          "display_name": "Pycnodontiformes",
+          "score": 0.9539999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/lepisosteiformes",
+          "display_name": "Lepisosteiformes",
+          "score": 0.9660000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/turtles",
+          "display_name": "turtles",
+          "score": 0.906000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/plesiosauroidea",
+          "display_name": "Plesiosauroidea",
+          "score": 0.8830000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-assemblages",
+          "display_name": "fossil assemblages",
+          "score": 0.49799999594688416
+        },
+        {
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.5889999866485596
         }
       ],
       "concepts": [
@@ -35192,7 +35730,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4417217538",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2025-12-11T00:00:00"
     },
     {
@@ -35259,6 +35797,7 @@
         "https://openalex.org/W7132844398"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -35276,11 +35815,13 @@
           "author": {
             "id": "https://openalex.org/A5060256566",
             "display_name": "Sherif Allam",
+            "type": null,
             "orcid": "https://orcid.org/0009-0004-4049-9237",
             "observed_orcids": [
               "https://orcid.org/0009-0004-4049-9237"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -35317,11 +35858,13 @@
           "author": {
             "id": "https://openalex.org/A5076656571",
             "display_name": "Asmaa Korin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9618-3849",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9618-3849"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -35358,11 +35901,13 @@
           "author": {
             "id": "https://openalex.org/A5090938258",
             "display_name": "Amir Kalifi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3041-1401",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3041-1401"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -35399,11 +35944,13 @@
           "author": {
             "id": "https://openalex.org/A5074762766",
             "display_name": "Mahmoud Mowafi",
+            "type": null,
             "orcid": "https://orcid.org/0009-0008-9872-2891",
             "observed_orcids": [
               "https://orcid.org/0009-0008-9872-2891"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I71920554",
@@ -35440,11 +35987,13 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5832-7354",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5832-7354"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -35481,9 +36030,11 @@
           "author": {
             "id": "https://openalex.org/A5120157906",
             "display_name": "Mohammed I. Alnajjar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35505,9 +36056,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35529,11 +36082,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35555,11 +36110,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -35581,11 +36138,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -36260,6 +36819,7 @@
         "https://openalex.org/W7160127788"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -36277,11 +36837,13 @@
           "author": {
             "id": "https://openalex.org/A5076656571",
             "display_name": "Asmaa Korin",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9618-3849",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9618-3849"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36296,11 +36858,13 @@
           "author": {
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36315,11 +36879,13 @@
           "author": {
             "id": "https://openalex.org/A5060256566",
             "display_name": "Sherif Allam",
+            "type": null,
             "orcid": "https://orcid.org/0009-0004-4049-9237",
             "observed_orcids": [
               "https://orcid.org/0009-0004-4049-9237"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36334,11 +36900,13 @@
           "author": {
             "id": "https://openalex.org/A5067546940",
             "display_name": "Sinatrya Diko Prayudi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4009-2232",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4009-2232"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36353,9 +36921,11 @@
           "author": {
             "id": "https://openalex.org/A5120157906",
             "display_name": "Mohammed I. Alnajjar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36370,9 +36940,11 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36387,11 +36959,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36406,11 +36980,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1874-801X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -36425,11 +37001,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,

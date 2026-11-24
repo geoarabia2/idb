@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0002-8396-3923"
     ],
     "display_name": "Mohammed A. Al-Masrahy",
+    "type": null,
     "raw_author_names": [
       "Al-Masrahy, Mohammed Ali",
       "M. A. Al-Masrahy",
@@ -16,11 +17,11 @@
     ],
     "full_name": "Mohammed A. Al-Masrahy",
     "works_count": 16,
-    "cited_by_count": 301,
+    "cited_by_count": 305,
     "summary_stats": {
       "2yr_mean_citedness": 4,
       "h_index": 6,
-      "i10_index": 4
+      "i10_index": 5
     },
     "ids": {
       "openalex": "https://openalex.org/A5042665751",
@@ -329,7 +330,7 @@
         "year": 2018,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 20
+        "cited_by_count": 21
       },
       {
         "year": 2019,
@@ -347,19 +348,19 @@
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 27
+        "cited_by_count": 28
       },
       {
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 25
+        "cited_by_count": 26
       },
       {
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 30
+        "cited_by_count": 31
       },
       {
         "year": 2024,
@@ -392,7 +393,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5042665751",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -459,6 +460,7 @@
         "https://openalex.org/W1999436875"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -476,11 +478,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -517,11 +521,13 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8356-9889",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8356-9889"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -569,13 +575,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 9.8051,
+      "fwci": 9.6107,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 171,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98859283,
+        "value": 0.98807157,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1148,6 +1154,7 @@
         "https://openalex.org/W2004408791"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1165,11 +1172,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -1206,11 +1215,13 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8356-9889",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8356-9889"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -1258,13 +1269,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.881,
+      "fwci": 2.8177,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 84,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87956475,
+        "value": 0.8769605,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1571,8 +1582,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action"
         }
       ],
@@ -1803,6 +1814,7 @@
         "https://openalex.org/W4390510283"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1820,11 +1832,13 @@
           "author": {
             "id": "https://openalex.org/A5014657720",
             "display_name": "Abdulwahab Muhammad Bello",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4637-9883"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1861,11 +1875,13 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8203-851X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1902,11 +1918,13 @@
           "author": {
             "id": "https://openalex.org/A5035537771",
             "display_name": "Abdullah Alqubalee",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0543-9026",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0543-9026"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1950,11 +1968,13 @@
           "author": {
             "id": "https://openalex.org/A5080266129",
             "display_name": "Murtada Al-Hashem",
+            "type": null,
             "orcid": "https://orcid.org/0009-0005-4916-7930",
             "observed_orcids": [
               "https://orcid.org/0009-0005-4916-7930"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1991,9 +2011,11 @@
           "author": {
             "id": "https://openalex.org/A5093639122",
             "display_name": "Houssin Albarri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2030,11 +2052,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2071,11 +2095,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4872-6201"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2119,11 +2145,13 @@
           "author": {
             "id": "https://openalex.org/A5044235421",
             "display_name": "Lamidi Babalola",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0052-5603",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0052-5603"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2174,13 +2202,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.1734,
+      "fwci": 2.168,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86128457,
+        "value": 0.86056489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2201,7 +2229,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9887999892234802,
+        "score": 0.9901999831199646,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -2219,7 +2247,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9887999892234802,
+          "score": 0.9901999831199646,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -2236,7 +2264,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.004900000058114529,
+          "score": 0.003800000064074993,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -2253,7 +2281,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.00430000014603138,
+          "score": 0.003700000001117587,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -2272,17 +2300,17 @@
         {
           "id": "https://openalex.org/keywords/diagenesis",
           "display_name": "diagenesis",
-          "score": 0.7710000276565552
+          "score": 0.7620000243186951
         },
         {
           "id": "https://openalex.org/keywords/reservoir-porosity",
           "display_name": "reservoir porosity",
-          "score": 0.9390000104904175
+          "score": 0.9160000085830688
         },
         {
           "id": "https://openalex.org/keywords/aeolian-sandstone",
           "display_name": "aeolian sandstone",
-          "score": 0.7720000147819519
+          "score": 0.7910000085830688
         },
         {
           "id": "https://openalex.org/keywords/fluvial-sandstones",
@@ -2292,32 +2320,32 @@
         {
           "id": "https://openalex.org/keywords/reservoir-quality",
           "display_name": "reservoir quality",
-          "score": 0.7839999794960022
+          "score": 0.7580000162124634
         },
         {
           "id": "https://openalex.org/keywords/compaction",
           "display_name": "compaction",
-          "score": 0.8849999904632568
+          "score": 0.8870000243186951
         },
         {
           "id": "https://openalex.org/keywords/kaolinite",
           "display_name": "kaolinite",
-          "score": 0.8180000185966492
+          "score": 0.824999988079071
         },
         {
           "id": "https://openalex.org/keywords/chlorite",
           "display_name": "chlorite",
-          "score": 0.9739999771118164
+          "score": 0.972000002861023
         },
         {
           "id": "https://openalex.org/keywords/pore-occlusion",
           "display_name": "pore occlusion",
-          "score": 0.6690000295639038
+          "score": 0.5860000252723694
         },
         {
           "id": "https://openalex.org/keywords/saudi-arabia",
           "display_name": "Saudi Arabia",
-          "score": 0.593999981880188
+          "score": 0.5049999952316284
         }
       ],
       "concepts": [
@@ -2587,7 +2615,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-01-03T00:00:00"
     },
     {
@@ -2642,6 +2670,7 @@
         "https://openalex.org/W2620854490"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -2659,11 +2688,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2707,13 +2738,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.2871,
+      "fwci": 5.2235,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92866407,
+        "value": 0.92736706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3904,6 +3935,7 @@
         "https://openalex.org/W4408385867"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3921,11 +3953,13 @@
           "author": {
             "id": "https://openalex.org/A5066611492",
             "display_name": "Grace I.E. Cosgrove",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-2206-8714",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2206-8714"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -3962,9 +3996,11 @@
           "author": {
             "id": "https://openalex.org/A5050684737",
             "display_name": "Mohamed Al-Kathery",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -4001,11 +4037,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -4042,11 +4080,13 @@
           "author": {
             "id": "https://openalex.org/A5007815075",
             "display_name": "Luca Colombera",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9116-1800",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9116-1800"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I25217355",
@@ -4083,11 +4123,13 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8356-9889",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8356-9889"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -4124,9 +4166,11 @@
           "author": {
             "id": null,
             "display_name": "David B. Thompson",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5555,6 +5599,7 @@
         "https://openalex.org/W4392221632"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -5572,11 +5617,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5613,9 +5660,11 @@
           "author": {
             "id": "https://openalex.org/A5073646506",
             "display_name": "Hakima Ali Lahmar",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5637,9 +5686,11 @@
           "author": {
             "id": "https://openalex.org/A5108904312",
             "display_name": "Abdelmoniem Elaraby",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I145487455",
@@ -5676,11 +5727,13 @@
           "author": {
             "id": "https://openalex.org/A5070072699",
             "display_name": "Aimen Amer",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2277-7024",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2277-7024"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6801,6 +6854,7 @@
         "https://openalex.org/W3000146708"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -6818,11 +6872,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8143,6 +8199,7 @@
         "https://openalex.org/W3190305429"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8160,9 +8217,11 @@
           "author": {
             "id": "https://openalex.org/A5031073959",
             "display_name": "Bassam Alshammari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -8231,11 +8290,13 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8356-9889",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8356-9889"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -8279,11 +8340,13 @@
           "author": {
             "id": "https://openalex.org/A5007815075",
             "display_name": "Luca Colombera",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9116-1800",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9116-1800"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -8327,11 +8390,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8378,13 +8443,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4441,
+      "fwci": 0.4376,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4958098,
+        "value": 0.48957372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9697,6 +9762,7 @@
         "https://openalex.org/W4414227515"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -9714,11 +9780,13 @@
           "author": {
             "id": "https://openalex.org/A5071025908",
             "display_name": "Ahmed A. Kassem",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7829-1846",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7829-1846"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9755,11 +9823,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9796,9 +9866,11 @@
           "author": {
             "id": null,
             "display_name": "Anar Nabiyev",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9835,9 +9907,11 @@
           "author": {
             "id": null,
             "display_name": "Syed Alam",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9879,13 +9953,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6565,
+      "fwci": 2.558,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79821788,
+        "value": 0.79242033,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11006,6 +11080,7 @@
         "https://openalex.org/W7167391170"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -11021,11 +11096,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -11347,6 +11424,7 @@
         "https://openalex.org/W2015162425"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -11364,9 +11442,11 @@
           "author": {
             "id": null,
             "display_name": "Pierre LaCroix",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -11403,11 +11483,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -11444,9 +11526,11 @@
           "author": {
             "id": "https://openalex.org/A5051141940",
             "display_name": "Mark Prudden",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -11483,9 +11567,11 @@
           "author": {
             "id": "https://openalex.org/A5002793923",
             "display_name": "Thomas Loretto",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12365,6 +12451,7 @@
         "https://openalex.org/W2362747289"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -12380,11 +12467,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -13371,6 +13460,7 @@
         "https://openalex.org/W4312650265"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -13388,9 +13478,11 @@
           "author": {
             "id": "https://openalex.org/A5073123473",
             "display_name": "B. Al Shammeri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13427,11 +13519,13 @@
           "author": {
             "id": "https://openalex.org/A5007815075",
             "display_name": "Luca Colombera",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9116-1800",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9116-1800"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I25217355",
@@ -13468,11 +13562,13 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8356-9889",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8356-9889"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -13509,11 +13605,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130828816",
@@ -14400,6 +14498,7 @@
         "https://openalex.org/W4414226937"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -14417,9 +14516,11 @@
           "author": {
             "id": "https://openalex.org/A5050684737",
             "display_name": "Mohamed Al-Kathery",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -14456,11 +14557,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15934,6 +16037,7 @@
         "https://openalex.org/W4414602344"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -15951,9 +16055,11 @@
           "author": {
             "id": "https://openalex.org/A5119760967",
             "display_name": "Yogi Priyadi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15990,9 +16096,11 @@
           "author": {
             "id": "https://openalex.org/A5025307753",
             "display_name": "Fanis Khayrutdinov",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -16029,11 +16137,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -17500,6 +17610,7 @@
         "https://openalex.org/W7168136597"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17517,11 +17628,13 @@
           "author": {
             "id": "https://openalex.org/A5071025908",
             "display_name": "Ahmed A. Kassem",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7829-1846",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7829-1846"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -17558,9 +17671,11 @@
           "author": {
             "id": "https://openalex.org/A5076343814",
             "display_name": "Hasan Algheryafi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -17597,9 +17712,11 @@
           "author": {
             "id": "https://openalex.org/A5140557154",
             "display_name": "Abdulrahman Almassari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -17636,11 +17753,13 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8396-3923",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8396-3923"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",

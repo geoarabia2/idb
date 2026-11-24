@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0002-6113-9589"
     ],
     "display_name": "Nikolaos A. Michael",
+    "type": null,
     "raw_author_names": [
       "Michael, Nikolaos A.",
       "Nikolaos A. Michael",
@@ -13,7 +14,7 @@
     ],
     "full_name": "Michael, Nikolaos A.",
     "works_count": 13,
-    "cited_by_count": 161,
+    "cited_by_count": 168,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -335,19 +336,19 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 12
+        "cited_by_count": 15
       },
       {
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 10
+        "cited_by_count": 11
       },
       {
         "year": 2024,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 18
+        "cited_by_count": 20
       },
       {
         "year": 2025,
@@ -359,7 +360,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 25
+        "cited_by_count": 26
       }
     ],
     "display_name_alternatives": [
@@ -371,7 +372,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002041459",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5002041459",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -437,6 +438,7 @@
         "https://openalex.org/W2181906270"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -454,11 +456,13 @@
           "author": {
             "id": "https://openalex.org/A5103059223",
             "display_name": "Philip A. Allen",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7543-7042"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -495,11 +499,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -536,11 +542,13 @@
           "author": {
             "id": "https://openalex.org/A5016467859",
             "display_name": "Mitch K. D’Arcy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1808-9544",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1808-9544"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -577,11 +585,13 @@
           "author": {
             "id": "https://openalex.org/A5008221503",
             "display_name": "Duna Roda-Boluda",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2652-071X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2652-071X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -618,11 +628,13 @@
           "author": {
             "id": "https://openalex.org/A5033147400",
             "display_name": "Alexander C. Whittaker",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8781-7771",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8781-7771"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -659,11 +671,13 @@
           "author": {
             "id": "https://openalex.org/A5059094360",
             "display_name": "Robert A. Duller",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4738-1141",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4738-1141"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I146655781",
@@ -700,11 +714,13 @@
           "author": {
             "id": "https://openalex.org/A5006187359",
             "display_name": "John Armitage",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2806-8181",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2806-8181"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I124357947",
@@ -764,13 +780,13 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 4.0644,
+      "fwci": 4.0028,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93233021,
+        "value": 0.93139864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2012,6 +2028,7 @@
         "https://openalex.org/W4408327353"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2029,11 +2046,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2070,11 +2089,13 @@
           "author": {
             "id": "https://openalex.org/A5009963240",
             "display_name": "Mustafa A. Al Ibrahim",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9765-0162",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9765-0162"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2111,9 +2132,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2150,11 +2173,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2206,13 +2231,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 3.8475,
+      "fwci": 3.8252,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9495559,
+        "value": 0.94888678,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2233,7 +2258,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.5640000104904175,
+        "score": 0.5156000256538391,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -2251,7 +2276,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.5640000104904175,
+          "score": 0.5156000256538391,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -2268,7 +2293,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.29739999771118164,
+          "score": 0.30000001192092896,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -2285,7 +2310,7 @@
         {
           "id": "https://openalex.org/T13141",
           "display_name": "Statistical Methods and Applications",
-          "score": 0.10239999741315842,
+          "score": 0.1429000049829483,
           "subfield": {
             "id": "https://openalex.org/subfields/2613",
             "display_name": "Statistics and Probability"
@@ -2304,57 +2329,57 @@
         {
           "id": "https://openalex.org/keywords/principal-component-analysis",
           "display_name": "principal component analysis",
-          "score": 0.9359999895095825
+          "score": 0.9580000042915344
         },
         {
           "id": "https://openalex.org/keywords/chemostratigraphy",
           "display_name": "chemostratigraphy",
-          "score": 0.9890000224113464
+          "score": 0.9549999833106995
         },
         {
           "id": "https://openalex.org/keywords/eigenvector-analysis",
           "display_name": "eigenvector method",
-          "score": 0.8709999918937683
+          "score": 0.8999999761581421
         },
         {
           "id": "https://openalex.org/keywords/carbonate-sediments",
           "display_name": "carbonate sediments",
-          "score": 0.9240000247955322
+          "score": 0.8679999709129333
         },
         {
           "id": "https://openalex.org/keywords/siliciclastic-sediment",
           "display_name": "siliciclastic sediment",
-          "score": 0.9390000104904175
+          "score": 0.9599999785423279
         },
         {
           "id": "https://openalex.org/keywords/sample-size-effects",
           "display_name": "sample size effects",
-          "score": 0.6980000138282776
+          "score": 0.7009999752044678
         },
         {
-          "id": "https://openalex.org/keywords/data-stability",
-          "display_name": "data stability",
-          "score": 0.375
+          "id": "https://openalex.org/keywords/model-stability",
+          "display_name": "model stability",
+          "score": 0.47200000286102295
         },
         {
           "id": "https://openalex.org/keywords/depositional-environment",
           "display_name": "depositional environment",
-          "score": 0.6489999890327454
+          "score": 0.6809999942779541
         },
         {
           "id": "https://openalex.org/keywords/diagenesis",
           "display_name": "diagenesis",
-          "score": 0.9810000061988831
+          "score": 0.9829999804496765
         },
         {
           "id": "https://openalex.org/keywords/weathering",
           "display_name": "weathering",
-          "score": 0.8600000143051147
+          "score": 0.8579999804496765
         },
         {
           "id": "https://openalex.org/keywords/rock-geochemistry",
           "display_name": "rock geochemistry",
-          "score": 0.4690000116825104
+          "score": 0.48100000619888306
         }
       ],
       "concepts": [
@@ -3163,7 +3188,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2025-03-12T00:00:00"
     },
     {
@@ -3229,6 +3254,7 @@
         "https://openalex.org/W2277166486"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3246,11 +3272,13 @@
           "author": {
             "id": "https://openalex.org/A5103059223",
             "display_name": "Philip A. Allen",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7543-7042"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -3287,11 +3315,13 @@
           "author": {
             "id": "https://openalex.org/A5006187359",
             "display_name": "John Armitage",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2806-8181",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2806-8181"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I124357947",
@@ -3340,11 +3370,13 @@
           "author": {
             "id": "https://openalex.org/A5033147400",
             "display_name": "Alexander C. Whittaker",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8781-7771",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8781-7771"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -3381,11 +3413,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -3422,11 +3456,13 @@
           "author": {
             "id": "https://openalex.org/A5008221503",
             "display_name": "Duna Roda-Boluda",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2652-071X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2652-071X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -3463,11 +3499,13 @@
           "author": {
             "id": "https://openalex.org/A5016467859",
             "display_name": "Mitch K. D’Arcy",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1808-9544",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1808-9544"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -3507,13 +3545,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3544,
+      "fwci": 3.2879,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 35,
+      "cited_by_count": 36,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90780625,
+        "value": 0.90612845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4364,7 +4402,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2020,
@@ -4391,7 +4429,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4456,6 +4494,7 @@
         "https://openalex.org/W2121643099"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4473,11 +4512,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4532,11 +4573,13 @@
           "author": {
             "id": "https://openalex.org/A5039403820",
             "display_name": "Andrew Carter",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0090-5868",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0090-5868"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I124357947",
@@ -4585,11 +4628,13 @@
           "author": {
             "id": "https://openalex.org/A5033147400",
             "display_name": "Alexander C. Whittaker",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8781-7771",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8781-7771"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -4626,11 +4671,13 @@
           "author": {
             "id": "https://openalex.org/A5103059223",
             "display_name": "Philip A. Allen",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7543-7042"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -4670,13 +4717,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7346,
+      "fwci": 1.7051,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81335434,
+        "value": 0.8098879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5841,6 +5888,7 @@
         "https://openalex.org/W3126847908"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5858,11 +5906,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5899,11 +5949,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5945,13 +5997,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3602,
+      "fwci": 1.3252,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74903018,
+        "value": 0.74228541,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6921,6 +6973,7 @@
         "https://openalex.org/W3210145828"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6938,11 +6991,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -6979,11 +7034,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -7029,13 +7086,13 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.1844,
+      "fwci": 1.1669,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70996539,
+        "value": 0.70557298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8062,6 +8119,7 @@
         "https://openalex.org/W2742221252"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8079,11 +8137,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8120,11 +8180,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8161,9 +8223,11 @@
           "author": {
             "id": "https://openalex.org/A5026497777",
             "display_name": "Shaun Hayton",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8211,13 +8275,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.003,
+      "fwci": 0.9876,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71022062,
+        "value": 0.70572751,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9111,6 +9175,7 @@
         "https://openalex.org/W4200232387"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -9128,11 +9193,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9169,9 +9236,11 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -9208,11 +9277,13 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9728-9036",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9728-9036"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10412,6 +10483,7 @@
         "https://openalex.org/W7124737262"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10429,11 +10501,13 @@
           "author": {
             "id": "https://openalex.org/A5084753403",
             "display_name": "Peng Lü",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9159-370X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9159-370X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10470,11 +10544,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10511,9 +10587,11 @@
           "author": {
             "id": "https://openalex.org/A5059235394",
             "display_name": "Abrar Alabbad",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -10567,11 +10645,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -10608,9 +10688,11 @@
           "author": {
             "id": "https://openalex.org/A5101773455",
             "display_name": "Christopher R. Ellis",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130238516",
@@ -10647,9 +10729,11 @@
           "author": {
             "id": "https://openalex.org/A5010808882",
             "display_name": "Aaron Ketchmark",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130238516",
@@ -10686,9 +10770,11 @@
           "author": {
             "id": "https://openalex.org/A5070102183",
             "display_name": "Chris Paola",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I130238516",
@@ -10725,9 +10811,11 @@
           "author": {
             "id": "https://openalex.org/A5119629686",
             "display_name": "Hussain Al-Qatari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -10756,13 +10844,13 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.2852,
+      "fwci": 1.2702,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71094116,
+        "value": 0.70892824,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11123,9 +11211,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -11289,6 +11377,7 @@
         "https://openalex.org/W4200187165"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -11306,11 +11395,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -11347,11 +11438,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12640,6 +12733,7 @@
         "https://openalex.org/W4394078902"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dataset",
       "is_traditional": false,
       "indexed_in": [
@@ -12657,11 +12751,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -12676,11 +12772,13 @@
           "author": {
             "id": "https://openalex.org/A5039403820",
             "display_name": "Andrew Carter",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0090-5868",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0090-5868"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -12695,11 +12793,13 @@
           "author": {
             "id": "https://openalex.org/A5033147400",
             "display_name": "Alexander C. Whittaker",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8781-7771",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8781-7771"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -12714,11 +12814,13 @@
           "author": {
             "id": "https://openalex.org/A5103059223",
             "display_name": "Philip A. Allen",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7543-7042"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13638,6 +13740,7 @@
         "https://openalex.org/W4414226490"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -13655,11 +13758,13 @@
           "author": {
             "id": "https://openalex.org/A5084753403",
             "display_name": "Peng Lü",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9159-370X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9159-370X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13696,11 +13801,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13737,9 +13844,11 @@
           "author": {
             "id": "https://openalex.org/A5059235394",
             "display_name": "Abrar Alabbad",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13776,11 +13885,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13817,12 +13928,14 @@
           "author": {
             "id": "https://openalex.org/A5072654893",
             "display_name": "Ahmed M. Hafez",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4927-1333",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4927-1333",
               "https://orcid.org/0000-0003-4107-5925"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13844,9 +13957,11 @@
           "author": {
             "id": "https://openalex.org/A5110602655",
             "display_name": "Avrami Grader",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -13868,9 +13983,11 @@
           "author": {
             "id": "https://openalex.org/A5119629686",
             "display_name": "Hussain Al-Qatari",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -15108,6 +15225,7 @@
         "https://openalex.org/W7147648611"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -15125,11 +15243,13 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6113-9589",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6113-9589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15166,11 +15286,13 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8629-983X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8629-983X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15207,9 +15329,11 @@
           "author": {
             "id": "https://openalex.org/A5132680280",
             "display_name": "Eyad Aljshi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15555,9 +15679,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],

@@ -6,6 +6,7 @@
       "https://orcid.org/0000-0002-7791-5677"
     ],
     "display_name": "Geraint Wyn ap Gwilym Hughes",
+    "type": null,
     "raw_author_names": [
       "G. W. Hughes",
       "G. Wyn Hughes",
@@ -19,7 +20,7 @@
     ],
     "full_name": "Geraint Wyn ap Gwilym Hughes",
     "works_count": 26,
-    "cited_by_count": 665,
+    "cited_by_count": 671,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 13,
@@ -35,6 +36,36 @@
     "affiliations": [
       {
         "institution": {
+          "id": "https://openalex.org/I1336856363",
+          "ror": "https://ror.org/039zvsn29",
+          "display_name": "Natural History Museum",
+          "country_code": "GB",
+          "type": "archive",
+          "lineage": [
+            "https://openalex.org/I1336856363"
+          ]
+        },
+        "years": [
+          2017
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I134085113",
+          "ror": "https://ror.org/03yez3163",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I134085113"
+          ]
+        },
+        "years": [
+          2017
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I4210143841",
           "ror": "https://ror.org/03ypap427",
           "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -45,8 +76,10 @@
           ]
         },
         "years": [
+          2017,
           2013,
           2012,
+          2005,
           2004,
           2000,
           1998,
@@ -55,6 +88,26 @@
       }
     ],
     "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I1336856363",
+        "ror": "https://ror.org/039zvsn29",
+        "display_name": "Natural History Museum",
+        "country_code": "GB",
+        "type": "archive",
+        "lineage": [
+          "https://openalex.org/I1336856363"
+        ]
+      },
+      {
+        "id": "https://openalex.org/I134085113",
+        "ror": "https://ror.org/03yez3163",
+        "display_name": "King Fahd University of Petroleum and Minerals",
+        "country_code": "SA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I134085113"
+        ]
+      },
       {
         "id": "https://openalex.org/I4210143841",
         "ror": "https://ror.org/03ypap427",
@@ -373,7 +426,7 @@
         "year": 2019,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 20
+        "cited_by_count": 23
       },
       {
         "year": 2020,
@@ -391,7 +444,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 70
+        "cited_by_count": 73
       },
       {
         "year": 2023,
@@ -433,7 +486,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5055315910",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5055315910",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -491,6 +544,7 @@
         "https://openalex.org/W2944267028"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -508,11 +562,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -1993,6 +2049,7 @@
         "https://openalex.org/W1978905410"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2010,11 +2067,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2036,9 +2095,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2060,9 +2121,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -2106,13 +2169,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.291,
+      "fwci": 4.225,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 99,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93154395,
+        "value": 0.93038922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2505,6 +2568,7 @@
         "https://openalex.org/W1565182374"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -2520,11 +2584,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -3743,6 +3809,7 @@
         "https://openalex.org/W2954735392"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3760,11 +3827,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3779,9 +3848,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3796,9 +3867,11 @@
           "author": {
             "id": "https://openalex.org/A5004166731",
             "display_name": "Mokhtar Al-Khalid",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5369,6 +5442,7 @@
         "https://openalex.org/W4295035066"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5386,11 +5460,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -5410,18 +5486,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9635,
+      "fwci": 0.9068,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 32,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68341567,
+        "value": 0.66404977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -6601,6 +6677,7 @@
         "https://openalex.org/W2956369912"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6618,11 +6695,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -8092,6 +8171,7 @@
         "https://openalex.org/W3125192756"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8109,11 +8189,13 @@
           "author": {
             "id": "https://openalex.org/A5031310636",
             "display_name": "Manuel Páez-Reyes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6927-8674",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6927-8674"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I128212801",
@@ -8169,11 +8251,13 @@
           "author": {
             "id": "https://openalex.org/A5083726008",
             "display_name": "Humberto Carvajal‐Ortiz",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8021-5954",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8021-5954"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I99978038",
@@ -8210,11 +8294,13 @@
           "author": {
             "id": "https://openalex.org/A5044803971",
             "display_name": "Swapan Sahoo",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-3560-1589",
             "observed_orcids": [
               "https://orcid.org/0000-0003-3560-1589"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8236,9 +8322,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8260,11 +8348,13 @@
           "author": {
             "id": "https://openalex.org/A5040776821",
             "display_name": "Brent V. Miller",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3630-1871",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3630-1871"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I91045830",
@@ -8301,11 +8391,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8327,9 +8419,11 @@
           "author": {
             "id": "https://openalex.org/A5080820264",
             "display_name": "Tatiana Gaona Narvaez",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I19700959",
@@ -8366,11 +8460,13 @@
           "author": {
             "id": "https://openalex.org/A5024243835",
             "display_name": "Germán D. Patarroyo",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9418-8520",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9418-8520"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I61722147",
@@ -8407,11 +8503,13 @@
           "author": {
             "id": "https://openalex.org/A5044062177",
             "display_name": "Jason Hilleary Curtis",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-0884-9941",
             "observed_orcids": [
               "https://orcid.org/0000-0003-0884-9941"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I33213144",
@@ -8448,9 +8546,11 @@
           "author": {
             "id": "https://openalex.org/A5051191877",
             "display_name": "Ivan Lerma",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -8487,11 +8587,13 @@
           "author": {
             "id": "https://openalex.org/A5055374792",
             "display_name": "Peter Copeland",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-6869-5142",
             "observed_orcids": [
               "https://orcid.org/0000-0001-6869-5142"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I44461941",
@@ -8857,14 +8959,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 1,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -9124,6 +9226,7 @@
         "https://openalex.org/W2286584084"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9141,11 +9244,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -9165,13 +9270,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5015,
+      "fwci": 0.4938,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53823195,
+        "value": 0.52951389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9499,9 +9604,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7560999989509583,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10355,6 +10460,7 @@
         "https://openalex.org/W2984433358"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10372,11 +10478,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -11202,6 +11310,7 @@
         "https://openalex.org/W1531273367"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11219,11 +11328,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -11243,13 +11354,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6516,
+      "fwci": 0.6326,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 27,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60034183,
+        "value": 0.58764706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11557,9 +11668,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -12931,6 +13042,7 @@
         "https://openalex.org/W1972254595"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12948,9 +13060,11 @@
           "author": {
             "id": "https://openalex.org/A5027634361",
             "display_name": "John Filatoff",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -12987,11 +13101,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13037,13 +13153,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.4011,
+      "fwci": 0.3865,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52683179,
+        "value": 0.50541326,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13332,9 +13448,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -13470,6 +13586,7 @@
         "https://openalex.org/W2172067920"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -13487,11 +13604,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -13562,7 +13681,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.98580002784729,
+        "score": 0.9872999787330627,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -13580,7 +13699,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.98580002784729,
+          "score": 0.9872999787330627,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -13597,7 +13716,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.004100000020116568,
+          "score": 0.008899999782443047,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -13612,9 +13731,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.004000000189989805,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.000699999975040555,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -13631,44 +13750,74 @@
       ],
       "keywords": [
         {
+          "id": "https://openalex.org/keywords/khuff-formation",
+          "display_name": "Khuff Formation",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/permian-triassic-boundary",
+          "display_name": "Permian-Triassic boundary",
+          "score": 0.9610000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "biostratigraphy",
+          "score": 0.949999988079071
+        },
+        {
           "id": "https://openalex.org/keywords/micropaleontology",
           "display_name": "micropaleontology",
-          "score": 0.8679999709129333
+          "score": 0.890999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/foraminifera",
+          "display_name": "foraminifera",
+          "score": 0.8050000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/biofacies",
+          "display_name": "biofacies",
+          "score": 0.847000002861023
         },
         {
           "id": "https://openalex.org/keywords/paleoenvironment",
           "display_name": "paleoenvironment",
-          "score": 0.9319999814033508
+          "score": 0.902999997138977
         },
         {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.7979999780654907
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "carbonate platform",
+          "score": 0.7689999938011169
         },
         {
-          "id": "https://openalex.org/keywords/field-development",
-          "display_name": "field development",
-          "score": 0.6620000004768372
+          "id": "https://openalex.org/keywords/sedimentary-cycles",
+          "display_name": "sedimentary cycles",
+          "score": 0.7710000276565552
         },
         {
-          "id": "https://openalex.org/keywords/biostratigraphic-zonation",
-          "display_name": "biozonation",
-          "score": 0.8700000047683716
+          "id": "https://openalex.org/keywords/maximum-flooding-surface",
+          "display_name": "maximum flooding surface",
+          "score": 0.6349999904632568
         },
         {
-          "id": "https://openalex.org/keywords/correspondence-analysis",
-          "display_name": "correspondence analysis",
-          "score": 0.6269999742507935
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.824999988079071
         },
         {
-          "id": "https://openalex.org/keywords/outcrop-analogs",
-          "display_name": "outcrop analogs",
-          "score": 0.8159999847412109
+          "id": "https://openalex.org/keywords/evaporites",
+          "display_name": "evaporites",
+          "score": 0.699999988079071
         },
         {
-          "id": "https://openalex.org/keywords/north-sea",
-          "display_name": "North Sea",
-          "score": 0.8640000224113464
+          "id": "https://openalex.org/keywords/shallow-water-carbonates",
+          "display_name": "shallow-water carbonates",
+          "score": 0.6470000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.546999990940094
         }
       ],
       "concepts": [
@@ -14351,7 +14500,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2019-10-25T00:00:00"
     },
     {
@@ -14414,6 +14563,7 @@
         "https://openalex.org/W2172620601"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -14431,11 +14581,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1336856363",
@@ -14521,15 +14673,15 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5188,
+      "fwci": 2.1546,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94415561,
+        "value": 0.86567164,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 86,
@@ -14546,44 +14698,27 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T12471",
-        "display_name": "History of Science and Natural History",
-        "score": 0.8320000171661377,
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9297000169754028,
         "subfield": {
-          "id": "https://openalex.org/subfields/1207",
-          "display_name": "History and Philosophy of Science"
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
-          "id": "https://openalex.org/fields/12",
-          "display_name": "Arts and Humanities"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
         }
       },
       "topics": [
         {
-          "id": "https://openalex.org/T12471",
-          "display_name": "History of Science and Natural History",
-          "score": 0.8320000171661377,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1207",
-            "display_name": "History and Philosophy of Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.1387999951839447,
+          "score": 0.9297000169754028,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -14598,9 +14733,26 @@
           }
         },
         {
-          "id": "https://openalex.org/T14517",
-          "display_name": "Diverse Historical and Scientific Studies",
-          "score": 0.008100000210106373,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.0478999987244606,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12471",
+          "display_name": "History of Science and Natural History",
+          "score": 0.009499999694526196,
           "subfield": {
             "id": "https://openalex.org/subfields/1207",
             "display_name": "History and Philosophy of Science"
@@ -14617,49 +14769,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/foraminifera",
-          "display_name": "foraminifera",
-          "score": 0.9440000057220459
-        },
-        {
           "id": "https://openalex.org/keywords/micropaleontology",
           "display_name": "micropaleontology",
-          "score": 0.7940000295639038
+          "score": 0.8100000023841858
         },
         {
-          "id": "https://openalex.org/keywords/alcide-d-orbigny",
-          "display_name": "Alcide d'Orbigny",
-          "score": 0.921999990940094
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "biostratigraphy",
+          "score": 0.7760000228881836
         },
         {
-          "id": "https://openalex.org/keywords/mnhn-collection",
-          "display_name": "MNHN collection",
-          "score": 0.699999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoceanography",
-          "display_name": "paleoceanography",
-          "score": 0.8870000243186951
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-studies",
-          "display_name": "environmental studies",
-          "score": 0.7170000076293945
-        },
-        {
-          "id": "https://openalex.org/keywords/scientific-school",
-          "display_name": "scientific school",
-          "score": 0.8970000147819519
+          "id": "https://openalex.org/keywords/foraminifera",
+          "display_name": "foraminifera",
+          "score": 0.8999999761581421
         },
         {
           "id": "https://openalex.org/keywords/saudi-arabia",
           "display_name": "Saudi Arabia",
-          "score": 0.5889999866485596
+          "score": 0.6610000133514404
         },
         {
-          "id": "https://openalex.org/keywords/gulf-states",
-          "display_name": "Gulf states",
-          "score": 0.8619999885559082
+          "id": "https://openalex.org/keywords/gulf-region",
+          "display_name": "Gulf region",
+          "score": 0.8100000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/chronostratigraphy",
+          "display_name": "chronostratigraphy",
+          "score": 0.8140000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoenvironment",
+          "display_name": "paleoenvironment",
+          "score": 0.7239999771118164
         }
       ],
       "concepts": [
@@ -15351,7 +15493,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -15416,6 +15558,7 @@
         "https://openalex.org/W2079191931"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15433,11 +15576,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -15485,13 +15630,13 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.7099,
+      "fwci": 0.9226,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78767518,
+        "value": 0.70516304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15510,12 +15655,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.6050000190734863,
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.5976999998092651,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -15528,26 +15673,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.6050000190734863,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.34860000014305115,
+          "score": 0.5976999998092651,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -15562,9 +15690,26 @@
           }
         },
         {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.36230000853538513,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T14047",
           "display_name": "Marine and environmental studies",
-          "score": 0.010900000110268593,
+          "score": 0.008100000210106373,
           "subfield": {
             "id": "https://openalex.org/subfields/1910",
             "display_name": "Oceanography"
@@ -15581,69 +15726,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/rudists",
-          "display_name": "rudists",
-          "score": 0.8309999704360962
-        },
-        {
           "id": "https://openalex.org/keywords/aptian",
           "display_name": "Aptian",
-          "score": 0.8379999995231628
+          "score": 0.8899999856948853
         },
         {
           "id": "https://openalex.org/keywords/shuaiba-formation",
           "display_name": "Shuaiba Formation",
-          "score": 0.9290000200271606
+          "score": 0.906000018119812
         },
         {
           "id": "https://openalex.org/keywords/persian-gulf",
           "display_name": "Persian Gulf",
-          "score": 0.7730000019073486
+          "score": 0.8339999914169312
         },
         {
           "id": "https://openalex.org/keywords/pinna-bicolor",
           "display_name": "Pinna bicolor",
-          "score": 0.7990000247955322
+          "score": 0.8040000200271606
         },
         {
           "id": "https://openalex.org/keywords/pinna-muricata",
           "display_name": "Pinna muricata",
-          "score": 0.9950000047683716
+          "score": 0.996999979019165
         },
         {
-          "id": "https://openalex.org/keywords/modern-analogues",
-          "display_name": "modern analogues",
-          "score": 0.49000000953674316
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "carbonate platform",
-          "score": 0.574999988079071
+          "id": "https://openalex.org/keywords/carbonate-platform-evolution",
+          "display_name": "carbonate platform evolution",
+          "score": 0.5720000267028809
         },
         {
           "id": "https://openalex.org/keywords/oil-reservoirs",
           "display_name": "hydrocarbon reservoirs",
-          "score": 0.7239999771118164
+          "score": 0.7070000171661377
         },
         {
           "id": "https://openalex.org/keywords/micropaleontology",
           "display_name": "micropaleontology",
-          "score": 0.796999990940094
+          "score": 0.7770000100135803
         },
         {
-          "id": "https://openalex.org/keywords/bivalve-shells",
-          "display_name": "bivalve shells",
-          "score": 0.367000013589859
+          "id": "https://openalex.org/keywords/paleoenvironmental-reconstruction",
+          "display_name": "paleoenvironmental reconstruction",
+          "score": 0.574999988079071
         },
         {
           "id": "https://openalex.org/keywords/arabian-peninsula",
           "display_name": "Arabian Peninsula",
-          "score": 0.3540000021457672
-        },
-        {
-          "id": "https://openalex.org/keywords/oman",
-          "display_name": "Oman",
-          "score": 0.5799999833106995
+          "score": 0.3310000002384186
         }
       ],
       "concepts": [
@@ -15803,9 +15933,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15896,7 +16026,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15951,6 +16081,7 @@
         "https://openalex.org/W3021168380"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -15968,11 +16099,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -15987,9 +16120,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16004,9 +16139,11 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16952,6 +17089,7 @@
         "https://openalex.org/W4392894987"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -16969,11 +17107,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -16988,9 +17128,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -17882,6 +18024,7 @@
         "https://openalex.org/W4288831739"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -17899,11 +18042,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -17923,13 +18068,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1435,
+      "fwci": 0.1362,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33522334,
+        "value": 0.30901972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18202,9 +18347,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19021,6 +19166,7 @@
         "https://openalex.org/W2106561307"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19039,9 +19185,11 @@
           "author": {
             "id": null,
             "display_name": "Saudi Aramco",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -19078,11 +19226,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -19119,9 +19269,11 @@
           "author": {
             "id": "https://openalex.org/A5112087612",
             "display_name": "Shameem Siddiqui",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -19158,9 +19310,11 @@
           "author": {
             "id": "https://openalex.org/A5021038010",
             "display_name": "R. Kumbe Sadler",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -19959,6 +20113,7 @@
         "https://openalex.org/W2006020514"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -19976,11 +20131,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -20747,6 +20904,7 @@
         "https://openalex.org/W2309143216"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -20762,11 +20920,13 @@
           "author": {
             "id": "https://openalex.org/A5043465473",
             "display_name": "Reinhold Leinfelder",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4107-2161",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4107-2161"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20781,9 +20941,11 @@
           "author": {
             "id": "https://openalex.org/A5061499517",
             "display_name": "Oskar Ebli",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20798,11 +20960,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20817,11 +20981,13 @@
           "author": {
             "id": "https://openalex.org/A5014068571",
             "display_name": "Félix Schlagintweit",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4024-4312",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4024-4312"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20836,9 +21002,11 @@
           "author": {
             "id": "https://openalex.org/A5107031467",
             "display_name": "Dieter U. Schmid",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20853,9 +21021,11 @@
           "author": {
             "id": "https://openalex.org/A5017337735",
             "display_name": "Winfried Werner",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -21113,9 +21283,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 1,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21200,6 +21370,7 @@
         "https://openalex.org/W2987449810"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -21217,11 +21388,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -22043,6 +22216,7 @@
         "https://openalex.org/W3021857390"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -22060,11 +22234,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -22079,9 +22255,11 @@
           "author": {
             "id": "https://openalex.org/A5097522663",
             "display_name": "Dhahran Saudi Aramco",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -22984,6 +23162,7 @@
         "https://openalex.org/W3022293227"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -23001,11 +23180,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23020,9 +23201,11 @@
           "author": {
             "id": "https://openalex.org/A5034956927",
             "display_name": "Saleh S. Enezy",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23037,9 +23220,11 @@
           "author": {
             "id": "https://openalex.org/A5085149426",
             "display_name": "Samir Rashid",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23904,6 +24089,7 @@
         "https://openalex.org/W3023468867"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -23921,11 +24107,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -23940,9 +24128,11 @@
           "author": {
             "id": "https://openalex.org/A5097522663",
             "display_name": "Dhahran Saudi Aramco",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -24856,6 +25046,7 @@
         "https://openalex.org/W3108917045"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "peer-review",
       "is_traditional": false,
       "indexed_in": [
@@ -24873,11 +25064,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -25176,6 +25369,7 @@
         "https://openalex.org/W862223865"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -25191,11 +25385,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25210,9 +25406,11 @@
           "author": {
             "id": "https://openalex.org/A5070207467",
             "display_name": "Nassir Naji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25227,9 +25425,11 @@
           "author": {
             "id": "https://openalex.org/A5070956911",
             "display_name": "M. Al-Khaled",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25244,9 +25444,11 @@
           "author": {
             "id": "https://openalex.org/A5048235421",
             "display_name": "T. L. Harland",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -25261,9 +25463,11 @@
           "author": {
             "id": "https://openalex.org/A5017287135",
             "display_name": "D. Bacchus",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,

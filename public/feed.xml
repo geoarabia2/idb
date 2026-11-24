@@ -4,14 +4,14 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 01:33:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:17:14 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Towards universally robust oil spill detection: A systematic remote sensing review on transferability, look-alikes, and real-time deployment</title>
       <link>https://doi.org/10.1016/j.marpolbul.2026.120586</link>
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7236674541</guid>
-      <dc:creator>Shahadat Baser, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Shahadat Baser, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Marine Pollution Bulletin</dc:publisher>
       <category>Audit</category>
       <category>Computer science</category>
@@ -53,7 +53,7 @@
       <link>https://doi.org/10.5281/zenodo.24090322</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7225649364</guid>
-      <dc:creator>Shahadat Baser, Bassam Tawabini, Muhammad Bilal, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Shahadat Baser, Bassam Tawabini, Muhammad Bilal, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
       <category>Remote sensing</category>
       <category>Code (set theory)</category>
@@ -67,7 +67,7 @@
       <link>https://doi.org/10.5281/zenodo.24145831</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7225899525</guid>
-      <dc:creator>Shahadat Baser, Bassam Tawabini, Muhammad Bilal, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Shahadat Baser, Bassam Tawabini, Muhammad Bilal, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
       <category>Terrain</category>
       <category>Benchmark (surveying)</category>
@@ -91,11 +91,25 @@
       <description>Abstract: Exposed volcanic–sedimentary rocks in the Tiekelike Tectonic Belt (NW China) permit reconstruction of the Paleozoic paleogeographic environment and tectonic evolution of the southwestern edge of the Tarim Craton. This study presents new whole-rock geochemical and detrital zircon U–Pb data for sedimentary rocks (i.e., sandstones) of the Upper Devonian Qizilafu Formation (QF), Upper Carboniferous Kalawuyi Formation (KF), and Lower Permian Tahaqi Formation (TF) from the Tiekelike Uplift. The sandstones of the QF, KF, and TF are mainly derived from from acid to intermediate igneous source rocks and subsequently underwent medium to intense chemical weathering and variable degrees of sedimentary recycling. Trace element ratios suggest that these rocks were formed in an active continental margin. Zircon grains from the three study units yield dissimilar age distributions, weighted toward relatively older ages for QF (peaks at ca. 443 Ma, 788 Ma, 1138 Ma, and 2548 Ma) and younger ages for KF (peaks at ca. 449 Ma and 951 Ma) and TF (peaks at ca. 280 Ma, 412 Ma, and 727 Ma). Based on the petrographic and geochemical features of the sandstones, along with detrital zircon U–Pb data, we propose that the QF, KF, and TF sandstones were most likely derived mainly from Early Paleozoic (ca. 496–349 Ma) igneous rocks of the West Kunlun Orogenic Belt, with a possible subordinate contribution from Paleozoic igneous rocks within the Tarim Block. These igneous rocks were widely developed during mag…&#10;Topics: Geology, Zircon, Geochemistry, Igneous rock, Paleozoic&#10;Venue: Journal of Sedimentary Research&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Improving Foraminifera Identification through Taxonomically Informed Deep Learning</title>
+      <link>https://doi.org/10.1016/j.aiig.2026.100298</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7237929803</guid>
+      <dc:creator>Abduljamiu Olalekan Amao, Asmaa Korin, Farouq Muhammad Aliyu, Khalid A. Al-Ramadan, Michael A. Kaminski, John J. G. Reijmer</dc:creator>
+      <dc:publisher>Artificial Intelligence in Geosciences</dc:publisher>
+      <category>Artificial intelligence</category>
+      <category>Foraminifera</category>
+      <category>Benthic zone</category>
+      <category>Confusion</category>
+      <category>Classifier (UML)</category>
+      <description>Abstract: Automated identification of benthic foraminifera has advanced through convolutional networks trained on expert-labelled image libraries, yet most systems use a single orientation per specimen and are rarely evaluated on individuals they have never seen. Taxonomists instead rotate a specimen and examine several faces before committing to a name. We present a taxonomically informed deep learning pipeline that encodes this practice: each specimen is imaged at six rotational positions at 60° intervals, each yielding an extended-depth-of-field composite and an animated-rotation frame. The reference catalogue comprises 50 benthic foraminiferal species from Saya de Malha Bank (Mascarene Plateau, Southwest Indian Ocean), represented by 140 complete specimens and 1,683 images. A ConvNeXt-Base classifier was trained with a genus-aware soft-target objective that penalises within-genus confusion less than cross-genus error; a single-stream multi-view model was compared with a dual-stream variant in which a specimen-level teacher is distilled into the single-view student. Whole individuals were partitioned, so the test tier holds 33 individuals of 33 species never seen in training. On these the single-stream model reached image-level top 1 accuracy 0.876 (95% CI 0.840–0.905; n = 396), genus-level accuracy 0.907 and specimen-level accuracy 0.909 when the twelve images of a shell (six views in two modalities) are pooled by majority vote; the dual-stream model reached 0.854 and 0.909. With t…&#10;Topics: Artificial intelligence, Foraminifera, Benthic zone, Confusion, Classifier (UML)&#10;Venue: Artificial Intelligence in Geosciences&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Benchmarking Pix2Geomodel Against Conventional Baselines for Bidirectional Facies–Property Translation in a Clastic Reservoir</title>
       <link>https://doi.org/10.1016/j.rineng.2026.114114</link>
       <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7225785277</guid>
-      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
+      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Ibnu Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
       <dc:publisher>Results in Engineering</dc:publisher>
       <category>Benchmarking</category>
       <category>Computer science</category>
@@ -109,7 +123,7 @@
       <link>https://doi.org/10.1016/j.cageo.2026.106318</link>
       <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7236609486</guid>
-      <dc:creator>Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Computers &amp; Geosciences</dc:publisher>
       <category>Geology</category>
       <category>Carbonate</category>
@@ -137,7 +151,7 @@
       <link>https://doi.org/10.5281/zenodo.23843483</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7224997692</guid>
-      <dc:creator>Shahadat Baser, Muhammad Bilal, Bassam Tawabini, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Shahadat Baser, Muhammad Bilal, Bassam Tawabini, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
       <category>Environmental science</category>
       <category>Inversion (geology)</category>
@@ -151,7 +165,7 @@
       <link>https://doi.org/10.5281/zenodo.23844360</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7225012689</guid>
-      <dc:creator>Shahadat Baser, Muhammad Bilal, Bassam Tawabini, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Shahadat Baser, Muhammad Bilal, Bassam Tawabini, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
       <category>Environmental science</category>
       <category>Inversion (geology)</category>
@@ -305,7 +319,7 @@
       <link>https://doi.org/10.1007/s10347-026-00746-4</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7218853228</guid>
-      <dc:creator>Matías Reolid, Abdulkarim Al-Hussaini, Khalid A. Al-Ramadan, Mahmoud Alnazghah, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Matías Reolid, Abdulkarim Al-Hussaini, Khalid A. Al-Ramadan, Mahmoud Alnazghah, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Facies</dc:publisher>
       <category>Geology</category>
       <category>Benthic zone</category>
@@ -375,7 +389,7 @@
       <link>https://doi.org/10.1016/j.gca.2026.09.026</link>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7166007486</guid>
-      <dc:creator>Keran Li, Anlin Ma, Xiumian Hu, Chaojin Lu, Yoseph Adiatma, Lin Li, Ardiansyah Koeshidayatullah, He Zhang, Di Yang, Zhiwu Li</dc:creator>
+      <dc:creator>Keran Li, Anlin Ma, Xiumian Hu, Chaojin Lu, Yoseph Adiatma, Lin Li, Ardiansyah Ibnu Koeshidayatullah, He Zhang, Di Yang, Zhiwu Li</dc:creator>
       <dc:publisher>Geochimica et Cosmochimica Acta</dc:publisher>
       <category>Overprinting</category>
       <category>Micrite</category>
@@ -431,7 +445,7 @@
       <link>https://doi.org/10.1016/j.cretres.2026.106486</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7212177385</guid>
-      <dc:creator>Arman Jafarian, Antun Husinec, Saeedeh Senemari, Ardiansyah Koeshidayatullah, Adhipa Herlambang, Umid Kakemem, Meng Wang, Xiangyu Zhang, Kaibo Han, Roghayeh Fallah-Bagtash, Chengshan Wang</dc:creator>
+      <dc:creator>Arman Jafarian, Antun Husinec, Saeedeh Senemari, Ardiansyah Ibnu Koeshidayatullah, Adhipa Herlambang, Umid Kakemem, Meng Wang, Xiangyu Zhang, Kaibo Han, Roghayeh Fallah-Bagtash, Chengshan Wang</dc:creator>
       <dc:publisher>Cretaceous Research</dc:publisher>
       <category>Aptian</category>
       <category>Geology</category>
@@ -627,7 +641,7 @@
       <link>https://doi.org/10.5281/zenodo.21958635</link>
       <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7203543458</guid>
-      <dc:creator>Mohamed Abdelnaby Oraby, Basem Zoheir, Aicha Nesrine Mohammedi, Ardiansyah Koeshidayatullah, János Földessy</dc:creator>
+      <dc:creator>Mohamed Abdelnaby Oraby, Basem Zoheir, Aicha Nesrine Mohammedi, Ardiansyah Ibnu Koeshidayatullah, János Földessy</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
       <category>Support vector machine</category>
       <category>Mineralization (soil science)</category>
@@ -739,7 +753,7 @@
       <link>https://doi.org/10.1016/j.chemgeo.2026.123623</link>
       <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7171744123</guid>
-      <dc:creator>Misbahu Abdullahi, Cathy Hollis, Adhipa Herlambang, Khalid A. Al-Ramadan, Massimo Tiepolo, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Misbahu Abdullahi, Cathy Hollis, Adhipa Herlambang, Khalid A. Al-Ramadan, Massimo Tiepolo, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Chemical Geology</dc:publisher>
       <category>Geology</category>
       <category>Dolomite</category>
@@ -921,7 +935,7 @@
       <link>https://doi.org/10.1007/s44288-026-00605-3</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7166877348</guid>
-      <dc:creator>Shahadat Baser, Muhammad Bilal, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Shahadat Baser, Muhammad Bilal, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Discover Geoscience</dc:publisher>
       <category>Remote sensing</category>
       <category>Artificial intelligence</category>
@@ -949,7 +963,7 @@
       <link>https://doi.org/10.1038/s41598-026-56404-w</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7165752919</guid>
-      <dc:creator>Ahmed Hammam, Basem Zoheir, Ardiansyah Koeshidayatullah, Adhipa Herlambang, Biswajeet Pradhan, Sergey Kuznetsov, Khalid A. Al-Ramadan</dc:creator>
+      <dc:creator>Ahmed Hammam, Basem Zoheir, Ardiansyah Ibnu Koeshidayatullah, Adhipa Herlambang, Biswajeet Pradhan, Sergey Kuznetsov, Khalid A. Al-Ramadan</dc:creator>
       <dc:publisher>Scientific Reports</dc:publisher>
       <category>Hydrothermal circulation</category>
       <category>Mineralization (soil science)</category>
@@ -1005,7 +1019,7 @@
       <link>https://doi.org/10.1007/s13369-026-11417-5</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7164575895</guid>
-      <dc:creator>Abdullah Alqubalee, Abdulwahab Muhammad Bello, Adhipa Herlambang, John Humphrey, Ardiansyah Koeshidayatullah, Kevin G. Taylor, Khalid A. Al-Ramadan</dc:creator>
+      <dc:creator>Abdullah Alqubalee, Abdulwahab Muhammad Bello, Adhipa Herlambang, John Humphrey, Ardiansyah Ibnu Koeshidayatullah, Kevin G. Taylor, Khalid A. Al-Ramadan</dc:creator>
       <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
       <category>Geology</category>
       <category>Fluvial</category>
@@ -1047,7 +1061,7 @@
       <link>https://doi.org/10.1016/j.aiig.2026.100230</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7163685777</guid>
-      <dc:creator>Joshua Atolagbe, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:creator>Joshua Atolagbe, Ardiansyah Ibnu Koeshidayatullah</dc:creator>
       <dc:publisher>Artificial Intelligence in Geosciences</dc:publisher>
       <category>Geology</category>
       <category>Petrography</category>
@@ -1327,7 +1341,7 @@
       <link>https://doi.org/10.48550/arxiv.2605.03919</link>
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7160381236</guid>
-      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
+      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Ibnu Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
       <dc:publisher>arXiv (Cornell University)</dc:publisher>
       <category>Facies</category>
       <category>Petrophysics</category>
@@ -1341,7 +1355,7 @@
       <link>https://doi.org/10.48550/arxiv.2605.03942</link>
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7160389428</guid>
-      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Koeshidayatullah, SanLinn I. Kaka</dc:creator>
+      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Ibnu Koeshidayatullah, SanLinn I. Kaka</dc:creator>
       <dc:publisher>arXiv (Cornell University)</dc:publisher>
       <category>Workflow</category>
       <category>Computer science</category>
@@ -1391,20 +1405,6 @@
       <category>Fractionation</category>
       <category>Geochemistry</category>
       <description>Abstract: REE lateritization is the main pedogenetic process in tropical to subtropical conditions, where the extent of weathering plays a crucial role in the redistribution and accumulation of REEs throughout different soil layers. This study investigated the remobilization of REEs in laterite profiles developed over harzburgite protoliths (northern profiles) and layered gabbro (southern profiles) of the Semail ophiolite in the Oman Mountains. The ΣREE content of the laterite over the harzburgite protolith (350 μg/g) is much lower than that of the layered gabbro-derived laterite (798 μg/g). Oxide-REE correlations suggest that clay minerals such as montmorillonite and kaolinite, along with Fe‒Mn oxides, are likely the primary hosts for REEs. The Ce/Ce* values (0.08–1.04 in harzburgite and 0.75–1.1 in layered gabbro) indicate a slightly higher degree of oxidation during the lateritization of the layered gabbro. Moreover, the Eu/Eu* ratios (0.86–4.06 in harzburgite and 0.33–1.29 in layered gabbro) reflect reductive conditions during the lateritization of the harzburgite protolith. The IOL and UMIA values were used to assess weathering stages and paleoclimate conditions during lateralization. The study concluded that weathering in both the northern and southern profiles occurred under different climates, transitioning from cold and dry in the protolith and oxide horizons to warm in the clay horizons, whereas a hot and humid climate prevailed during saprolite formation. Although detailed s…&#10;Topics: Laterite, Supergene (geology), Geology, Fractionation, Geochemistry&#10;Venue: Episodes&#10;Year: 2026&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Assessing water security, climate risk, and groundwater resilience for sustainable development in the Eastern Province of Saudi Arabia</title>
-      <link>https://doi.org/10.1007/s10668-026-07689-4</link>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7160114819</guid>
-      <dc:creator>Mahfuzur Rahman, Md Anuwer Hossain, Mohammed Benaafi, Mahmudur Rahman, Md Ahadul Islam Patwary, Golden Odey, Isam H. Aljundi</dc:creator>
-      <dc:publisher>Environment Development and Sustainability</dc:publisher>
-      <category>Sustainable development</category>
-      <category>Resilience (materials science)</category>
-      <category>Water resource management</category>
-      <category>Groundwater</category>
-      <category>Sustainability</category>
-      <description>Topics: Sustainable development, Resilience (materials science), Water resource management, Groundwater, Sustainability&#10;Venue: Environment Development and Sustainability&#10;Year: 2026&#10;Citations: 2</description>
     </item>
   </channel>
 </rss>

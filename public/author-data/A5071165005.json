@@ -6,16 +6,17 @@
       "https://orcid.org/0000-0003-4321-5573"
     ],
     "display_name": "Rayan Kanfar",
+    "type": null,
     "raw_author_names": [
       "Rayan Kanfar"
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 7,
-    "cited_by_count": 168,
+    "cited_by_count": 177,
     "summary_stats": {
-      "2yr_mean_citedness": 5.75,
+      "2yr_mean_citedness": 6,
       "h_index": 5,
-      "i10_index": 3
+      "i10_index": 4
     },
     "ids": {
       "openalex": "https://openalex.org/A5071165005",
@@ -161,7 +162,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000206,
+        "value": 0.0000205,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -195,7 +196,7 @@
       {
         "id": "https://openalex.org/T11801",
         "display_name": "Reservoir Engineering and Simulation Methods",
-        "value": 0.0000121,
+        "value": 0.000012,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -229,7 +230,7 @@
       {
         "id": "https://openalex.org/T11830",
         "display_name": "Point processes and geometric inequalities",
-        "value": 0.000011,
+        "value": 0.0000111,
         "subfield": {
           "id": "https://openalex.org/subfields/2604",
           "display_name": "Applied Mathematics"
@@ -287,7 +288,7 @@
         "year": 2021,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 14
+        "cited_by_count": 15
       },
       {
         "year": 2022,
@@ -305,19 +306,19 @@
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 24
+        "cited_by_count": 27
       },
       {
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 40
+        "cited_by_count": 42
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 58
+        "cited_by_count": 61
       }
     ],
     "display_name_alternatives": [
@@ -327,7 +328,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5071165005",
-    "updated_date": "2026-11-20T12:36:48",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2020-02-07T00:00:00"
   },
   "works": [
@@ -341,7 +342,8 @@
       "publication_date": "2024-09-07",
       "ids": {
         "openalex": "https://openalex.org/W4402326942",
-        "doi": "https://doi.org/10.1016/j.cageo.2024.105711"
+        "doi": "https://doi.org/10.1016/j.cageo.2024.105711",
+        "arxiv": "https://arxiv.org/abs/2306.09648"
       },
       "language": "en",
       "primary_location": {
@@ -394,6 +396,7 @@
         "https://openalex.org/W4402326942"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -413,11 +416,13 @@
           "author": {
             "id": "https://openalex.org/A5036781407",
             "display_name": "Xin Ju",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4110-7472",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4110-7472"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -454,11 +459,13 @@
           "author": {
             "id": "https://openalex.org/A5047662931",
             "display_name": "François P. Hamon",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8229-963X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8229-963X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210105028",
@@ -496,11 +503,13 @@
           "author": {
             "id": "https://openalex.org/A5007168661",
             "display_name": "Gege Wen",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1668-3777",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1668-3777"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I47508984",
@@ -537,11 +546,13 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4321-5573",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4321-5573"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -578,11 +589,13 @@
           "author": {
             "id": "https://openalex.org/A5027534318",
             "display_name": "Mauricio Araya–Polo",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5537-1840",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5537-1840"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210105028",
@@ -620,11 +633,13 @@
           "author": {
             "id": "https://openalex.org/A5033541460",
             "display_name": "Hamdi A. Tchelepi",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3084-6635",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3084-6635"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -672,13 +687,13 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 5.7413,
+      "fwci": 5.7239,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 60,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97948787,
+        "value": 0.97946171,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -842,7 +857,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/j.cageo.2024.105711",
@@ -891,7 +906,7 @@
         },
         {
           "id": "pmh:oai:arXiv.org:2306.09648",
-          "doi": null,
+          "doi": "https://doi.org/10.48550/arxiv.2306.09648",
           "is_oa": true,
           "landing_page_url": "http://arxiv.org/abs/2306.09648",
           "pdf_url": "https://arxiv.org/pdf/2306.09648",
@@ -921,44 +936,11 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "text"
-        },
-        {
-          "id": "doi:10.48550/arxiv.2306.09648",
-          "doi": "https://doi.org/10.48550/arxiv.2306.09648",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.48550/arxiv.2306.09648",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Preprint"
         }
       ],
       "best_oa_location": {
         "id": "pmh:oai:arXiv.org:2306.09648",
-        "doi": null,
+        "doi": "https://doi.org/10.48550/arxiv.2306.09648",
         "is_oa": true,
         "landing_page_url": "http://arxiv.org/abs/2306.09648",
         "pdf_url": "https://arxiv.org/pdf/2306.09648",
@@ -1100,7 +1082,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2024-09-08T00:00:00"
     },
     {
@@ -1114,7 +1096,8 @@
       "ids": {
         "openalex": "https://openalex.org/W3003329782",
         "doi": "https://doi.org/10.2523/iptc-19693-ms",
-        "mag": "3003329782"
+        "mag": "3003329782",
+        "arxiv": "https://arxiv.org/abs/2001.10156"
       },
       "language": "en",
       "primary_location": {
@@ -1151,6 +1134,7 @@
         "https://openalex.org/W3003329782"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -1170,11 +1154,13 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4321-5573",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4321-5573"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -1211,9 +1197,11 @@
           "author": {
             "id": "https://openalex.org/A5047369616",
             "display_name": "Obai Shaikh",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -1250,11 +1238,13 @@
           "author": {
             "id": "https://openalex.org/A5045063118",
             "display_name": "M. Yousefzadeh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8644-1939",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8644-1939"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -1291,11 +1281,13 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1711-1850",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1711-1850"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -1337,13 +1329,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 19.5918,
+      "fwci": 19.9976,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 83,
+      "cited_by_count": 85,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99936558,
+        "value": 0.99936649,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1629,7 +1621,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.2523/iptc-19693-ms",
@@ -1662,7 +1654,7 @@
         },
         {
           "id": "pmh:oai:arXiv.org:2001.10156",
-          "doi": null,
+          "doi": "https://doi.org/10.48550/arxiv.2001.10156",
           "is_oa": true,
           "landing_page_url": "http://arxiv.org/abs/2001.10156",
           "pdf_url": "https://arxiv.org/pdf/2001.10156",
@@ -1692,44 +1684,11 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "text"
-        },
-        {
-          "id": "doi:10.48550/arxiv.2001.10156",
-          "doi": "https://doi.org/10.48550/arxiv.2001.10156",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.48550/arxiv.2001.10156",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "article-journal"
         }
       ],
       "best_oa_location": {
         "id": "pmh:oai:arXiv.org:2001.10156",
-        "doi": null,
+        "doi": "https://doi.org/10.48550/arxiv.2001.10156",
         "is_oa": true,
         "landing_page_url": "http://arxiv.org/abs/2001.10156",
         "pdf_url": "https://arxiv.org/pdf/2001.10156",
@@ -2372,7 +2331,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2023,
@@ -2384,14 +2343,14 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2020,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2020-02-07T00:00:00"
     },
     {
@@ -2404,7 +2363,8 @@
       "publication_date": "2025-12-12",
       "ids": {
         "openalex": "https://openalex.org/W4417279471",
-        "doi": "https://doi.org/10.1016/j.geoen.2025.214342"
+        "doi": "https://doi.org/10.1016/j.geoen.2025.214342",
+        "arxiv": "https://arxiv.org/abs/2506.17747"
       },
       "language": "en",
       "primary_location": {
@@ -2454,6 +2414,7 @@
         "https://openalex.org/W4417279471"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2473,11 +2434,13 @@
           "author": {
             "id": "https://openalex.org/A5013827317",
             "display_name": "Abdulrahman Al‐Fakih",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7583-768X",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7583-768X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2549,13 +2512,15 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
+            "display_name": "Ardiansyah Ibnu Koeshidayatullah",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7558-8783",
               "https://orcid.org/0000-0003-0940-678X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2612,11 +2577,13 @@
           "author": {
             "id": "https://openalex.org/A5088388992",
             "display_name": "Nabil Ali Saraih",
+            "type": null,
             "orcid": "https://orcid.org/0009-0006-8245-3792",
             "observed_orcids": [
               "https://orcid.org/0009-0006-8245-3792"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2662,11 +2629,13 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1711-1850",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1711-1850"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -2703,11 +2672,13 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4321-5573",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4321-5573"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2744,11 +2715,13 @@
           "author": {
             "id": "https://openalex.org/A5084495777",
             "display_name": "Abdulmohsen Alali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5128-992X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5128-992X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2785,11 +2758,13 @@
           "author": {
             "id": "https://openalex.org/A5024607591",
             "display_name": "SanLinn I. Kaka",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1229-4627",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1229-4627"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2857,13 +2832,13 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 5.1783,
+      "fwci": 5.1649,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95915956,
+        "value": 0.95922511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2955,62 +2930,57 @@
         {
           "id": "https://openalex.org/keywords/conditional-gan",
           "display_name": "conditional generative adversarial networks",
-          "score": 0.9129999876022339
+          "score": 0.9409999847412109
         },
         {
           "id": "https://openalex.org/keywords/pix2pix",
           "display_name": "Pix2Pix",
-          "score": 0.949999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/groningen-gas-field",
-          "display_name": "Groningen gas field",
-          "score": 0.9980000257492065
+          "score": 0.9359999895095825
         },
         {
           "id": "https://openalex.org/keywords/facies-prediction",
           "display_name": "facies prediction",
-          "score": 0.8960000276565552
+          "score": 0.7820000052452087
         },
         {
           "id": "https://openalex.org/keywords/porosity-prediction",
           "display_name": "porosity estimation",
-          "score": 0.7960000038146973
+          "score": 0.8109999895095825
         },
         {
           "id": "https://openalex.org/keywords/permeability-prediction",
           "display_name": "permeability prediction",
-          "score": 0.9959999918937683
+          "score": 0.9980000257492065
         },
         {
           "id": "https://openalex.org/keywords/water-saturation-estimation",
           "display_name": "water saturation estimation",
-          "score": 0.953000009059906
+          "score": 0.9649999737739563
         },
         {
-          "id": "https://openalex.org/keywords/reservoir-characterization",
-          "display_name": "reservoir characterization",
-          "score": 0.5070000290870667
-        },
-        {
-          "id": "https://openalex.org/keywords/missing-data-imputation",
-          "display_name": "missing data imputation",
-          "score": 0.5809999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/variogram-analysis",
-          "display_name": "variogram analysis",
-          "score": 0.4869999885559082
+          "id": "https://openalex.org/keywords/groningen-gas-field",
+          "display_name": "Groningen gas field",
+          "score": 0.9990000128746033
         },
         {
           "id": "https://openalex.org/keywords/u-net-generator",
           "display_name": "U-Net generator",
-          "score": 0.7459999918937683
+          "score": 0.6840000152587891
         },
         {
           "id": "https://openalex.org/keywords/patchgan-discriminator",
           "display_name": "PatchGAN discriminator",
-          "score": 0.9940000176429749
+          "score": 0.9419999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/variogram-analysis",
+          "display_name": "variogram analysis",
+          "score": 0.5860000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-characterization",
+          "display_name": "reservoir characterization",
+          "score": 0.46399998664855957
         }
       ],
       "concepts": [
@@ -3184,7 +3154,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/j.geoen.2025.214342",
@@ -3230,7 +3200,7 @@
         },
         {
           "id": "pmh:oai:arXiv.org:2506.17747",
-          "doi": null,
+          "doi": "https://doi.org/10.48550/arxiv.2506.17747",
           "is_oa": true,
           "landing_page_url": "http://arxiv.org/abs/2506.17747",
           "pdf_url": "https://arxiv.org/pdf/2506.17747",
@@ -3260,39 +3230,6 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "text"
-        },
-        {
-          "id": "doi:10.48550/arxiv.2506.17747",
-          "doi": "https://doi.org/10.48550/arxiv.2506.17747",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.48550/arxiv.2506.17747",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Preprint"
         }
       ],
       "best_oa_location": {
@@ -4118,7 +4055,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -4180,6 +4117,7 @@
         "https://openalex.org/W4407066027"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4197,11 +4135,13 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4321-5573",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4321-5573"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4245,11 +4185,13 @@
           "author": {
             "id": "https://openalex.org/A5084495777",
             "display_name": "Abdulmohsen Alali",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-5128-992X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-5128-992X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4293,9 +4235,11 @@
           "author": {
             "id": "https://openalex.org/A5074737905",
             "display_name": "Thierry-Laurent D. Tonellot",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4339,9 +4283,11 @@
           "author": {
             "id": "https://openalex.org/A5110667503",
             "display_name": "Hussain Salim",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -4385,11 +4331,13 @@
           "author": {
             "id": "https://openalex.org/A5034973010",
             "display_name": "Oleg Ovcharenko",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6717-8888",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6717-8888"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210127875",
@@ -5250,6 +5198,7 @@
         "https://openalex.org/W4386380008"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5267,11 +5216,13 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4321-5573",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4321-5573"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -5308,11 +5259,13 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1711-1850",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1711-1850"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -5810,6 +5763,7 @@
         "https://openalex.org/W4392187405"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -5827,11 +5781,13 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4321-5573",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4321-5573"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -5868,9 +5824,11 @@
           "author": {
             "id": "https://openalex.org/A5094009936",
             "display_name": "Lama El Halabi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -5907,9 +5865,11 @@
           "author": {
             "id": "https://openalex.org/A5017218301",
             "display_name": "Tyler R. Hall",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -5946,11 +5906,13 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1711-1850",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1711-1850"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -6745,6 +6707,7 @@
         "https://openalex.org/W4389725159"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -6762,11 +6725,13 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-4321-5573",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4321-5573"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",
@@ -6810,11 +6775,13 @@
           "author": {
             "id": "https://openalex.org/A5058656075",
             "display_name": "Charles I. Breithaupt",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2762-6778",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2762-6778"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I923382979",
@@ -6858,11 +6825,13 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1711-1850",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1711-1850"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I97018004",

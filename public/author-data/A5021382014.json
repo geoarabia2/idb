@@ -4,6 +4,7 @@
     "orcid": null,
     "observed_orcids": [],
     "display_name": "Khalid Al Ramadan",
+    "type": null,
     "raw_author_names": [
       "Khalid Al Ramadan",
       "Khalid Ramadan"
@@ -441,6 +442,7 @@
         "https://openalex.org/W2053123825"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -458,11 +460,13 @@
           "author": {
             "id": "https://openalex.org/A5066910018",
             "display_name": "Warren W. Wood",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-3335-7597",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3335-7597"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1286329397",
@@ -553,11 +557,13 @@
           "author": {
             "id": "https://openalex.org/A5038867039",
             "display_name": "Richard M. Bailey",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-4566-843X",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4566-843X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -594,11 +600,13 @@
           "author": {
             "id": "https://openalex.org/A5054841487",
             "display_name": "Brian A. Hampton",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-1038-491X",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1038-491X"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I87216513",
@@ -635,11 +643,13 @@
           "author": {
             "id": "https://openalex.org/A5103217857",
             "display_name": "Thomas F. Kraemer",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0304-2498",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0304-2498"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1286329397",
@@ -684,11 +694,13 @@
           "author": {
             "id": "https://openalex.org/A5010436195",
             "display_name": "Zhong Lu",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-9181-1818",
             "observed_orcids": [
               "https://orcid.org/0000-0001-9181-1818"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1286329397",
@@ -726,9 +738,11 @@
           "author": {
             "id": null,
             "display_name": "David W. Clark",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1286329397",
@@ -766,9 +780,11 @@
           "author": {
             "id": "https://openalex.org/A5047559025",
             "display_name": "Rhodri H.R. James",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I40120149",
@@ -805,9 +821,11 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -858,18 +876,18 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 3.3078,
+      "fwci": 3.2261,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 54,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89540575,
+        "value": 0.89310818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 99
       },
       "biblio": {
@@ -1169,8 +1187,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -1193,8 +1211,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -1744,6 +1762,7 @@
         "https://openalex.org/W3129777047"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1761,11 +1780,13 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-2140-8370",
             "observed_orcids": [
               "https://orcid.org/0009-0007-2140-8370"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1336856363",
@@ -1802,9 +1823,11 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -1841,9 +1864,11 @@
           "author": {
             "id": "https://openalex.org/A5027167326",
             "display_name": "Mahmoud Nazgah",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1858,11 +1883,13 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2730-4672",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2730-4672"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -1902,13 +1929,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3697,
+      "fwci": 0.3578,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44122859,
+        "value": 0.42669683,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2233,8 +2260,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2687,6 +2714,7 @@
         "https://openalex.org/W2254901902"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2704,11 +2732,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2757,9 +2787,11 @@
           "author": {
             "id": "https://openalex.org/A5103606618",
             "display_name": "Abdulaziz Al Shaibani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -2796,9 +2828,11 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3098,8 +3132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254901902.pdf",
@@ -3446,6 +3480,7 @@
         "https://openalex.org/W3091193032"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [],
@@ -3461,12 +3496,14 @@
           "author": {
             "id": "https://openalex.org/A5062234351",
             "display_name": "Muhammad Arslan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-9620-6710",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9620-6710",
               "https://orcid.org/0009-0000-4192-6780"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3481,11 +3518,13 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5874",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5874"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3500,11 +3539,13 @@
           "author": {
             "id": "https://openalex.org/A5074883327",
             "display_name": "Bassam Tawabini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0096-2723",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0096-2723"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3519,9 +3560,11 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3536,11 +3579,13 @@
           "author": {
             "id": "https://openalex.org/A5044235421",
             "display_name": "Lamidi Babalola",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0052-5603",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0052-5603"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3555,11 +3600,13 @@
           "author": {
             "id": "https://openalex.org/A5070748180",
             "display_name": "Fabrizio Frontalini",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-0425-9306",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0425-9306"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3577,13 +3624,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8996,
+      "fwci": 1.9634,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76934166,
+        "value": 0.77868852,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3802,16 +3849,16 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3886,11 +3933,20 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W4300915311",
+          "display_name": "SEG Technical Program Expanded Abstracts 2009",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W1987587938"
+        "https://openalex.org/W1987587938",
+        "https://openalex.org/W4300915311"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -3908,11 +3964,13 @@
           "author": {
             "id": "https://openalex.org/A5102780937",
             "display_name": "Maaruf Hussain",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-7418-3813",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7418-3813"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -3956,9 +4014,11 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I134085113",
@@ -4319,8 +4379,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -4725,7 +4785,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1987587938",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4780,6 +4840,7 @@
         "https://openalex.org/W2175841689"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -4797,9 +4858,11 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4814,11 +4877,13 @@
           "author": {
             "id": "https://openalex.org/A5057027693",
             "display_name": "Sadoon Morad",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-8214-0896",
             "observed_orcids": [
               "https://orcid.org/0000-0002-8214-0896"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4833,9 +4898,11 @@
           "author": {
             "id": "https://openalex.org/A5011794675",
             "display_name": "Essam El-Khoriby",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5188,8 +5255,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5723,6 +5790,7 @@
         "https://openalex.org/W2565148508"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -5740,9 +5808,11 @@
           "author": {
             "id": "https://openalex.org/A5083679919",
             "display_name": "Emad A. Busbait",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5757,9 +5827,11 @@
           "author": {
             "id": "https://openalex.org/A5036048747",
             "display_name": "Ishak Ishak",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5774,9 +5846,11 @@
           "author": {
             "id": "https://openalex.org/A5078353329",
             "display_name": "Langhorne B. Smith",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5791,9 +5865,11 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6133,8 +6209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

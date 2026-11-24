@@ -4,6 +4,7 @@
     "orcid": null,
     "observed_orcids": [],
     "display_name": "Z. R. Beydoun",
+    "type": null,
     "raw_author_names": [
       "Beydoun, Z. R.",
       "Z R Beydoun",
@@ -16,7 +17,7 @@
     ],
     "full_name": "ZIAD RAFIQ BEYDOUN",
     "works_count": 55,
-    "cited_by_count": 2597,
+    "cited_by_count": 2602,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 26,
@@ -43,6 +44,21 @@
         "years": [
           1992,
           1989
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I22590746",
+          "ror": "https://ror.org/04sm3yz09",
+          "display_name": "Marathon Oil (United States)",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I22590746"
+          ]
+        },
+        "years": [
+          1991
         ]
       },
       {
@@ -196,7 +212,7 @@
       {
         "id": "https://openalex.org/T12639",
         "display_name": "Global Energy and Sustainability Research",
-        "value": 0.0000684,
+        "value": 0.0000682,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -394,7 +410,7 @@
       {
         "year": 1993,
         "works_count": 2,
-        "oa_works_count": 1,
+        "oa_works_count": 0,
         "cited_by_count": 0
       },
       {
@@ -412,7 +428,7 @@
       {
         "year": 1996,
         "works_count": 3,
-        "oa_works_count": 1,
+        "oa_works_count": 0,
         "cited_by_count": 0
       },
       {
@@ -449,7 +465,7 @@
         "year": 2014,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 91
+        "cited_by_count": 93
       },
       {
         "year": 2015,
@@ -461,7 +477,7 @@
         "year": 2016,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 90
+        "cited_by_count": 91
       },
       {
         "year": 2017,
@@ -497,13 +513,13 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 114
+        "cited_by_count": 115
       },
       {
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 97
+        "cited_by_count": 98
       },
       {
         "year": 2024,
@@ -538,7 +554,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5077725431",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5077725431",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -594,6 +610,7 @@
         "https://openalex.org/W2282472653"
       ],
       "child_works_count": 10,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -611,20 +628,12 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
-            {
-              "id": "https://openalex.org/I22590746",
-              "display_name": "Marathon Oil (United States)",
-              "ror": "https://ror.org/04sm3yz09",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I22590746"
-              ]
-            },
             {
               "id": "https://openalex.org/I98635879",
               "display_name": "American University of Beirut",
@@ -637,8 +646,7 @@
             }
           ],
           "countries": [
-            "LB",
-            "US"
+            "LB"
           ],
           "is_corresponding": true,
           "contributor_roles": [],
@@ -657,26 +665,23 @@
             },
             {
               "raw_affiliation_string": "Marathon International Petroleum (GB) Ltd., London, U.K",
-              "institution_ids": [
-                "https://openalex.org/I22590746"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5077725431"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I22590746",
         "https://openalex.org/I98635879"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4286,
+      "fwci": 4.3838,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 428,
@@ -996,8 +1001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1730,7 +1735,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1793,6 +1798,7 @@
         "https://openalex.org/W1573262718"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -1810,9 +1816,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -1849,9 +1857,11 @@
           "author": {
             "id": "https://openalex.org/A5033667322",
             "display_name": "M. W. Hughes Clarke",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1873,10 +1883,22 @@
           "author": {
             "id": "https://openalex.org/A5021426774",
             "display_name": "R. Stoneley",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
+            {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
             {
               "id": "https://openalex.org/I47508984",
               "display_name": "Imperial College London",
@@ -1902,6 +1924,7 @@
             {
               "raw_affiliation_string": "Imperial College, University of London London, U.K",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I47508984"
               ]
             }
@@ -1910,18 +1933,18 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1323,
+      "fwci": 3.0623,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 248,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89038462,
+        "value": 0.88737864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1942,7 +1965,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "score": 0.6958000063896179,
+        "score": 0.5439000129699707,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -1960,7 +1983,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.6958000063896179,
+          "score": 0.5439000129699707,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -1977,7 +2000,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.27559998631477356,
+          "score": 0.4255000054836273,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -1994,7 +2017,7 @@
         {
           "id": "https://openalex.org/T13177",
           "display_name": "Geological and Geophysical Studies",
-          "score": 0.014999999664723873,
+          "score": 0.0215000007301569,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -2013,32 +2036,52 @@
         {
           "id": "https://openalex.org/keywords/zagros-basin",
           "display_name": "Zagros Basin",
-          "score": 0.9789999723434448
+          "score": 0.9480000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/zagros-mountains",
+          "display_name": "Zagros Mountains",
+          "score": 0.8820000290870667
         },
         {
           "id": "https://openalex.org/keywords/foreland-basin",
           "display_name": "foreland basin",
-          "score": 0.8309999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-geology",
-          "display_name": "petroleum geology",
-          "score": 0.5649999976158142
+          "score": 0.7250000238418579
         },
         {
           "id": "https://openalex.org/keywords/late-tertiary",
           "display_name": "Late Tertiary",
-          "score": 0.7459999918937683
+          "score": 0.6589999794960022
         },
         {
-          "id": "https://openalex.org/keywords/western-canada-sedimentary-basin",
-          "display_name": "Western Canada Sedimentary Basin",
-          "score": 0.6840000152587891
+          "id": "https://openalex.org/keywords/petroleum-geology",
+          "display_name": "petroleum geology",
+          "score": 0.6159999966621399
         },
         {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.3059999942779541
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.6449999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-plate",
+          "display_name": "Arabian Plate",
+          "score": 0.5370000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-shield",
+          "display_name": "Arabian Shield",
+          "score": 0.4390000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-and-gas-fields",
+          "display_name": "oil and gas fields",
+          "score": 0.6809999942779541
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-gaps",
+          "display_name": "stratigraphic gaps",
+          "score": 0.5680000185966492
         }
       ],
       "concepts": [
@@ -2142,8 +2185,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2793,7 +2836,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2858,6 +2901,7 @@
         "https://openalex.org/W2122379499"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2875,11 +2919,13 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0009-0007-2140-8370",
             "observed_orcids": [
               "https://orcid.org/0009-0007-2140-8370"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -2929,9 +2975,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -3293,8 +3341,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -4034,6 +4082,7 @@
         "https://openalex.org/W2147650435"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -4051,9 +4100,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4068,9 +4119,11 @@
           "author": {
             "id": "https://openalex.org/A5030327389",
             "display_name": "HERBERT ROY BICHAN",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4088,13 +4141,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5056,
+      "fwci": 0.4913,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 102,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56709324,
+        "value": 0.55502742,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4408,8 +4461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -5060,6 +5113,7 @@
         "https://openalex.org/W1978905410"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5077,11 +5131,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7791-5677",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7791-5677"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5103,9 +5159,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5127,9 +5185,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -5173,13 +5233,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.291,
+      "fwci": 4.225,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 99,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93154395,
+        "value": 0.93038922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5418,8 +5478,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -5578,6 +5638,7 @@
         "https://openalex.org/W2022842844"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5596,9 +5657,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -5649,13 +5712,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7111,
+      "fwci": 2.6588,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 93,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87813152,
+        "value": 0.87549669,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6015,8 +6078,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6501,6 +6564,7 @@
         "https://openalex.org/W2049128482"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -6519,9 +6583,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -6565,9 +6631,11 @@
           "author": {
             "id": "https://openalex.org/A5071022030",
             "display_name": "Mustafa Abdullatif As-Saruri",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6589,9 +6657,11 @@
           "author": {
             "id": "https://openalex.org/A5069639715",
             "display_name": "Rasheed Baraba",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4387153782",
@@ -6967,8 +7037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7982,7 +8052,7 @@
       "display_name": "THE HYDROCARBON PROSPECTS OF THE RED SEA--GULF OF ADEN: A REVIEW",
       "alternate_titles": [],
       "publication_year": 1989,
-      "publication_date": "1989-01-01",
+      "publication_date": "1989-04-01",
       "ids": {
         "openalex": "https://openalex.org/W2071984317",
         "doi": "https://doi.org/10.1111/j.1747-5457.1989.tb00229.x",
@@ -8037,6 +8107,7 @@
         "https://openalex.org/W2071984317"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -8054,9 +8125,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1334329717",
@@ -8123,13 +8196,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 6.3783,
+      "fwci": 6.2764,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 83,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9595641,
+        "value": 0.9583576,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8470,8 +8543,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -9441,7 +9514,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9451,7 +9524,7 @@
       "display_name": "JORDAN REVISITED: HYDROCARBONS HABITAT AND POTENTIAL",
       "alternate_titles": [],
       "publication_year": 1994,
-      "publication_date": "1994-01-01",
+      "publication_date": "1994-04-01",
       "ids": {
         "openalex": "https://openalex.org/W2104430377",
         "doi": "https://doi.org/10.1111/j.1747-5457.1994.tb00125.x",
@@ -9506,6 +9579,7 @@
         "https://openalex.org/W2104430377"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -9523,9 +9597,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -9562,9 +9638,11 @@
           "author": {
             "id": "https://openalex.org/A5073310342",
             "display_name": "A. R. I. Futyan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -9586,9 +9664,11 @@
           "author": {
             "id": "https://openalex.org/A5036338834",
             "display_name": "A. H. Jawzi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -9617,13 +9697,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.6057,
+      "fwci": 0.5935,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 59,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66650797,
+        "value": 0.65957447,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9947,8 +10027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -10669,7 +10749,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10738,6 +10818,7 @@
         "https://openalex.org/W2321939636"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -10755,9 +10836,11 @@
           "author": {
             "id": "https://openalex.org/A5021426774",
             "display_name": "R. Stoneley",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -10772,9 +10855,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -10796,13 +10881,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 12.7379,
+      "fwci": 12.5912,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 169,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99255228,
+        "value": 0.99226139,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -11046,8 +11131,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11177,6 +11262,7 @@
         "https://openalex.org/W2045382172"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -11194,9 +11280,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -11240,15 +11328,15 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8138,
+      "fwci": 2.9306,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 114,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89893283,
+        "value": 0.90262652,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 86,
@@ -11520,8 +11608,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12337,7 +12425,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12403,6 +12491,7 @@
         "https://openalex.org/W2973294836"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -12420,9 +12509,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -12710,8 +12801,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2973294836.pdf",
@@ -13355,6 +13446,7 @@
         "https://openalex.org/W2104962054"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -13372,9 +13464,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -13394,13 +13488,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4935,
+      "fwci": 1.4503,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 84,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84233577,
+        "value": 0.83662389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13633,8 +13727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -14413,6 +14507,7 @@
         "https://openalex.org/W2031815022"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -14430,9 +14525,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -14476,18 +14573,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1275,
+      "fwci": 1.1095,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74380647,
+        "value": 0.73869933,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 98
       },
       "biblio": {
@@ -14743,8 +14840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -15618,6 +15715,7 @@
         "https://openalex.org/W2147400866"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -15635,9 +15733,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -15685,13 +15785,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.8337,
+      "fwci": 1.7787,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 57,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82271863,
+        "value": 0.81793939,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16005,8 +16105,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -16192,6 +16292,7 @@
         "https://openalex.org/W1973778260"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16209,9 +16310,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -16248,9 +16351,11 @@
           "author": {
             "id": "https://openalex.org/A5017811089",
             "display_name": "A.H. Sikander",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I163144531",
@@ -16623,8 +16728,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -16799,6 +16904,7 @@
         "https://openalex.org/W2129205371"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -16816,9 +16922,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -17249,8 +17357,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -18361,6 +18469,7 @@
         "https://openalex.org/W2051595569"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18378,9 +18487,11 @@
           "author": {
             "id": "https://openalex.org/A5025397318",
             "display_name": "J. W. Pallister",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -18395,9 +18506,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -18419,13 +18532,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 3.2814,
+      "fwci": 3.2025,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 60,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91417625,
+        "value": 0.91180982,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18652,8 +18765,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18784,6 +18897,7 @@
         "https://openalex.org/W2008608377"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -18801,9 +18915,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -18840,9 +18956,11 @@
           "author": {
             "id": "https://openalex.org/A5013074507",
             "display_name": "M.O. Bamahmoud",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -18864,9 +18982,11 @@
           "author": {
             "id": "https://openalex.org/A5088399875",
             "display_name": "A.S.O. Nani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -18895,13 +19015,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.1897,
+      "fwci": 2.127,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85516701,
+        "value": 0.85165563,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19159,8 +19279,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -19304,6 +19424,7 @@
         "https://openalex.org/W2084051598"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -19321,9 +19442,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -19790,8 +19913,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -20375,6 +20498,7 @@
         "https://openalex.org/W4255585102"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -20392,9 +20516,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -20438,13 +20564,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4915,
+      "fwci": 0.4901,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 65,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63953488,
+        "value": 0.63372093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20465,7 +20591,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "score": 0.9047999978065491,
+        "score": 0.9204000234603882,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -20483,7 +20609,7 @@
         {
           "id": "https://openalex.org/T13177",
           "display_name": "Geological and Geophysical Studies",
-          "score": 0.9047999978065491,
+          "score": 0.9204000234603882,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -20500,7 +20626,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.02810000069439411,
+          "score": 0.019700000062584877,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -20515,12 +20641,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.01769999973475933,
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.015300000086426735,
           "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -20536,27 +20662,27 @@
         {
           "id": "https://openalex.org/keywords/levant",
           "display_name": "Levant",
-          "score": 0.9369999766349792
+          "score": 0.9150000214576721
         },
         {
           "id": "https://openalex.org/keywords/continental-shelf",
           "display_name": "continental shelf",
-          "score": 0.7300000190734863
+          "score": 0.796999990940094
         },
         {
           "id": "https://openalex.org/keywords/coastal-zone",
           "display_name": "coastal areas",
-          "score": 0.718999981880188
+          "score": 0.746999979019165
         },
         {
           "id": "https://openalex.org/keywords/coastal-mountain-range",
           "display_name": "coastal mountain range",
-          "score": 0.7820000052452087
+          "score": 0.7770000100135803
         },
         {
           "id": "https://openalex.org/keywords/mediterranean-sea",
           "display_name": "Mediterranean Sea",
-          "score": 0.43299999833106995
+          "score": 0.421999990940094
         }
       ],
       "concepts": [
@@ -20709,8 +20835,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -20814,7 +20940,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20879,6 +21005,7 @@
         "https://openalex.org/W2168772769"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -20896,9 +21023,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -20940,9 +21069,11 @@
           "author": {
             "id": "https://openalex.org/A5055290127",
             "display_name": "J. G. Habib",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -20971,13 +21102,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 3.78,
+      "fwci": 3.7417,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91090738,
+        "value": 0.91050035,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21294,8 +21425,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -22439,6 +22570,7 @@
         "https://openalex.org/W2064255822"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -22456,9 +22588,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -22868,17 +23002,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -23014,6 +23148,7 @@
         "https://openalex.org/W2478666223"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -23031,9 +23166,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -23363,8 +23500,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24375,6 +24512,7 @@
         "https://openalex.org/W2077019434"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -24392,9 +24530,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1334329717",
@@ -24450,9 +24590,11 @@
           "author": {
             "id": "https://openalex.org/A5017811089",
             "display_name": "A.H. Sikander",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1334329717",
@@ -24888,8 +25030,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25690,6 +25832,7 @@
         "https://openalex.org/W4235114216"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -25707,9 +25850,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -25753,15 +25898,15 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.5652,
+      "fwci": 0.5622,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 26,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95491191,
+        "value": 0.5734767,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -25778,44 +25923,27 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T13215",
-        "display_name": "Global Maritime and Colonial Histories",
-        "score": 0.290800005197525,
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.4368000030517578,
         "subfield": {
-          "id": "https://openalex.org/subfields/1202",
-          "display_name": "History"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/12",
-          "display_name": "Arts and Humanities"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
         }
       },
       "topics": [
         {
-          "id": "https://openalex.org/T13215",
-          "display_name": "Global Maritime and Colonial Histories",
-          "score": 0.290800005197525,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1202",
-            "display_name": "History"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T13177",
           "display_name": "Geological and Geophysical Studies",
-          "score": 0.2847000062465668,
+          "score": 0.4368000030517578,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -25830,12 +25958,29 @@
           }
         },
         {
-          "id": "https://openalex.org/T13485",
-          "display_name": "Coastal Fisheries and Human Impacts",
-          "score": 0.05990000069141388,
+          "id": "https://openalex.org/T13215",
+          "display_name": "Global Maritime and Colonial Histories",
+          "score": 0.26170000433921814,
           "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
+            "id": "https://openalex.org/subfields/1202",
+            "display_name": "History"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12652",
+          "display_name": "International Maritime Law Issues",
+          "score": 0.038100000470876694,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2308",
+            "display_name": "Management, Monitoring, Policy and Law"
           },
           "field": {
             "id": "https://openalex.org/fields/23",
@@ -25851,37 +25996,52 @@
         {
           "id": "https://openalex.org/keywords/gulf-of-aden",
           "display_name": "Gulf of Aden",
-          "score": 0.9959999918937683
+          "score": 0.996999979019165
         },
         {
           "id": "https://openalex.org/keywords/owen-fracture-zone",
           "display_name": "Owen Fracture Zone",
-          "score": 0.800000011920929
-        },
-        {
-          "id": "https://openalex.org/keywords/red-sea",
-          "display_name": "Red Sea",
-          "score": 0.628000020980835
+          "score": 0.734000027179718
         },
         {
           "id": "https://openalex.org/keywords/horn-of-africa",
           "display_name": "Horn of Africa",
-          "score": 0.8820000290870667
+          "score": 0.8450000286102295
         },
         {
           "id": "https://openalex.org/keywords/socotra-archipelago",
           "display_name": "Socotra Archipelago",
-          "score": 0.9490000009536743
+          "score": 0.9369999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/red-sea",
+          "display_name": "Red Sea",
+          "score": 0.6480000019073486
         },
         {
           "id": "https://openalex.org/keywords/afar-region",
           "display_name": "Afar region",
-          "score": 0.6309999823570251
+          "score": 0.5720000267028809
         },
         {
-          "id": "https://openalex.org/keywords/somali-coast",
-          "display_name": "Somali coast",
-          "score": 0.5099999904632568
+          "id": "https://openalex.org/keywords/south-oman",
+          "display_name": "South Oman",
+          "score": 0.41499999165534973
+        },
+        {
+          "id": "https://openalex.org/keywords/dhofar",
+          "display_name": "Dhofar",
+          "score": 0.925000011920929
+        },
+        {
+          "id": "https://openalex.org/keywords/yemen",
+          "display_name": "Yemen",
+          "score": 0.42800000309944153
+        },
+        {
+          "id": "https://openalex.org/keywords/geology-of-the-region",
+          "display_name": "geology of the region",
+          "score": 0.49000000953674316
         }
       ],
       "concepts": [
@@ -25996,17 +26156,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7778000235557556,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -26146,7 +26306,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26202,6 +26362,7 @@
         "https://openalex.org/W564464517"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [],
@@ -26217,9 +26378,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26234,9 +26397,11 @@
           "author": {
             "id": null,
             "display_name": "Jim Greenwood",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -26254,13 +26419,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7896,
+      "fwci": 1.7547,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81270903,
+        "value": 0.81011939,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26454,8 +26619,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26569,6 +26734,7 @@
         "https://openalex.org/W2069737605"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -26586,9 +26752,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -26636,13 +26804,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.6121,
+      "fwci": 0.5929,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68277659,
+        "value": 0.67636364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26969,8 +27137,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -27651,6 +27819,7 @@
         "https://openalex.org/W1503097061"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -27666,9 +27835,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -27906,8 +28077,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27942,7 +28113,7 @@
       "display_name": "SOME HOLOCENE GEOMORPHOLOGICAL AND SEDIMENTOLOGICAL OBSERVATIONS FROM OMAN AND THEIR PALAEOGEOLOGICAL IMPLICATIONS",
       "alternate_titles": [],
       "publication_year": 1980,
-      "publication_date": "1980-01-01",
+      "publication_date": "1980-04-01",
       "ids": {
         "openalex": "https://openalex.org/W2060786586",
         "doi": "https://doi.org/10.1111/j.1747-5457.1980.tb00970.x",
@@ -27997,6 +28168,7 @@
         "https://openalex.org/W2060786586"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -28014,9 +28186,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -28410,8 +28584,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -29032,7 +29206,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -29068,6 +29242,7 @@
         "https://openalex.org/W2236445334"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -29083,9 +29258,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -29286,8 +29463,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29377,6 +29554,7 @@
         "https://openalex.org/W1972909589"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29394,9 +29572,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -29747,8 +29927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -29865,6 +30045,7 @@
         "https://openalex.org/W2131601849"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -29882,9 +30063,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -30234,8 +30417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30886,6 +31069,7 @@
         "https://openalex.org/W2028765782"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -30903,9 +31087,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -31190,8 +31376,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31285,6 +31471,7 @@
         "https://openalex.org/W1987197011"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -31302,11 +31489,13 @@
           "author": {
             "id": "https://openalex.org/A5000628701",
             "display_name": "N. L. Falcon",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5286-5047",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5286-5047"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31321,9 +31510,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31338,9 +31529,11 @@
           "author": {
             "id": "https://openalex.org/A5061025174",
             "display_name": "H. V. Dunnington",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -31362,13 +31555,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.9655,
+      "fwci": 2.9237,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89642005,
+        "value": 0.89617225,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31612,8 +31805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31689,6 +31882,7 @@
         "https://openalex.org/W1599080018"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -31704,9 +31898,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -31918,8 +32114,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32004,6 +32200,7 @@
         "https://openalex.org/W166150482"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "report",
       "is_traditional": false,
       "indexed_in": [
@@ -32021,9 +32218,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -32320,17 +32519,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals",
           "score": 0.5217000246047974,
-          "display_name": "Partnerships for the goals"
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W166150482.pdf",
@@ -32876,6 +33075,7 @@
         "https://openalex.org/W4234645253"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [
@@ -32893,9 +33093,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -32987,8 +33189,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33070,6 +33272,7 @@
         "https://openalex.org/W1930218472"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-abstract",
       "is_traditional": false,
       "indexed_in": [],
@@ -33085,9 +33288,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -33305,17 +33510,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land",
           "score": 0.4390000104904175,
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33380,6 +33585,7 @@
         "https://openalex.org/W2265541489"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -33395,9 +33601,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -33471,8 +33679,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33562,6 +33770,7 @@
         "https://openalex.org/W1980171695"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33579,9 +33788,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -33871,8 +34082,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33956,6 +34167,7 @@
         "https://openalex.org/W1992842241"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -33973,9 +34185,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -34186,8 +34400,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34272,6 +34486,7 @@
         "https://openalex.org/W2050077771"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -34289,9 +34504,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I98635879",
@@ -34527,8 +34744,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34612,6 +34829,7 @@
         "https://openalex.org/W2167380020"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -34629,9 +34847,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -34855,8 +35075,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34912,6 +35132,7 @@
         "https://openalex.org/W2222483929"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -34927,9 +35148,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -35142,8 +35365,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35199,6 +35422,7 @@
         "https://openalex.org/W2222525464"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -35214,9 +35438,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -35388,8 +35614,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35445,6 +35671,7 @@
         "https://openalex.org/W2222593811"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -35460,9 +35687,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -35664,8 +35893,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35721,6 +35950,7 @@
         "https://openalex.org/W2223919590"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -35736,9 +35966,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -35959,8 +36191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36016,6 +36248,7 @@
         "https://openalex.org/W2224308424"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -36031,9 +36264,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -36209,8 +36444,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36266,6 +36501,7 @@
         "https://openalex.org/W2229359170"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -36281,9 +36517,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -36488,8 +36726,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36545,6 +36783,7 @@
         "https://openalex.org/W3190578800"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -36560,9 +36799,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -36729,8 +36970,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36786,6 +37027,7 @@
         "https://openalex.org/W435123580"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book",
       "is_traditional": true,
       "indexed_in": [],
@@ -36801,9 +37043,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -37008,8 +37252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37078,6 +37322,7 @@
         "https://openalex.org/W912634748"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [],
@@ -37093,9 +37338,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -37110,9 +37357,11 @@
           "author": {
             "id": "https://openalex.org/A5045536143",
             "display_name": "梁连喜",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -37306,8 +37555,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

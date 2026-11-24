@@ -4,6 +4,7 @@
     "orcid": null,
     "observed_orcids": [],
     "display_name": "Abdulaziz A. Al-Duaiji",
+    "type": null,
     "raw_author_names": [
       "A. Al-Duaiji",
       "A.A. Al-Duaiji",
@@ -11,7 +12,7 @@
     ],
     "full_name": "Abdulaziz A. Al-Duaiji",
     "works_count": 9,
-    "cited_by_count": 82,
+    "cited_by_count": 84,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -354,7 +355,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       },
       {
         "year": 2023,
@@ -378,7 +379,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       }
     ],
     "display_name_alternatives": [
@@ -390,7 +391,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5002859780",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-23T12:36:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -448,6 +449,7 @@
         "https://openalex.org/W2991877883"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -465,11 +467,13 @@
           "author": {
             "id": "https://openalex.org/A5081283983",
             "display_name": "M. Şenalp",
+            "type": null,
             "orcid": "https://orcid.org/0000-0003-2144-0091",
             "observed_orcids": [
               "https://orcid.org/0000-0003-2144-0091"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -506,9 +510,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -550,13 +556,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5185,
+      "fwci": 0.5065,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 70,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64073789,
+        "value": 0.63649025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1789,6 +1795,7 @@
         "https://openalex.org/W3003836963"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "book-chapter",
       "is_traditional": true,
       "indexed_in": [
@@ -1806,9 +1813,11 @@
           "author": {
             "id": "https://openalex.org/A5087370063",
             "display_name": "R. A. Rahmani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1830,11 +1839,13 @@
           "author": {
             "id": "https://openalex.org/A5010680677",
             "display_name": "Ronald J. Steel",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-6846-7788",
             "observed_orcids": [
               "https://orcid.org/0000-0002-6846-7788"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I86519309",
@@ -1871,9 +1882,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -3560,6 +3573,7 @@
         "https://openalex.org/W1970024393"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -3577,9 +3591,11 @@
           "author": {
             "id": "https://openalex.org/A5046095236",
             "display_name": "J.E. Findley",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -3616,9 +3632,11 @@
           "author": {
             "id": "https://openalex.org/A5053293005",
             "display_name": "Haider Al-Haj",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -3655,9 +3673,11 @@
           "author": {
             "id": "https://openalex.org/A5098012372",
             "display_name": "J.. Shanaa",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -3694,9 +3714,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -3733,9 +3755,11 @@
           "author": {
             "id": "https://openalex.org/A5098284000",
             "display_name": "S.. Economou",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4011,19 +4035,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -4592,6 +4616,7 @@
         "https://openalex.org/W2587344789"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -4609,9 +4634,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4626,11 +4653,13 @@
           "author": {
             "id": "https://openalex.org/A5067739868",
             "display_name": "Mohammed J. Al-Mahmoud",
+            "type": null,
             "orcid": "https://orcid.org/0009-0001-8203-5279",
             "observed_orcids": [
               "https://orcid.org/0009-0001-8203-5279"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4645,9 +4674,11 @@
           "author": {
             "id": "https://openalex.org/A5072158312",
             "display_name": "Mesbah Khalil",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -4662,9 +4693,11 @@
           "author": {
             "id": "https://openalex.org/A5012638560",
             "display_name": "Homoud Al-Anzi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5641,6 +5674,7 @@
         "https://openalex.org/W2042373016"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5658,11 +5692,13 @@
           "author": {
             "id": "https://openalex.org/A5067739868",
             "display_name": "Mohammed J. Al-Mahmoud",
+            "type": null,
             "orcid": "https://orcid.org/0009-0001-8203-5279",
             "observed_orcids": [
               "https://orcid.org/0009-0001-8203-5279"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5699,11 +5735,13 @@
           "author": {
             "id": "https://openalex.org/A5048746530",
             "display_name": "Sedat İnan",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-5639-6831",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5639-6831"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5740,9 +5778,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210143841",
@@ -5788,13 +5828,13 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 0.3203,
+      "fwci": 0.309,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62015282,
+        "value": 0.6049105,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6061,9 +6101,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.878000020980835,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.878000020980835
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -6201,6 +6241,7 @@
         "https://openalex.org/W3020833061"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -6218,9 +6259,11 @@
           "author": {
             "id": "https://openalex.org/A5112038707",
             "display_name": "Abdulfattah A. Al-Dajani",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6235,9 +6278,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7303,6 +7348,7 @@
         "https://openalex.org/W2029365051"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -7320,9 +7366,11 @@
           "author": {
             "id": "https://openalex.org/A5032369254",
             "display_name": "Mohammed G. Al-Otaibi",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7337,9 +7385,11 @@
           "author": {
             "id": "https://openalex.org/A5065819322",
             "display_name": "M.A. Al-Duhailan",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7354,11 +7404,13 @@
           "author": {
             "id": "https://openalex.org/A5067739868",
             "display_name": "Mohammed J. Al-Mahmoud",
+            "type": null,
             "orcid": "https://orcid.org/0009-0001-8203-5279",
             "observed_orcids": [
               "https://orcid.org/0009-0001-8203-5279"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -7373,9 +7425,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8122,6 +8176,7 @@
         "https://openalex.org/W2276535086"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -8137,9 +8192,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
@@ -8434,6 +8491,7 @@
         "https://openalex.org/W4246415414"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -8451,9 +8509,11 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -8468,9 +8528,11 @@
           "author": {
             "id": "https://openalex.org/A5021041434",
             "display_name": "Mohammed J. Al-Mahmoud and Mesbah H. Khalil",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,

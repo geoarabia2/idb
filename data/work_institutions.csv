@@ -227,8 +227,6 @@ https://openalex.org/W3011888005,https://openalex.org/I4388891817,University of 
 https://openalex.org/W63379430,https://openalex.org/I201726411,United Arab Emirates University
 https://openalex.org/W4407154387,https://openalex.org/I4210135487,Intel (United Arab Emirates)
 https://openalex.org/W4407154387,https://openalex.org/I155781252,University of South Carolina
-https://openalex.org/W2023307825,https://openalex.org/I201726411,United Arab Emirates University
-https://openalex.org/W2023307825,https://openalex.org/I155781252,University of South Carolina
 https://openalex.org/W57041421,https://openalex.org/I201726411,United Arab Emirates University
 https://openalex.org/W57041421,https://openalex.org/I155781252,University of South Carolina
 https://openalex.org/W2254881951,https://openalex.org/I201726411,United Arab Emirates University
@@ -249,6 +247,8 @@ https://openalex.org/W2745754926,https://openalex.org/I201726411,United Arab Emi
 https://openalex.org/W2745754926,https://openalex.org/I63601056,Menoufia University
 https://openalex.org/W2745754926,https://openalex.org/I155781252,University of South Carolina
 https://openalex.org/W2745754926,https://openalex.org/I60342839,Qatar University
+https://openalex.org/W2023307825,https://openalex.org/I201726411,United Arab Emirates University
+https://openalex.org/W2023307825,https://openalex.org/I155781252,University of South Carolina
 https://openalex.org/W3012370688,https://openalex.org/I4388891817,University of Science and Technology of Fujairah
 https://openalex.org/W3023402508,https://openalex.org/I201726411,United Arab Emirates University
 https://openalex.org/W3023402508,https://openalex.org/I63601056,Menoufia University
@@ -512,11 +512,6 @@ https://openalex.org/W2462123897,https://openalex.org/I197347611,Korea Universit
 https://openalex.org/W2462123897,https://openalex.org/I859038795,Virginia Tech
 https://openalex.org/W2462123897,https://openalex.org/I4210139925,Korea Basic Science Institute
 https://openalex.org/W2462123897,https://openalex.org/I31944674,Universidad de Costa Rica
-https://openalex.org/W3137555259,https://openalex.org/I3124704065,University of Kurdistan
-https://openalex.org/W3137555259,https://openalex.org/I60134161,Nagoya University
-https://openalex.org/W3137555259,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W3137555259,https://openalex.org/I206011266,Kwansei Gakuin University
-https://openalex.org/W3137555259,https://openalex.org/I4405286970,"Institute for Space-Earth Environmental Research, Nagoya University"
 https://openalex.org/W4362575603,https://openalex.org/I130309236,Kafrelsheikh University
 https://openalex.org/W4362575603,https://openalex.org/I21376657,Tanta University
 https://openalex.org/W4362575603,https://openalex.org/I71395657,Niigata University
@@ -524,6 +519,11 @@ https://openalex.org/W4362575603,https://openalex.org/I15766117,University of Gr
 https://openalex.org/W4362575603,https://openalex.org/I4210108044,Nawi Graz
 https://openalex.org/W4362575603,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4362575603,https://openalex.org/I192398990,Zagazig University
+https://openalex.org/W3137555259,https://openalex.org/I3124704065,University of Kurdistan
+https://openalex.org/W3137555259,https://openalex.org/I60134161,Nagoya University
+https://openalex.org/W3137555259,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W3137555259,https://openalex.org/I206011266,Kwansei Gakuin University
+https://openalex.org/W3137555259,https://openalex.org/I4405286970,"Institute for Space-Earth Environmental Research, Nagoya University"
 https://openalex.org/W4367396984,https://openalex.org/I130309236,Kafrelsheikh University
 https://openalex.org/W4367396984,https://openalex.org/I21376657,Tanta University
 https://openalex.org/W4367396984,https://openalex.org/I15766117,University of Graz
@@ -776,12 +776,14 @@ https://openalex.org/W3031303321,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W2526348300,https://openalex.org/I4387154756,Université Montpellier 2
 https://openalex.org/W2538698849,https://openalex.org/I121980950,Utah State University
 https://openalex.org/W2538698849,https://openalex.org/I2613432,University of South Florida
+https://openalex.org/W2538698849,https://openalex.org/I19894307,Université de Montpellier
 https://openalex.org/W2538698849,https://openalex.org/I4210123794,Géosciences Montpellier
 https://openalex.org/W2538698849,https://openalex.org/I47508984,Imperial College London
 https://openalex.org/W2538698849,https://openalex.org/I129604602,The University of Sydney
 https://openalex.org/W2538698849,https://openalex.org/I4210088648,Cooperative Trials Group for Neuro-Oncology
 https://openalex.org/W2538698849,https://openalex.org/I4322298,Towson University
 https://openalex.org/W2538698849,https://openalex.org/I131249849,Oregon State University
+https://openalex.org/W2538698849,https://openalex.org/I19820366,Chinese Academy of Sciences
 https://openalex.org/W2538698849,https://openalex.org/I3018690959,Guangzhou Institute of Geochemistry
 https://openalex.org/W2538698849,https://openalex.org/I180923762,University of Cologne
 https://openalex.org/W2538698849,https://openalex.org/I197347611,Korea University
@@ -796,14 +798,16 @@ https://openalex.org/W4413803673,https://openalex.org/I3124704065,University of 
 https://openalex.org/W4413803673,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4413803673,https://openalex.org/I98381234,University of Oulu
 https://openalex.org/W2532503993,https://openalex.org/I2613432,University of South Florida
+https://openalex.org/W2532503993,https://openalex.org/I19820366,Chinese Academy of Sciences
 https://openalex.org/W2532503993,https://openalex.org/I3018690959,Guangzhou Institute of Geochemistry
 https://openalex.org/W2532503993,https://openalex.org/I131249849,Oregon State University
 https://openalex.org/W2532503993,https://openalex.org/I126307644,University of Iowa
 https://openalex.org/W2532503993,https://openalex.org/I121980950,Utah State University
 https://openalex.org/W2532503993,https://openalex.org/I79510175,Cardiff University
-https://openalex.org/W2532503993,https://openalex.org/I4210094975,Discovery Place
+https://openalex.org/W2532503993,https://openalex.org/I91045830,Texas A&M University
 https://openalex.org/W2532503993,https://openalex.org/I129604602,The University of Sydney
 https://openalex.org/W2532503993,https://openalex.org/I4210088648,Cooperative Trials Group for Neuro-Oncology
+https://openalex.org/W2532503993,https://openalex.org/I19894307,Université de Montpellier
 https://openalex.org/W2532503993,https://openalex.org/I4210123794,Géosciences Montpellier
 https://openalex.org/W2532503993,https://openalex.org/I180923762,University of Cologne
 https://openalex.org/W2532503993,https://openalex.org/I4322298,Towson University
@@ -813,8 +817,8 @@ https://openalex.org/W2532503993,https://openalex.org/I197347611,Korea Universit
 https://openalex.org/W2537756979,https://openalex.org/I162577319,The University of Texas at Dallas
 https://openalex.org/W2537756979,https://openalex.org/I197347611,Korea University
 https://openalex.org/W2537756979,https://openalex.org/I20231570,Peking University
-https://openalex.org/W2537756979,https://openalex.org/I4210126723,"Czech Academy of Sciences, Institute of Geophysics"
-https://openalex.org/W2537756979,https://openalex.org/I4210135200,Institute of Geophysics Polish Academy of Sciences
+https://openalex.org/W2537756979,https://openalex.org/I35440088,ETH Zurich
+https://openalex.org/W2537756979,https://openalex.org/I4405255353,Institute of Geophysics
 https://openalex.org/W2537756979,https://openalex.org/I74775410,Rice University
 https://openalex.org/W2552049640,https://openalex.org/I35440088,ETH Zurich
 https://openalex.org/W2739943874,https://openalex.org/I102322142,"Rutgers, The State University of New Jersey"
@@ -850,8 +854,8 @@ https://openalex.org/W7225249941,https://openalex.org/I96908189,Xinjiang Univers
 https://openalex.org/W7225249941,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2783004461,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2517057392,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
-https://openalex.org/W2301447076,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2042299971,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
+https://openalex.org/W2301447076,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2261633129,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2784277501,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2193147280,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
@@ -1126,8 +1130,6 @@ https://openalex.org/W4401946709,https://openalex.org/I169864488,Abubakar Tafawa
 https://openalex.org/W4401946709,https://openalex.org/I45711476,Obafemi Awolowo University
 https://openalex.org/W4399072009,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4399072009,https://openalex.org/I86519309,The University of Texas at Austin
-https://openalex.org/W4410313152,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4410313152,https://openalex.org/I4405254986,"North-Eastern University, Gombe"
 https://openalex.org/W4404794745,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4404794745,https://openalex.org/I876237426,Gombe State University
 https://openalex.org/W4404794745,https://openalex.org/I116953780,Tongji University
@@ -1135,6 +1137,15 @@ https://openalex.org/W4404794745,https://openalex.org/I4391767744,State Key Labo
 https://openalex.org/W4404794745,https://openalex.org/I4387156178,Federal University Dutse
 https://openalex.org/W4404794745,https://openalex.org/I169864488,Abubakar Tafawa Balewa University
 https://openalex.org/W4404794745,https://openalex.org/I45711476,Obafemi Awolowo University
+https://openalex.org/W4410313152,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4410313152,https://openalex.org/I4405254986,"North-Eastern University, Gombe"
+https://openalex.org/W4390667796,https://openalex.org/I116953780,Tongji University
+https://openalex.org/W4390667796,https://openalex.org/I4391767744,State Key Laboratory of Marine Geology
+https://openalex.org/W4390667796,https://openalex.org/I876237426,Gombe State University
+https://openalex.org/W4390667796,https://openalex.org/I169864488,Abubakar Tafawa Balewa University
+https://openalex.org/W4390667796,https://openalex.org/I178331978,Université de Dschang
+https://openalex.org/W4390667796,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4390667796,https://openalex.org/I4387156178,Federal University Dutse
 https://openalex.org/W4408660286,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4387996609,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4387996609,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
@@ -1149,13 +1160,6 @@ https://openalex.org/W4292081009,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W4292081009,https://openalex.org/I190082696,Durham University
 https://openalex.org/W4292081009,https://openalex.org/I84884186,Newcastle University
 https://openalex.org/W3169349913,https://openalex.org/I876237426,Gombe State University
-https://openalex.org/W4390667796,https://openalex.org/I116953780,Tongji University
-https://openalex.org/W4390667796,https://openalex.org/I4391767744,State Key Laboratory of Marine Geology
-https://openalex.org/W4390667796,https://openalex.org/I876237426,Gombe State University
-https://openalex.org/W4390667796,https://openalex.org/I169864488,Abubakar Tafawa Balewa University
-https://openalex.org/W4390667796,https://openalex.org/I178331978,Université de Dschang
-https://openalex.org/W4390667796,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4390667796,https://openalex.org/I4387156178,Federal University Dutse
 https://openalex.org/W2972228046,https://openalex.org/I876237426,Gombe State University
 https://openalex.org/W4200076748,https://openalex.org/I12870472,Birmingham City University
 https://openalex.org/W4200076748,https://openalex.org/I876237426,Gombe State University
@@ -1588,6 +1592,9 @@ https://openalex.org/W7167574370,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W7212630067,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W7221360556,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W7222723099,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W7237929803,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W7237929803,https://openalex.org/I88017793,Port Said University
+https://openalex.org/W7237929803,https://openalex.org/I865915315,Vrije Universiteit Amsterdam
 https://openalex.org/W4312289251,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W1983023059,https://openalex.org/I150406212,University of Khartoum
 https://openalex.org/W591341838,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
@@ -1637,12 +1644,12 @@ https://openalex.org/W2057412901,https://openalex.org/I4577782,Technische Univer
 https://openalex.org/W2592077334,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2792031555,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2792031555,https://openalex.org/I98358874,Delft University of Technology
+https://openalex.org/W1985709058,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2618281084,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2618281084,https://openalex.org/I8991828,Pukyong National University
 https://openalex.org/W2619558735,https://openalex.org/I203899302,Universiti Teknologi Petronas
 https://openalex.org/W2619558735,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2081716923,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W1985709058,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2770118770,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4297990441,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4297990441,https://openalex.org/I99464096,KU Leuven
@@ -3576,9 +3583,6 @@ https://openalex.org/W2069450063,https://openalex.org/I4387154560,Université Li
 https://openalex.org/W2069450063,https://openalex.org/I181369854,Friedrich-Alexander-Universität Erlangen-Nürnberg
 https://openalex.org/W2069450063,https://openalex.org/I52353378,Laurentian University
 https://openalex.org/W2069450063,https://openalex.org/I153718931,University of Ottawa
-https://openalex.org/W2088617006,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
-https://openalex.org/W2088617006,https://openalex.org/I4387154560,Université Lille 1
-https://openalex.org/W2088617006,https://openalex.org/I180437899,University of Bremen
 https://openalex.org/W3082615075,https://openalex.org/I193662353,Utrecht University
 https://openalex.org/W3082615075,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W3082615075,https://openalex.org/I103531236,Boston College
@@ -3596,6 +3600,17 @@ https://openalex.org/W2047038378,https://openalex.org/I1294671590,Centre Nationa
 https://openalex.org/W2047038378,https://openalex.org/I4387154560,Université Lille 1
 https://openalex.org/W2047038378,https://openalex.org/I180437899,University of Bremen
 https://openalex.org/W2565598957,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
+https://openalex.org/W2761574567,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
+https://openalex.org/W2761574567,https://openalex.org/I2279609970,Université de Lille
+https://openalex.org/W2761574567,https://openalex.org/I4210148734,"Unité Évolution, Écologie et Paléontologie"
+https://openalex.org/W2761574567,https://openalex.org/I139290333,British Geological Survey
+https://openalex.org/W2761574567,https://openalex.org/I19820366,Chinese Academy of Sciences
+https://openalex.org/W2761574567,https://openalex.org/I4210103797,Nanjing Institute of Geology and Paleontology
+https://openalex.org/W2761574567,https://openalex.org/I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas
+https://openalex.org/W2761574567,https://openalex.org/I4210152303,Centro Científico Tecnológico - Mendoza
+https://openalex.org/W2761574567,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
+https://openalex.org/W2761574567,https://openalex.org/I139660479,Central South University
+https://openalex.org/W2761574567,https://openalex.org/I4387152300,State Key Laboratory of Palaeobiology and Stratigraphy
 https://openalex.org/W2791922014,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
 https://openalex.org/W2791922014,https://openalex.org/I2279609970,Université de Lille
 https://openalex.org/W2791922014,https://openalex.org/I2802487185,Université du littoral côte d'opale
@@ -3617,6 +3632,9 @@ https://openalex.org/W2124879327,https://openalex.org/I4387153566,Geo-Ocean
 https://openalex.org/W2124879327,https://openalex.org/I4405260085,Université de Bretagne Occidentale
 https://openalex.org/W2124879327,https://openalex.org/I68956291,Martin Luther University Halle-Wittenberg
 https://openalex.org/W2001778524,https://openalex.org/I68956291,Martin Luther University Halle-Wittenberg
+https://openalex.org/W2088617006,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
+https://openalex.org/W2088617006,https://openalex.org/I4387154560,Université Lille 1
+https://openalex.org/W2088617006,https://openalex.org/I180437899,University of Bremen
 https://openalex.org/W1989808170,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
 https://openalex.org/W1989808170,https://openalex.org/I172446870,University of Cagliari
 https://openalex.org/W1989808170,https://openalex.org/I4387154560,Université Lille 1
@@ -3624,6 +3642,9 @@ https://openalex.org/W1989808170,https://openalex.org/I134560555,Université Tou
 https://openalex.org/W1989808170,https://openalex.org/I4210164289,Géosciences Environnement Toulouse
 https://openalex.org/W1989808170,https://openalex.org/I4210091655,Research Institute for Geo-Hydrological Protection
 https://openalex.org/W1989808170,https://openalex.org/I111112146,Tallinn University of Technology
+https://openalex.org/W2115887078,https://openalex.org/I4210158893,Bureau de Recherches Géologiques et Minières
+https://openalex.org/W2115887078,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
+https://openalex.org/W2115887078,https://openalex.org/I4387154560,Université Lille 1
 https://openalex.org/W2792965592,https://openalex.org/I27483092,University of Perugia
 https://openalex.org/W2792965592,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
 https://openalex.org/W2792965592,https://openalex.org/I2279609970,Université de Lille
@@ -3634,20 +3655,6 @@ https://openalex.org/W2792965592,https://openalex.org/I4210161208,Laboratoire d�
 https://openalex.org/W2792965592,https://openalex.org/I91136226,University of Sheffield
 https://openalex.org/W2792965592,https://openalex.org/I39804081,Sorbonne Université
 https://openalex.org/W2792965592,https://openalex.org/I4210097099,Institut des Sciences de la Terre de Paris
-https://openalex.org/W2115887078,https://openalex.org/I4210158893,Bureau de Recherches Géologiques et Minières
-https://openalex.org/W2115887078,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
-https://openalex.org/W2115887078,https://openalex.org/I4387154560,Université Lille 1
-https://openalex.org/W2761574567,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
-https://openalex.org/W2761574567,https://openalex.org/I2279609970,Université de Lille
-https://openalex.org/W2761574567,https://openalex.org/I4210148734,"Unité Évolution, Écologie et Paléontologie"
-https://openalex.org/W2761574567,https://openalex.org/I139290333,British Geological Survey
-https://openalex.org/W2761574567,https://openalex.org/I19820366,Chinese Academy of Sciences
-https://openalex.org/W2761574567,https://openalex.org/I4210103797,Nanjing Institute of Geology and Paleontology
-https://openalex.org/W2761574567,https://openalex.org/I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas
-https://openalex.org/W2761574567,https://openalex.org/I4210152303,Centro Científico Tecnológico - Mendoza
-https://openalex.org/W2761574567,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
-https://openalex.org/W2761574567,https://openalex.org/I139660479,Central South University
-https://openalex.org/W2761574567,https://openalex.org/I4387152300,State Key Laboratory of Palaeobiology and Stratigraphy
 https://openalex.org/W1983374490,https://openalex.org/I181369854,Friedrich-Alexander-Universität Erlangen-Nürnberg
 https://openalex.org/W1983374490,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
 https://openalex.org/W1983374490,https://openalex.org/I134560555,Université Toulouse III - Paul Sabatier
@@ -3688,7 +3695,6 @@ https://openalex.org/W2752535463,https://openalex.org/I161929037,Université de 
 https://openalex.org/W2752535463,https://openalex.org/I4210157108,Institut Universitaire Européen de la Mer
 https://openalex.org/W2752535463,https://openalex.org/I4387153566,Geo-Ocean
 https://openalex.org/W2752535463,https://openalex.org/I4405260085,Université de Bretagne Occidentale
-https://openalex.org/W2960545957,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4280639258,https://openalex.org/I177877127,The University of Western Australia
 https://openalex.org/W4280639258,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4408318991,https://openalex.org/I103531236,Boston College
@@ -3747,6 +3753,7 @@ https://openalex.org/W2045030430,https://openalex.org/I32597200,Ghent University
 https://openalex.org/W2045030430,https://openalex.org/I881766915,Nanjing University
 https://openalex.org/W2045030430,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
 https://openalex.org/W2045030430,https://openalex.org/I4387154560,Université Lille 1
+https://openalex.org/W2960545957,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W3193308600,https://openalex.org/I177877127,The University of Western Australia
 https://openalex.org/W3193308600,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4377227401,https://openalex.org/I177877127,The University of Western Australia
@@ -3995,10 +4002,10 @@ https://openalex.org/W2266040941,https://openalex.org/I189158943,University of M
 https://openalex.org/W2266040941,https://openalex.org/I139290333,British Geological Survey
 https://openalex.org/W2266040941,https://openalex.org/I142263535,University of Nottingham
 https://openalex.org/W2266040941,https://openalex.org/I39387349,University of Chieti-Pescara
-https://openalex.org/W2560194642,https://openalex.org/I139290333,British Geological Survey
 https://openalex.org/W1910697917,https://openalex.org/I139290333,British Geological Survey
 https://openalex.org/W1910697917,https://openalex.org/I153648349,University of Leicester
 https://openalex.org/W1910697917,https://openalex.org/I36001604,University of Peshawar
+https://openalex.org/W2560194642,https://openalex.org/I139290333,British Geological Survey
 https://openalex.org/W2958787718,https://openalex.org/I139290333,British Geological Survey
 https://openalex.org/W2958787718,https://openalex.org/I204778367,Norwegian University of Science and Technology
 https://openalex.org/W2958787718,https://openalex.org/I49324905,Equinor (Norway)
@@ -4220,6 +4227,7 @@ https://openalex.org/W2509991340,https://openalex.org/I45084792,University of Fl
 https://openalex.org/W2509991340,https://openalex.org/I861853513,Sapienza University of Rome
 https://openalex.org/W7138960913,https://openalex.org/I881766915,Nanjing University
 https://openalex.org/W7138960913,https://openalex.org/I4210123185,Zhejiang Lab
+https://openalex.org/W4239114209,https://openalex.org/I137725305,International Union of Geological Sciences
 https://openalex.org/W4239114209,https://openalex.org/I3125743391,China University of Geosciences (Beijing)
 https://openalex.org/W4239114209,https://openalex.org/I196817621,Carnegie Institution for Science
 https://openalex.org/W4239114209,https://openalex.org/I4387155102,Earth and Planets Laboratory
@@ -6252,16 +6260,16 @@ https://openalex.org/W4401037336,https://openalex.org/I74801974,The University o
 https://openalex.org/W4410049630,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4414264349,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W1974289410,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W2008777010,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2095287136,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W2008777010,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W1968090151,https://openalex.org/I91045830,Texas A&M University
-https://openalex.org/W2620965193,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W2620965193,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2183356777,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2908861802,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2908861802,https://openalex.org/I2800589340,Algerian Petroleum Institute
 https://openalex.org/W2908861802,https://openalex.org/I47818738,Sultan Qaboos University
 https://openalex.org/W2007960109,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W2620965193,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W2620965193,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2892130940,https://openalex.org/I130701444,Georgia Institute of Technology
 https://openalex.org/W2892130940,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W1985835157,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
@@ -6387,9 +6395,9 @@ https://openalex.org/W4399334238,https://openalex.org/I1336856363,Natural Histor
 https://openalex.org/W4399334238,https://openalex.org/I40120149,University of Oxford
 https://openalex.org/W4399334238,https://openalex.org/I4210160189,Institut Polytechnique de Bordeaux
 https://openalex.org/W4399334238,https://openalex.org/I71920554,King Abdullah University of Science and Technology
-https://openalex.org/W3195207218,https://openalex.org/I40120149,University of Oxford
 https://openalex.org/W2023502112,https://openalex.org/I7923278,Shell (Netherlands)
 https://openalex.org/W2959332765,https://openalex.org/I4210147046,Laboratoire de Sciences de la Terre
+https://openalex.org/W3195207218,https://openalex.org/I40120149,University of Oxford
 https://openalex.org/W2311582321,https://openalex.org/I4210164678,Shell (United Kingdom)
 https://openalex.org/W2561614970,https://openalex.org/I7923278,Shell (Netherlands)
 https://openalex.org/W2971403499,https://openalex.org/I7923278,Shell (Netherlands)
@@ -6404,6 +6412,7 @@ https://openalex.org/W2314467085,https://openalex.org/I145608581,University of M
 https://openalex.org/W4392599299,https://openalex.org/I40120149,University of Oxford
 https://openalex.org/W2921983401,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2921983401,https://openalex.org/I35440088,ETH Zurich
+https://openalex.org/W2238788930,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W654711263,https://openalex.org/I110525433,Islamic Azad University
 https://openalex.org/W654711263,https://openalex.org/I155419210,"Islamic Azad University, Science and Research Branch"
 https://openalex.org/W654711263,https://openalex.org/I183859904,"Islamic Azad University, Mashhad"
@@ -6734,8 +6743,6 @@ https://openalex.org/W4378649681,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W4378649681,https://openalex.org/I47818738,Sultan Qaboos University
 https://openalex.org/W4378649681,https://openalex.org/I38335241,National Institute of Technology Raipur
 https://openalex.org/W4378649681,https://openalex.org/I85507684,Yarmouk University
-https://openalex.org/W4385287273,https://openalex.org/I60342839,Qatar University
-https://openalex.org/W4385287273,https://openalex.org/I1850255,University of Basel
 https://openalex.org/W4406405554,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W4406405554,https://openalex.org/I185261750,University of Toronto
 https://openalex.org/W4406405554,https://openalex.org/I4405278283,University of Toronto Scarborough
@@ -6760,8 +6767,8 @@ https://openalex.org/W4385602287,https://openalex.org/I185261750,University of T
 https://openalex.org/W4385602287,https://openalex.org/I4405278283,University of Toronto Scarborough
 https://openalex.org/W3089140590,https://openalex.org/I44461941,University of Houston
 https://openalex.org/W3089140590,https://openalex.org/I60342839,Qatar University
-https://openalex.org/W2925201533,https://openalex.org/I166455938,University of Babylon
-https://openalex.org/W2925201533,https://openalex.org/I60342839,Qatar University
+https://openalex.org/W4385287273,https://openalex.org/I60342839,Qatar University
+https://openalex.org/W4385287273,https://openalex.org/I1850255,University of Basel
 https://openalex.org/W4386471238,https://openalex.org/I185261750,University of Toronto
 https://openalex.org/W4386471238,https://openalex.org/I4405278283,University of Toronto Scarborough
 https://openalex.org/W4386471238,https://openalex.org/I60342839,Qatar University
@@ -6783,6 +6790,8 @@ https://openalex.org/W3214716846,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W3214716846,https://openalex.org/I185261750,University of Toronto
 https://openalex.org/W3214716846,https://openalex.org/I4405278283,University of Toronto Scarborough
 https://openalex.org/W3214716846,https://openalex.org/I1850255,University of Basel
+https://openalex.org/W2925201533,https://openalex.org/I166455938,University of Babylon
+https://openalex.org/W2925201533,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W3203167777,https://openalex.org/I166455938,University of Babylon
 https://openalex.org/W3203167777,https://openalex.org/I135120706,University of Baghdad
 https://openalex.org/W3203167777,https://openalex.org/I126633494,University of Basrah
@@ -6833,9 +6842,6 @@ https://openalex.org/W2942466463,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W2942466463,https://openalex.org/I166455938,University of Babylon
 https://openalex.org/W3126617317,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W2232500538,https://openalex.org/I4210116068,Array Information Technology (United States)
-https://openalex.org/W2328925379,https://openalex.org/I148283060,Lawrence Berkeley National Laboratory
-https://openalex.org/W2328925379,https://openalex.org/I4210116068,Array Information Technology (United States)
-https://openalex.org/W2328925379,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W4362584973,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W4362584973,https://openalex.org/I44461941,University of Houston
 https://openalex.org/W2056554280,https://openalex.org/I85507684,Yarmouk University
@@ -6845,6 +6851,9 @@ https://openalex.org/W2163237692,https://openalex.org/I114580094,The University 
 https://openalex.org/W2163237692,https://openalex.org/I139894009,University of Bradford
 https://openalex.org/W2163237692,https://openalex.org/I201726411,United Arab Emirates University
 https://openalex.org/W2057472618,https://openalex.org/I85507684,Yarmouk University
+https://openalex.org/W2328925379,https://openalex.org/I148283060,Lawrence Berkeley National Laboratory
+https://openalex.org/W2328925379,https://openalex.org/I4210116068,Array Information Technology (United States)
+https://openalex.org/W2328925379,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W4414525693,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W4414526869,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W2508018119,https://openalex.org/I60342839,Qatar University
@@ -7080,9 +7089,9 @@ https://openalex.org/W7160142778,https://openalex.org/I1294671590,Centre Nationa
 https://openalex.org/W7160142778,https://openalex.org/I4210158426,Biogéosciences
 https://openalex.org/W7160142778,https://openalex.org/I4405253280,Université Bourgogne Europe
 https://openalex.org/W7222783965,https://openalex.org/I71920554,King Abdullah University of Science and Technology
-https://openalex.org/W2282472653,https://openalex.org/I22590746,Marathon Oil (United States)
 https://openalex.org/W2282472653,https://openalex.org/I98635879,American University of Beirut
 https://openalex.org/W1543099629,https://openalex.org/I98635879,American University of Beirut
+https://openalex.org/W1543099629,https://openalex.org/I124357947,University of London
 https://openalex.org/W1543099629,https://openalex.org/I47508984,Imperial College London
 https://openalex.org/W2122379499,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W2122379499,https://openalex.org/I62856769,Saudi Aramco (United States)
@@ -7391,6 +7400,7 @@ https://openalex.org/W4393192528,https://openalex.org/I49324905,Equinor (Norway)
 https://openalex.org/W4393192528,https://openalex.org/I8087733,University of Tübingen
 https://openalex.org/W4393192528,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4393192528,https://openalex.org/I31512782,Technische Universität Darmstadt
+https://openalex.org/W4402899022,https://openalex.org/I153151563,Harrisburg University of Science and Technology
 https://openalex.org/W4402899022,https://openalex.org/I32021983,Christian-Albrechts-Universität zu Kiel
 https://openalex.org/W4402899022,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4402899022,https://openalex.org/I4405269374,Kuwait Oil Company (Kuwait)
@@ -7420,11 +7430,11 @@ https://openalex.org/W1969483030,https://openalex.org/I141945490,University of B
 https://openalex.org/W1969483030,https://openalex.org/I2802865357,Hungarian National Museum
 https://openalex.org/W1969483030,https://openalex.org/I7597260,Hungarian Academy of Sciences
 https://openalex.org/W1969483030,https://openalex.org/I100532134,Lyon 1 Université
+https://openalex.org/W2973012426,https://openalex.org/I100532134,Lyon 1 Université
 https://openalex.org/W2069404292,https://openalex.org/I100532134,Lyon 1 Université
 https://openalex.org/W2069404292,https://openalex.org/I1294671590,Centre National de la Recherche Scientifique
 https://openalex.org/W2069404292,https://openalex.org/I4405264447,Université Pierre-et-Marie-Curie
 https://openalex.org/W2069404292,https://openalex.org/I4210123595,Muséum national d'Histoire naturelle
-https://openalex.org/W2973012426,https://openalex.org/I100532134,Lyon 1 Université
 https://openalex.org/W2965506511,https://openalex.org/I100532134,Lyon 1 Université
 https://openalex.org/W2965506511,https://openalex.org/I1336856363,Natural History Museum
 https://openalex.org/W2725561985,https://openalex.org/I32881790,Université de Poitiers
@@ -7755,8 +7765,6 @@ https://openalex.org/W1997757609,https://openalex.org/I114972647,University of J
 https://openalex.org/W1997757609,https://openalex.org/I100086675,Al-Hussein Bin Talal University
 https://openalex.org/W1997757609,https://openalex.org/I157392197,Hashemite University
 https://openalex.org/W2337465026,https://openalex.org/I114972647,University of Jordan
-https://openalex.org/W2894577791,https://openalex.org/I114972647,University of Jordan
-https://openalex.org/W2894577791,https://openalex.org/I114432678,Tafila Technical University
 https://openalex.org/W2104061368,https://openalex.org/I114972647,University of Jordan
 https://openalex.org/W1987156095,https://openalex.org/I114972647,University of Jordan
 https://openalex.org/W2089841273,https://openalex.org/I114972647,University of Jordan
@@ -7774,6 +7782,8 @@ https://openalex.org/W1981600579,https://openalex.org/I114972647,University of J
 https://openalex.org/W1981600579,https://openalex.org/I114432678,Tafila Technical University
 https://openalex.org/W1963654006,https://openalex.org/I114972647,University of Jordan
 https://openalex.org/W1963654006,https://openalex.org/I157392197,Hashemite University
+https://openalex.org/W2894577791,https://openalex.org/I114972647,University of Jordan
+https://openalex.org/W2894577791,https://openalex.org/I114432678,Tafila Technical University
 https://openalex.org/W2025585437,https://openalex.org/I114972647,University of Jordan
 https://openalex.org/W1965772856,https://openalex.org/I114972647,University of Jordan
 https://openalex.org/W2050128151,https://openalex.org/I114972647,University of Jordan

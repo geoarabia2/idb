@@ -4,6 +4,7 @@
     "orcid": null,
     "observed_orcids": [],
     "display_name": "Jacques Manivit",
+    "type": null,
     "raw_author_names": [
       "J. Manivit",
       "Jacques Manivit"
@@ -453,6 +454,7 @@
         "https://openalex.org/W1968584894"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -470,9 +472,11 @@
           "author": {
             "id": "https://openalex.org/A5084630459",
             "display_name": "Raymond Énay",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I100532134",
@@ -521,9 +525,11 @@
           "author": {
             "id": "https://openalex.org/A5061935584",
             "display_name": "Yves-Marie Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -560,9 +566,11 @@
           "author": {
             "id": "https://openalex.org/A5113658841",
             "display_name": "Charles Mangold",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -584,9 +592,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -623,9 +633,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -669,13 +681,13 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.223,
+      "fwci": 1.2135,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 122,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76395349,
+        "value": 0.76166209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -696,7 +708,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.7567999958992004,
+        "score": 0.9154999852180481,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -714,7 +726,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.7567999958992004,
+          "score": 0.9154999852180481,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -731,7 +743,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.18960000574588776,
+          "score": 0.05249999836087227,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -748,7 +760,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.03060000017285347,
+          "score": 0.017899999395012856,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -767,62 +779,62 @@
         {
           "id": "https://openalex.org/keywords/jurassic-stratigraphy",
           "display_name": "Jurassic stratigraphy",
-          "score": 0.7379999756813049
-        },
-        {
-          "id": "https://openalex.org/keywords/central-saudi-arabia",
-          "display_name": "central Saudi Arabia",
-          "score": 0.6970000267028809
+          "score": 0.8569999933242798
         },
         {
           "id": "https://openalex.org/keywords/lithostratigraphy",
           "display_name": "lithostratigraphy",
-          "score": 0.8370000123977661
+          "score": 0.8629999756813049
         },
         {
           "id": "https://openalex.org/keywords/ammonite-faunas",
           "display_name": "ammonite faunas",
-          "score": 0.9139999747276306
+          "score": 0.9179999828338623
         },
         {
           "id": "https://openalex.org/keywords/paleoenvironment",
           "display_name": "paleoenvironment",
-          "score": 0.9259999990463257
+          "score": 0.9860000014305115
         },
         {
           "id": "https://openalex.org/keywords/biostratigraphic-correlation",
           "display_name": "biostratigraphic correlation",
-          "score": 0.8500000238418579
+          "score": 0.8420000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/biochronology",
+          "display_name": "biochronology",
+          "score": 0.6740000247955322
         },
         {
           "id": "https://openalex.org/keywords/marrat-formation",
           "display_name": "Marrat Formation",
-          "score": 0.6209999918937683
+          "score": 0.8669999837875366
         },
         {
           "id": "https://openalex.org/keywords/hanifa-formation",
           "display_name": "Hanifa Formation",
-          "score": 0.9819999933242798
+          "score": 0.9860000014305115
         },
         {
           "id": "https://openalex.org/keywords/arab-formation",
           "display_name": "Arab Formation",
-          "score": 0.9430000185966492
+          "score": 0.9290000200271606
         },
         {
           "id": "https://openalex.org/keywords/arabian-platform",
           "display_name": "Arabian Platform",
-          "score": 0.5839999914169312
+          "score": 0.7789999842643738
         },
         {
           "id": "https://openalex.org/keywords/basin-evolution",
           "display_name": "basin evolution",
-          "score": 0.5479999780654907
+          "score": 0.5849999785423279
         },
         {
-          "id": "https://openalex.org/keywords/biostratigraphic-zonation",
-          "display_name": "biozonation",
-          "score": 0.460999995470047
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.36000001430511475
         }
       ],
       "concepts": [
@@ -998,7 +1010,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1068,6 +1080,7 @@
         "https://openalex.org/W2320526590"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -1085,9 +1098,11 @@
           "author": {
             "id": "https://openalex.org/A5057145151",
             "display_name": "Y. M. Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -1124,9 +1139,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1141,9 +1158,11 @@
           "author": {
             "id": "https://openalex.org/A5013428057",
             "display_name": "Hélène Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -1158,9 +1177,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -2197,6 +2218,7 @@
         "https://openalex.org/W2571373978"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -2214,9 +2236,11 @@
           "author": {
             "id": "https://openalex.org/A5078456413",
             "display_name": "Jean-Claude Fischer",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210123595",
@@ -2253,9 +2277,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -2292,9 +2318,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -2331,9 +2359,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -2373,13 +2403,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4924,
+      "fwci": 0.4851,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 84,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58495554,
+        "value": 0.58317261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3421,6 +3451,7 @@
         "https://openalex.org/W4381681826"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -3439,9 +3470,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3456,9 +3489,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3473,9 +3508,11 @@
           "author": {
             "id": "https://openalex.org/A5109445293",
             "display_name": "Bruno Vrielynck",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3490,11 +3527,13 @@
           "author": {
             "id": "https://openalex.org/A5013388794",
             "display_name": "Leopold Krystyn",
+            "type": null,
             "orcid": "https://orcid.org/0000-0002-7344-5137",
             "observed_orcids": [
               "https://orcid.org/0000-0002-7344-5137"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3509,9 +3548,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3526,11 +3567,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
+            "type": null,
             "orcid": "https://orcid.org/0000-0001-8551-3240",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -3545,9 +3588,11 @@
           "author": {
             "id": "https://openalex.org/A5042844492",
             "display_name": "Roger Brett Davies",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5042,6 +5087,7 @@
         "https://openalex.org/W2070255403"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5059,9 +5105,11 @@
           "author": {
             "id": "https://openalex.org/A5078476240",
             "display_name": "Françoise Dépêche",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I1294671590",
@@ -5110,9 +5158,11 @@
           "author": {
             "id": "https://openalex.org/A5073888691",
             "display_name": "Yves Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -5149,9 +5199,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -5188,9 +5240,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [
             {
               "id": "https://openalex.org/I4210158893",
@@ -5261,7 +5315,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9926999807357788,
+        "score": 0.989300012588501,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -5279,7 +5333,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9926999807357788,
+          "score": 0.989300012588501,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -5296,7 +5350,7 @@
         {
           "id": "https://openalex.org/T10955",
           "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.0024999999441206455,
+          "score": 0.00570000009611249,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -5313,7 +5367,7 @@
         {
           "id": "https://openalex.org/T11354",
           "display_name": "Evolution and Paleontology Studies",
-          "score": 0.0017999999690800905,
+          "score": 0.003100000089034438,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -5332,57 +5386,52 @@
         {
           "id": "https://openalex.org/keywords/ostracoda",
           "display_name": "Ostracoda",
-          "score": 0.9470000267028809
+          "score": 0.9700000286102295
         },
         {
           "id": "https://openalex.org/keywords/middle-jurassic",
           "display_name": "Middle Jurassic",
-          "score": 0.8619999885559082
+          "score": 0.9729999899864197
         },
         {
           "id": "https://openalex.org/keywords/biostratigraphy",
           "display_name": "biostratigraphy",
-          "score": 0.9139999747276306
+          "score": 0.7350000143051147
         },
         {
-          "id": "https://openalex.org/keywords/ammonite-zonation",
-          "display_name": "ammonite zonation",
-          "score": 0.8690000176429749
+          "id": "https://openalex.org/keywords/ammonite-biozonation",
+          "display_name": "ammonite biozonation",
+          "score": 0.7089999914169312
         },
         {
-          "id": "https://openalex.org/keywords/nautile",
-          "display_name": "Nautile",
-          "score": 0.6589999794960022
+          "id": "https://openalex.org/keywords/nautiloids",
+          "display_name": "nautiloids",
+          "score": 0.7509999871253967
         },
         {
           "id": "https://openalex.org/keywords/brachiopods",
           "display_name": "brachiopods",
-          "score": 0.9909999966621399
+          "score": 0.9959999918937683
         },
         {
           "id": "https://openalex.org/keywords/sea-urchins",
           "display_name": "sea urchins",
-          "score": 0.9300000071525574
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/species-distribution",
+          "display_name": "species distribution",
+          "score": 0.5929999947547913
         },
         {
           "id": "https://openalex.org/keywords/paleogeography",
           "display_name": "paleogeography",
-          "score": 0.6499999761581421
+          "score": 0.8659999966621399
         },
         {
-          "id": "https://openalex.org/keywords/tethys-ocean",
-          "display_name": "Tethys",
-          "score": 0.6629999876022339
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-peninsula",
-          "display_name": "Arabian Peninsula",
-          "score": 0.41499999165534973
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-distribution",
-          "display_name": "stratigraphic distribution",
-          "score": 0.7099999785423279
+          "id": "https://openalex.org/keywords/arabian-desert",
+          "display_name": "Arabian Desert",
+          "score": 0.41600000858306885
         }
       ],
       "concepts": [
@@ -5579,7 +5628,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-23T12:01:36.302904",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5649,6 +5698,7 @@
         "https://openalex.org/W2724564388"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
@@ -5666,9 +5716,11 @@
           "author": {
             "id": "https://openalex.org/A5110891473",
             "display_name": "R. Mouterde",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5683,9 +5735,11 @@
           "author": {
             "id": "https://openalex.org/A5060495485",
             "display_name": "Yves Kerrien",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5700,9 +5754,11 @@
           "author": {
             "id": "https://openalex.org/A5058952664",
             "display_name": "Jean Labourguigne",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -5717,9 +5773,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6242,6 +6300,7 @@
         "https://openalex.org/W2089169648"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
@@ -6259,9 +6318,11 @@
           "author": {
             "id": "https://openalex.org/A5075941004",
             "display_name": "Y. M. Le Lindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6276,9 +6337,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6293,9 +6356,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6839,6 +6904,7 @@
         "https://openalex.org/W57810535"
       ],
       "child_works_count": 0,
+      "pull_notice_works": [],
       "type": "dissertation",
       "is_traditional": true,
       "indexed_in": [],
@@ -6854,9 +6920,11 @@
           "author": {
             "id": "https://openalex.org/A5038965329",
             "display_name": "Denis Vaslet",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6871,9 +6939,11 @@
           "author": {
             "id": "https://openalex.org/A5051867931",
             "display_name": "Jacques Manivit",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
@@ -6888,9 +6958,11 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
+            "type": null,
             "orcid": null,
             "observed_orcids": []
           },
+          "acted_on_behalf_of": [],
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
