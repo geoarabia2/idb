@@ -17,7 +17,7 @@
     ],
     "full_name": "ABDULLAH MOHAMMED ALQUBALEE",
     "works_count": 55,
-    "cited_by_count": 540,
+    "cited_by_count": 541,
     "summary_stats": {
       "2yr_mean_citedness": 4.384615384615385,
       "h_index": 15,
@@ -175,7 +175,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000399,
+        "value": 0.0000398,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -326,7 +326,7 @@
         "year": 2025,
         "works_count": 6,
         "oa_works_count": 3,
-        "cited_by_count": 123
+        "cited_by_count": 124
       },
       {
         "year": 2026,
@@ -347,7 +347,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5035537771",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5035537771",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2017-06-05T00:00:00"
   },
   "works": [
@@ -372,7 +372,7 @@
         "doi": "https://doi.org/10.1021/acsomega.9b04228",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1021/acsomega.9b04228",
-        "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.9b04228",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4210239500",
           "display_name": "ACS Omega",
@@ -429,7 +429,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.9b04228",
+        "oa_url": "https://doi.org/10.1021/acsomega.9b04228",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -803,13 +803,13 @@
         "currency": "USD",
         "value_usd": 750
       },
-      "fwci": 2.11,
+      "fwci": 2.1092,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87656294,
+        "value": 0.87633903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1045,7 +1045,7 @@
           "doi": "https://doi.org/10.1021/acsomega.9b04228",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1021/acsomega.9b04228",
-          "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.9b04228",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4210239500",
             "display_name": "ACS Omega",
@@ -1183,7 +1183,7 @@
         "doi": "https://doi.org/10.1021/acsomega.9b04228",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1021/acsomega.9b04228",
-        "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.9b04228",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4210239500",
           "display_name": "ACS Omega",
@@ -1255,8 +1255,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3012467253.pdf",
@@ -2067,7 +2067,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-03-23T00:00:00"
     },
     {
@@ -2653,8 +2653,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -3677,8 +3677,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -4481,8 +4481,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -5275,8 +5275,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -6190,8 +6190,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -7216,13 +7216,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.8286,
+      "fwci": 2.6747,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 36,
+      "cited_by_count": 35,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8985666,
+        "value": 0.8907632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7552,8 +7552,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -7682,7 +7682,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2021,
@@ -7693,7 +7693,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-06-19T00:00:00"
     },
     {
@@ -8387,8 +8387,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -9131,8 +9131,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -10143,8 +10143,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2988910414.pdf",
@@ -11489,8 +11489,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -12222,8 +12222,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -12902,8 +12902,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -13883,8 +13883,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -14493,8 +14493,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -15878,8 +15878,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -16766,8 +16766,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -17415,8 +17415,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -17932,8 +17932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -19290,8 +19290,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -20167,8 +20167,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -21414,8 +21414,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391167607.pdf",
@@ -22636,13 +22636,13 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 0.7145,
+      "fwci": 0.7053,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62807296,
+        "value": 0.62400997,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23008,8 +23008,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -23906,8 +23906,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -25023,13 +25023,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 0.8574,
+      "fwci": 0.8464,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6662261,
+        "value": 0.66183145,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25330,8 +25330,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -26115,8 +26115,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -26803,8 +26803,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -27589,8 +27589,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -27621,8 +27621,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 120,
@@ -28552,8 +28552,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -30171,8 +30171,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -30674,21 +30674,21 @@
       "sustainable_development_goals": [
         {
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -31572,13 +31572,13 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 0.2605,
+      "fwci": 0.2665,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41944099,
+        "value": 0.42097603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31932,8 +31932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4413307018.pdf",
@@ -32859,8 +32859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33392,8 +33392,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34465,8 +34465,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35006,9 +35006,17 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239067033",
+          "display_name": "79th EAGE Conference and Exhibition 2017",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2618368271"
+        "https://openalex.org/W2618368271",
+        "https://openalex.org/W7239067033"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -35550,8 +35558,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -36021,7 +36029,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2618368271",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -36440,8 +36448,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37072,8 +37080,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -37848,16 +37856,16 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39059,8 +39067,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39520,8 +39528,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39944,8 +39952,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40311,8 +40319,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40889,21 +40897,21 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "score": 0.878000020980835,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -41374,7 +41382,7 @@
         "pdf_url": "https://arxiv.org/pdf/2606.01248",
         "source": {
           "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
+          "display_name": "arXiv",
           "issn_l": "2331-8422",
           "issn": [
             "2331-8422"
@@ -41383,10 +41391,10 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
+          "host_organization": "https://openalex.org/I4402554005",
+          "host_organization_name": "arXiv",
           "host_organization_lineage": [
-            "https://openalex.org/I205783295"
+            "https://openalex.org/I4402554005"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -41906,7 +41914,7 @@
           "pdf_url": "https://arxiv.org/pdf/2606.01248",
           "source": {
             "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
+            "display_name": "arXiv",
             "issn_l": "2331-8422",
             "issn": [
               "2331-8422"
@@ -41915,10 +41923,10 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
+            "host_organization": "https://openalex.org/I4402554005",
+            "host_organization_name": "arXiv",
             "host_organization_lineage": [
-              "https://openalex.org/I205783295"
+              "https://openalex.org/I4402554005"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -41940,7 +41948,7 @@
         "pdf_url": "https://arxiv.org/pdf/2606.01248",
         "source": {
           "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
+          "display_name": "arXiv",
           "issn_l": "2331-8422",
           "issn": [
             "2331-8422"
@@ -41949,10 +41957,10 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
+          "host_organization": "https://openalex.org/I4402554005",
+          "host_organization_name": "arXiv",
           "host_organization_lineage": [
-            "https://openalex.org/I205783295"
+            "https://openalex.org/I4402554005"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -41970,8 +41978,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7163184808.pdf",
@@ -42562,7 +42570,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7163184808",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2026-06-03T00:00:00"
     },
     {
@@ -43290,8 +43298,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -43309,8 +43317,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 122,
@@ -44038,7 +44046,7 @@
           "pdf_url": "https://arxiv.org/pdf/2601.09283",
           "source": {
             "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
+            "display_name": "arXiv",
             "issn_l": "2331-8422",
             "issn": [
               "2331-8422"
@@ -44047,10 +44055,10 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
+            "host_organization": "https://openalex.org/I4402554005",
+            "host_organization_name": "arXiv",
             "host_organization_lineage": [
-              "https://openalex.org/I205783295"
+              "https://openalex.org/I4402554005"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -44072,7 +44080,7 @@
         "pdf_url": "https://arxiv.org/pdf/2601.09283",
         "source": {
           "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
+          "display_name": "arXiv",
           "issn_l": "2331-8422",
           "issn": [
             "2331-8422"
@@ -44081,10 +44089,10 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
+          "host_organization": "https://openalex.org/I4402554005",
+          "host_organization_name": "arXiv",
           "host_organization_lineage": [
-            "https://openalex.org/I205783295"
+            "https://openalex.org/I4402554005"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -44108,8 +44116,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7166825184.pdf",
@@ -44160,7 +44168,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7166825184",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2026-07-02T00:00:00"
     },
     {
@@ -44921,16 +44929,16 @@
       "sustainable_development_goals": [
         {
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -46297,16 +46305,16 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

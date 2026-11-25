@@ -23,7 +23,7 @@
     ],
     "full_name": "Abdulkader M. Alafifi",
     "works_count": 76,
-    "cited_by_count": 2266,
+    "cited_by_count": 2269,
     "summary_stats": {
       "2yr_mean_citedness": 9.75,
       "h_index": 18,
@@ -210,7 +210,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002066,
+        "value": 0.0002065,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -227,7 +227,7 @@
       {
         "id": "https://openalex.org/T10967",
         "display_name": "Carbon Dioxide Capture Technologies",
-        "value": 0.0000944,
+        "value": 0.0000943,
         "subfield": {
           "id": "https://openalex.org/subfields/1506",
           "display_name": "Filtration and Separation"
@@ -244,7 +244,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000919,
+        "value": 0.0000912,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -261,7 +261,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000513,
+        "value": 0.0000514,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -278,7 +278,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000474,
+        "value": 0.0000475,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -432,7 +432,7 @@
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 76
+        "cited_by_count": 77
       },
       {
         "year": 2020,
@@ -468,13 +468,13 @@
         "year": 2025,
         "works_count": 13,
         "oa_works_count": 9,
-        "cited_by_count": 428
+        "cited_by_count": 429
       },
       {
         "year": 2026,
         "works_count": 5,
         "oa_works_count": 5,
-        "cited_by_count": 387
+        "cited_by_count": 388
       }
     ],
     "display_name_alternatives": [
@@ -495,7 +495,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074794653",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5074794653",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2194,13 +2194,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4092,
+      "fwci": 2.3716,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 251,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86725207,
+        "value": 0.86483191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5363,19 +5363,19 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.833299994468689,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.6773999929428101,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
@@ -6491,13 +6491,13 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 8.2504,
+      "fwci": 8.3015,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 119,
+      "cited_by_count": 120,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99062847,
+        "value": 0.990734,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6843,14 +6843,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -6955,7 +6955,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 46
+          "cited_by_count": 47
         },
         {
           "year": 2024,
@@ -6966,7 +6966,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-06-20T00:00:00"
     },
     {
@@ -7912,14 +7912,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.8485000133514404,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -9417,13 +9417,13 @@
         "currency": "USD",
         "value_usd": 3260
       },
-      "fwci": 8.8118,
+      "fwci": 8.6697,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 66,
+      "cited_by_count": 65,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98972983,
+        "value": 0.98891148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10700,7 +10700,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 14
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -10715,7 +10715,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-01-23T00:00:00"
     },
     {
@@ -11319,13 +11319,13 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 2.5589,
+      "fwci": 2.4778,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 57,
+      "cited_by_count": 56,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89927998,
+        "value": 0.89355731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11866,14 +11866,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -12569,7 +12569,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 23
+          "cited_by_count": 22
         },
         {
           "year": 2024,
@@ -12580,7 +12580,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2022-11-30T00:00:00"
     },
     {
@@ -13782,9 +13782,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -15383,24 +15383,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.7207000255584717,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         },
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.5925999879837036,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -16406,18 +16406,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7104,
+      "fwci": 2.6681,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 174,
+      "cited_by_count": 176,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88601928,
+        "value": 0.88451489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -17255,7 +17255,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2024,
@@ -17310,7 +17310,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23918,13 +23918,13 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 3.9417,
+      "fwci": 3.9268,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94252771,
+        "value": 0.9422457,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24472,7 +24472,7 @@
         "https://openalex.org/W4390943094",
         "https://openalex.org/W1990442300",
         "https://openalex.org/W3134215691",
-        "https://openalex.org/W7212264305",
+        "https://openalex.org/W7131120157",
         "https://openalex.org/W2053034751",
         "https://openalex.org/W4386138047",
         "https://openalex.org/W2902521860",
@@ -24855,7 +24855,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2024-04-13T00:00:00"
     },
     {
@@ -25943,9 +25943,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -28107,14 +28107,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -29871,9 +29871,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -31106,14 +31106,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.685699999332428,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -35813,9 +35813,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -37003,19 +37003,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         },
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -39870,9 +39870,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -40845,13 +40845,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.2868,
+      "fwci": 1.2824,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72838964,
+        "value": 0.72724612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41158,9 +41158,9 @@
         {
           "id": "pmh:oai:repository.kaust.edu.sa:10754/705589",
           "doi": null,
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1038/s43247-025-02642-1",
-          "pdf_url": null,
+          "pdf_url": "https://repository.kaust.edu.sa/server/api/core/bitstreams/2c42daec-489e-418b-8d0b-8e5b040725c2/content",
           "source": {
             "id": "https://openalex.org/S4306401596",
             "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
@@ -41267,9 +41267,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -41753,7 +41753,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42720,24 +42720,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         },
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.878000020980835,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
@@ -47711,19 +47711,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.5925999879837036,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5378999710083008,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
@@ -49201,14 +49201,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.875,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -49795,9 +49795,17 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239274124",
+          "display_name": "Goldschmidt2024 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4408525344"
+        "https://openalex.org/W4408525344",
+        "https://openalex.org/W7239274124"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -50445,13 +50453,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4568,
+      "fwci": 2.4608,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86334179,
+        "value": 0.86241752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50727,9 +50735,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -50769,7 +50777,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-03-18T00:00:00"
     },
     {
@@ -51361,14 +51369,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -53108,14 +53116,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -55090,14 +55098,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -55660,9 +55668,17 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3021505772"
+        "https://openalex.org/W3021505772",
+        "https://openalex.org/W7239028782"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -55709,13 +55725,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6021,
+      "fwci": 1.5871,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84155844,
+        "value": 0.84089927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56480,7 +56496,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -59565,14 +59581,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -60109,9 +60125,17 @@
         "raw_source_name": "EAGE GET 2022",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239299986",
+          "display_name": "EAGE GET 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4312619309"
+        "https://openalex.org/W4312619309",
+        "https://openalex.org/W7239299986"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -60391,13 +60415,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9118,
+      "fwci": 0.9096,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65029861,
+        "value": 0.64962373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60626,14 +60650,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -61044,7 +61068,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-01-05T00:00:00"
     },
     {
@@ -61091,9 +61115,17 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7238912417",
+          "display_name": "Goldschmidt2023 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4389582677"
+        "https://openalex.org/W4389582677",
+        "https://openalex.org/W7238912417"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -61524,13 +61556,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8738,
+      "fwci": 0.8724,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63580858,
+        "value": 0.63697839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61792,14 +61824,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -61839,7 +61871,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-12-12T00:00:00"
     },
     {
@@ -61886,9 +61918,17 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239274124",
+          "display_name": "Goldschmidt2024 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4408524887"
+        "https://openalex.org/W4408524887",
+        "https://openalex.org/W7239274124"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -62221,13 +62261,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6142,
+      "fwci": 0.6152,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52479572,
+        "value": 0.52828864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62508,9 +62548,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -62546,7 +62586,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-03-18T00:00:00"
     },
     {
@@ -63133,14 +63173,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "score": 0.685699999332428,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -65069,9 +65109,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -65084,11 +65124,14 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
-      "referenced_works_count": 65,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4200630664.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4200630664.grobid-xml"
+      },
+      "referenced_works_count": 69,
       "referenced_works": [
         "https://openalex.org/W17253664",
         "https://openalex.org/W121832871",
@@ -65099,6 +65142,7 @@
         "https://openalex.org/W1492629434",
         "https://openalex.org/W1527101551",
         "https://openalex.org/W1665574325",
+        "https://openalex.org/W1747260157",
         "https://openalex.org/W1963618860",
         "https://openalex.org/W1964719915",
         "https://openalex.org/W1967019161",
@@ -65138,6 +65182,7 @@
         "https://openalex.org/W2883154763",
         "https://openalex.org/W2884693477",
         "https://openalex.org/W2898228558",
+        "https://openalex.org/W2900226551",
         "https://openalex.org/W2916757836",
         "https://openalex.org/W2932696668",
         "https://openalex.org/W2998909275",
@@ -65154,6 +65199,8 @@
         "https://openalex.org/W4210461216",
         "https://openalex.org/W4220771482",
         "https://openalex.org/W4234573133",
+        "https://openalex.org/W4239991493",
+        "https://openalex.org/W7007897712",
         "https://openalex.org/W7010130014"
       ],
       "related_works": [
@@ -65192,7 +65239,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -66161,9 +66208,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -66632,9 +66679,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -73141,9 +73188,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -74353,14 +74400,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -79397,7 +79444,7 @@
         "pdf_url": "https://arxiv.org/pdf/2512.00912",
         "source": {
           "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
+          "display_name": "arXiv",
           "issn_l": "2331-8422",
           "issn": [
             "2331-8422"
@@ -79406,10 +79453,10 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
+          "host_organization": "https://openalex.org/I4402554005",
+          "host_organization_name": "arXiv",
           "host_organization_lineage": [
-            "https://openalex.org/I205783295"
+            "https://openalex.org/I4402554005"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -79883,7 +79930,7 @@
           "pdf_url": "https://arxiv.org/pdf/2512.00912",
           "source": {
             "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
+            "display_name": "arXiv",
             "issn_l": "2331-8422",
             "issn": [
               "2331-8422"
@@ -79892,10 +79939,10 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
+            "host_organization": "https://openalex.org/I4402554005",
+            "host_organization_name": "arXiv",
             "host_organization_lineage": [
-              "https://openalex.org/I205783295"
+              "https://openalex.org/I4402554005"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -79917,7 +79964,7 @@
         "pdf_url": "https://arxiv.org/pdf/2512.00912",
         "source": {
           "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
+          "display_name": "arXiv",
           "issn_l": "2331-8422",
           "issn": [
             "2331-8422"
@@ -79926,10 +79973,10 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
+          "host_organization": "https://openalex.org/I4402554005",
+          "host_organization_name": "arXiv",
           "host_organization_lineage": [
-            "https://openalex.org/I205783295"
+            "https://openalex.org/I4402554005"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -80498,7 +80545,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-12-03T00:00:00"
     },
     {
@@ -87515,9 +87562,17 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7238912417",
+          "display_name": "Goldschmidt2023 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4389582524"
+        "https://openalex.org/W4389582524",
+        "https://openalex.org/W7238912417"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -88020,7 +88075,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4389582524",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-12-12T00:00:00"
     },
     {
@@ -90241,9 +90296,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -92084,9 +92139,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],

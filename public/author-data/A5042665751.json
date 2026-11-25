@@ -575,18 +575,18 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 9.6107,
+      "fwci": 9.8063,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 171,
+      "cited_by_count": 172,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98807157,
+        "value": 0.98885914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 97,
         "max": 100
       },
       "biblio": {
@@ -1085,10 +1085,10 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 4
+          "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1582,9 +1582,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -5758,13 +5758,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.151,
+      "fwci": 6.2356,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94978402,
+        "value": 0.95067024,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6922,13 +6922,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5237,
+      "fwci": 4.4599,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94694767,
+        "value": 0.94484761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },

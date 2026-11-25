@@ -21,7 +21,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 64,
-    "cited_by_count": 6163,
+    "cited_by_count": 6168,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 31,
@@ -165,7 +165,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "count": 55,
+        "count": 58,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -252,7 +252,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000735,
+        "value": 0.000073,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -269,7 +269,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.000063,
+        "value": 0.0000665,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -286,7 +286,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.000052,
+        "value": 0.0000521,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -303,7 +303,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000471,
+        "value": 0.0000472,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -320,7 +320,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.000042,
+        "value": 0.0000421,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -528,7 +528,7 @@
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 369
+        "cited_by_count": 371
       },
       {
         "year": 2020,
@@ -546,7 +546,7 @@
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 437
+        "cited_by_count": 439
       },
       {
         "year": 2023,
@@ -570,7 +570,7 @@
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 537
+        "cited_by_count": 538
       }
     ],
     "display_name_alternatives": [
@@ -589,7 +589,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5103098706",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1023,13 +1023,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 20.5232,
+      "fwci": 20.1947,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 873,
+      "cited_by_count": 876,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99862101,
+        "value": 0.99860368,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1281,7 +1281,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1016/j.jafrearsci.2011.07.003",
@@ -1328,6 +1328,35 @@
           "is_published": true,
           "raw_source_name": "Journal of African Earth Sciences",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc883dbe-af29bb08-0dc3-49d3-8079-b4ec2d0a258c",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/4994442",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/review"
         },
         {
           "id": "pmh:oai:digital.library.adelaide.edu.au:2440/67442",
@@ -1452,8 +1481,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 302,
@@ -1778,7 +1807,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 94
+          "cited_by_count": 95
         },
         {
           "year": 2025,
@@ -1798,7 +1827,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 94
+          "cited_by_count": 95
         },
         {
           "year": 2020,
@@ -1814,7 +1843,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 46
+          "cited_by_count": 47
         },
         {
           "year": 2016,
@@ -1837,7 +1866,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2561,7 +2590,7 @@
       "fwci": 4.5685,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 862,
+      "cited_by_count": 864,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 1,
@@ -2800,7 +2829,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 6,
+      "locations_count": 7,
       "locations": [
         {
           "id": "doi:10.1016/j.jafrearsci.2013.06.004",
@@ -2942,6 +2971,35 @@
           "raw_type": "Review"
         },
         {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc551261-e7369615-4c79-4ca2-874d-69cc0fce1ed9",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/4566190",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/review"
+        },
+        {
           "id": "pmh:oai:cris.unibo.it:11585/569745",
           "doi": null,
           "is_oa": false,
@@ -3076,8 +3134,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 304,
@@ -4151,7 +4209,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 92
+          "cited_by_count": 93
         },
         {
           "year": 2025,
@@ -4159,7 +4217,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 74
+          "cited_by_count": 73
         },
         {
           "year": 2023,
@@ -4171,7 +4229,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 97
+          "cited_by_count": 98
         },
         {
           "year": 2020,
@@ -4187,7 +4245,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 52
+          "cited_by_count": 53
         },
         {
           "year": 2016,
@@ -4206,7 +4264,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4372,13 +4430,13 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 39.6557,
+      "fwci": 39.6307,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 775,
+      "cited_by_count": 778,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99988201,
+        "value": 0.99988226,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4779,8 +4837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 201,
@@ -5004,7 +5062,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 67
+          "cited_by_count": 68
         },
         {
           "year": 2025,
@@ -5012,7 +5070,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 70
+          "cited_by_count": 69
         },
         {
           "year": 2023,
@@ -5020,7 +5078,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 67
+          "cited_by_count": 66
         },
         {
           "year": 2021,
@@ -5036,15 +5094,15 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 44
+          "cited_by_count": 46
         },
         {
           "year": 2017,
-          "cited_by_count": 41
+          "cited_by_count": 42
         },
         {
           "year": 2016,
-          "cited_by_count": 44
+          "cited_by_count": 45
         },
         {
           "year": 2015,
@@ -5063,7 +5121,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5229,13 +5287,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.303,
+      "fwci": 6.2658,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 565,
+      "cited_by_count": 569,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.974946,
+        "value": 0.97467672,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5511,8 +5569,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 165,
@@ -6187,7 +6245,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 45
+          "cited_by_count": 46
         },
         {
           "year": 2025,
@@ -6223,7 +6281,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2016,
@@ -6235,7 +6293,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 31
+          "cited_by_count": 32
         },
         {
           "year": 2013,
@@ -6246,7 +6304,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6468,13 +6526,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.1287,
+      "fwci": 7.1995,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 361,
+      "cited_by_count": 363,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9826087,
+        "value": 0.98293515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6695,8 +6753,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -6801,7 +6859,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 24
+          "cited_by_count": 25
         },
         {
           "year": 2025,
@@ -6837,7 +6895,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2016,
@@ -6860,7 +6918,7 @@
           "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7152,13 +7210,13 @@
         "value_usd": 4670
       },
       "apc_paid": null,
-      "fwci": 6.7323,
+      "fwci": 6.6159,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 302,
+      "cited_by_count": 306,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97414541,
+        "value": 0.97340332,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7481,8 +7539,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -7566,7 +7624,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -7602,7 +7660,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2016,
@@ -7614,18 +7672,18 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 25
+          "cited_by_count": 26
         },
         {
           "year": 2013,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2012,
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7991,13 +8049,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8715,
+      "fwci": 5.8626,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 195,
+      "cited_by_count": 198,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96509721,
+        "value": 0.96512262,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8331,8 +8389,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150913154.pdf",
@@ -8996,7 +9054,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2025,
@@ -9032,7 +9090,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2016,
@@ -9044,7 +9102,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2013,
@@ -9055,7 +9113,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9609,8 +9667,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -9828,13 +9886,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5228,
+      "fwci": 3.5139,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 119,
+      "cited_by_count": 120,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9175939,
+        "value": 0.91658806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10140,8 +10198,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2064300797.pdf",
@@ -10969,7 +11027,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -11020,7 +11078,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11301,13 +11359,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 4.8767,
+      "fwci": 4.9849,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 112,
+      "cited_by_count": 114,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96945187,
+        "value": 0.97070234,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11625,8 +11683,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 208,
@@ -11869,7 +11927,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2022,
@@ -11877,14 +11935,14 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2020,
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2019-06-27T00:00:00"
     },
     {
@@ -12439,8 +12497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -13694,8 +13752,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 112,
@@ -14153,13 +14211,13 @@
         "value_usd": 4070
       },
       "apc_paid": null,
-      "fwci": 3.7133,
+      "fwci": 3.6531,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 88,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9192085,
+        "value": 0.91785496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14466,8 +14524,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 151,
@@ -15653,8 +15711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 195,
@@ -16339,8 +16397,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -17177,8 +17235,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -17843,6 +17901,751 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2072299862",
+      "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
+      "title": "∼750 Ma banded iron formation from the Arabian-Nubian Shield—Implications for understanding neoproterozoic tectonics, volcanism, and climate change",
+      "display_name": "∼750 Ma banded iron formation from the Arabian-Nubian Shield—Implications for understanding neoproterozoic tectonics, volcanism, and climate change",
+      "alternate_titles": [],
+      "publication_year": 2013,
+      "publication_date": "2013-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2072299862",
+        "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
+        "mag": "2072299862"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.precamres.2013.07.015",
+        "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.precamres.2013.07.015",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S1025118869",
+          "display_name": "Precambrian Research",
+          "issn_l": "0301-9268",
+          "issn": [
+            "0301-9268",
+            "1872-7433"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Precambrian Research",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2072299862"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5035240990",
+            "display_name": "Robert J. Stern",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162577319",
+              "display_name": "The University of Texas at Dallas",
+              "ror": "https://ror.org/049emcs32",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162577319"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Robert J. Stern",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA",
+              "institution_ids": [
+                "https://openalex.org/I162577319"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056577179",
+            "display_name": "Sumit K. Mukherjee",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162577319",
+              "display_name": "The University of Texas at Dallas",
+              "ror": "https://ror.org/049emcs32",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162577319"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Sumit K. Mukherjee",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA",
+              "institution_ids": [
+                "https://openalex.org/I162577319"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033610162",
+            "display_name": "Nathan R. Miller",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-1677-5594",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1677-5594"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I86519309",
+              "display_name": "The University of Texas at Austin",
+              "ror": "https://ror.org/00hj54h04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Nathan R. Miller",
+          "raw_affiliation_strings": [
+            "The University of Texas at Austin, Geological Science Department, 1 University Station C1100, Austin, TX 78712-0254, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The University of Texas at Austin, Geological Science Department, 1 University Station C1100, Austin, TX 78712-0254, USA",
+              "institution_ids": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072203156",
+            "display_name": "Kamal Ahmed Ali",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7332-7843",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7332-7843"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Kamal Ali",
+          "raw_affiliation_strings": [
+            "Department of Mineral Resources and Rocks, Faculty of Earth Sciences, King Abdulaziz University, P.O. Box 80206, Jeddah 21589, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mineral Resources and Rocks, Faculty of Earth Sciences, King Abdulaziz University, P.O. Box 80206, Jeddah 21589, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103098706",
+            "display_name": "Peter R. Johnson",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Peter R. Johnson",
+          "raw_affiliation_strings": [
+            "6016 SW Haines Street, Portland, OR 97219, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "6016 SW Haines Street, Portland, OR 97219, USA",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5056577179"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I162577319"
+      ],
+      "apc_list": {
+        "value": 3600,
+        "currency": "USD",
+        "value_usd": 3600
+      },
+      "apc_paid": null,
+      "fwci": 2.7959,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 108,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.90313267,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 92,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "239",
+        "issue": null,
+        "first_page": "79",
+        "last_page": "94"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.763700008392334,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.763700008392334,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.15760000050067902,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.07039999961853027,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/banded-iron-formations",
+          "display_name": "banded iron formations",
+          "score": 0.9850000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-nubian-shield",
+          "display_name": "Arabian-Nubian Shield",
+          "score": 0.9660000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/neoproterozoic",
+          "display_name": "Neoproterozoic",
+          "score": 0.8899999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/sturtian-glaciation",
+          "display_name": "Sturtian glaciation",
+          "score": 0.7710000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/neoproterozoic-glaciation",
+          "display_name": "Neoproterozoic glaciation",
+          "score": 0.7760000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/hematite-precipitation",
+          "display_name": "hematite precipitation",
+          "score": 0.6389999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrothermal-vent-fluids",
+          "display_name": "hydrothermal vent fluids",
+          "score": 0.7039999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/rare-earth-elements",
+          "display_name": "rare earth elements",
+          "score": 0.8980000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/sulfate-limitation",
+          "display_name": "sulfate limitation",
+          "score": 0.6179999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-weathering",
+          "display_name": "continental weathering",
+          "score": 0.6759999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/neoproterozoic-tectonics",
+          "display_name": "Neoproterozoic tectonics",
+          "score": 0.7160000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentation-rate",
+          "display_name": "sedimentation rate",
+          "score": 0.42500001192092896
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8925136923789978
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.7661192417144775
+        },
+        {
+          "id": "https://openalex.org/C171991868",
+          "wikidata": "https://www.wikidata.org/wiki/Q304213",
+          "display_name": "Banded iron formation",
+          "level": 3,
+          "score": 0.745094895362854
+        },
+        {
+          "id": "https://openalex.org/C154200439",
+          "wikidata": "https://www.wikidata.org/wiki/Q238851",
+          "display_name": "Oceanic crust",
+          "level": 4,
+          "score": 0.44545650482177734
+        },
+        {
+          "id": "https://openalex.org/C173776410",
+          "wikidata": "https://www.wikidata.org/wiki/Q103910",
+          "display_name": "Precambrian",
+          "level": 2,
+          "score": 0.4306144714355469
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2426305115222931
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.14699000120162964
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0.13059228658676147
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.precamres.2013.07.015",
+          "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.precamres.2013.07.015",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S1025118869",
+            "display_name": "Precambrian Research",
+            "issn_l": "0301-9268",
+            "issn": [
+              "0301-9268",
+              "1872-7433"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-3",
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Precambrian Research",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G655337682",
+          "display_name": "Field, Remote Sensing and Geochemical Studies of Neoproterozoic Banded Iron Formation in the Eastern Desert of Egypt",
+          "funder_award_id": "0509486",
+          "funder_id": "https://openalex.org/F4320306076",
+          "funder_display_name": "National Science Foundation"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306076",
+          "display_name": "National Science Foundation",
+          "ror": "https://ror.org/021nxhr62"
+        },
+        {
+          "id": "https://openalex.org/F4320331052",
+          "display_name": "Nuclear Materials Authority",
+          "ror": "https://ror.org/00jgcnx83"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 90,
+      "referenced_works": [
+        "https://openalex.org/W76129704",
+        "https://openalex.org/W644298511",
+        "https://openalex.org/W765892120",
+        "https://openalex.org/W1491116906",
+        "https://openalex.org/W1631820701",
+        "https://openalex.org/W1638884317",
+        "https://openalex.org/W1795469543",
+        "https://openalex.org/W1898947512",
+        "https://openalex.org/W1966526622",
+        "https://openalex.org/W1970621049",
+        "https://openalex.org/W1974412454",
+        "https://openalex.org/W1975840640",
+        "https://openalex.org/W1979883233",
+        "https://openalex.org/W1983596468",
+        "https://openalex.org/W1983957826",
+        "https://openalex.org/W1984910394",
+        "https://openalex.org/W1990294964",
+        "https://openalex.org/W1992690763",
+        "https://openalex.org/W1993461429",
+        "https://openalex.org/W1993585594",
+        "https://openalex.org/W1994160943",
+        "https://openalex.org/W1996314509",
+        "https://openalex.org/W2000177754",
+        "https://openalex.org/W2001363398",
+        "https://openalex.org/W2001488468",
+        "https://openalex.org/W2005390624",
+        "https://openalex.org/W2006815492",
+        "https://openalex.org/W2010211832",
+        "https://openalex.org/W2011437871",
+        "https://openalex.org/W2013617939",
+        "https://openalex.org/W2015599546",
+        "https://openalex.org/W2016712936",
+        "https://openalex.org/W2017175357",
+        "https://openalex.org/W2017600130",
+        "https://openalex.org/W2020974273",
+        "https://openalex.org/W2020980625",
+        "https://openalex.org/W2026590347",
+        "https://openalex.org/W2026735549",
+        "https://openalex.org/W2027807325",
+        "https://openalex.org/W2032466071",
+        "https://openalex.org/W2037419245",
+        "https://openalex.org/W2037777684",
+        "https://openalex.org/W2039422591",
+        "https://openalex.org/W2040614623",
+        "https://openalex.org/W2041142620",
+        "https://openalex.org/W2041698237",
+        "https://openalex.org/W2041762395",
+        "https://openalex.org/W2042526900",
+        "https://openalex.org/W2042798202",
+        "https://openalex.org/W2043014453",
+        "https://openalex.org/W2045412784",
+        "https://openalex.org/W2049574643",
+        "https://openalex.org/W2051937829",
+        "https://openalex.org/W2053893958",
+        "https://openalex.org/W2055763048",
+        "https://openalex.org/W2056277777",
+        "https://openalex.org/W2057248218",
+        "https://openalex.org/W2058078322",
+        "https://openalex.org/W2060563278",
+        "https://openalex.org/W2064111162",
+        "https://openalex.org/W2066933832",
+        "https://openalex.org/W2076581125",
+        "https://openalex.org/W2078183045",
+        "https://openalex.org/W2078602930",
+        "https://openalex.org/W2079798371",
+        "https://openalex.org/W2094452052",
+        "https://openalex.org/W2096995891",
+        "https://openalex.org/W2104280034",
+        "https://openalex.org/W2112649312",
+        "https://openalex.org/W2120852101",
+        "https://openalex.org/W2122699393",
+        "https://openalex.org/W2127039475",
+        "https://openalex.org/W2128974117",
+        "https://openalex.org/W2140905542",
+        "https://openalex.org/W2145119320",
+        "https://openalex.org/W2145815106",
+        "https://openalex.org/W2148585617",
+        "https://openalex.org/W2149409854",
+        "https://openalex.org/W2155693355",
+        "https://openalex.org/W2162371807",
+        "https://openalex.org/W2164351497",
+        "https://openalex.org/W2266033874",
+        "https://openalex.org/W2294921187",
+        "https://openalex.org/W2336738242",
+        "https://openalex.org/W2343988027",
+        "https://openalex.org/W2892056095",
+        "https://openalex.org/W2908577041",
+        "https://openalex.org/W2910506565",
+        "https://openalex.org/W3134392706",
+        "https://openalex.org/W7024133469"
+      ],
+      "related_works": [
+        "https://openalex.org/W3091658191",
+        "https://openalex.org/W7154491226",
+        "https://openalex.org/W2582184107",
+        "https://openalex.org/W2066933832",
+        "https://openalex.org/W3094050811",
+        "https://openalex.org/W3195867792",
+        "https://openalex.org/W4390685289",
+        "https://openalex.org/W2912121660",
+        "https://openalex.org/W4408440806",
+        "https://openalex.org/W2357858957"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2072299862",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-24T14:10:38.155754",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1523307635",
       "doi": "https://doi.org/10.1016/s0166-2635(04)13004-1",
       "title": "Neoproterozoic Ophiolites in the Arabian Shield: Field Relations and Structure",
@@ -18310,8 +19113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -18422,751 +19225,6 @@
         {
           "year": 2012,
           "cited_by_count": 5
-        }
-      ],
-      "updated_date": "2026-11-22T12:46:00.618207",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2072299862",
-      "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
-      "title": "∼750 Ma banded iron formation from the Arabian-Nubian Shield—Implications for understanding neoproterozoic tectonics, volcanism, and climate change",
-      "display_name": "∼750 Ma banded iron formation from the Arabian-Nubian Shield—Implications for understanding neoproterozoic tectonics, volcanism, and climate change",
-      "alternate_titles": [],
-      "publication_year": 2013,
-      "publication_date": "2013-09-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2072299862",
-        "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
-        "mag": "2072299862"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.precamres.2013.07.015",
-        "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.precamres.2013.07.015",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S1025118869",
-          "display_name": "Precambrian Research",
-          "issn_l": "0301-9268",
-          "issn": [
-            "0301-9268",
-            "1872-7433"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-b",
-            "jufo-3",
-            "norway-2",
-            "poland-200",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Precambrian Research",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2072299862"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5035240990",
-            "display_name": "Robert J. Stern",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-8083-4632",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8083-4632"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I162577319",
-              "display_name": "The University of Texas at Dallas",
-              "ror": "https://ror.org/049emcs32",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Robert J. Stern",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5056577179",
-            "display_name": "Sumit K. Mukherjee",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I162577319",
-              "display_name": "The University of Texas at Dallas",
-              "ror": "https://ror.org/049emcs32",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Sumit K. Mukherjee",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, 800W. Campbell Road, Richardson, TX 75080-3021, USA",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5033610162",
-            "display_name": "Nathan R. Miller",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-1677-5594",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-1677-5594"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I86519309",
-              "display_name": "The University of Texas at Austin",
-              "ror": "https://ror.org/00hj54h04",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Nathan R. Miller",
-          "raw_affiliation_strings": [
-            "The University of Texas at Austin, Geological Science Department, 1 University Station C1100, Austin, TX 78712-0254, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "The University of Texas at Austin, Geological Science Department, 1 University Station C1100, Austin, TX 78712-0254, USA",
-              "institution_ids": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072203156",
-            "display_name": "Kamal Ahmed Ali",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7332-7843",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7332-7843"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Kamal Ali",
-          "raw_affiliation_strings": [
-            "Department of Mineral Resources and Rocks, Faculty of Earth Sciences, King Abdulaziz University, P.O. Box 80206, Jeddah 21589, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mineral Resources and Rocks, Faculty of Earth Sciences, King Abdulaziz University, P.O. Box 80206, Jeddah 21589, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-4697-3882",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4697-3882"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Peter R. Johnson",
-          "raw_affiliation_strings": [
-            "6016 SW Haines Street, Portland, OR 97219, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "6016 SW Haines Street, Portland, OR 97219, USA",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5056577179"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I162577319"
-      ],
-      "apc_list": {
-        "value": 3600,
-        "currency": "USD",
-        "value_usd": 3600
-      },
-      "apc_paid": null,
-      "fwci": 2.798,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 106,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.90306713,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 92,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "239",
-        "issue": null,
-        "first_page": "79",
-        "last_page": "94"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.763700008392334,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.763700008392334,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.15760000050067902,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.07039999961853027,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/banded-iron-formations",
-          "display_name": "banded iron formations",
-          "score": 0.9850000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-nubian-shield",
-          "display_name": "Arabian-Nubian Shield",
-          "score": 0.9660000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/neoproterozoic",
-          "display_name": "Neoproterozoic",
-          "score": 0.8899999856948853
-        },
-        {
-          "id": "https://openalex.org/keywords/sturtian-glaciation",
-          "display_name": "Sturtian glaciation",
-          "score": 0.7710000276565552
-        },
-        {
-          "id": "https://openalex.org/keywords/neoproterozoic-glaciation",
-          "display_name": "Neoproterozoic glaciation",
-          "score": 0.7760000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/hematite-precipitation",
-          "display_name": "hematite precipitation",
-          "score": 0.6389999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrothermal-vent-fluids",
-          "display_name": "hydrothermal vent fluids",
-          "score": 0.7039999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/rare-earth-elements",
-          "display_name": "rare earth elements",
-          "score": 0.8980000019073486
-        },
-        {
-          "id": "https://openalex.org/keywords/sulfate-limitation",
-          "display_name": "sulfate limitation",
-          "score": 0.6179999709129333
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-weathering",
-          "display_name": "continental weathering",
-          "score": 0.6759999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/neoproterozoic-tectonics",
-          "display_name": "Neoproterozoic tectonics",
-          "score": 0.7160000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentation-rate",
-          "display_name": "sedimentation rate",
-          "score": 0.42500001192092896
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8925136923789978
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.7661192417144775
-        },
-        {
-          "id": "https://openalex.org/C171991868",
-          "wikidata": "https://www.wikidata.org/wiki/Q304213",
-          "display_name": "Banded iron formation",
-          "level": 3,
-          "score": 0.745094895362854
-        },
-        {
-          "id": "https://openalex.org/C154200439",
-          "wikidata": "https://www.wikidata.org/wiki/Q238851",
-          "display_name": "Oceanic crust",
-          "level": 4,
-          "score": 0.44545650482177734
-        },
-        {
-          "id": "https://openalex.org/C173776410",
-          "wikidata": "https://www.wikidata.org/wiki/Q103910",
-          "display_name": "Precambrian",
-          "level": 2,
-          "score": 0.4306144714355469
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.2426305115222931
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.14699000120162964
-        },
-        {
-          "id": "https://openalex.org/C58097730",
-          "wikidata": "https://www.wikidata.org/wiki/Q176318",
-          "display_name": "Subduction",
-          "level": 3,
-          "score": 0.13059228658676147
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.precamres.2013.07.015",
-          "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.precamres.2013.07.015",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S1025118869",
-            "display_name": "Precambrian Research",
-            "issn_l": "0301-9268",
-            "issn": [
-              "0301-9268",
-              "1872-7433"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-b",
-              "jufo-3",
-              "norway-2",
-              "poland-200",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Precambrian Research",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G655337682",
-          "display_name": "Field, Remote Sensing and Geochemical Studies of Neoproterozoic Banded Iron Formation in the Eastern Desert of Egypt",
-          "funder_award_id": "0509486",
-          "funder_id": "https://openalex.org/F4320306076",
-          "funder_display_name": "National Science Foundation"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320306076",
-          "display_name": "National Science Foundation",
-          "ror": "https://ror.org/021nxhr62"
-        },
-        {
-          "id": "https://openalex.org/F4320331052",
-          "display_name": "Nuclear Materials Authority",
-          "ror": "https://ror.org/00jgcnx83"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 90,
-      "referenced_works": [
-        "https://openalex.org/W76129704",
-        "https://openalex.org/W644298511",
-        "https://openalex.org/W765892120",
-        "https://openalex.org/W1491116906",
-        "https://openalex.org/W1631820701",
-        "https://openalex.org/W1638884317",
-        "https://openalex.org/W1795469543",
-        "https://openalex.org/W1898947512",
-        "https://openalex.org/W1966526622",
-        "https://openalex.org/W1970621049",
-        "https://openalex.org/W1974412454",
-        "https://openalex.org/W1975840640",
-        "https://openalex.org/W1979883233",
-        "https://openalex.org/W1983596468",
-        "https://openalex.org/W1983957826",
-        "https://openalex.org/W1984910394",
-        "https://openalex.org/W1990294964",
-        "https://openalex.org/W1992690763",
-        "https://openalex.org/W1993461429",
-        "https://openalex.org/W1993585594",
-        "https://openalex.org/W1994160943",
-        "https://openalex.org/W1996314509",
-        "https://openalex.org/W2000177754",
-        "https://openalex.org/W2001363398",
-        "https://openalex.org/W2001488468",
-        "https://openalex.org/W2005390624",
-        "https://openalex.org/W2006815492",
-        "https://openalex.org/W2010211832",
-        "https://openalex.org/W2011437871",
-        "https://openalex.org/W2013617939",
-        "https://openalex.org/W2015599546",
-        "https://openalex.org/W2016712936",
-        "https://openalex.org/W2017175357",
-        "https://openalex.org/W2017600130",
-        "https://openalex.org/W2020974273",
-        "https://openalex.org/W2020980625",
-        "https://openalex.org/W2026590347",
-        "https://openalex.org/W2026735549",
-        "https://openalex.org/W2027807325",
-        "https://openalex.org/W2032466071",
-        "https://openalex.org/W2037419245",
-        "https://openalex.org/W2037777684",
-        "https://openalex.org/W2039422591",
-        "https://openalex.org/W2040614623",
-        "https://openalex.org/W2041142620",
-        "https://openalex.org/W2041698237",
-        "https://openalex.org/W2041762395",
-        "https://openalex.org/W2042526900",
-        "https://openalex.org/W2042798202",
-        "https://openalex.org/W2043014453",
-        "https://openalex.org/W2045412784",
-        "https://openalex.org/W2049574643",
-        "https://openalex.org/W2051937829",
-        "https://openalex.org/W2053893958",
-        "https://openalex.org/W2055763048",
-        "https://openalex.org/W2056277777",
-        "https://openalex.org/W2057248218",
-        "https://openalex.org/W2058078322",
-        "https://openalex.org/W2060563278",
-        "https://openalex.org/W2064111162",
-        "https://openalex.org/W2066933832",
-        "https://openalex.org/W2076581125",
-        "https://openalex.org/W2078183045",
-        "https://openalex.org/W2078602930",
-        "https://openalex.org/W2079798371",
-        "https://openalex.org/W2094452052",
-        "https://openalex.org/W2096995891",
-        "https://openalex.org/W2104280034",
-        "https://openalex.org/W2112649312",
-        "https://openalex.org/W2120852101",
-        "https://openalex.org/W2122699393",
-        "https://openalex.org/W2127039475",
-        "https://openalex.org/W2128974117",
-        "https://openalex.org/W2140905542",
-        "https://openalex.org/W2145119320",
-        "https://openalex.org/W2145815106",
-        "https://openalex.org/W2148585617",
-        "https://openalex.org/W2149409854",
-        "https://openalex.org/W2155693355",
-        "https://openalex.org/W2162371807",
-        "https://openalex.org/W2164351497",
-        "https://openalex.org/W2266033874",
-        "https://openalex.org/W2294921187",
-        "https://openalex.org/W2336738242",
-        "https://openalex.org/W2343988027",
-        "https://openalex.org/W2892056095",
-        "https://openalex.org/W2908577041",
-        "https://openalex.org/W2910506565",
-        "https://openalex.org/W3134392706",
-        "https://openalex.org/W7024133469"
-      ],
-      "related_works": [
-        "https://openalex.org/W3091658191",
-        "https://openalex.org/W7154491226",
-        "https://openalex.org/W2582184107",
-        "https://openalex.org/W2066933832",
-        "https://openalex.org/W3094050811",
-        "https://openalex.org/W3195867792",
-        "https://openalex.org/W4390685289",
-        "https://openalex.org/W2912121660",
-        "https://openalex.org/W4408440806",
-        "https://openalex.org/W2357858957"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2072299862",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 13
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
         }
       ],
       "updated_date": "2026-11-22T12:46:00.618207",
@@ -19802,8 +19860,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -20589,8 +20647,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -21277,8 +21335,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -21926,8 +21984,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -22471,13 +22529,13 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 3.5229,
+      "fwci": 3.5176,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 72,
+      "cited_by_count": 71,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91395331,
+        "value": 0.9135072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22780,8 +22838,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -22895,7 +22953,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2023,
@@ -22946,7 +23004,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23593,8 +23651,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -25082,8 +25140,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -25657,8 +25715,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -26278,8 +26336,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -27129,13 +27187,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.2958,
+      "fwci": 1.2763,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 47,
+      "cited_by_count": 48,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76801179,
+        "value": 0.76537037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27369,8 +27427,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -27921,10 +27979,10 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -28742,8 +28800,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -30610,8 +30668,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3014422248.pdf",
@@ -31495,8 +31553,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -32438,13 +32496,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.8436,
+      "fwci": 3.7951,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 45,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91929134,
+        "value": 0.91518738,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32672,8 +32730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -33145,8 +33203,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -33720,8 +33778,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34617,8 +34675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2121511827.pdf",
@@ -35845,8 +35903,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -37452,8 +37510,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38971,13 +39029,13 @@
         "currency": "USD",
         "value_usd": 5120
       },
-      "fwci": 3.9322,
+      "fwci": 3.8768,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89131585,
+        "value": 0.88933223,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39352,8 +39410,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 121,
@@ -40419,8 +40477,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -40912,8 +40970,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41916,8 +41974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42727,13 +42785,13 @@
         "value_usd": 2020
       },
       "apc_paid": null,
-      "fwci": 3.4429,
+      "fwci": 3.1629,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87425796,
+        "value": 0.86219293,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42994,8 +43052,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43721,8 +43779,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44504,8 +44562,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -44714,7 +44772,7 @@
       "fwci": null,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
@@ -44911,8 +44969,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -44963,6 +45021,10 @@
           "cited_by_count": 1
         },
         {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
           "year": 2016,
           "cited_by_count": 1
         },
@@ -44971,7 +45033,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -45494,8 +45556,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W194073010.pdf",
@@ -46759,8 +46821,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47179,8 +47241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47679,8 +47741,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W94473743.pdf",
@@ -48839,8 +48901,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49933,8 +49995,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50361,8 +50423,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50862,8 +50924,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51673,8 +51735,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W154232170.pdf",
@@ -52783,8 +52845,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2259552435.pdf",
@@ -54061,8 +54123,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54499,8 +54561,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55022,8 +55084,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56668,8 +56730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57860,8 +57922,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

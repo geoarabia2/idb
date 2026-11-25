@@ -21,7 +21,7 @@
     ],
     "full_name": "Hamad A. Al Saad Al-Kuwari",
     "works_count": 44,
-    "cited_by_count": 608,
+    "cited_by_count": 611,
     "summary_stats": {
       "2yr_mean_citedness": 4.714285714285714,
       "h_index": 12,
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0000973,
+        "value": 0.0000972,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -334,13 +334,13 @@
         "year": 2021,
         "works_count": 10,
         "oa_works_count": 7,
-        "cited_by_count": 39
+        "cited_by_count": 40
       },
       {
         "year": 2022,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 76
+        "cited_by_count": 78
       },
       {
         "year": 2023,
@@ -383,7 +383,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5079669280",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-10-28T00:00:00"
   },
   "works": [
@@ -806,13 +806,13 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 3.9944,
+      "fwci": 4.0465,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 102,
+      "cited_by_count": 104,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95197655,
+        "value": 0.95297008,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1342,8 +1342,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -1938,7 +1938,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2024,
@@ -1950,14 +1950,14 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 22
+          "cited_by_count": 23
         },
         {
           "year": 2021,
           "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -2794,8 +2794,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -3324,18 +3324,18 @@
         "currency": "USD",
         "value_usd": 3790
       },
-      "fwci": 6.169,
+      "fwci": 6.0896,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 44,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98163042,
+        "value": 0.98152955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 99,
+        "min": 98,
         "max": 100
       },
       "biblio": {
@@ -3764,18 +3764,18 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         },
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.965499997138977,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -4570,7 +4570,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2025,
@@ -4578,10 +4578,10 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 10
+          "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-09-07T00:00:00"
     },
     {
@@ -7738,13 +7738,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -8804,8 +8804,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -9729,15 +9729,15 @@
         "currency": "USD",
         "value_usd": 2310
       },
-      "fwci": 2.8629,
+      "fwci": 2.902,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89959077,
+        "value": 0.90207652,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 98,
@@ -10155,13 +10155,13 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         },
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.9599999785423279,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         }
       ],
@@ -10912,7 +10912,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-08-19T00:00:00"
     },
     {
@@ -12749,13 +12749,13 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 2.1436,
+      "fwci": 2.116,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85707992,
+        "value": 0.85503248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21044,13 +21044,13 @@
         "currency": "USD",
         "value_usd": 3550
       },
-      "fwci": 1.7893,
+      "fwci": 1.8138,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81211422,
+        "value": 0.81391931,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21461,13 +21461,13 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -22537,13 +22537,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7991,
+      "fwci": 0.7858,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59371728,
+        "value": 0.58721267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22817,8 +22817,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -27089,13 +27089,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6981,
+      "fwci": 4.6141,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91971665,
+        "value": 0.91981132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27787,13 +27787,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2381,
+      "fwci": 1.2573,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71980676,
+        "value": 0.72897196,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28232,13 +28232,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.349,
+      "fwci": 2.3071,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81227863,
+        "value": 0.80778302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29852,13 +29852,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.349,
+      "fwci": 2.3071,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81227863,
+        "value": 0.80778302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30293,9 +30293,17 @@
         "raw_source_name": "Goldschmidt2022 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239108540",
+          "display_name": "Goldschmidt2022 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4312290890"
+        "https://openalex.org/W4312290890",
+        "https://openalex.org/W7239108540"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -30995,7 +31003,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4312290890",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-01-04T00:00:00"
     },
     {
@@ -31042,9 +31050,17 @@
         "raw_source_name": "Goldschmidt2022 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239108540",
+          "display_name": "Goldschmidt2022 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4312435439"
+        "https://openalex.org/W4312435439",
+        "https://openalex.org/W7239108540"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -31578,7 +31594,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4312435439",
       "counts_by_year": [],
-      "updated_date": "2026-10-06T10:28:23.643775",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-01-04T00:00:00"
     },
     {
@@ -31625,9 +31641,17 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7238912417",
+          "display_name": "Goldschmidt2023 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4389562204"
+        "https://openalex.org/W4389562204",
+        "https://openalex.org/W7238912417"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -32111,7 +32135,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4389562204",
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-12-12T00:00:00"
     },
     {
@@ -32158,9 +32182,17 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239274124",
+          "display_name": "Goldschmidt2024 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4408523099"
+        "https://openalex.org/W4408523099",
+        "https://openalex.org/W7239274124"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -32687,7 +32719,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4408523099",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-03-18T00:00:00"
     },
     {
@@ -37732,6 +37764,7 @@
         "https://openalex.org/W4220760851",
         "https://openalex.org/W4220907888",
         "https://openalex.org/W4245542790",
+        "https://openalex.org/W4281567513",
         "https://openalex.org/W4281960975",
         "https://openalex.org/W4283726298",
         "https://openalex.org/W4309048249",
@@ -37751,7 +37784,6 @@
         "https://openalex.org/W4407061421",
         "https://openalex.org/W4407154566",
         "https://openalex.org/W4407260658",
-        "https://openalex.org/W4407387634",
         "https://openalex.org/W4407568578",
         "https://openalex.org/W4407955728",
         "https://openalex.org/W4408579545",
@@ -38407,7 +38439,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7236304434",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2026-11-19T00:00:00"
     }
   ]

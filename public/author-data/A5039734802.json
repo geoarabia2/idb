@@ -159,7 +159,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 26,
+        "count": 27,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -191,12 +191,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T11740",
-        "display_name": "Geochemistry and Elemental Analysis",
-        "count": 10,
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "count": 11,
         "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -208,12 +208,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
+        "id": "https://openalex.org/T11740",
+        "display_name": "Geochemistry and Elemental Analysis",
         "count": 10,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -246,7 +246,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000324,
+        "value": 0.0000336,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -263,7 +263,7 @@
       {
         "id": "https://openalex.org/T12344",
         "display_name": "Silicon Effects in Agriculture",
-        "value": 0.0000295,
+        "value": 0.0000293,
         "subfield": {
           "id": "https://openalex.org/subfields/1110",
           "display_name": "Plant Science"
@@ -280,7 +280,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000256,
+        "value": 0.0000257,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -295,12 +295,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T11740",
-        "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000186,
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "value": 0.0000201,
         "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -522,7 +522,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5039734802",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -685,13 +685,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1095,
+      "fwci": 1.1026,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 285,
+      "cited_by_count": 286,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73869933,
+        "value": 0.73773862,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1639,7 +1639,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-04-10T00:00:00"
     },
     {
@@ -1845,13 +1845,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.9744,
+      "fwci": 5.0336,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 121,
+      "cited_by_count": 122,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9347079,
+        "value": 0.93489149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3852,7 +3852,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4186,13 +4186,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.7906,
+      "fwci": 8.6725,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 139,
+      "cited_by_count": 140,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97395742,
+        "value": 0.97337537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5305,7 +5305,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5480,13 +5480,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.1731,
+      "fwci": 8.0616,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 136,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96945867,
+        "value": 0.96817513,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6614,7 +6614,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 6
+          "cited_by_count": 5
         },
         {
           "year": 2022,
@@ -6661,7 +6661,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2019-05-03T00:00:00"
     },
     {
@@ -8727,13 +8727,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 4.951,
+      "fwci": 4.8708,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 47,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94780956,
+        "value": 0.94672382,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14982,8 +14982,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -16837,13 +16837,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4879,
+      "fwci": 0.4888,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 74,
+      "cited_by_count": 75,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.61101243,
+        "value": 0.61130742,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17934,7 +17934,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19664,9 +19664,17 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239025179",
+          "display_name": "GEO 2008",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4252144897"
+        "https://openalex.org/W4252144897",
+        "https://openalex.org/W7239025179"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -19789,13 +19797,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 20.6084,
+      "fwci": 20.1669,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 62,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.996673,
+        "value": 0.99667458,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -20784,7 +20792,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -22527,8 +22535,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.685699999332428,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -24013,13 +24021,13 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.7149,
+      "fwci": 1.6928,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81152524,
+        "value": 0.80911275,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30246,13 +30254,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6046,
+      "fwci": 0.5957,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70144554,
+        "value": 0.69718004,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32881,9 +32889,17 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3021400260"
+        "https://openalex.org/W3021400260",
+        "https://openalex.org/W7239028782"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -32987,13 +33003,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3876,
+      "fwci": 2.3501,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78422274,
+        "value": 0.78272981,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33918,7 +33934,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -36427,8 +36443,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -38511,9 +38527,17 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2597944828"
+        "https://openalex.org/W2597944828",
+        "https://openalex.org/W7239028782"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -39680,7 +39704,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2597944828",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2017-04-07T00:00:00"
     },
     {
@@ -40581,8 +40605,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -42577,9 +42601,17 @@
         "raw_source_name": "Goldschmidt2024 abstracts",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239274124",
+          "display_name": "Goldschmidt2024 abstracts",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4408525198"
+        "https://openalex.org/W4408525198",
+        "https://openalex.org/W7239274124"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -43120,7 +43152,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4408525198",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-03-18T00:00:00"
     },
     {
@@ -43648,8 +43680,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],

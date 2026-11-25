@@ -206,7 +206,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000359,
+        "value": 0.000036,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T10967",
         "display_name": "Carbon Dioxide Capture Technologies",
-        "value": 0.000027,
+        "value": 0.0000269,
         "subfield": {
           "id": "https://openalex.org/subfields/1506",
           "display_name": "Filtration and Separation"
@@ -331,7 +331,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5088388992",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5088388992",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2019-09-12T00:00:00"
   },
   "works": [
@@ -702,13 +702,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.88,
+      "fwci": 1.8539,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82642459,
+        "value": 0.82394214,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1604,13 +1604,13 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 5.1649,
+      "fwci": 5.1417,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95922511,
+        "value": 0.95891919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1978,7 +1978,7 @@
           "pdf_url": "https://arxiv.org/pdf/2506.17747",
           "source": {
             "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
+            "display_name": "arXiv",
             "issn_l": "2331-8422",
             "issn": [
               "2331-8422"
@@ -1987,10 +1987,10 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
+            "host_organization": "https://openalex.org/I4402554005",
+            "host_organization_name": "arXiv",
             "host_organization_lineage": [
-              "https://openalex.org/I205783295"
+              "https://openalex.org/I4402554005"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -2827,7 +2827,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -6872,13 +6872,13 @@
         "value_usd": 2495
       },
       "apc_paid": null,
-      "fwci": 1.0265,
+      "fwci": 1.0137,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67172168,
+        "value": 0.66782474,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9112,13 +9112,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 41.8,
+      "fwci": 42.3455,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99434291,
+        "value": 0.99441581,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -13651,14 +13651,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -14838,13 +14838,13 @@
         "currency": "USD",
         "value_usd": 3360
       },
-      "fwci": 1.2702,
+      "fwci": 1.2537,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70892824,
+        "value": 0.70628173,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15089,7 +15089,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1016/j.jcou.2026.103452",
@@ -15170,6 +15170,35 @@
           "raw_type": "posted-content"
         },
         {
+          "id": "pmh:https://api.nva.unit.no/publication/019e83155919-bbe153e1-4ddb-4106-8bfc-011f9efee74b",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://hdl.handle.net/11250/5524187",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
           "id": "pmh:oai:doaj.org/article:83aa7e1d931e4e68a817330b0414c504",
           "doi": null,
           "is_oa": false,
@@ -15246,14 +15275,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -15987,7 +16016,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2026-05-19T00:00:00"
     },
     {
@@ -17816,9 +17845,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -20136,9 +20165,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

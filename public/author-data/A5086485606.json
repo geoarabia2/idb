@@ -22,7 +22,7 @@
     ],
     "full_name": "ZÜHLKE, RAINER",
     "works_count": 53,
-    "cited_by_count": 1198,
+    "cited_by_count": 1201,
     "summary_stats": {
       "2yr_mean_citedness": 7.833333333333333,
       "h_index": 17,
@@ -146,6 +146,23 @@
         }
       },
       {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "count": 15,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
         "count": 14,
@@ -161,30 +178,13 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
-      },
-      {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "count": 14,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
       }
     ],
     "topic_share": [
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000969,
+        "value": 0.0000966,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -218,7 +218,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000513,
+        "value": 0.0000514,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -454,7 +454,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 84
+        "cited_by_count": 86
       }
     ],
     "display_name_alternatives": [
@@ -474,7 +474,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5086485606",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -741,13 +741,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 7.8991,
+      "fwci": 7.8405,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 187,
+      "cited_by_count": 188,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97885254,
+        "value": 0.97867905,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1315,7 +1315,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2013,
@@ -1326,7 +1326,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3706,13 +3706,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.7514,
+      "fwci": 1.7275,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 93,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83577176,
+        "value": 0.83425313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4710,13 +4710,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 4.1389,
+      "fwci": 4.0014,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 32,
+      "cited_by_count": 31,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95170244,
+        "value": 0.94834596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5608,7 +5608,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 12
         },
         {
           "year": 2025,
@@ -5623,7 +5623,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-10-19T00:00:00"
     },
     {
@@ -7443,7 +7443,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.2139/ssrn.4236226",
+        "oa_url": "https://repository.kaust.edu.sa/server/api/core/bitstreams/fd88aad4-3902-4302-b8d1-1a2745dcefc4/content",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -7678,13 +7678,13 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 2.9104,
+      "fwci": 2.9064,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91645039,
+        "value": 0.91673323,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7986,9 +7986,9 @@
         {
           "id": "pmh:oai:repository.kaust.edu.sa:10754/682243",
           "doi": null,
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "http://hdl.handle.net/10754/682243",
-          "pdf_url": null,
+          "pdf_url": "https://repository.kaust.edu.sa/server/api/core/bitstreams/fd88aad4-3902-4302-b8d1-1a2745dcefc4/content",
           "source": {
             "id": "https://openalex.org/S4306401596",
             "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
@@ -8047,26 +8047,24 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.2139/ssrn.4236226",
-        "doi": "https://doi.org/10.2139/ssrn.4236226",
+        "id": "pmh:oai:repository.kaust.edu.sa:10754/682243",
+        "doi": null,
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2139/ssrn.4236226",
-        "pdf_url": null,
+        "landing_page_url": "http://hdl.handle.net/10754/682243",
+        "pdf_url": "https://repository.kaust.edu.sa/server/api/core/bitstreams/fd88aad4-3902-4302-b8d1-1a2745dcefc4/content",
         "source": {
-          "id": "https://openalex.org/S4210172589",
-          "display_name": "SSRN Electronic Journal",
-          "issn_l": "1556-5068",
-          "issn": [
-            "1556-5068"
-          ],
-          "is_oa": true,
+          "id": "https://openalex.org/S4306401596",
+          "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1318003438",
-          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization": "https://openalex.org/I71920554",
+          "host_organization_name": "King Abdullah University of Science and Technology",
           "host_organization_lineage": [
-            "https://openalex.org/I1318003438"
+            "https://openalex.org/I71920554"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -8077,7 +8075,7 @@
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "posted-content"
+        "raw_type": "Preprint"
       },
       "sustainable_development_goals": [],
       "study_designs": [],
@@ -8179,7 +8177,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-05-18T00:00:00"
     },
     {
@@ -8492,13 +8490,13 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 3.9417,
+      "fwci": 3.7305,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 20,
+      "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94252771,
+        "value": 0.93633596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9581,14 +9579,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 11
+          "cited_by_count": 10
         },
         {
           "year": 2025,
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2024-07-11T00:00:00"
     },
     {
@@ -9929,13 +9927,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 4.1119,
+      "fwci": 4.0304,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 105,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92783315,
+        "value": 0.92576012,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12338,13 +12336,13 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 4.6656,
+      "fwci": 4.5828,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 86,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95123013,
+        "value": 0.95035924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15532,13 +15530,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3955,
+      "fwci": 1.3997,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 49,
+      "cited_by_count": 50,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70566038,
+        "value": 0.71106942,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15984,7 +15982,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2016,
@@ -16007,7 +16005,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -16270,13 +16268,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.0842,
+      "fwci": 2.0633,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 36,
+      "cited_by_count": 37,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.838643,
+        "value": 0.83679417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16731,6 +16729,10 @@
           "cited_by_count": 2
         },
         {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
           "year": 2018,
           "cited_by_count": 2
         },
@@ -16759,7 +16761,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17066,13 +17068,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.1982,
+      "fwci": 2.1767,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85295575,
+        "value": 0.85134801,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17356,7 +17358,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/j.sedgeo.2004.12.022",
@@ -17401,6 +17403,35 @@
           "is_published": true,
           "raw_source_name": "Sedimentary Geology",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc845f66-b73db7fc-6467-45ac-843c-3172da27e2af",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/3306268",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": null,
@@ -17550,7 +17581,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21696,9 +21727,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -26058,9 +26089,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -29236,9 +29267,17 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3022953079"
+        "https://openalex.org/W3022953079",
+        "https://openalex.org/W7239028782"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -29382,13 +29421,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.801,
+      "fwci": 0.7936,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73333333,
+        "value": 0.73065283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30383,7 +30422,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -30431,9 +30470,17 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239015359",
+          "display_name": "1st Sustainable Earth Sciences Conference and Exhibition (SES2011)",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W1977546504"
+        "https://openalex.org/W1977546504",
+        "https://openalex.org/W7239015359"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -30924,7 +30971,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30972,9 +31019,17 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239015359",
+          "display_name": "1st Sustainable Earth Sciences Conference and Exhibition (SES2011)",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2086944217"
+        "https://openalex.org/W2086944217",
+        "https://openalex.org/W7239015359"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -31366,14 +31421,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.875,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.875
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -31560,7 +31615,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31606,9 +31661,17 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239032669",
+          "display_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2211243306"
+        "https://openalex.org/W2211243306",
+        "https://openalex.org/W7239032669"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -32523,7 +32586,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -34247,9 +34310,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -34323,9 +34386,17 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239032669",
+          "display_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W1506630614"
+        "https://openalex.org/W1506630614",
+        "https://openalex.org/W7239032669"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -35208,7 +35279,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1506630614",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -36313,9 +36384,17 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7238939344",
+          "display_name": "74th EAGE Conference and Exhibition incorporating EUROPEC 2012",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2091878469"
+        "https://openalex.org/W2091878469",
+        "https://openalex.org/W7238939344"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -37221,7 +37300,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2091878469",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -37267,9 +37346,17 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239032669",
+          "display_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2325932125"
+        "https://openalex.org/W2325932125",
+        "https://openalex.org/W7239032669"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -38136,7 +38223,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2325932125",
       "counts_by_year": [],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -39056,9 +39143,17 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239032669",
+          "display_name": "72nd EAGE Conference and Exhibition incorporating SPE EUROPEC 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2332027107"
+        "https://openalex.org/W2332027107",
+        "https://openalex.org/W7239032669"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -39724,7 +39819,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2332027107",
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -46192,9 +46287,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],

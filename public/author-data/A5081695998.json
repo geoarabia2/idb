@@ -23,7 +23,7 @@
     ],
     "full_name": "Salah A. Al‐Khirbash",
     "works_count": 63,
-    "cited_by_count": 1143,
+    "cited_by_count": 1144,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 18,
@@ -206,7 +206,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.000055,
+        "value": 0.0000551,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000518,
+        "value": 0.0000519,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -240,7 +240,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000031,
+        "value": 0.0000311,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -257,7 +257,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.000026,
+        "value": 0.0000261,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -435,7 +435,7 @@
         "year": 2021,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 124
+        "cited_by_count": 125
       },
       {
         "year": 2022,
@@ -486,7 +486,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081695998",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5081695998",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1213,13 +1213,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.1225,
+      "fwci": 7.0953,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 166,
+      "cited_by_count": 167,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96542553,
+        "value": 0.96525935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2176,7 +2176,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2020,
@@ -2215,7 +2215,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3473,13 +3473,13 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.3561,
+      "fwci": 2.3438,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 121,
+      "cited_by_count": 123,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85242395,
+        "value": 0.8520057,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3880,7 +3880,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2016,
@@ -3892,7 +3892,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2013,
@@ -3903,7 +3903,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4314,18 +4314,18 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.8087,
+      "fwci": 0.804,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 101,
+      "cited_by_count": 102,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68295375,
+        "value": 0.68280969,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -4819,7 +4819,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2013,
@@ -4830,7 +4830,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7317,13 +7317,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0889,
+      "fwci": 2.0538,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83113146,
+        "value": 0.82780536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9252,13 +9252,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5844,
+      "fwci": 1.5839,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 69,
+      "cited_by_count": 70,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80813373,
+        "value": 0.80798005,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9533,7 +9533,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2017-07-14T00:00:00"
     },
     {
@@ -10377,14 +10377,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.7811999917030334,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -13387,18 +13387,18 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 0.7183,
+      "fwci": 0.8945,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 33,
+      "cited_by_count": 34,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65068399,
+        "value": 0.68321028,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 98
       },
       "biblio": {
@@ -13833,14 +13833,14 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2016,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14383,9 +14383,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -14865,13 +14865,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.1793,
+      "fwci": 1.1773,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 25,
+      "cited_by_count": 26,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74090217,
+        "value": 0.74084818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15283,7 +15283,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2016,
@@ -15298,7 +15298,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15435,13 +15435,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.6963,
+      "fwci": 0.6846,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 23,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63655984,
+        "value": 0.63104932,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16224,13 +16224,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.3931,
+      "fwci": 0.5886,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57942438,
+        "value": 0.63427269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16630,9 +16630,13 @@
         {
           "year": 2015,
           "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -27377,13 +27381,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.291,
+      "fwci": 0.2741,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60778613,
+        "value": 0.58988026,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29591,13 +29595,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0611,
+      "fwci": 1.972,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78590675,
+        "value": 0.77892072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31028,13 +31032,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.1357,
+      "fwci": 0.1335,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3340664,
+        "value": 0.32659353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

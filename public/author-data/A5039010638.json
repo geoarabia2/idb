@@ -229,7 +229,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0001039,
+        "value": 0.0001038,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -263,7 +263,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000464,
+        "value": 0.0000463,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -455,7 +455,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5039010638",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2414,13 +2414,13 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 11.452,
+      "fwci": 11.3311,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 199,
+      "cited_by_count": 197,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9927468,
+        "value": 0.99269519,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2850,7 +2850,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 25
+          "cited_by_count": 23
         },
         {
           "year": 2023,
@@ -2881,7 +2881,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -3258,13 +3258,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 6.1449,
+      "fwci": 6.0657,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 64,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97700238,
+        "value": 0.97659518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5466,13 +5466,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.162,
+      "fwci": 2.1319,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85507712,
+        "value": 0.85303325,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7006,14 +7006,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "display_name": "Climate action"
         },
         {
+          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -12547,9 +12547,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7605999708175659,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.7605999708175659
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -16264,9 +16264,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -20123,9 +20123,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -23480,9 +23480,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8125,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.8125
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -24246,9 +24246,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -25575,13 +25575,13 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 1.4314,
+      "fwci": 1.451,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76137828,
+        "value": 0.76338122,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25871,9 +25871,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8518999814987183,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.8518999814987183
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -28441,9 +28441,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 1
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -31448,9 +31448,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -33276,9 +33276,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.75
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -37651,13 +37651,13 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.7145,
+      "fwci": 0.7053,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62807296,
+        "value": 0.62400997,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38515,9 +38515,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -42703,14 +42703,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "display_name": "Life below water"
         },
         {
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -45804,13 +45804,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.716,
+      "fwci": 3.6549,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86503856,
+        "value": 0.86311054,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50459,14 +50459,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.47999998927116394
+          "display_name": "Sustainable cities and communities"
         },
         {
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -53059,9 +53059,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -54689,14 +54689,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.9599999785423279,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.9599999785423279
+          "display_name": "Life on land"
         },
         {
+          "score": 0.40450000762939453,
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger",
-          "score": 0.40450000762939453
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
@@ -56159,9 +56159,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8518999814987183,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.8518999814987183
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -57597,19 +57597,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 1
+          "display_name": "Climate action"
         },
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 1
+          "display_name": "Life below water"
         },
         {
+          "score": 0.7605999708175659,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.7605999708175659
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],

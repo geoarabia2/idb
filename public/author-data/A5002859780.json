@@ -4035,19 +4035,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 1
         },
         {
-          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.5690000057220459
         },
         {
-          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -4611,9 +4611,17 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2587344789"
+        "https://openalex.org/W2587344789",
+        "https://openalex.org/W7239028782"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -5609,7 +5617,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2017-02-17T00:00:00"
     },
     {
@@ -6101,9 +6109,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.878000020980835,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.878000020980835
         }
       ],
       "study_designs": [],
@@ -6236,9 +6244,17 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239025179",
+          "display_name": "GEO 2008",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3020833061"
+        "https://openalex.org/W3020833061",
+        "https://openalex.org/W7239025179"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -7297,7 +7313,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -7343,9 +7359,17 @@
         "raw_source_name": "First EAGE Workshop on Tight Gas Reservoirs 2009",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239126635",
+          "display_name": "First EAGE Workshop on Tight Gas Reservoirs 2009",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2029365051"
+        "https://openalex.org/W2029365051",
+        "https://openalex.org/W7239126635"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -8124,7 +8148,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2029365051",
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8486,9 +8510,17 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239025179",
+          "display_name": "GEO 2008",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4246415414"
+        "https://openalex.org/W4246415414",
+        "https://openalex.org/W7239025179"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -9415,7 +9447,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4246415414",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2022-05-12T00:00:00"
     }
   ]

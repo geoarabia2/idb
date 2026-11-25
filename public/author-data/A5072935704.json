@@ -14,7 +14,7 @@
     ],
     "full_name": "Anas Muhammad Salisu",
     "works_count": 28,
-    "cited_by_count": 288,
+    "cited_by_count": 289,
     "summary_stats": {
       "2yr_mean_citedness": 7,
       "h_index": 12,
@@ -166,7 +166,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000057,
+        "value": 0.0000571,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -183,7 +183,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000556,
+        "value": 0.0000555,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -310,7 +310,7 @@
         "year": 2026,
         "works_count": 9,
         "oa_works_count": 5,
-        "cited_by_count": 148
+        "cited_by_count": 149
       }
     ],
     "display_name_alternatives": [
@@ -322,7 +322,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5072935704",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5072935704",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2022-04-03T00:00:00"
   },
   "works": [
@@ -19994,13 +19994,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8984,
+      "fwci": 5.8153,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94739627,
+        "value": 0.94624708,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23888,9 +23888,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46149998903274536,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -29952,9 +29952,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.98580002784729,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3",
-          "score": 0.98580002784729
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "study_designs": [
@@ -32881,9 +32881,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],

@@ -18,7 +18,7 @@
     ],
     "full_name": "Abdullah M. Memesh",
     "works_count": 29,
-    "cited_by_count": 516,
+    "cited_by_count": 518,
     "summary_stats": {
       "2yr_mean_citedness": 1.25,
       "h_index": 11,
@@ -112,7 +112,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 15,
+        "count": 14,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -129,7 +129,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "count": 10,
+        "count": 11,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -146,7 +146,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "count": 7,
+        "count": 8,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -182,7 +182,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000229,
+        "value": 0.000023,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -197,26 +197,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000187,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000183,
+        "value": 0.0000201,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -251,6 +234,23 @@
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
         "value": 0.0000177,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000174,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -386,7 +386,7 @@
         "year": 2024,
         "works_count": 3,
         "oa_works_count": 3,
-        "cited_by_count": 57
+        "cited_by_count": 59
       },
       {
         "year": 2025,
@@ -414,7 +414,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5044930714",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -603,6 +603,28 @@
               "lineage": [
                 "https://openalex.org/I118347636"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4405291350",
+              "display_name": "Environmental Futures Research Institute",
+              "ror": "https://ror.org/03tc2xy08",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405293196",
+              "display_name": "Australian Research Centre for Human Evolution",
+              "ror": "https://ror.org/05v34n244",
+              "country_code": "AU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405293196"
+              ]
             }
           ],
           "countries": [
@@ -620,7 +642,9 @@
             {
               "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
               "institution_ids": [
-                "https://openalex.org/I11701301"
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350",
+                "https://openalex.org/I4405293196"
               ]
             },
             {
@@ -927,6 +951,28 @@
               "lineage": [
                 "https://openalex.org/I11701301"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4405291350",
+              "display_name": "Environmental Futures Research Institute",
+              "ror": "https://ror.org/03tc2xy08",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405293196",
+              "display_name": "Australian Research Centre for Human Evolution",
+              "ror": "https://ror.org/05v34n244",
+              "country_code": "AU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405293196"
+              ]
             }
           ],
           "countries": [
@@ -943,7 +989,9 @@
             {
               "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
               "institution_ids": [
-                "https://openalex.org/I11701301"
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350",
+                "https://openalex.org/I4405293196"
               ]
             }
           ]
@@ -1024,6 +1072,28 @@
               "lineage": [
                 "https://openalex.org/I4210107073"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4405291350",
+              "display_name": "Environmental Futures Research Institute",
+              "ror": "https://ror.org/03tc2xy08",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405293196",
+              "display_name": "Australian Research Centre for Human Evolution",
+              "ror": "https://ror.org/05v34n244",
+              "country_code": "AU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405293196"
+              ]
             }
           ],
           "countries": [
@@ -1042,7 +1112,9 @@
             {
               "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
               "institution_ids": [
-                "https://openalex.org/I11701301"
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350",
+                "https://openalex.org/I4405293196"
               ]
             },
             {
@@ -1931,7 +2003,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 9,
-      "institutions_distinct_count": 21,
+      "institutions_distinct_count": 23,
       "corresponding_author_ids": [
         "https://openalex.org/A5037966215",
         "https://openalex.org/A5087955542"
@@ -1948,13 +2020,13 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 53.2301,
+      "fwci": 53.6532,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 212,
+      "cited_by_count": 214,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99893131,
+        "value": 0.99893478,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2268,7 +2340,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 16,
+      "locations_count": 17,
       "locations": [
         {
           "id": "doi:10.1038/s41559-018-0518-2",
@@ -2565,6 +2637,35 @@
           "is_published": false,
           "raw_source_name": "Nature Ecology &amp; Evolution",
           "raw_type": "Journal article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc84d977-78f973e0-334a-4d4c-94fd-97995c798953",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/3851844",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:escidoc.org:escidoc:2574158",
@@ -2936,8 +3037,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2797614480.pdf",
@@ -3156,11 +3257,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 38
+          "cited_by_count": 39
         },
         {
           "year": 2020,
-          "cited_by_count": 25
+          "cited_by_count": 26
         },
         {
           "year": 2019,
@@ -3175,7 +3276,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3795,6 +3896,17 @@
               "lineage": [
                 "https://openalex.org/I11701301"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4405291350",
+              "display_name": "Environmental Futures Research Institute",
+              "ror": "https://ror.org/03tc2xy08",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350"
+              ]
             }
           ],
           "countries": [
@@ -3811,7 +3923,8 @@
             {
               "raw_affiliation_string": "Environmental Futures Research Institute, Nathan Campus, Griffith University, 170 Kessels Road, QLD 4111, Australia",
               "institution_ids": [
-                "https://openalex.org/I11701301"
+                "https://openalex.org/I11701301",
+                "https://openalex.org/I4405291350"
               ]
             }
           ]
@@ -4001,7 +4114,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5026745332"
       ],
@@ -4014,13 +4127,13 @@
         "value_usd": 3920
       },
       "apc_paid": null,
-      "fwci": 15.066,
+      "fwci": 14.9327,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 52,
+      "cited_by_count": 53,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98790975,
+        "value": 0.98770353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4629,11 +4742,11 @@
           "funder_display_name": "European Commission"
         },
         {
-          "id": "https://openalex.org/G2710629218",
-          "display_name": null,
+          "id": "https://openalex.org/G7350375456",
+          "display_name": "Climate Change and Hominin Evolution in the Arabian Desert: Life and Death at the Cross-roads of the Old World",
           "funder_award_id": "295719",
-          "funder_id": "https://openalex.org/F4320334678",
-          "funder_display_name": "European Research Council"
+          "funder_id": "https://openalex.org/F4320338352",
+          "funder_display_name": "FP7 Ideas: European Research Council"
         }
       ],
       "funders": [
@@ -4651,11 +4764,16 @@
           "id": "https://openalex.org/F4320334678",
           "display_name": "European Research Council",
           "ror": "https://ror.org/0472cxd90"
+        },
+        {
+          "id": "https://openalex.org/F4320338352",
+          "display_name": "FP7 Ideas: European Research Council",
+          "ror": "https://ror.org/0472cxd90"
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2399942965.pdf",
@@ -4865,7 +4983,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2019,
@@ -4884,7 +5002,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5546,13 +5664,13 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 9.282,
+      "fwci": 9.6846,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 46,
+      "cited_by_count": 47,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9740418,
+        "value": 0.97501128,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6175,11 +6293,11 @@
       "study_designs": [],
       "awards": [
         {
-          "id": "https://openalex.org/G3292515912",
-          "display_name": null,
-          "funder_award_id": "295719,",
-          "funder_id": "https://openalex.org/F4320338335",
-          "funder_display_name": "H2020 European Research Council"
+          "id": "https://openalex.org/G7350375456",
+          "display_name": "Climate Change and Hominin Evolution in the Arabian Desert: Life and Death at the Cross-roads of the Old World",
+          "funder_award_id": "295719",
+          "funder_id": "https://openalex.org/F4320338352",
+          "funder_display_name": "FP7 Ideas: European Research Council"
         }
       ],
       "funders": [
@@ -6187,11 +6305,16 @@
           "id": "https://openalex.org/F4320338335",
           "display_name": "H2020 European Research Council",
           "ror": "https://ror.org/0472cxd90"
+        },
+        {
+          "id": "https://openalex.org/F4320338352",
+          "display_name": "FP7 Ideas: European Research Council",
+          "ror": "https://ror.org/0472cxd90"
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2591900046.pdf",
@@ -6288,7 +6411,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2019,
@@ -6303,7 +6426,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2017-03-16T00:00:00"
     },
     {
@@ -6997,8 +7120,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -8230,8 +8353,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -9376,8 +9499,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -10668,8 +10791,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -11867,8 +11990,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -12911,8 +13034,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -13946,8 +14069,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -15251,8 +15374,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -16816,8 +16939,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405807404.pdf",
@@ -18123,8 +18246,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -19756,8 +19879,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -20565,8 +20688,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -21428,17 +21551,17 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -22491,8 +22614,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -23607,8 +23730,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -24876,8 +24999,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -26286,8 +26409,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -28975,8 +29098,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416430946.pdf",
@@ -29754,13 +29877,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1069,
+      "fwci": 2.0782,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74397187,
+        "value": 0.74122367,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30101,17 +30224,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.617900013923645,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.617900013923645
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30996,8 +31119,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31370,9 +31493,17 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3023665096"
+        "https://openalex.org/W3023665096",
+        "https://openalex.org/W7239028782"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -31534,13 +31665,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.7752,
+      "fwci": 4.7001,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91276102,
+        "value": 0.91039926,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31885,17 +32016,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32216,7 +32347,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -32743,8 +32874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33892,8 +34023,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34958,8 +35089,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36662,8 +36793,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -37285,8 +37416,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

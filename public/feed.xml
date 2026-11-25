@@ -4,8 +4,35 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 05:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:06:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Optimizing Mineral Exploration Workflows: A Quantitative Evaluation of the Agreement Between Handheld and Laboratory Geochemical and Petrophysical Instruments</title>
+      <link>https://doi.org/10.64589/juri/231589</link>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7238759265</guid>
+      <dc:creator>Farah Alajmi, Muhammad Hammad Malik</dc:creator>
+      <category>Mobile device</category>
+      <category>Mineral exploration</category>
+      <category>Workflow</category>
+      <category>Petrophysics</category>
+      <category>Homogeneous</category>
+      <description>Abstract: The criticality of portable analytical tools has gained traction with an increasing trend in mineral exploration projects globally. Handheld instruments have become integral to the rapid and efficient collection of geochemical and petrophysical data from field environments for such mineral exploration workflows. However, reservations regarding the results are exist. Although handheld instruments are faster, cheaper, and denser than laboratory-based techniques, concerns remain regarding their analytical reliability. Herein, we evaluated the concordance between several handheld and laboratory measurements by analyzing eight various homogeneous (pure minerals) and heterogeneous rock samples. The instruments used in our study included portable X-ray fluorescence (pXRF), laboratory-based XRF, and X-ray diffraction, portable permeability instrument TinyPerm 3, and conventional laboratory porosity measurement methods. Several simple statistical tools were used to compare the results. Although handheld tools work well for quick screening and spatial geochemical mapping of major minerals, they are not extremely accurate for minute details, particularly in the case of trace elements. However, these differences between handheld and laboratory results can also arise because of simple and common analytical issues, such as sample preparation, surface roughness, matrix effects, and detection limits. Therefore, the use of a hybrid analytical workflow that combines portable measurements with …&#10;Topics: Mobile device, Mineral exploration, Workflow, Petrophysics, Homogeneous&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Label-efficient carbonate microfacies classification with explainable self-supervised vision transformers</title>
+      <link>https://doi.org/10.1016/j.cageo.2026.106318</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7236609486</guid>
+      <dc:creator>Ardiansyah Ibnu Koeshidayatullah</dc:creator>
+      <dc:publisher>Computers &amp; Geosciences</dc:publisher>
+      <category>Geology</category>
+      <category>Carbonate</category>
+      <category>Transformer</category>
+      <category>Carbonate rock</category>
+      <category>Mining engineering</category>
+      <description>Topics: Geology, Carbonate, Transformer, Carbonate rock, Mining engineering&#10;Venue: Computers &amp; Geosciences&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Towards universally robust oil spill detection: A systematic remote sensing review on transferability, look-alikes, and real-time deployment</title>
       <link>https://doi.org/10.1016/j.marpolbul.2026.120586</link>
@@ -63,6 +90,20 @@
       <description>Abstract: Google Earth Engine extraction, ground-data quality control, Stage 1 (column-to-surface XGBoost) and Stage 2 (PyTorch LSTM) models, sealed 2026 forward test, sensitivity runs, figure and table scripts for the DUNE benchmark. Ground observations are not redistributed; see README.&#10;Topics: Remote sensing, Code (set theory), Table (database), Benchmark (surveying), Sensitivity (control systems)&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Benchmarking Pix2Geomodel against conventional baselines for bidirectional facies–property translation in a clastic reservoir</title>
+      <link>https://doi.org/10.1016/j.rineng.2026.114114</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7225785277</guid>
+      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Ibnu Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
+      <dc:publisher>Results in Engineering</dc:publisher>
+      <category>Benchmarking</category>
+      <category>Computer science</category>
+      <category>Translation (biology)</category>
+      <category>Artificial intelligence</category>
+      <category>Data mining</category>
+      <description>Abstract: Reservoir forecasts depend on facies–petrophysical relationships, yet evaluations of conditional generative adversarial networks (cGANs) can mistake memorization for inference when augmentations from one geomodel layer cross train–test boundaries. Baselines and property information inherent in facies labels are rarely quantified. We test Pix2Pix on six bidirectional facies–property tasks. Fifty-four layers of a seven-class, faulted Cretaceous Masila Basin reservoir model were split into contiguous depth blocks (36 training, 7 validation and 9 test; two buffer layers discarded); augmenting only training layers yielded 1,116 images. Each task used three seeds, three baselines, positional control, five-arm ablation and exact paired sign-permutation tests. Facies–property correlation ratios, the R² ceilings for facies-label-only property estimators, were 0.881 for clay volume (VCL), 0.715 for porosity and 0.213 for log₁₀ permeability; Pix2Pix reached the VCL and porosity ceilings but recovered only half the permeability ceiling. In forward modelling, it outperformed class-mean lookup, achieving R² values of 0.854 for VCL and 0.575 for porosity versus 0.696 and 0.146. Conversely, a one-dimensional Bayes classifier without spatial information outperformed Pix2Pix on all inverse tasks, including 95.6% versus 84.3% pixel accuracy for VCL-to-facies. Permeability remained hardest because facies labels contain little permeability information and omit connectivity, diagenesis and sub-fac…&#10;Topics: Benchmarking, Computer science, Translation (biology), Artificial intelligence, Data mining&#10;Venue: Results in Engineering&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>DUNE: models, predictor rasters, 1 km surface NO₂ maps and district series for the Gulf Cooperation Council</title>
       <link>https://doi.org/10.5281/zenodo.24145831</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
@@ -103,34 +144,6 @@
       <category>Confusion</category>
       <category>Classifier (UML)</category>
       <description>Abstract: Automated identification of benthic foraminifera has advanced through convolutional networks trained on expert-labelled image libraries, yet most systems use a single orientation per specimen and are rarely evaluated on individuals they have never seen. Taxonomists instead rotate a specimen and examine several faces before committing to a name. We present a taxonomically informed deep learning pipeline that encodes this practice: each specimen is imaged at six rotational positions at 60° intervals, each yielding an extended-depth-of-field composite and an animated-rotation frame. The reference catalogue comprises 50 benthic foraminiferal species from Saya de Malha Bank (Mascarene Plateau, Southwest Indian Ocean), represented by 140 complete specimens and 1,683 images. A ConvNeXt-Base classifier was trained with a genus-aware soft-target objective that penalises within-genus confusion less than cross-genus error; a single-stream multi-view model was compared with a dual-stream variant in which a specimen-level teacher is distilled into the single-view student. Whole individuals were partitioned, so the test tier holds 33 individuals of 33 species never seen in training. On these the single-stream model reached image-level top 1 accuracy 0.876 (95% CI 0.840–0.905; n = 396), genus-level accuracy 0.907 and specimen-level accuracy 0.909 when the twelve images of a shell (six views in two modalities) are pooled by majority vote; the dual-stream model reached 0.854 and 0.909. With t…&#10;Topics: Artificial intelligence, Foraminifera, Benthic zone, Confusion, Classifier (UML)&#10;Venue: Artificial Intelligence in Geosciences&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Benchmarking Pix2Geomodel Against Conventional Baselines for Bidirectional Facies–Property Translation in a Clastic Reservoir</title>
-      <link>https://doi.org/10.1016/j.rineng.2026.114114</link>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7225785277</guid>
-      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Ibnu Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
-      <dc:publisher>Results in Engineering</dc:publisher>
-      <category>Benchmarking</category>
-      <category>Computer science</category>
-      <category>Translation (biology)</category>
-      <category>Artificial intelligence</category>
-      <category>Data mining</category>
-      <description>Abstract: Reservoir forecasts depend on facies–petrophysical relationships, yet evaluations of conditional generative adversarial networks (cGANs) can mistake memorization for inference when augmentations from one geomodel layer cross train–test boundaries. Baselines and property information inherent in facies labels are rarely quantified. We test Pix2Pix on six bidirectional facies–property tasks. Fifty-four layers of a seven-class, faulted Cretaceous Masila Basin reservoir model were split into contiguous depth blocks (36 training, 7 validation and 9 test; two buffer layers discarded); augmenting only training layers yielded 1,116 images. Each task used three seeds, three baselines, positional control, five-arm ablation and exact paired sign-permutation tests. Facies–property correlation ratios, the R² ceilings for facies-label-only property estimators, were 0.881 for clay volume (VCL), 0.715 for porosity and 0.213 for log₁₀ permeability; Pix2Pix reached the VCL and porosity ceilings but recovered only half the permeability ceiling. In forward modelling, it outperformed class-mean lookup, achieving R² values of 0.854 for VCL and 0.575 for porosity versus 0.696 and 0.146. Conversely, a one-dimensional Bayes classifier without spatial information outperformed Pix2Pix on all inverse tasks, including 95.6% versus 84.3% pixel accuracy for VCL-to-facies. Permeability remained hardest because facies labels contain little permeability information and omit connectivity, diagenesis and sub-fac…&#10;Topics: Benchmarking, Computer science, Translation (biology), Artificial intelligence, Data mining&#10;Venue: Results in Engineering&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Label-Efficient Carbonate Microfacies Classification with Explainable Self-Supervised Vision Transformers</title>
-      <link>https://doi.org/10.1016/j.cageo.2026.106318</link>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7236609486</guid>
-      <dc:creator>Ardiansyah Ibnu Koeshidayatullah</dc:creator>
-      <dc:publisher>Computers &amp; Geosciences</dc:publisher>
-      <category>Geology</category>
-      <category>Carbonate</category>
-      <category>Transformer</category>
-      <category>Carbonate rock</category>
-      <category>Mining engineering</category>
-      <description>Topics: Geology, Carbonate, Transformer, Carbonate rock, Mining engineering&#10;Venue: Computers &amp; Geosciences&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Microbial–mineral coupling in laminated sabkha sediments at millimetre resolution</title>
@@ -1146,13 +1159,13 @@
       <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7163184808</guid>
       <dc:creator>Christian Tantardini, Fernando Alonso-Marroquín, Abdullah Alqubalee, Eduardo Garzanti</dc:creator>
-      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <dc:publisher>arXiv</dc:publisher>
       <category>Homogenization (climate)</category>
       <category>Sizing</category>
       <category>Pixel</category>
       <category>Residual</category>
       <category>Workflow</category>
-      <description>Abstract: Representative elementary areas and volumes provide the scale bridge between resolved granular microstructure and continuum-scale material properties, yet they are still commonly selected from the apparent stabilization of a single scalar observable. Such plateaus can be false indicators of representativeness when statistically incompatible regions are averaged together or when long-wavelength structural correlations remain unresolved. We introduce a general representative-support framework for granular materials based on three sequential requirements: statistical admissibility of the sampled domain, persistent convergence of the apparent field mean and the low-wavenumber covariance spectrum, and validation against independent effective properties. The concept is tested on seven large-area backscattered-electron images of Arabian dune sands and mineral-resolved QEMSCAN maps. The structure-only criterion identifies a representative elementary area of $1536$ pixels, corresponding to approximately $2.01~\mathrm{mm}$. Without property-specific fitting or recalibration, the same physical scale transferred to the QEMSCAN grid $(\approx 2.04~\mathrm{mm})$ coincides with the onset of weak size dependence in apparent thermal conductivity, elastic stiffness, and directional Young&apos;s moduli. Thus, the representative scale inferred from long-wavelength granular organization independently predicts the convergence of distinct constitutive responses. The results show that representative supp…&#10;Topics: Homogenization (climate), Sizing, Pixel, Residual, Workflow&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Abstract: Representative elementary areas and volumes provide the scale bridge between resolved granular microstructure and continuum-scale material properties, yet they are still commonly selected from the apparent stabilization of a single scalar observable. Such plateaus can be false indicators of representativeness when statistically incompatible regions are averaged together or when long-wavelength structural correlations remain unresolved. We introduce a general representative-support framework for granular materials based on three sequential requirements: statistical admissibility of the sampled domain, persistent convergence of the apparent field mean and the low-wavenumber covariance spectrum, and validation against independent effective properties. The concept is tested on seven large-area backscattered-electron images of Arabian dune sands and mineral-resolved QEMSCAN maps. The structure-only criterion identifies a representative elementary area of $1536$ pixels, corresponding to approximately $2.01~\mathrm{mm}$. Without property-specific fitting or recalibration, the same physical scale transferred to the QEMSCAN grid $(\approx 2.04~\mathrm{mm})$ coincides with the onset of weak size dependence in apparent thermal conductivity, elastic stiffness, and directional Young&apos;s moduli. Thus, the representative scale inferred from long-wavelength granular organization independently predicts the convergence of distinct constitutive responses. The results show that representative supp…&#10;Topics: Homogenization (climate), Sizing, Pixel, Residual, Workflow&#10;Venue: arXiv&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Origin of rift-induced sediment-hosted barite mineralization in the Early Miocene Musayr Formation, Midyan Basin, northwestern Saudi Arabia</title>
@@ -1342,13 +1355,13 @@
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7160381236</guid>
       <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Ibnu Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
-      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <dc:publisher>arXiv</dc:publisher>
       <category>Facies</category>
       <category>Petrophysics</category>
       <category>Geology</category>
       <category>Robustness (evolution)</category>
       <category>Pixel</category>
-      <description>Abstract: Reservoir geomodeling is central to subsurface characterization, but it remains challenging because conditioning data are sparse, geological heterogeneity is strong, and conventional geostatistical workflows often struggle to capture nonlinear relationships between facies and petrophysical properties. This study evaluates the robustness and transferability of Pix2Geomodel on a different and more complex reservoir dataset with reduced vertical support. The new case includes a heterogeneous reservoir-quality classification and only 54 retained layers, providing a stricter test of whether Pix2Pix-based image-to-image translation can preserve facies-property relationships under constrained data conditions. Facies, porosity, permeability, and clay volume (VCL) were extracted from a reference reservoir model, exported as aligned two-dimensional slices, augmented using consistent geometric transformations, and assembled into paired image datasets. Six bidirectional tasks were evaluated: facies to porosity, facies to permeability, facies to VCL, porosity to facies, permeability to facies, and VCL to facies. The Pix2Pix model, consisting of a U-Net generator and PatchGAN discriminator, was evaluated using image-based metrics, visual comparison, and variogram-based spatial-continuity validation. Results show that the model preserves the dominant geological architecture and main spatial-continuity trends. Facies to porosity achieved the highest pixel accuracy and frequency-weighted inte…&#10;Topics: Facies, Petrophysics, Geology, Robustness (evolution), Pixel&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 2</description>
+      <description>Abstract: Reservoir geomodeling is central to subsurface characterization, but it remains challenging because conditioning data are sparse, geological heterogeneity is strong, and conventional geostatistical workflows often struggle to capture nonlinear relationships between facies and petrophysical properties. This study evaluates the robustness and transferability of Pix2Geomodel on a different and more complex reservoir dataset with reduced vertical support. The new case includes a heterogeneous reservoir-quality classification and only 54 retained layers, providing a stricter test of whether Pix2Pix-based image-to-image translation can preserve facies-property relationships under constrained data conditions. Facies, porosity, permeability, and clay volume (VCL) were extracted from a reference reservoir model, exported as aligned two-dimensional slices, augmented using consistent geometric transformations, and assembled into paired image datasets. Six bidirectional tasks were evaluated: facies to porosity, facies to permeability, facies to VCL, porosity to facies, permeability to facies, and VCL to facies. The Pix2Pix model, consisting of a U-Net generator and PatchGAN discriminator, was evaluated using image-based metrics, visual comparison, and variogram-based spatial-continuity validation. Results show that the model preserves the dominant geological architecture and main spatial-continuity trends. Facies to porosity achieved the highest pixel accuracy and frequency-weighted inte…&#10;Topics: Facies, Petrophysics, Geology, Robustness (evolution), Pixel&#10;Venue: arXiv&#10;Year: 2026&#10;Citations: 2</description>
     </item>
     <item>
       <title>Reservoir property image slices from the Groningen gas field for image translation and segmentation</title>
@@ -1356,13 +1369,13 @@
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7160389428</guid>
       <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Ibnu Koeshidayatullah, SanLinn I. Kaka</dc:creator>
-      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <dc:publisher>arXiv</dc:publisher>
       <category>Workflow</category>
       <category>Computer science</category>
       <category>Benchmarking</category>
       <category>Image (mathematics)</category>
       <category>Software</category>
-      <description>Abstract: Reservoir characterization workflows increasingly rely on image-based and machine-learning/deep learning or even generative AI approaches, but openly available geological image datasets suitable for reproducible benchmarking remain limited. Here we describe a high-resolution dataset of reservoir-property image slices derived from the Groningen static geological model. The dataset contains aligned two-dimensional PNG images representing facies, porosity, permeability, and water saturation, generated from three-dimensional reservoir grids and prepared for downstream visualization, segmentation, and image-to-image translation tasks. In addition to the deposited original image corpus, we provide an archived software workflow for reproducing augmentation, mask generation, paired-image construction, and example baseline experiments. The resource is designed to support benchmarking of geological image analysis methods and the study of cross-domain relationships among reservoir properties. By separating the fixed image dataset from the reproducible processing workflow, this work provides a transparent foundation for reuse in geoscience, reservoir modeling, and machine-learning applications.&#10;Topics: Workflow, Computer science, Benchmarking, Image (mathematics), Software&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Abstract: Reservoir characterization workflows increasingly rely on image-based and machine-learning/deep learning or even generative AI approaches, but openly available geological image datasets suitable for reproducible benchmarking remain limited. Here we describe a high-resolution dataset of reservoir-property image slices derived from the Groningen static geological model. The dataset contains aligned two-dimensional PNG images representing facies, porosity, permeability, and water saturation, generated from three-dimensional reservoir grids and prepared for downstream visualization, segmentation, and image-to-image translation tasks. In addition to the deposited original image corpus, we provide an archived software workflow for reproducing augmentation, mask generation, paired-image construction, and example baseline experiments. The resource is designed to support benchmarking of geological image analysis methods and the study of cross-domain relationships among reservoir properties. By separating the fixed image dataset from the reproducible processing workflow, this work provides a transparent foundation for reuse in geoscience, reservoir modeling, and machine-learning applications.&#10;Topics: Workflow, Computer science, Benchmarking, Image (mathematics), Software&#10;Venue: arXiv&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Early Devonian trace fossils from a marginal-marine deltaic setting of the Rhenish Slate Mountains (SW Germany)</title>
@@ -1391,20 +1404,6 @@
       <category>Systems engineering</category>
       <category>Environmental science</category>
       <description>Abstract: This study introduces the Integrated Model Coherence Index (IMCI), a novel conceptual framework for quantifying the reliability of multi-method subsurface geoscientific models. While joint inversion techniques focus on identifying a best-fit model that minimizes global error, they often show disagreements between independent datasets. The IMCI addresses this limitation by focusing on interpretational convergence, measuring how different data streams (geological/remote sensing, geophysical, and geochemical/borehole) predict the same subsurface properties, thereby transforming qualitative, multidisciplinary observations into a quantitative, risk-based metric. The output is a 3D confidence cube, in which each voxel is assigned a normalized reliability score. High-confidence zones indicate mutual reinforcement between data streams, while low-confidence areas highlight ambiguity. This can guide targeted data acquisition and help de-risk exploration in fields such as natural resource exploration and management, as well as hazard assessment.&#10;Topics: Multidisciplinary approach, Computer science, Remote sensing, Systems engineering, Environmental science&#10;Venue: MethodsX&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>REE fractionation and supergene enrichment in the laterite of the Oman mountains: geochemical and environmental implications</title>
-      <link>https://doi.org/10.18814/epiiugs/2026/026009</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7160132457</guid>
-      <dc:creator>Farhan Siddhiqui, Salah Al‐Khirbash, Khadija Semhi, Mohammed Muqtada Khan, Hafzan Eva Mansor, Abdulrahman  Kayode Shehu</dc:creator>
-      <dc:publisher>Episodes</dc:publisher>
-      <category>Laterite</category>
-      <category>Supergene (geology)</category>
-      <category>Geology</category>
-      <category>Fractionation</category>
-      <category>Geochemistry</category>
-      <description>Abstract: REE lateritization is the main pedogenetic process in tropical to subtropical conditions, where the extent of weathering plays a crucial role in the redistribution and accumulation of REEs throughout different soil layers. This study investigated the remobilization of REEs in laterite profiles developed over harzburgite protoliths (northern profiles) and layered gabbro (southern profiles) of the Semail ophiolite in the Oman Mountains. The ΣREE content of the laterite over the harzburgite protolith (350 μg/g) is much lower than that of the layered gabbro-derived laterite (798 μg/g). Oxide-REE correlations suggest that clay minerals such as montmorillonite and kaolinite, along with Fe‒Mn oxides, are likely the primary hosts for REEs. The Ce/Ce* values (0.08–1.04 in harzburgite and 0.75–1.1 in layered gabbro) indicate a slightly higher degree of oxidation during the lateritization of the layered gabbro. Moreover, the Eu/Eu* ratios (0.86–4.06 in harzburgite and 0.33–1.29 in layered gabbro) reflect reductive conditions during the lateritization of the harzburgite protolith. The IOL and UMIA values were used to assess weathering stages and paleoclimate conditions during lateralization. The study concluded that weathering in both the northern and southern profiles occurred under different climates, transitioning from cold and dry in the protolith and oxide horizons to warm in the clay horizons, whereas a hot and humid climate prevailed during saprolite formation. Although detailed s…&#10;Topics: Laterite, Supergene (geology), Geology, Fractionation, Geochemistry&#10;Venue: Episodes&#10;Year: 2026&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>

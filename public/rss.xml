@@ -4,8 +4,25 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 05:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:06:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Optimizing Mineral Exploration Workflows: A Quantitative Evaluation of the Agreement Between Handheld and Laboratory Geochemical and Petrophysical Instruments</title>
+      <link>https://doi.org/10.64589/juri/231589</link>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7238759265</guid>
+      <dc:creator>Farah Alajmi; Muhammad Hammad Malik</dc:creator>
+      <description>Authors: Farah Alajmi; Muhammad Hammad Malik | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.64589/juri/231589 | OpenAlex: https://openalex.org/W7238759265</description>
+    </item>
+    <item>
+      <title>Label-efficient carbonate microfacies classification with explainable self-supervised vision transformers</title>
+      <link>https://doi.org/10.1016/j.cageo.2026.106318</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7236609486</guid>
+      <dc:creator>Ardiansyah Ibnu Koeshidayatullah</dc:creator>
+      <dc:publisher>Computers &amp; Geosciences</dc:publisher>
+      <description>Authors: Ardiansyah Ibnu Koeshidayatullah | Venue: Computers &amp; Geosciences | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.cageo.2026.106318 | OpenAlex: https://openalex.org/W7236609486</description>
+    </item>
     <item>
       <title>Towards universally robust oil spill detection: A systematic remote sensing review on transferability, look-alikes, and real-time deployment</title>
       <link>https://doi.org/10.1016/j.marpolbul.2026.120586</link>
@@ -43,6 +60,15 @@
       <description>Authors: Shahadat Baser; Bassam Tawabini; Muhammad Bilal; Ardiansyah Ibnu Koeshidayatullah | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.24090322 | OpenAlex: https://openalex.org/W7225649364</description>
     </item>
     <item>
+      <title>Benchmarking Pix2Geomodel against conventional baselines for bidirectional facies–property translation in a clastic reservoir</title>
+      <link>https://doi.org/10.1016/j.rineng.2026.114114</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7225785277</guid>
+      <dc:creator>Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; Sherif Mahmoud Hanafy; SanLinn I. Kaka</dc:creator>
+      <dc:publisher>Results in Engineering</dc:publisher>
+      <description>Authors: Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; Sherif Mahmoud Hanafy; SanLinn I. Kaka | Venue: Results in Engineering | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.rineng.2026.114114 | OpenAlex: https://openalex.org/W7225785277</description>
+    </item>
+    <item>
       <title>DUNE: models, predictor rasters, 1 km surface NO₂ maps and district series for the Gulf Cooperation Council</title>
       <link>https://doi.org/10.5281/zenodo.24145831</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
@@ -68,24 +94,6 @@
       <dc:creator>Abduljamiu Olalekan Amao; Asmaa Korin; Farouq Muhammad Aliyu; Khalid A. Al-Ramadan; Michael A. Kaminski; John J. G. Reijmer</dc:creator>
       <dc:publisher>Artificial Intelligence in Geosciences</dc:publisher>
       <description>Authors: Abduljamiu Olalekan Amao; Asmaa Korin; Farouq Muhammad Aliyu; Khalid A. Al-Ramadan; Michael A. Kaminski; John J. G. Reijmer | Venue: Artificial Intelligence in Geosciences | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.aiig.2026.100298 | OpenAlex: https://openalex.org/W7237929803</description>
-    </item>
-    <item>
-      <title>Benchmarking Pix2Geomodel Against Conventional Baselines for Bidirectional Facies–Property Translation in a Clastic Reservoir</title>
-      <link>https://doi.org/10.1016/j.rineng.2026.114114</link>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7225785277</guid>
-      <dc:creator>Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; Sherif Mahmoud Hanafy; SanLinn I. Kaka</dc:creator>
-      <dc:publisher>Results in Engineering</dc:publisher>
-      <description>Authors: Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; Sherif Mahmoud Hanafy; SanLinn I. Kaka | Venue: Results in Engineering | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.rineng.2026.114114 | OpenAlex: https://openalex.org/W7225785277</description>
-    </item>
-    <item>
-      <title>Label-Efficient Carbonate Microfacies Classification with Explainable Self-Supervised Vision Transformers</title>
-      <link>https://doi.org/10.1016/j.cageo.2026.106318</link>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7236609486</guid>
-      <dc:creator>Ardiansyah Ibnu Koeshidayatullah</dc:creator>
-      <dc:publisher>Computers &amp; Geosciences</dc:publisher>
-      <description>Authors: Ardiansyah Ibnu Koeshidayatullah | Venue: Computers &amp; Geosciences | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.cageo.2026.106318 | OpenAlex: https://openalex.org/W7236609486</description>
     </item>
     <item>
       <title>Microbial–mineral coupling in laminated sabkha sediments at millimetre resolution</title>
@@ -741,8 +749,8 @@
       <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7163184808</guid>
       <dc:creator>Christian Tantardini; Fernando Alonso-Marroquín; Abdullah Alqubalee; Eduardo Garzanti</dc:creator>
-      <dc:publisher>arXiv (Cornell University)</dc:publisher>
-      <description>Authors: Christian Tantardini; Fernando Alonso-Marroquín; Abdullah Alqubalee; Eduardo Garzanti | Venue: arXiv (Cornell University) | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.48550/arxiv.2606.01248 | OpenAlex: https://openalex.org/W7163184808</description>
+      <dc:publisher>arXiv</dc:publisher>
+      <description>Authors: Christian Tantardini; Fernando Alonso-Marroquín; Abdullah Alqubalee; Eduardo Garzanti | Venue: arXiv | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.48550/arxiv.2606.01248 | OpenAlex: https://openalex.org/W7163184808</description>
     </item>
     <item>
       <title>Origin of rift-induced sediment-hosted barite mineralization in the Early Miocene Musayr Formation, Midyan Basin, northwestern Saudi Arabia</title>
@@ -867,8 +875,8 @@
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7160381236</guid>
       <dc:creator>Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; Sherif Mahmoud Hanafy; SanLinn I. Kaka</dc:creator>
-      <dc:publisher>arXiv (Cornell University)</dc:publisher>
-      <description>Authors: Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; Sherif Mahmoud Hanafy; SanLinn I. Kaka | Venue: arXiv (Cornell University) | Year: 2026 | Citations: 2 | DOI: https://doi.org/10.48550/arxiv.2605.03919 | OpenAlex: https://openalex.org/W7160381236</description>
+      <dc:publisher>arXiv</dc:publisher>
+      <description>Authors: Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; Sherif Mahmoud Hanafy; SanLinn I. Kaka | Venue: arXiv | Year: 2026 | Citations: 2 | DOI: https://doi.org/10.48550/arxiv.2605.03919 | OpenAlex: https://openalex.org/W7160381236</description>
     </item>
     <item>
       <title>Reservoir property image slices from the Groningen gas field for image translation and segmentation</title>
@@ -876,8 +884,8 @@
       <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7160389428</guid>
       <dc:creator>Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; SanLinn I. Kaka</dc:creator>
-      <dc:publisher>arXiv (Cornell University)</dc:publisher>
-      <description>Authors: Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; SanLinn I. Kaka | Venue: arXiv (Cornell University) | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.48550/arxiv.2605.03942 | OpenAlex: https://openalex.org/W7160389428</description>
+      <dc:publisher>arXiv</dc:publisher>
+      <description>Authors: Abdulrahman Al‐Fakih; Nabil Sariah; Ardiansyah Ibnu Koeshidayatullah; SanLinn I. Kaka | Venue: arXiv | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.48550/arxiv.2605.03942 | OpenAlex: https://openalex.org/W7160389428</description>
     </item>
     <item>
       <title>Early Devonian trace fossils from a marginal-marine deltaic setting of the Rhenish Slate Mountains (SW Germany)</title>
@@ -896,15 +904,6 @@
       <dc:creator>Konstantinos Chavanidis; Israa S. Abu‐Mahfouz</dc:creator>
       <dc:publisher>MethodsX</dc:publisher>
       <description>Authors: Konstantinos Chavanidis; Israa S. Abu‐Mahfouz | Venue: MethodsX | Year: 2026 | Citations: 0 | DOI: https://doi.org/10.1016/j.mex.2026.103934 | OpenAlex: https://openalex.org/W7160093396</description>
-    </item>
-    <item>
-      <title>REE fractionation and supergene enrichment in the laterite of the Oman mountains: geochemical and environmental implications</title>
-      <link>https://doi.org/10.18814/epiiugs/2026/026009</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7160132457</guid>
-      <dc:creator>Farhan Siddhiqui; Salah Al‐Khirbash; Khadija Semhi; Mohammed Muqtada Khan; Hafzan Eva Mansor; Abdulrahman  Kayode Shehu</dc:creator>
-      <dc:publisher>Episodes</dc:publisher>
-      <description>Authors: Farhan Siddhiqui; Salah Al‐Khirbash; Khadija Semhi; Mohammed Muqtada Khan; Hafzan Eva Mansor; Abdulrahman  Kayode Shehu | Venue: Episodes | Year: 2026 | Citations: 1 | DOI: https://doi.org/10.18814/epiiugs/2026/026009 | OpenAlex: https://openalex.org/W7160132457</description>
     </item>
   </channel>
 </rss>

@@ -35,7 +35,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 95,
-    "cited_by_count": 1625,
+    "cited_by_count": 1626,
     "summary_stats": {
       "2yr_mean_citedness": 2.225806451612903,
       "h_index": 22,
@@ -147,7 +147,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 61,
+        "count": 60,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -164,7 +164,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "count": 55,
+        "count": 57,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -181,7 +181,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 43,
+        "count": 44,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -234,7 +234,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0001023,
+        "value": 0.000106,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -251,7 +251,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001022,
+        "value": 0.0001046,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -268,7 +268,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.000076,
+        "value": 0.0000747,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -285,7 +285,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000499,
+        "value": 0.00005,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -456,7 +456,7 @@
         "year": 2022,
         "works_count": 9,
         "oa_works_count": 5,
-        "cited_by_count": 147
+        "cited_by_count": 148
       },
       {
         "year": 2023,
@@ -513,7 +513,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5044806143",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1060,13 +1060,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.8368,
+      "fwci": 4.766,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 220,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93502218,
+        "value": 0.93391179,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1315,7 +1315,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2007.07.012",
@@ -1360,6 +1360,35 @@
           "is_published": true,
           "raw_source_name": "Marine and Petroleum Geology",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc7d82a7-bb8f4e1d-5227-4328-813a-b170042ce5ff",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/4950024",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:cris.unibo.it:11585/68656",
@@ -1580,7 +1609,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1892,13 +1921,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.896,
+      "fwci": 2.2585,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 99,
+      "cited_by_count": 100,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82272061,
+        "value": 0.84567762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2429,7 +2458,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2793,13 +2822,13 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 4.1276,
+      "fwci": 4.1205,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 98,
+      "cited_by_count": 99,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93766431,
+        "value": 0.93762951,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3267,7 +3296,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -3322,7 +3351,606 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2059979563",
+      "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
+      "title": "Depositional environments and sequence stratigraphy of paralic glacial, paraglacial and postglacial Upper Ordovician siliciclastic deposits in the Murzuq Basin, SW Libya",
+      "display_name": "Depositional environments and sequence stratigraphy of paralic glacial, paraglacial and postglacial Upper Ordovician siliciclastic deposits in the Murzuq Basin, SW Libya",
+      "alternate_titles": [],
+      "publication_year": 2005,
+      "publication_date": "2005-04-13",
+      "ids": {
+        "openalex": "https://openalex.org/W2059979563",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
+        "mag": "2059979563"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.sedgeo.2005.02.006",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S85417211",
+          "display_name": "Sedimentary Geology",
+          "issn_l": "0037-0738",
+          "issn": [
+            "0037-0738",
+            "1879-0968"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sedimentary Geology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2059979563"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5044806143",
+            "display_name": "Mohamed A. K. El‐Ghali",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7850-3471",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7850-3471"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I123387679",
+              "display_name": "Uppsala University",
+              "ror": "https://ror.org/048a87296",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I123387679"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Mohamed Ali Kalefa El-ghali",
+          "raw_affiliation_strings": [
+            "Department of Earth Science, Uppsala University, Villavägen 16, SE 75236 Uppsala, Sweden"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science, Uppsala University, Villavägen 16, SE 75236 Uppsala, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I123387679"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044806143"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I123387679"
+      ],
+      "apc_list": {
+        "value": 3160,
+        "currency": "USD",
+        "value_usd": 3160
+      },
+      "apc_paid": null,
+      "fwci": 4.952,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 88,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.93867638,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "177",
+        "issue": "3-4",
+        "first_page": "145",
+        "last_page": "173"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.0008999999845400453,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.0005000000237487257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/glacial-deposits",
+          "display_name": "glacial deposits",
+          "score": 0.8320000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/postglacial-deposits",
+          "display_name": "postglacial deposits",
+          "score": 0.9570000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-ordovician",
+          "display_name": "Upper Ordovician",
+          "score": 0.8799999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.8489999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/relative-sea-level-change",
+          "display_name": "relative sea-level change",
+          "score": 0.7580000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/glacial-advance-and-retreat",
+          "display_name": "glacial advance and retreat",
+          "score": 0.7689999938011169
+        },
+        {
+          "id": "https://openalex.org/keywords/transgressive-systems-tract",
+          "display_name": "transgressive systems tract",
+          "score": 0.6959999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/highstand-systems-tract",
+          "display_name": "highstand systems tract",
+          "score": 0.9890000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/lowstand-systems-tract",
+          "display_name": "lowstand systems tract",
+          "score": 0.9850000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/deltaic-deposits",
+          "display_name": "deltaic deposits",
+          "score": 0.593999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/ice-rafted-debris",
+          "display_name": "ice-rafted debris",
+          "score": 0.7450000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/murzuq-basin",
+          "display_name": "Murzuq Basin",
+          "score": 0.7239999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-shelf",
+          "display_name": "continental shelf",
+          "score": 0.4729999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.46799999475479126
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment-starvation",
+          "display_name": "sediment starvation",
+          "score": 0.4169999957084656
+        },
+        {
+          "id": "https://openalex.org/keywords/estuarine-sediments",
+          "display_name": "estuarine sediments",
+          "score": 0.9110000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/shoreface-sandstones",
+          "display_name": "shoreface sandstones",
+          "score": 0.5889999866485596
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9427198171615601
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.8729956150054932
+        },
+        {
+          "id": "https://openalex.org/C15739521",
+          "wikidata": "https://www.wikidata.org/wiki/Q602963",
+          "display_name": "Glacial period",
+          "level": 2,
+          "score": 0.6960267424583435
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.6473894715309143
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6108867526054382
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.6080548167228699
+        },
+        {
+          "id": "https://openalex.org/C74501621",
+          "wikidata": "https://www.wikidata.org/wiki/Q125465",
+          "display_name": "Sea level",
+          "level": 2,
+          "score": 0.5615174770355225
+        },
+        {
+          "id": "https://openalex.org/C100834320",
+          "wikidata": "https://www.wikidata.org/wiki/Q35666",
+          "display_name": "Glacier",
+          "level": 2,
+          "score": 0.5053649544715881
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.502208948135376
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.4553722143173218
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.408380925655365
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.30721592903137207
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.14145681262016296
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.sedgeo.2005.02.006",
+          "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S85417211",
+            "display_name": "Sedimentary Geology",
+            "issn_l": "0037-0738",
+            "issn": [
+              "0037-0738",
+              "1879-0968"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sedimentary Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 50,
+      "referenced_works": [
+        "https://openalex.org/W12007435",
+        "https://openalex.org/W101633874",
+        "https://openalex.org/W106385353",
+        "https://openalex.org/W611551760",
+        "https://openalex.org/W647015952",
+        "https://openalex.org/W1558464430",
+        "https://openalex.org/W1573350472",
+        "https://openalex.org/W1584140374",
+        "https://openalex.org/W1590447055",
+        "https://openalex.org/W1801703600",
+        "https://openalex.org/W1808331107",
+        "https://openalex.org/W1965339743",
+        "https://openalex.org/W1968172155",
+        "https://openalex.org/W1991737172",
+        "https://openalex.org/W2010608057",
+        "https://openalex.org/W2019663851",
+        "https://openalex.org/W2034716029",
+        "https://openalex.org/W2049415673",
+        "https://openalex.org/W2049550554",
+        "https://openalex.org/W2064652632",
+        "https://openalex.org/W2068717252",
+        "https://openalex.org/W2075503271",
+        "https://openalex.org/W2081330066",
+        "https://openalex.org/W2090158398",
+        "https://openalex.org/W2101837316",
+        "https://openalex.org/W2105021764",
+        "https://openalex.org/W2116786934",
+        "https://openalex.org/W2119050110",
+        "https://openalex.org/W2121515683",
+        "https://openalex.org/W2122186347",
+        "https://openalex.org/W2124500082",
+        "https://openalex.org/W2136493303",
+        "https://openalex.org/W2141713510",
+        "https://openalex.org/W2144414810",
+        "https://openalex.org/W2147576281",
+        "https://openalex.org/W2153222505",
+        "https://openalex.org/W2169031982",
+        "https://openalex.org/W2260134824",
+        "https://openalex.org/W2297192698",
+        "https://openalex.org/W2492954051",
+        "https://openalex.org/W2496379229",
+        "https://openalex.org/W2741842780",
+        "https://openalex.org/W2974856691",
+        "https://openalex.org/W3003809206",
+        "https://openalex.org/W3036772048",
+        "https://openalex.org/W3086846549",
+        "https://openalex.org/W4205129767",
+        "https://openalex.org/W4243966085",
+        "https://openalex.org/W4246157246",
+        "https://openalex.org/W4301799549"
+      ],
+      "related_works": [
+        "https://openalex.org/W2065969061",
+        "https://openalex.org/W2036218657",
+        "https://openalex.org/W2889759719",
+        "https://openalex.org/W106385353",
+        "https://openalex.org/W6941418973",
+        "https://openalex.org/W2079472735",
+        "https://openalex.org/W2006803785",
+        "https://openalex.org/W1999786020",
+        "https://openalex.org/W2029859727",
+        "https://openalex.org/W12007435"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2059979563",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 7
+        }
+      ],
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3754,13 +4382,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 3.7424,
+      "fwci": 3.7285,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 87,
+      "cited_by_count": 86,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92221543,
+        "value": 0.92170022,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4255,7 +4883,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2016,
@@ -4274,606 +4902,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2059979563",
-      "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
-      "title": "Depositional environments and sequence stratigraphy of paralic glacial, paraglacial and postglacial Upper Ordovician siliciclastic deposits in the Murzuq Basin, SW Libya",
-      "display_name": "Depositional environments and sequence stratigraphy of paralic glacial, paraglacial and postglacial Upper Ordovician siliciclastic deposits in the Murzuq Basin, SW Libya",
-      "alternate_titles": [],
-      "publication_year": 2005,
-      "publication_date": "2005-04-13",
-      "ids": {
-        "openalex": "https://openalex.org/W2059979563",
-        "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
-        "mag": "2059979563"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.sedgeo.2005.02.006",
-        "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S85417211",
-          "display_name": "Sedimentary Geology",
-          "issn_l": "0037-0738",
-          "issn": [
-            "0037-0738",
-            "1879-0968"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Sedimentary Geology",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2059979563"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7850-3471",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7850-3471"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I123387679",
-              "display_name": "Uppsala University",
-              "ror": "https://ror.org/048a87296",
-              "country_code": "SE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I123387679"
-              ]
-            }
-          ],
-          "countries": [
-            "SE"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Mohamed Ali Kalefa El-ghali",
-          "raw_affiliation_strings": [
-            "Department of Earth Science, Uppsala University, Villavägen 16, SE 75236 Uppsala, Sweden"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Science, Uppsala University, Villavägen 16, SE 75236 Uppsala, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I123387679"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5044806143"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I123387679"
-      ],
-      "apc_list": {
-        "value": 3160,
-        "currency": "USD",
-        "value_usd": 3160
-      },
-      "apc_paid": null,
-      "fwci": 5.002,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 87,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.9400535,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "177",
-        "issue": "3-4",
-        "first_page": "145",
-        "last_page": "173"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9980000257492065,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9980000257492065,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.0008999999845400453,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.0005000000237487257,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/glacial-deposits",
-          "display_name": "glacial deposits",
-          "score": 0.8320000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/postglacial-deposits",
-          "display_name": "postglacial deposits",
-          "score": 0.9570000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-ordovician",
-          "display_name": "Upper Ordovician",
-          "score": 0.8799999952316284
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "sequence stratigraphy",
-          "score": 0.8489999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/relative-sea-level-change",
-          "display_name": "relative sea-level change",
-          "score": 0.7580000162124634
-        },
-        {
-          "id": "https://openalex.org/keywords/glacial-advance-and-retreat",
-          "display_name": "glacial advance and retreat",
-          "score": 0.7689999938011169
-        },
-        {
-          "id": "https://openalex.org/keywords/transgressive-systems-tract",
-          "display_name": "transgressive systems tract",
-          "score": 0.6959999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/highstand-systems-tract",
-          "display_name": "highstand systems tract",
-          "score": 0.9890000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/lowstand-systems-tract",
-          "display_name": "lowstand systems tract",
-          "score": 0.9850000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/deltaic-deposits",
-          "display_name": "deltaic deposits",
-          "score": 0.593999981880188
-        },
-        {
-          "id": "https://openalex.org/keywords/ice-rafted-debris",
-          "display_name": "ice-rafted debris",
-          "score": 0.7450000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/murzuq-basin",
-          "display_name": "Murzuq Basin",
-          "score": 0.7239999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-shelf",
-          "display_name": "continental shelf",
-          "score": 0.4729999899864197
-        },
-        {
-          "id": "https://openalex.org/keywords/eustasy",
-          "display_name": "eustasy",
-          "score": 0.46799999475479126
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment-starvation",
-          "display_name": "sediment starvation",
-          "score": 0.4169999957084656
-        },
-        {
-          "id": "https://openalex.org/keywords/estuarine-sediments",
-          "display_name": "estuarine sediments",
-          "score": 0.9110000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/shoreface-sandstones",
-          "display_name": "shoreface sandstones",
-          "score": 0.5889999866485596
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9427198171615601
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.8729956150054932
-        },
-        {
-          "id": "https://openalex.org/C15739521",
-          "wikidata": "https://www.wikidata.org/wiki/Q602963",
-          "display_name": "Glacial period",
-          "level": 2,
-          "score": 0.6960267424583435
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.6473894715309143
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6108867526054382
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.6080548167228699
-        },
-        {
-          "id": "https://openalex.org/C74501621",
-          "wikidata": "https://www.wikidata.org/wiki/Q125465",
-          "display_name": "Sea level",
-          "level": 2,
-          "score": 0.5615174770355225
-        },
-        {
-          "id": "https://openalex.org/C100834320",
-          "wikidata": "https://www.wikidata.org/wiki/Q35666",
-          "display_name": "Glacier",
-          "level": 2,
-          "score": 0.5053649544715881
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.502208948135376
-        },
-        {
-          "id": "https://openalex.org/C93257316",
-          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
-          "display_name": "Siliciclastic",
-          "level": 4,
-          "score": 0.4553722143173218
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.408380925655365
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.30721592903137207
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.14145681262016296
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.sedgeo.2005.02.006",
-          "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S85417211",
-            "display_name": "Sedimentary Geology",
-            "issn_l": "0037-0738",
-            "issn": [
-              "0037-0738",
-              "1879-0968"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-100",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Sedimentary Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 50,
-      "referenced_works": [
-        "https://openalex.org/W12007435",
-        "https://openalex.org/W101633874",
-        "https://openalex.org/W106385353",
-        "https://openalex.org/W611551760",
-        "https://openalex.org/W647015952",
-        "https://openalex.org/W1558464430",
-        "https://openalex.org/W1573350472",
-        "https://openalex.org/W1584140374",
-        "https://openalex.org/W1590447055",
-        "https://openalex.org/W1801703600",
-        "https://openalex.org/W1808331107",
-        "https://openalex.org/W1965339743",
-        "https://openalex.org/W1968172155",
-        "https://openalex.org/W1991737172",
-        "https://openalex.org/W2010608057",
-        "https://openalex.org/W2019663851",
-        "https://openalex.org/W2034716029",
-        "https://openalex.org/W2049415673",
-        "https://openalex.org/W2049550554",
-        "https://openalex.org/W2064652632",
-        "https://openalex.org/W2068717252",
-        "https://openalex.org/W2075503271",
-        "https://openalex.org/W2081330066",
-        "https://openalex.org/W2090158398",
-        "https://openalex.org/W2101837316",
-        "https://openalex.org/W2105021764",
-        "https://openalex.org/W2116786934",
-        "https://openalex.org/W2119050110",
-        "https://openalex.org/W2121515683",
-        "https://openalex.org/W2122186347",
-        "https://openalex.org/W2124500082",
-        "https://openalex.org/W2136493303",
-        "https://openalex.org/W2141713510",
-        "https://openalex.org/W2144414810",
-        "https://openalex.org/W2147576281",
-        "https://openalex.org/W2153222505",
-        "https://openalex.org/W2169031982",
-        "https://openalex.org/W2260134824",
-        "https://openalex.org/W2297192698",
-        "https://openalex.org/W2492954051",
-        "https://openalex.org/W2496379229",
-        "https://openalex.org/W2741842780",
-        "https://openalex.org/W2974856691",
-        "https://openalex.org/W3003809206",
-        "https://openalex.org/W3036772048",
-        "https://openalex.org/W3086846549",
-        "https://openalex.org/W4205129767",
-        "https://openalex.org/W4243966085",
-        "https://openalex.org/W4246157246",
-        "https://openalex.org/W4301799549"
-      ],
-      "related_works": [
-        "https://openalex.org/W2065969061",
-        "https://openalex.org/W2036218657",
-        "https://openalex.org/W2889759719",
-        "https://openalex.org/W106385353",
-        "https://openalex.org/W6941418973",
-        "https://openalex.org/W2079472735",
-        "https://openalex.org/W2006803785",
-        "https://openalex.org/W1999786020",
-        "https://openalex.org/W2029859727",
-        "https://openalex.org/W12007435"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2059979563",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 7
-        }
-      ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5453,13 +5482,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.1258,
+      "fwci": 4.1038,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 71,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92436461,
+        "value": 0.9242295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5741,7 +5770,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.2110/jsr.2009.060",
@@ -5787,6 +5816,35 @@
           "is_published": true,
           "raw_source_name": "Journal of Sedimentary Research",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc950582-114e2c5f-45c3-4a78-9641-661a1eb32e81",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/3367607",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:HAL:hal-00495021v1",
@@ -6684,7 +6742,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7037,13 +7095,13 @@
         "value_usd": 3540
       },
       "apc_paid": null,
-      "fwci": 1.0141,
+      "fwci": 1.2612,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 62,
+      "cited_by_count": 64,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72636546,
+        "value": 0.75834879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7874,7 +7932,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2020,
@@ -7913,7 +7971,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11219,13 +11277,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.8786,
+      "fwci": 2.2344,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 38,
+      "cited_by_count": 39,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.822685,
+        "value": 0.84331146,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11736,7 +11794,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14317,13 +14375,13 @@
         "value_usd": 4430
       },
       "apc_paid": null,
-      "fwci": 4.8218,
+      "fwci": 4.8317,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 32,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97276265,
+        "value": 0.97278471,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14648,7 +14706,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1111/gbi.12557",
@@ -14756,6 +14814,35 @@
           "is_published": true,
           "raw_source_name": "Ostrander, C M, Bjerrum, C J, Ahm, A S C, Stenger, S R, Bergmann, K D, El-Ghali, M A K, Harthi, A R, Aisri, Z & Nielsen, S G 2023, 'Widespread seafloor anoxia during generation of the Ediacaran Shuram carbon isotope excursion', Geobiology, vol. 21, no. 5, pp. 556-570. https://doi.org/10.1111/gbi.12557",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc76aba2-8bd1ffb8-a211-4aa3-902e-797197285aa8",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/3562969",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
@@ -14791,9 +14878,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.694100022315979,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15533,7 +15620,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-05-10T00:00:00"
     },
     {
@@ -19968,18 +20055,18 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.8068,
+      "fwci": 0.7954,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74299881,
+        "value": 0.73912639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 87,
+        "min": 86,
         "max": 98
       },
       "biblio": {
@@ -27724,13 +27811,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.4511,
+      "fwci": 1.4279,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 40,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78288516,
+        "value": 0.77976883,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28489,13 +28576,13 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 1.3572,
+      "fwci": 1.3353,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74020999,
+        "value": 0.73600057,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31004,13 +31091,13 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.572,
+      "fwci": 1.5517,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79240462,
+        "value": 0.78953457,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38246,13 +38333,13 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.1987,
+      "fwci": 1.1787,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70537839,
+        "value": 0.70001932,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38958,13 +39045,13 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.9989,
+      "fwci": 0.9822,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65625892,
+        "value": 0.65008692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40207,9 +40294,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -41030,14 +41117,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -44159,9 +44246,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -49739,13 +49826,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.9989,
+      "fwci": 0.9822,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65625892,
+        "value": 0.65008692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60322,13 +60409,13 @@
         "value_usd": 3650
       },
       "apc_paid": null,
-      "fwci": 0.2875,
+      "fwci": 0.2836,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39319434,
+        "value": 0.38571994,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66845,13 +66932,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0755,
+      "fwci": 3.1178,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87311015,
+        "value": 0.87292225,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67562,13 +67649,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5378,
+      "fwci": 1.5589,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71436285,
+        "value": 0.71689008,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68865,19 +68952,19 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "display_name": "Sustainable cities and communities",
           "score": 0.5142999887466431,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -75045,13 +75132,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1006,
+      "fwci": 0.099,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27450818,
+        "value": 0.26783638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75382,9 +75469,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -76771,9 +76858,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -79156,9 +79243,17 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3023181292"
+        "https://openalex.org/W3023181292",
+        "https://openalex.org/W7239028782"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -80206,7 +80301,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3023181292",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -82262,9 +82357,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -84183,9 +84278,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -86302,9 +86397,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -88615,9 +88710,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -91013,14 +91108,14 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
+          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -92569,14 +92664,14 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.7207000255584717,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         },
         {
+          "display_name": "Sustainable cities and communities",
           "score": 0.5142999887466431,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],

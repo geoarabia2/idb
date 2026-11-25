@@ -25,7 +25,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 150,
-    "cited_by_count": 3308,
+    "cited_by_count": 3317,
     "summary_stats": {
       "2yr_mean_citedness": 2.3,
       "h_index": 34,
@@ -230,7 +230,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 40,
+        "count": 38,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -300,7 +300,7 @@
       {
         "id": "https://openalex.org/T13811",
         "display_name": "Earth Systems and Cosmic Evolution",
-        "value": 0.0001372,
+        "value": 0.0001368,
         "subfield": {
           "id": "https://openalex.org/subfields/2306",
           "display_name": "Global and Planetary Change"
@@ -317,7 +317,7 @@
       {
         "id": "https://openalex.org/T13870",
         "display_name": "Environmental and Ecological Studies",
-        "value": 0.0001321,
+        "value": 0.0001313,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -334,7 +334,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001295,
+        "value": 0.0001298,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -351,7 +351,7 @@
       {
         "id": "https://openalex.org/T12615",
         "display_name": "Climate Change and Geoengineering",
-        "value": 0.000112,
+        "value": 0.0001114,
         "subfield": {
           "id": "https://openalex.org/subfields/2306",
           "display_name": "Global and Planetary Change"
@@ -368,7 +368,7 @@
       {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.0000932,
+        "value": 0.0000929,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -504,7 +504,7 @@
         "year": 2012,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 81
+        "cited_by_count": 82
       },
       {
         "year": 2013,
@@ -534,12 +534,12 @@
         "year": 2017,
         "works_count": 5,
         "oa_works_count": 3,
-        "cited_by_count": 112
+        "cited_by_count": 114
       },
       {
         "year": 2018,
         "works_count": 15,
-        "oa_works_count": 4,
+        "oa_works_count": 5,
         "cited_by_count": 161
       },
       {
@@ -552,25 +552,25 @@
         "year": 2020,
         "works_count": 3,
         "oa_works_count": 3,
-        "cited_by_count": 229
+        "cited_by_count": 230
       },
       {
         "year": 2021,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 273
+        "cited_by_count": 275
       },
       {
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 302
+        "cited_by_count": 304
       },
       {
         "year": 2023,
         "works_count": 6,
         "oa_works_count": 5,
-        "cited_by_count": 284
+        "cited_by_count": 285
       },
       {
         "year": 2024,
@@ -611,7 +611,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5040147688",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-24T12:38:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -883,13 +883,13 @@
         "currency": "USD",
         "value_usd": 3750
       },
-      "fwci": 18.1941,
+      "fwci": 18.2899,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 350,
+      "cited_by_count": 351,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99825738,
+        "value": 0.99843369,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2182,7 +2182,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 50
+          "cited_by_count": 51
         },
         {
           "year": 2021,
@@ -2197,7 +2197,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2019-08-29T00:00:00"
     },
     {
@@ -3119,13 +3119,13 @@
         "currency": "USD",
         "value_usd": 0
       },
-      "fwci": 11.9524,
+      "fwci": 11.9526,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 155,
+      "cited_by_count": 156,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98949173,
+        "value": 0.98953083,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4039,7 +4039,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 32
+          "cited_by_count": 33
         },
         {
           "year": 2023,
@@ -4054,7 +4054,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -6144,9 +6144,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -8728,13 +8728,13 @@
         "currency": "USD",
         "value_usd": 4670
       },
-      "fwci": 2.3074,
+      "fwci": 2.4597,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 113,
+      "cited_by_count": 114,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87953742,
+        "value": 0.89059747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9150,9 +9150,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
@@ -10028,7 +10028,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2013,
@@ -10039,7 +10039,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13274,13 +13274,13 @@
         "currency": "USD",
         "value_usd": 2750
       },
-      "fwci": 7.6084,
+      "fwci": 7.5796,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 79,
+      "cited_by_count": 80,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9827481,
+        "value": 0.98259659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14130,7 +14130,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2025,
@@ -14161,7 +14161,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2019-01-25T00:00:00"
     },
     {
@@ -15197,14 +15197,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6710000038146973,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6710000038146973
         },
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -18681,13 +18681,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.081,
+      "fwci": 2.2508,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 65,
+      "cited_by_count": 67,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84479167,
+        "value": 0.85878623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18975,7 +18975,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1144/petgeo2019-084",
@@ -19050,6 +19050,35 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Publication - Article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc783030-e8bd5022-9124-48aa-bcf0-4ed527d96edd",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/3661632",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
@@ -19097,14 +19126,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9090999960899353
         }
       ],
       "study_designs": [],
@@ -19656,11 +19685,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2021,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2020,
@@ -19671,7 +19700,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2019-07-23T00:00:00"
     },
     {
@@ -20518,9 +20547,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -21492,13 +21521,13 @@
         "currency": "USD",
         "value_usd": 2780
       },
-      "fwci": 9.0993,
+      "fwci": 8.9843,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 53,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97153996,
+        "value": 0.97169446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21962,9 +21991,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
@@ -24866,13 +24895,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1345,
+      "fwci": 1.1196,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81669033,
+        "value": 0.81402483,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29350,13 +29379,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.6175,
+      "fwci": 11.4641,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 60,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99135447,
+        "value": 0.99137931,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -32886,9 +32915,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -33524,7 +33553,7 @@
         "doi": "https://doi.org/10.1111/sed.12642",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1111/sed.12642",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sed.12642",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S42573498",
           "display_name": "Sedimentology",
@@ -33579,7 +33608,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "hybrid",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sed.12642",
+        "oa_url": "https://doi.org/10.1111/sed.12642",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -33842,13 +33871,13 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 2.8047,
+      "fwci": 2.787,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89375402,
+        "value": 0.89292948,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34113,7 +34142,7 @@
           "doi": "https://doi.org/10.1111/sed.12642",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1111/sed.12642",
-          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sed.12642",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S42573498",
             "display_name": "Sedimentology",
@@ -34222,7 +34251,7 @@
         "doi": "https://doi.org/10.1111/sed.12642",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1111/sed.12642",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sed.12642",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S42573498",
           "display_name": "Sedimentology",
@@ -34302,11 +34331,9 @@
       ],
       "has_content": {
         "grobid_xml": false,
-        "pdf": true
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2955892120.pdf"
-      },
+      "content_urls": null,
       "referenced_works_count": 155,
       "referenced_works": [
         "https://openalex.org/W599778758",
@@ -35230,1927 +35257,8 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2019-07-12T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1963784156",
-      "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
-      "title": "A comparison of techniques used to collect informed public opinions about CCS: Opinion quality after focus group discussions versus information-choice questionnaires",
-      "display_name": "A comparison of techniques used to collect informed public opinions about CCS: Opinion quality after focus group discussions versus information-choice questionnaires",
-      "alternate_titles": [],
-      "publication_year": 2013,
-      "publication_date": "2013-08-24",
-      "ids": {
-        "openalex": "https://openalex.org/W1963784156",
-        "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
-        "mag": "1963784156"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.ijggc.2013.07.015",
-        "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.ijggc.2013.07.015",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S21262371",
-          "display_name": "International journal of greenhouse gas control",
-          "issn_l": "1878-0148",
-          "issn": [
-            "1878-0148",
-            "1750-5836"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-a",
-            "jufo-2",
-            "norway-2",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Journal of Greenhouse Gas Control",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W1963784156"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5044029994",
-            "display_name": "Emma ter Mors",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7001-2221",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7001-2221"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I121797337",
-              "display_name": "Leiden University",
-              "ror": "https://ror.org/027bh9e22",
-              "country_code": "NL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Emma ter Mors",
-          "raw_affiliation_strings": [
-            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5002505748",
-            "display_name": "Bart W. Terwel",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-6253-5906",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6253-5906"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I121797337",
-              "display_name": "Leiden University",
-              "ror": "https://ror.org/027bh9e22",
-              "country_code": "NL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Bart W. Terwel",
-          "raw_affiliation_strings": [
-            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5020135880",
-            "display_name": "Dancker D.L. Daamen",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I121797337",
-              "display_name": "Leiden University",
-              "ror": "https://ror.org/027bh9e22",
-              "country_code": "NL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Dancker D.L. Daamen",
-          "raw_affiliation_strings": [
-            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085217342",
-            "display_name": "David M. Reiner",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-2004-8696",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2004-8696"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I241749",
-              "display_name": "University of Cambridge",
-              "ror": "https://ror.org/013meh722",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I241749"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "David M. Reiner",
-          "raw_affiliation_strings": [
-            "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I241749"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070048407",
-            "display_name": "Diana Schumann",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-5533-4871",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5533-4871"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I171892758",
-              "display_name": "Forschungszentrum Jülich",
-              "ror": "https://ror.org/02nv7yv05",
-              "country_code": "DE",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1305996414",
-                "https://openalex.org/I171892758"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Diana Schumann",
-          "raw_affiliation_strings": [
-            "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany",
-              "institution_ids": [
-                "https://openalex.org/I171892758"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5036721168",
-            "display_name": "Sorin Anghel",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-7772-0135",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7772-0135"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210117234",
-              "display_name": "GeoEcoMar",
-              "ror": "https://ror.org/02qs41y18",
-              "country_code": "RO",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210117234"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Sorin Anghel",
-          "raw_affiliation_strings": [
-            "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I4210117234"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031892247",
-            "display_name": "Ioanna Boulouta",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I98259816",
-              "display_name": "Birkbeck, University of London",
-              "ror": "https://ror.org/02mb95055",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I124357947",
-                "https://openalex.org/I98259816"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Ioanna Boulouta",
-          "raw_affiliation_strings": [
-            "Birckbeck College, University of London, Department of Management, Malet Street, London WCIE 7HX, United Kingdom"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Birckbeck College, University of London, Department of Management, Malet Street, London WCIE 7HX, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I98259816"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070428735",
-            "display_name": "Diana Maria Cismaru",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I135790613",
-              "display_name": "National School of Political Science and Public Administration",
-              "ror": "https://ror.org/05750v978",
-              "country_code": "RO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I135790613"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Diana M. Cismaru",
-          "raw_affiliation_strings": [
-            "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I135790613"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061838390",
-            "display_name": "Carmencita Constantin",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210093159",
-              "display_name": "Institute for Studies and Power Engineering (Romania)",
-              "ror": "https://ror.org/00jmv3y79",
-              "country_code": "RO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Carmencita Constantin",
-          "raw_affiliation_strings": [
-            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035721743",
-            "display_name": "Chris C.H. de Jager",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I121797337",
-              "display_name": "Leiden University",
-              "ror": "https://ror.org/027bh9e22",
-              "country_code": "NL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Chris C.H. de Jager",
-          "raw_affiliation_strings": [
-            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I121797337"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5068543937",
-            "display_name": "Alexandra Dudu",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-8246-3225",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8246-3225"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210117234",
-              "display_name": "GeoEcoMar",
-              "ror": "https://ror.org/02qs41y18",
-              "country_code": "RO",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210117234"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Alexandra Dudu",
-          "raw_affiliation_strings": [
-            "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I4210117234"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003087229",
-            "display_name": "Andrea Esken",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I20696738",
-              "display_name": "Wuppertal Institute for Climate, Environment and Energy",
-              "ror": "https://ror.org/01spy4t79",
-              "country_code": "DE",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I20696738"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Andrea Esken",
-          "raw_affiliation_strings": [
-            "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany",
-              "institution_ids": [
-                "https://openalex.org/I20696738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5002154203",
-            "display_name": "Oana C. Falup",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210093159",
-              "display_name": "Institute for Studies and Power Engineering (Romania)",
-              "ror": "https://ror.org/00jmv3y79",
-              "country_code": "RO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Oana C. Falup",
-          "raw_affiliation_strings": [
-            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5108479961",
-            "display_name": "Rebecca M. Firth",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I241749",
-              "display_name": "University of Cambridge",
-              "ror": "https://ror.org/013meh722",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I241749"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Rebecca M. Firth",
-          "raw_affiliation_strings": [
-            "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I241749"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111815203",
-            "display_name": "Vassiliki Gemeni",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134249",
-              "display_name": "Centre for Research and Technology Hellas",
-              "ror": "https://ror.org/03bndpq63",
-              "country_code": "GR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134249"
-              ]
-            }
-          ],
-          "countries": [
-            "GR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Vassiliki Gemeni",
-          "raw_affiliation_strings": [
-            "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece",
-              "institution_ids": [
-                "https://openalex.org/I4210134249"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5067235968",
-            "display_name": "Chris A. Hendriks",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210109366",
-              "display_name": "Ecofys (Netherlands)",
-              "ror": "https://ror.org/01ypwfg63",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210109366"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Chris Hendriks",
-          "raw_affiliation_strings": [
-            "Ecofys, P.O. Box 8408, 3503 RK Utrecht, The Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ecofys, P.O. Box 8408, 3503 RK Utrecht, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I4210109366"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072081439",
-            "display_name": "Loredana Ivan",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7153-5198",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7153-5198"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I135790613",
-              "display_name": "National School of Political Science and Public Administration",
-              "ror": "https://ror.org/05750v978",
-              "country_code": "RO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I135790613"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Loredana Ivan",
-          "raw_affiliation_strings": [
-            "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I135790613"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072256623",
-            "display_name": "Nikolaos Koukouzas",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7094-3712",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7094-3712"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134249",
-              "display_name": "Centre for Research and Technology Hellas",
-              "ror": "https://ror.org/03bndpq63",
-              "country_code": "GR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134249"
-              ]
-            }
-          ],
-          "countries": [
-            "GR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Nikolaos Koukouzas",
-          "raw_affiliation_strings": [
-            "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece",
-              "institution_ids": [
-                "https://openalex.org/I4210134249"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037373595",
-            "display_name": "Angelos Markos",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-4204-3573",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4204-3573"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I147962203",
-              "display_name": "Democritus University of Thrace",
-              "ror": "https://ror.org/03bfqnx40",
-              "country_code": "GR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I147962203"
-              ]
-            }
-          ],
-          "countries": [
-            "GR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Angelos Markos",
-          "raw_affiliation_strings": [
-            "Democritus University of Thrace, Department of Primary Education, P.O. Box 68100, N.Hili, Alexandroupolis, Greece"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Democritus University of Thrace, Department of Primary Education, P.O. Box 68100, N.Hili, Alexandroupolis, Greece",
-              "institution_ids": [
-                "https://openalex.org/I147962203"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5000055073",
-            "display_name": "Robert Næss",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-5258-2346",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5258-2346"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I204778367",
-              "display_name": "Norwegian University of Science and Technology",
-              "ror": "https://ror.org/05xg72x27",
-              "country_code": "NO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I204778367"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Robert Næss",
-          "raw_affiliation_strings": [
-            "Norwegian University of Science and Technology, Department of Interdisciplinary Studies of Culture, N-7491 Trondheim, Norway"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Norwegian University of Science and Technology, Department of Interdisciplinary Studies of Culture, N-7491 Trondheim, Norway",
-              "institution_ids": [
-                "https://openalex.org/I204778367"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027912829",
-            "display_name": "Katja Pietzner",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I20696738",
-              "display_name": "Wuppertal Institute for Climate, Environment and Energy",
-              "ror": "https://ror.org/01spy4t79",
-              "country_code": "DE",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I20696738"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Katja Pietzner",
-          "raw_affiliation_strings": [
-            "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany",
-              "institution_ids": [
-                "https://openalex.org/I20696738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5020011043",
-            "display_name": "Irene R. Samoila",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210093159",
-              "display_name": "Institute for Studies and Power Engineering (Romania)",
-              "ror": "https://ror.org/00jmv3y79",
-              "country_code": "RO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Irene R. Samoila",
-          "raw_affiliation_strings": [
-            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5091076367",
-            "display_name": "Constantin Ștefan Sava",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-7120-5247",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7120-5247"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210117234",
-              "display_name": "GeoEcoMar",
-              "ror": "https://ror.org/02qs41y18",
-              "country_code": "RO",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210117234"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Constantin S. Sava",
-          "raw_affiliation_strings": [
-            "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I4210117234"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-9881-1578",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9881-1578"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Michael H. Stephenson",
-          "raw_affiliation_strings": [
-            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013528098",
-            "display_name": "Claudia E. Tomescu",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210093159",
-              "display_name": "Institute for Studies and Power Engineering (Romania)",
-              "ror": "https://ror.org/00jmv3y79",
-              "country_code": "RO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ],
-          "countries": [
-            "RO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Claudia E. Tomescu",
-          "raw_affiliation_strings": [
-            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
-              "institution_ids": [
-                "https://openalex.org/I4210093159"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008430300",
-            "display_name": "Hans Torvatn",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-0996-4805",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0996-4805"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I173888879",
-              "display_name": "SINTEF",
-              "ror": "https://ror.org/01f677e56",
-              "country_code": "NO",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I173888879"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4387930256",
-              "display_name": "SINTEF Industry",
-              "ror": "https://ror.org/0422tvz87",
-              "country_code": "NO",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I173888879",
-                "https://openalex.org/I4387930256"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Hans Y. Torvatn",
-          "raw_affiliation_strings": [
-            "SINTEF, Department for Industrial Management, P.O. Box 4760 Sluppen, NO-7465 Trondheim, Norway"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "SINTEF, Department for Industrial Management, P.O. Box 4760 Sluppen, NO-7465 Trondheim, Norway",
-              "institution_ids": [
-                "https://openalex.org/I173888879",
-                "https://openalex.org/I4387930256"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039939210",
-            "display_name": "Sturle Danielsen Tvedt",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-0708-3799",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0708-3799"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I204778367",
-              "display_name": "Norwegian University of Science and Technology",
-              "ror": "https://ror.org/05xg72x27",
-              "country_code": "NO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I204778367"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Sturle D. Tvedt",
-          "raw_affiliation_strings": [
-            "Norwegian University of Science and Technology, Department of Psychology, NO-7491 Trondheim, Norway"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Norwegian University of Science and Technology, Department of Psychology, NO-7491 Trondheim, Norway",
-              "institution_ids": [
-                "https://openalex.org/I204778367"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021037282",
-            "display_name": "Daniel Vallentin",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-7132-2822",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7132-2822"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I20696738",
-              "display_name": "Wuppertal Institute for Climate, Environment and Energy",
-              "ror": "https://ror.org/01spy4t79",
-              "country_code": "DE",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I20696738"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Daniel Vallentin",
-          "raw_affiliation_strings": [
-            "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany",
-              "institution_ids": [
-                "https://openalex.org/I20696738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5105929057",
-            "display_name": "Julia M. West",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-1891-4217",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1891-4217"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Julia M. West",
-          "raw_affiliation_strings": [
-            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5056204351",
-            "display_name": "Fotini Ziogou",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134249",
-              "display_name": "Centre for Research and Technology Hellas",
-              "ror": "https://ror.org/03bndpq63",
-              "country_code": "GR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134249"
-              ]
-            }
-          ],
-          "countries": [
-            "GR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Fotini Ziogou",
-          "raw_affiliation_strings": [
-            "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece",
-              "institution_ids": [
-                "https://openalex.org/I4210134249"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 6,
-      "institutions_distinct_count": 15,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5044029994"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I121797337"
-      ],
-      "apc_list": {
-        "value": 4100,
-        "currency": "USD",
-        "value_usd": 4100
-      },
-      "apc_paid": null,
-      "fwci": 2.2718,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 41,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.88413017,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "18",
-        "issue": null,
-        "first_page": "256",
-        "last_page": "263"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12503",
-        "display_name": "Social Acceptance of Renewable Energy",
-        "score": 0.3037000000476837,
-        "subfield": {
-          "id": "https://openalex.org/subfields/3312",
-          "display_name": "Sociology and Political Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/33",
-          "display_name": "Social Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12503",
-          "display_name": "Social Acceptance of Renewable Energy",
-          "score": 0.3037000000476837,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3312",
-            "display_name": "Sociology and Political Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10841",
-          "display_name": "Economic and Environmental Valuation",
-          "score": 0.20059999823570251,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12679",
-          "display_name": "Focus Groups and Qualitative Methods",
-          "score": 0.16189999878406525,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3312",
-            "display_name": "Sociology and Political Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "carbon capture and storage",
-          "score": 0.984000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/public-opinion",
-          "display_name": "public opinion",
-          "score": 0.9129999876022339
-        },
-        {
-          "id": "https://openalex.org/keywords/focus-groups",
-          "display_name": "focus groups",
-          "score": 0.9139999747276306
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C56995899",
-          "wikidata": "https://www.wikidata.org/wiki/Q1126687",
-          "display_name": "Focus group",
-          "level": 2,
-          "score": 0.8270319104194641
-        },
-        {
-          "id": "https://openalex.org/C2779530757",
-          "wikidata": "https://www.wikidata.org/wiki/Q1207505",
-          "display_name": "Quality (philosophy)",
-          "level": 2,
-          "score": 0.6165764927864075
-        },
-        {
-          "id": "https://openalex.org/C2776436953",
-          "wikidata": "https://www.wikidata.org/wiki/Q5163215",
-          "display_name": "Consistency (knowledge bases)",
-          "level": 2,
-          "score": 0.5828639268875122
-        },
-        {
-          "id": "https://openalex.org/C134698397",
-          "wikidata": "https://www.wikidata.org/wiki/Q17946",
-          "display_name": "Public opinion",
-          "level": 3,
-          "score": 0.5466374754905701
-        },
-        {
-          "id": "https://openalex.org/C192209626",
-          "wikidata": "https://www.wikidata.org/wiki/Q190909",
-          "display_name": "Focus (optics)",
-          "level": 2,
-          "score": 0.5331477522850037
-        },
-        {
-          "id": "https://openalex.org/C15744967",
-          "wikidata": "https://www.wikidata.org/wiki/Q9418",
-          "display_name": "Psychology",
-          "level": 0,
-          "score": 0.4701302945613861
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.2207997441291809
-        },
-        {
-          "id": "https://openalex.org/C17744445",
-          "wikidata": "https://www.wikidata.org/wiki/Q36442",
-          "display_name": "Political science",
-          "level": 0,
-          "score": 0.17699071764945984
-        },
-        {
-          "id": "https://openalex.org/C162853370",
-          "wikidata": "https://www.wikidata.org/wiki/Q39809",
-          "display_name": "Marketing",
-          "level": 1,
-          "score": 0.1582883894443512
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.14739438891410828
-        },
-        {
-          "id": "https://openalex.org/C199539241",
-          "wikidata": "https://www.wikidata.org/wiki/Q7748",
-          "display_name": "Law",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111472728",
-          "wikidata": "https://www.wikidata.org/wiki/Q9471",
-          "display_name": "Epistemology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C94625758",
-          "wikidata": "https://www.wikidata.org/wiki/Q7163",
-          "display_name": "Politics",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.ijggc.2013.07.015",
-          "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.ijggc.2013.07.015",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S21262371",
-            "display_name": "International journal of greenhouse gas control",
-            "issn_l": "1878-0148",
-            "issn": [
-              "1878-0148",
-              "1750-5836"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-a",
-              "jufo-2",
-              "norway-2",
-              "poland-140",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Journal of Greenhouse Gas Control",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:eprints.bbk.ac.uk.oai2:58132",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://eprints.bbk.ac.uk/id/eprint/58132/1/58132.pdf",
-          "pdf_url": "https://eprints.bbk.ac.uk/id/eprint/58132/1/58132.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306400465",
-            "display_name": "BIROn (Birkbeck, University of London)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I98259816",
-            "host_organization_name": "Birkbeck, University of London",
-            "host_organization_lineage": [
-              "https://openalex.org/I98259816"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Article"
-        },
-        {
-          "id": "pmh:oai:epub.wupperinst.org:5009",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://epub.wupperinst.org/frontdoor/index/index/docId/5009",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401827",
-            "display_name": "Publication Server of the Wuppertal Institute (Wuppertal Institute)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I20696738",
-            "host_organization_name": "Wuppertal Institute for Climate, Environment and Energy",
-            "host_organization_lineage": [
-              "https://openalex.org/I20696738"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:nora.nerc.ac.uk:503070",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/503070/",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400758",
-            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I141816643",
-            "host_organization_name": "Natural Environment Research Council",
-            "host_organization_lineage": [
-              "https://openalex.org/I141816643"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Publication - Article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
-        }
-      ],
-      "study_designs": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G7985670133",
-          "display_name": null,
-          "funder_award_id": "bgs05010",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320334631",
-          "display_name": "Natural Environment Research Council",
-          "ror": "https://ror.org/02b5d8509"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 70,
-      "referenced_works": [
-        "https://openalex.org/W126774542",
-        "https://openalex.org/W199238147",
-        "https://openalex.org/W421219210",
-        "https://openalex.org/W613915227",
-        "https://openalex.org/W1489139710",
-        "https://openalex.org/W1505402154",
-        "https://openalex.org/W1526777193",
-        "https://openalex.org/W1539896512",
-        "https://openalex.org/W1723194642",
-        "https://openalex.org/W1936758313",
-        "https://openalex.org/W1968255460",
-        "https://openalex.org/W1976735359",
-        "https://openalex.org/W1977157759",
-        "https://openalex.org/W1980034096",
-        "https://openalex.org/W1988259051",
-        "https://openalex.org/W1998798431",
-        "https://openalex.org/W2000317699",
-        "https://openalex.org/W2000952803",
-        "https://openalex.org/W2004508718",
-        "https://openalex.org/W2011744324",
-        "https://openalex.org/W2017306972",
-        "https://openalex.org/W2032635261",
-        "https://openalex.org/W2036031297",
-        "https://openalex.org/W2041765503",
-        "https://openalex.org/W2044220923",
-        "https://openalex.org/W2049222511",
-        "https://openalex.org/W2051238050",
-        "https://openalex.org/W2055277725",
-        "https://openalex.org/W2056144694",
-        "https://openalex.org/W2061802300",
-        "https://openalex.org/W2069023087",
-        "https://openalex.org/W2069964497",
-        "https://openalex.org/W2080734816",
-        "https://openalex.org/W2082222678",
-        "https://openalex.org/W2082422522",
-        "https://openalex.org/W2084621721",
-        "https://openalex.org/W2094938624",
-        "https://openalex.org/W2096182988",
-        "https://openalex.org/W2098393822",
-        "https://openalex.org/W2101903660",
-        "https://openalex.org/W2104971230",
-        "https://openalex.org/W2107856676",
-        "https://openalex.org/W2110464107",
-        "https://openalex.org/W2112072287",
-        "https://openalex.org/W2114958084",
-        "https://openalex.org/W2115048421",
-        "https://openalex.org/W2134032236",
-        "https://openalex.org/W2142378683",
-        "https://openalex.org/W2144386457",
-        "https://openalex.org/W2144712361",
-        "https://openalex.org/W2157300266",
-        "https://openalex.org/W2158958034",
-        "https://openalex.org/W2159172402",
-        "https://openalex.org/W2165150070",
-        "https://openalex.org/W2170834940",
-        "https://openalex.org/W2318094544",
-        "https://openalex.org/W2334705038",
-        "https://openalex.org/W2795614343",
-        "https://openalex.org/W2798572278",
-        "https://openalex.org/W2942058786",
-        "https://openalex.org/W3019378960",
-        "https://openalex.org/W4234047512",
-        "https://openalex.org/W4243384190",
-        "https://openalex.org/W4248276305",
-        "https://openalex.org/W4255988578",
-        "https://openalex.org/W6608158602",
-        "https://openalex.org/W6762151212",
-        "https://openalex.org/W6817004996",
-        "https://openalex.org/W7042675494",
-        "https://openalex.org/W7056131224"
-      ],
-      "related_works": [
-        "https://openalex.org/W2073167768",
-        "https://openalex.org/W1994834253",
-        "https://openalex.org/W2158958034",
-        "https://openalex.org/W6929146821",
-        "https://openalex.org/W1585386471",
-        "https://openalex.org/W2080734816",
-        "https://openalex.org/W2100681275",
-        "https://openalex.org/W2084621721",
-        "https://openalex.org/W2049222511",
-        "https://openalex.org/W6996749719"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1963784156",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2097185532",
@@ -39442,9 +37550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -41171,23 +39279,8 @@
             ]
           },
           "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "M.J. Leng",
@@ -41198,9 +39291,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "3 NERC Isotope Geosciences Laboratory, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -41212,13 +39303,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1681,
+      "fwci": 1.1628,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76441103,
+        "value": 0.76470588,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42510,7 +40601,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -43801,9 +41892,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -44942,13 +43033,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.6136,
+      "fwci": 1.5909,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 27,
+      "cited_by_count": 28,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82756404,
+        "value": 0.82453199,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45480,7 +43571,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -45523,7 +43614,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -57911,13 +56002,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5532,
+      "fwci": 2.5105,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 49,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89221783,
+        "value": 0.89071658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60274,13 +58365,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5712,
+      "fwci": 1.5449,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 43,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80610514,
+        "value": 0.80374362,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61145,6 +59236,1954 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1963784156",
+      "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
+      "title": "A comparison of techniques used to collect informed public opinions about CCS: Opinion quality after focus group discussions versus information-choice questionnaires",
+      "display_name": "A comparison of techniques used to collect informed public opinions about CCS: Opinion quality after focus group discussions versus information-choice questionnaires",
+      "alternate_titles": [],
+      "publication_year": 2013,
+      "publication_date": "2013-08-24",
+      "ids": {
+        "openalex": "https://openalex.org/W1963784156",
+        "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
+        "mag": "1963784156"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ijggc.2013.07.015",
+        "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.ijggc.2013.07.015",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S21262371",
+          "display_name": "International journal of greenhouse gas control",
+          "issn_l": "1878-0148",
+          "issn": [
+            "1878-0148",
+            "1750-5836"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-a",
+            "jufo-2",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Greenhouse Gas Control",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1963784156"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5044029994",
+            "display_name": "Emma ter Mors",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7001-2221",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7001-2221"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121797337",
+              "display_name": "Leiden University",
+              "ror": "https://ror.org/027bh9e22",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Emma ter Mors",
+          "raw_affiliation_strings": [
+            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002505748",
+            "display_name": "Bart W. Terwel",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-6253-5906",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6253-5906"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121797337",
+              "display_name": "Leiden University",
+              "ror": "https://ror.org/027bh9e22",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Bart W. Terwel",
+          "raw_affiliation_strings": [
+            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020135880",
+            "display_name": "Dancker D.L. Daamen",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121797337",
+              "display_name": "Leiden University",
+              "ror": "https://ror.org/027bh9e22",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Dancker D.L. Daamen",
+          "raw_affiliation_strings": [
+            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085217342",
+            "display_name": "David M. Reiner",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-2004-8696",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2004-8696"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I241749",
+              "display_name": "University of Cambridge",
+              "ror": "https://ror.org/013meh722",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "David M. Reiner",
+          "raw_affiliation_strings": [
+            "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070048407",
+            "display_name": "Diana Schumann",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-5533-4871",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5533-4871"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I171892758",
+              "display_name": "Forschungszentrum Jülich",
+              "ror": "https://ror.org/02nv7yv05",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I171892758"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Diana Schumann",
+          "raw_affiliation_strings": [
+            "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany",
+              "institution_ids": [
+                "https://openalex.org/I171892758"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036721168",
+            "display_name": "Sorin Anghel",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-7772-0135",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7772-0135"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210117234",
+              "display_name": "GeoEcoMar",
+              "ror": "https://ror.org/02qs41y18",
+              "country_code": "RO",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210117234"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Sorin Anghel",
+          "raw_affiliation_strings": [
+            "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I4210117234"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031892247",
+            "display_name": "Ioanna Boulouta",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98259816",
+              "display_name": "Birkbeck, University of London",
+              "ror": "https://ror.org/02mb95055",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I98259816"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Ioanna Boulouta",
+          "raw_affiliation_strings": [
+            "Birckbeck College, University of London, Department of Management, Malet Street, London WCIE 7HX, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Birckbeck College, University of London, Department of Management, Malet Street, London WCIE 7HX, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98259816"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070428735",
+            "display_name": "Diana Maria Cismaru",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I135790613",
+              "display_name": "National School of Political Science and Public Administration",
+              "ror": "https://ror.org/05750v978",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I135790613"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Diana M. Cismaru",
+          "raw_affiliation_strings": [
+            "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I135790613"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061838390",
+            "display_name": "Carmencita Constantin",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210093159",
+              "display_name": "Institute for Studies and Power Engineering (Romania)",
+              "ror": "https://ror.org/00jmv3y79",
+              "country_code": "RO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Carmencita Constantin",
+          "raw_affiliation_strings": [
+            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035721743",
+            "display_name": "Chris C.H. de Jager",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121797337",
+              "display_name": "Leiden University",
+              "ror": "https://ror.org/027bh9e22",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Chris C.H. de Jager",
+          "raw_affiliation_strings": [
+            "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I121797337"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068543937",
+            "display_name": "Alexandra Dudu",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-8246-3225",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8246-3225"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210117234",
+              "display_name": "GeoEcoMar",
+              "ror": "https://ror.org/02qs41y18",
+              "country_code": "RO",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210117234"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Alexandra Dudu",
+          "raw_affiliation_strings": [
+            "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I4210117234"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003087229",
+            "display_name": "Andrea Esken",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I20696738",
+              "display_name": "Wuppertal Institute for Climate, Environment and Energy",
+              "ror": "https://ror.org/01spy4t79",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I20696738"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Andrea Esken",
+          "raw_affiliation_strings": [
+            "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany",
+              "institution_ids": [
+                "https://openalex.org/I20696738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002154203",
+            "display_name": "Oana C. Falup",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210093159",
+              "display_name": "Institute for Studies and Power Engineering (Romania)",
+              "ror": "https://ror.org/00jmv3y79",
+              "country_code": "RO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Oana C. Falup",
+          "raw_affiliation_strings": [
+            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108479961",
+            "display_name": "Rebecca M. Firth",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I241749",
+              "display_name": "University of Cambridge",
+              "ror": "https://ror.org/013meh722",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Rebecca M. Firth",
+          "raw_affiliation_strings": [
+            "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Cambridge, Trumpington Street, Cambridge CB2 1AG, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111815203",
+            "display_name": "Vassiliki Gemeni",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134249",
+              "display_name": "Centre for Research and Technology Hellas",
+              "ror": "https://ror.org/03bndpq63",
+              "country_code": "GR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134249"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Vassiliki Gemeni",
+          "raw_affiliation_strings": [
+            "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece",
+              "institution_ids": [
+                "https://openalex.org/I4210134249"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067235968",
+            "display_name": "Chris A. Hendriks",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210109366",
+              "display_name": "Ecofys (Netherlands)",
+              "ror": "https://ror.org/01ypwfg63",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210109366"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Chris Hendriks",
+          "raw_affiliation_strings": [
+            "Ecofys, P.O. Box 8408, 3503 RK Utrecht, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ecofys, P.O. Box 8408, 3503 RK Utrecht, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I4210109366"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072081439",
+            "display_name": "Loredana Ivan",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7153-5198",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7153-5198"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I135790613",
+              "display_name": "National School of Political Science and Public Administration",
+              "ror": "https://ror.org/05750v978",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I135790613"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Loredana Ivan",
+          "raw_affiliation_strings": [
+            "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National University of Political Studies and Public Administration, Povernei 6, Sector 1, 010641 Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I135790613"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072256623",
+            "display_name": "Nikolaos Koukouzas",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7094-3712",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7094-3712"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134249",
+              "display_name": "Centre for Research and Technology Hellas",
+              "ror": "https://ror.org/03bndpq63",
+              "country_code": "GR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134249"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Nikolaos Koukouzas",
+          "raw_affiliation_strings": [
+            "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece",
+              "institution_ids": [
+                "https://openalex.org/I4210134249"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037373595",
+            "display_name": "Angelos Markos",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-4204-3573",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4204-3573"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I147962203",
+              "display_name": "Democritus University of Thrace",
+              "ror": "https://ror.org/03bfqnx40",
+              "country_code": "GR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I147962203"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Angelos Markos",
+          "raw_affiliation_strings": [
+            "Democritus University of Thrace, Department of Primary Education, P.O. Box 68100, N.Hili, Alexandroupolis, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Democritus University of Thrace, Department of Primary Education, P.O. Box 68100, N.Hili, Alexandroupolis, Greece",
+              "institution_ids": [
+                "https://openalex.org/I147962203"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000055073",
+            "display_name": "Robert Næss",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-5258-2346",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5258-2346"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204778367",
+              "display_name": "Norwegian University of Science and Technology",
+              "ror": "https://ror.org/05xg72x27",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204778367"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Robert Næss",
+          "raw_affiliation_strings": [
+            "Norwegian University of Science and Technology, Department of Interdisciplinary Studies of Culture, N-7491 Trondheim, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Norwegian University of Science and Technology, Department of Interdisciplinary Studies of Culture, N-7491 Trondheim, Norway",
+              "institution_ids": [
+                "https://openalex.org/I204778367"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027912829",
+            "display_name": "Katja Pietzner",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I20696738",
+              "display_name": "Wuppertal Institute for Climate, Environment and Energy",
+              "ror": "https://ror.org/01spy4t79",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I20696738"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Katja Pietzner",
+          "raw_affiliation_strings": [
+            "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany",
+              "institution_ids": [
+                "https://openalex.org/I20696738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020011043",
+            "display_name": "Irene R. Samoila",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210093159",
+              "display_name": "Institute for Studies and Power Engineering (Romania)",
+              "ror": "https://ror.org/00jmv3y79",
+              "country_code": "RO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Irene R. Samoila",
+          "raw_affiliation_strings": [
+            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091076367",
+            "display_name": "Constantin Ștefan Sava",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-7120-5247",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7120-5247"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210117234",
+              "display_name": "GeoEcoMar",
+              "ror": "https://ror.org/02qs41y18",
+              "country_code": "RO",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210117234"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Constantin S. Sava",
+          "raw_affiliation_strings": [
+            "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Institute of Marine Geology and Geoecology (GeoEcoMar), Str. Dimitrie Onciul 23-25, RO-024053 Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I4210117234"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-9881-1578",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9881-1578"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013528098",
+            "display_name": "Claudia E. Tomescu",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210093159",
+              "display_name": "Institute for Studies and Power Engineering (Romania)",
+              "ror": "https://ror.org/00jmv3y79",
+              "country_code": "RO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Claudia E. Tomescu",
+          "raw_affiliation_strings": [
+            "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Studies and Power Engineering (ISPE), Bdul Lacul Tei 1-3, P.O. Box 30-33, Bucharest, Romania",
+              "institution_ids": [
+                "https://openalex.org/I4210093159"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008430300",
+            "display_name": "Hans Torvatn",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-0996-4805",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0996-4805"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173888879",
+              "display_name": "SINTEF",
+              "ror": "https://ror.org/01f677e56",
+              "country_code": "NO",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I173888879"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4387930256",
+              "display_name": "SINTEF Industry",
+              "ror": "https://ror.org/0422tvz87",
+              "country_code": "NO",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I173888879",
+                "https://openalex.org/I4387930256"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Hans Y. Torvatn",
+          "raw_affiliation_strings": [
+            "SINTEF, Department for Industrial Management, P.O. Box 4760 Sluppen, NO-7465 Trondheim, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SINTEF, Department for Industrial Management, P.O. Box 4760 Sluppen, NO-7465 Trondheim, Norway",
+              "institution_ids": [
+                "https://openalex.org/I173888879",
+                "https://openalex.org/I4387930256"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039939210",
+            "display_name": "Sturle Danielsen Tvedt",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-0708-3799",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0708-3799"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204778367",
+              "display_name": "Norwegian University of Science and Technology",
+              "ror": "https://ror.org/05xg72x27",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204778367"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Sturle D. Tvedt",
+          "raw_affiliation_strings": [
+            "Norwegian University of Science and Technology, Department of Psychology, NO-7491 Trondheim, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Norwegian University of Science and Technology, Department of Psychology, NO-7491 Trondheim, Norway",
+              "institution_ids": [
+                "https://openalex.org/I204778367"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021037282",
+            "display_name": "Daniel Vallentin",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-7132-2822",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7132-2822"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I20696738",
+              "display_name": "Wuppertal Institute for Climate, Environment and Energy",
+              "ror": "https://ror.org/01spy4t79",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I20696738"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Daniel Vallentin",
+          "raw_affiliation_strings": [
+            "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wuppertal Institute for Climate, Environment and Energy, P.O. Box 100480, Döppersberg 19, D-42004 Wuppertal, Germany",
+              "institution_ids": [
+                "https://openalex.org/I20696738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105929057",
+            "display_name": "Julia M. West",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-1891-4217",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1891-4217"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Julia M. West",
+          "raw_affiliation_strings": [
+            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5056204351",
+            "display_name": "Fotini Ziogou",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134249",
+              "display_name": "Centre for Research and Technology Hellas",
+              "ror": "https://ror.org/03bndpq63",
+              "country_code": "GR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134249"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Fotini Ziogou",
+          "raw_affiliation_strings": [
+            "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Research and Technology Hellas/Chemical Processand Energy Resources Instistute (CERTH/CPERI), Aigialias 52, Marousi GR-15125, Greece",
+              "institution_ids": [
+                "https://openalex.org/I4210134249"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 6,
+      "institutions_distinct_count": 15,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044029994"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I121797337"
+      ],
+      "apc_list": {
+        "value": 4100,
+        "currency": "USD",
+        "value_usd": 4100
+      },
+      "apc_paid": null,
+      "fwci": 2.2344,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 41,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.88273608,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "18",
+        "issue": null,
+        "first_page": "256",
+        "last_page": "263"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12503",
+        "display_name": "Social Acceptance of Renewable Energy",
+        "score": 0.3037000000476837,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12503",
+          "display_name": "Social Acceptance of Renewable Energy",
+          "score": 0.3037000000476837,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10841",
+          "display_name": "Economic and Environmental Valuation",
+          "score": 0.20059999823570251,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12679",
+          "display_name": "Focus Groups and Qualitative Methods",
+          "score": 0.16189999878406525,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
+          "display_name": "carbon capture and storage",
+          "score": 0.984000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/public-opinion",
+          "display_name": "public opinion",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/focus-groups",
+          "display_name": "focus groups",
+          "score": 0.9139999747276306
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C56995899",
+          "wikidata": "https://www.wikidata.org/wiki/Q1126687",
+          "display_name": "Focus group",
+          "level": 2,
+          "score": 0.8270319104194641
+        },
+        {
+          "id": "https://openalex.org/C2779530757",
+          "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+          "display_name": "Quality (philosophy)",
+          "level": 2,
+          "score": 0.6165764927864075
+        },
+        {
+          "id": "https://openalex.org/C2776436953",
+          "wikidata": "https://www.wikidata.org/wiki/Q5163215",
+          "display_name": "Consistency (knowledge bases)",
+          "level": 2,
+          "score": 0.5828639268875122
+        },
+        {
+          "id": "https://openalex.org/C134698397",
+          "wikidata": "https://www.wikidata.org/wiki/Q17946",
+          "display_name": "Public opinion",
+          "level": 3,
+          "score": 0.5466374754905701
+        },
+        {
+          "id": "https://openalex.org/C192209626",
+          "wikidata": "https://www.wikidata.org/wiki/Q190909",
+          "display_name": "Focus (optics)",
+          "level": 2,
+          "score": 0.5331477522850037
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4701302945613861
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.2207997441291809
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.17699071764945984
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0.1582883894443512
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.14739438891410828
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 5,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ijggc.2013.07.015",
+          "doi": "https://doi.org/10.1016/j.ijggc.2013.07.015",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.ijggc.2013.07.015",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S21262371",
+            "display_name": "International journal of greenhouse gas control",
+            "issn_l": "1878-0148",
+            "issn": [
+              "1878-0148",
+              "1750-5836"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-a",
+              "jufo-2",
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Greenhouse Gas Control",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:eprints.bbk.ac.uk.oai2:58132",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://eprints.bbk.ac.uk/id/eprint/58132/1/58132.pdf",
+          "pdf_url": "https://eprints.bbk.ac.uk/id/eprint/58132/1/58132.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400465",
+            "display_name": "BIROn (Birkbeck, University of London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I98259816",
+            "host_organization_name": "Birkbeck, University of London",
+            "host_organization_lineage": [
+              "https://openalex.org/I98259816"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:https://api.nva.unit.no/publication/0198cc4a382c-71b48383-5388-4908-acf7-2de0cdd22f18",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11250/4360608",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407153562",
+            "display_name": "NVA (Nasjonalt vitenarkiv)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:epub.wupperinst.org:5009",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://epub.wupperinst.org/frontdoor/index/index/docId/5009",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401827",
+            "display_name": "Publication Server of the Wuppertal Institute (Wuppertal Institute)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I20696738",
+            "host_organization_name": "Wuppertal Institute for Climate, Environment and Energy",
+            "host_organization_lineage": [
+              "https://openalex.org/I20696738"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:503070",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/503070/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
+        }
+      ],
+      "study_designs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G7985670133",
+          "display_name": null,
+          "funder_award_id": "bgs05010",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 70,
+      "referenced_works": [
+        "https://openalex.org/W126774542",
+        "https://openalex.org/W199238147",
+        "https://openalex.org/W421219210",
+        "https://openalex.org/W613915227",
+        "https://openalex.org/W1489139710",
+        "https://openalex.org/W1505402154",
+        "https://openalex.org/W1526777193",
+        "https://openalex.org/W1539896512",
+        "https://openalex.org/W1723194642",
+        "https://openalex.org/W1936758313",
+        "https://openalex.org/W1968255460",
+        "https://openalex.org/W1976735359",
+        "https://openalex.org/W1977157759",
+        "https://openalex.org/W1980034096",
+        "https://openalex.org/W1988259051",
+        "https://openalex.org/W1998798431",
+        "https://openalex.org/W2000317699",
+        "https://openalex.org/W2000952803",
+        "https://openalex.org/W2004508718",
+        "https://openalex.org/W2011744324",
+        "https://openalex.org/W2017306972",
+        "https://openalex.org/W2032635261",
+        "https://openalex.org/W2036031297",
+        "https://openalex.org/W2041765503",
+        "https://openalex.org/W2044220923",
+        "https://openalex.org/W2049222511",
+        "https://openalex.org/W2051238050",
+        "https://openalex.org/W2055277725",
+        "https://openalex.org/W2056144694",
+        "https://openalex.org/W2061802300",
+        "https://openalex.org/W2069023087",
+        "https://openalex.org/W2069964497",
+        "https://openalex.org/W2080734816",
+        "https://openalex.org/W2082222678",
+        "https://openalex.org/W2082422522",
+        "https://openalex.org/W2084621721",
+        "https://openalex.org/W2094938624",
+        "https://openalex.org/W2096182988",
+        "https://openalex.org/W2098393822",
+        "https://openalex.org/W2101903660",
+        "https://openalex.org/W2104971230",
+        "https://openalex.org/W2107856676",
+        "https://openalex.org/W2110464107",
+        "https://openalex.org/W2112072287",
+        "https://openalex.org/W2114958084",
+        "https://openalex.org/W2115048421",
+        "https://openalex.org/W2134032236",
+        "https://openalex.org/W2142378683",
+        "https://openalex.org/W2144386457",
+        "https://openalex.org/W2144712361",
+        "https://openalex.org/W2157300266",
+        "https://openalex.org/W2158958034",
+        "https://openalex.org/W2159172402",
+        "https://openalex.org/W2165150070",
+        "https://openalex.org/W2170834940",
+        "https://openalex.org/W2318094544",
+        "https://openalex.org/W2334705038",
+        "https://openalex.org/W2795614343",
+        "https://openalex.org/W2798572278",
+        "https://openalex.org/W2942058786",
+        "https://openalex.org/W3019378960",
+        "https://openalex.org/W4234047512",
+        "https://openalex.org/W4243384190",
+        "https://openalex.org/W4248276305",
+        "https://openalex.org/W4255988578",
+        "https://openalex.org/W6608158602",
+        "https://openalex.org/W6762151212",
+        "https://openalex.org/W6817004996",
+        "https://openalex.org/W7042675494",
+        "https://openalex.org/W7056131224"
+      ],
+      "related_works": [
+        "https://openalex.org/W2073167768",
+        "https://openalex.org/W1994834253",
+        "https://openalex.org/W2158958034",
+        "https://openalex.org/W6929146821",
+        "https://openalex.org/W1585386471",
+        "https://openalex.org/W2080734816",
+        "https://openalex.org/W2100681275",
+        "https://openalex.org/W2084621721",
+        "https://openalex.org/W2049222511",
+        "https://openalex.org/W6996749719"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1963784156",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-24T14:10:38.155754",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2084137546",
       "doi": "https://doi.org/10.1144/0016-764904-096",
       "title": "Investigating the record of Permian climate change from argillaceous sedimentary rocks, Oman",
@@ -61793,9 +61832,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.821399986743927
         }
       ],
       "study_designs": [],
@@ -63736,9 +63775,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7096999883651733,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7096999883651733
         }
       ],
       "study_designs": [],
@@ -68295,13 +68334,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4079,
+      "fwci": 0.4026,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52844639,
+        "value": 0.52336039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69856,9 +69895,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41499999165534973,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.41499999165534973
         }
       ],
       "study_designs": [],
@@ -73257,14 +73296,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9090999960899353
         }
       ],
       "study_designs": [],
@@ -75936,13 +75975,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.616,
+      "fwci": 1.5918,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82183224,
+        "value": 0.8202847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76250,14 +76289,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.8485000133514404,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8485000133514404
         }
       ],
       "study_designs": [],
@@ -76331,7 +76370,7 @@
         "doi": "https://doi.org/10.18814/epiiugs/2023/023015",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.18814/epiiugs/2023/023015",
-        "pdf_url": "https://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/2023/023015",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S182646890",
           "display_name": "Episodes",
@@ -76384,7 +76423,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "diamond",
-        "oa_url": "https://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/2023/023015",
+        "oa_url": "https://doi.org/10.18814/epiiugs/2023/023015",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -76913,13 +76952,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2054,
+      "fwci": 1.2079,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.711738,
+        "value": 0.71213348,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77155,7 +77194,7 @@
           "doi": "https://doi.org/10.18814/epiiugs/2023/023015",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.18814/epiiugs/2023/023015",
-          "pdf_url": "https://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/2023/023015",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S182646890",
             "display_name": "Episodes",
@@ -77262,7 +77301,7 @@
         "doi": "https://doi.org/10.18814/epiiugs/2023/023015",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.18814/epiiugs/2023/023015",
-        "pdf_url": "https://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/2023/023015",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S182646890",
           "display_name": "Episodes",
@@ -77343,11 +77382,9 @@
       ],
       "has_content": {
         "grobid_xml": false,
-        "pdf": true
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4380997768.pdf"
-      },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -77706,7 +77743,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2023-06-17T00:00:00"
     },
     {
@@ -83275,9 +83312,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -89855,13 +89892,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2091,
+      "fwci": 1.1885,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80270569,
+        "value": 0.80094093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90158,14 +90195,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8485000133514404,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8485000133514404
         },
         {
-          "score": 0.651199996471405,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.651199996471405
         }
       ],
       "study_designs": [],
@@ -93162,14 +93199,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "display_name": "Partnerships for the goals",
+          "score": 0.75
         },
         {
-          "score": 0.5378999710083008,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5378999710083008
         }
       ],
       "study_designs": [],
@@ -94811,13 +94848,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6221,
+      "fwci": 1.5954,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82831926,
+        "value": 0.82572047,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95116,24 +95153,24 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         },
         {
-          "score": 0.47189998626708984,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.47189998626708984
         },
         {
-          "score": 0.428600013256073,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.428600013256073
         },
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -96322,9 +96359,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -99011,13 +99048,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7826,
+      "fwci": 2.7365,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88928868,
+        "value": 0.88803089,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99322,14 +99359,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -99965,9 +100002,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -101252,14 +101289,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.571399986743927,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.571399986743927
         }
       ],
       "study_designs": [],
@@ -102071,9 +102108,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -102607,19 +102644,19 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9853000044822693
         },
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.821399986743927
         },
         {
-          "score": 0.5925999879837036,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.5925999879837036
         }
       ],
       "study_designs": [],
@@ -103959,14 +103996,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.75
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
@@ -105203,13 +105240,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.1964,
+      "fwci": 0.1931,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37761447,
+        "value": 0.37076952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -109932,19 +109969,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9090999960899353
         },
         {
-          "score": 0.8970999717712402,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.8970999717712402
         }
       ],
       "study_designs": [],
@@ -110395,14 +110432,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
@@ -110569,13 +110606,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3721,
+      "fwci": 0.3659,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.51997924,
+        "value": 0.52182845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -110877,19 +110914,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9090999960899353
         },
         {
-          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.7811999917030334
         }
       ],
       "study_designs": [],
@@ -113265,14 +113302,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -113697,9 +113734,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -114166,9 +114203,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -115675,9 +115712,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],
@@ -118128,14 +118165,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.9853000044822693,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9853000044822693
         }
       ],
       "study_designs": [],
@@ -119053,9 +119090,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
@@ -119231,6 +119268,16 @@
           "acted_on_behalf_of": [],
           "institutions": [
             {
+              "id": "https://openalex.org/I3124059619",
+              "display_name": "China University of Geosciences",
+              "ror": "https://ror.org/04gcegc37",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124059619"
+              ]
+            },
+            {
               "id": "https://openalex.org/I3125743391",
               "display_name": "China University of Geosciences (Beijing)",
               "ror": "https://ror.org/04q6c7p66",
@@ -119255,6 +119302,7 @@
             {
               "raw_affiliation_string": "School of the Earth Science and Resources, China University of Geosciences, Beijing, 10083, China",
               "institution_ids": [
+                "https://openalex.org/I3124059619",
                 "https://openalex.org/I3125743391"
               ]
             }
@@ -119492,7 +119540,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 5,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 8,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -120574,7 +120622,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -121180,9 +121228,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -122287,14 +122335,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.5378999710083008,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5378999710083008
         }
       ],
       "study_designs": [],
@@ -122888,9 +122936,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -124711,9 +124759,17 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7238990156",
+          "display_name": "Proceedings 76th EAGE Conference and Exhibition 2014",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2094808401"
+        "https://openalex.org/W2094808401",
+        "https://openalex.org/W7238990156"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -125161,14 +125217,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9853000044822693
         },
         {
-          "score": 0.8970999717712402,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.8970999717712402
         }
       ],
       "study_designs": [],
@@ -125485,7 +125541,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2094808401",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -127415,14 +127471,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.571399986743927,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.571399986743927
         },
         {
-          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46149998903274536
         }
       ],
       "study_designs": [],
@@ -129090,9 +129146,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
@@ -130376,9 +130432,17 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239025179",
+          "display_name": "GEO 2008",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2734746008"
+        "https://openalex.org/W2734746008",
+        "https://openalex.org/W7239025179"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -130860,9 +130924,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -131532,7 +131596,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2734746008",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2017-07-21T00:00:00"
     },
     {
@@ -133244,9 +133308,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -134045,9 +134109,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
@@ -134531,14 +134595,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157
         }
       ],
       "study_designs": [],
@@ -135085,9 +135149,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -135537,9 +135601,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -136055,9 +136119,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -136135,9 +136199,17 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239025179",
+          "display_name": "GEO 2008",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3021206053"
+        "https://openalex.org/W3021206053",
+        "https://openalex.org/W7239025179"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -137041,7 +137113,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3021206053",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -137382,9 +137454,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47620001435279846,
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, justice, and strong institutions"
+          "display_name": "Peace, justice, and strong institutions",
+          "score": 0.47620001435279846
         }
       ],
       "study_designs": [],
@@ -142024,9 +142096,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -142884,14 +142956,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9090999960899353
         }
       ],
       "study_designs": [],
@@ -144828,14 +144900,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         },
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
