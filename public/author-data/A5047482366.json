@@ -13,10 +13,10 @@
     ],
     "full_name": "Hussain F. Al Ajmi",
     "works_count": 17,
-    "cited_by_count": 144,
+    "cited_by_count": 138,
     "summary_stats": {
       "2yr_mean_citedness": 0,
-      "h_index": 6,
+      "h_index": 5,
       "i10_index": 5
     },
     "ids": {
@@ -160,7 +160,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000236,
+        "value": 0.0000235,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -177,7 +177,7 @@
       {
         "id": "https://openalex.org/T10894",
         "display_name": "Groundwater flow and contamination studies",
-        "value": 0.0000156,
+        "value": 0.0000155,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000154,
+        "value": 0.0000152,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0000136,
+        "value": 0.0000135,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -334,31 +334,31 @@
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 8
+        "cited_by_count": 7
       },
       {
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 8
+        "cited_by_count": 7
       },
       {
         "year": 2019,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 5
+        "cited_by_count": 4
       },
       {
         "year": 2020,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 6
+        "cited_by_count": 4
       },
       {
         "year": 2021,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 9
+        "cited_by_count": 10
       },
       {
         "year": 2022,
@@ -401,7 +401,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5047482366",
-    "updated_date": "2026-11-24T12:38:39",
+    "updated_date": "2026-11-25T10:29:20",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -614,18 +614,18 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.9144,
+      "fwci": 0.9363,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6823993,
+        "value": 0.68636722,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 87,
         "max": 99
       },
       "biblio": {
@@ -945,25 +945,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 18,
+      "referenced_works_count": 16,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W203584942",
         "https://openalex.org/W649820064",
-        "https://openalex.org/W1039998118",
         "https://openalex.org/W1467821615",
         "https://openalex.org/W1575680728",
         "https://openalex.org/W1892752429",
@@ -971,7 +970,6 @@
         "https://openalex.org/W2102570291",
         "https://openalex.org/W2143558021",
         "https://openalex.org/W2183796025",
-        "https://openalex.org/W2428554414",
         "https://openalex.org/W2589202187",
         "https://openalex.org/W2754859214",
         "https://openalex.org/W2898659379",
@@ -1027,7 +1025,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-24T14:10:38.155754",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2018-03-29T00:00:00"
     },
     {
@@ -1243,18 +1241,18 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.5545,
+      "fwci": 1.6046,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 26,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78774177,
+        "value": 0.7941349,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 87,
         "max": 99
       },
       "biblio": {
@@ -1534,18 +1532,15 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 9,
+      "referenced_works_count": 6,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W413578628",
-        "https://openalex.org/W614825625",
-        "https://openalex.org/W646961543",
         "https://openalex.org/W650514499",
-        "https://openalex.org/W1521874678",
         "https://openalex.org/W1581625917",
         "https://openalex.org/W2939888277",
         "https://openalex.org/W3126698714"
@@ -1602,7 +1597,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-24T14:10:38.155754",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2086,13 +2081,13 @@
         "currency": "CHF",
         "value_usd": 3258
       },
-      "fwci": 2.5199,
+      "fwci": 2.4882,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88587388,
+        "value": 0.88384959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2443,9 +2438,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.965499997138977,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -2468,8 +2463,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407918264.pdf",
@@ -3565,18 +3560,18 @@
         "value_usd": 2390
       },
       "apc_paid": null,
-      "fwci": 1.6721,
+      "fwci": 1.7151,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82650751,
+        "value": 0.82968353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -3910,18 +3905,16 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 56,
+      "referenced_works_count": 50,
       "referenced_works": [
-        "https://openalex.org/W1491530927",
         "https://openalex.org/W1515230668",
         "https://openalex.org/W1562184871",
         "https://openalex.org/W1605924571",
         "https://openalex.org/W1915951318",
-        "https://openalex.org/W1957217261",
         "https://openalex.org/W1969612317",
         "https://openalex.org/W1970729319",
         "https://openalex.org/W1972950266",
@@ -3942,11 +3935,9 @@
         "https://openalex.org/W2041214642",
         "https://openalex.org/W2041520151",
         "https://openalex.org/W2045956763",
-        "https://openalex.org/W2046534258",
         "https://openalex.org/W2046755995",
         "https://openalex.org/W2048569709",
         "https://openalex.org/W2053244883",
-        "https://openalex.org/W2054796647",
         "https://openalex.org/W2054921342",
         "https://openalex.org/W2056303512",
         "https://openalex.org/W2057696791",
@@ -3966,11 +3957,9 @@
         "https://openalex.org/W2167033531",
         "https://openalex.org/W2171934083",
         "https://openalex.org/W2614359689",
-        "https://openalex.org/W2741196203",
         "https://openalex.org/W2939888277",
         "https://openalex.org/W3121355253",
         "https://openalex.org/W3205220501",
-        "https://openalex.org/W4302551746",
         "https://openalex.org/W7030340479"
       ],
       "related_works": [
@@ -4037,7 +4026,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4475,18 +4464,18 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 1.284,
+      "fwci": 1.3018,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7677673,
+        "value": 0.77022705,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 87,
         "max": 97
       },
       "biblio": {
@@ -4814,24 +4803,19 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 13,
+      "referenced_works_count": 8,
       "referenced_works": [
-        "https://openalex.org/W280024276",
-        "https://openalex.org/W1534738797",
         "https://openalex.org/W1925721664",
-        "https://openalex.org/W1966101546",
         "https://openalex.org/W1985154184",
         "https://openalex.org/W2025672249",
         "https://openalex.org/W2083824245",
         "https://openalex.org/W2093551220",
         "https://openalex.org/W2104580656",
         "https://openalex.org/W2135642521",
-        "https://openalex.org/W2182877433",
-        "https://openalex.org/W3019168552",
         "https://openalex.org/W7167724021"
       ],
       "related_works": [
@@ -4878,615 +4862,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2582847651",
-      "doi": "https://doi.org/10.1007/s12517-016-2800-4",
-      "title": "The Wajid Sandstone around Abha/Khamis Mushayt and in its type area: lithostratigraphic architecture and correlations",
-      "display_name": "The Wajid Sandstone around Abha/Khamis Mushayt and in its type area: lithostratigraphic architecture and correlations",
-      "alternate_titles": [],
-      "publication_year": 2017,
-      "publication_date": "2017-01-24",
-      "ids": {
-        "openalex": "https://openalex.org/W2582847651",
-        "doi": "https://doi.org/10.1007/s12517-016-2800-4",
-        "mag": "2582847651"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s12517-016-2800-4",
-        "doi": "https://doi.org/10.1007/s12517-016-2800-4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s12517-016-2800-4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S38407038",
-          "display_name": "Arabian Journal of Geosciences",
-          "issn_l": "1866-7511",
-          "issn": [
-            "1866-7511",
-            "1866-7538"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "poland-20",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal of Geosciences",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2582847651"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5078290557",
-            "display_name": "Martin Keller",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-5994-7547",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5994-7547"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181369854",
-              "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-              "ror": "https://ror.org/00f7hpc57",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181369854"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Martin Keller",
-          "raw_affiliation_strings": [
-            "GeoZentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
-            "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "GeoZentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
-              "institution_ids": [
-                "https://openalex.org/I181369854"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039539071",
-            "display_name": "Bassam A. Abuamarah",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-8272-0367",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8272-0367"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I28022161",
-              "display_name": "King Saud University",
-              "ror": "https://ror.org/02f81g417",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I28022161"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Bassam Abu Amarah",
-          "raw_affiliation_strings": [
-            "Department of Geological Sciences, King Saud University, Riyadh, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geological Sciences, King Saud University, Riyadh, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I28022161"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5047482366",
-            "display_name": "Hussain F. Al Ajmi",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Hussain F. Al Ajmi",
-          "raw_affiliation_strings": [
-            "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5078290557"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I181369854"
-      ],
-      "apc_list": {
-        "value": 3090,
-        "currency": "USD",
-        "value_usd": 3090
-      },
-      "apc_paid": null,
-      "fwci": 0.5925,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.62276482,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "10",
-        "issue": "3",
-        "first_page": "55",
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.961899995803833,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.961899995803833,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.020800000056624413,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.006300000008195639,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/lithostratigraphy",
-          "display_name": "lithostratigraphy",
-          "score": 0.9459999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-architecture",
-          "display_name": "stratigraphic architecture",
-          "score": 0.9409999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "unconformity",
-          "score": 0.7039999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/regolith",
-          "display_name": "regolith",
-          "score": 0.8429999947547913
-        },
-        {
-          "id": "https://openalex.org/keywords/quartz-pebble-conglomerate",
-          "display_name": "quartz-pebble conglomerates",
-          "score": 0.8019999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/submarine-dunes",
-          "display_name": "submarine dunes",
-          "score": 0.8140000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/skolithos",
-          "display_name": "Skolithos",
-          "score": 0.871999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/fluvial-facies",
-          "display_name": "fluvial facies",
-          "score": 0.8999999761581421
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-correlation",
-          "display_name": "stratigraphic correlation",
-          "score": 0.6209999918937683
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.625
-        },
-        {
-          "id": "https://openalex.org/keywords/abha",
-          "display_name": "Abha",
-          "score": 0.5870000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/najran",
-          "display_name": "Najran",
-          "score": 0.9549999833106995
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.891588568687439
-        },
-        {
-          "id": "https://openalex.org/C191735495",
-          "wikidata": "https://www.wikidata.org/wiki/Q876798",
-          "display_name": "Unconformity",
-          "level": 3,
-          "score": 0.7963492274284363
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.7648931741714478
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.707527220249176
-        },
-        {
-          "id": "https://openalex.org/C2777760186",
-          "wikidata": "https://www.wikidata.org/wiki/Q14673",
-          "display_name": "Pebble",
-          "level": 2,
-          "score": 0.5924901962280273
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.5497307777404785
-        },
-        {
-          "id": "https://openalex.org/C40616122",
-          "wikidata": "https://www.wikidata.org/wiki/Q856124",
-          "display_name": "Lithostratigraphy",
-          "level": 3,
-          "score": 0.5488473176956177
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5349268913269043
-        },
-        {
-          "id": "https://openalex.org/C106804226",
-          "wikidata": "https://www.wikidata.org/wiki/Q191704",
-          "display_name": "Conglomerate",
-          "level": 3,
-          "score": 0.5290956497192383
-        },
-        {
-          "id": "https://openalex.org/C104873425",
-          "wikidata": "https://www.wikidata.org/wiki/Q205768",
-          "display_name": "Sedimentology",
-          "level": 2,
-          "score": 0.5269506573677063
-        },
-        {
-          "id": "https://openalex.org/C85124164",
-          "wikidata": "https://www.wikidata.org/wiki/Q2065586",
-          "display_name": "Red beds",
-          "level": 3,
-          "score": 0.44570106267929077
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.4439057409763336
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.44229656457901
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3465408682823181
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.2232503890991211
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.1938014030456543
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s12517-016-2800-4",
-          "doi": "https://doi.org/10.1007/s12517-016-2800-4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s12517-016-2800-4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S38407038",
-            "display_name": "Arabian Journal of Geosciences",
-            "issn_l": "1866-7511",
-            "issn": [
-              "1866-7511",
-              "1866-7538"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "poland-20",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Arabian Journal of Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 32,
-      "referenced_works": [
-        "https://openalex.org/W23143290",
-        "https://openalex.org/W43588767",
-        "https://openalex.org/W75145070",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W604057134",
-        "https://openalex.org/W1426588521",
-        "https://openalex.org/W1518311132",
-        "https://openalex.org/W1534364884",
-        "https://openalex.org/W1559456897",
-        "https://openalex.org/W1673688546",
-        "https://openalex.org/W1755726326",
-        "https://openalex.org/W1907005196",
-        "https://openalex.org/W1948505752",
-        "https://openalex.org/W1966688147",
-        "https://openalex.org/W1979813018",
-        "https://openalex.org/W1988881991",
-        "https://openalex.org/W1991242972",
-        "https://openalex.org/W1997132358",
-        "https://openalex.org/W1997832204",
-        "https://openalex.org/W2021181213",
-        "https://openalex.org/W2051173838",
-        "https://openalex.org/W2075345459",
-        "https://openalex.org/W2079645857",
-        "https://openalex.org/W2087614875",
-        "https://openalex.org/W2108844550",
-        "https://openalex.org/W2110801167",
-        "https://openalex.org/W2132440552",
-        "https://openalex.org/W2153985161",
-        "https://openalex.org/W2154790037",
-        "https://openalex.org/W2169408416",
-        "https://openalex.org/W2242792719",
-        "https://openalex.org/W4251087221"
-      ],
-      "related_works": [
-        "https://openalex.org/W2054921342",
-        "https://openalex.org/W2087614875",
-        "https://openalex.org/W604057134",
-        "https://openalex.org/W2329392589",
-        "https://openalex.org/W23143290",
-        "https://openalex.org/W2034485780",
-        "https://openalex.org/W2558487545",
-        "https://openalex.org/W2759196221",
-        "https://openalex.org/W2041876347",
-        "https://openalex.org/W4239352755"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2582847651",
-      "counts_by_year": [
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2017-02-03T00:00:00"
     },
     {
       "id": "https://openalex.org/W436324498",
@@ -5832,8 +5209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5862,42 +5239,72 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1957217261",
-      "doi": null,
-      "title": "New insights into the Facies Distribution of the Wajid Sandstone in its Western Outcrop-Area and Implication on Reservoir Properties",
-      "display_name": "New insights into the Facies Distribution of the Wajid Sandstone in its Western Outcrop-Area and Implication on Reservoir Properties",
+      "id": "https://openalex.org/W2582847651",
+      "doi": "https://doi.org/10.1007/s12517-016-2800-4",
+      "title": "The Wajid Sandstone around Abha/Khamis Mushayt and in its type area: lithostratigraphic architecture and correlations",
+      "display_name": "The Wajid Sandstone around Abha/Khamis Mushayt and in its type area: lithostratigraphic architecture and correlations",
       "alternate_titles": [],
-      "publication_year": 2008,
-      "publication_date": "2008-11-16",
+      "publication_year": 2017,
+      "publication_date": "2017-01-24",
       "ids": {
-        "openalex": "https://openalex.org/W1957217261",
-        "mag": "1957217261"
+        "openalex": "https://openalex.org/W2582847651",
+        "doi": "https://doi.org/10.1007/s12517-016-2800-4",
+        "mag": "2582847651"
       },
       "language": "en",
       "primary_location": {
-        "id": "mag:1957217261",
-        "doi": null,
+        "id": "doi:10.1007/s12517-016-2800-4",
+        "doi": "https://doi.org/10.1007/s12517-016-2800-4",
         "is_oa": false,
-        "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/74220/",
+        "landing_page_url": "https://doi.org/10.1007/s12517-016-2800-4",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S38407038",
+          "display_name": "Arabian Journal of Geosciences",
+          "issn_l": "1866-7511",
+          "issn": [
+            "1866-7511",
+            "1866-7538"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
         "license": null,
         "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": null
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal of Geosciences",
+        "raw_type": "journal-article"
       },
       "parent_works": [],
       "lineage": [
-        "https://openalex.org/W1957217261"
+        "https://openalex.org/W2582847651"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
       "type": "article",
       "is_traditional": true,
-      "indexed_in": [],
+      "indexed_in": [
+        "crossref"
+      ],
       "open_access": {
         "is_oa": false,
         "oa_status": "closed",
@@ -5907,6 +5314,97 @@
       "authorships": [
         {
           "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078290557",
+            "display_name": "Martin Keller",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-5994-7547",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5994-7547"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181369854",
+              "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+              "ror": "https://ror.org/00f7hpc57",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181369854"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Martin Keller",
+          "raw_affiliation_strings": [
+            "GeoZentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
+            "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "GeoZentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I181369854"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039539071",
+            "display_name": "Bassam A. Abuamarah",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-8272-0367",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8272-0367"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28022161",
+              "display_name": "King Saud University",
+              "ror": "https://ror.org/02f81g417",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Bassam Abu Amarah",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, King Saud University, Riyadh, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, King Saud University, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5047482366",
             "display_name": "Hussain F. Al Ajmi",
@@ -5919,100 +5417,52 @@
           "countries": [],
           "is_corresponding": false,
           "contributor_roles": [],
-          "raw_author_name": "Hussain Al Ajmi",
-          "raw_affiliation_strings": [],
+          "raw_author_name": "Hussain F. Al Ajmi",
+          "raw_affiliation_strings": [
+            "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5078290557",
-            "display_name": "Martin Keller",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-5994-7547",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5994-7547"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Martin Keller",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074383190",
-            "display_name": "Matthias Hinderer",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-5528-3728",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5528-3728"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Matthias Hinderer",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5070429780",
-            "display_name": "Randolf Rausch",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-3635-7821",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3635-7821"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Randolf Rausch",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ministry of Water and Electricity, Water Resources Development Department, Riyadh, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5078290557"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I181369854"
+      ],
+      "apc_list": {
+        "value": 3090,
+        "currency": "USD",
+        "value_usd": 3090
+      },
       "apc_paid": null,
-      "fwci": 1.6107,
+      "fwci": 0.3991,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 6,
+      "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84187314,
+        "value": 0.56486192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 86,
-        "max": 92
+        "max": 93
       },
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
+        "volume": "10",
+        "issue": "3",
+        "first_page": "55",
         "last_page": null
       },
       "is_retracted": false,
@@ -6020,12 +5470,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.7645999789237976,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.961899995803833,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -6038,26 +5488,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.7645999789237976,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.20579999685287476,
+          "score": 0.961899995803833,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -6072,9 +5505,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0.007899999618530273,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.020800000056624413,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -6087,438 +5520,14 @@
             "id": "https://openalex.org/domains/3",
             "display_name": "Physical Sciences"
           }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/facies-distribution",
-          "display_name": "facies distribution",
-          "score": 0.9070000052452087
         },
         {
-          "id": "https://openalex.org/keywords/reservoir-properties",
-          "display_name": "reservoir properties",
-          "score": 0.777999997138977
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop-analogs",
-          "display_name": "outcrop analogs",
-          "score": 0.593999981880188
-        },
-        {
-          "id": "https://openalex.org/keywords/sandstone-reservoirs",
-          "display_name": "sandstone reservoirs",
-          "score": 0.6039999723434448
-        },
-        {
-          "id": "https://openalex.org/keywords/lithofacies",
-          "display_name": "lithofacies",
-          "score": 0.6039999723434448
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.8672664165496826
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.8121225833892822
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7959672808647156
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.40455362200737
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3812890946865082
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3793765902519226
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.33257031440734863
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:1957217261",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/74220/",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 5,
-      "referenced_works": [
-        "https://openalex.org/W1581594313",
-        "https://openalex.org/W1983728751",
-        "https://openalex.org/W1986392889",
-        "https://openalex.org/W1991092005",
-        "https://openalex.org/W2087614875"
-      ],
-      "related_works": [
-        "https://openalex.org/W7039754525",
-        "https://openalex.org/W136310529",
-        "https://openalex.org/W1838936283",
-        "https://openalex.org/W3035108166",
-        "https://openalex.org/W2469264908",
-        "https://openalex.org/W1747876392",
-        "https://openalex.org/W3023837637",
-        "https://openalex.org/W604057134",
-        "https://openalex.org/W2606829716",
-        "https://openalex.org/W2980912641"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1957217261",
-      "counts_by_year": [
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1039998118",
-      "doi": null,
-      "title": "New Approaches to Quantify Groundwater Recharge in Arid Areas",
-      "display_name": "New Approaches to Quantify Groundwater Recharge in Arid Areas",
-      "alternate_titles": [],
-      "publication_year": 2010,
-      "publication_date": "2010-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1039998118",
-        "mag": "1039998118"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40460",
-        "doi": null,
-        "is_oa": false,
-        "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40460/",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4377196390",
-          "display_name": "TUbilio (Technical University of Darmstadt)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I31512782",
-          "host_organization_name": "Technische Universität Darmstadt",
-          "host_organization_lineage": [
-            "https://openalex.org/I31512782"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": "",
-        "raw_type": "Konferenzveröffentlichung"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W1039998118"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5006410698",
-            "display_name": "Christoph Schüth",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-2053-3157",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2053-3157"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Christoph Schüth",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5059300108",
-            "display_name": "Andreas Kallioras",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-4661-297X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4661-297X"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Andreas Kallioras",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054683689",
-            "display_name": "M. Piepenbrink",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "M. Piepenbrink",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032792484",
-            "display_name": "Heike Pfletschinger",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Heike Pfletschinger",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047482366",
-            "display_name": "Hussain F. Al Ajmi",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Hussain Al Ajmi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5088886429",
-            "display_name": "Irina Engelhardt",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-2590-7728",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2590-7728"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Irina Engelhardt",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070429780",
-            "display_name": "Randolf Rausch",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-3635-7821",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3635-7821"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Randolf Rausch",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5071886416",
-            "display_name": "Mohammed Al-Saud",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Mohammed Al-Saud",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 92
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10398",
-        "display_name": "Groundwater and Isotope Geochemistry",
-        "score": 0.9639000296592712,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.9639000296592712,
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.006300000008195639,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -6528,713 +5537,297 @@
             "id": "https://openalex.org/domains/3",
             "display_name": "Physical Sciences"
           }
-        },
-        {
-          "id": "https://openalex.org/T10716",
-          "display_name": "Soil and Unsaturated Flow",
-          "score": 0.030400000512599945,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10894",
-          "display_name": "Groundwater flow and contamination studies",
-          "score": 0.003700000001117587,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
         }
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/groundwater-recharge",
-          "display_name": "groundwater recharge",
-          "score": 0.9879999756813049
+          "id": "https://openalex.org/keywords/lithostratigraphy",
+          "display_name": "lithostratigraphy",
+          "score": 0.9459999799728394
         },
         {
-          "id": "https://openalex.org/keywords/arid-regions",
-          "display_name": "arid regions",
-          "score": 0.8880000114440918
+          "id": "https://openalex.org/keywords/stratigraphic-architecture",
+          "display_name": "stratigraphic architecture",
+          "score": 0.9409999847412109
         },
         {
-          "id": "https://openalex.org/keywords/vadose-zone",
-          "display_name": "vadose zone",
-          "score": 0.8299999833106995
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.7039999961853027
         },
         {
-          "id": "https://openalex.org/keywords/direct-push-sampling",
-          "display_name": "direct push sampling",
-          "score": 0.6959999799728394
+          "id": "https://openalex.org/keywords/regolith",
+          "display_name": "regolith",
+          "score": 0.8429999947547913
         },
         {
-          "id": "https://openalex.org/keywords/pore-water-extraction",
-          "display_name": "pore water extraction",
-          "score": 0.8180000185966492
+          "id": "https://openalex.org/keywords/quartz-pebble-conglomerate",
+          "display_name": "quartz-pebble conglomerates",
+          "score": 0.8019999861717224
         },
         {
-          "id": "https://openalex.org/keywords/isotopic-analysis",
-          "display_name": "isotopic analysis",
-          "score": 0.8500000238418579
+          "id": "https://openalex.org/keywords/submarine-dunes",
+          "display_name": "submarine dunes",
+          "score": 0.8140000104904175
         },
         {
-          "id": "https://openalex.org/keywords/time-domain-reflectometry",
-          "display_name": "time domain reflectometry",
-          "score": 0.9779999852180481
+          "id": "https://openalex.org/keywords/skolithos",
+          "display_name": "Skolithos",
+          "score": 0.871999979019165
         },
         {
-          "id": "https://openalex.org/keywords/soil-moisture",
-          "display_name": "soil moisture",
-          "score": 0.8930000066757202
+          "id": "https://openalex.org/keywords/fluvial-facies",
+          "display_name": "fluvial facies",
+          "score": 0.8999999761581421
         },
         {
-          "id": "https://openalex.org/keywords/infiltration",
-          "display_name": "infiltration",
-          "score": 0.5659999847412109
+          "id": "https://openalex.org/keywords/stratigraphic-correlation",
+          "display_name": "stratigraphic correlation",
+          "score": 0.6209999918937683
         },
         {
-          "id": "https://openalex.org/keywords/groundwater-management",
-          "display_name": "groundwater management",
-          "score": 0.628000020980835
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.625
+        },
+        {
+          "id": "https://openalex.org/keywords/abha",
+          "display_name": "Abha",
+          "score": 0.5870000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/najran",
+          "display_name": "Najran",
+          "score": 0.9549999833106995
         }
       ],
       "concepts": [
-        {
-          "id": "https://openalex.org/C174091901",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
-          "display_name": "Groundwater recharge",
-          "level": 4,
-          "score": 0.9739507436752319
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.7601107358932495
-        },
-        {
-          "id": "https://openalex.org/C187606762",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
-          "display_name": "Depression-focused recharge",
-          "level": 5,
-          "score": 0.7575984001159668
-        },
-        {
-          "id": "https://openalex.org/C150772632",
-          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
-          "display_name": "Arid",
-          "level": 2,
-          "score": 0.7541651725769043
-        },
-        {
-          "id": "https://openalex.org/C35588792",
-          "wikidata": "https://www.wikidata.org/wiki/Q1479708",
-          "display_name": "Vadose zone",
-          "level": 3,
-          "score": 0.7478176355361938
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.6374692916870117
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.6279324889183044
-        },
-        {
-          "id": "https://openalex.org/C153400128",
-          "wikidata": "https://www.wikidata.org/wiki/Q3150731",
-          "display_name": "Infiltration (HVAC)",
-          "level": 2,
-          "score": 0.5951532125473022
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5578311681747437
-        },
         {
           "id": "https://openalex.org/C127313418",
           "wikidata": "https://www.wikidata.org/wiki/Q1069",
           "display_name": "Geology",
           "level": 0,
-          "score": 0.44234877824783325
+          "score": 0.891588568687439
         },
         {
-          "id": "https://openalex.org/C81446008",
-          "wikidata": "https://www.wikidata.org/wiki/Q3019267",
-          "display_name": "Capillary fringe",
-          "level": 4,
-          "score": 0.42649349570274353
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.7963492274284363
         },
         {
-          "id": "https://openalex.org/C159390177",
-          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
-          "display_name": "Soil science",
-          "level": 1,
-          "score": 0.3286622166633606
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.7648931741714478
         },
         {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.12216418981552124
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.707527220249176
         },
         {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.08106711506843567
+          "id": "https://openalex.org/C2777760186",
+          "wikidata": "https://www.wikidata.org/wiki/Q14673",
+          "display_name": "Pebble",
+          "level": 2,
+          "score": 0.5924901962280273
         },
         {
-          "id": "https://openalex.org/C153294291",
-          "wikidata": "https://www.wikidata.org/wiki/Q25261",
-          "display_name": "Meteorology",
-          "level": 1,
-          "score": 0
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.5497307777404785
+        },
+        {
+          "id": "https://openalex.org/C40616122",
+          "wikidata": "https://www.wikidata.org/wiki/Q856124",
+          "display_name": "Lithostratigraphy",
+          "level": 3,
+          "score": 0.5488473176956177
         },
         {
           "id": "https://openalex.org/C151730666",
           "wikidata": "https://www.wikidata.org/wiki/Q7205",
           "display_name": "Paleontology",
           "level": 1,
-          "score": 0
+          "score": 0.5349268913269043
+        },
+        {
+          "id": "https://openalex.org/C106804226",
+          "wikidata": "https://www.wikidata.org/wiki/Q191704",
+          "display_name": "Conglomerate",
+          "level": 3,
+          "score": 0.5290956497192383
+        },
+        {
+          "id": "https://openalex.org/C104873425",
+          "wikidata": "https://www.wikidata.org/wiki/Q205768",
+          "display_name": "Sedimentology",
+          "level": 2,
+          "score": 0.5269506573677063
+        },
+        {
+          "id": "https://openalex.org/C85124164",
+          "wikidata": "https://www.wikidata.org/wiki/Q2065586",
+          "display_name": "Red beds",
+          "level": 3,
+          "score": 0.44570106267929077
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.4439057409763336
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.44229656457901
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3465408682823181
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.2232503890991211
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.1938014030456543
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 1,
       "locations": [
         {
-          "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40460",
-          "doi": null,
+          "id": "doi:10.1007/s12517-016-2800-4",
+          "doi": "https://doi.org/10.1007/s12517-016-2800-4",
           "is_oa": false,
-          "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40460/",
+          "landing_page_url": "https://doi.org/10.1007/s12517-016-2800-4",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4377196390",
-            "display_name": "TUbilio (Technical University of Darmstadt)",
-            "issn_l": null,
-            "issn": null,
+            "id": "https://openalex.org/S38407038",
+            "display_name": "Arabian Journal of Geosciences",
+            "issn_l": "1866-7511",
+            "issn": [
+              "1866-7511",
+              "1866-7538"
+            ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I31512782",
-            "host_organization_name": "Technische Universität Darmstadt",
-            "host_organization_lineage": [
-              "https://openalex.org/I31512782"
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
           },
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
+          "version": "publishedVersion",
           "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Konferenzveröffentlichung"
-        },
-        {
-          "id": "mag:1039998118",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://www.psipw.org/attachments/article/300/IJWRAE_1(1)33-37.pdf",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
+          "is_published": true,
+          "raw_source_name": "Arabian Journal of Geosciences",
+          "raw_type": "journal-article"
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157,
-          "display_name": "Clean water and sanitation"
-        }
-      ],
+      "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2213983202",
-        "https://openalex.org/W2956599634",
-        "https://openalex.org/W3048387138",
-        "https://openalex.org/W2088606021",
-        "https://openalex.org/W2489268900",
-        "https://openalex.org/W1969930456",
-        "https://openalex.org/W2557796835",
-        "https://openalex.org/W2900059361",
-        "https://openalex.org/W2346716977",
-        "https://openalex.org/W2800489220"
+      "referenced_works_count": 29,
+      "referenced_works": [
+        "https://openalex.org/W23143290",
+        "https://openalex.org/W43588767",
+        "https://openalex.org/W75145070",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W604057134",
+        "https://openalex.org/W1426588521",
+        "https://openalex.org/W1518311132",
+        "https://openalex.org/W1534364884",
+        "https://openalex.org/W1559456897",
+        "https://openalex.org/W1755726326",
+        "https://openalex.org/W1907005196",
+        "https://openalex.org/W1948505752",
+        "https://openalex.org/W1966688147",
+        "https://openalex.org/W1979813018",
+        "https://openalex.org/W1991242972",
+        "https://openalex.org/W1997132358",
+        "https://openalex.org/W1997832204",
+        "https://openalex.org/W2021181213",
+        "https://openalex.org/W2051173838",
+        "https://openalex.org/W2075345459",
+        "https://openalex.org/W2079645857",
+        "https://openalex.org/W2087614875",
+        "https://openalex.org/W2108844550",
+        "https://openalex.org/W2110801167",
+        "https://openalex.org/W2132440552",
+        "https://openalex.org/W2153985161",
+        "https://openalex.org/W2154790037",
+        "https://openalex.org/W2169408416",
+        "https://openalex.org/W2242792719"
       ],
-      "abstract_inverted_index": {
-        "Semi-arid": [
-          0
-        ],
-        "and": [
-          1,
-          11,
-          37,
-          111,
-          131,
-          151,
-          180
-        ],
-        "arid": [
-          2,
-          19,
-          81,
-          185
-        ],
-        "regions": [
-          3
-        ],
-        "represent": [
-          4
-        ],
-        "30%": [
-          5
-        ],
-        "of": [
-          6,
-          23,
-          32,
-          41,
-          76,
-          87,
-          102,
-          109,
-          122,
-          129,
-          145,
-          153,
-          169,
-          178
-        ],
-        "global": [
-          7
-        ],
-        "terrestrial": [
-          8
-        ],
-        "surface": [
-          9
-        ],
-        "area": [
-          10
-        ],
-        "are": [
-          12
-        ],
-        "expanding.": [
-          13
-        ],
-        "For": [
-          14
-        ],
-        "groundwater": [
-          15,
-          28,
-          61,
-          71,
-          113,
-          182
-        ],
-        "resources": [
-          16
-        ],
-        "management": [
-          17
-        ],
-        "in": [
-          18,
-          70,
-          80,
-          94,
-          174,
-          184
-        ],
-        "environments,": [
-          20
-        ],
-        "the": [
-          21,
-          33,
-          42,
-          52,
-          58,
-          74,
-          77,
-          91,
-          95,
-          120,
-          123,
-          167
-        ],
-        "rate": [
-          22
-        ],
-        "aquifer": [
-          24
-        ],
-        "replenishment": [
-          25
-        ],
-        "due": [
-          26
-        ],
-        "to": [
-          27,
-          45,
-          139,
-          158
-        ],
-        "recharge": [
-          29,
-          72,
-          183
-        ],
-        "is": [
-          30,
-          117,
-          164
-        ],
-        "one": [
-          31,
-          40
-        ],
-        "most": [
-          34,
-          43
-        ],
-        "important": [
-          35
-        ],
-        "factors": [
-          36
-        ],
-        "unfortunately": [
-          38
-        ],
-        "also": [
-          39
-        ],
-        "difficult": [
-          44
-        ],
-        "derive": [
-          46
-        ],
-        "with": [
-          47
-        ],
-        "sufficient": [
-          48
-        ],
-        "accuracy.": [
-          49
-        ],
-        "In": [
-          50,
-          89
-        ],
-        "general,": [
-          51
-        ],
-        "potential": [
-          53
-        ],
-        "evaporation": [
-          54
-        ],
-        "by": [
-          55
-        ],
-        "far": [
-          56
-        ],
-        "exceeds": [
-          57
-        ],
-        "precipitation": [
-          59
-        ],
-        "limiting": [
-          60
-        ],
-        "recharge.": [
-          62,
-          114
-        ],
-        "Unsaturated": [
-          63
-        ],
-        "zone": [
-          64,
-          79,
-          97,
-          125
-        ],
-        "processes": [
-          65
-        ],
-        "play": [
-          66
-        ],
-        "a": [
-          67,
-          99,
-          107,
-          127,
-          175
-        ],
-        "key": [
-          68
-        ],
-        "role": [
-          69
-        ],
-        "as": [
-          73
-        ],
-        "thickness": [
-          75
-        ],
-        "unsaturated": [
-          78,
-          96,
-          124
-        ],
-        "areas": [
-          82
-        ],
-        "may": [
-          83
-        ],
-        "reach": [
-          84
-        ],
-        "several": [
-          85
-        ],
-        "tenths": [
-          86
-        ],
-        "meters.": [
-          88
-        ],
-        "principal,": [
-          90
-        ],
-        "water": [
-          92,
-          147
-        ],
-        "trapped": [
-          93
-        ],
-        "represents": [
-          98
-        ],
-        "historic": [
-          100,
-          181
-        ],
-        "record": [
-          101
-        ],
-        "infiltration": [
-          103
-        ],
-        "events": [
-          104
-        ],
-        "potentially": [
-          105
-        ],
-        "enabling": [
-          106
-        ],
-        "quantification": [
-          108,
-          177
-        ],
-        "present": [
-          110,
-          179
-        ],
-        "past": [
-          112
-        ],
-        "An": [
-          115
-        ],
-        "approach": [
-          116
-        ],
-        "presented": [
-          118
-        ],
-        "for": [
-          119,
-          148
-        ],
-        "investigation": [
-          121
-        ],
-        "through": [
-          126
-        ],
-        "combination": [
-          128,
-          168
-        ],
-        "laboratory": [
-          130
-        ],
-        "field": [
-          132
-        ],
-        "techniques.": [
-          133
-        ],
-        "They": [
-          134
-        ],
-        "include": [
-          135
-        ],
-        "direct": [
-          136
-        ],
-        "push": [
-          137
-        ],
-        "techniques": [
-          138,
-          171
-        ],
-        "get": [
-          140
-        ],
-        "undisturbed": [
-          141
-        ],
-        "soil": [
-          142,
-          160
-        ],
-        "samples,": [
-          143
-        ],
-        "extraction": [
-          144
-        ],
-        "pore": [
-          146
-        ],
-        "isotope": [
-          149
-        ],
-        "analyses": [
-          150
-        ],
-        "application": [
-          152
-        ],
-        "Time": [
-          154
-        ],
-        "Domain": [
-          155
-        ],
-        "Reflectometry": [
-          156
-        ],
-        "(TDR)": [
-          157
-        ],
-        "determine": [
-          159
-        ],
-        "moisture": [
-          161
-        ],
-        "content.": [
-          162
-        ],
-        "It": [
-          163
-        ],
-        "expected,": [
-          165
-        ],
-        "that": [
-          166
-        ],
-        "these": [
-          170
-        ],
-        "will": [
-          172
-        ],
-        "result": [
-          173
-        ],
-        "better": [
-          176
-        ],
-        "environments.": [
-          186
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1039998118",
+      "related_works": [
+        "https://openalex.org/W2054921342",
+        "https://openalex.org/W2087614875",
+        "https://openalex.org/W604057134",
+        "https://openalex.org/W2329392589",
+        "https://openalex.org/W23143290",
+        "https://openalex.org/W2034485780",
+        "https://openalex.org/W2558487545",
+        "https://openalex.org/W2759196221",
+        "https://openalex.org/W2041876347",
+        "https://openalex.org/W4239352755"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2582847651",
       "counts_by_year": [
         {
-          "year": 2024,
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
           "cited_by_count": 1
         },
         {
@@ -7244,18 +5837,10 @@
         {
           "year": 2018,
           "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2016-06-24T00:00:00"
+      "updated_date": "2026-11-25T09:40:18.809321",
+      "created_date": "2017-02-03T00:00:00"
     },
     {
       "id": "https://openalex.org/W1747876392",
@@ -7349,19 +5934,19 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5879,
+      "fwci": 0.9241,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75517241,
+        "value": 0.78350515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
-        "max": 92
+        "min": 87,
+        "max": 93
       },
       "biblio": {
         "volume": null,
@@ -7574,7 +6159,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 8,
+      "locations_count": 6,
       "locations": [
         {
           "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
@@ -7670,68 +6255,6 @@
           "raw_type": "info:eu-repo/semantics/doctoralThesis"
         },
         {
-          "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:tuda/14482",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.26083/tuprints-00003416",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401590",
-            "display_name": "Technischen Universität Darmstadt",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I31512782",
-            "host_organization_name": "Technische Universität Darmstadt",
-            "host_organization_lineage": [
-              "https://openalex.org/I31512782"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "thesis"
-        },
-        {
-          "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:tuda/14483",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.26083/tuprints-00003581",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401590",
-            "display_name": "Technischen Universität Darmstadt",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I31512782",
-            "host_organization_name": "Technische Universität Darmstadt",
-            "host_organization_lineage": [
-              "https://openalex.org/I31512782"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "book"
-        },
-        {
           "id": "doi:10.26083/tuprints-00003416",
           "doi": "https://doi.org/10.26083/tuprints-00003416",
           "is_oa": true,
@@ -7756,7 +6279,7 @@
           },
           "license": "cc-by-nc-nd",
           "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": null,
+          "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
@@ -7787,7 +6310,7 @@
           },
           "license": "cc-by-nc-nd",
           "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": null,
+          "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
@@ -7845,8 +6368,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1747876392.pdf",
@@ -10773,7 +9296,384 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-25T09:40:18.809321",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1957217261",
+      "doi": null,
+      "title": "New insights into the Facies Distribution of the Wajid Sandstone in its Western Outcrop-Area and Implication on Reservoir Properties",
+      "display_name": "New insights into the Facies Distribution of the Wajid Sandstone in its Western Outcrop-Area and Implication on Reservoir Properties",
+      "alternate_titles": [],
+      "publication_year": 2008,
+      "publication_date": "2008-11-16",
+      "ids": {
+        "openalex": "https://openalex.org/W1957217261",
+        "mag": "1957217261"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:1957217261",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/74220/",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1957217261"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5047482366",
+            "display_name": "Hussain F. Al Ajmi",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Hussain Al Ajmi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078290557",
+            "display_name": "Martin Keller",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-5994-7547",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5994-7547"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Martin Keller",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074383190",
+            "display_name": "Matthias Hinderer",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-5528-3728",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5528-3728"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Matthias Hinderer",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5070429780",
+            "display_name": "Randolf Rausch",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-3635-7821",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3635-7821"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Randolf Rausch",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.5649,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.71395046,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.7645999789237976,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.7645999789237976,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.20579999685287476,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.007899999618530273,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/facies-distribution",
+          "display_name": "facies distribution",
+          "score": 0.9070000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-properties",
+          "display_name": "reservoir properties",
+          "score": 0.777999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop-analogs",
+          "display_name": "outcrop analogs",
+          "score": 0.593999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/sandstone-reservoirs",
+          "display_name": "sandstone reservoirs",
+          "score": 0.6039999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/lithofacies",
+          "display_name": "lithofacies",
+          "score": 0.6039999723434448
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.8672664165496826
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.8121225833892822
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7959672808647156
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.40455362200737
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3812890946865082
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3793765902519226
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.33257031440734863
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:1957217261",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/74220/",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 5,
+      "referenced_works": [
+        "https://openalex.org/W1581594313",
+        "https://openalex.org/W1983728751",
+        "https://openalex.org/W1986392889",
+        "https://openalex.org/W1991092005",
+        "https://openalex.org/W2087614875"
+      ],
+      "related_works": [
+        "https://openalex.org/W7039754525",
+        "https://openalex.org/W136310529",
+        "https://openalex.org/W1838936283",
+        "https://openalex.org/W3035108166",
+        "https://openalex.org/W2469264908",
+        "https://openalex.org/W1747876392",
+        "https://openalex.org/W3023837637",
+        "https://openalex.org/W604057134",
+        "https://openalex.org/W2606829716",
+        "https://openalex.org/W2980912641"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1957217261",
+      "counts_by_year": [
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11019,13 +9919,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6579,
+      "fwci": 0.748,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62743363,
+        "value": 0.64612676,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11292,16 +10192,15 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 5,
+      "referenced_works_count": 4,
       "referenced_works": [
         "https://openalex.org/W1986392889",
         "https://openalex.org/W2025672249",
         "https://openalex.org/W2054921342",
-        "https://openalex.org/W2087614875",
         "https://openalex.org/W7167924677"
       ],
       "related_works": [
@@ -11324,7 +10223,1006 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-25T09:40:18.809321",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1039998118",
+      "doi": null,
+      "title": "New Approaches to Quantify Groundwater Recharge in Arid Areas",
+      "display_name": "New Approaches to Quantify Groundwater Recharge in Arid Areas",
+      "alternate_titles": [],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1039998118",
+        "mag": "1039998118"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40460",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40460/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196390",
+          "display_name": "TUbilio (Technical University of Darmstadt)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I31512782",
+          "host_organization_name": "Technische Universität Darmstadt",
+          "host_organization_lineage": [
+            "https://openalex.org/I31512782"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Konferenzveröffentlichung"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1039998118"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5006410698",
+            "display_name": "Christoph Schüth",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-2053-3157",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2053-3157"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Christoph Schüth",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059300108",
+            "display_name": "Andreas Kallioras",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-4661-297X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4661-297X"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Andreas Kallioras",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054683689",
+            "display_name": "M. Piepenbrink",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "M. Piepenbrink",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032792484",
+            "display_name": "Heike Pfletschinger",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Heike Pfletschinger",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047482366",
+            "display_name": "Hussain F. Al Ajmi",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Hussain Al Ajmi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088886429",
+            "display_name": "Irina Engelhardt",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-2590-7728",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2590-7728"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Irina Engelhardt",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070429780",
+            "display_name": "Randolf Rausch",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-3635-7821",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3635-7821"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Randolf Rausch",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5071886416",
+            "display_name": "Mohammed Al-Saud",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Mohammed Al-Saud",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 92
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10398",
+        "display_name": "Groundwater and Isotope Geochemistry",
+        "score": 0.9639000296592712,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.9639000296592712,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10716",
+          "display_name": "Soil and Unsaturated Flow",
+          "score": 0.030400000512599945,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10894",
+          "display_name": "Groundwater flow and contamination studies",
+          "score": 0.003700000001117587,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/groundwater-recharge",
+          "display_name": "groundwater recharge",
+          "score": 0.9879999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/arid-regions",
+          "display_name": "arid regions",
+          "score": 0.8880000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/vadose-zone",
+          "display_name": "vadose zone",
+          "score": 0.8299999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/direct-push-sampling",
+          "display_name": "direct push sampling",
+          "score": 0.6959999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/pore-water-extraction",
+          "display_name": "pore water extraction",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopic-analysis",
+          "display_name": "isotopic analysis",
+          "score": 0.8500000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/time-domain-reflectometry",
+          "display_name": "time domain reflectometry",
+          "score": 0.9779999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/soil-moisture",
+          "display_name": "soil moisture",
+          "score": 0.8930000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/infiltration",
+          "display_name": "infiltration",
+          "score": 0.5659999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater-management",
+          "display_name": "groundwater management",
+          "score": 0.628000020980835
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C174091901",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
+          "display_name": "Groundwater recharge",
+          "level": 4,
+          "score": 0.9739507436752319
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.7601107358932495
+        },
+        {
+          "id": "https://openalex.org/C187606762",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
+          "display_name": "Depression-focused recharge",
+          "level": 5,
+          "score": 0.7575984001159668
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.7541651725769043
+        },
+        {
+          "id": "https://openalex.org/C35588792",
+          "wikidata": "https://www.wikidata.org/wiki/Q1479708",
+          "display_name": "Vadose zone",
+          "level": 3,
+          "score": 0.7478176355361938
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.6374692916870117
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.6279324889183044
+        },
+        {
+          "id": "https://openalex.org/C153400128",
+          "wikidata": "https://www.wikidata.org/wiki/Q3150731",
+          "display_name": "Infiltration (HVAC)",
+          "level": 2,
+          "score": 0.5951532125473022
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5578311681747437
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.44234877824783325
+        },
+        {
+          "id": "https://openalex.org/C81446008",
+          "wikidata": "https://www.wikidata.org/wiki/Q3019267",
+          "display_name": "Capillary fringe",
+          "level": 4,
+          "score": 0.42649349570274353
+        },
+        {
+          "id": "https://openalex.org/C159390177",
+          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+          "display_name": "Soil science",
+          "level": 1,
+          "score": 0.3286622166633606
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.12216418981552124
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.08106711506843567
+        },
+        {
+          "id": "https://openalex.org/C153294291",
+          "wikidata": "https://www.wikidata.org/wiki/Q25261",
+          "display_name": "Meteorology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40460",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40460/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196390",
+            "display_name": "TUbilio (Technical University of Darmstadt)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I31512782",
+            "host_organization_name": "Technische Universität Darmstadt",
+            "host_organization_lineage": [
+              "https://openalex.org/I31512782"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Konferenzveröffentlichung"
+        },
+        {
+          "id": "mag:1039998118",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://www.psipw.org/attachments/article/300/IJWRAE_1(1)33-37.pdf",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2213983202",
+        "https://openalex.org/W2956599634",
+        "https://openalex.org/W3048387138",
+        "https://openalex.org/W2088606021",
+        "https://openalex.org/W2489268900",
+        "https://openalex.org/W1969930456",
+        "https://openalex.org/W2557796835",
+        "https://openalex.org/W2900059361",
+        "https://openalex.org/W2346716977",
+        "https://openalex.org/W2800489220"
+      ],
+      "abstract_inverted_index": {
+        "Semi-arid": [
+          0
+        ],
+        "and": [
+          1,
+          11,
+          37,
+          111,
+          131,
+          151,
+          180
+        ],
+        "arid": [
+          2,
+          19,
+          81,
+          185
+        ],
+        "regions": [
+          3
+        ],
+        "represent": [
+          4
+        ],
+        "30%": [
+          5
+        ],
+        "of": [
+          6,
+          23,
+          32,
+          41,
+          76,
+          87,
+          102,
+          109,
+          122,
+          129,
+          145,
+          153,
+          169,
+          178
+        ],
+        "global": [
+          7
+        ],
+        "terrestrial": [
+          8
+        ],
+        "surface": [
+          9
+        ],
+        "area": [
+          10
+        ],
+        "are": [
+          12
+        ],
+        "expanding.": [
+          13
+        ],
+        "For": [
+          14
+        ],
+        "groundwater": [
+          15,
+          28,
+          61,
+          71,
+          113,
+          182
+        ],
+        "resources": [
+          16
+        ],
+        "management": [
+          17
+        ],
+        "in": [
+          18,
+          70,
+          80,
+          94,
+          174,
+          184
+        ],
+        "environments,": [
+          20
+        ],
+        "the": [
+          21,
+          33,
+          42,
+          52,
+          58,
+          74,
+          77,
+          91,
+          95,
+          120,
+          123,
+          167
+        ],
+        "rate": [
+          22
+        ],
+        "aquifer": [
+          24
+        ],
+        "replenishment": [
+          25
+        ],
+        "due": [
+          26
+        ],
+        "to": [
+          27,
+          45,
+          139,
+          158
+        ],
+        "recharge": [
+          29,
+          72,
+          183
+        ],
+        "is": [
+          30,
+          117,
+          164
+        ],
+        "one": [
+          31,
+          40
+        ],
+        "most": [
+          34,
+          43
+        ],
+        "important": [
+          35
+        ],
+        "factors": [
+          36
+        ],
+        "unfortunately": [
+          38
+        ],
+        "also": [
+          39
+        ],
+        "difficult": [
+          44
+        ],
+        "derive": [
+          46
+        ],
+        "with": [
+          47
+        ],
+        "sufficient": [
+          48
+        ],
+        "accuracy.": [
+          49
+        ],
+        "In": [
+          50,
+          89
+        ],
+        "general,": [
+          51
+        ],
+        "potential": [
+          53
+        ],
+        "evaporation": [
+          54
+        ],
+        "by": [
+          55
+        ],
+        "far": [
+          56
+        ],
+        "exceeds": [
+          57
+        ],
+        "precipitation": [
+          59
+        ],
+        "limiting": [
+          60
+        ],
+        "recharge.": [
+          62,
+          114
+        ],
+        "Unsaturated": [
+          63
+        ],
+        "zone": [
+          64,
+          79,
+          97,
+          125
+        ],
+        "processes": [
+          65
+        ],
+        "play": [
+          66
+        ],
+        "a": [
+          67,
+          99,
+          107,
+          127,
+          175
+        ],
+        "key": [
+          68
+        ],
+        "role": [
+          69
+        ],
+        "as": [
+          73
+        ],
+        "thickness": [
+          75
+        ],
+        "unsaturated": [
+          78,
+          96,
+          124
+        ],
+        "areas": [
+          82
+        ],
+        "may": [
+          83
+        ],
+        "reach": [
+          84
+        ],
+        "several": [
+          85
+        ],
+        "tenths": [
+          86
+        ],
+        "meters.": [
+          88
+        ],
+        "principal,": [
+          90
+        ],
+        "water": [
+          92,
+          147
+        ],
+        "trapped": [
+          93
+        ],
+        "represents": [
+          98
+        ],
+        "historic": [
+          100,
+          181
+        ],
+        "record": [
+          101
+        ],
+        "infiltration": [
+          103
+        ],
+        "events": [
+          104
+        ],
+        "potentially": [
+          105
+        ],
+        "enabling": [
+          106
+        ],
+        "quantification": [
+          108,
+          177
+        ],
+        "present": [
+          110,
+          179
+        ],
+        "past": [
+          112
+        ],
+        "An": [
+          115
+        ],
+        "approach": [
+          116
+        ],
+        "presented": [
+          118
+        ],
+        "for": [
+          119,
+          148
+        ],
+        "investigation": [
+          121
+        ],
+        "through": [
+          126
+        ],
+        "combination": [
+          128,
+          168
+        ],
+        "laboratory": [
+          130
+        ],
+        "field": [
+          132
+        ],
+        "techniques.": [
+          133
+        ],
+        "They": [
+          134
+        ],
+        "include": [
+          135
+        ],
+        "direct": [
+          136
+        ],
+        "push": [
+          137
+        ],
+        "techniques": [
+          138,
+          171
+        ],
+        "get": [
+          140
+        ],
+        "undisturbed": [
+          141
+        ],
+        "soil": [
+          142,
+          160
+        ],
+        "samples,": [
+          143
+        ],
+        "extraction": [
+          144
+        ],
+        "pore": [
+          146
+        ],
+        "isotope": [
+          149
+        ],
+        "analyses": [
+          150
+        ],
+        "application": [
+          152
+        ],
+        "Time": [
+          154
+        ],
+        "Domain": [
+          155
+        ],
+        "Reflectometry": [
+          156
+        ],
+        "(TDR)": [
+          157
+        ],
+        "determine": [
+          159
+        ],
+        "moisture": [
+          161
+        ],
+        "content.": [
+          162
+        ],
+        "It": [
+          163
+        ],
+        "expected,": [
+          165
+        ],
+        "that": [
+          166
+        ],
+        "these": [
+          170
+        ],
+        "will": [
+          172
+        ],
+        "result": [
+          173
+        ],
+        "better": [
+          176
+        ],
+        "environments.": [
+          186
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1039998118",
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11785,8 +11683,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12311,8 +12209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12820,8 +12718,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1821045717.pdf",
@@ -13809,8 +13707,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -14761,8 +14659,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15753,8 +15651,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

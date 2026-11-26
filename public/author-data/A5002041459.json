@@ -14,7 +14,7 @@
     ],
     "full_name": "Michael, Nikolaos A.",
     "works_count": 13,
-    "cited_by_count": 169,
+    "cited_by_count": 167,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -185,7 +185,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000159,
+        "value": 0.0000158,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000112,
+        "value": 0.0000111,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -294,7 +294,7 @@
         "year": 2015,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 4
+        "cited_by_count": 3
       },
       {
         "year": 2016,
@@ -330,7 +330,7 @@
         "year": 2021,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 16
+        "cited_by_count": 15
       },
       {
         "year": 2022,
@@ -372,7 +372,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002041459",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5002041459",
-    "updated_date": "2026-11-24T12:38:39",
+    "updated_date": "2026-11-25T10:29:20",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -780,13 +780,13 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 4.0028,
+      "fwci": 4.0838,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 42,
+      "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93139864,
+        "value": 0.9328004,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1123,11 +1123,11 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 53,
+      "referenced_works_count": 49,
       "referenced_works": [
         "https://openalex.org/W283784271",
         "https://openalex.org/W590428494",
@@ -1136,7 +1136,6 @@
         "https://openalex.org/W1560728415",
         "https://openalex.org/W1563224033",
         "https://openalex.org/W1572137570",
-        "https://openalex.org/W1632204563",
         "https://openalex.org/W1806563374",
         "https://openalex.org/W1944199797",
         "https://openalex.org/W1966419127",
@@ -1177,10 +1176,7 @@
         "https://openalex.org/W2160738291",
         "https://openalex.org/W2161879055",
         "https://openalex.org/W2277166486",
-        "https://openalex.org/W2498616436",
-        "https://openalex.org/W2501533784",
         "https://openalex.org/W3159223345",
-        "https://openalex.org/W4214518794",
         "https://openalex.org/W7000119058"
       ],
       "related_works": [
@@ -1956,13 +1952,9 @@
         {
           "year": 2016,
           "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2231,13 +2223,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 3.8252,
+      "fwci": 3.8135,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94888678,
+        "value": 0.94856135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2538,11 +2530,11 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 39,
+      "referenced_works_count": 35,
       "referenced_works": [
         "https://openalex.org/W851674763",
         "https://openalex.org/W1920010643",
@@ -2558,7 +2550,6 @@
         "https://openalex.org/W2087689197",
         "https://openalex.org/W2089227677",
         "https://openalex.org/W2092904239",
-        "https://openalex.org/W2124390624",
         "https://openalex.org/W2137690751",
         "https://openalex.org/W2145804763",
         "https://openalex.org/W2170193952",
@@ -2566,17 +2557,14 @@
         "https://openalex.org/W2292572168",
         "https://openalex.org/W2396859177",
         "https://openalex.org/W2477536975",
-        "https://openalex.org/W2503993098",
         "https://openalex.org/W2517057392",
         "https://openalex.org/W2530005595",
         "https://openalex.org/W2726137661",
         "https://openalex.org/W2742221252",
         "https://openalex.org/W2783004461",
-        "https://openalex.org/W2784277501",
         "https://openalex.org/W3023798565",
         "https://openalex.org/W3126847908",
         "https://openalex.org/W4200232387",
-        "https://openalex.org/W4243034119",
         "https://openalex.org/W4285268216",
         "https://openalex.org/W4368351261",
         "https://openalex.org/W4378229710",
@@ -3188,7 +3176,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2025-03-12T00:00:00"
     },
     {
@@ -3545,13 +3533,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2879,
+      "fwci": 3.3414,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 36,
+      "cited_by_count": 35,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90612845,
+        "value": 0.90666552,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3921,34 +3909,27 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 64,
+      "referenced_works_count": 54,
       "referenced_works": [
         "https://openalex.org/W32792475",
-        "https://openalex.org/W283784271",
-        "https://openalex.org/W1560555068",
-        "https://openalex.org/W1563224033",
         "https://openalex.org/W1637692109",
-        "https://openalex.org/W1920062415",
         "https://openalex.org/W1966419127",
         "https://openalex.org/W1974172801",
         "https://openalex.org/W1978693245",
-        "https://openalex.org/W1979717549",
         "https://openalex.org/W1980688843",
         "https://openalex.org/W1983366527",
         "https://openalex.org/W1984545249",
         "https://openalex.org/W1986835245",
         "https://openalex.org/W1995040253",
         "https://openalex.org/W1997354020",
-        "https://openalex.org/W1999229132",
         "https://openalex.org/W1999532050",
         "https://openalex.org/W2001173963",
         "https://openalex.org/W2005767075",
         "https://openalex.org/W2011611815",
-        "https://openalex.org/W2017628301",
         "https://openalex.org/W2021593506",
         "https://openalex.org/W2027182567",
         "https://openalex.org/W2028906270",
@@ -3957,8 +3938,6 @@
         "https://openalex.org/W2032503364",
         "https://openalex.org/W2036810320",
         "https://openalex.org/W2038178933",
-        "https://openalex.org/W2038852983",
-        "https://openalex.org/W2043759827",
         "https://openalex.org/W2044952811",
         "https://openalex.org/W2046295691",
         "https://openalex.org/W2048628678",
@@ -3987,7 +3966,6 @@
         "https://openalex.org/W2153491249",
         "https://openalex.org/W2160738291",
         "https://openalex.org/W2164190889",
-        "https://openalex.org/W2181906270",
         "https://openalex.org/W3146049548",
         "https://openalex.org/W4245006948",
         "https://openalex.org/W4253332054"
@@ -4402,7 +4380,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2020,
@@ -4429,7 +4407,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4717,13 +4695,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7051,
+      "fwci": 1.767,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8098879,
+        "value": 0.8133354,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5100,14 +5078,12 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 86,
+      "referenced_works_count": 75,
       "referenced_works": [
-        "https://openalex.org/W73711844",
-        "https://openalex.org/W590428494",
         "https://openalex.org/W646490011",
         "https://openalex.org/W1181195611",
         "https://openalex.org/W1482993516",
@@ -5116,14 +5092,12 @@
         "https://openalex.org/W1533369854",
         "https://openalex.org/W1535168058",
         "https://openalex.org/W1588790966",
-        "https://openalex.org/W1630322587",
         "https://openalex.org/W1650719564",
         "https://openalex.org/W1806563374",
         "https://openalex.org/W1835607377",
         "https://openalex.org/W1889975196",
         "https://openalex.org/W1896815896",
         "https://openalex.org/W1898285758",
-        "https://openalex.org/W1918485811",
         "https://openalex.org/W1964069208",
         "https://openalex.org/W1966870219",
         "https://openalex.org/W1972768340",
@@ -5161,14 +5135,11 @@
         "https://openalex.org/W2068892745",
         "https://openalex.org/W2070053947",
         "https://openalex.org/W2071594083",
-        "https://openalex.org/W2072156899",
         "https://openalex.org/W2076978258",
         "https://openalex.org/W2077539127",
-        "https://openalex.org/W2089859618",
         "https://openalex.org/W2095016078",
         "https://openalex.org/W2104257364",
         "https://openalex.org/W2108726388",
-        "https://openalex.org/W2113237219",
         "https://openalex.org/W2114109481",
         "https://openalex.org/W2116351028",
         "https://openalex.org/W2130419354",
@@ -5183,11 +5154,7 @@
         "https://openalex.org/W2255670685",
         "https://openalex.org/W2331090627",
         "https://openalex.org/W2408266923",
-        "https://openalex.org/W2409842424",
-        "https://openalex.org/W2481304045",
-        "https://openalex.org/W2989049194",
         "https://openalex.org/W4213100571",
-        "https://openalex.org/W4230797236",
         "https://openalex.org/W4231758734",
         "https://openalex.org/W4232328127",
         "https://openalex.org/W4244508810",
@@ -5206,16 +5173,16 @@
       ],
       "abstract_inverted_index": {
         "3": [
-          78
+          77
         ],
         "39": [
-          186
+          182
         ],
         "300": [
-          76
+          75
         ],
         "3500": [
-          74
+          73
         ],
         "Calculation": [
           0
@@ -5225,38 +5192,38 @@
           6,
           14,
           17,
-          79,
-          103,
-          134,
-          147,
-          154,
-          190,
-          193,
-          216,
-          226,
-          235,
-          243
+          78,
+          102,
+          131,
+          144,
+          151,
+          186,
+          189,
+          212,
+          222,
+          231,
+          239
         ],
         "the": [
           2,
           15,
           51,
           63,
-          89,
-          118,
-          162,
-          179,
-          191,
-          217,
-          227,
-          233
+          88,
+          115,
+          159,
+          176,
+          187,
+          213,
+          223,
+          229
         ],
         "total": [
           3
         ],
         "depositional": [
           4,
-          209
+          205
         ],
         "volume": [
           5
@@ -5273,7 +5240,7 @@
         ],
         "system,": [
           10,
-          231
+          227
         ],
         "combined": [
           11
@@ -5290,8 +5257,8 @@
         ],
         "catchments": [
           18,
-          87,
-          116
+          86,
+          113
         ],
         "acting": [
           19
@@ -5302,7 +5269,7 @@
         ],
         "source": [
           21,
-          203
+          199
         ],
         "regions": [
           22
@@ -5312,7 +5279,7 @@
         ],
         "provenance": [
           24,
-          218
+          214
         ],
         "methods,": [
           25
@@ -5322,15 +5289,15 @@
         ],
         "used": [
           27,
-          220
+          216
         ],
         "to": [
           28,
           53,
-          98,
-          164,
-          208,
-          221
+          97,
+          161,
+          204,
+          217
         ],
         "evaluate": [
           29
@@ -5340,31 +5307,31 @@
         ],
         "catchment": [
           31,
-          175
+          172
         ],
         "erosion": [
           32,
-          101,
-          195
+          100,
+          191
         ],
         "rates": [
           33,
           41,
-          113,
-          192
+          110,
+          188
         ],
         "on": [
           34,
-          130
+          127
         ],
         "a": [
           35,
-          93,
-          99,
-          108,
-          127,
-          142,
-          151
+          92,
+          98,
+          106,
+          124,
+          139,
+          148
         ],
         "million": [
           36
@@ -5374,8 +5341,8 @@
         ],
         "time": [
           38,
-          120,
-          167
+          117,
+          164
         ],
         "scale.": [
           39
@@ -5385,8 +5352,8 @@
         ],
         "are": [
           42,
-          122,
-          246
+          119,
+          242
         ],
         "compared": [
           43
@@ -5396,14 +5363,14 @@
         ],
         "derived": [
           46,
-          84
+          83
         ],
         "from": [
           47,
           62,
-          85,
-          144,
-          197
+          84,
+          141,
+          193
         ],
         "thermochronological": [
           48
@@ -5416,15 +5383,15 @@
         ],
         "mid-": [
           52,
-          163
+          160
         ],
         "late": [
           54,
-          165
+          162
         ],
         "Eocene": [
           55,
-          166
+          163
         ],
         "(33.9–41.6": [
           56
@@ -5434,26 +5401,26 @@
         ],
         "Escanilla": [
           58,
-          228
+          224
         ],
         "palaeo-sediment": [
           59,
-          229
+          225
         ],
         "routing": [
           60,
-          230
+          226
         ],
         "system": [
           61
         ],
         "south–central": [
           64,
-          90
+          89
         ],
         "Pyrenean": [
           65,
-          180
+          177
         ],
         "orogenic": [
           66
@@ -5467,304 +5434,299 @@
         "example,": [
           71
         ],
-        "c": [
+        "c.": [
           72,
-          104,
-          184
-        ],
-        ".": [
-          73,
-          105,
-          110,
-          185,
-          250
-        ],
-        "±": [
-          75
-        ],
-        "km": [
-          77
-        ],
-        "solid": [
-          80
-        ],
-        "particulate": [
-          81
-        ],
-        "sediment": [
-          82
-        ],
-        "was": [
-          83
-        ],
-        "two": [
-          86
-        ],
-        "in": [
-          88,
-          114,
-          136,
-          171
-        ],
-        "Pyrenees": [
-          91
-        ],
-        "over": [
-          92,
-          117
-        ],
-        "7.7": [
-          94
-        ],
-        "myr": [
-          95
-        ],
-        "period,": [
-          96,
-          168
-        ],
-        "equivalent": [
-          97
-        ],
-        "mean": [
-          100
-        ],
-        "rate": [
-          102
-        ],
-        "0.15–0.18": [
-          106
-        ],
-        "mm": [
-          107,
-          126,
-          141
-        ],
-        "−1": [
-          109,
-          128,
-          143
-        ],
-        "Average": [
-          111
-        ],
-        "exhumation": [
-          112
-        ],
-        "contributing": [
-          115
-        ],
-        "same": [
-          119
-        ],
-        "interval": [
-          121
-        ],
-        "estimated": [
-          123
-        ],
-        "at": [
-          124,
-          169,
-          183,
-          248
-        ],
-        "0.2–0.3": [
-          125
-        ],
-        "based": [
-          129
-        ],
-        "apatite": [
-          131
-        ],
-        "fission-track": [
-          132,
-          145
-        ],
-        "analysis": [
-          133,
-          146,
-          234
-        ],
-        "pebbles": [
-          135
-        ],
-        "proximal": [
-          137
-        ],
-        "conglomerates,": [
-          138
-        ],
-        "and": [
-          139,
-          224,
-          241
-        ],
-        "0.23–0.34": [
-          140
-        ],
-        "detrital": [
-          148,
-          244
-        ],
-        "apatites": [
-          149
-        ],
-        "sampling": [
-          150
-        ],
-        "wider": [
-          152
-        ],
-        "range": [
-          153
-        ],
-        "grain": [
-          155
-        ],
-        "size.": [
-          156
-        ],
-        "Sediment": [
-          157
-        ],
-        "supply": [
-          158
-        ],
-        "progressively": [
-          159
-        ],
-        "increased": [
-          160
-        ],
-        "during": [
-          161
-        ],
-        "least": [
-          170
-        ],
-        "part": [
-          172
-        ],
-        "driven": [
-          173
-        ],
-        "by": [
-          174
-        ],
-        "expansion": [
-          176
-        ],
-        "deep": [
-          177
-        ],
-        "into": [
-          178
-        ],
-        "Axial": [
+          103,
           181
         ],
-        "Zone": [
-          182
+        "±": [
+          74
         ],
-        "Ma.": [
-          187
+        "km": [
+          76
         ],
-        "The": [
-          188
+        "solid": [
+          79
         ],
-        "consistency": [
-          189
+        "particulate": [
+          80
         ],
-        "catchment-averaged": [
-          194
+        "sediment": [
+          81
         ],
-        "calculated": [
-          196
+        "was": [
+          82
         ],
-        "different": [
-          198
+        "two": [
+          85
         ],
-        "methods": [
-          199,
-          219
+        "in": [
+          87,
+          111,
+          133,
+          168
         ],
-        "builds": [
-          200
+        "Pyrenees": [
+          90
         ],
-        "confidence": [
-          201
+        "over": [
+          91,
+          114
         ],
-        "that": [
-          202
+        "7.7": [
+          93
         ],
-        "areas": [
-          204
+        "myr": [
+          94
         ],
-        "have": [
-          205
+        "period,": [
+          95,
+          165
         ],
-        "been": [
-          206
+        "equivalent": [
+          96
         ],
-        "connected": [
-          207
+        "mean": [
+          99
         ],
-        "sinks": [
-          210,
-          225
+        "rate": [
+          101
         ],
-        "correctly.": [
-          211
+        "0.15–0.18": [
+          104
         ],
-        "Supplementary": [
-          212
+        "mm": [
+          105,
+          123,
+          138
         ],
-        "materials:": [
-          213
+        "−1.": [
+          107
         ],
-        "A": [
-          214
+        "Average": [
+          108
         ],
-        "description": [
-          215
+        "exhumation": [
+          109
         ],
-        "link": [
-          222
+        "contributing": [
+          112
         ],
-        "sources": [
-          223
+        "same": [
+          116
         ],
-        "including": [
-          232
+        "interval": [
+          118
         ],
-        "clast": [
-          236
+        "estimated": [
+          120
         ],
-        "lithologies,": [
+        "at": [
+          121,
+          166,
+          180,
+          244
+        ],
+        "0.2–0.3": [
+          122
+        ],
+        "−1": [
+          125,
+          140
+        ],
+        "based": [
+          126
+        ],
+        "apatite": [
+          128
+        ],
+        "fission-track": [
+          129,
+          142
+        ],
+        "analysis": [
+          130,
+          143,
+          230
+        ],
+        "pebbles": [
+          132
+        ],
+        "proximal": [
+          134
+        ],
+        "conglomerates,": [
+          135
+        ],
+        "and": [
+          136,
+          220,
           237
         ],
-        "palaeocurrents,": [
-          238
+        "0.23–0.34": [
+          137
         ],
-        "heavy": [
-          239
-        ],
-        "minerals": [
+        "detrital": [
+          145,
           240
         ],
+        "apatites": [
+          146
+        ],
+        "sampling": [
+          147
+        ],
+        "wider": [
+          149
+        ],
+        "range": [
+          150
+        ],
+        "grain": [
+          152
+        ],
+        "size.": [
+          153
+        ],
+        "Sediment": [
+          154
+        ],
+        "supply": [
+          155
+        ],
+        "progressively": [
+          156
+        ],
+        "increased": [
+          157
+        ],
+        "during": [
+          158
+        ],
+        "least": [
+          167
+        ],
+        "part": [
+          169
+        ],
+        "driven": [
+          170
+        ],
+        "by": [
+          171
+        ],
+        "expansion": [
+          173
+        ],
+        "deep": [
+          174
+        ],
+        "into": [
+          175
+        ],
+        "Axial": [
+          178
+        ],
+        "Zone": [
+          179
+        ],
+        "Ma.": [
+          183
+        ],
+        "The": [
+          184
+        ],
+        "consistency": [
+          185
+        ],
+        "catchment-averaged": [
+          190
+        ],
+        "calculated": [
+          192
+        ],
+        "different": [
+          194
+        ],
+        "methods": [
+          195,
+          215
+        ],
+        "builds": [
+          196
+        ],
+        "confidence": [
+          197
+        ],
+        "that": [
+          198
+        ],
+        "areas": [
+          200
+        ],
+        "have": [
+          201
+        ],
+        "been": [
+          202
+        ],
+        "connected": [
+          203
+        ],
+        "sinks": [
+          206,
+          221
+        ],
+        "correctly.": [
+          207
+        ],
+        "Supplementary": [
+          208
+        ],
+        "materials:": [
+          209
+        ],
+        "A": [
+          210
+        ],
+        "description": [
+          211
+        ],
+        "link": [
+          218
+        ],
+        "sources": [
+          219
+        ],
+        "including": [
+          228
+        ],
+        "clast": [
+          232
+        ],
+        "lithologies,": [
+          233
+        ],
+        "palaeocurrents,": [
+          234
+        ],
+        "heavy": [
+          235
+        ],
+        "minerals": [
+          236
+        ],
         "geochronology": [
-          242
+          238
         ],
         "zircons,": [
-          245
+          241
         ],
         "available": [
-          247
+          243
         ],
-        "http://www.geolsoc.org.uk/SUP18727": [
-          249
+        "http://www.geolsoc.org.uk/SUP18727.": [
+          245
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2121643099",
@@ -5822,7 +5784,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5997,13 +5959,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3252,
+      "fwci": 1.3305,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74228541,
+        "value": 0.74450883,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6258,15 +6220,13 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 25,
+      "referenced_works_count": 21,
       "referenced_works": [
         "https://openalex.org/W851674763",
-        "https://openalex.org/W1580687896",
-        "https://openalex.org/W1920010643",
         "https://openalex.org/W1990839417",
         "https://openalex.org/W2021651273",
         "https://openalex.org/W2024923518",
@@ -6278,7 +6238,6 @@
         "https://openalex.org/W2092904239",
         "https://openalex.org/W2137690751",
         "https://openalex.org/W2145804763",
-        "https://openalex.org/W2152820192",
         "https://openalex.org/W2170193952",
         "https://openalex.org/W2252686556",
         "https://openalex.org/W2503993098",
@@ -6287,7 +6246,6 @@
         "https://openalex.org/W2783004461",
         "https://openalex.org/W3008253579",
         "https://openalex.org/W3023798565",
-        "https://openalex.org/W3099514962",
         "https://openalex.org/W4243034119"
       ],
       "related_works": [
@@ -6908,7 +6866,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -7379,8 +7337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -8275,13 +8233,13 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 0.9876,
+      "fwci": 0.9977,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70572751,
+        "value": 0.71002907,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8526,8 +8484,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -9325,13 +9283,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.5054,
+      "fwci": 11.2369,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97718978,
+        "value": 0.97902417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9621,13 +9579,12 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 5,
+      "referenced_works_count": 4,
       "referenced_works": [
-        "https://openalex.org/W194170838",
         "https://openalex.org/W2170193952",
         "https://openalex.org/W2783004461",
         "https://openalex.org/W2996180162",
@@ -10420,7 +10377,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -10844,19 +10801,19 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.2702,
+      "fwci": 1.2467,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70892824,
+        "value": 0.70588601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 94
+        "max": 93
       },
       "biblio": {
         "volume": "259",
@@ -11212,8 +11169,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -11226,19 +11183,17 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 74,
+      "referenced_works_count": 64,
       "referenced_works": [
         "https://openalex.org/W659468049",
         "https://openalex.org/W1251722559",
         "https://openalex.org/W1527101551",
         "https://openalex.org/W1541717834",
         "https://openalex.org/W1608472473",
-        "https://openalex.org/W1623559396",
-        "https://openalex.org/W1803742928",
         "https://openalex.org/W1974638823",
         "https://openalex.org/W1981616960",
         "https://openalex.org/W1982339776",
@@ -11254,9 +11209,7 @@
         "https://openalex.org/W2026541059",
         "https://openalex.org/W2026752343",
         "https://openalex.org/W2031180241",
-        "https://openalex.org/W2037123307",
         "https://openalex.org/W2039971986",
-        "https://openalex.org/W2053665288",
         "https://openalex.org/W2056880513",
         "https://openalex.org/W2066288156",
         "https://openalex.org/W2066793094",
@@ -11276,21 +11229,15 @@
         "https://openalex.org/W2171833124",
         "https://openalex.org/W2186237828",
         "https://openalex.org/W2260489687",
-        "https://openalex.org/W2295049671",
         "https://openalex.org/W2314937256",
         "https://openalex.org/W2494235278",
-        "https://openalex.org/W2526396869",
         "https://openalex.org/W2531439917",
-        "https://openalex.org/W2569318997",
         "https://openalex.org/W2596960428",
         "https://openalex.org/W2730421822",
         "https://openalex.org/W2787387931",
         "https://openalex.org/W2796382516",
-        "https://openalex.org/W2900207231",
-        "https://openalex.org/W2900439432",
         "https://openalex.org/W2972894414",
         "https://openalex.org/W3007886808",
-        "https://openalex.org/W3022076686",
         "https://openalex.org/W3025546462",
         "https://openalex.org/W3203555209",
         "https://openalex.org/W3210509339",
@@ -11327,7 +11274,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2026-01-20T00:00:00"
     },
     {
@@ -11813,8 +11760,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -13184,8 +13131,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14377,8 +14324,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -15680,16 +15627,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,

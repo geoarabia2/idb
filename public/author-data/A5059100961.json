@@ -15,7 +15,7 @@
     ],
     "full_name": "Ayman Fazea Al-Lehyani",
     "works_count": 9,
-    "cited_by_count": 97,
+    "cited_by_count": 101,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 4,
@@ -170,7 +170,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0000223,
+        "value": 0.0000222,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -204,7 +204,7 @@
       {
         "id": "https://openalex.org/T11609",
         "display_name": "Geophysical Methods and Applications",
-        "value": 0.00001,
+        "value": 0.0000099,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -345,7 +345,7 @@
         "year": 2023,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 5
+        "cited_by_count": 6
       },
       {
         "year": 2024,
@@ -363,7 +363,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 7
+        "cited_by_count": 10
       }
     ],
     "display_name_alternatives": [
@@ -376,7 +376,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059100961",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5059100961",
-    "updated_date": "2026-11-24T12:38:39",
+    "updated_date": "2026-11-25T10:29:20",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -629,19 +629,19 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5763,
+      "fwci": 0.6008,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 66,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69975478,
+        "value": 0.70670277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 92,
-        "max": 99
+        "min": 93,
+        "max": 100
       },
       "biblio": {
         "volume": "76",
@@ -908,16 +908,12 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 38,
+      "referenced_works_count": 30,
       "referenced_works": [
-        "https://openalex.org/W147723833",
-        "https://openalex.org/W627907298",
         "https://openalex.org/W1550107969",
         "https://openalex.org/W1580963329",
         "https://openalex.org/W1850977552",
-        "https://openalex.org/W1982949943",
         "https://openalex.org/W1990952479",
-        "https://openalex.org/W2021534598",
         "https://openalex.org/W2022034678",
         "https://openalex.org/W2025583962",
         "https://openalex.org/W2027649755",
@@ -942,12 +938,8 @@
         "https://openalex.org/W2145747609",
         "https://openalex.org/W2154433695",
         "https://openalex.org/W2161637621",
-        "https://openalex.org/W2992931674",
         "https://openalex.org/W3213545458",
-        "https://openalex.org/W4251468103",
-        "https://openalex.org/W4252593548",
-        "https://openalex.org/W4252702762",
-        "https://openalex.org/W4256068510"
+        "https://openalex.org/W4252593548"
       ],
       "related_works": [
         "https://openalex.org/W4399525983",
@@ -1436,7 +1428,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-24T14:10:38.155754",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1788,15 +1780,15 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 2.7686,
+      "fwci": 3.161,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88920888,
+        "value": 0.90700432,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 98,
@@ -2904,10 +2896,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-24T14:10:38.155754",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2025-05-08T00:00:00"
     },
     {
@@ -3508,13 +3500,13 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5101,
+      "fwci": 1.5397,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78717616,
+        "value": 0.78997776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3837,23 +3829,20 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 31,
+      "referenced_works_count": 28,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W1927598922",
         "https://openalex.org/W1973977895",
-        "https://openalex.org/W1975476134",
         "https://openalex.org/W1981212228",
         "https://openalex.org/W2036264230",
         "https://openalex.org/W2043926826",
-        "https://openalex.org/W2056243140",
         "https://openalex.org/W2089045238",
         "https://openalex.org/W2108862943",
         "https://openalex.org/W2113987921",
         "https://openalex.org/W2128673992",
         "https://openalex.org/W2131229179",
         "https://openalex.org/W2136195355",
-        "https://openalex.org/W2149852641",
         "https://openalex.org/W2164310172",
         "https://openalex.org/W2216515686",
         "https://openalex.org/W2270004545",
@@ -3907,7 +3896,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2019-04-01T00:00:00"
     },
     {
@@ -4399,16 +4388,14 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 9,
+      "referenced_works_count": 7,
       "referenced_works": [
-        "https://openalex.org/W1607795755",
         "https://openalex.org/W1975096369",
         "https://openalex.org/W1997893789",
         "https://openalex.org/W2008341810",
         "https://openalex.org/W2017622980",
         "https://openalex.org/W2063223132",
         "https://openalex.org/W2162171712",
-        "https://openalex.org/W3098825568",
         "https://openalex.org/W4236430992"
       ],
       "related_works": [
@@ -4430,7 +4417,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9472,65 +9459,65 @@
       ],
       "abstract_inverted_index": {
         "3": [
-          151
+          149
         ],
         "4": [
-          153
+          151
         ],
         "6": [
-          36
+          34
         ],
         "158": [
-          137
+          135
         ],
         "228": [
-          171
+          169
         ],
         "We": [
           0,
-          195
+          193
         ],
         "investigated": [
           1
         ],
         "the": [
           2,
-          18,
-          23,
-          70,
-          106,
-          114,
-          120,
-          123,
-          157,
-          198,
-          226
+          16,
+          21,
+          68,
+          104,
+          112,
+          118,
+          121,
+          155,
+          196,
+          224
         ],
         "influence": [
           3,
-          183
+          181
         ],
         "of": [
           4,
-          22,
-          28,
-          102,
-          108,
-          116,
-          136,
-          170,
-          184
+          20,
+          26,
+          100,
+          106,
+          114,
+          134,
+          168,
+          182
         ],
         "sample": [
           5
         ],
         "size": [
           6,
-          178
+          176
         ],
         "on": [
           7,
-          177
+          175
         ],
         "laboratory": [
           8
@@ -9541,513 +9528,509 @@
         "velocity": [
           10
         ],
-        "(": [
+        "($$\\:{V}_{p}$$)": [
           11
         ],
-        "$$\\:{V}_{p}$$": [
-          12,
-          68,
-          117,
-          125,
-          159
-        ],
-        ")": [
-          13
-        ],
         "in": [
-          14,
-          209
+          12,
+          207
         ],
         "bioturbated": [
-          15
+          13
         ],
         "carbonates": [
-          16
+          14
         ],
         "from": [
-          17,
-          33,
-          40
+          15,
+          31,
+          38
         ],
         "upper": [
-          19
+          17
         ],
         "Ulayyah": [
-          20
+          18
         ],
         "Member": [
-          21
+          19
         ],
         "Hanifa": [
-          24
+          22
         ],
         "Formation.": [
-          25
+          23
         ],
         "A": [
-          26
+          24
         ],
         "total": [
-          27
+          25
         ],
         "thirty": [
-          29
+          27
         ],
         "core": [
-          30,
-          144
+          28,
+          142
         ],
         "plugs,": [
-          31
+          29
         ],
         "ranging": [
-          32
+          30
         ],
         "1.5": [
-          34
+          32
         ],
         "to": [
-          35,
-          96,
-          152,
-          189
+          33,
+          94,
+          150,
+          187
         ],
         "inches,": [
-          37
+          35
         ],
         "were": [
-          38,
-          45,
-          77,
-          193
+          36,
+          43,
+          75,
+          191
         ],
         "extracted": [
-          39
+          37
         ],
         "five": [
-          41
+          39
         ],
         "boulders.": [
-          42
+          40
         ],
         "These": [
-          43
+          41
         ],
         "samples": [
-          44,
-          76,
-          213
+          42,
+          74,
+          211
         ],
         "analyzed": [
-          46
+          44
         ],
         "using": [
-          47,
-          69
+          45,
+          67
         ],
         "medical": [
-          48
+          46
         ],
         "CT": [
-          49
+          47
         ],
         "imaging,": [
-          50
+          48
         ],
         "characterized": [
-          51
+          49
         ],
         "through": [
-          52
+          50
         ],
         "dyed": [
-          53
+          51
         ],
         "thin": [
-          54
+          52
         ],
         "sections,": [
-          55
+          53
         ],
         "and": [
-          56,
-          62,
-          85,
-          180
+          54,
+          60,
+          83,
+          178
         ],
         "assessed": [
-          57
+          55
         ],
         "for": [
-          58,
-          91,
-          126,
-          160,
-          202
+          56,
+          89,
+          124,
+          158,
+          200
         ],
         "porosity": [
-          59,
-          90,
-          185
+          57,
+          88,
+          183
         ],
         "(both": [
-          60
+          58
         ],
         "helium": [
-          61
+          59
         ],
         "bulk": [
-          63,
-          89
-        ],
-        "density)": [
-          64
-        ],
-        "as": [
-          65,
-          67,
-          235
-        ],
-        "well": [
-          66
-        ],
-        "Proseq": [
-          71
-        ],
-        "®": [
-          72
-        ],
-        "ultrasonic": [
-          73,
-          219
-        ],
-        "system.": [
-          74
-        ],
-        "The": [
-          75,
-          88
-        ],
-        "categorized": [
-          78
-        ],
-        "into": [
-          79
-        ],
-        "two": [
-          80,
-          109,
-          121
-        ],
-        "styles:": [
-          81,
-          122
-        ],
-        "Burrow": [
-          82
-        ],
-        "Network": [
-          83
-        ],
-        "(BN)": [
-          84
-        ],
-        "Bioretexturing": [
-          86
-        ],
-        "(BR).": [
+          61,
           87
         ],
-        "both": [
-          92
+        "density)": [
+          62
         ],
-        "styles": [
-          93
+        "as": [
+          63,
+          65,
+          233
         ],
-        "was": [
-          94,
-          128,
-          162
+        "well": [
+          64
         ],
-        "found": [
-          95
+        "$$\\:{V}_{p}$$": [
+          66,
+          115,
+          123,
+          157
         ],
-        "be": [
-          97
+        "Proseq": [
+          69
         ],
-        "comparable,": [
-          98
+        "®": [
+          70
         ],
-        "with": [
-          99,
-          143,
-          229
-        ],
-        "a": [
-          100,
-          133,
-          167,
-          174,
-          181,
+        "ultrasonic": [
+          71,
           217
         ],
+        "system.": [
+          72
+        ],
+        "The": [
+          73,
+          86
+        ],
+        "categorized": [
+          76
+        ],
+        "into": [
+          77
+        ],
+        "two": [
+          78,
+          107,
+          119
+        ],
+        "styles:": [
+          79,
+          120
+        ],
+        "Burrow": [
+          80
+        ],
+        "Network": [
+          81
+        ],
+        "(BN)": [
+          82
+        ],
+        "Bioretexturing": [
+          84
+        ],
+        "(BR).": [
+          85
+        ],
+        "both": [
+          90
+        ],
+        "styles": [
+          91
+        ],
+        "was": [
+          92,
+          126,
+          160
+        ],
+        "found": [
+          93
+        ],
+        "be": [
+          95
+        ],
+        "comparable,": [
+          96
+        ],
+        "with": [
+          97,
+          141,
+          227
+        ],
+        "a": [
+          98,
+          131,
+          165,
+          172,
+          179,
+          215
+        ],
         "median": [
-          101
+          99
         ],
         "approximately": [
-          103,
+          101,
+          127,
+          161
+        ],
+        "15.9%,": [
+          102
+        ],
+        "after": [
+          103
+        ],
+        "exclusion": [
+          105
+        ],
+        "probable": [
+          108
+        ],
+        "cemented": [
+          109
+        ],
+        "outliers.": [
+          110
+        ],
+        "However,": [
+          111
+        ],
+        "behavior": [
+          113
+        ],
+        "varied": [
+          116
+        ],
+        "between": [
+          117
+        ],
+        "mean": [
+          122,
+          156
+        ],
+        "BN": [
+          125,
+          210
+        ],
+        "4,931": [
+          128
+        ],
+        "m/s": [
           129,
           163
         ],
-        "15.9%,": [
-          104
-        ],
-        "after": [
-          105
-        ],
-        "exclusion": [
-          107
-        ],
-        "probable": [
-          110
-        ],
-        "cemented": [
-          111
-        ],
-        "outliers.": [
-          112
-        ],
-        "However,": [
-          113
-        ],
-        "behavior": [
-          115
-        ],
-        "varied": [
-          118
-        ],
-        "between": [
-          119
-        ],
-        "mean": [
-          124,
-          158
-        ],
-        "BN": [
-          127,
-          212
-        ],
-        "4,931": [
-          130
-        ],
-        "m/s": [
-          131,
-          165
-        ],
         "(with": [
+          130,
+          164
+        ],
+        "standard": [
           132,
           166
         ],
-        "standard": [
-          134,
-          168
-        ],
         "deviation": [
-          135,
-          169
+          133,
+          167
         ],
         "m/s),": [
-          138,
-          172
+          136,
+          170
         ],
         "which": [
-          139
+          137
         ],
         "exhibited": [
-          140
+          138
         ],
         "an": [
-          141
+          139
         ],
         "increase": [
-          142
+          140
         ],
         "diameter": [
-          145
+          143
         ],
         "(log": [
-          146
+          144
         ],
         "fit": [
-          147
+          145
         ],
         "R²≈0.67),": [
-          148
+          146
         ],
         "converging": [
-          149
+          147
         ],
         "around": [
-          150,
-          222
-        ],
-        "inches.": [
-          154
-        ],
-        "In": [
-          155
-        ],
-        "contrast,": [
-          156
-        ],
-        "BR": [
-          161
-        ],
-        "4,630": [
-          164
-        ],
-        "demonstrating": [
-          173
-        ],
-        "weak": [
-          175
-        ],
-        "dependence": [
-          176
-        ],
-        "(R²≈0.05)": [
-          179
-        ],
-        "stronger": [
-          182
-        ],
-        "(R²": [
-          186
-        ],
-        "reaching": [
-          187
-        ],
-        "up": [
-          188
-        ],
-        "0.87": [
-          190
-        ],
-        "when": [
-          191
-        ],
-        "outliers": [
-          192
-        ],
-        "excluded).": [
-          194
-        ],
-        "conclude": [
-          196
-        ],
-        "that": [
-          197
-        ],
-        "representative": [
-          199
-        ],
-        "elementary": [
-          200
-        ],
-        "volume": [
-          201
-        ],
-        "acoustic": [
-          203
-        ],
-        "measurements": [
-          204
-        ],
-        "is": [
-          205
-        ],
-        "contingent": [
-          206
-        ],
-        "upon": [
-          207
-        ],
-        "bioturbation:": [
-          208
-        ],
-        "our": [
-          210
-        ],
-        "dataset,": [
-          211
-        ],
-        "demonstrate": [
-          214
-        ],
-        "convergence": [
-          215
-        ],
-        "towards": [
-          216
-        ],
-        "stable": [
-          218
-        ],
-        "Vp": [
+          148,
           220
         ],
+        "inches.": [
+          152
+        ],
+        "In": [
+          153
+        ],
+        "contrast,": [
+          154
+        ],
+        "BR": [
+          159
+        ],
+        "4,630": [
+          162
+        ],
+        "demonstrating": [
+          171
+        ],
+        "weak": [
+          173
+        ],
+        "dependence": [
+          174
+        ],
+        "(R²≈0.05)": [
+          177
+        ],
+        "stronger": [
+          180
+        ],
+        "(R²": [
+          184
+        ],
+        "reaching": [
+          185
+        ],
+        "up": [
+          186
+        ],
+        "0.87": [
+          188
+        ],
+        "when": [
+          189
+        ],
+        "outliers": [
+          190
+        ],
+        "excluded).": [
+          192
+        ],
+        "conclude": [
+          194
+        ],
+        "that": [
+          195
+        ],
+        "representative": [
+          197
+        ],
+        "elementary": [
+          198
+        ],
+        "volume": [
+          199
+        ],
+        "acoustic": [
+          201
+        ],
+        "measurements": [
+          202
+        ],
+        "is": [
+          203
+        ],
+        "contingent": [
+          204
+        ],
+        "upon": [
+          205
+        ],
+        "bioturbation:": [
+          206
+        ],
+        "our": [
+          208
+        ],
+        "dataset,": [
+          209
+        ],
+        "demonstrate": [
+          212
+        ],
+        "convergence": [
+          213
+        ],
+        "towards": [
+          214
+        ],
+        "stable": [
+          216
+        ],
+        "Vp": [
+          218
+        ],
         "at": [
-          221
+          219
         ],
         "3–4": [
-          223
+          221
         ],
         "inches;": [
-          224
+          222
         ],
         "considering": [
-          225
+          223
         ],
         "restricted": [
-          227
+          225
         ],
         "replication": [
-          228
+          226
         ],
         "large": [
-          230
+          228
         ],
         "cores,": [
-          231
+          229
         ],
         "we": [
-          232
+          230
         ],
         "suggest": [
-          233
+          231
         ],
         "this": [
-          234
+          232
         ],
         "initial": [
-          236
+          234
         ],
         "guidance": [
-          237
+          235
         ],
         "pending": [
-          238
+          236
         ],
         "further": [
-          239
+          237
         ],
         "data.": [
-          240
+          238
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162439439",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2026-05-27T00:00:00"
     }
   ]

@@ -11,7 +11,7 @@
     ],
     "full_name": "Khalid Al Ramadan",
     "works_count": 7,
-    "cited_by_count": 70,
+    "cited_by_count": 68,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -145,7 +145,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0000104,
+        "value": 0.0000103,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -213,7 +213,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000048,
+        "value": 0.0000047,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -277,7 +277,7 @@
         "year": 2012,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 1
+        "cited_by_count": 0
       },
       {
         "year": 2013,
@@ -361,7 +361,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 10
+        "cited_by_count": 9
       }
     ],
     "display_name_alternatives": [
@@ -372,7 +372,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5021382014",
-    "updated_date": "2026-11-21T13:19:37",
+    "updated_date": "2026-11-25T10:29:20",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -876,18 +876,18 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 3.2261,
+      "fwci": 2.9254,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 54,
+      "cited_by_count": 52,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89310818,
+        "value": 0.88012152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 87,
         "max": 99
       },
       "biblio": {
@@ -1186,9 +1186,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -1211,14 +1211,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 34,
+      "referenced_works_count": 31,
       "referenced_works": [
         "https://openalex.org/W352719342",
-        "https://openalex.org/W578079095",
         "https://openalex.org/W1512848488",
         "https://openalex.org/W1909880476",
         "https://openalex.org/W1964737423",
@@ -1244,9 +1243,7 @@
         "https://openalex.org/W2134665881",
         "https://openalex.org/W2152657318",
         "https://openalex.org/W2159510032",
-        "https://openalex.org/W2163379101",
         "https://openalex.org/W2171187271",
-        "https://openalex.org/W2171496077",
         "https://openalex.org/W2186549523",
         "https://openalex.org/W2482084774",
         "https://openalex.org/W2606961253",
@@ -1638,7 +1635,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -1691,13 +1688,9 @@
         {
           "year": 2013,
           "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1929,13 +1922,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3578,
+      "fwci": 0.3669,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42669683,
+        "value": 0.43171541,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2260,8 +2253,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3132,8 +3125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254901902.pdf",
@@ -3624,19 +3617,19 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.934,
+      "fwci": 2.0352,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77777778,
+        "value": 0.78444748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 92
+        "max": 93
       },
       "biblio": {
         "volume": null,
@@ -3848,17 +3841,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4379,20 +4372,16 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 8,
+      "referenced_works_count": 4,
       "referenced_works": [
-        "https://openalex.org/W1564076024",
-        "https://openalex.org/W2479869798",
         "https://openalex.org/W2605707177",
         "https://openalex.org/W2780681290",
         "https://openalex.org/W2932696668",
-        "https://openalex.org/W2988464184",
-        "https://openalex.org/W3123652700",
-        "https://openalex.org/W4251884674"
+        "https://openalex.org/W3123652700"
       ],
       "related_works": [
         "https://openalex.org/W1975890505",
@@ -4785,7 +4774,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1987587938",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5263,8 +5252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6225,8 +6214,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

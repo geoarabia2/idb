@@ -17,7 +17,7 @@
     ],
     "full_name": "Mohammed H. Al Kindi",
     "works_count": 13,
-    "cited_by_count": 43,
+    "cited_by_count": 45,
     "summary_stats": {
       "2yr_mean_citedness": 3,
       "h_index": 4,
@@ -140,7 +140,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0000104,
+        "value": 0.0000103,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -157,7 +157,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000103,
+        "value": 0.0000102,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -174,7 +174,7 @@
       {
         "id": "https://openalex.org/T13742",
         "display_name": "Metallurgy and Cultural Artifacts",
-        "value": 0.0000096,
+        "value": 0.0000095,
         "subfield": {
           "id": "https://openalex.org/subfields/3302",
           "display_name": "Archeology"
@@ -249,7 +249,7 @@
         "year": 2021,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 1
+        "cited_by_count": 3
       },
       {
         "year": 2022,
@@ -294,7 +294,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5007597150",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-25T10:29:20",
     "created_date": "2020-03-13T00:00:00"
   },
   "works": [
@@ -409,19 +409,19 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2019,
+      "fwci": 1.1934,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72938934,
+        "value": 0.726636,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 97,
-        "max": 98
+        "max": 99
       },
       "biblio": {
         "volume": "550",
@@ -786,13 +786,13 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -804,7 +804,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 64,
+      "referenced_works_count": 63,
       "referenced_works": [
         "https://openalex.org/W5762793",
         "https://openalex.org/W203888015",
@@ -863,7 +863,6 @@
         "https://openalex.org/W3214204475",
         "https://openalex.org/W4200520867",
         "https://openalex.org/W4214703750",
-        "https://openalex.org/W4237201342",
         "https://openalex.org/W4292600253",
         "https://openalex.org/W4307664753",
         "https://openalex.org/W4311103994",
@@ -886,11 +885,9 @@
       "abstract_inverted_index": {
         "2": [
           53,
-          68,
-          137,
-          155,
-          172,
-          179
+          153,
+          170,
+          177
         ],
         "This": [
           0
@@ -910,16 +907,16 @@
         "of": [
           5,
           38,
-          177
+          175
         ],
         "the": [
           6,
           39,
           55,
           58,
-          142,
-          175,
-          187
+          140,
+          173,
+          185
         ],
         "surface": [
           7
@@ -928,9 +925,9 @@
           8,
           12,
           16,
-          75,
-          80,
-          174
+          74,
+          79,
+          172
         ],
         "subsurface": [
           9,
@@ -938,7 +935,7 @@
         ],
         "carbon": [
           10,
-          87
+          86
         ],
         "capture": [
           11
@@ -946,7 +943,7 @@
         "storage": [
           13,
           64,
-          173
+          171
         ],
         "(CCS)": [
           14
@@ -966,17 +963,17 @@
         ],
         "in": [
           20,
-          71,
-          180,
-          192
+          70,
+          178,
+          190
         ],
         "Oman.": [
           21,
-          193
+          191
         ],
         "Oman's": [
           22,
-          113
+          112
         ],
         "stratigraphy": [
           23
@@ -999,12 +996,12 @@
         ],
         "can": [
           29,
-          92
+          91
         ],
         "be": [
           30,
-          94,
-          120
+          93,
+          119
         ],
         "harnessed": [
           31
@@ -1013,17 +1010,17 @@
           32,
           46,
           66,
-          86,
-          96,
-          111,
-          128,
-          170,
-          190
+          85,
+          95,
+          110,
+          127,
+          168,
+          188
         ],
         "CCS": [
           33,
-          144,
-          191
+          142,
+          189
         ],
         "purposes.": [
           34
@@ -1060,10 +1057,10 @@
         ],
         "to": [
           49,
-          99,
-          116,
-          122,
-          156
+          98,
+          115,
+          121,
+          154
         ],
         "permanently": [
           50
@@ -1074,10 +1071,10 @@
         "CO": [
           52,
           67,
-          136,
-          154,
-          171,
-          178
+          135,
+          152,
+          169,
+          176
         ],
         "near": [
           54
@@ -1093,246 +1090,246 @@
         ],
         "also": [
           62,
-          93
+          92
         ],
         "offer": [
           63
         ],
         "opportunities": [
           65,
-          145,
-          189
+          143,
+          187
         ],
-        ",": [
-          69
+        "2,": [
+          68
         ],
         "particularly": [
-          70
+          69
         ],
         "deeply": [
-          72
+          71
         ],
         "buried": [
-          73
+          72
         ],
         "clastic": [
-          74,
-          182
+          73,
+          180
         ],
         "carbonate": [
-          76
+          75
         ],
         "saline": [
-          77,
-          183
-        ],
-        "aquifers.": [
-          78
-        ],
-        "Structural": [
-          79
-        ],
-        "stratigraphic": [
-          81
-        ],
-        "traps": [
-          82,
-          110
-        ],
-        "could": [
-          83,
-          119
-        ],
-        "hold": [
-          84
-        ],
-        "potential": [
-          85
-        ],
-        "disposal.": [
-          88,
-          112
-        ],
-        "Producing": [
-          89
-        ],
-        "hydrocarbon": [
-          90,
-          101,
-          158,
-          168
-        ],
-        "fields": [
-          91,
-          169
-        ],
-        "considered": [
-          95
-        ],
-        "CCS,": [
-          97
-        ],
-        "either": [
-          98
-        ],
-        "enhance": [
-          100,
-          157
-        ],
-        "production": [
-          102
-        ],
-        "from": [
-          103
-        ],
-        "existing": [
-          104
-        ],
-        "reservoirs": [
-          105
-        ],
-        "or": [
-          106
-        ],
-        "by": [
-          107,
-          160
-        ],
-        "utilizing": [
-          108
-        ],
-        "deep": [
-          109,
+          76,
           181
         ],
-        "Late": [
-          114
+        "aquifers.": [
+          77
         ],
-        "Proterozoic": [
-          115
+        "Structural": [
+          78
         ],
-        "Cambrian": [
-          117
+        "stratigraphic": [
+          80
         ],
-        "evaporites": [
+        "traps": [
+          81,
+          109
+        ],
+        "could": [
+          82,
           118
         ],
-        "utilized": [
-          121
+        "hold": [
+          83
         ],
-        "create": [
-          123
+        "potential": [
+          84
         ],
-        "large": [
-          124
+        "disposal.": [
+          87,
+          111
         ],
-        "underground": [
-          125
+        "Producing": [
+          88
         ],
-        "salt": [
-          126
-        ],
-        "caverns": [
-          127
-        ],
-        "storing": [
-          129
-        ],
-        "hydrogen": [
-          130
-        ],
-        "and,": [
-          131
-        ],
-        "a": [
-          132
-        ],
-        "less": [
-          133
-        ],
-        "attractive": [
-          134
-        ],
-        "option,": [
-          135
-        ],
-        ".": [
-          138
-        ],
-        "In": [
-          139
-        ],
-        "this": [
-          140
-        ],
-        "work,": [
-          141
-        ],
-        "identified": [
-          143
-        ],
-        "are": [
-          146
-        ],
-        "ranked": [
-          147
-        ],
-        "based": [
-          148
-        ],
-        "on": [
-          149
-        ],
-        "different": [
-          150
-        ],
-        "criteria.": [
-          151
-        ],
-        "Using": [
-          152
-        ],
-        "injected": [
-          153
-        ],
-        "recovery": [
-          159
-        ],
-        "providing": [
-          161
-        ],
-        "additional": [
-          162
-        ],
-        "reservoir": [
-          163
-        ],
-        "pressure": [
-          164
-        ],
-        "support,": [
-          165
-        ],
-        "using": [
+        "hydrocarbon": [
+          89,
+          100,
+          156,
           166
         ],
-        "depleted": [
+        "fields": [
+          90,
           167
         ],
+        "considered": [
+          94
+        ],
+        "CCS,": [
+          96
+        ],
+        "either": [
+          97
+        ],
+        "enhance": [
+          99,
+          155
+        ],
+        "production": [
+          101
+        ],
+        "from": [
+          102
+        ],
+        "existing": [
+          103
+        ],
+        "reservoirs": [
+          104
+        ],
+        "or": [
+          105
+        ],
+        "by": [
+          106,
+          158
+        ],
+        "utilizing": [
+          107
+        ],
+        "deep": [
+          108,
+          179
+        ],
+        "Late": [
+          113
+        ],
+        "Proterozoic": [
+          114
+        ],
+        "Cambrian": [
+          116
+        ],
+        "evaporites": [
+          117
+        ],
+        "utilized": [
+          120
+        ],
+        "create": [
+          122
+        ],
+        "large": [
+          123
+        ],
+        "underground": [
+          124
+        ],
+        "salt": [
+          125
+        ],
+        "caverns": [
+          126
+        ],
+        "storing": [
+          128
+        ],
+        "hydrogen": [
+          129
+        ],
+        "and,": [
+          130
+        ],
+        "a": [
+          131
+        ],
+        "less": [
+          132
+        ],
+        "attractive": [
+          133
+        ],
+        "option,": [
+          134
+        ],
+        "2.": [
+          136
+        ],
+        "In": [
+          137
+        ],
+        "this": [
+          138
+        ],
+        "work,": [
+          139
+        ],
+        "identified": [
+          141
+        ],
+        "are": [
+          144
+        ],
+        "ranked": [
+          145
+        ],
+        "based": [
+          146
+        ],
+        "on": [
+          147
+        ],
+        "different": [
+          148
+        ],
+        "criteria.": [
+          149
+        ],
+        "Using": [
+          150
+        ],
+        "injected": [
+          151
+        ],
+        "recovery": [
+          157
+        ],
+        "providing": [
+          159
+        ],
+        "additional": [
+          160
+        ],
+        "reservoir": [
+          161
+        ],
+        "pressure": [
+          162
+        ],
+        "support,": [
+          163
+        ],
+        "using": [
+          164
+        ],
+        "depleted": [
+          165
+        ],
         "injection": [
-          176
+          174
         ],
         "aquifers": [
-          184
+          182
         ],
         "rank": [
-          185
+          183
         ],
         "among": [
-          186
+          184
         ],
         "main": [
-          188
+          186
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4396745839",
@@ -1346,7 +1343,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2024-05-09T00:00:00"
     },
     {
@@ -1471,13 +1468,13 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 1.3373,
+      "fwci": 1.3605,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76803137,
+        "value": 0.76944115,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1856,11 +1853,10 @@
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3107735373.grobid-xml"
       },
-      "referenced_works_count": 51,
+      "referenced_works_count": 49,
       "referenced_works": [
         "https://openalex.org/W27077920",
         "https://openalex.org/W1508508756",
-        "https://openalex.org/W1592324393",
         "https://openalex.org/W1610837456",
         "https://openalex.org/W1744482739",
         "https://openalex.org/W1838857724",
@@ -1907,7 +1903,6 @@
         "https://openalex.org/W3010622588",
         "https://openalex.org/W3023068516",
         "https://openalex.org/W3034129946",
-        "https://openalex.org/W4245249958",
         "https://openalex.org/W6635232110"
       ],
       "related_works": [
@@ -2711,7 +2706,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-24T14:10:38.155754",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2020-12-07T00:00:00"
     },
     {
@@ -2894,13 +2889,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1855,
+      "fwci": 1.1806,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74103479,
+        "value": 0.73968311,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3229,9 +3224,8 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 81,
+      "referenced_works_count": 70,
       "referenced_works": [
-        "https://openalex.org/W109596884",
         "https://openalex.org/W129587241",
         "https://openalex.org/W131303653",
         "https://openalex.org/W575412826",
@@ -3241,10 +3235,7 @@
         "https://openalex.org/W1531587811",
         "https://openalex.org/W1542046198",
         "https://openalex.org/W1572495630",
-        "https://openalex.org/W1592324393",
-        "https://openalex.org/W1610837456",
         "https://openalex.org/W1963803326",
-        "https://openalex.org/W1966297860",
         "https://openalex.org/W1975754535",
         "https://openalex.org/W1980096862",
         "https://openalex.org/W1985748982",
@@ -3257,9 +3248,7 @@
         "https://openalex.org/W2023273466",
         "https://openalex.org/W2026416412",
         "https://openalex.org/W2035862951",
-        "https://openalex.org/W2063147594",
         "https://openalex.org/W2068451724",
-        "https://openalex.org/W2071582006",
         "https://openalex.org/W2073297172",
         "https://openalex.org/W2080088198",
         "https://openalex.org/W2081949219",
@@ -3304,11 +3293,6 @@
         "https://openalex.org/W4237186795",
         "https://openalex.org/W4241978057",
         "https://openalex.org/W4248854731",
-        "https://openalex.org/W4249009346",
-        "https://openalex.org/W6635232110",
-        "https://openalex.org/W6643559261",
-        "https://openalex.org/W6750538592",
-        "https://openalex.org/W6793695841",
         "https://openalex.org/W6893461676",
         "https://openalex.org/W7038122752",
         "https://openalex.org/W7070125064"
@@ -3800,7 +3784,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2024-05-03T00:00:00"
     },
     {
@@ -4207,13 +4191,13 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.2881,
+      "fwci": 1.2737,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71222252,
+        "value": 0.70936269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4550,7 +4534,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 73,
+      "referenced_works_count": 71,
       "referenced_works": [
         "https://openalex.org/W1495168473",
         "https://openalex.org/W1523916934",
@@ -4598,7 +4582,6 @@
         "https://openalex.org/W2168168701",
         "https://openalex.org/W2168909621",
         "https://openalex.org/W2171211028",
-        "https://openalex.org/W2312997001",
         "https://openalex.org/W2322328802",
         "https://openalex.org/W2330935816",
         "https://openalex.org/W2406027033",
@@ -4610,7 +4593,6 @@
         "https://openalex.org/W2801087535",
         "https://openalex.org/W2896659948",
         "https://openalex.org/W2900544280",
-        "https://openalex.org/W2904132173",
         "https://openalex.org/W2938243655",
         "https://openalex.org/W2941596473",
         "https://openalex.org/W2945318394",
@@ -5367,7 +5349,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2025-05-28T00:00:00"
     },
     {
@@ -5518,18 +5500,18 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8501,
+      "fwci": 0.8438,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73110302,
+        "value": 0.72905301,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 94,
+        "min": 93,
         "max": 96
       },
       "biblio": {
@@ -5846,7 +5828,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 37,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W567762552",
         "https://openalex.org/W1508800270",
@@ -5875,7 +5857,6 @@
         "https://openalex.org/W2340103835",
         "https://openalex.org/W2464762345",
         "https://openalex.org/W2511271942",
-        "https://openalex.org/W2749434136",
         "https://openalex.org/W2909892947",
         "https://openalex.org/W2952334966",
         "https://openalex.org/W2986315259",
@@ -5906,7 +5887,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2023-04-20T00:00:00"
     },
     {
@@ -6031,18 +6012,18 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.1489,
+      "fwci": 0.1512,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3932256,
+        "value": 0.39748382,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 87,
         "max": 94
       },
       "biblio": {
@@ -8490,8 +8471,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.6000000238418579,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -9233,8 +9214,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.53329998254776,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
