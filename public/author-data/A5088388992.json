@@ -16,7 +16,7 @@
     ],
     "full_name": "Nabil Ali Saraih",
     "works_count": 18,
-    "cited_by_count": 119,
+    "cited_by_count": 120,
     "summary_stats": {
       "2yr_mean_citedness": 1.25,
       "h_index": 6,
@@ -206,7 +206,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000355,
+        "value": 0.0000357,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -317,7 +317,7 @@
         "year": 2026,
         "works_count": 7,
         "oa_works_count": 5,
-        "cited_by_count": 53
+        "cited_by_count": 54
       }
     ],
     "display_name_alternatives": [
@@ -331,7 +331,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5088388992",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5088388992",
-    "updated_date": "2026-11-25T10:29:20",
+    "updated_date": "2026-11-26T10:23:11",
     "created_date": "2019-09-12T00:00:00"
   },
   "works": [
@@ -702,13 +702,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.7738,
+      "fwci": 1.7724,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 38,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8141985,
+        "value": 0.81403641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1601,13 +1601,13 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 5.1367,
+      "fwci": 5.5055,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95883798,
+        "value": 0.96426454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2823,10 +2823,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -3226,13 +3226,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.3367,
+      "fwci": 1.3333,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76833549,
+        "value": 0.76766091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4714,13 +4714,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.7709,
+      "fwci": 1.765,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82561991,
+        "value": 0.82517232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5448,13 +5448,13 @@
         "currency": "CHF",
         "value_usd": 1520
       },
-      "fwci": 0.6535,
+      "fwci": 0.653,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60975742,
+        "value": 0.60959533,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6863,13 +6863,13 @@
         "value_usd": 2495
       },
       "apc_paid": null,
-      "fwci": 1.0165,
+      "fwci": 1.0133,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66825285,
+        "value": 0.66700965,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7971,11 +7971,13 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5126254129",
-            "display_name": "S. Kaka",
+            "id": "https://openalex.org/A5024607591",
+            "display_name": "SanLinn I. Kaka",
             "type": null,
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0003-1229-4627",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1229-4627"
+            ]
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -8019,18 +8021,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 43.4731,
+      "fwci": 42.1734,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99462588,
+        "value": 0.99424105,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 97
       },
       "biblio": {
@@ -8837,7 +8839,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-02-18T00:00:00"
     },
     {
@@ -9047,11 +9049,13 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5126254129",
-            "display_name": "S. Kaka",
+            "id": "https://openalex.org/A5024607591",
+            "display_name": "SanLinn I. Kaka",
             "type": null,
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0003-1229-4627",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1229-4627"
+            ]
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -9102,18 +9106,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 43.4731,
+      "fwci": 42.1734,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99462588,
+        "value": 0.99424105,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 97
       },
       "biblio": {
@@ -9933,7 +9937,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-02-18T00:00:00"
     },
     {
@@ -10437,13 +10441,13 @@
         "currency": "CHF",
         "value_usd": 1901
       },
-      "fwci": 0.8976,
+      "fwci": 0.8967,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6574766,
+        "value": 0.65721649,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11964,8 +11968,8 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 94,
-        "max": 96
+        "min": 93,
+        "max": 95
       },
       "biblio": {
         "volume": null,
@@ -13324,19 +13328,19 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5683,
+      "fwci": 1.5555,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70971564,
+        "value": 0.71026943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 94
+        "max": 93
       },
       "biblio": {
         "volume": null,
@@ -14580,8 +14584,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5133806924",
-            "display_name": "Scott A. Whattam",
+            "id": "https://openalex.org/A5011750653",
+            "display_name": "Scott Andrew Whattam",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-9193-9002",
             "observed_orcids": [
@@ -14827,19 +14831,19 @@
         "currency": "USD",
         "value_usd": 3360
       },
-      "fwci": 1.2537,
+      "fwci": 1.2422,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70628173,
+        "value": 0.70540215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 94
+        "max": 93
       },
       "biblio": {
         "volume": "108",
@@ -16005,7 +16009,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-24T14:10:38.155754",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-05-19T00:00:00"
     },
     {
@@ -16125,8 +16129,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104116379",
-            "display_name": "Sherif Mahmoud Hanafy",
+            "id": "https://openalex.org/A5077467560",
+            "display_name": "Sherif M. Hanafy",
             "type": null,
             "orcid": "https://orcid.org/0000-0003-4568-2941",
             "observed_orcids": [
@@ -17105,7 +17109,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-03-14T00:00:00"
     },
     {
@@ -19263,7 +19267,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7167183242",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-07-03T00:00:00"
     },
     {
@@ -19443,8 +19447,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5133806924",
-            "display_name": "Scott A. Whattam",
+            "id": "https://openalex.org/A5011750653",
+            "display_name": "Scott Andrew Whattam",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-9193-9002",
             "observed_orcids": [
@@ -19741,7 +19745,7 @@
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5000790686",
-        "https://openalex.org/A5133806924"
+        "https://openalex.org/A5011750653"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -21031,7 +21035,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7171327959",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-07-27T00:00:00"
     },
     {

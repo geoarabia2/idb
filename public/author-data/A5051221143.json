@@ -730,13 +730,13 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 1.2822,
+      "fwci": 1.2811,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 38,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78753364,
+        "value": 0.78735061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1678,8 +1678,8 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5111648436",
-            "display_name": "S. Tlig",
+            "id": "https://openalex.org/A5113092818",
+            "display_name": "Saïd Tlig",
             "type": null,
             "orcid": null,
             "observed_orcids": []
@@ -1914,7 +1914,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
-        "https://openalex.org/A5111648436"
+        "https://openalex.org/A5113092818"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I108714496",
@@ -1926,7 +1926,7 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 4.6165,
+      "fwci": 4.6126,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 53,
@@ -2394,7 +2394,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2658,8 +2658,8 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5111648436",
-            "display_name": "S. Tlig",
+            "id": "https://openalex.org/A5113092818",
+            "display_name": "Saïd Tlig",
             "type": null,
             "orcid": null,
             "observed_orcids": []
@@ -2711,13 +2711,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6536,
+      "fwci": 1.6525,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 44,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80152829,
+        "value": 0.80144529,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3512,7 +3512,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4692,13 +4692,13 @@
         "value_usd": 1490
       },
       "apc_paid": null,
-      "fwci": 0.5512,
+      "fwci": 0.5508,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6477351,
+        "value": 0.64769443,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5622,13 +5622,13 @@
         "currency": "USD",
         "value_usd": 3390
       },
-      "fwci": 0.8171,
+      "fwci": 0.8099,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67692481,
+        "value": 0.67461892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5935,18 +5935,18 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 1
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.6618000268936157
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4943999946117401
         }
       ],
@@ -6910,7 +6910,7 @@
       },
       "cited_by_percentile_year": {
         "min": 86,
-        "max": 96
+        "max": 95
       },
       "biblio": {
         "volume": "7",
@@ -7876,19 +7876,19 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5515,
+      "fwci": 0.5561,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49729499,
+        "value": 0.49943133,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 86,
-        "max": 96
+        "max": 95
       },
       "biblio": {
         "volume": "43",
@@ -8909,13 +8909,13 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.2748,
+      "fwci": 0.2746,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4399005,
+        "value": 0.43968103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10169,13 +10169,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4231,
+      "fwci": 1.4272,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77083333,
+        "value": 0.7718254,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10857,7 +10857,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6172,
+      "fwci": 1.6178,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
@@ -11384,6 +11384,757 @@
       "created_date": "2020-05-13T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2183538626",
+      "doi": null,
+      "title": "CHARACTERIZATION AND POTENTIAL APPLICATION OF PLIOCENE CLAYS FROM MENZEL TEMIME REGION (NORTH EAST OF TUNISIA) FOR BRICK AND FAIENCE CERAMICS FABRICATION",
+      "display_name": "CHARACTERIZATION AND POTENTIAL APPLICATION OF PLIOCENE CLAYS FROM MENZEL TEMIME REGION (NORTH EAST OF TUNISIA) FOR BRICK AND FAIENCE CERAMICS FABRICATION",
+      "alternate_titles": [],
+      "publication_year": 2005,
+      "publication_date": "2005-04-02",
+      "ids": {
+        "openalex": "https://openalex.org/W2183538626",
+        "mag": "2183538626"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2183538626",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.irsm.cas.cz/materialy/acta_content/2005_02/Abstrakty.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2498571707",
+          "display_name": "Acta Geodynamica et Geomaterialia",
+          "issn_l": "1214-9705",
+          "issn": [
+            "1214-9705",
+            "2336-4351"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-3"
+          ],
+          "host_organization": "https://openalex.org/P4310314336",
+          "host_organization_name": "Institute of Rock Structure and Mechanics",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310314336",
+            "https://openalex.org/P4310314171"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Rock Structure and Mechanics",
+            "Czech Academy of Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Acta Geodynamica et Geomaterialia",
+        "raw_type": null
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2183538626"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002652428",
+            "display_name": "Islem Chaari",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Islem Chaari",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072031787",
+            "display_name": "Emna Fakhfakh",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-2839-864X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2839-864X"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Emna Fakhfakh",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015559304",
+            "display_name": "M. Hachani",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-9658-6346",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9658-6346"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "M. Hachani",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Rabah Alouani",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113702548",
+            "display_name": "Mounir Medhioub",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-3961-4013",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3961-4013"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Mounir Medhioub",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020503873",
+            "display_name": "Fethi Kooli",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-4452-5426",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4452-5426"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Kooli Fethi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5086342279",
+            "display_name": "Fakher Jamoussi",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-2796-7583",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2796-7583"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Fakher Jamoussi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "2",
+        "issue": "2",
+        "first_page": "21",
+        "last_page": "29"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11672",
+        "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
+        "score": 0.47440001368522644,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2215",
+          "display_name": "Building and Construction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11672",
+          "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
+          "score": 0.47440001368522644,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11852",
+          "display_name": "Clay minerals and soil interactions",
+          "score": 0.3677000105381012,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10132",
+          "display_name": "Advanced ceramic materials synthesis",
+          "score": 0.057500001043081284,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2503",
+            "display_name": "Ceramics and Composites"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/pliocene-clays",
+          "display_name": "Pliocene clays",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/kaolinite",
+          "display_name": "kaolinite",
+          "score": 0.7699999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/illite",
+          "display_name": "illite",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/clay-mineralogy",
+          "display_name": "clay mineralogy",
+          "score": 0.7900000214576721
+        },
+        {
+          "id": "https://openalex.org/keywords/ceramic-defects",
+          "display_name": "ceramic defects",
+          "score": 0.48100000619888306
+        },
+        {
+          "id": "https://openalex.org/keywords/molding-pressure",
+          "display_name": "molding pressure",
+          "score": 0.8169999718666077
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779429093",
+          "wikidata": "https://www.wikidata.org/wiki/Q1145804",
+          "display_name": "Illite",
+          "level": 3,
+          "score": 0.810369610786438
+        },
+        {
+          "id": "https://openalex.org/C154226666",
+          "wikidata": "https://www.wikidata.org/wiki/Q40089",
+          "display_name": "Brick",
+          "level": 2,
+          "score": 0.8035265207290649
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7812612056732178
+        },
+        {
+          "id": "https://openalex.org/C2778520076",
+          "wikidata": "https://www.wikidata.org/wiki/Q170258",
+          "display_name": "Feldspar",
+          "level": 3,
+          "score": 0.7691057920455933
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.6797592043876648
+        },
+        {
+          "id": "https://openalex.org/C2779870107",
+          "wikidata": "https://www.wikidata.org/wiki/Q43010",
+          "display_name": "Quartz",
+          "level": 2,
+          "score": 0.6389685869216919
+        },
+        {
+          "id": "https://openalex.org/C2779899878",
+          "wikidata": "https://www.wikidata.org/wiki/Q223197",
+          "display_name": "Kaolinite",
+          "level": 2,
+          "score": 0.6148651838302612
+        },
+        {
+          "id": "https://openalex.org/C2779181077",
+          "wikidata": "https://www.wikidata.org/wiki/Q714830",
+          "display_name": "Plagioclase",
+          "level": 3,
+          "score": 0.5376014113426208
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.47176697850227356
+        },
+        {
+          "id": "https://openalex.org/C40212044",
+          "wikidata": "https://www.wikidata.org/wiki/Q1799034",
+          "display_name": "Clay minerals",
+          "level": 2,
+          "score": 0.44665616750717163
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.38643237948417664
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.1706201136112213
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.08679279685020447
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.08474692702293396
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2183538626",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://www.irsm.cas.cz/materialy/acta_content/2005_02/Abstrakty.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2498571707",
+            "display_name": "Acta Geodynamica et Geomaterialia",
+            "issn_l": "1214-9705",
+            "issn": [
+              "1214-9705",
+              "2336-4351"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-3"
+            ],
+            "host_organization": "https://openalex.org/P4310314336",
+            "host_organization_name": "Institute of Rock Structure and Mechanics",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310314336",
+              "https://openalex.org/P4310314171"
+            ],
+            "host_organization_lineage_names": [
+              "Institute of Rock Structure and Mechanics",
+              "Czech Academy of Sciences"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Acta Geodynamica et Geomaterialia",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2603123523",
+        "https://openalex.org/W2804581960",
+        "https://openalex.org/W4223952200",
+        "https://openalex.org/W2189921740",
+        "https://openalex.org/W2801271019",
+        "https://openalex.org/W229727760",
+        "https://openalex.org/W2329410281",
+        "https://openalex.org/W2607286709",
+        "https://openalex.org/W2337307182",
+        "https://openalex.org/W2265873628"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "Pliocene": [
+          1
+        ],
+        "in": [
+          2,
+          51
+        ],
+        "Menzel": [
+          3
+        ],
+        "Temime": [
+          4
+        ],
+        "region": [
+          5
+        ],
+        "(Northeast": [
+          6
+        ],
+        "of": [
+          7,
+          13,
+          26,
+          35,
+          49,
+          74,
+          76
+        ],
+        "Tunisia)": [
+          8
+        ],
+        "overlying": [
+          9
+        ],
+        "the": [
+          10,
+          59,
+          77
+        ],
+        "Saouaf": [
+          11
+        ],
+        "formation": [
+          12
+        ],
+        "Middle": [
+          14
+        ],
+        "Miocene": [
+          15
+        ],
+        "age,": [
+          16
+        ],
+        "is": [
+          17
+        ],
+        "represented": [
+          18
+        ],
+        "by": [
+          19,
+          72
+        ],
+        "three": [
+          20
+        ],
+        "lithostratigraphic": [
+          21
+        ],
+        "formations:": [
+          22
+        ],
+        "Potter": [
+          23
+        ],
+        "clays,": [
+          24
+        ],
+        "sand": [
+          25
+        ],
+        "Nabeul": [
+          27
+        ],
+        "and": [
+          28,
+          37,
+          42,
+          46,
+          53
+        ],
+        "Sidi": [
+          29
+        ],
+        "Barka": [
+          30
+        ],
+        "clays.": [
+          31
+        ],
+        "Clay": [
+          32
+        ],
+        "fractions": [
+          33
+        ],
+        "consist": [
+          34
+        ],
+        "kaolinite": [
+          36
+        ],
+        "illite": [
+          38
+        ],
+        "with": [
+          39
+        ],
+        "plastic": [
+          40
+        ],
+        "properties": [
+          41
+        ],
+        "minor": [
+          43
+        ],
+        "quartz,": [
+          44
+        ],
+        "calcite": [
+          45
+        ],
+        "feldspar.": [
+          47
+        ],
+        "Applications": [
+          48
+        ],
+        "clays": [
+          50
+        ],
+        "bricks": [
+          52
+        ],
+        "faience": [
+          54,
+          61
+        ],
+        "ceramics": [
+          55,
+          62
+        ],
+        "are": [
+          56
+        ],
+        "reported.": [
+          57
+        ],
+        "However,": [
+          58
+        ],
+        "resulting": [
+          60
+        ],
+        "exhibit": [
+          63
+        ],
+        "some": [
+          64
+        ],
+        "textural": [
+          65
+        ],
+        "defects.": [
+          66
+        ],
+        "These": [
+          67
+        ],
+        "defects": [
+          68
+        ],
+        "could": [
+          69
+        ],
+        "be": [
+          70
+        ],
+        "eliminated": [
+          71
+        ],
+        "increasing": [
+          73
+        ],
+        "pressure": [
+          75
+        ],
+        "mold.": [
+          78
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2183538626",
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-21T10:27:49.728292",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4385952766",
       "doi": "https://doi.org/10.1007/s13146-023-00888-4",
       "title": "Biofacies analysis and depositional environments of mid-Eocene larger benthic foraminifera-rich deposits in northern Tunisia",
@@ -11817,13 +12568,13 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.4546,
+      "fwci": 0.4535,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43552823,
+        "value": 0.43561954,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12901,757 +13652,6 @@
       ],
       "updated_date": "2026-11-25T09:40:18.809321",
       "created_date": "2023-08-18T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2183538626",
-      "doi": null,
-      "title": "CHARACTERIZATION AND POTENTIAL APPLICATION OF PLIOCENE CLAYS FROM MENZEL TEMIME REGION (NORTH EAST OF TUNISIA) FOR BRICK AND FAIENCE CERAMICS FABRICATION",
-      "display_name": "CHARACTERIZATION AND POTENTIAL APPLICATION OF PLIOCENE CLAYS FROM MENZEL TEMIME REGION (NORTH EAST OF TUNISIA) FOR BRICK AND FAIENCE CERAMICS FABRICATION",
-      "alternate_titles": [],
-      "publication_year": 2005,
-      "publication_date": "2005-04-02",
-      "ids": {
-        "openalex": "https://openalex.org/W2183538626",
-        "mag": "2183538626"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:2183538626",
-        "doi": null,
-        "is_oa": false,
-        "landing_page_url": "https://www.irsm.cas.cz/materialy/acta_content/2005_02/Abstrakty.pdf",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2498571707",
-          "display_name": "Acta Geodynamica et Geomaterialia",
-          "issn_l": "1214-9705",
-          "issn": [
-            "1214-9705",
-            "2336-4351"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-3"
-          ],
-          "host_organization": "https://openalex.org/P4310314336",
-          "host_organization_name": "Institute of Rock Structure and Mechanics",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310314336",
-            "https://openalex.org/P4310314171"
-          ],
-          "host_organization_lineage_names": [
-            "Institute of Rock Structure and Mechanics",
-            "Czech Academy of Sciences"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Acta Geodynamica et Geomaterialia",
-        "raw_type": null
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2183538626"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5002652428",
-            "display_name": "Islem Chaari",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Islem Chaari",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072031787",
-            "display_name": "Emna Fakhfakh",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-2839-864X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2839-864X"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Emna Fakhfakh",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5015559304",
-            "display_name": "M. Hachani",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-9658-6346",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9658-6346"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "M. Hachani",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Rabah Alouani",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113702548",
-            "display_name": "Mounir Medhioub",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-3961-4013",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3961-4013"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Mounir Medhioub",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5020503873",
-            "display_name": "Fethi Kooli",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-4452-5426",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4452-5426"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Kooli Fethi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5086342279",
-            "display_name": "Fakher Jamoussi",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-2796-7583",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2796-7583"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Fakher Jamoussi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 92
-      },
-      "biblio": {
-        "volume": "2",
-        "issue": "2",
-        "first_page": "21",
-        "last_page": "29"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11672",
-        "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-        "score": 0.47440001368522644,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2215",
-          "display_name": "Building and Construction"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11672",
-          "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-          "score": 0.47440001368522644,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2215",
-            "display_name": "Building and Construction"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11852",
-          "display_name": "Clay minerals and soil interactions",
-          "score": 0.3677000105381012,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10132",
-          "display_name": "Advanced ceramic materials synthesis",
-          "score": 0.057500001043081284,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2503",
-            "display_name": "Ceramics and Composites"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/pliocene-clays",
-          "display_name": "Pliocene clays",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/kaolinite",
-          "display_name": "kaolinite",
-          "score": 0.7699999809265137
-        },
-        {
-          "id": "https://openalex.org/keywords/illite",
-          "display_name": "illite",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/clay-mineralogy",
-          "display_name": "clay mineralogy",
-          "score": 0.7900000214576721
-        },
-        {
-          "id": "https://openalex.org/keywords/ceramic-defects",
-          "display_name": "ceramic defects",
-          "score": 0.48100000619888306
-        },
-        {
-          "id": "https://openalex.org/keywords/molding-pressure",
-          "display_name": "molding pressure",
-          "score": 0.8169999718666077
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2779429093",
-          "wikidata": "https://www.wikidata.org/wiki/Q1145804",
-          "display_name": "Illite",
-          "level": 3,
-          "score": 0.810369610786438
-        },
-        {
-          "id": "https://openalex.org/C154226666",
-          "wikidata": "https://www.wikidata.org/wiki/Q40089",
-          "display_name": "Brick",
-          "level": 2,
-          "score": 0.8035265207290649
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7812612056732178
-        },
-        {
-          "id": "https://openalex.org/C2778520076",
-          "wikidata": "https://www.wikidata.org/wiki/Q170258",
-          "display_name": "Feldspar",
-          "level": 3,
-          "score": 0.7691057920455933
-        },
-        {
-          "id": "https://openalex.org/C2780191791",
-          "wikidata": "https://www.wikidata.org/wiki/Q171917",
-          "display_name": "Calcite",
-          "level": 2,
-          "score": 0.6797592043876648
-        },
-        {
-          "id": "https://openalex.org/C2779870107",
-          "wikidata": "https://www.wikidata.org/wiki/Q43010",
-          "display_name": "Quartz",
-          "level": 2,
-          "score": 0.6389685869216919
-        },
-        {
-          "id": "https://openalex.org/C2779899878",
-          "wikidata": "https://www.wikidata.org/wiki/Q223197",
-          "display_name": "Kaolinite",
-          "level": 2,
-          "score": 0.6148651838302612
-        },
-        {
-          "id": "https://openalex.org/C2779181077",
-          "wikidata": "https://www.wikidata.org/wiki/Q714830",
-          "display_name": "Plagioclase",
-          "level": 3,
-          "score": 0.5376014113426208
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.47176697850227356
-        },
-        {
-          "id": "https://openalex.org/C40212044",
-          "wikidata": "https://www.wikidata.org/wiki/Q1799034",
-          "display_name": "Clay minerals",
-          "level": 2,
-          "score": 0.44665616750717163
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.38643237948417664
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.1706201136112213
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.08679279685020447
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.08474692702293396
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:2183538626",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://www.irsm.cas.cz/materialy/acta_content/2005_02/Abstrakty.pdf",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2498571707",
-            "display_name": "Acta Geodynamica et Geomaterialia",
-            "issn_l": "1214-9705",
-            "issn": [
-              "1214-9705",
-              "2336-4351"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-40",
-              "russia-white-list-3"
-            ],
-            "host_organization": "https://openalex.org/P4310314336",
-            "host_organization_name": "Institute of Rock Structure and Mechanics",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310314336",
-              "https://openalex.org/P4310314171"
-            ],
-            "host_organization_lineage_names": [
-              "Institute of Rock Structure and Mechanics",
-              "Czech Academy of Sciences"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Acta Geodynamica et Geomaterialia",
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2603123523",
-        "https://openalex.org/W2804581960",
-        "https://openalex.org/W4223952200",
-        "https://openalex.org/W2189921740",
-        "https://openalex.org/W2801271019",
-        "https://openalex.org/W229727760",
-        "https://openalex.org/W2329410281",
-        "https://openalex.org/W2607286709",
-        "https://openalex.org/W2337307182",
-        "https://openalex.org/W2265873628"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0
-        ],
-        "Pliocene": [
-          1
-        ],
-        "in": [
-          2,
-          51
-        ],
-        "Menzel": [
-          3
-        ],
-        "Temime": [
-          4
-        ],
-        "region": [
-          5
-        ],
-        "(Northeast": [
-          6
-        ],
-        "of": [
-          7,
-          13,
-          26,
-          35,
-          49,
-          74,
-          76
-        ],
-        "Tunisia)": [
-          8
-        ],
-        "overlying": [
-          9
-        ],
-        "the": [
-          10,
-          59,
-          77
-        ],
-        "Saouaf": [
-          11
-        ],
-        "formation": [
-          12
-        ],
-        "Middle": [
-          14
-        ],
-        "Miocene": [
-          15
-        ],
-        "age,": [
-          16
-        ],
-        "is": [
-          17
-        ],
-        "represented": [
-          18
-        ],
-        "by": [
-          19,
-          72
-        ],
-        "three": [
-          20
-        ],
-        "lithostratigraphic": [
-          21
-        ],
-        "formations:": [
-          22
-        ],
-        "Potter": [
-          23
-        ],
-        "clays,": [
-          24
-        ],
-        "sand": [
-          25
-        ],
-        "Nabeul": [
-          27
-        ],
-        "and": [
-          28,
-          37,
-          42,
-          46,
-          53
-        ],
-        "Sidi": [
-          29
-        ],
-        "Barka": [
-          30
-        ],
-        "clays.": [
-          31
-        ],
-        "Clay": [
-          32
-        ],
-        "fractions": [
-          33
-        ],
-        "consist": [
-          34
-        ],
-        "kaolinite": [
-          36
-        ],
-        "illite": [
-          38
-        ],
-        "with": [
-          39
-        ],
-        "plastic": [
-          40
-        ],
-        "properties": [
-          41
-        ],
-        "minor": [
-          43
-        ],
-        "quartz,": [
-          44
-        ],
-        "calcite": [
-          45
-        ],
-        "feldspar.": [
-          47
-        ],
-        "Applications": [
-          48
-        ],
-        "clays": [
-          50
-        ],
-        "bricks": [
-          52
-        ],
-        "faience": [
-          54,
-          61
-        ],
-        "ceramics": [
-          55,
-          62
-        ],
-        "are": [
-          56
-        ],
-        "reported.": [
-          57
-        ],
-        "However,": [
-          58
-        ],
-        "resulting": [
-          60
-        ],
-        "exhibit": [
-          63
-        ],
-        "some": [
-          64
-        ],
-        "textural": [
-          65
-        ],
-        "defects.": [
-          66
-        ],
-        "These": [
-          67
-        ],
-        "defects": [
-          68
-        ],
-        "could": [
-          69
-        ],
-        "be": [
-          70
-        ],
-        "eliminated": [
-          71
-        ],
-        "increasing": [
-          73
-        ],
-        "pressure": [
-          75
-        ],
-        "mold.": [
-          78
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2183538626",
-      "counts_by_year": [
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-21T10:27:49.728292",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W292319430",
@@ -17466,25 +17466,6 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5123252102",
-            "display_name": "LR Ressource Matériaux et Ecosystème, Matériaux Lamellaire et Nanomatériaux Hybrides, Faculté des Sciences de Bizerte, Université de Carthage, 7021 Bizerte, Tunisia",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "LR Ressource Matériaux et Ecosystème, Matériaux Lamellaire et Nanomatériaux Hybrides, Faculté des Sciences de Bizerte, Université de Carthage, 7021 Bizerte, Tunisia",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
             "id": "https://openalex.org/A5123241543",
             "display_name": "Mohamed Benmohamed",
             "type": null,
@@ -17687,10 +17668,10 @@
           "affiliations": []
         },
         {
-          "author_position": "middle",
+          "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5006315734",
-            "display_name": "Ben Haj Amara Abdessalem",
+            "id": "https://openalex.org/A5164212728",
+            "display_name": "Benhaj Amar Abdesslem",
             "type": null,
             "orcid": null,
             "observed_orcids": []
@@ -17701,25 +17682,6 @@
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Benhaj Amar Abdesslem",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5123172026",
-            "display_name": "Département des sciences de la terre, faculté des sciences de Bizerte, Université de Carthage",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Département des sciences de la terre, faculté des sciences de Bizerte, Université de Carthage",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
           "affiliations": []
@@ -18622,7 +18584,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7124470295",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-01-17T00:00:00"
     },
     {
@@ -19339,8 +19301,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.7811999917030334
         }
       ],
@@ -19460,7 +19422,7 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5126170678",
+            "id": "https://openalex.org/A5103919369",
             "display_name": "Philippe Fauré",
             "type": null,
             "orcid": null,
@@ -20010,7 +19972,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7128998757",
       "counts_by_year": [],
-      "updated_date": "2026-11-14T11:04:58.165337",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-02-17T00:00:00"
     },
     {
@@ -20078,7 +20040,7 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5126170678",
+            "id": "https://openalex.org/A5103919369",
             "display_name": "Philippe Fauré",
             "type": null,
             "orcid": null,
@@ -21028,7 +20990,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7212163880",
       "counts_by_year": [],
-      "updated_date": "2026-11-17T12:49:18.490984",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-09-11T00:00:00"
     }
   ]

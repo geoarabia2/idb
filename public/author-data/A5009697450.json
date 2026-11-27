@@ -820,13 +820,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 6.2823,
+      "fwci": 6.2664,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 48,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97838537,
+        "value": 0.97820667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1141,8 +1141,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -1647,13 +1647,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.2571,
+      "fwci": 4.2504,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 44,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95573958,
+        "value": 0.95565284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1970,8 +1970,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -2555,13 +2555,13 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 3.345,
+      "fwci": 3.3339,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92346254,
+        "value": 0.92292543,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2889,8 +2889,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -3391,13 +3391,13 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.9225,
+      "fwci": 1.9196,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83913954,
+        "value": 0.83888466,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3770,8 +3770,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
@@ -4990,13 +4990,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1008,
+      "fwci": 1.0994,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70847151,
+        "value": 0.70823281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5237,8 +5237,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5723,13 +5723,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2231,
+      "fwci": 1.2216,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73515225,
+        "value": 0.73492159,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6024,8 +6024,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6973,13 +6973,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.969,
+      "fwci": 1.9636,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83349402,
+        "value": 0.83254603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7206,8 +7206,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -7767,13 +7767,13 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.5106,
+      "fwci": 1.5082,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78612222,
+        "value": 0.78549676,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8144,8 +8144,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -9266,18 +9266,18 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 3.7402,
+      "fwci": 3.7265,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9077052,
+        "value": 0.90726368,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 97
       },
       "biblio": {
@@ -9722,17 +9722,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.8485000133514404
+          "score": 0.8485000133514404,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -10658,13 +10658,13 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.265,
+      "fwci": 0.2639,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40411974,
+        "value": 0.40175386,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10988,8 +10988,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2783424239.pdf",
@@ -11596,13 +11596,13 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.7117,
+      "fwci": 0.7106,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.5608365,
+        "value": 0.56051965,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12044,8 +12044,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
@@ -12859,19 +12859,19 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0738,
+      "fwci": 1.0749,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67975978,
+        "value": 0.67904036,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 86,
-        "max": 96
+        "max": 95
       },
       "biblio": {
         "volume": "21",
@@ -13150,8 +13150,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14082,13 +14082,13 @@
         "currency": "USD",
         "value_usd": 3600
       },
-      "fwci": 0.8491,
+      "fwci": 0.8462,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60821697,
+        "value": 0.60760626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14439,8 +14439,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -15861,8 +15861,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16515,8 +16515,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -17640,52 +17640,47 @@
         {
           "id": "https://openalex.org/keywords/underground-hydrogen-storage",
           "display_name": "underground hydrogen storage",
-          "score": 0.9929999709129333
+          "score": 0.9919999837875366
         },
         {
           "id": "https://openalex.org/keywords/anhydrite",
           "display_name": "anhydrite",
-          "score": 0.9909999966621399
+          "score": 0.9890000224113464
         },
         {
           "id": "https://openalex.org/keywords/hydrogen-reactivity",
           "display_name": "hydrogen reactivity",
-          "score": 0.8019999861717224
+          "score": 0.8050000071525574
         },
         {
-          "id": "https://openalex.org/keywords/hydrogen-sulfide-formation",
-          "display_name": "hydrogen sulfide formation",
-          "score": 0.7160000205039978
+          "id": "https://openalex.org/keywords/hydrogen-sulfide-production",
+          "display_name": "hydrogen sulfide production",
+          "score": 0.7289999723434448
         },
         {
           "id": "https://openalex.org/keywords/thermochemical-sulfate-reduction",
           "display_name": "thermochemical sulfate reduction",
-          "score": 0.8389999866485596
+          "score": 0.8500000238418579
         },
         {
           "id": "https://openalex.org/keywords/gypsum-hydration",
           "display_name": "gypsum hydration",
-          "score": 0.8289999961853027
+          "score": 0.8889999985694885
         },
         {
           "id": "https://openalex.org/keywords/reservoir-integrity",
           "display_name": "reservoir integrity",
-          "score": 0.7689999938011169
+          "score": 0.7910000085830688
         },
         {
           "id": "https://openalex.org/keywords/brine",
           "display_name": "brine",
-          "score": 0.414000004529953
+          "score": 0.4300000071525574
         },
         {
-          "id": "https://openalex.org/keywords/hydrogen-loss",
-          "display_name": "hydrogen loss",
-          "score": 0.4090000092983246
-        },
-        {
-          "id": "https://openalex.org/keywords/storage-site-selection",
-          "display_name": "storage site selection",
-          "score": 0.31700000166893005
+          "id": "https://openalex.org/keywords/bassanite",
+          "display_name": "bassanite",
+          "score": 0.5849999785423279
         }
       ],
       "concepts": [
@@ -17959,9 +17954,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.9853000044822693
+          "score": 0.9853000044822693,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -17979,8 +17974,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7160955974.pdf",
@@ -18765,7 +18760,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7160955974",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-05-13T00:00:00"
     },
     {
@@ -18818,8 +18813,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -19411,8 +19406,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -19457,8 +19452,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -19489,8 +19484,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -20549,7 +20544,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162865535",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-05-31T00:00:00"
     },
     {
@@ -21020,8 +21015,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7238759265.pdf",
@@ -21049,7 +21044,18 @@
         "https://openalex.org/W4412018459",
         "https://openalex.org/W7125487795"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W2777503176",
+        "https://openalex.org/W2971971641",
+        "https://openalex.org/W3163300403",
+        "https://openalex.org/W2605770039",
+        "https://openalex.org/W3158190125",
+        "https://openalex.org/W6906176518",
+        "https://openalex.org/W2465695117",
+        "https://openalex.org/W4317933253",
+        "https://openalex.org/W4220704589",
+        "https://openalex.org/W2786541711"
+      ],
       "abstract_inverted_index": {
         "The": [
           0,
@@ -21569,7 +21575,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7238759265",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-11-24T00:00:00"
     }
   ]

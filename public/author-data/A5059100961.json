@@ -629,13 +629,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6008,
+      "fwci": 0.6003,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 66,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70670277,
+        "value": 0.70675386,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1780,13 +1780,13 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 3.161,
+      "fwci": 3.146,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90700432,
+        "value": 0.90685071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3500,13 +3500,13 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5397,
+      "fwci": 1.5376,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78997776,
+        "value": 0.78970461,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7581,8 +7581,8 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5104116379",
-            "display_name": "Sherif Mahmoud Hanafy",
+            "id": "https://openalex.org/A5077467560",
+            "display_name": "Sherif M. Hanafy",
             "type": null,
             "orcid": "https://orcid.org/0000-0003-4568-2941",
             "observed_orcids": [
@@ -8461,7 +8461,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7147214132",
       "counts_by_year": [],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-04-02T00:00:00"
     },
     {
@@ -8762,8 +8762,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104116379",
-            "display_name": "Sherif Mahmoud Hanafy",
+            "id": "https://openalex.org/A5077467560",
+            "display_name": "Sherif M. Hanafy",
             "type": null,
             "orcid": "https://orcid.org/0000-0003-4568-2941",
             "observed_orcids": [
@@ -10030,7 +10030,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162439439",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-05-27T00:00:00"
     }
   ]

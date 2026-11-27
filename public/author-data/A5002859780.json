@@ -12,7 +12,7 @@
     ],
     "full_name": "Abdulaziz A. Al-Duaiji",
     "works_count": 9,
-    "cited_by_count": 84,
+    "cited_by_count": 83,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -162,7 +162,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000133,
+        "value": 0.0000132,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -337,7 +337,7 @@
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 5
+        "cited_by_count": 4
       },
       {
         "year": 2020,
@@ -391,7 +391,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5002859780",
-    "updated_date": "2026-11-23T12:36:22",
+    "updated_date": "2026-11-26T10:23:11",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -556,13 +556,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5275,
+      "fwci": 0.5268,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 70,
+      "cited_by_count": 69,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64702243,
+        "value": 0.64661305,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1695,7 +1695,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2018,
@@ -1726,2107 +1726,8 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2019-12-13T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1970024393",
-      "doi": "https://doi.org/10.2118/170351-ms",
-      "title": "A Potential Solution for Waste Management at Remote Sites",
-      "display_name": "A Potential Solution for Waste Management at Remote Sites",
-      "alternate_titles": [],
-      "publication_year": 2014,
-      "publication_date": "2014-09-22",
-      "ids": {
-        "openalex": "https://openalex.org/W1970024393",
-        "doi": "https://doi.org/10.2118/170351-ms",
-        "mag": "1970024393"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2118/170351-ms",
-        "doi": "https://doi.org/10.2118/170351-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2118/170351-ms",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S7407105710",
-          "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4322614974",
-          "host_organization_name": "Society of Petroleum Engineers",
-          "host_organization_lineage": [
-            "https://openalex.org/P4322614974"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Petroleum Engineers"
-          ],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W1970024393"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5046095236",
-            "display_name": "J.E. Findley",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "J. Findley",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053293005",
-            "display_name": "Haider Al-Haj",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "H. Al-Haj",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5098012372",
-            "display_name": "J.. Shanaa",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "J. Shanaa",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5002859780",
-            "display_name": "Abdulaziz A. Al-Duaiji",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "A. Al-Duaiji",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5098284000",
-            "display_name": "S.. Economou",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "S. Economou",
-          "raw_affiliation_strings": [
-            "Terragon Gulf Ltd"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Terragon Gulf Ltd",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11108",
-        "display_name": "Municipal Solid Waste Management",
-        "score": 0.9189000129699707,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2311",
-          "display_name": "Waste Management and Disposal"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11108",
-          "display_name": "Municipal Solid Waste Management",
-          "score": 0.9189000129699707,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2311",
-            "display_name": "Waste Management and Disposal"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10088",
-          "display_name": "Thermochemical Biomass Conversion Processes",
-          "score": 0.02630000002682209,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2103",
-            "display_name": "Fuel Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13790",
-          "display_name": "Waste Management and Environmental Impact",
-          "score": 0.02250000089406967,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2311",
-            "display_name": "Waste Management and Disposal"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/solid-waste-gasification",
-          "display_name": "solid waste gasification",
-          "score": 0.9750000238418579
-        },
-        {
-          "id": "https://openalex.org/keywords/biochar",
-          "display_name": "biochar",
-          "score": 0.8159999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-volume-reduction",
-          "display_name": "waste volume reduction",
-          "score": 0.9079999923706055
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.7880791425704956
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.6385073661804199
-        },
-        {
-          "id": "https://openalex.org/C33451869",
-          "wikidata": "https://www.wikidata.org/wiki/Q8035046",
-          "display_name": "Workover",
-          "level": 2,
-          "score": 0.6180382370948792
-        },
-        {
-          "id": "https://openalex.org/C75779659",
-          "wikidata": "https://www.wikidata.org/wiki/Q18538",
-          "display_name": "Municipal solid waste",
-          "level": 2,
-          "score": 0.5495669841766357
-        },
-        {
-          "id": "https://openalex.org/C130751788",
-          "wikidata": "https://www.wikidata.org/wiki/Q622772",
-          "display_name": "Incineration",
-          "level": 2,
-          "score": 0.5356480479240417
-        },
-        {
-          "id": "https://openalex.org/C171534860",
-          "wikidata": "https://www.wikidata.org/wiki/Q655870",
-          "display_name": "Environmentally friendly",
-          "level": 2,
-          "score": 0.5280538201332092
-        },
-        {
-          "id": "https://openalex.org/C18975541",
-          "wikidata": "https://www.wikidata.org/wiki/Q48404",
-          "display_name": "Refuse-derived fuel",
-          "level": 3,
-          "score": 0.5274838805198669
-        },
-        {
-          "id": "https://openalex.org/C2780841394",
-          "wikidata": "https://www.wikidata.org/wiki/Q262336",
-          "display_name": "Waste oil",
-          "level": 2,
-          "score": 0.4324491024017334
-        },
-        {
-          "id": "https://openalex.org/C2779970684",
-          "wikidata": "https://www.wikidata.org/wiki/Q11567121",
-          "display_name": "Char",
-          "level": 3,
-          "score": 0.42569032311439514
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.22315183281898499
-        },
-        {
-          "id": "https://openalex.org/C36759035",
-          "wikidata": "https://www.wikidata.org/wiki/Q176848",
-          "display_name": "Pyrolysis",
-          "level": 2,
-          "score": 0.18571621179580688
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.10966616868972778
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2118/170351-ms",
-          "doi": "https://doi.org/10.2118/170351-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2118/170351-ms",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S7407105710",
-            "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4322614974",
-            "host_organization_name": "Society of Petroleum Engineers",
-            "host_organization_lineage": [
-              "https://openalex.org/P4322614974"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Petroleum Engineers"
-            ],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
-        },
-        {
-          "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
-        },
-        {
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2080106644",
-        "https://openalex.org/W7146020487",
-        "https://openalex.org/W1574284959",
-        "https://openalex.org/W653649485",
-        "https://openalex.org/W4292622570",
-        "https://openalex.org/W2586399489",
-        "https://openalex.org/W635759566",
-        "https://openalex.org/W4245919884",
-        "https://openalex.org/W2796679147",
-        "https://openalex.org/W2206766602"
-      ],
-      "abstract_inverted_index": {
-        "600": [
-          88
-        ],
-        "2012": [
-          60
-        ],
-        "Environmentally-friendly": [
-          0
-        ],
-        "solid": [
-          1,
-          24,
-          81
-        ],
-        "waste": [
-          2,
-          20,
-          25,
-          39,
-          82,
-          151,
-          166,
-          175,
-          201
-        ],
-        "management": [
-          3,
-          40
-        ],
-        "can": [
-          4,
-          142
-        ],
-        "present": [
-          5
-        ],
-        "a": [
-          6,
-          31,
-          35,
-          52,
-          130,
-          147,
-          165
-        ],
-        "challenge": [
-          7
-        ],
-        "at": [
-          8,
-          41,
-          51,
-          85
-        ],
-        "small,": [
-          9
-        ],
-        "often": [
-          10
-        ],
-        "temporary,": [
-          11
-        ],
-        "remote": [
-          12,
-          42,
-          188
-        ],
-        "sites": [
-          13
-        ],
-        "due": [
-          14
-        ],
-        "to": [
-          15,
-          102,
-          109,
-          120,
-          183,
-          187,
-          199
-        ],
-        "the": [
-          16,
-          106,
-          111,
-          122,
-          158,
-          174
-        ],
-        "high": [
-          17
-        ],
-        "cost": [
-          18
-        ],
-        "of": [
-          19,
-          73,
-          79,
-          124,
-          133,
-          169,
-          173
-        ],
-        "hauling.": [
-          21
-        ],
-        "A": [
-          22
-        ],
-        "transportable": [
-          23
-        ],
-        "gasification": [
-          26,
-          159
-        ],
-        "system": [
-          27,
-          65,
-          99,
-          180
-        ],
-        "was": [
-          28,
-          49,
-          67,
-          100,
-          177
-        ],
-        "evaluated": [
-          29,
-          66
-        ],
-        "over": [
-          30
-        ],
-        "five-month": [
-          32
-        ],
-        "period": [
-          33
-        ],
-        "as": [
-          34,
-          137,
-          146
-        ],
-        "potential": [
-          36
-        ],
-        "solution": [
-          37
-        ],
-        "for": [
-          38
-        ],
-        "drilling": [
-          43
-        ],
-        "and": [
-          44,
-          61,
-          93,
-          104,
-          126,
-          194
-        ],
-        "workover": [
-          45,
-          53
-        ],
-        "sites.": [
-          46
-        ],
-        "The": [
-          47,
-          64,
-          98
-        ],
-        "demonstration": [
-          48
-        ],
-        "conducted": [
-          50
-        ],
-        "camp": [
-          54,
-          91
-        ],
-        "in": [
-          55,
-          58
-        ],
-        "Saudi": [
-          56
-        ],
-        "Arabia": [
-          57
-        ],
-        "late": [
-          59
-        ],
-        "early": [
-          62
-        ],
-        "2013.": [
-          63
-        ],
-        "an": [
-          68
-        ],
-        "automated,": [
-          69
-        ],
-        "modular": [
-          70
-        ],
-        "unit": [
-          71
-        ],
-        "capable": [
-          72
-        ],
-        "thermally": [
-          74
-        ],
-        "gasifying": [
-          75
-        ],
-        "20-40": [
-          76
-        ],
-        "kg": [
-          77
-        ],
-        "batches": [
-          78
-        ],
-        "organic": [
-          80
-        ],
-        "per": [
-          83
-        ],
-        "hour": [
-          84
-        ],
-        "temperatures": [
-          86
-        ],
-        "exceeding": [
-          87
-        ],
-        "°C.": [
-          89
-        ],
-        "Ordinary": [
-          90
-        ],
-        "garbage": [
-          92
-        ],
-        "kitchen": [
-          94
-        ],
-        "wastes": [
-          95
-        ],
-        "were": [
-          96
-        ],
-        "treated.": [
-          97
-        ],
-        "designed": [
-          101
-        ],
-        "recycle": [
-          103
-        ],
-        "burn": [
-          105
-        ],
-        "syngas": [
-          107
-        ],
-        "generated": [
-          108
-        ],
-        "sustain": [
-          110
-        ],
-        "operation.": [
-          112
-        ],
-        "Gaseous": [
-          113
-        ],
-        "emissions": [
-          114
-        ],
-        "are": [
-          115,
-          202
-        ],
-        "rapidly": [
-          116
-        ],
-        "quenched": [
-          117
-        ],
-        "below": [
-          118
-        ],
-        "200°C": [
-          119
-        ],
-        "avoid": [
-          121
-        ],
-        "formation": [
-          123
-        ],
-        "dioxins": [
-          125
-        ],
-        "furans.": [
-          127
-        ],
-        "Following": [
-          128
-        ],
-        "gasification,": [
-          129
-        ],
-        "small": [
-          131
-        ],
-        "volume": [
-          132,
-          167
-        ],
-        "residual": [
-          134
-        ],
-        "solids": [
-          135
-        ],
-        "remain": [
-          136
-        ],
-        "non-toxic": [
-          138
-        ],
-        "bio-char.": [
-          139
-        ],
-        "This": [
-          140,
-          179
-        ],
-        "bio-char": [
-          141
-        ],
-        "potentially": [
-          143
-        ],
-        "be": [
-          144,
-          184
-        ],
-        "used": [
-          145
-        ],
-        "soil": [
-          148
-        ],
-        "additive.": [
-          149
-        ],
-        "Inorganic": [
-          150
-        ],
-        "is": [
-          152,
-          181
-        ],
-        "sterilized,": [
-          153
-        ],
-        "but": [
-          154
-        ],
-        "otherwise": [
-          155
-        ],
-        "unaffected": [
-          156
-        ],
-        "by": [
-          157
-        ],
-        "process.": [
-          160
-        ],
-        "Preliminary": [
-          161
-        ],
-        "results": [
-          162
-        ],
-        "indicate": [
-          163
-        ],
-        "that": [
-          164
-        ],
-        "reduction": [
-          168
-        ],
-        "more": [
-          170
-        ],
-        "than": [
-          171
-        ],
-        "95%": [
-          172
-        ],
-        "processed": [
-          176
-        ],
-        "achieved.": [
-          178
-        ],
-        "expected": [
-          182
-        ],
-        "especially": [
-          185
-        ],
-        "applicable": [
-          186
-        ],
-        "operations": [
-          189
-        ],
-        "or": [
-          190
-        ],
-        "on-board": [
-          191
-        ],
-        "off-shore": [
-          192
-        ],
-        "rigs": [
-          193
-        ],
-        "marine": [
-          195
-        ],
-        "vessels": [
-          196
-        ],
-        "where": [
-          197
-        ],
-        "costs": [
-          198
-        ],
-        "transport": [
-          200
-        ],
-        "high.": [
-          203
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1970024393",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-20T13:11:24.684918",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2587344789",
-      "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
-      "title": "Sequence Stratigraphy and Reservoir Compartmentalization in the Lower Wasia, Saudi Arabia",
-      "display_name": "Sequence Stratigraphy and Reservoir Compartmentalization in the Lower Wasia, Saudi Arabia",
-      "alternate_titles": [],
-      "publication_year": 2010,
-      "publication_date": "2010-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2587344789",
-        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
-        "mag": "2587344789"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609-pdb.248.235",
-        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.235",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306511249",
-          "display_name": "GEO 2010",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4404685331",
-          "host_organization_name": "EAGE Publications bv",
-          "host_organization_lineage": [
-            "https://openalex.org/P4404685331"
-          ],
-          "host_organization_lineage_names": [
-            "EAGE Publications bv"
-          ],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GEO 2010",
-        "raw_type": "proceedings-article"
-      },
-      "parent_works": [
-        {
-          "id": "https://openalex.org/W7239028782",
-          "display_name": "GEO 2010",
-          "relationship": "volume",
-          "link_type": "volume"
-        }
-      ],
-      "lineage": [
-        "https://openalex.org/W2587344789",
-        "https://openalex.org/W7239028782"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5002859780",
-            "display_name": "Abdulaziz A. Al-Duaiji",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Abdulaziz A. Al-Duaiji",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5067739868",
-            "display_name": "Mohammed J. Al-Mahmoud",
-            "type": null,
-            "orcid": "https://orcid.org/0009-0001-8203-5279",
-            "observed_orcids": [
-              "https://orcid.org/0009-0001-8203-5279"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Mohammed J. Al-Mahmoud",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072158312",
-            "display_name": "Mesbah Khalil",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Mesbah H. Khalil",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5012638560",
-            "display_name": "Homoud Al-Anzi",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Homoud R. Al Anzi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9887999892234802,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9887999892234802,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.005100000184029341,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.0027000000700354576,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "sequence stratigraphy",
-          "score": 0.8980000019073486
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-compartmentalization",
-          "display_name": "reservoir compartmentalization",
-          "score": 0.9959999918937683
-        },
-        {
-          "id": "https://openalex.org/keywords/albian",
-          "display_name": "Albian",
-          "score": 0.7540000081062317
-        },
-        {
-          "id": "https://openalex.org/keywords/third-order-sequences",
-          "display_name": "third-order sequences",
-          "score": 0.777999997138977
-        },
-        {
-          "id": "https://openalex.org/keywords/regional-unconformity",
-          "display_name": "regional unconformity",
-          "score": 0.7919999957084656
-        },
-        {
-          "id": "https://openalex.org/keywords/maximum-flooding-surface",
-          "display_name": "maximum flooding surface",
-          "score": 0.699999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonostratigraphy",
-          "display_name": "tectonostratigraphy",
-          "score": 0.8029999732971191
-        },
-        {
-          "id": "https://openalex.org/keywords/eustasy",
-          "display_name": "eustasy",
-          "score": 0.7319999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/fault-reactivation",
-          "display_name": "fault reactivation",
-          "score": 0.8299999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/fluvial-sandstones",
-          "display_name": "fluvial sandstones",
-          "score": 0.5960000157356262
-        },
-        {
-          "id": "https://openalex.org/keywords/offshore-oil-fields",
-          "display_name": "offshore oil fields",
-          "score": 0.527999997138977
-        },
-        {
-          "id": "https://openalex.org/keywords/saudi-arabia",
-          "display_name": "Saudi Arabia",
-          "score": 0.6869999766349792
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C191735495",
-          "wikidata": "https://www.wikidata.org/wiki/Q876798",
-          "display_name": "Unconformity",
-          "level": 3,
-          "score": 0.7771118879318237
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7669051885604858
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.7382409572601318
-        },
-        {
-          "id": "https://openalex.org/C2777620812",
-          "wikidata": "https://www.wikidata.org/wiki/Q904896",
-          "display_name": "Transgressive",
-          "level": 4,
-          "score": 0.6630662679672241
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.6028763055801392
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5551118850708008
-        },
-        {
-          "id": "https://openalex.org/C2778112365",
-          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
-          "display_name": "Sequence (biology)",
-          "level": 2,
-          "score": 0.5450218319892883
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.43045127391815186
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.4294856786727905
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.37870028614997864
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.3224843144416809
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.11380678415298462
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609-pdb.248.235",
-          "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.235",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306511249",
-            "display_name": "GEO 2010",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4404685331",
-            "host_organization_name": "EAGE Publications bv",
-            "host_organization_lineage": [
-              "https://openalex.org/P4404685331"
-            ],
-            "host_organization_lineage_names": [
-              "EAGE Publications bv"
-            ],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GEO 2010",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W4246415414",
-        "https://openalex.org/W1992579125",
-        "https://openalex.org/W2891037720",
-        "https://openalex.org/W4415226112",
-        "https://openalex.org/W4414237698",
-        "https://openalex.org/W2043747755",
-        "https://openalex.org/W2306129383",
-        "https://openalex.org/W2072533478",
-        "https://openalex.org/W7101192396",
-        "https://openalex.org/W2954777774"
-      ],
-      "abstract_inverted_index": {
-        "High": [
-          0
-        ],
-        "resolution": [
-          1
-        ],
-        "sequence": [
-          2,
-          103,
-          134,
-          154,
-          175
-        ],
-        "stratigrphy": [
-          3
-        ],
-        "analysis": [
-          4,
-          204
-        ],
-        "was": [
-          5,
-          135,
-          220,
-          241
-        ],
-        "applied": [
-          6
-        ],
-        "at": [
-          7,
-          105
-        ],
-        "the": [
-          8,
-          12,
-          24,
-          39,
-          48,
-          52,
-          72,
-          95,
-          106,
-          109,
-          113,
-          138,
-          149,
-          157,
-          164,
-          171,
-          178,
-          186,
-          195,
-          199,
-          206,
-          210,
-          215,
-          226,
-          234,
-          238,
-          245,
-          256,
-          259,
-          267
-        ],
-        "Lower": [
-          9,
-          49,
-          207,
-          216,
-          268
-        ],
-        "part": [
-          10,
-          50
-        ],
-        "of": [
-          11,
-          20,
-          51,
-          108,
-          170,
-          185,
-          205,
-          225,
-          233,
-          237,
-          255,
-          266
-        ],
-        "Wasia": [
-          13,
-          53,
-          56,
-          82,
-          208,
-          261,
-          269
-        ],
-        "Formation": [
-          14,
-          57
-        ],
-        "(Khafji,": [
-          15
-        ],
-        "Safaniya": [
-          16,
-          159
-        ],
-        "and": [
-          17,
-          33,
-          79,
-          98,
-          166,
-          183
-        ],
-        "Mauddud": [
-          18,
-          172
-        ],
-        "members)": [
-          19
-        ],
-        "Albian": [
-          21
-        ],
-        "age": [
-          22
-        ],
-        "in": [
-          23,
-          38,
-          59,
-          209,
-          264
-        ],
-        "offshore": [
-          25,
-          211
-        ],
-        "Saudi": [
-          26,
-          60
-        ],
-        "Arabia.": [
-          27
-        ],
-        "Core": [
-          28
-        ],
-        "analysis,": [
-          29
-        ],
-        "wire-line": [
-          30
-        ],
-        "logs,": [
-          31
-        ],
-        "biostratigraphy": [
-          32
-        ],
-        "fluid": [
-          34
-        ],
-        "data": [
-          35,
-          190
-        ],
-        "were": [
-          36,
-          45
-        ],
-        "used": [
-          37
-        ],
-        "analysis.": [
-          40
-        ],
-        "Two": [
-          41
-        ],
-        "3rd": [
-          42
-        ],
-        "order": [
-          43
-        ],
-        "sequences": [
-          44,
-          240
-        ],
-        "identified": [
-          46
-        ],
-        "within": [
-          47
-        ],
-        "Formation.": [
-          54
-        ],
-        "The": [
-          55,
-          81,
-          101,
-          152,
-          174,
-          231
-        ],
-        "(Albian/Turonian)": [
-          58
-        ],
-        "Arabia": [
-          61
-        ],
-        "is": [
-          62,
-          83
-        ],
-        "represented": [
-          63
-        ],
-        "by": [
-          64,
-          85,
-          119,
-          163,
-          244
-        ],
-        "seven": [
-          65
-        ],
-        "members;": [
-          66
-        ],
-        "from": [
-          67
-        ],
-        "bottom": [
-          68
-        ],
-        "to": [
-          69,
-          91,
-          197
-        ],
-        "top": [
-          70
-        ],
-        "are": [
-          71
-        ],
-        "Khafji,": [
-          73
-        ],
-        "Safaniya,": [
-          74
-        ],
-        "Mauddud,": [
-          75
-        ],
-        "Wara,": [
-          76
-        ],
-        "Ahmadi,": [
-          77
-        ],
-        "Rumaila": [
-          78
-        ],
-        "Mishrif.": [
-          80
-        ],
-        "bounded": [
-          84
-        ],
-        "two": [
-          86,
-          239
-        ],
-        "pronounced": [
-          87
-        ],
-        "regional": [
-          88,
-          200
-        ],
-        "unconformities": [
-          89
-        ],
-        "related": [
-          90
-        ],
-        "major": [
-          92
-        ],
-        "tectonic": [
-          93,
-          251
-        ],
-        "events:": [
-          94
-        ],
-        "pre-Wasia": [
-          96
-        ],
-        "(Albian/Aptian)": [
-          97
-        ],
-        "pre-Aruma": [
-          99
-        ],
-        "(Campanian/Turonian).": [
-          100
-        ],
-        "lower": [
-          102
-        ],
-        "starts": [
-          104,
-          155
-        ],
-        "base": [
-          107
-        ],
-        "Khafji": [
-          110,
-          115,
-          121,
-          140,
-          217
-        ],
-        "member": [
-          111
-        ],
-        "with": [
-          112,
-          124,
-          137,
-          156,
-          177,
-          194,
-          249
-        ],
-        "low-stand": [
-          114,
-          158
-        ],
-        "main": [
-          116,
-          218
-        ],
-        "sand": [
-          117,
-          122,
-          147,
-          219
-        ],
-        "followed": [
-          118,
-          162
-        ],
-        "transgressive": [
-          120,
-          165
-        ],
-        "stringers": [
-          123
-        ],
-        "a": [
-          125,
-          143
-        ],
-        "maximum": [
-          126,
-          167
-        ],
-        "flooding": [
-          127,
-          168
-        ],
-        "limestone": [
-          128
-        ],
-        "marker": [
-          129
-        ],
-        "called": [
-          130
-        ],
-        "Dair": [
-          131,
-          150
-        ],
-        "limestone.": [
-          132,
-          151,
-          173
-        ],
-        "This": [
-          133
-        ],
-        "terminated": [
-          136
-        ],
-        "high-stand": [
-          139
-        ],
-        "stray": [
-          141
-        ],
-        "sands;": [
-          142
-        ],
-        "very": [
-          144
-        ],
-        "thin": [
-          145,
-          181
-        ],
-        "continuous": [
-          146
-        ],
-        "overlaying": [
-          148
-        ],
-        "upper": [
-          153,
-          187
-        ],
-        "reservoir": [
-          160
-        ],
-        "sandstone": [
-          161
-        ],
-        "surface": [
-          169
-        ],
-        "ends": [
-          176
-        ],
-        "high": [
-          179
-        ],
-        "stand": [
-          180
-        ],
-        "carbonates": [
-          182
-        ],
-        "shales": [
-          184
-        ],
-        "Mauddud.": [
-          188
-        ],
-        "Outcrop": [
-          189
-        ],
-        "has": [
-          191,
-          262
-        ],
-        "been": [
-          192
-        ],
-        "correlated": [
-          193
-        ],
-        "subsurface": [
-          196
-        ],
-        "establish": [
-          198
-        ],
-        "framework.": [
-          201
-        ],
-        "Detailed": [
-          202
-        ],
-        "tectono-stratigraphic": [
-          203
-        ],
-        "fields": [
-          212
-        ],
-        "indicates": [
-          213
-        ],
-        "that": [
-          214
-        ],
-        "deposited": [
-          221
-        ],
-        "as": [
-          222
-        ],
-        "fluvial": [
-          223
-        ],
-        "filling": [
-          224
-        ],
-        "tectonically-controlled": [
-          227
-        ],
-        "irregular": [
-          228
-        ],
-        "basin": [
-          229
-        ],
-        "topography.": [
-          230
-        ],
-        "deposition": [
-          232
-        ],
-        "remaining": [
-          235
-        ],
-        "section": [
-          236
-        ],
-        "primarily": [
-          242
-        ],
-        "controlled": [
-          243
-        ],
-        "sea": [
-          246
-        ],
-        "level": [
-          247
-        ],
-        "eustacy": [
-          248
-        ],
-        "weak": [
-          250
-        ],
-        "imprints.": [
-          252
-        ],
-        "Tertiary": [
-          253
-        ],
-        "reactivation": [
-          254
-        ],
-        "faults": [
-          257
-        ],
-        "cutting": [
-          258
-        ],
-        "pre-": [
-          260
-        ],
-        "resulted": [
-          263
-        ],
-        "compartmentalization": [
-          265
-        ],
-        "reservoirs.": [
-          270
-        ]
-      },
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2587344789",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-24T14:10:38.155754",
-      "created_date": "2017-02-17T00:00:00"
     },
     {
       "id": "https://openalex.org/W2042373016",
@@ -4044,13 +1945,13 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 0.3181,
+      "fwci": 0.3176,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.61459655,
+        "value": 0.6142662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4318,8 +2219,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.878000020980835,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -4596,7 +2497,7 @@
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64595104,
+        "value": 0.64689266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6311,7 +4212,7 @@
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 92
+        "max": 93
       },
       "biblio": {
         "volume": null,
@@ -7298,6 +5199,2105 @@
       ],
       "updated_date": "2026-11-24T14:10:38.155754",
       "created_date": "2020-05-13T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1970024393",
+      "doi": "https://doi.org/10.2118/170351-ms",
+      "title": "A Potential Solution for Waste Management at Remote Sites",
+      "display_name": "A Potential Solution for Waste Management at Remote Sites",
+      "alternate_titles": [],
+      "publication_year": 2014,
+      "publication_date": "2014-09-22",
+      "ids": {
+        "openalex": "https://openalex.org/W1970024393",
+        "doi": "https://doi.org/10.2118/170351-ms",
+        "mag": "1970024393"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2118/170351-ms",
+        "doi": "https://doi.org/10.2118/170351-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2118/170351-ms",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407105710",
+          "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614974"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Petroleum Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1970024393"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5046095236",
+            "display_name": "J.E. Findley",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "J. Findley",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053293005",
+            "display_name": "Haider Al-Haj",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "H. Al-Haj",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5098012372",
+            "display_name": "J.. Shanaa",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "J. Shanaa",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002859780",
+            "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "A. Al-Duaiji",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5098284000",
+            "display_name": "S.. Economou",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "S. Economou",
+          "raw_affiliation_strings": [
+            "Terragon Gulf Ltd"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Terragon Gulf Ltd",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11108",
+        "display_name": "Municipal Solid Waste Management",
+        "score": 0.9189000129699707,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2311",
+          "display_name": "Waste Management and Disposal"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11108",
+          "display_name": "Municipal Solid Waste Management",
+          "score": 0.9189000129699707,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2311",
+            "display_name": "Waste Management and Disposal"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10088",
+          "display_name": "Thermochemical Biomass Conversion Processes",
+          "score": 0.02630000002682209,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13790",
+          "display_name": "Waste Management and Environmental Impact",
+          "score": 0.02250000089406967,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2311",
+            "display_name": "Waste Management and Disposal"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/solid-waste-gasification",
+          "display_name": "solid waste gasification",
+          "score": 0.9750000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/biochar",
+          "display_name": "biochar",
+          "score": 0.8159999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-volume-reduction",
+          "display_name": "waste volume reduction",
+          "score": 0.9079999923706055
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.7880791425704956
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.6385073661804199
+        },
+        {
+          "id": "https://openalex.org/C33451869",
+          "wikidata": "https://www.wikidata.org/wiki/Q8035046",
+          "display_name": "Workover",
+          "level": 2,
+          "score": 0.6180382370948792
+        },
+        {
+          "id": "https://openalex.org/C75779659",
+          "wikidata": "https://www.wikidata.org/wiki/Q18538",
+          "display_name": "Municipal solid waste",
+          "level": 2,
+          "score": 0.5495669841766357
+        },
+        {
+          "id": "https://openalex.org/C130751788",
+          "wikidata": "https://www.wikidata.org/wiki/Q622772",
+          "display_name": "Incineration",
+          "level": 2,
+          "score": 0.5356480479240417
+        },
+        {
+          "id": "https://openalex.org/C171534860",
+          "wikidata": "https://www.wikidata.org/wiki/Q655870",
+          "display_name": "Environmentally friendly",
+          "level": 2,
+          "score": 0.5280538201332092
+        },
+        {
+          "id": "https://openalex.org/C18975541",
+          "wikidata": "https://www.wikidata.org/wiki/Q48404",
+          "display_name": "Refuse-derived fuel",
+          "level": 3,
+          "score": 0.5274838805198669
+        },
+        {
+          "id": "https://openalex.org/C2780841394",
+          "wikidata": "https://www.wikidata.org/wiki/Q262336",
+          "display_name": "Waste oil",
+          "level": 2,
+          "score": 0.4324491024017334
+        },
+        {
+          "id": "https://openalex.org/C2779970684",
+          "wikidata": "https://www.wikidata.org/wiki/Q11567121",
+          "display_name": "Char",
+          "level": 3,
+          "score": 0.42569032311439514
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.22315183281898499
+        },
+        {
+          "id": "https://openalex.org/C36759035",
+          "wikidata": "https://www.wikidata.org/wiki/Q176848",
+          "display_name": "Pyrolysis",
+          "level": 2,
+          "score": 0.18571621179580688
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.10966616868972778
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2118/170351-ms",
+          "doi": "https://doi.org/10.2118/170351-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2118/170351-ms",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407105710",
+            "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614974"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Petroleum Engineers"
+            ],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 1,
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
+        },
+        {
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
+        },
+        {
+          "score": 0.5351999998092651,
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2080106644",
+        "https://openalex.org/W7146020487",
+        "https://openalex.org/W1574284959",
+        "https://openalex.org/W653649485",
+        "https://openalex.org/W4292622570",
+        "https://openalex.org/W2586399489",
+        "https://openalex.org/W635759566",
+        "https://openalex.org/W4245919884",
+        "https://openalex.org/W2796679147",
+        "https://openalex.org/W2206766602"
+      ],
+      "abstract_inverted_index": {
+        "600": [
+          88
+        ],
+        "2012": [
+          60
+        ],
+        "Environmentally-friendly": [
+          0
+        ],
+        "solid": [
+          1,
+          24,
+          81
+        ],
+        "waste": [
+          2,
+          20,
+          25,
+          39,
+          82,
+          151,
+          166,
+          175,
+          201
+        ],
+        "management": [
+          3,
+          40
+        ],
+        "can": [
+          4,
+          142
+        ],
+        "present": [
+          5
+        ],
+        "a": [
+          6,
+          31,
+          35,
+          52,
+          130,
+          147,
+          165
+        ],
+        "challenge": [
+          7
+        ],
+        "at": [
+          8,
+          41,
+          51,
+          85
+        ],
+        "small,": [
+          9
+        ],
+        "often": [
+          10
+        ],
+        "temporary,": [
+          11
+        ],
+        "remote": [
+          12,
+          42,
+          188
+        ],
+        "sites": [
+          13
+        ],
+        "due": [
+          14
+        ],
+        "to": [
+          15,
+          102,
+          109,
+          120,
+          183,
+          187,
+          199
+        ],
+        "the": [
+          16,
+          106,
+          111,
+          122,
+          158,
+          174
+        ],
+        "high": [
+          17
+        ],
+        "cost": [
+          18
+        ],
+        "of": [
+          19,
+          73,
+          79,
+          124,
+          133,
+          169,
+          173
+        ],
+        "hauling.": [
+          21
+        ],
+        "A": [
+          22
+        ],
+        "transportable": [
+          23
+        ],
+        "gasification": [
+          26,
+          159
+        ],
+        "system": [
+          27,
+          65,
+          99,
+          180
+        ],
+        "was": [
+          28,
+          49,
+          67,
+          100,
+          177
+        ],
+        "evaluated": [
+          29,
+          66
+        ],
+        "over": [
+          30
+        ],
+        "five-month": [
+          32
+        ],
+        "period": [
+          33
+        ],
+        "as": [
+          34,
+          137,
+          146
+        ],
+        "potential": [
+          36
+        ],
+        "solution": [
+          37
+        ],
+        "for": [
+          38
+        ],
+        "drilling": [
+          43
+        ],
+        "and": [
+          44,
+          61,
+          93,
+          104,
+          126,
+          194
+        ],
+        "workover": [
+          45,
+          53
+        ],
+        "sites.": [
+          46
+        ],
+        "The": [
+          47,
+          64,
+          98
+        ],
+        "demonstration": [
+          48
+        ],
+        "conducted": [
+          50
+        ],
+        "camp": [
+          54,
+          91
+        ],
+        "in": [
+          55,
+          58
+        ],
+        "Saudi": [
+          56
+        ],
+        "Arabia": [
+          57
+        ],
+        "late": [
+          59
+        ],
+        "early": [
+          62
+        ],
+        "2013.": [
+          63
+        ],
+        "an": [
+          68
+        ],
+        "automated,": [
+          69
+        ],
+        "modular": [
+          70
+        ],
+        "unit": [
+          71
+        ],
+        "capable": [
+          72
+        ],
+        "thermally": [
+          74
+        ],
+        "gasifying": [
+          75
+        ],
+        "20-40": [
+          76
+        ],
+        "kg": [
+          77
+        ],
+        "batches": [
+          78
+        ],
+        "organic": [
+          80
+        ],
+        "per": [
+          83
+        ],
+        "hour": [
+          84
+        ],
+        "temperatures": [
+          86
+        ],
+        "exceeding": [
+          87
+        ],
+        "°C.": [
+          89
+        ],
+        "Ordinary": [
+          90
+        ],
+        "garbage": [
+          92
+        ],
+        "kitchen": [
+          94
+        ],
+        "wastes": [
+          95
+        ],
+        "were": [
+          96
+        ],
+        "treated.": [
+          97
+        ],
+        "designed": [
+          101
+        ],
+        "recycle": [
+          103
+        ],
+        "burn": [
+          105
+        ],
+        "syngas": [
+          107
+        ],
+        "generated": [
+          108
+        ],
+        "sustain": [
+          110
+        ],
+        "operation.": [
+          112
+        ],
+        "Gaseous": [
+          113
+        ],
+        "emissions": [
+          114
+        ],
+        "are": [
+          115,
+          202
+        ],
+        "rapidly": [
+          116
+        ],
+        "quenched": [
+          117
+        ],
+        "below": [
+          118
+        ],
+        "200°C": [
+          119
+        ],
+        "avoid": [
+          121
+        ],
+        "formation": [
+          123
+        ],
+        "dioxins": [
+          125
+        ],
+        "furans.": [
+          127
+        ],
+        "Following": [
+          128
+        ],
+        "gasification,": [
+          129
+        ],
+        "small": [
+          131
+        ],
+        "volume": [
+          132,
+          167
+        ],
+        "residual": [
+          134
+        ],
+        "solids": [
+          135
+        ],
+        "remain": [
+          136
+        ],
+        "non-toxic": [
+          138
+        ],
+        "bio-char.": [
+          139
+        ],
+        "This": [
+          140,
+          179
+        ],
+        "bio-char": [
+          141
+        ],
+        "potentially": [
+          143
+        ],
+        "be": [
+          144,
+          184
+        ],
+        "used": [
+          145
+        ],
+        "soil": [
+          148
+        ],
+        "additive.": [
+          149
+        ],
+        "Inorganic": [
+          150
+        ],
+        "is": [
+          152,
+          181
+        ],
+        "sterilized,": [
+          153
+        ],
+        "but": [
+          154
+        ],
+        "otherwise": [
+          155
+        ],
+        "unaffected": [
+          156
+        ],
+        "by": [
+          157
+        ],
+        "process.": [
+          160
+        ],
+        "Preliminary": [
+          161
+        ],
+        "results": [
+          162
+        ],
+        "indicate": [
+          163
+        ],
+        "that": [
+          164
+        ],
+        "reduction": [
+          168
+        ],
+        "more": [
+          170
+        ],
+        "than": [
+          171
+        ],
+        "95%": [
+          172
+        ],
+        "processed": [
+          176
+        ],
+        "achieved.": [
+          178
+        ],
+        "expected": [
+          182
+        ],
+        "especially": [
+          185
+        ],
+        "applicable": [
+          186
+        ],
+        "operations": [
+          189
+        ],
+        "or": [
+          190
+        ],
+        "on-board": [
+          191
+        ],
+        "off-shore": [
+          192
+        ],
+        "rigs": [
+          193
+        ],
+        "marine": [
+          195
+        ],
+        "vessels": [
+          196
+        ],
+        "where": [
+          197
+        ],
+        "costs": [
+          198
+        ],
+        "transport": [
+          200
+        ],
+        "high.": [
+          203
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1970024393",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-20T13:11:24.684918",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2587344789",
+      "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
+      "title": "Sequence Stratigraphy and Reservoir Compartmentalization in the Lower Wasia, Saudi Arabia",
+      "display_name": "Sequence Stratigraphy and Reservoir Compartmentalization in the Lower Wasia, Saudi Arabia",
+      "alternate_titles": [],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2587344789",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
+        "mag": "2587344789"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609-pdb.248.235",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.235",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306511249",
+          "display_name": "GEO 2010",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4404685331",
+          "host_organization_name": "EAGE Publications bv",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404685331"
+          ],
+          "host_organization_lineage_names": [
+            "EAGE Publications bv"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GEO 2010",
+        "raw_type": "proceedings-article"
+      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7239028782",
+          "display_name": "GEO 2010",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W2587344789",
+        "https://openalex.org/W7239028782"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002859780",
+            "display_name": "Abdulaziz A. Al-Duaiji",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Abdulaziz A. Al-Duaiji",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067739868",
+            "display_name": "Mohammed J. Al-Mahmoud",
+            "type": null,
+            "orcid": "https://orcid.org/0009-0001-8203-5279",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-8203-5279"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Mohammed J. Al-Mahmoud",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072158312",
+            "display_name": "Mesbah Khalil",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Mesbah H. Khalil",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5012638560",
+            "display_name": "Homoud Al-Anzi",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Homoud R. Al Anzi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9887999892234802,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9887999892234802,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.005100000184029341,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.0027000000700354576,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.8980000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-compartmentalization",
+          "display_name": "reservoir compartmentalization",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/albian",
+          "display_name": "Albian",
+          "score": 0.7540000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/third-order-sequences",
+          "display_name": "third-order sequences",
+          "score": 0.777999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/regional-unconformity",
+          "display_name": "regional unconformity",
+          "score": 0.7919999957084656
+        },
+        {
+          "id": "https://openalex.org/keywords/maximum-flooding-surface",
+          "display_name": "maximum flooding surface",
+          "score": 0.699999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonostratigraphy",
+          "display_name": "tectonostratigraphy",
+          "score": 0.8029999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/fault-reactivation",
+          "display_name": "fault reactivation",
+          "score": 0.8299999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial-sandstones",
+          "display_name": "fluvial sandstones",
+          "score": 0.5960000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/offshore-oil-fields",
+          "display_name": "offshore oil fields",
+          "score": 0.527999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.6869999766349792
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.7771118879318237
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7669051885604858
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.7382409572601318
+        },
+        {
+          "id": "https://openalex.org/C2777620812",
+          "wikidata": "https://www.wikidata.org/wiki/Q904896",
+          "display_name": "Transgressive",
+          "level": 4,
+          "score": 0.6630662679672241
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.6028763055801392
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5551118850708008
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.5450218319892883
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.43045127391815186
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.4294856786727905
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.37870028614997864
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.3224843144416809
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.11380678415298462
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609-pdb.248.235",
+          "doi": "https://doi.org/10.3997/2214-4609-pdb.248.235",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.235",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306511249",
+            "display_name": "GEO 2010",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4404685331",
+            "host_organization_name": "EAGE Publications bv",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404685331"
+            ],
+            "host_organization_lineage_names": [
+              "EAGE Publications bv"
+            ],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GEO 2010",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4246415414",
+        "https://openalex.org/W1992579125",
+        "https://openalex.org/W2891037720",
+        "https://openalex.org/W4415226112",
+        "https://openalex.org/W4414237698",
+        "https://openalex.org/W2043747755",
+        "https://openalex.org/W2306129383",
+        "https://openalex.org/W2072533478",
+        "https://openalex.org/W7101192396",
+        "https://openalex.org/W2954777774"
+      ],
+      "abstract_inverted_index": {
+        "High": [
+          0
+        ],
+        "resolution": [
+          1
+        ],
+        "sequence": [
+          2,
+          103,
+          134,
+          154,
+          175
+        ],
+        "stratigrphy": [
+          3
+        ],
+        "analysis": [
+          4,
+          204
+        ],
+        "was": [
+          5,
+          135,
+          220,
+          241
+        ],
+        "applied": [
+          6
+        ],
+        "at": [
+          7,
+          105
+        ],
+        "the": [
+          8,
+          12,
+          24,
+          39,
+          48,
+          52,
+          72,
+          95,
+          106,
+          109,
+          113,
+          138,
+          149,
+          157,
+          164,
+          171,
+          178,
+          186,
+          195,
+          199,
+          206,
+          210,
+          215,
+          226,
+          234,
+          238,
+          245,
+          256,
+          259,
+          267
+        ],
+        "Lower": [
+          9,
+          49,
+          207,
+          216,
+          268
+        ],
+        "part": [
+          10,
+          50
+        ],
+        "of": [
+          11,
+          20,
+          51,
+          108,
+          170,
+          185,
+          205,
+          225,
+          233,
+          237,
+          255,
+          266
+        ],
+        "Wasia": [
+          13,
+          53,
+          56,
+          82,
+          208,
+          261,
+          269
+        ],
+        "Formation": [
+          14,
+          57
+        ],
+        "(Khafji,": [
+          15
+        ],
+        "Safaniya": [
+          16,
+          159
+        ],
+        "and": [
+          17,
+          33,
+          79,
+          98,
+          166,
+          183
+        ],
+        "Mauddud": [
+          18,
+          172
+        ],
+        "members)": [
+          19
+        ],
+        "Albian": [
+          21
+        ],
+        "age": [
+          22
+        ],
+        "in": [
+          23,
+          38,
+          59,
+          209,
+          264
+        ],
+        "offshore": [
+          25,
+          211
+        ],
+        "Saudi": [
+          26,
+          60
+        ],
+        "Arabia.": [
+          27
+        ],
+        "Core": [
+          28
+        ],
+        "analysis,": [
+          29
+        ],
+        "wire-line": [
+          30
+        ],
+        "logs,": [
+          31
+        ],
+        "biostratigraphy": [
+          32
+        ],
+        "fluid": [
+          34
+        ],
+        "data": [
+          35,
+          190
+        ],
+        "were": [
+          36,
+          45
+        ],
+        "used": [
+          37
+        ],
+        "analysis.": [
+          40
+        ],
+        "Two": [
+          41
+        ],
+        "3rd": [
+          42
+        ],
+        "order": [
+          43
+        ],
+        "sequences": [
+          44,
+          240
+        ],
+        "identified": [
+          46
+        ],
+        "within": [
+          47
+        ],
+        "Formation.": [
+          54
+        ],
+        "The": [
+          55,
+          81,
+          101,
+          152,
+          174,
+          231
+        ],
+        "(Albian/Turonian)": [
+          58
+        ],
+        "Arabia": [
+          61
+        ],
+        "is": [
+          62,
+          83
+        ],
+        "represented": [
+          63
+        ],
+        "by": [
+          64,
+          85,
+          119,
+          163,
+          244
+        ],
+        "seven": [
+          65
+        ],
+        "members;": [
+          66
+        ],
+        "from": [
+          67
+        ],
+        "bottom": [
+          68
+        ],
+        "to": [
+          69,
+          91,
+          197
+        ],
+        "top": [
+          70
+        ],
+        "are": [
+          71
+        ],
+        "Khafji,": [
+          73
+        ],
+        "Safaniya,": [
+          74
+        ],
+        "Mauddud,": [
+          75
+        ],
+        "Wara,": [
+          76
+        ],
+        "Ahmadi,": [
+          77
+        ],
+        "Rumaila": [
+          78
+        ],
+        "Mishrif.": [
+          80
+        ],
+        "bounded": [
+          84
+        ],
+        "two": [
+          86,
+          239
+        ],
+        "pronounced": [
+          87
+        ],
+        "regional": [
+          88,
+          200
+        ],
+        "unconformities": [
+          89
+        ],
+        "related": [
+          90
+        ],
+        "major": [
+          92
+        ],
+        "tectonic": [
+          93,
+          251
+        ],
+        "events:": [
+          94
+        ],
+        "pre-Wasia": [
+          96
+        ],
+        "(Albian/Aptian)": [
+          97
+        ],
+        "pre-Aruma": [
+          99
+        ],
+        "(Campanian/Turonian).": [
+          100
+        ],
+        "lower": [
+          102
+        ],
+        "starts": [
+          104,
+          155
+        ],
+        "base": [
+          107
+        ],
+        "Khafji": [
+          110,
+          115,
+          121,
+          140,
+          217
+        ],
+        "member": [
+          111
+        ],
+        "with": [
+          112,
+          124,
+          137,
+          156,
+          177,
+          194,
+          249
+        ],
+        "low-stand": [
+          114,
+          158
+        ],
+        "main": [
+          116,
+          218
+        ],
+        "sand": [
+          117,
+          122,
+          147,
+          219
+        ],
+        "followed": [
+          118,
+          162
+        ],
+        "transgressive": [
+          120,
+          165
+        ],
+        "stringers": [
+          123
+        ],
+        "a": [
+          125,
+          143
+        ],
+        "maximum": [
+          126,
+          167
+        ],
+        "flooding": [
+          127,
+          168
+        ],
+        "limestone": [
+          128
+        ],
+        "marker": [
+          129
+        ],
+        "called": [
+          130
+        ],
+        "Dair": [
+          131,
+          150
+        ],
+        "limestone.": [
+          132,
+          151,
+          173
+        ],
+        "This": [
+          133
+        ],
+        "terminated": [
+          136
+        ],
+        "high-stand": [
+          139
+        ],
+        "stray": [
+          141
+        ],
+        "sands;": [
+          142
+        ],
+        "very": [
+          144
+        ],
+        "thin": [
+          145,
+          181
+        ],
+        "continuous": [
+          146
+        ],
+        "overlaying": [
+          148
+        ],
+        "upper": [
+          153,
+          187
+        ],
+        "reservoir": [
+          160
+        ],
+        "sandstone": [
+          161
+        ],
+        "surface": [
+          169
+        ],
+        "ends": [
+          176
+        ],
+        "high": [
+          179
+        ],
+        "stand": [
+          180
+        ],
+        "carbonates": [
+          182
+        ],
+        "shales": [
+          184
+        ],
+        "Mauddud.": [
+          188
+        ],
+        "Outcrop": [
+          189
+        ],
+        "has": [
+          191,
+          262
+        ],
+        "been": [
+          192
+        ],
+        "correlated": [
+          193
+        ],
+        "subsurface": [
+          196
+        ],
+        "establish": [
+          198
+        ],
+        "framework.": [
+          201
+        ],
+        "Detailed": [
+          202
+        ],
+        "tectono-stratigraphic": [
+          203
+        ],
+        "fields": [
+          212
+        ],
+        "indicates": [
+          213
+        ],
+        "that": [
+          214
+        ],
+        "deposited": [
+          221
+        ],
+        "as": [
+          222
+        ],
+        "fluvial": [
+          223
+        ],
+        "filling": [
+          224
+        ],
+        "tectonically-controlled": [
+          227
+        ],
+        "irregular": [
+          228
+        ],
+        "basin": [
+          229
+        ],
+        "topography.": [
+          230
+        ],
+        "deposition": [
+          232
+        ],
+        "remaining": [
+          235
+        ],
+        "section": [
+          236
+        ],
+        "primarily": [
+          242
+        ],
+        "controlled": [
+          243
+        ],
+        "sea": [
+          246
+        ],
+        "level": [
+          247
+        ],
+        "eustacy": [
+          248
+        ],
+        "weak": [
+          250
+        ],
+        "imprints.": [
+          252
+        ],
+        "Tertiary": [
+          253
+        ],
+        "reactivation": [
+          254
+        ],
+        "faults": [
+          257
+        ],
+        "cutting": [
+          258
+        ],
+        "pre-": [
+          260
+        ],
+        "resulted": [
+          263
+        ],
+        "compartmentalization": [
+          265
+        ],
+        "reservoirs.": [
+          270
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2587344789",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-24T14:10:38.155754",
+      "created_date": "2017-02-17T00:00:00"
     },
     {
       "id": "https://openalex.org/W2029365051",

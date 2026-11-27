@@ -682,13 +682,13 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.3213,
+      "fwci": 1.3205,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 122,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77053712,
+        "value": 0.77035573,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1208,7 +1208,7 @@
       "cited_by_count": 95,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65500511,
+        "value": 0.65526047,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2402,13 +2402,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5128,
+      "fwci": 0.5127,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 84,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60028895,
+        "value": 0.59956658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3524,16 +3524,6 @@
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4693666",
-              "display_name": "GGG (France)",
-              "ror": "https://ror.org/03end3932",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4693666"
-              ]
             }
           ],
           "countries": [
@@ -3550,8 +3540,7 @@
             {
               "raw_affiliation_string": "Geo-consultant (BRGM retired), 275 Route Royale, 33240 La Lande de Pomerol, France",
               "institution_ids": [
-                "https://openalex.org/I4210158893",
-                "https://openalex.org/I4693666"
+                "https://openalex.org/I4210158893"
               ]
             }
           ]
@@ -3568,13 +3557,27 @@
           "acted_on_behalf_of": [],
           "institutions": [
             {
-              "id": "https://openalex.org/I39804081",
-              "display_name": "Sorbonne Université",
-              "ror": "https://ror.org/02en5vm52",
+              "id": "https://openalex.org/I4210097099",
+              "display_name": "Institut des Sciences de la Terre de Paris",
+              "ror": "https://ror.org/00xagyq07",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210097099",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405264447",
+              "display_name": "Université Pierre-et-Marie-Curie",
+              "ror": "https://ror.org/01yvrd251",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I39804081"
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4405264447"
               ]
             }
           ],
@@ -3592,7 +3595,8 @@
             {
               "raw_affiliation_string": "Institut des Sciences de la Terre de Paris (UMR 7193), Université Pierre et Marie Curie (UPMC) (retired), France",
               "institution_ids": [
-                "https://openalex.org/I39804081"
+                "https://openalex.org/I4210097099",
+                "https://openalex.org/I4405264447"
               ]
             }
           ]
@@ -3609,8 +3613,21 @@
             ]
           },
           "acted_on_behalf_of": [],
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I129774422",
+              "display_name": "University of Vienna",
+              "ror": "https://ror.org/03prydq77",
+              "country_code": "AT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I129774422"
+              ]
+            }
+          ],
+          "countries": [
+            "AT"
+          ],
           "is_corresponding": false,
           "contributor_roles": [],
           "raw_author_name": "Leopold Krystyn",
@@ -3621,7 +3638,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Palaeontology (Geozentrum), University of Vienna, Althanstrasse 14, Josef-Holaubek-Platz 2 (UZA II), 1090 Vienna (retired), Austria",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I129774422"
+              ]
             }
           ]
         },
@@ -3722,19 +3741,19 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9412,
+      "fwci": 1.9348,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.842438,
+        "value": 0.84114119,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5137,7 +5156,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2023-06-23T00:00:00"
     },
     {
@@ -6487,8 +6506,8 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
-        "max": 92
+        "min": 87,
+        "max": 93
       },
       "biblio": {
         "volume": null,

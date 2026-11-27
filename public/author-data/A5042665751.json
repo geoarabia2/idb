@@ -575,13 +575,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 10.0241,
+      "fwci": 10.0176,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 171,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98920739,
+        "value": 0.98920925,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -897,8 +897,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999436875.pdf",
@@ -1248,13 +1248,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.8884,
+      "fwci": 2.8848,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 84,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88001676,
+        "value": 0.87985925,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1570,8 +1570,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -2055,8 +2055,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
@@ -2153,7 +2153,7 @@
         "https://openalex.org/A5014657720",
         "https://openalex.org/A5035537771",
         "https://openalex.org/A5044235421",
-        "https://openalex.org/A5104094821"
+        "https://openalex.org/A5085007251"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -2164,13 +2164,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.1644,
+      "fwci": 2.1572,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86044222,
+        "value": 0.86017366,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2478,8 +2478,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -2575,7 +2575,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2024-01-03T00:00:00"
     },
     {
@@ -2698,13 +2698,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4679,
+      "fwci": 5.4729,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93282313,
+        "value": 0.93293718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2941,8 +2941,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -4161,13 +4161,13 @@
         "currency": "USD",
         "value_usd": 4250
       },
-      "fwci": 2.972,
+      "fwci": 2.9615,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90136054,
+        "value": 0.90067114,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4592,8 +4592,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -5632,11 +5632,13 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5108904312",
-            "display_name": "Abdelmoniem Elaraby",
+            "id": "https://openalex.org/A5079792803",
+            "display_name": "A. El-Araby",
             "type": null,
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0009-0005-5635-8663",
+            "observed_orcids": [
+              "https://orcid.org/0009-0005-5635-8663"
+            ]
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -5706,13 +5708,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.3802,
+      "fwci": 6.3905,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95294118,
+        "value": 0.95301655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5979,8 +5981,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -6751,7 +6753,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -6870,13 +6872,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6156,
+      "fwci": 4.5941,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94710145,
+        "value": 0.94637681,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7170,8 +7172,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -8386,13 +8388,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4391,
+      "fwci": 0.4386,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4902756,
+        "value": 0.48985988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8724,8 +8726,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -9888,13 +9890,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5448,
+      "fwci": 2.5029,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79186945,
+        "value": 0.78900658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10241,8 +10243,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -11273,8 +11275,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11832,8 +11834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -12700,8 +12702,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12720,10 +12722,10 @@
       ],
       "abstract_inverted_index": {
         "60": [
-          107
+          106
         ],
         "130": [
-          96
+          95
         ],
         "Quantitative": [
           0
@@ -12732,7 +12734,7 @@
           1,
           23,
           33,
-          117
+          116
         ],
         "prediction": [
           2,
@@ -12742,55 +12744,55 @@
           3,
           7,
           31,
-          54,
-          63,
-          66,
-          76,
-          78,
-          88,
-          95,
-          98,
-          114,
-          119,
-          129,
-          133,
-          141,
-          153,
-          156,
-          171,
+          53,
+          62,
+          65,
+          75,
+          77,
+          87,
+          94,
+          97,
+          113,
+          118,
+          128,
+          132,
+          140,
+          152,
+          155,
+          170,
+          191,
           193,
           195,
-          197,
-          208,
-          223,
-          227,
-          232,
-          244,
-          253,
-          261,
-          276,
-          289,
-          296
+          206,
+          221,
+          225,
+          230,
+          242,
+          251,
+          259,
+          274,
+          287,
+          294
         ],
         "the": [
           4,
-          67,
-          89,
-          110,
-          115,
-          130,
-          134,
-          138,
-          142,
-          166,
-          184,
-          190,
-          240,
-          251,
-          257,
-          274,
-          282,
-          292
+          66,
+          88,
+          109,
+          114,
+          129,
+          133,
+          137,
+          141,
+          165,
+          182,
+          188,
+          238,
+          249,
+          255,
+          272,
+          280,
+          290
         ],
         "three-dimensional": [
           5
@@ -12800,7 +12802,7 @@
         ],
         "sedimentary": [
           8,
-          294
+          292
         ],
         "architectures": [
           9,
@@ -12811,15 +12813,15 @@
           16,
           19,
           38,
-          92,
-          124,
-          137,
-          169,
-          203,
-          242,
-          246,
-          249,
-          259
+          91,
+          123,
+          136,
+          168,
+          201,
+          240,
+          244,
+          247,
+          257
         ],
         "associated": [
           11
@@ -12832,37 +12834,38 @@
         ],
         "from": [
           14,
-          106,
-          183,
-          269
+          105,
+          181,
+          267
         ],
         "fluvial": [
           15,
           37,
-          125,
-          247
+          124,
+          245
         ],
         "aeolian": [
           17,
           39,
-          55,
-          123,
-          198,
-          245,
-          265
+          54,
+          122,
+          196,
+          243,
+          263
         ],
         "interactions": [
           18
         ],
         "preserved": [
           20,
-          235,
-          297
+          115,
+          233,
+          295
         ],
         "as": [
           21,
-          179,
-          281
+          177,
+          279
         ],
         "accumulated": [
           22
@@ -12885,14 +12888,14 @@
         ],
         "that": [
           29,
-          279
+          277
         ],
         "3D": [
           32
         ],
         "in": [
           35,
-          82
+          81
         ],
         "subsurface": [
           36
@@ -12903,462 +12906,449 @@
         "challenging.": [
           42
         ],
-        "\\n": [
-          43,
-          175
-        ],
-        "\\nThis": [
-          44
+        "This": [
+          43
         ],
         "study": [
-          45,
-          87,
-          271
+          44,
+          86,
+          269
         ],
         "comprises": [
-          46
+          45
         ],
         "four": [
-          47,
-          64
+          46,
+          63
         ],
         "discrete": [
-          48
+          47
         ],
         "but": [
-          49
+          48
         ],
         "related": [
-          50
+          49
         ],
         "research": [
-          51
+          50
         ],
         "components:": [
-          52
+          51
         ],
         "(1)analysis": [
-          53
+          52
         ],
         "dune-field": [
-          56,
-          84
-        ],
-        "geomorphology": [
-          57
-        ],
-        "through": [
-          58,
-          86,
-          205
-        ],
-        "a": [
-          59,
-          154,
-          206,
-          221,
-          262
-        ],
-        "remotely": [
-          60
-        ],
-        "sensed": [
-          61
-        ],
-        "analysis": [
-          62,
-          75,
-          113,
-          128,
-          231
-        ],
-        "parts": [
-          65
-        ],
-        "Al": [
-          68
-        ],
-        "Rub’": [
-          69,
-          185
-        ],
-        "Al-Khali": [
-          70,
-          186
-        ],
-        "Desert,": [
-          71
-        ],
-        "Saudi": [
-          72
-        ],
-        "Arabia;": [
-          73
-        ],
-        "(2)": [
-          74,
-          211
-        ],
-        "types": [
-          77,
-          226
-        ],
-        "aeolian-fluvial": [
-          79,
-          173,
-          212,
-          298
-        ],
-        "system": [
-          80,
-          228
-        ],
-        "interaction": [
-          81,
-          100,
-          213
-        ],
-        "modern": [
+          55,
           83
         ],
-        "\\nmargins": [
-          85
-        ],
-        "morphological": [
-          90
-        ],
-        "expression": [
-          91,
-          118
-        ],
-        "areal": [
-          93
-        ],
-        "distribution": [
-          94
-        ],
-        "examples": [
-          97,
-          215
-        ],
-        "fluvial-aeolian": [
-          99
-        ],
-        "mapped": [
-          101
-        ],
-        "by": [
-          102
-        ],
-        "high-resolution": [
-          103
-        ],
-        "satellite": [
-          104
-        ],
-        "imagery": [
-          105
-        ],
-        "deserts": [
-          108
-        ],
-        "around": [
-          109
-        ],
-        "world;": [
-          111
-        ],
-        "(3)": [
-          112
-        ],
-        "\\npreserved": [
-          116
-        ],
-        "an": [
-          120,
-          233,
-          286
-        ],
-        "ancient": [
-          121,
-          234
-        ],
-        "mixed": [
-          122,
-          172
-        ],
-        "succession": [
-          126,
-          236
-        ],
-        "via": [
-          127
-        ],
-        "upper": [
-          131
-        ],
-        "part": [
-          132,
-          140
-        ],
-        "Wilmslow": [
-          135
-        ],
-        "Sandstone": [
-          136,
-          145
-        ],
-        "lower": [
-          139
-        ],
-        "overlying": [
-          143
-        ],
-        "Helsby": [
-          144
-        ],
-        "formations,": [
-          146
-        ],
-        "Sherwood": [
-          147
-        ],
-        "\\nSandstone": [
-          148
-        ],
-        "Group,": [
-          149
-        ],
-        "UK;": [
-          150
-        ],
-        "(4)": [
-          151,
-          267
-        ],
-        "development": [
-          152,
-          258,
-          275
-        ],
-        "series": [
-          155,
-          207
-        ],
-        "predictive,": [
-          157
-        ],
-        "semiquantitative": [
-          158
-        ],
-        "facies": [
-          159,
-          277
-        ],
-        "models": [
-          160,
-          278
-        ],
-        "with": [
-          161
-        ],
-        "which": [
-          162
-        ],
-        "to": [
-          163,
-          200,
-          219
-        ],
-        "account": [
-          164
-        ],
-        "for": [
-          165,
-          284
-        ],
-        "geological": [
-          167
-        ],
-        "complexity": [
-          168
-        ],
-        "origin": [
-          170
-        ],
-        "successions.": [
-          174,
-          299
-        ],
-        "\\nPrincipal": [
-          176
-        ],
-        "finding": [
-          177
-        ],
-        "are": [
-          178
-        ],
-        "follows:": [
-          180
-        ],
-        "(1)": [
-          181
-        ],
-        "observations": [
-          182
-        ],
-        "Desert": [
-          187
-        ],
-        "have": [
-          188,
-          216,
-          272
-        ],
-        "enabled": [
-          189
-        ],
-        "spatial": [
-          191
-        ],
-        "rate": [
-          192
-        ],
-        "change": [
-          194
-        ],
-        "morphology": [
-          196
-        ],
-        "subenvironments": [
-          199
-        ],
-        "be": [
-          201
-        ],
-        "characterized": [
-          202
-        ],
-        "described": [
-          204
-        ],
-        "empirical": [
-          209
-        ],
-        "\\nrelationships;": [
-          210
-        ],
-        "case-study": [
-          214
-        ],
-        "been": [
-          217
-        ],
-        "classified": [
-          218
-        ],
-        "propose": [
-          220
-        ],
-        "framework": [
-          222
-        ],
-        "ten": [
-          224
-        ],
-        "distinct": [
-          225
-        ],
-        "interactions;(3)": [
-          229
-        ],
-        "outcrop": [
-          230
-        ],
-        "reveals": [
-          237
-        ],
-        "mechanisms": [
-          238
-        ],
-        "\\nfor": [
-          239
-        ],
-        "accumulation": [
-          241
-        ],
-        "preservation": [
-          243,
+        "geomorphology": [
+          56
+        ],
+        "through": [
+          57,
+          85,
+          203
+        ],
+        "a": [
+          58,
+          153,
+          204,
+          219,
           260
         ],
-        "successions,": [
-          248
+        "remotely": [
+          59
         ],
-        "demonstrates": [
-          250
+        "sensed": [
+          60
         ],
-        "role": [
-          252
+        "analysis": [
+          61,
+          74,
+          112,
+          127,
+          229
         ],
-        "water": [
-          254
+        "parts": [
+          64
         ],
-        "table": [
-          255
+        "Al": [
+          67
         ],
-        "on": [
-          256
+        "Rub’": [
+          68,
+          183
         ],
-        "water-table": [
-          263
+        "Al-Khali": [
+          69,
+          184
         ],
-        "influenced": [
-          264
+        "Desert,": [
+          70
         ],
-        "system;": [
-          266
+        "Saudi": [
+          71
         ],
-        "results": [
-          268
+        "Arabia;": [
+          72
         ],
-        "this": [
-          270
+        "(2)": [
+          73,
+          209
         ],
-        "\\nenabled": [
+        "types": [
+          76,
+          224
+        ],
+        "aeolian-fluvial": [
+          78,
+          172,
+          210,
+          296
+        ],
+        "system": [
+          79,
+          226
+        ],
+        "interaction": [
+          80,
+          99,
+          211
+        ],
+        "modern": [
+          82
+        ],
+        "margins": [
+          84
+        ],
+        "morphological": [
+          89
+        ],
+        "expression": [
+          90,
+          117
+        ],
+        "areal": [
+          92
+        ],
+        "distribution": [
+          93
+        ],
+        "examples": [
+          96,
+          213
+        ],
+        "fluvial-aeolian": [
+          98
+        ],
+        "mapped": [
+          100
+        ],
+        "by": [
+          101
+        ],
+        "high-resolution": [
+          102
+        ],
+        "satellite": [
+          103
+        ],
+        "imagery": [
+          104
+        ],
+        "deserts": [
+          107
+        ],
+        "around": [
+          108
+        ],
+        "world;": [
+          110
+        ],
+        "(3)": [
+          111
+        ],
+        "an": [
+          119,
+          231,
+          284
+        ],
+        "ancient": [
+          120,
+          232
+        ],
+        "mixed": [
+          121,
+          171
+        ],
+        "succession": [
+          125,
+          234
+        ],
+        "via": [
+          126
+        ],
+        "upper": [
+          130
+        ],
+        "part": [
+          131,
+          139
+        ],
+        "Wilmslow": [
+          134
+        ],
+        "Sandstone": [
+          135,
+          144,
+          147
+        ],
+        "lower": [
+          138
+        ],
+        "overlying": [
+          142
+        ],
+        "Helsby": [
+          143
+        ],
+        "formations,": [
+          145
+        ],
+        "Sherwood": [
+          146
+        ],
+        "Group,": [
+          148
+        ],
+        "UK;": [
+          149
+        ],
+        "(4)": [
+          150,
+          265
+        ],
+        "development": [
+          151,
+          256,
           273
         ],
+        "series": [
+          154,
+          205
+        ],
+        "predictive,": [
+          156
+        ],
+        "semiquantitative": [
+          157
+        ],
+        "facies": [
+          158,
+          275
+        ],
+        "models": [
+          159,
+          276
+        ],
+        "with": [
+          160
+        ],
+        "which": [
+          161
+        ],
+        "to": [
+          162,
+          198,
+          217
+        ],
+        "account": [
+          163
+        ],
+        "for": [
+          164,
+          237,
+          282
+        ],
+        "geological": [
+          166
+        ],
+        "complexity": [
+          167
+        ],
+        "origin": [
+          169
+        ],
+        "successions.": [
+          173,
+          297
+        ],
+        "Principal": [
+          174
+        ],
+        "finding": [
+          175
+        ],
+        "are": [
+          176
+        ],
+        "follows:": [
+          178
+        ],
+        "(1)": [
+          179
+        ],
+        "observations": [
+          180
+        ],
+        "Desert": [
+          185
+        ],
+        "have": [
+          186,
+          214,
+          270
+        ],
+        "enabled": [
+          187,
+          271
+        ],
+        "spatial": [
+          189
+        ],
+        "rate": [
+          190
+        ],
+        "change": [
+          192
+        ],
+        "morphology": [
+          194
+        ],
+        "subenvironments": [
+          197
+        ],
+        "be": [
+          199
+        ],
+        "characterized": [
+          200
+        ],
+        "described": [
+          202
+        ],
+        "empirical": [
+          207
+        ],
+        "relationships;": [
+          208
+        ],
+        "case-study": [
+          212
+        ],
+        "been": [
+          215
+        ],
+        "classified": [
+          216
+        ],
+        "propose": [
+          218
+        ],
+        "framework": [
+          220
+        ],
+        "ten": [
+          222
+        ],
+        "distinct": [
+          223
+        ],
+        "interactions;(3)": [
+          227
+        ],
+        "outcrop": [
+          228
+        ],
+        "reveals": [
+          235
+        ],
+        "mechanisms": [
+          236
+        ],
+        "accumulation": [
+          239
+        ],
+        "preservation": [
+          241,
+          258
+        ],
+        "successions,": [
+          246
+        ],
+        "demonstrates": [
+          248
+        ],
+        "role": [
+          250
+        ],
+        "water": [
+          252
+        ],
+        "table": [
+          253
+        ],
+        "on": [
+          254
+        ],
+        "water-table": [
+          261
+        ],
+        "influenced": [
+          262
+        ],
+        "system;": [
+          264
+        ],
+        "results": [
+          266
+        ],
+        "this": [
+          268
+        ],
         "serve": [
-          280
+          278
         ],
         "basis": [
-          283
+          281
         ],
         "gaining": [
-          285
+          283
         ],
         "improved": [
-          287
+          285
         ],
         "understanding": [
-          288
+          286
         ],
         "controls": [
-          290
+          288
         ],
         "governing": [
-          291
+          289
         ],
         "detailed": [
-          293
+          291
         ],
         "architecture": [
-          295
+          293
         ]
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2362747289",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13803,8 +13793,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -14887,8 +14877,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -16441,8 +16431,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -18002,8 +17992,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,

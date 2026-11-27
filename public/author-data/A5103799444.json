@@ -10,7 +10,7 @@
       "John Melvin"
     ],
     "full_name": "John Melvin (2)",
-    "works_count": 35,
+    "works_count": 36,
     "cited_by_count": 830,
     "summary_stats": {
       "2yr_mean_citedness": 0,
@@ -36,6 +36,21 @@
         },
         "years": [
           2009
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I149251103",
+          "ror": "https://ror.org/00ysqcn41",
+          "display_name": "Thomas Jefferson University",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I149251103"
+          ]
+        },
+        "years": [
+          2026
         ]
       },
       {
@@ -236,13 +251,13 @@
     ],
     "last_known_institutions": [
       {
-        "id": "https://openalex.org/I4210143841",
-        "ror": "https://ror.org/03ypap427",
-        "display_name": "Saudi Aramco (Saudi Arabia)",
-        "country_code": "SA",
-        "type": "company",
+        "id": "https://openalex.org/I149251103",
+        "ror": "https://ror.org/00ysqcn41",
+        "display_name": "Thomas Jefferson University",
+        "country_code": "US",
+        "type": "education",
         "lineage": [
-          "https://openalex.org/I4210143841"
+          "https://openalex.org/I149251103"
         ]
       }
     ],
@@ -337,7 +352,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.00004,
+        "value": 0.0000399,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -565,7 +580,7 @@
         "year": 2019,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 74
+        "cited_by_count": 73
       },
       {
         "year": 2020,
@@ -583,7 +598,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 47
+        "cited_by_count": 48
       },
       {
         "year": 2023,
@@ -605,8 +620,8 @@
       },
       {
         "year": 2026,
-        "works_count": 0,
-        "oa_works_count": 0,
+        "works_count": 1,
+        "oa_works_count": 1,
         "cited_by_count": 30
       }
     ],
@@ -618,7 +633,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5103799444",
-    "updated_date": "2026-11-25T10:29:20",
+    "updated_date": "2026-11-26T10:23:11",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2067,13 +2082,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 17.7813,
+      "fwci": 17.7662,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 306,
+      "cited_by_count": 307,
       "reviewed_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.99768246,
+        "value": 0.99768281,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2991,7 +3006,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2021,
@@ -3034,7 +3049,7 @@
           "cited_by_count": 29
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3150,13 +3165,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1381,
+      "fwci": 3.1357,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 74,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89229383,
+        "value": 0.89216901,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4526,13 +4541,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0629,
+      "fwci": 4.0554,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 52,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93613139,
+        "value": 0.9379562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5504,13 +5519,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.44,
+      "fwci": 2.4361,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88390889,
+        "value": 0.88387476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6134,13 +6149,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 4.0131,
+      "fwci": 4.0079,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 35,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92465467,
+        "value": 0.9243198,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6706,13 +6721,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8726,
+      "fwci": 1.871,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81393923,
+        "value": 0.81364393,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7803,7 +7818,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2554,
+      "fwci": 4.2601,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
@@ -9399,13 +9414,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9256,
+      "fwci": 1.9232,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 30,
+      "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82178467,
+        "value": 0.82154826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11050,7 +11065,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2018,
@@ -11073,7 +11088,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11181,13 +11196,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1081,
+      "fwci": 2.1069,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81860881,
+        "value": 0.81864937,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13096,13 +13111,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.9363,
+      "fwci": 0.9355,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68636722,
+        "value": 0.68613714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13665,13 +13680,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1235,
+      "fwci": 1.1226,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71841345,
+        "value": 0.71827656,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15847,7 +15862,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2217,
+      "fwci": 1.2235,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
@@ -16712,13 +16727,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0653,
+      "fwci": 1.0645,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75037908,
+        "value": 0.75028431,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18574,13 +18589,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9363,
+      "fwci": 0.9355,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68636722,
+        "value": 0.68613714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21805,13 +21820,13 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.1573,
+      "fwci": 0.1571,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39186079,
+        "value": 0.39160066,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24011,13 +24026,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4038,
+      "fwci": 0.403,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4588152,
+        "value": 0.45799906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24729,6 +24744,679 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2921727826",
+      "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
+      "title": "Glaciers, flows, and fans: Origins of a Neoproterozoic diamictite in the Saratoga Hills, Death Valley, California",
+      "display_name": "Glaciers, flows, and fans: Origins of a Neoproterozoic diamictite in the Saratoga Hills, Death Valley, California",
+      "alternate_titles": [],
+      "publication_year": 2019,
+      "publication_date": "2019-03-07",
+      "ids": {
+        "openalex": "https://openalex.org/W2921727826",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
+        "mag": "2921727826"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.sedgeo.2019.03.003",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S85417211",
+          "display_name": "Sedimentary Geology",
+          "issn_l": "0037-0738",
+          "issn": [
+            "0037-0738",
+            "1879-0968"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sedimentary Geology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2921727826"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5068207422",
+            "display_name": "S. Tofaif",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-3241-1261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3241-1261"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Saeed Tofaif",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017457262",
+            "display_name": "Thomas Matthew Vandyk",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7732-9977",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7732-9977"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I184558857",
+              "display_name": "Royal Holloway University of London",
+              "ror": "https://ror.org/04g2vpn86",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I184558857"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Thomas M. Vandyk",
+          "raw_affiliation_strings": [
+            "Department of Geography, Royal Holloway University of London, Egham, TW20 0EX, United Kingdom of Great Britain and Northern Ireland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, Royal Holloway University of London, Egham, TW20 0EX, United Kingdom of Great Britain and Northern Ireland",
+              "institution_ids": [
+                "https://openalex.org/I184558857"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039701585",
+            "display_name": "Daniel Paul Le Heron",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7213-5874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7213-5874"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I129774422",
+              "display_name": "University of Vienna",
+              "ror": "https://ror.org/03prydq77",
+              "country_code": "AT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I129774422"
+              ]
+            }
+          ],
+          "countries": [
+            "AT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Daniel P. Le Heron",
+          "raw_affiliation_strings": [
+            "Department for Geodynamics and Sedimentology, University of Vienna, Althanstrasse 14, A-1090 Vienna, Austria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department for Geodynamics and Sedimentology, University of Vienna, Althanstrasse 14, A-1090 Vienna, Austria",
+              "institution_ids": [
+                "https://openalex.org/I129774422"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103799444",
+            "display_name": "John Melvin",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "John Melvin",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5068207422"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 3300,
+        "currency": "USD",
+        "value_usd": 3300
+      },
+      "apc_paid": null,
+      "fwci": 0.6283,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.6009394,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 92,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "385",
+        "issue": null,
+        "first_page": "79",
+        "last_page": "95"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9937000274658203,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9937000274658203,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.00279999990016222,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.0008999999845400453,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/neoproterozoic-glaciation",
+          "display_name": "Neoproterozoic glaciation",
+          "score": 0.9139999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/cryogenian",
+          "display_name": "Cryogenian",
+          "score": 0.7889999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/diamictite",
+          "display_name": "diamictite",
+          "score": 0.7919999957084656
+        },
+        {
+          "id": "https://openalex.org/keywords/death-valley",
+          "display_name": "Death Valley",
+          "score": 0.984000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/ice-rafted-debris",
+          "display_name": "ice-rafted debris",
+          "score": 0.9139999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/turbidites",
+          "display_name": "turbidites",
+          "score": 0.8920000195503235
+        },
+        {
+          "id": "https://openalex.org/keywords/trough-mouth-fans",
+          "display_name": "trough mouth fans",
+          "score": 0.7860000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/clast-composition",
+          "display_name": "clast composition",
+          "score": 0.5860000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/lithofacies",
+          "display_name": "lithofacies",
+          "score": 0.7639999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/drainage-network",
+          "display_name": "drainage network",
+          "score": 0.5550000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-structures",
+          "display_name": "sedimentary structures",
+          "score": 0.44699999690055847
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778648423",
+          "wikidata": "https://www.wikidata.org/wiki/Q840899",
+          "display_name": "Diamictite",
+          "level": 4,
+          "score": 0.9962080717086792
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9281817674636841
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.688872218132019
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5770408511161804
+        },
+        {
+          "id": "https://openalex.org/C15739521",
+          "wikidata": "https://www.wikidata.org/wiki/Q602963",
+          "display_name": "Glacial period",
+          "level": 2,
+          "score": 0.5641859173774719
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.5460118055343628
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.48736196756362915
+        },
+        {
+          "id": "https://openalex.org/C40616122",
+          "wikidata": "https://www.wikidata.org/wiki/Q856124",
+          "display_name": "Lithostratigraphy",
+          "level": 3,
+          "score": 0.4522157907485962
+        },
+        {
+          "id": "https://openalex.org/C2778660078",
+          "wikidata": "https://www.wikidata.org/wiki/Q4330674",
+          "display_name": "Overprinting",
+          "level": 3,
+          "score": 0.4400119185447693
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.415676474571228
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.407698392868042
+        },
+        {
+          "id": "https://openalex.org/C26687426",
+          "wikidata": "https://www.wikidata.org/wiki/Q47069",
+          "display_name": "Metamorphic rock",
+          "level": 2,
+          "score": 0.11676931381225586
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.06990686058998108
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.sedgeo.2019.03.003",
+          "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S85417211",
+            "display_name": "Sedimentary Geology",
+            "issn_l": "0037-0738",
+            "issn": [
+              "0037-0738",
+              "1879-0968"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sedimentary Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 69,
+      "referenced_works": [
+        "https://openalex.org/W217727959",
+        "https://openalex.org/W1893338390",
+        "https://openalex.org/W1919697137",
+        "https://openalex.org/W1934469433",
+        "https://openalex.org/W1968286760",
+        "https://openalex.org/W1972985749",
+        "https://openalex.org/W1973089956",
+        "https://openalex.org/W1974455733",
+        "https://openalex.org/W1984553251",
+        "https://openalex.org/W1993498976",
+        "https://openalex.org/W1995185494",
+        "https://openalex.org/W2000414042",
+        "https://openalex.org/W2007323713",
+        "https://openalex.org/W2009011362",
+        "https://openalex.org/W2020444359",
+        "https://openalex.org/W2024768047",
+        "https://openalex.org/W2026002005",
+        "https://openalex.org/W2033191509",
+        "https://openalex.org/W2040729231",
+        "https://openalex.org/W2046130796",
+        "https://openalex.org/W2054953518",
+        "https://openalex.org/W2057743181",
+        "https://openalex.org/W2059136538",
+        "https://openalex.org/W2059510927",
+        "https://openalex.org/W2064111162",
+        "https://openalex.org/W2065078059",
+        "https://openalex.org/W2066663496",
+        "https://openalex.org/W2067675545",
+        "https://openalex.org/W2067923119",
+        "https://openalex.org/W2068451955",
+        "https://openalex.org/W2068909250",
+        "https://openalex.org/W2069339378",
+        "https://openalex.org/W2071715930",
+        "https://openalex.org/W2072565550",
+        "https://openalex.org/W2076965374",
+        "https://openalex.org/W2082357965",
+        "https://openalex.org/W2083587725",
+        "https://openalex.org/W2085774504",
+        "https://openalex.org/W2099989330",
+        "https://openalex.org/W2100634462",
+        "https://openalex.org/W2108784130",
+        "https://openalex.org/W2110586434",
+        "https://openalex.org/W2116207180",
+        "https://openalex.org/W2120162798",
+        "https://openalex.org/W2123794017",
+        "https://openalex.org/W2123860995",
+        "https://openalex.org/W2132956351",
+        "https://openalex.org/W2141527546",
+        "https://openalex.org/W2142005755",
+        "https://openalex.org/W2144590339",
+        "https://openalex.org/W2149313839",
+        "https://openalex.org/W2161211641",
+        "https://openalex.org/W2167810665",
+        "https://openalex.org/W2170116565",
+        "https://openalex.org/W2170988224",
+        "https://openalex.org/W2229954388",
+        "https://openalex.org/W2313716199",
+        "https://openalex.org/W2335904472",
+        "https://openalex.org/W2526226930",
+        "https://openalex.org/W2530534980",
+        "https://openalex.org/W2531214628",
+        "https://openalex.org/W2547180359",
+        "https://openalex.org/W2605017508",
+        "https://openalex.org/W2739094695",
+        "https://openalex.org/W2787842563",
+        "https://openalex.org/W2803587568",
+        "https://openalex.org/W2810497542",
+        "https://openalex.org/W2991435275",
+        "https://openalex.org/W7066010304"
+      ],
+      "related_works": [
+        "https://openalex.org/W2547180359",
+        "https://openalex.org/W2810497542",
+        "https://openalex.org/W2739094695",
+        "https://openalex.org/W2141527546",
+        "https://openalex.org/W2170116565",
+        "https://openalex.org/W1006134800",
+        "https://openalex.org/W2920945345",
+        "https://openalex.org/W4378232528",
+        "https://openalex.org/W66658839"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2921727826",
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-26T09:34:50.682384",
+      "created_date": "2019-03-22T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2160234329",
       "doi": "https://doi.org/10.1144/sjg21010023",
       "title": "Walls Formation, Western Shetland: distal alluvial plain deposits within a tectonically active Devonian basin",
@@ -24850,8 +25538,8 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
-        "max": 95
+        "min": 92,
+        "max": 94
       },
       "biblio": {
         "volume": "21",
@@ -25652,688 +26340,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2921727826",
-      "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
-      "title": "Glaciers, flows, and fans: Origins of a Neoproterozoic diamictite in the Saratoga Hills, Death Valley, California",
-      "display_name": "Glaciers, flows, and fans: Origins of a Neoproterozoic diamictite in the Saratoga Hills, Death Valley, California",
-      "alternate_titles": [],
-      "publication_year": 2019,
-      "publication_date": "2019-03-07",
-      "ids": {
-        "openalex": "https://openalex.org/W2921727826",
-        "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
-        "mag": "2921727826"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.sedgeo.2019.03.003",
-        "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S85417211",
-          "display_name": "Sedimentary Geology",
-          "issn_l": "0037-0738",
-          "issn": [
-            "0037-0738",
-            "1879-0968"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Sedimentary Geology",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2921727826"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5068207422",
-            "display_name": "S. Tofaif",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-3241-1261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3241-1261"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Saeed Tofaif",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017457262",
-            "display_name": "Thomas Matthew Vandyk",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7732-9977",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7732-9977"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I184558857",
-              "display_name": "Royal Holloway University of London",
-              "ror": "https://ror.org/04g2vpn86",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I124357947",
-                "https://openalex.org/I184558857"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Thomas M. Vandyk",
-          "raw_affiliation_strings": [
-            "Department of Geography, Royal Holloway University of London, Egham, TW20 0EX, United Kingdom of Great Britain and Northern Ireland"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geography, Royal Holloway University of London, Egham, TW20 0EX, United Kingdom of Great Britain and Northern Ireland",
-              "institution_ids": [
-                "https://openalex.org/I184558857"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039701585",
-            "display_name": "Daniel Paul Le Heron",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7213-5874",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7213-5874"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129774422",
-              "display_name": "University of Vienna",
-              "ror": "https://ror.org/03prydq77",
-              "country_code": "AT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129774422"
-              ]
-            }
-          ],
-          "countries": [
-            "AT"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Daniel P. Le Heron",
-          "raw_affiliation_strings": [
-            "Department for Geodynamics and Sedimentology, University of Vienna, Althanstrasse 14, A-1090 Vienna, Austria"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department for Geodynamics and Sedimentology, University of Vienna, Althanstrasse 14, A-1090 Vienna, Austria",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103799444",
-            "display_name": "John Melvin",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "John Melvin",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5068207422"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 3300,
-        "currency": "USD",
-        "value_usd": 3300
-      },
-      "apc_paid": null,
-      "fwci": 0.6291,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.60123377,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 92,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "385",
-        "issue": null,
-        "first_page": "79",
-        "last_page": "95"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9937000274658203,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9937000274658203,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.00279999990016222,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.0008999999845400453,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/neoproterozoic-glaciation",
-          "display_name": "Neoproterozoic glaciation",
-          "score": 0.9139999747276306
-        },
-        {
-          "id": "https://openalex.org/keywords/cryogenian",
-          "display_name": "Cryogenian",
-          "score": 0.7889999747276306
-        },
-        {
-          "id": "https://openalex.org/keywords/diamictite",
-          "display_name": "diamictite",
-          "score": 0.7919999957084656
-        },
-        {
-          "id": "https://openalex.org/keywords/death-valley",
-          "display_name": "Death Valley",
-          "score": 0.984000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/ice-rafted-debris",
-          "display_name": "ice-rafted debris",
-          "score": 0.9139999747276306
-        },
-        {
-          "id": "https://openalex.org/keywords/turbidites",
-          "display_name": "turbidites",
-          "score": 0.8920000195503235
-        },
-        {
-          "id": "https://openalex.org/keywords/trough-mouth-fans",
-          "display_name": "trough mouth fans",
-          "score": 0.7860000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/clast-composition",
-          "display_name": "clast composition",
-          "score": 0.5860000252723694
-        },
-        {
-          "id": "https://openalex.org/keywords/lithofacies",
-          "display_name": "lithofacies",
-          "score": 0.7639999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/drainage-network",
-          "display_name": "drainage network",
-          "score": 0.5550000071525574
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-structures",
-          "display_name": "sedimentary structures",
-          "score": 0.44699999690055847
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2778648423",
-          "wikidata": "https://www.wikidata.org/wiki/Q840899",
-          "display_name": "Diamictite",
-          "level": 4,
-          "score": 0.9962080717086792
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9281817674636841
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.688872218132019
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5770408511161804
-        },
-        {
-          "id": "https://openalex.org/C15739521",
-          "wikidata": "https://www.wikidata.org/wiki/Q602963",
-          "display_name": "Glacial period",
-          "level": 2,
-          "score": 0.5641859173774719
-        },
-        {
-          "id": "https://openalex.org/C93257316",
-          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
-          "display_name": "Siliciclastic",
-          "level": 4,
-          "score": 0.5460118055343628
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.48736196756362915
-        },
-        {
-          "id": "https://openalex.org/C40616122",
-          "wikidata": "https://www.wikidata.org/wiki/Q856124",
-          "display_name": "Lithostratigraphy",
-          "level": 3,
-          "score": 0.4522157907485962
-        },
-        {
-          "id": "https://openalex.org/C2778660078",
-          "wikidata": "https://www.wikidata.org/wiki/Q4330674",
-          "display_name": "Overprinting",
-          "level": 3,
-          "score": 0.4400119185447693
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.415676474571228
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.407698392868042
-        },
-        {
-          "id": "https://openalex.org/C26687426",
-          "wikidata": "https://www.wikidata.org/wiki/Q47069",
-          "display_name": "Metamorphic rock",
-          "level": 2,
-          "score": 0.11676931381225586
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.06990686058998108
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.sedgeo.2019.03.003",
-          "doi": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2019.03.003",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S85417211",
-            "display_name": "Sedimentary Geology",
-            "issn_l": "0037-0738",
-            "issn": [
-              "0037-0738",
-              "1879-0968"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-100",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Sedimentary Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 78,
-      "referenced_works": [
-        "https://openalex.org/W217727959",
-        "https://openalex.org/W258266501",
-        "https://openalex.org/W1494618508",
-        "https://openalex.org/W1856262602",
-        "https://openalex.org/W1893338390",
-        "https://openalex.org/W1919697137",
-        "https://openalex.org/W1934469433",
-        "https://openalex.org/W1968286760",
-        "https://openalex.org/W1972985749",
-        "https://openalex.org/W1973089956",
-        "https://openalex.org/W1974173080",
-        "https://openalex.org/W1974455733",
-        "https://openalex.org/W1984553251",
-        "https://openalex.org/W1993498976",
-        "https://openalex.org/W1995185494",
-        "https://openalex.org/W2000414042",
-        "https://openalex.org/W2007323713",
-        "https://openalex.org/W2009011362",
-        "https://openalex.org/W2020444359",
-        "https://openalex.org/W2024768047",
-        "https://openalex.org/W2026002005",
-        "https://openalex.org/W2033191509",
-        "https://openalex.org/W2040729231",
-        "https://openalex.org/W2041732465",
-        "https://openalex.org/W2046130796",
-        "https://openalex.org/W2054953518",
-        "https://openalex.org/W2057743181",
-        "https://openalex.org/W2059136538",
-        "https://openalex.org/W2059510927",
-        "https://openalex.org/W2064111162",
-        "https://openalex.org/W2065078059",
-        "https://openalex.org/W2066663496",
-        "https://openalex.org/W2067675545",
-        "https://openalex.org/W2067923119",
-        "https://openalex.org/W2068451955",
-        "https://openalex.org/W2068909250",
-        "https://openalex.org/W2069339378",
-        "https://openalex.org/W2071715930",
-        "https://openalex.org/W2072565550",
-        "https://openalex.org/W2076965374",
-        "https://openalex.org/W2082357965",
-        "https://openalex.org/W2083587725",
-        "https://openalex.org/W2085774504",
-        "https://openalex.org/W2098786925",
-        "https://openalex.org/W2099989330",
-        "https://openalex.org/W2100634462",
-        "https://openalex.org/W2108784130",
-        "https://openalex.org/W2110586434",
-        "https://openalex.org/W2116207180",
-        "https://openalex.org/W2120162798",
-        "https://openalex.org/W2123794017",
-        "https://openalex.org/W2123860995",
-        "https://openalex.org/W2132956351",
-        "https://openalex.org/W2141527546",
-        "https://openalex.org/W2142005755",
-        "https://openalex.org/W2144590339",
-        "https://openalex.org/W2149313839",
-        "https://openalex.org/W2161211641",
-        "https://openalex.org/W2167810665",
-        "https://openalex.org/W2170116565",
-        "https://openalex.org/W2170988224",
-        "https://openalex.org/W2229954388",
-        "https://openalex.org/W2313716199",
-        "https://openalex.org/W2335904472",
-        "https://openalex.org/W2503764533",
-        "https://openalex.org/W2526226930",
-        "https://openalex.org/W2530534980",
-        "https://openalex.org/W2531214628",
-        "https://openalex.org/W2547180359",
-        "https://openalex.org/W2605017508",
-        "https://openalex.org/W2739094695",
-        "https://openalex.org/W2787842563",
-        "https://openalex.org/W2803587568",
-        "https://openalex.org/W2810497542",
-        "https://openalex.org/W2991435275",
-        "https://openalex.org/W3200465937",
-        "https://openalex.org/W6724820271",
-        "https://openalex.org/W7066010304"
-      ],
-      "related_works": [
-        "https://openalex.org/W2547180359",
-        "https://openalex.org/W2810497542",
-        "https://openalex.org/W2739094695",
-        "https://openalex.org/W2141527546",
-        "https://openalex.org/W2170116565",
-        "https://openalex.org/W1006134800",
-        "https://openalex.org/W2920945345",
-        "https://openalex.org/W4378232528",
-        "https://openalex.org/W66658839"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2921727826",
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-25T09:40:18.809321",
-      "created_date": "2019-03-22T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2620705869",
       "doi": "https://doi.org/10.2118/188096-ms",
       "title": "Sedimentological and Stratigraphic Characterization of Late Paleozoic Unayzah Reservoirs, Central Arabia, Saudi Arabia",
@@ -26788,8 +26794,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -27638,7 +27644,7 @@
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 87,
         "max": 92
       },
       "biblio": {
@@ -34855,6 +34861,1888 @@
       "counts_by_year": [],
       "updated_date": "2026-11-17T12:49:18.490984",
       "created_date": "2023-05-26T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7213471881",
+      "doi": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+      "title": "Strengthening Rehabilitation Globally: International Society of Physical and Rehabilitation Medicine (ISPRM) Strategy to Action Synopsis of the ISPRM President’s Cabinet Strategy Planning Workshop",
+      "display_name": "Strengthening Rehabilitation Globally: International Society of Physical and Rehabilitation Medicine (ISPRM) Strategy to Action Synopsis of the ISPRM President’s Cabinet Strategy Planning Workshop",
+      "alternate_titles": [],
+      "publication_year": 2026,
+      "publication_date": "2026-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7213471881",
+        "doi": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/42788213"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.23736/s1973-9087.26.09788-1",
+        "doi": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S59840410",
+          "display_name": "European Journal of Physical and Rehabilitation Medicine",
+          "issn_l": "1973-9087",
+          "issn": [
+            "1973-9087",
+            "1973-9095"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "oarl",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4320800528",
+          "host_organization_name": "Edizioni Minerva Medica",
+          "host_organization_lineage": [
+            "https://openalex.org/P4320800528"
+          ],
+          "host_organization_lineage_names": [
+            "Edizioni Minerva Medica"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "European Journal of Physical and Rehabilitation Medicine",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W7213471881"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077745198",
+            "display_name": "Fary Khan",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-2232-6493",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2232-6493"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Fary Khan",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine and Rehabilitation, Qatar Rehabilitation Institute, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine and Rehabilitation, Qatar Rehabilitation Institute, Doha, Qatar",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071481389",
+            "display_name": "Bhasker Amatya",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-4793-1104",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4793-1104"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Bhasker Amatya",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine and Rehabilitation, Qatar Rehabilitation Institute, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine and Rehabilitation, Qatar Rehabilitation Institute, Doha, Qatar",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037791666",
+            "display_name": "Gaj Panagoda",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-8225-6477",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8225-6477"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165143802",
+              "display_name": "The University of Queensland",
+              "ror": "https://ror.org/00rqy9422",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165143802"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Gaj Panagoda",
+          "raw_affiliation_strings": [
+            "School of Human Movement and Nutrition Sciences, The University of Queensland, Brisbane, Queensland, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Human Movement and Nutrition Sciences, The University of Queensland, Brisbane, Queensland, Australia",
+              "institution_ids": [
+                "https://openalex.org/I165143802"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004799706",
+            "display_name": "Walter R. Frontera",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-8471-2248",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8471-2248"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I158818660",
+              "display_name": "University of Puerto Rico, Medical Sciences Campus",
+              "ror": "https://ror.org/00h25w961",
+              "country_code": "PR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I158818660",
+                "https://openalex.org/I200399037"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I200399037",
+              "display_name": "University of Puerto Rico System",
+              "ror": "https://ror.org/02yg0nm07",
+              "country_code": "PR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200399037"
+              ]
+            }
+          ],
+          "countries": [
+            "PR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Walter Frontera",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine, Rehabilitation, and Sports Medicine, Department of Physiology, University of Puerto Rico School of Medicine, San Juan, Puerto Rico"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine, Rehabilitation, and Sports Medicine, Department of Physiology, University of Puerto Rico School of Medicine, San Juan, Puerto Rico",
+              "institution_ids": [
+                "https://openalex.org/I158818660",
+                "https://openalex.org/I200399037"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033382999",
+            "display_name": "Francesca Gimigliano",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-1905-6405",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1905-6405"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I197809005",
+              "display_name": "University of Campania \"Luigi Vanvitelli\"",
+              "ror": "https://ror.org/02kqnpp86",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I197809005"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Francesca Gimigliano",
+          "raw_affiliation_strings": [
+            "Department of Mental and Physical Health and Preventive Medicine, University of Campania “Luigi Vanvitelli”, Naples, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mental and Physical Health and Preventive Medicine, University of Campania “Luigi Vanvitelli”, Naples, Italy",
+              "institution_ids": [
+                "https://openalex.org/I197809005"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080943561",
+            "display_name": "Levent Özçakar",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-2713-4071",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2713-4071"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I66514158",
+              "display_name": "Hacettepe University",
+              "ror": "https://ror.org/04kwvgz42",
+              "country_code": "TR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I66514158"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Levent Özçakar",
+          "raw_affiliation_strings": [
+            "Department of Physical and Rehabilitation Medicine, Hacettepe University Medical School, Ankara, Türkiye"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical and Rehabilitation Medicine, Hacettepe University Medical School, Ankara, Türkiye",
+              "institution_ids": [
+                "https://openalex.org/I66514158"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5118630299",
+            "display_name": "Vũ Nguyễn",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I32389192",
+              "display_name": "University of Alabama at Birmingham",
+              "ror": "https://ror.org/008s83205",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32389192"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Vu Nguyen",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine and Rehabilitation, Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine and Rehabilitation, Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, USA",
+              "institution_ids": [
+                "https://openalex.org/I32389192"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5152934737",
+            "display_name": "Steven J. FAUX",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31746571",
+              "display_name": "UNSW Sydney",
+              "ror": "https://ror.org/03r8z3t63",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31746571"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Steven J Faux",
+          "raw_affiliation_strings": [
+            "Department of Rehabilitation Medicine, St Vincent’s Clinical School, University of New South Wales, Sydney, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Rehabilitation Medicine, St Vincent’s Clinical School, University of New South Wales, Sydney, Australia",
+              "institution_ids": [
+                "https://openalex.org/I31746571"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058554240",
+            "display_name": "Jorge Laíns",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-8737-7569",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8737-7569"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802025818",
+              "display_name": "Unidade Local de Saúde de Coimbra",
+              "ror": "https://ror.org/04032fz76",
+              "country_code": "PT",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2802025818"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I76903346",
+              "display_name": "University of Coimbra",
+              "ror": "https://ror.org/04z8k9a98",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Jorge Lains",
+          "raw_affiliation_strings": [
+            "Department of Rehabilitation Medicine and Rovisco Pais Hospital, ULS Coimbra, and Univ Coimbra, Faculty of Medicine, Portugal"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Rehabilitation Medicine and Rovisco Pais Hospital, ULS Coimbra, and Univ Coimbra, Faculty of Medicine, Portugal",
+              "institution_ids": [
+                "https://openalex.org/I2802025818",
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050723577",
+            "display_name": "Marta Imamura",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-0355-9697",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0355-9697"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I17974374",
+              "display_name": "Universidade de São Paulo",
+              "ror": "https://ror.org/036rp1748",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I17974374"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Marta Imamura",
+          "raw_affiliation_strings": [
+            "Departamento de Medicina Legal, Bioetica, Medicina do Trabalho e Medicina Fisica e Reabilitacao, Faculdade de Medicina HCFMUSP, Universidade de Sao Paulo, Sao Paulo, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departamento de Medicina Legal, Bioetica, Medicina do Trabalho e Medicina Fisica e Reabilitacao, Faculdade de Medicina HCFMUSP, Universidade de Sao Paulo, Sao Paulo, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I17974374"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057058940",
+            "display_name": "Gerard E. Francisco",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-5681-1916",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5681-1916"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I919571938",
+              "display_name": "The University of Texas Health Science Center at Houston",
+              "ror": "https://ror.org/03gds6c39",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I919571938"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Gerard E. Francisco",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine and Rehabilitation, University of Texas Health Science Center, McGovern Medical School, Houston (Texas), USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine and Rehabilitation, University of Texas Health Science Center, McGovern Medical School, Houston (Texas), USA",
+              "institution_ids": [
+                "https://openalex.org/I919571938"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052634773",
+            "display_name": "Leonard SW Li",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I889458895",
+              "display_name": "University of Hong Kong",
+              "ror": "https://ror.org/02zhqgq86",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I889458895"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Leonard SW Li",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine and Rehabilitation, University of Hong Kong, Hong Kong, SAR, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine and Rehabilitation, University of Hong Kong, Hong Kong, SAR, China",
+              "institution_ids": [
+                "https://openalex.org/I889458895"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5152773049",
+            "display_name": "Jianan LI",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210152119",
+              "display_name": "Jiangsu Province Hospital",
+              "ror": "https://ror.org/04py1g812",
+              "country_code": "CN",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210152119"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Jianan Li",
+          "raw_affiliation_strings": [
+            "Center of Rehabilitation Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Rehabilitation Medicine, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China",
+              "institution_ids": [
+                "https://openalex.org/I4210152119"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000751419",
+            "display_name": "Linamara Rizzo Battistella",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-5275-0733",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5275-0733"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I17974374",
+              "display_name": "Universidade de São Paulo",
+              "ror": "https://ror.org/036rp1748",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I17974374"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Linamara R Battistella",
+          "raw_affiliation_strings": [
+            "Departamento de Medicina Legal, Bioetica, Medicina do Trabalho e Medicina Fisica e Reabilitacao, Faculdade de Medicina HCFMUSP, Universidade de Sao Paulo, Sao Paulo, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departamento de Medicina Legal, Bioetica, Medicina do Trabalho e Medicina Fisica e Reabilitacao, Faculdade de Medicina HCFMUSP, Universidade de Sao Paulo, Sao Paulo, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I17974374"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111496257",
+            "display_name": "Joel A. DeLisa",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4402554120",
+              "display_name": "Rutgers New Jersey Medical School",
+              "ror": "https://ror.org/014ye1258",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102322142",
+                "https://openalex.org/I4390039302",
+                "https://openalex.org/I4402554120"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I72951846",
+              "display_name": "Washington State University",
+              "ror": "https://ror.org/05dk0ce17",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I72951846"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Joel A DeLisa",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine and Rehabilitation, Rutgers New Jersey Medical School, and Elton S. Floyd College of Medicine-Washington State University, New Jersey, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine and Rehabilitation, Rutgers New Jersey Medical School, and Elton S. Floyd College of Medicine-Washington State University, New Jersey, USA",
+              "institution_ids": [
+                "https://openalex.org/I4402554120",
+                "https://openalex.org/I72951846"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103799444",
+            "display_name": "John Melvin",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I149251103",
+              "display_name": "Thomas Jefferson University",
+              "ror": "https://ror.org/00ysqcn41",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I149251103"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "John Melvin",
+          "raw_affiliation_strings": [
+            "Department of Rehabilitation Medicine, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Rehabilitation Medicine, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania, USA",
+              "institution_ids": [
+                "https://openalex.org/I149251103"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5151990440",
+            "display_name": "ISPRM 2026 PC Meeting Collaborators",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "ISPRM 2026 PC Meeting Collaborators",
+          "raw_affiliation_strings": [
+            "Department of Physical Medicine and Rehabilitation, Qatar Rehabilitation Institute, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physical Medicine and Rehabilitation, Qatar Rehabilitation Institute, Doha, Qatar",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 9,
+      "institutions_distinct_count": 16,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "1",
+        "issue": "3",
+        "first_page": "199",
+        "last_page": "213"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13986",
+        "display_name": "Medical Practices and Rehabilitation",
+        "score": 0.9945999979972839,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3612",
+          "display_name": "Physical Therapy, Sports Therapy and Rehabilitation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13986",
+          "display_name": "Medical Practices and Rehabilitation",
+          "score": 0.9945999979972839,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3612",
+            "display_name": "Physical Therapy, Sports Therapy and Rehabilitation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13896",
+          "display_name": "Health Services Management and Policy",
+          "score": 0.0008999999845400453,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3600",
+            "display_name": "General Health Professions"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10629",
+          "display_name": "Health Policy Implementation Science",
+          "score": 0.000699999975040555,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3600",
+            "display_name": "General Health Professions"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/organizational-strategy",
+          "display_name": "organizational strategy",
+          "score": 0.6140000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/rehabilitation-medicine",
+          "display_name": "rehabilitation medicine",
+          "score": 0.6620000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/advocacy",
+          "display_name": "advocacy",
+          "score": 0.49300000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/multilingual-communication",
+          "display_name": "multilingual communication",
+          "score": 0.7229999899864197
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C54745167",
+          "wikidata": "https://www.wikidata.org/wiki/Q1515062",
+          "display_name": "Cabinet (room)",
+          "level": 2,
+          "score": 0.5285000205039978
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.49639999866485596
+        },
+        {
+          "id": "https://openalex.org/C2778818304",
+          "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+          "display_name": "Rehabilitation",
+          "level": 2,
+          "score": 0.4839000105857849
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.48249998688697815
+        },
+        {
+          "id": "https://openalex.org/C2780210234",
+          "wikidata": "https://www.wikidata.org/wiki/Q422638",
+          "display_name": "Action plan",
+          "level": 2,
+          "score": 0.46129998564720154
+        },
+        {
+          "id": "https://openalex.org/C160735492",
+          "wikidata": "https://www.wikidata.org/wiki/Q31207",
+          "display_name": "Health care",
+          "level": 2,
+          "score": 0.4438000023365021
+        },
+        {
+          "id": "https://openalex.org/C48243021",
+          "wikidata": "https://www.wikidata.org/wiki/Q932522",
+          "display_name": "Strategic planning",
+          "level": 2,
+          "score": 0.44190001487731934
+        },
+        {
+          "id": "https://openalex.org/C2778431023",
+          "wikidata": "https://www.wikidata.org/wiki/Q878249",
+          "display_name": "Alliance",
+          "level": 2,
+          "score": 0.3817000091075897
+        },
+        {
+          "id": "https://openalex.org/C46578552",
+          "wikidata": "https://www.wikidata.org/wiki/Q2725393",
+          "display_name": "Global health",
+          "level": 3,
+          "score": 0.38100001215934753
+        },
+        {
+          "id": "https://openalex.org/C3116431",
+          "wikidata": "https://www.wikidata.org/wiki/Q31728",
+          "display_name": "Public administration",
+          "level": 1,
+          "score": 0.3752000033855438
+        },
+        {
+          "id": "https://openalex.org/C2779622097",
+          "wikidata": "https://www.wikidata.org/wiki/Q1417724",
+          "display_name": "Capacity building",
+          "level": 2,
+          "score": 0.3587000072002411
+        },
+        {
+          "id": "https://openalex.org/C2780791683",
+          "wikidata": "https://www.wikidata.org/wiki/Q846785",
+          "display_name": "Action (physics)",
+          "level": 2,
+          "score": 0.3476000130176544
+        },
+        {
+          "id": "https://openalex.org/C206103860",
+          "wikidata": "https://www.wikidata.org/wiki/Q5570906",
+          "display_name": "Global strategy",
+          "level": 2,
+          "score": 0.3465000092983246
+        },
+        {
+          "id": "https://openalex.org/C39389867",
+          "wikidata": "https://www.wikidata.org/wiki/Q380767",
+          "display_name": "Corporate governance",
+          "level": 2,
+          "score": 0.3346000015735626
+        },
+        {
+          "id": "https://openalex.org/C2776406656",
+          "wikidata": "https://www.wikidata.org/wiki/Q5154598",
+          "display_name": "Community-based rehabilitation",
+          "level": 3,
+          "score": 0.3181000053882599
+        },
+        {
+          "id": "https://openalex.org/C47344431",
+          "wikidata": "https://www.wikidata.org/wiki/Q1519812",
+          "display_name": "Health policy",
+          "level": 3,
+          "score": 0.3158999979496002
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.31349998712539673
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.31220000982284546
+        },
+        {
+          "id": "https://openalex.org/C134215751",
+          "wikidata": "https://www.wikidata.org/wiki/Q829080",
+          "display_name": "Professional association",
+          "level": 2,
+          "score": 0.28769999742507935
+        },
+        {
+          "id": "https://openalex.org/C203663800",
+          "wikidata": "https://www.wikidata.org/wiki/Q848979",
+          "display_name": "Citizen journalism",
+          "level": 2,
+          "score": 0.2815000116825104
+        },
+        {
+          "id": "https://openalex.org/C552854447",
+          "wikidata": "https://www.wikidata.org/wiki/Q131201",
+          "display_name": "Sustainable development",
+          "level": 2,
+          "score": 0.27140000462532043
+        },
+        {
+          "id": "https://openalex.org/C2779182362",
+          "wikidata": "https://www.wikidata.org/wiki/Q17126187",
+          "display_name": "Session (web analytics)",
+          "level": 2,
+          "score": 0.2549000084400177
+        },
+        {
+          "id": "https://openalex.org/C195094911",
+          "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+          "display_name": "Process management",
+          "level": 1,
+          "score": 0.2529999911785126
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.25049999356269836
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.23736/s1973-9087.26.09788-1",
+          "doi": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S59840410",
+            "display_name": "European Journal of Physical and Rehabilitation Medicine",
+            "issn_l": "1973-9087",
+            "issn": [
+              "1973-9087",
+              "1973-9095"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "doaj",
+              "dongbi-c",
+              "doyens",
+              "jufo-1",
+              "ki-jl-1",
+              "medline",
+              "norway-1",
+              "oarl",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4320800528",
+            "host_organization_name": "Edizioni Minerva Medica",
+            "host_organization_lineage": [
+              "https://openalex.org/P4320800528"
+            ],
+            "host_organization_lineage_names": [
+              "Edizioni Minerva Medica"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "European Journal of Physical and Rehabilitation Medicine",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.5606/archisprm.2026.92",
+          "doi": "https://doi.org/10.5606/archisprm.2026.92",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5606/archisprm.2026.92",
+          "pdf_url": "https://archivesisprm.org/full-text-pdf/29",
+          "source": {
+            "id": "https://openalex.org/S7407064091",
+            "display_name": "Archives of ISPRM",
+            "issn_l": "3135-4920",
+            "issn": [
+              "3135-4920"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4404685337",
+            "host_organization_name": "Baycinar Tibbi Yayincilik",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404685337"
+            ],
+            "host_organization_lineage_names": [
+              "Baycinar Tibbi Yayincilik"
+            ],
+            "type": "journal"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Archives of ISPRM",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:42788213",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/42788213",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "European journal of physical and rehabilitation medicine",
+          "raw_type": "Journal Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.23736/s1973-9087.26.09788-1",
+        "doi": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.23736/s1973-9087.26.09788-1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S59840410",
+          "display_name": "European Journal of Physical and Rehabilitation Medicine",
+          "issn_l": "1973-9087",
+          "issn": [
+            "1973-9087",
+            "1973-9095"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "oarl",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4320800528",
+          "host_organization_name": "Edizioni Minerva Medica",
+          "host_organization_lineage": [
+            "https://openalex.org/P4320800528"
+          ],
+          "host_organization_lineage_names": [
+            "Edizioni Minerva Medica"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "European Journal of Physical and Rehabilitation Medicine",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.9900000095367432,
+          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals"
+        },
+        {
+          "score": 0.766700029373169,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7213471881.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7213471881.grobid-xml"
+      },
+      "referenced_works_count": 9,
+      "referenced_works": [
+        "https://openalex.org/W1768648036",
+        "https://openalex.org/W2047636385",
+        "https://openalex.org/W2049797315",
+        "https://openalex.org/W2076111247",
+        "https://openalex.org/W2770682322",
+        "https://openalex.org/W3109410822",
+        "https://openalex.org/W4206834222",
+        "https://openalex.org/W4285205202",
+        "https://openalex.org/W7161740915"
+      ],
+      "related_works": [
+        "https://openalex.org/W2114030665",
+        "https://openalex.org/W2944093132",
+        "https://openalex.org/W4384305754",
+        "https://openalex.org/W2023715528",
+        "https://openalex.org/W2020348036",
+        "https://openalex.org/W2049797315",
+        "https://openalex.org/W6926943665",
+        "https://openalex.org/W2054825600",
+        "https://openalex.org/W2076111247",
+        "https://openalex.org/W7099544600"
+      ],
+      "abstract_inverted_index": {
+        "2026": [
+          26
+        ],
+        "The": [
+          0,
+          158,
+          192
+        ],
+        "President's": [
+          1
+        ],
+        "Cabinet": [
+          2
+        ],
+        "and": [
+          3,
+          14,
+          33,
+          45,
+          47,
+          49,
+          55,
+          69,
+          76,
+          92,
+          115,
+          124,
+          129,
+          133,
+          142,
+          145,
+          147,
+          155,
+          186,
+          206,
+          219,
+          242,
+          245
+        ],
+        "panel": [
+          4
+        ],
+        "of": [
+          5,
+          8,
+          12,
+          65,
+          74,
+          113,
+          118,
+          228,
+          237
+        ],
+        "Past": [
+          6
+        ],
+        "Presidents": [
+          7
+        ],
+        "the": [
+          9,
+          23,
+          38,
+          66,
+          71,
+          80,
+          108,
+          136,
+          174,
+          187,
+          229
+        ],
+        "International": [
+          10
+        ],
+        "Society": [
+          11
+        ],
+        "Physical": [
+          13
+        ],
+        "Rehabilitation": [
+          15,
+          172,
+          182,
+          189
+        ],
+        "Medicine": [
+          16
+        ],
+        "(ISPRM)": [
+          17
+        ],
+        "convened": [
+          18
+        ],
+        "a": [
+          19,
+          86,
+          98,
+          208,
+          214
+        ],
+        "strategy": [
+          20,
+          67,
+          193
+        ],
+        "session": [
+          21,
+          68,
+          194
+        ],
+        "following": [
+          22
+        ],
+        "World": [
+          24,
+          168,
+          175,
+          188
+        ],
+        "Congress": [
+          25
+        ],
+        "in": [
+          27,
+          183
+        ],
+        "Vancouver,": [
+          28
+        ],
+        "Canada.": [
+          29
+        ],
+        "Participants": [
+          30,
+          84
+        ],
+        "examined": [
+          31
+        ],
+        "challenges": [
+          32
+        ],
+        "future": [
+          34,
+          72
+        ],
+        "strategic": [
+          35,
+          88
+        ],
+        "directions": [
+          36
+        ],
+        "across": [
+          37,
+          102
+        ],
+        "four": [
+          39,
+          104
+        ],
+        "ISPRM": [
+          40,
+          75,
+          212
+        ],
+        "pillars:": [
+          41
+        ],
+        "Advocacy,": [
+          42
+        ],
+        "Communication,": [
+          43
+        ],
+        "Education": [
+          44
+        ],
+        "Research,": [
+          46
+        ],
+        "Operations": [
+          48
+        ],
+        "Fiscal": [
+          50,
+          148
+        ],
+        "Health,": [
+          51
+        ],
+        "using": [
+          52
+        ],
+        "participatory": [
+          53
+        ],
+        "Problem": [
+          54
+        ],
+        "Objective": [
+          56
+        ],
+        "Tree": [
+          57
+        ],
+        "Analysis": [
+          58
+        ],
+        "methodology.": [
+          59
+        ],
+        "This": [
+          60
+        ],
+        "article": [
+          61
+        ],
+        "provides": [
+          62,
+          207
+        ],
+        "an": [
+          63,
+          196
+        ],
+        "analysis": [
+          64
+        ],
+        "highlights": [
+          70
+        ],
+        "trajectory": [
+          73
+        ],
+        "its": [
+          77
+        ],
+        "role": [
+          78
+        ],
+        "within": [
+          79
+        ],
+        "broader": [
+          81
+        ],
+        "rehabilitation": [
+          82,
+          165,
+          222
+        ],
+        "landscape.": [
+          83
+        ],
+        "identified": [
+          85
+        ],
+        "common": [
+          87
+        ],
+        "priority:": [
+          89
+        ],
+        "strengthening": [
+          90
+        ],
+        "regional": [
+          91,
+          128,
+          244
+        ],
+        "national": [
+          93,
+          130,
+          246
+        ],
+        "society": [
+          94
+        ],
+        "capacity": [
+          95
+        ],
+        "whilst": [
+          96
+        ],
+        "maintaining": [
+          97
+        ],
+        "coherent": [
+          99
+        ],
+        "global": [
+          100,
+          164,
+          216
+        ],
+        "framework,": [
+          101
+        ],
+        "all": [
+          103
+        ],
+        "pillars.": [
+          105
+        ],
+        "For": [
+          106
+        ],
+        "'Advocacy',": [
+          107
+        ],
+        "emphasis": [
+          109
+        ],
+        "was": [
+          110
+        ],
+        "on": [
+          111,
+          151,
+          180,
+          233
+        ],
+        "demonstration": [
+          112
+        ],
+        "economic": [
+          114
+        ],
+        "societal": [
+          116
+        ],
+        "value": [
+          117
+        ],
+        "rehabilitation;": [
+          119
+        ],
+        "'Communication'": [
+          120
+        ],
+        "emphasized": [
+          121
+        ],
+        "multilingual": [
+          122
+        ],
+        "engagement": [
+          123
+        ],
+        "stronger": [
+          125
+        ],
+        "relationship": [
+          126
+        ],
+        "with": [
+          127,
+          162
+        ],
+        "societies;": [
+          131
+        ],
+        "'Education": [
+          132
+        ],
+        "Research'": [
+          134
+        ],
+        "highlight": [
+          135
+        ],
+        "need": [
+          137
+        ],
+        "for": [
+          138,
+          210,
+          221
+        ],
+        "globally": [
+          139
+        ],
+        "accessible": [
+          140
+        ],
+        "evidence-generation": [
+          141
+        ],
+        "knowledge-sharing": [
+          143
+        ],
+        "platforms;": [
+          144
+        ],
+        "'Operations": [
+          146
+        ],
+        "health'": [
+          149
+        ],
+        "concentrated": [
+          150
+        ],
+        "creating": [
+          152
+        ],
+        "sustainable": [
+          153,
+          240
+        ],
+        "governance": [
+          154
+        ],
+        "finance": [
+          156
+        ],
+        "mechanisms.": [
+          157
+        ],
+        "discussion": [
+          159
+        ],
+        "aligns": [
+          160
+        ],
+        "closely": [
+          161
+        ],
+        "contemporary": [
+          163
+        ],
+        "initiatives,": [
+          166
+        ],
+        "including": [
+          167
+        ],
+        "Health": [
+          169,
+          176,
+          184
+        ],
+        "Organization": [
+          170
+        ],
+        "(WHO)": [
+          171
+        ],
+        "2030,": [
+          173
+        ],
+        "Assembly": [
+          177
+        ],
+        "resolution": [
+          178
+        ],
+        "(WHA76.6)": [
+          179
+        ],
+        "'Strengthening": [
+          181
+        ],
+        "Systems',": [
+          185
+        ],
+        "Alliance": [
+          190
+        ],
+        "(WRA).": [
+          191
+        ],
+        "represents": [
+          195
+        ],
+        "important": [
+          197
+        ],
+        "transition": [
+          198
+        ],
+        "from": [
+          199
+        ],
+        "aspirational": [
+          200
+        ],
+        "goals": [
+          201
+        ],
+        "toward": [
+          202
+        ],
+        "measurable": [
+          203
+        ],
+        "organizational": [
+          204
+        ],
+        "transformation": [
+          205
+        ],
+        "roadmap": [
+          209
+        ],
+        "positioning": [
+          211
+        ],
+        "as": [
+          213
+        ],
+        "leading": [
+          215
+        ],
+        "advocate,": [
+          217
+        ],
+        "knowledge-broker,": [
+          218
+        ],
+        "catalyst": [
+          220
+        ],
+        "medicine": [
+          223
+        ],
+        "development": [
+          224
+        ],
+        "worldwide.": [
+          225
+        ],
+        "Successful": [
+          226
+        ],
+        "implementation": [
+          227
+        ],
+        "strategies": [
+          230
+        ],
+        "will": [
+          231
+        ],
+        "depend": [
+          232
+        ],
+        "leadership": [
+          234
+        ],
+        "accountability,": [
+          235
+        ],
+        "prioritization": [
+          236
+        ],
+        "foundational": [
+          238
+        ],
+        "activities,": [
+          239
+        ],
+        "finance,": [
+          241
+        ],
+        "meaningful": [
+          243
+        ],
+        "empowerment.": [
+          247
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7213471881",
+      "counts_by_year": [],
+      "updated_date": "2026-11-26T09:34:50.682384",
+      "created_date": "2026-09-17T00:00:00"
     }
   ]
 }

@@ -23,7 +23,7 @@
     ],
     "full_name": "BABALOLA, LAMEED OLABODE",
     "works_count": 75,
-    "cited_by_count": 697,
+    "cited_by_count": 696,
     "summary_stats": {
       "2yr_mean_citedness": 4,
       "h_index": 15,
@@ -295,7 +295,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000446,
+        "value": 0.0000445,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -442,7 +442,7 @@
         "year": 2019,
         "works_count": 16,
         "oa_works_count": 1,
-        "cited_by_count": 30
+        "cited_by_count": 29
       },
       {
         "year": 2020,
@@ -505,7 +505,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044235421",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5044235421",
-    "updated_date": "2026-11-25T10:29:20",
+    "updated_date": "2026-11-26T10:23:11",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -774,13 +774,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.2481,
+      "fwci": 1.2436,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73924612,
+        "value": 0.73847294,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1851,13 +1851,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.2571,
+      "fwci": 4.2504,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95573958,
+        "value": 0.95565284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2654,13 +2654,13 @@
         "value_usd": 2910
       },
       "apc_paid": null,
-      "fwci": 2.5699,
+      "fwci": 2.5656,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 32,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88348983,
+        "value": 0.88320569,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3463,13 +3463,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.6753,
+      "fwci": 2.6704,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88535143,
+        "value": 0.88516746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4284,13 +4284,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.1585,
+      "fwci": 3.1536,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92423377,
+        "value": 0.92415303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4929,13 +4929,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2113,
+      "fwci": 1.2098,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 27,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72532327,
+        "value": 0.72517674,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6316,13 +6316,13 @@
         "currency": "CHF",
         "value_usd": 1824
       },
-      "fwci": 2.8425,
+      "fwci": 2.8373,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 26,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89378914,
+        "value": 0.89351892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7969,13 +7969,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8076,
+      "fwci": 2.8048,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88067283,
+        "value": 0.88042302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9084,13 +9084,13 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.8874,
+      "fwci": 1.8849,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82137925,
+        "value": 0.8212378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9885,13 +9885,13 @@
         "currency": "USD",
         "value_usd": 0
       },
-      "fwci": 1.6099,
+      "fwci": 1.6083,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78901281,
+        "value": 0.78890118,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11422,13 +11422,13 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 1.3868,
+      "fwci": 1.3849,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7606144,
+        "value": 0.76036532,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12065,13 +12065,13 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 1.4186,
+      "fwci": 1.4167,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77219356,
+        "value": 0.77194699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12853,13 +12853,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.2359,
+      "fwci": 1.234,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73976775,
+        "value": 0.73924629,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13466,13 +13466,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1008,
+      "fwci": 1.0994,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70847151,
+        "value": 0.70823281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14199,13 +14199,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2231,
+      "fwci": 1.2216,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73515225,
+        "value": 0.73492159,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15230,13 +15230,13 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 2.0065,
+      "fwci": 2.0028,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 21,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84072721,
+        "value": 0.84062636,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15796,7 +15796,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7803,
+      "fwci": 0.7799,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 20,
@@ -17277,13 +17277,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1325,
+      "fwci": 0.132,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31609366,
+        "value": 0.31435791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17797,13 +17797,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.1704,
+      "fwci": 1.1683,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7427801,
+        "value": 0.74267073,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18634,13 +18634,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.016,
+      "fwci": 1.0146,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70005478,
+        "value": 0.7,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20068,13 +20068,13 @@
         "value_usd": 3280
       },
       "apc_paid": null,
-      "fwci": 1.0245,
+      "fwci": 1.0235,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6735183,
+        "value": 0.67330383,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21000,13 +21000,13 @@
         "value_usd": 2460
       },
       "apc_paid": null,
-      "fwci": 0.8381,
+      "fwci": 0.8368,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62330881,
+        "value": 0.62302215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21753,8 +21753,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
@@ -21851,7 +21851,7 @@
         "https://openalex.org/A5014657720",
         "https://openalex.org/A5035537771",
         "https://openalex.org/A5044235421",
-        "https://openalex.org/A5104094821"
+        "https://openalex.org/A5085007251"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -21862,13 +21862,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.1644,
+      "fwci": 2.1572,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86044222,
+        "value": 0.86017366,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22273,7 +22273,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2024-01-03T00:00:00"
     },
     {
@@ -22564,13 +22564,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8367,
+      "fwci": 5.8456,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9623985,
+        "value": 0.96249221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23194,13 +23194,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.021,
+      "fwci": 4.0155,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9446139,
+        "value": 0.94465833,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24723,13 +24723,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.0986,
+      "fwci": 1.0969,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71273558,
+        "value": 0.71269509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25248,13 +25248,11 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5070455488",
-            "display_name": "Faisal AlGhamdi",
+            "id": "https://openalex.org/A5068383258",
+            "display_name": "Faisal Al-Ghamdi",
             "type": null,
-            "orcid": "https://orcid.org/0000-0001-5966-888X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5966-888X"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -25518,7 +25516,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5070455488",
+        "https://openalex.org/A5068383258",
         "https://openalex.org/A5079903196"
       ],
       "corresponding_institution_ids": [
@@ -25534,13 +25532,13 @@
         "currency": "USD",
         "value_usd": 2320
       },
-      "fwci": 1.3831,
+      "fwci": 1.3728,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77511151,
+        "value": 0.77369976,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26771,7 +26769,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2024-01-28T00:00:00"
     },
     {
@@ -27162,13 +27160,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.8712,
+      "fwci": 0.8658,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65704659,
+        "value": 0.65517749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28538,13 +28536,13 @@
         "value_usd": 2480
       },
       "apc_paid": null,
-      "fwci": 0.7408,
+      "fwci": 0.7402,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65237237,
+        "value": 0.6523149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29191,13 +29189,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8319,
+      "fwci": 0.8311,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67806041,
+        "value": 0.67802448,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30389,13 +30387,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 0.8713,
+      "fwci": 0.8656,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6459717,
+        "value": 0.64369821,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31211,13 +31209,13 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 1.2522,
+      "fwci": 1.0712,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75690099,
+        "value": 0.73189139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31633,10 +31631,10 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 2
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2018-09-07T00:00:00"
     },
     {
@@ -31988,13 +31986,13 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.7117,
+      "fwci": 0.7106,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.5608365,
+        "value": 0.56051965,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33330,13 +33328,13 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.7257,
+      "fwci": 0.7253,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57492252,
+        "value": 0.57478776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34071,13 +34069,13 @@
         "value_usd": 3280
       },
       "apc_paid": null,
-      "fwci": 0.5647,
+      "fwci": 0.5685,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.500556,
+        "value": 0.50237643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34940,13 +34938,13 @@
         "value_usd": 3560
       },
       "apc_paid": null,
-      "fwci": 0.686,
+      "fwci": 0.6843,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60872076,
+        "value": 0.60809834,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35717,13 +35715,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.021,
+      "fwci": 1.0199,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72329087,
+        "value": 0.72312432,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36369,13 +36367,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7493,
+      "fwci": 0.7483,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.61459027,
+        "value": 0.61430948,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36930,13 +36928,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7954,
+      "fwci": 0.7932,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59372752,
+        "value": 0.59370509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38379,7 +38377,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6635,
+      "fwci": 1.6625,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
@@ -39584,13 +39582,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2774,
+      "fwci": 0.277,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41153456,
+        "value": 0.41084372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40109,13 +40107,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.1452,
+      "fwci": 0.1443,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32529599,
+        "value": 0.32170374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40949,13 +40947,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 0.3265,
+      "fwci": 0.3262,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45954812,
+        "value": 0.45930786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41646,13 +41644,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4015,
+      "fwci": 1.3989,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73977087,
+        "value": 0.7398773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43197,13 +43195,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3735,
+      "fwci": 0.3729,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42788492,
+        "value": 0.42759051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44331,13 +44329,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6452,
+      "fwci": 3.6486,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88392857,
+        "value": 0.88412564,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45279,13 +45277,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8575,
+      "fwci": 0.8541,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63105836,
+        "value": 0.63070847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46439,13 +46437,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4985,
+      "fwci": 1.4966,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77714857,
+        "value": 0.77670549,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47194,13 +47192,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2429,
+      "fwci": 1.2451,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70818218,
+        "value": 0.70900322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47739,13 +47737,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7218,
+      "fwci": 0.7215,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58339623,
+        "value": 0.58289375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58827,8 +58825,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
@@ -60072,7 +60070,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2965871639",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2019-08-13T00:00:00"
     },
     {

@@ -680,13 +680,13 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 7.0248,
+      "fwci": 7.018,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 64,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98663471,
+        "value": 0.9865413,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1225,8 +1225,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3147913709.pdf",
@@ -1848,13 +1848,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 6.2823,
+      "fwci": 6.2664,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 48,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97838537,
+        "value": 0.97820667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2169,8 +2169,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -2588,13 +2588,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 6.0149,
+      "fwci": 5.9998,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 45,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97607611,
+        "value": 0.97608274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3000,8 +3000,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -3434,13 +3434,13 @@
         "currency": "USD",
         "value_usd": 4020
       },
-      "fwci": 2.0245,
+      "fwci": 2.0231,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84964487,
+        "value": 0.84944384,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3930,8 +3930,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4306251871.pdf",
@@ -5168,13 +5168,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.2571,
+      "fwci": 4.2504,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 39,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95573958,
+        "value": 0.95565284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5545,8 +5545,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -6017,13 +6017,13 @@
         "currency": "CHF",
         "value_usd": 2094
       },
-      "fwci": 3.8451,
+      "fwci": 3.8391,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 36,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94545974,
+        "value": 0.94527979,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6477,8 +6477,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4225129549.pdf",
@@ -7777,13 +7777,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.86,
+      "fwci": 4.8495,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 35,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9701924,
+        "value": 0.97009569,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8169,8 +8169,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -9015,13 +9015,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.4434,
+      "fwci": 4.4339,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 32,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96490878,
+        "value": 0.96471292,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9314,8 +9314,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -9857,13 +9857,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.01,
+      "fwci": 3.9999,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94873453,
+        "value": 0.94856404,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10128,8 +10128,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -10602,13 +10602,13 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 3.888,
+      "fwci": 3.8796,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 28,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95214834,
+        "value": 0.95175439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10910,8 +10910,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -11425,13 +11425,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 4.9191,
+      "fwci": 4.9028,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96007519,
+        "value": 0.95998568,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11787,8 +11787,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -12722,13 +12722,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 4.7223,
+      "fwci": 4.7066,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 24,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95738967,
+        "value": 0.95712112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13008,8 +13008,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -13564,13 +13564,13 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 3.7385,
+      "fwci": 3.7261,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93617402,
+        "value": 0.9360845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13819,8 +13819,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -14741,13 +14741,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.7385,
+      "fwci": 3.7261,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93617402,
+        "value": 0.9360845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15015,8 +15015,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 134,
@@ -15495,13 +15495,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.5074,
+      "fwci": 7.4717,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98085881,
+        "value": 0.98069269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15757,8 +15757,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -17194,13 +17194,13 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.9085,
+      "fwci": 2.8978,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92261561,
+        "value": 0.92206383,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17515,8 +17515,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -18096,13 +18096,13 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 3.345,
+      "fwci": 3.3339,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92346254,
+        "value": 0.92292543,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18430,8 +18430,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -18768,8 +18768,8 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
@@ -18823,13 +18823,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.322,
+      "fwci": 6.292,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 16,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97264335,
+        "value": 0.97230926,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19076,8 +19076,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 134,
@@ -20146,7 +20146,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2025-03-20T00:00:00"
     },
     {
@@ -20544,13 +20544,13 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.0829,
+      "fwci": 2.0784,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8544512,
+        "value": 0.8539673,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20953,8 +20953,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -21933,13 +21933,13 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.3728,
+      "fwci": 1.3729,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76322021,
+        "value": 0.76281369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22226,9 +22226,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927,
           "display_name": "Climate action",
-          "score": 0.821399986743927
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -22241,8 +22241,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -22519,8 +22519,8 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
@@ -22571,7 +22571,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5104094821"
+        "https://openalex.org/A5085007251"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -22586,13 +22586,13 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 5.2002,
+      "fwci": 5.1755,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97292345,
+        "value": 0.97278773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22927,8 +22927,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408588305.pdf",
@@ -23764,7 +23764,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2025-03-19T00:00:00"
     },
     {
@@ -24018,13 +24018,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3386,
+      "fwci": 1.3402,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79753541,
+        "value": 0.79812207,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24298,22 +24298,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.571399986743927,
           "display_name": "Affordable and clean energy",
-          "score": 0.571399986743927
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -25142,13 +25142,13 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 5.1783,
+      "fwci": 5.1122,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95915956,
+        "value": 0.95850622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25524,8 +25524,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -26430,13 +26430,13 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.1016,
+      "fwci": 1.0983,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70421616,
+        "value": 0.70325106,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26832,14 +26832,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -26857,8 +26857,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4400654836.pdf",
@@ -28009,8 +28009,8 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
@@ -28066,13 +28066,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4977,
+      "fwci": 3.4503,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93904672,
+        "value": 0.93824647,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28424,8 +28424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -28923,7 +28923,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29242,13 +29242,13 @@
         "value_usd": 4260
       },
       "apc_paid": null,
-      "fwci": 1.5312,
+      "fwci": 1.5252,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7804207,
+        "value": 0.77946093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29515,9 +29515,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -29530,8 +29530,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -30105,13 +30105,13 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 7.3483,
+      "fwci": 7.2924,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97402979,
+        "value": 0.97372658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30660,8 +30660,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7133693243.pdf",
@@ -31545,13 +31545,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.1585,
+      "fwci": 3.1536,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92423377,
+        "value": 0.92415303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31861,8 +31861,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -32500,13 +32500,13 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 2.3345,
+      "fwci": 2.3309,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87388159,
+        "value": 0.87342977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33026,8 +33026,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4292081009.pdf",
@@ -34090,13 +34090,13 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.9225,
+      "fwci": 1.9196,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83913954,
+        "value": 0.83888466,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34469,8 +34469,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
@@ -35790,13 +35790,13 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.2095,
+      "fwci": 1.2088,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71594125,
+        "value": 0.71560437,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36103,8 +36103,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -36509,13 +36509,13 @@
         "value_usd": 1990
       },
       "apc_paid": null,
-      "fwci": 0.2596,
+      "fwci": 0.2594,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41295763,
+        "value": 0.41267822,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36859,8 +36859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972228046.pdf",
@@ -37431,13 +37431,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.969,
+      "fwci": 1.9636,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83349402,
+        "value": 0.83254603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37664,8 +37664,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -38225,13 +38225,13 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.5106,
+      "fwci": 1.5082,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78612222,
+        "value": 0.78549676,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38602,8 +38602,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -39897,13 +39897,13 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 0.4719,
+      "fwci": 0.4712,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.55151459,
+        "value": 0.55120648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40282,8 +40282,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -40826,13 +40826,13 @@
         "currency": "USD",
         "value_usd": 1030
       },
-      "fwci": 1.3265,
+      "fwci": 1.3231,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76053443,
+        "value": 0.75983011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41209,22 +41209,22 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6618000268936157,
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5378999710083008,
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5378999710083008
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -42190,8 +42190,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-4872-6201",
             "observed_orcids": [
@@ -42288,7 +42288,7 @@
         "https://openalex.org/A5014657720",
         "https://openalex.org/A5035537771",
         "https://openalex.org/A5044235421",
-        "https://openalex.org/A5104094821"
+        "https://openalex.org/A5085007251"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -42299,13 +42299,13 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.1644,
+      "fwci": 2.1572,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86044222,
+        "value": 0.86017366,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42613,8 +42613,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -42710,7 +42710,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2024-01-03T00:00:00"
     },
     {
@@ -42984,13 +42984,13 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 0.6268,
+      "fwci": 0.6218,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57374738,
+        "value": 0.57078832,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43282,17 +43282,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -44384,13 +44384,13 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 0.6249,
+      "fwci": 0.6227,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56158358,
+        "value": 0.56045123,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44680,8 +44680,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -46083,8 +46083,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2834067065.pdf",
@@ -47352,13 +47352,13 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 1.3079,
+      "fwci": 1.3044,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75809043,
+        "value": 0.7576314,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47450,32 +47450,42 @@
         {
           "id": "https://openalex.org/keywords/natural-radioactivity",
           "display_name": "natural radioactivity",
-          "score": 0.7929999828338623
+          "score": 0.7699999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/rock-units",
+          "display_name": "rock units",
+          "score": 0.578000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/potassium",
+          "display_name": "potassium",
+          "score": 0.4309999942779541
         },
         {
           "id": "https://openalex.org/keywords/radium-equivalent",
           "display_name": "radium equivalent",
-          "score": 0.8410000205039978
+          "score": 0.8370000123977661
         },
         {
           "id": "https://openalex.org/keywords/absorbed-dose-rate",
           "display_name": "absorbed dose rate",
-          "score": 0.902999997138977
+          "score": 0.9200000166893005
         },
         {
           "id": "https://openalex.org/keywords/annual-effective-dose-rate",
           "display_name": "annual effective dose rate",
-          "score": 0.8889999985694885
+          "score": 0.8820000290870667
         },
         {
           "id": "https://openalex.org/keywords/respiratory-dysfunction",
           "display_name": "respiratory dysfunction",
-          "score": 0.4099999964237213
+          "score": 0.4650000035762787
         },
         {
           "id": "https://openalex.org/keywords/northeast-nigeria",
           "display_name": "North-East Nigeria",
-          "score": 0.5889999866485596
+          "score": 0.5929999947547913
         }
       ],
       "concepts": [
@@ -47758,8 +47768,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4403001018.pdf",
@@ -48608,7 +48618,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2024-10-01T00:00:00"
     },
     {
@@ -49007,13 +49017,13 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 1.0265,
+      "fwci": 1.0228,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67471098,
+        "value": 0.67356538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49269,8 +49279,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 121,
@@ -49799,13 +49809,13 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 0.6796,
+      "fwci": 0.6774,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56885422,
+        "value": 0.56774931,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50122,8 +50132,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4413826908.pdf",
@@ -50818,13 +50828,13 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.3867,
+      "fwci": 1.3801,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74518187,
+        "value": 0.74362106,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51233,8 +51243,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -51564,8 +51574,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5122163086",
-            "display_name": "Abduljamiu O. Amao",
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu Olalekan Amao",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
@@ -51666,18 +51676,18 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8024,
+      "fwci": 5.7455,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94629866,
+        "value": 0.94525248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 97
       },
       "biblio": {
@@ -52053,8 +52063,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -52178,7 +52188,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-02-11T00:00:00"
     },
     {
@@ -52350,13 +52360,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.423,
+      "fwci": 0.4268,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57395926,
+        "value": 0.57655396,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52687,17 +52697,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.9789999723434448,
           "display_name": "Clean water and sanitation",
-          "score": 0.9789999723434448
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53346,13 +53356,13 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 0.5947,
+      "fwci": 0.5937,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56310841,
+        "value": 0.56285797,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53702,14 +53712,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 1,
           "display_name": "Clean water and sanitation",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.807699978351593,
           "display_name": "Responsible consumption and production",
-          "score": 0.807699978351593
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -53722,8 +53732,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -54229,19 +54239,19 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 0.3698,
+      "fwci": 0.3661,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45448975,
+        "value": 0.44941467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 92,
-        "max": 96
+        "max": 95
       },
       "biblio": {
         "volume": "38",
@@ -54520,14 +54530,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9090999960899353,
           "display_name": "Affordable and clean energy",
-          "score": 0.9090999960899353
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -54540,8 +54550,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -55698,13 +55708,13 @@
         "value_usd": 3270
       },
       "apc_paid": null,
-      "fwci": 0.869,
+      "fwci": 0.8659,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58410795,
+        "value": 0.58350825,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55983,8 +55993,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -56531,8 +56541,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57177,13 +57187,13 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 0.2089,
+      "fwci": 0.2073,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37458564,
+        "value": 0.37117904,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57522,22 +57532,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927,
           "display_name": "Climate action",
-          "score": 0.821399986743927
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -58839,13 +58849,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2329,
+      "fwci": 3.2435,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89239882,
+        "value": 0.89193601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59095,8 +59105,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -59894,17 +59904,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8571000099182129,
           "display_name": "Clean water and sanitation",
-          "score": 0.8571000099182129
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2969851177.pdf",
@@ -60779,13 +60789,13 @@
         "currency": "USD",
         "value_usd": 3600
       },
-      "fwci": 0.8491,
+      "fwci": 0.8462,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60821697,
+        "value": 0.60760626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61136,8 +61146,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -62193,13 +62203,13 @@
         "value_usd": 3810
       },
       "apc_paid": null,
-      "fwci": 2.0821,
+      "fwci": 2.0622,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78643022,
+        "value": 0.78536445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62568,8 +62578,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -63395,8 +63405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64781,17 +64791,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 1,
           "display_name": "Clean water and sanitation",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65450,8 +65460,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66104,8 +66114,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -67132,12 +67142,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5120350283",
+            "id": "https://openalex.org/A5011772444",
             "display_name": "Usman Abubakar",
             "type": null,
-            "orcid": "https://orcid.org/0009-0007-2100-8000",
+            "orcid": "https://orcid.org/0000-0003-0203-0038",
             "observed_orcids": [
-              "https://orcid.org/0009-0007-2100-8000"
+              "https://orcid.org/0000-0003-0203-0038"
             ]
           },
           "acted_on_behalf_of": [],
@@ -68102,9 +68112,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536,
           "display_name": "Climate action",
-          "score": 0.46149998903274536
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -68130,8 +68140,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -68262,7 +68272,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7140201938",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-03-25T00:00:00"
     },
     {
@@ -68315,8 +68325,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -68908,8 +68918,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -68954,8 +68964,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -68986,8 +68996,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -70046,7 +70056,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7162865535",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-05-31T00:00:00"
     },
     {
@@ -70773,9 +70783,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -70793,8 +70803,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 122,
@@ -71733,8 +71743,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -72004,8 +72014,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5122163086",
-            "display_name": "Abduljamiu O. Amao",
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu Olalekan Amao",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-8203-851X",
             "observed_orcids": [
@@ -72437,8 +72447,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -72532,7 +72542,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7214226277",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-09-25T00:00:00"
     },
     {
@@ -73222,17 +73232,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73977,11 +73987,13 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5159296675",
-            "display_name": "Musa B. Usman",
+            "id": "https://openalex.org/A5032123306",
+            "display_name": "Musa Bappah Usman",
             "type": null,
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-9989-6115",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9989-6115"
+            ]
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -74406,9 +74418,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -74439,8 +74451,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -74549,7 +74561,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7223206128",
       "counts_by_year": [],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-26T09:34:50.682384",
       "created_date": "2026-10-23T00:00:00"
     }
   ]
