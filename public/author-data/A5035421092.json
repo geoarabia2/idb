@@ -17,7 +17,7 @@
       "Osman, Mutasim"
     ],
     "full_name": "Mutasim Sami Osman",
-    "works_count": 61,
+    "works_count": 60,
     "cited_by_count": 91,
     "summary_stats": {
       "2yr_mean_citedness": 0,
@@ -135,7 +135,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "count": 26,
+        "count": 25,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -152,7 +152,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "count": 23,
+        "count": 22,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -220,12 +220,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000398,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000397,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -237,12 +237,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000397,
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "value": 0.0000383,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -285,16 +285,16 @@
         "score": 0.9279000163078308
       },
       {
-        "id": "17409809",
-        "wikidata": "https://www.wikidata.org/wiki/Q161764",
-        "display_name": "Geochemistry",
-        "score": 0.8224999904632568
-      },
-      {
         "id": "151730666",
         "wikidata": "https://www.wikidata.org/wiki/Q7205",
         "display_name": "Paleontology",
         "score": 0.7024068832397461
+      },
+      {
+        "id": "17409809",
+        "wikidata": "https://www.wikidata.org/wiki/Q161764",
+        "display_name": "Geochemistry",
+        "score": 0.699417233467102
       },
       {
         "id": "114793014",
@@ -350,7 +350,7 @@
         "year": 2021,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 2
+        "cited_by_count": 3
       },
       {
         "year": 2022,
@@ -372,15 +372,15 @@
       },
       {
         "year": 2025,
-        "works_count": 22,
-        "oa_works_count": 18,
+        "works_count": 21,
+        "oa_works_count": 17,
         "cited_by_count": 16
       },
       {
         "year": 2026,
         "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 21
+        "cited_by_count": 20
       }
     ],
     "display_name_alternatives": [
@@ -396,7 +396,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5035421092",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5035421092",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1108,8 +1108,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 160,
@@ -2042,8 +2042,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -2961,8 +2961,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -4203,13 +4203,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4152,
+      "fwci": 2.4071,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87812161,
+        "value": 0.87707867,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4566,8 +4566,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -4693,7 +4693,7 @@
         "https://openalex.org/W7048061707"
       ],
       "related_works": [
-        "https://openalex.org/W6939714890",
+        "https://openalex.org/W4407035309",
         "https://openalex.org/W6921213823",
         "https://openalex.org/W6939319468",
         "https://openalex.org/W6977430847",
@@ -5464,7 +5464,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-04-18T00:00:00"
     },
     {
@@ -6097,8 +6097,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -6598,13 +6598,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3801,
+      "fwci": 1.3755,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74362106,
+        "value": 0.74255074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6801,7 +6801,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 4,
+      "locations_count": 5,
       "locations": [
         {
           "id": "doi:10.1080/00206814.2025.2456493",
@@ -6912,6 +6912,37 @@
           "raw_type": "Text"
         },
         {
+          "id": "doi:10.6084/m9.figshare.28323078",
+          "doi": "https://doi.org/10.6084/m9.figshare.28323078",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.28323078",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article-journal"
+        },
+        {
           "id": "doi:10.6084/m9.figshare.28323078.v1",
           "doi": "https://doi.org/10.6084/m9.figshare.28323078.v1",
           "is_oa": true,
@@ -6993,8 +7024,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407035309.pdf",
@@ -7824,7 +7855,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-02-01T00:00:00"
     },
     {
@@ -8215,13 +8246,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.8658,
+      "fwci": 0.8636,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 15,
+      "cited_by_count": 16,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65517749,
+        "value": 0.65456156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8511,8 +8542,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -9309,7 +9340,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2020,
@@ -9328,7 +9359,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-11-30T00:00:00"
     },
     {
@@ -9844,8 +9875,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -10526,8 +10557,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -11569,8 +11600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -11702,9 +11733,17 @@
         "raw_source_name": "IPTC Summit on AI for the Energy Industry",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240126501",
+          "display_name": "IPTC Summit on AI for the Energy Industry 2026",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W7123355297"
+        "https://openalex.org/W7123355297",
+        "https://openalex.org/W7240126501"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -12027,13 +12066,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 17.4632,
+      "fwci": 17.6667,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95363253,
+        "value": 0.95416667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12425,17 +12464,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.428600013256073
+          "score": 0.428600013256073,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -13412,7 +13451,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-01-14T00:00:00"
     },
     {
@@ -14176,8 +14215,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -14710,8 +14749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -15621,8 +15660,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15696,9 +15735,17 @@
         "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240118344",
+          "display_name": "SPE Middle East Oil & Gas Show and Conference 2021",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4200582648"
+        "https://openalex.org/W4200582648",
+        "https://openalex.org/W7240118344"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -16291,8 +16338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -17287,7 +17334,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -17777,8 +17824,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2028898510.pdf",
@@ -18394,9 +18441,17 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240145420",
+          "display_name": "SPE Middle East Oil and Gas Show and Conference 2019",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2920852706"
+        "https://openalex.org/W2920852706",
+        "https://openalex.org/W7240145420"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -18635,13 +18690,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1053,
+      "fwci": 1.1037,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68990704,
+        "value": 0.68957503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18908,8 +18963,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -19851,7 +19906,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-03-22T00:00:00"
     },
     {
@@ -19897,9 +19952,17 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240145420",
+          "display_name": "SPE Middle East Oil and Gas Show and Conference 2019",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2921146897"
+        "https://openalex.org/W2921146897",
+        "https://openalex.org/W7240145420"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -20140,13 +20203,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1053,
+      "fwci": 1.1037,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68990704,
+        "value": 0.68957503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20454,8 +20517,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -21112,7 +21175,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-03-22T00:00:00"
     },
     {
@@ -21491,8 +21554,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22146,8 +22209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22594,8 +22657,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23519,8 +23582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -24275,8 +24338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24680,8 +24743,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25032,8 +25095,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25420,8 +25483,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25885,8 +25948,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26956,8 +27019,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -27840,8 +27903,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28324,8 +28387,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28755,8 +28818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29660,8 +29723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -30595,8 +30658,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312882018.pdf",
@@ -30605,7 +30668,7 @@
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W6939714890",
+        "https://openalex.org/W4407035309",
         "https://openalex.org/W2174852206",
         "https://openalex.org/W2320782374",
         "https://openalex.org/W1968135991",
@@ -30619,7 +30682,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4312882018",
       "counts_by_year": [],
-      "updated_date": "2026-11-24T14:10:38.155754",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2023-01-05T00:00:00"
     },
     {
@@ -31003,8 +31066,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32071,8 +32134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32411,8 +32474,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32936,8 +32999,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562408.pdf",
@@ -33522,8 +33585,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34966,8 +35029,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -35888,8 +35951,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37111,8 +37174,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -37688,8 +37751,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38744,8 +38807,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -39424,8 +39487,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -40221,8 +40284,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 180,

@@ -23,10 +23,10 @@
     ],
     "full_name": "BABALOLA, LAMEED OLABODE",
     "works_count": 75,
-    "cited_by_count": 696,
+    "cited_by_count": 697,
     "summary_stats": {
       "2yr_mean_citedness": 4,
-      "h_index": 15,
+      "h_index": 16,
       "i10_index": 30
     },
     "ids": {
@@ -454,7 +454,7 @@
         "year": 2021,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 61
+        "cited_by_count": 62
       },
       {
         "year": 2022,
@@ -505,7 +505,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044235421",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5044235421",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1117,8 +1117,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -2228,8 +2228,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -3022,8 +3022,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -3814,8 +3814,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -4600,8 +4600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -5206,17 +5206,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -6316,13 +6316,13 @@
         "currency": "CHF",
         "value_usd": 1824
       },
-      "fwci": 2.8373,
+      "fwci": 2.8326,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 26,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89351892,
+        "value": 0.89323348,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6810,8 +6810,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2988910414.pdf",
@@ -8316,8 +8316,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -9387,8 +9387,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -9885,13 +9885,13 @@
         "currency": "USD",
         "value_usd": 0
       },
-      "fwci": 1.6083,
+      "fwci": 1.6036,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78890118,
+        "value": 0.78841356,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10337,8 +10337,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3170579962.pdf",
@@ -11708,8 +11708,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -12424,8 +12424,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -12797,7 +12797,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -12853,13 +12853,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.234,
+      "fwci": 1.2317,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73924629,
+        "value": 0.7389233,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13136,8 +13136,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -13216,7 +13216,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-06-13T00:00:00"
     },
     {
@@ -13713,8 +13713,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14500,8 +14500,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15569,8 +15569,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -15796,13 +15796,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7799,
+      "fwci": 0.7784,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66789785,
+        "value": 0.66730058,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16189,8 +16189,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2974607363.pdf",
@@ -17547,8 +17547,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -18122,8 +18122,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -19076,17 +19076,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1952020586.pdf",
@@ -20381,8 +20381,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -21312,9 +21312,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21340,8 +21340,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -22176,8 +22176,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -22859,8 +22859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22951,9 +22951,17 @@
         "raw_source_name": "SPE Europec featured at 82nd EAGE Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240126500",
+          "display_name": "SPE Europec featured at 82nd EAGE Conference and Exhibition 2021",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3205476876"
+        "https://openalex.org/W3205476876",
+        "https://openalex.org/W7240126500"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -23194,7 +23202,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0155,
+      "fwci": 4.0142,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
@@ -23518,8 +23526,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -24409,7 +24417,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2021-10-25T00:00:00"
     },
     {
@@ -24582,7 +24590,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -24723,13 +24731,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.0969,
+      "fwci": 1.0948,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71269509,
+        "value": 0.71214864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25082,8 +25090,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -25168,7 +25176,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-09-24T00:00:00"
     },
     {
@@ -25962,8 +25970,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -27160,13 +27168,13 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.8658,
+      "fwci": 0.8636,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 15,
+      "cited_by_count": 16,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65517749,
+        "value": 0.65456156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27456,8 +27464,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -28254,7 +28262,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2020,
@@ -28273,7 +28281,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-11-30T00:00:00"
     },
     {
@@ -28835,9 +28843,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -28855,8 +28863,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -29420,8 +29428,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -30762,8 +30770,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -31552,8 +31560,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -31986,13 +31994,13 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.7106,
+      "fwci": 0.7083,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56051965,
+        "value": 0.55926279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32434,8 +32442,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
@@ -33646,8 +33654,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -34422,9 +34430,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -34455,8 +34463,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 120,
@@ -35232,8 +35240,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -36009,8 +36017,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -36320,7 +36328,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -36367,7 +36375,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7483,
+      "fwci": 0.7478,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
@@ -36591,8 +36599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36624,7 +36632,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2021-08-02T00:00:00"
     },
     {
@@ -36674,9 +36682,17 @@
         "raw_source_name": "Abu Dhabi International Petroleum Exhibition &amp; Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240113186",
+          "display_name": "Abu Dhabi International Petroleum Exhibition & Conference 2019",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2983888933"
+        "https://openalex.org/W2983888933",
+        "https://openalex.org/W7240113186"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -36934,7 +36950,7 @@
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59370509,
+        "value": 0.59388019,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37278,8 +37294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -38092,7 +38108,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -38142,9 +38158,17 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240133616",
+          "display_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition 2016",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2473460885"
+        "https://openalex.org/W2473460885",
+        "https://openalex.org/W7240133616"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -38377,7 +38401,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6625,
+      "fwci": 1.661,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
@@ -38690,8 +38714,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -39414,7 +39438,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-07-22T00:00:00"
     },
     {
@@ -39835,8 +39859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40501,8 +40525,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -41259,8 +41283,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -41403,9 +41427,17 @@
         "raw_source_name": "Abu Dhabi International Petroleum Exhibition &amp; Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240143324",
+          "display_name": "Abu Dhabi International Petroleum Exhibition & Conference 2020",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3096661718"
+        "https://openalex.org/W3096661718",
+        "https://openalex.org/W7240143324"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -41597,7 +41629,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -41644,13 +41676,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3989,
+      "fwci": 1.3975,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7398773,
+        "value": 0.73957482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41952,8 +41984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -42711,7 +42743,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2020-11-09T00:00:00"
     },
     {
@@ -43495,8 +43527,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -44544,8 +44576,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44996,17 +45028,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45637,8 +45669,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -46196,9 +46228,17 @@
         "raw_source_name": "SPE Annual Technical Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129547",
+          "display_name": "SPE Annual Technical Conference and Exhibition 2021",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3201594478"
+        "https://openalex.org/W3201594478",
+        "https://openalex.org/W7240129547"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -46390,7 +46430,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -46437,7 +46477,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4966,
+      "fwci": 1.4955,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
@@ -46712,8 +46752,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -46972,7 +47012,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2021-09-27T00:00:00"
     },
     {
@@ -47416,17 +47456,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47496,9 +47536,17 @@
         "raw_source_name": "Day 2 Tue, February 22, 2022",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240122069",
+          "display_name": "International Petroleum Technology Conference 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4213208759"
+        "https://openalex.org/W4213208759",
+        "https://openalex.org/W7240122069"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -47690,7 +47738,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -47737,7 +47785,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7215,
+      "fwci": 0.7211,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
@@ -48065,8 +48113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -48415,7 +48463,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-02-24T00:00:00"
     },
     {
@@ -48774,8 +48822,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W23143290.pdf"
@@ -49344,8 +49392,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50561,8 +50609,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249843936.pdf",
@@ -51439,8 +51487,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52067,17 +52115,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53232,8 +53280,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53770,22 +53818,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54337,22 +54385,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54972,8 +55020,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -56054,8 +56102,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -57022,8 +57070,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -57797,17 +57845,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58912,7 +58960,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -59346,8 +59394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60070,7 +60118,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2965871639",
       "counts_by_year": [],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -60374,7 +60422,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -60929,8 +60977,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61721,7 +61769,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2965967419",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -62093,8 +62141,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62471,17 +62519,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62925,17 +62973,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63554,8 +63602,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64697,22 +64745,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6211000084877014
+          "score": 0.6211000084877014,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65146,8 +65194,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65449,7 +65497,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -66031,8 +66079,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66818,7 +66866,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3188718830",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2021-08-16T00:00:00"
     },
     {
@@ -66863,9 +66911,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240122069",
+          "display_name": "International Petroleum Technology Conference 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4212930944"
+        "https://openalex.org/W4212930944",
+        "https://openalex.org/W7240122069"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -67449,8 +67505,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -67818,7 +67874,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4212930944",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-02-24T00:00:00"
     },
     {
@@ -68290,8 +68346,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

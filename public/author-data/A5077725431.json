@@ -17,7 +17,7 @@
     ],
     "full_name": "ZIAD RAFIQ BEYDOUN",
     "works_count": 55,
-    "cited_by_count": 2230,
+    "cited_by_count": 2232,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 23,
@@ -248,7 +248,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000364,
+        "value": 0.0000365,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -480,13 +480,13 @@
         "year": 2019,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 69
+        "cited_by_count": 71
       },
       {
         "year": 2020,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 81
+        "cited_by_count": 82
       },
       {
         "year": 2021,
@@ -539,7 +539,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5077725431",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5077725431",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -666,13 +666,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.9518,
+      "fwci": 8.3214,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 401,
+      "cited_by_count": 402,
       "reviewed_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.97260274,
+        "value": 0.97413793,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1685,7 +1685,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 19
+          "cited_by_count": 20
         },
         {
           "year": 2019,
@@ -1720,7 +1720,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1923,13 +1923,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.413,
+      "fwci": 2.4111,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 164,
+      "cited_by_count": 165,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85356455,
+        "value": 0.85328185,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2790,7 +2790,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2018,
@@ -2821,7 +2821,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8060,13 +8060,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5158,
+      "fwci": 1.5124,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 88,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77601876,
+        "value": 0.77568996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21624,7 +21624,7 @@
       "fwci": 0,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 29,
+      "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0,
@@ -21984,8 +21984,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -22044,7 +22044,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2018,
@@ -22063,7 +22063,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23769,8 +23769,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.7778000235557556,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7778000235557556
         }
       ],
       "study_designs": [],
@@ -24018,13 +24018,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.218,
+      "fwci": 2.2984,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83611111,
+        "value": 0.84180199,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28294,13 +28294,13 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 0.471,
+      "fwci": 0.4695,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 12,
+      "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64415737,
+        "value": 0.6432146,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28577,7 +28577,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31869,8 +31869,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Partnerships for the goals",
-          "score": 0.5217000246047974,
-          "id": "https://metadata.un.org/sdg/17"
+          "id": "https://metadata.un.org/sdg/17",
+          "score": 0.5217000246047974
         }
       ],
       "study_designs": [],
@@ -33241,8 +33241,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life on land",
-          "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],

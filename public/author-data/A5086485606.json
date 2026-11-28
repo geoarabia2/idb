@@ -22,7 +22,7 @@
     ],
     "full_name": "ZÜHLKE, RAINER",
     "works_count": 53,
-    "cited_by_count": 1137,
+    "cited_by_count": 1140,
     "summary_stats": {
       "2yr_mean_citedness": 7.833333333333333,
       "h_index": 17,
@@ -218,7 +218,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000508,
+        "value": 0.0000509,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -430,7 +430,7 @@
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 48
+        "cited_by_count": 50
       },
       {
         "year": 2023,
@@ -442,7 +442,7 @@
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 74
+        "cited_by_count": 75
       },
       {
         "year": 2025,
@@ -474,7 +474,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5086485606",
-    "updated_date": "2026-11-25T10:29:20",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -3566,13 +3566,13 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.831,
+      "fwci": 1.8278,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 93,
+      "cited_by_count": 94,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84114391,
+        "value": 0.840569,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4053,7 +4053,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2023,
@@ -4104,7 +4104,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9608,13 +9608,13 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 5.8252,
+      "fwci": 5.8224,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 94,
+      "cited_by_count": 95,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96688453,
+        "value": 0.96687732,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10329,6 +10329,10 @@
           "cited_by_count": 1
         },
         {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
           "year": 2021,
           "cited_by_count": 3
         },
@@ -10369,7 +10373,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13296,10 +13300,10 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6634,
+      "fwci": 0.6621,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 41,
+      "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.64375,
@@ -14650,7 +14654,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2020,
@@ -14681,7 +14685,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19945,8 +19949,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -26837,13 +26841,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.875,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -27824,8 +27828,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -31405,8 +31409,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -38687,9 +38691,17 @@
         "raw_source_name": "Abu Dhabi International Petroleum Exhibition &amp; Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240140034",
+          "display_name": "Abu Dhabi International Petroleum Exhibition & Conference 2018",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2900447501"
+        "https://openalex.org/W2900447501",
+        "https://openalex.org/W7240140034"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -40112,7 +40124,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2900447501",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2018-11-16T00:00:00"
     },
     {
@@ -41300,9 +41312,17 @@
         "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240118344",
+          "display_name": "SPE Middle East Oil & Gas Show and Conference 2021",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4200187165"
+        "https://openalex.org/W4200187165",
+        "https://openalex.org/W7240118344"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -42609,7 +42629,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4200187165",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -44163,9 +44183,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414226490"
+        "https://openalex.org/W4414226490",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -45599,7 +45627,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414226490",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46108,8 +46136,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

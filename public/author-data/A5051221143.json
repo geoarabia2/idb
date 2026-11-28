@@ -730,13 +730,13 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 1.2811,
+      "fwci": 1.2789,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 38,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78735061,
+        "value": 0.78709698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2711,13 +2711,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6525,
+      "fwci": 1.6499,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 44,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80144529,
+        "value": 0.80115671,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4692,13 +4692,13 @@
         "value_usd": 1490
       },
       "apc_paid": null,
-      "fwci": 0.5508,
+      "fwci": 0.55,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64769443,
+        "value": 0.64734233,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5622,13 +5622,13 @@
         "currency": "USD",
         "value_usd": 3390
       },
-      "fwci": 0.8099,
+      "fwci": 0.807,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67461892,
+        "value": 0.6738021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5935,19 +5935,19 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 1
+          "display_name": "Responsible consumption and production"
         },
         {
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         },
         {
+          "score": 0.4943999946117401,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4943999946117401
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
@@ -12568,13 +12568,13 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.4535,
+      "fwci": 0.4515,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43561954,
+        "value": 0.43392857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19301,9 +19301,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.7811999917030334
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],

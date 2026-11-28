@@ -1601,13 +1601,13 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 5.5055,
+      "fwci": 5.4698,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96426454,
+        "value": 0.96391665,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3166,7 +3166,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -3226,13 +3226,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.3333,
+      "fwci": 1.328,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76766091,
+        "value": 0.76674685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4233,7 +4233,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2023-09-07T00:00:00"
     },
     {
@@ -4601,7 +4601,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -4714,13 +4714,13 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.765,
+      "fwci": 1.7591,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82517232,
+        "value": 0.82437276,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5092,7 +5092,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-06-18T00:00:00"
     },
     {
@@ -5448,13 +5448,13 @@
         "currency": "CHF",
         "value_usd": 1520
       },
-      "fwci": 0.653,
+      "fwci": 0.6525,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60959533,
+        "value": 0.60915626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6812,7 +6812,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -6863,13 +6863,13 @@
         "value_usd": 2495
       },
       "apc_paid": null,
-      "fwci": 1.0133,
+      "fwci": 1.0087,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66700965,
+        "value": 0.66544307,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7775,7 +7775,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-08-23T00:00:00"
     },
     {
@@ -8021,13 +8021,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 42.1734,
+      "fwci": 41.5398,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99424105,
+        "value": 0.99425287,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -9106,13 +9106,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 42.1734,
+      "fwci": 41.5398,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99424105,
+        "value": 0.99425287,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -10441,13 +10441,13 @@
         "currency": "CHF",
         "value_usd": 1901
       },
-      "fwci": 0.8967,
+      "fwci": 0.8934,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65721649,
+        "value": 0.65612614,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11759,9 +11759,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240122069",
+          "display_name": "International Petroleum Technology Conference 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4213059437"
+        "https://openalex.org/W4213059437",
+        "https://openalex.org/W7240122069"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -12909,7 +12917,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-02-24T00:00:00"
     },
     {
@@ -12958,9 +12966,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414232775"
+        "https://openalex.org/W4414232775",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -13328,13 +13344,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5555,
+      "fwci": 1.55,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71026943,
+        "value": 0.70967322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13645,13 +13661,13 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -14374,7 +14390,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14831,13 +14847,13 @@
         "currency": "USD",
         "value_usd": 3360
       },
-      "fwci": 1.2422,
+      "fwci": 1.2342,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70540215,
+        "value": 0.70445868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15269,13 +15285,13 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -15319,7 +15335,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 37,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W1967557681",
         "https://openalex.org/W1983800404",
@@ -15356,8 +15372,7 @@
         "https://openalex.org/W4408193068",
         "https://openalex.org/W4408485579",
         "https://openalex.org/W4409563181",
-        "https://openalex.org/W4411026345",
-        "https://openalex.org/W6939714890"
+        "https://openalex.org/W4411026345"
       ],
       "related_works": [
         "https://openalex.org/W4414232775",
@@ -16009,7 +16024,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-05-19T00:00:00"
     },
     {
@@ -17839,8 +17854,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -19128,7 +19143,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -19267,7 +19288,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7167183242",
       "counts_by_year": [],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-07-03T00:00:00"
     },
     {
@@ -19344,7 +19365,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
+        "oa_status": "gold",
         "oa_url": "https://link.springer.com/content/pdf/10.1007/s40789-025-00839-5.pdf",
         "any_repository_has_fulltext": false
       },
@@ -19751,11 +19772,15 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 0,
+        "value": 2240,
         "currency": "USD",
-        "value_usd": 0
+        "value_usd": 2240
       },
-      "apc_paid": null,
+      "apc_paid": {
+        "value": 2240,
+        "currency": "USD",
+        "value_usd": 2240
+      },
       "fwci": 0,
       "is_authors_truncated": false,
       "has_fulltext": true,
@@ -20128,8 +20153,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -21035,7 +21060,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7171327959",
       "counts_by_year": [],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-07-27T00:00:00"
     },
     {

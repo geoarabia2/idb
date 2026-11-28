@@ -3341,13 +3341,13 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.5082,
+      "fwci": 1.5054,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78549676,
+        "value": 0.7850405,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6336,7 +6336,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -6431,13 +6431,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0305,
+      "fwci": 3.0212,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91229385,
+        "value": 0.91194119,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7669,7 +7669,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-02-27T00:00:00"
     },
     {
@@ -8765,13 +8765,13 @@
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 1.9662,
+      "fwci": 1.9535,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83063765,
+        "value": 0.82906996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11665,7 +11665,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5139916405",
-            "display_name": "BAHARUDIN FAHMI",
+            "display_name": "Baharudin Fahmi",
             "type": null,
             "orcid": null,
             "observed_orcids": []
@@ -11812,13 +11812,13 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.1782,
+      "fwci": 1.172,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70066519,
+        "value": 0.69921762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12211,7 +12211,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-02-09T00:00:00"
     },
     {
@@ -13427,7 +13427,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -13625,13 +13625,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2988,
+      "fwci": 1.2948,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7089955,
+        "value": 0.70822082,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14527,7 +14527,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-30T00:00:00"
     },
     {
@@ -14758,13 +14758,13 @@
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 0.3023,
+      "fwci": 0.301,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35554837,
+        "value": 0.35373377,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27311,7 +27311,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -27906,7 +27906,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4401966288",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-08-29T00:00:00"
     },
     {
@@ -27955,9 +27955,17 @@
         "raw_source_name": "ADIPEC",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240115224",
+          "display_name": "ADIPEC 2024",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4404013502"
+        "https://openalex.org/W4404013502",
+        "https://openalex.org/W7240115224"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -29317,7 +29325,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4404013502",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-11-04T00:00:00"
     },
     {
@@ -29366,9 +29374,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414226755"
+        "https://openalex.org/W4414226755",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -30540,7 +30556,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414226755",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30589,9 +30605,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414264351"
+        "https://openalex.org/W4414264351",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -30652,7 +30676,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -31912,7 +31936,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414264351",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33305,42 +33329,32 @@
         {
           "id": "https://openalex.org/keywords/hydrothermal-alteration",
           "display_name": "hydrothermal alteration",
-          "score": 0.9580000042915344
+          "score": 0.9559999704360962
         },
         {
           "id": "https://openalex.org/keywords/high-strain-zones",
           "display_name": "high-strain zones",
-          "score": 0.6980000138282776
+          "score": 0.7129999995231628
         },
         {
           "id": "https://openalex.org/keywords/co2-rich-fluids",
           "display_name": "CO2-rich fluids",
-          "score": 0.6790000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/stable-isotope-geochemistry",
-          "display_name": "stable isotope geochemistry",
-          "score": 0.6850000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/c-o-isotopes",
-          "display_name": "C-O isotopes",
-          "score": 0.6899999976158142
+          "score": 0.6959999799728394
         },
         {
           "id": "https://openalex.org/keywords/fluid-rock-interaction",
           "display_name": "fluid-rock interaction",
-          "score": 0.6769999861717224
+          "score": 0.6940000057220459
         },
         {
           "id": "https://openalex.org/keywords/permeability",
           "display_name": "permeability",
-          "score": 0.49900001287460327
+          "score": 0.5350000262260437
         },
         {
           "id": "https://openalex.org/keywords/arabian-shield",
           "display_name": "Arabian Shield",
-          "score": 0.8949999809265137
+          "score": 0.9039999842643738
         }
       ],
       "concepts": [
@@ -34476,7 +34490,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7165752919",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-06-25T00:00:00"
     },
     {
@@ -35612,7 +35626,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -36646,7 +36660,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7202131445",
       "counts_by_year": [],
-      "updated_date": "2026-11-23T12:01:36.302904",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-08-11T00:00:00"
     },
     {

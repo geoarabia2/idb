@@ -824,8 +824,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1498,8 +1498,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -2320,8 +2320,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -2966,8 +2966,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -3433,8 +3433,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4216,7 +4216,8 @@
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
-        "crossref"
+        "crossref",
+        "datacite"
       ],
       "open_access": {
         "is_oa": true,
@@ -4407,13 +4408,13 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.3902,
+      "fwci": 0.3892,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66479878,
+        "value": 0.66428644,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4658,7 +4659,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1007/s12517-012-0656-9",
@@ -4732,6 +4733,68 @@
           "is_published": false,
           "raw_source_name": "Arabian Journal of Geosciences, 6, 3989–3995, (2012-09-07)",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "doi:10.5281/zenodo.18206125",
+          "doi": "https://doi.org/10.5281/zenodo.18206125",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.18206125",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "JournalArticle"
+        },
+        {
+          "id": "doi:10.5281/zenodo.18206126",
+          "doi": "https://doi.org/10.5281/zenodo.18206126",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.18206126",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "JournalArticle"
         }
       ],
       "best_oa_location": {
@@ -4781,8 +4844,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -4801,10 +4864,10 @@
       ],
       "related_works": [
         "https://openalex.org/W4253110410",
-        "https://openalex.org/W7122721058",
+        "https://openalex.org/W2979672614",
         "https://openalex.org/W7117544881",
         "https://openalex.org/W6903662445",
-        "https://openalex.org/W7118178267",
+        "https://openalex.org/W2948483958",
         "https://openalex.org/W7117531083",
         "https://openalex.org/W7117760915",
         "https://openalex.org/W2993491221",
@@ -4835,7 +4898,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5250,8 +5313,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6002,13 +6065,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9527,
+      "fwci": 0.9501,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7724434,
+        "value": 0.77193668,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6507,8 +6570,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -7339,13 +7402,13 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.0118,
+      "fwci": 1.0093,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79620072,
+        "value": 0.79591164,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7752,8 +7815,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2169570507.pdf",
@@ -7772,7 +7835,7 @@
         "https://openalex.org/W2955893822"
       ],
       "related_works": [
-        "https://openalex.org/W7121541647",
+        "https://openalex.org/W2106402102",
         "https://openalex.org/W2182012015",
         "https://openalex.org/W2944809997",
         "https://openalex.org/W2026768305",
@@ -8156,7 +8219,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8450,8 +8513,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9358,8 +9421,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9774,8 +9837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10722,8 +10785,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11964,8 +12027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -21,7 +21,7 @@
     ],
     "full_name": "Abdulkader M. Abed",
     "works_count": 63,
-    "cited_by_count": 1813,
+    "cited_by_count": 1816,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 26,
@@ -566,7 +566,7 @@
         "year": 2016,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 122
+        "cited_by_count": 123
       },
       {
         "year": 2017,
@@ -578,7 +578,7 @@
         "year": 2018,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 75
+        "cited_by_count": 76
       },
       {
         "year": 2019,
@@ -626,7 +626,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 73
+        "cited_by_count": 74
       }
     ],
     "display_name_alternatives": [
@@ -645,7 +645,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5102809672",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5102809672",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -754,13 +754,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1285,
+      "fwci": 5.1232,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 136,
+      "cited_by_count": 137,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94746984,
+        "value": 0.94736401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2026,7 +2026,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2025,
@@ -2077,7 +2077,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4324,8 +4324,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.46149998903274536
         }
       ],
@@ -5329,13 +5329,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4353,
+      "fwci": 3.4324,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 68,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90590205,
+        "value": 0.90587053,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7659,13 +7659,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4046,
+      "fwci": 1.4039,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 68,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7549195,
+        "value": 0.75486904,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9116,13 +9116,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9932,
+      "fwci": 2.9883,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 41,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89932886,
+        "value": 0.89915104,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13192,8 +13192,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651
         }
       ],
@@ -14869,13 +14869,13 @@
         "value_usd": 2790
       },
       "apc_paid": null,
-      "fwci": 0.8653,
+      "fwci": 1.0363,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 32,
+      "cited_by_count": 33,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72917235,
+        "value": 0.75229959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15302,8 +15302,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.8999999761581421
         }
       ],
@@ -15428,7 +15428,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2017,
@@ -15439,7 +15439,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18899,8 +18899,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 1
         }
       ],
@@ -20629,13 +20629,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.965499997138977
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.7811999917030334
         }
       ],
@@ -20946,13 +20946,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.7208,
+      "fwci": 0.7203,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.61851171,
+        "value": 0.61830306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21295,7 +21295,7 @@
       ],
       "related_works": [
         "https://openalex.org/W2097185532",
-        "https://openalex.org/W6939478822",
+        "https://openalex.org/W4401362486",
         "https://openalex.org/W1993173299",
         "https://openalex.org/W4410828119",
         "https://openalex.org/W2110801167",
@@ -21365,7 +21365,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26377,8 +26377,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.965499997138977
         }
       ],
@@ -31910,6 +31910,630 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1598555935",
+      "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
+      "title": "The Dramatic Drop of the Dead Sea: Background, Rates, Impacts and Solutions",
+      "display_name": "The Dramatic Drop of the Dead Sea: Background, Rates, Impacts and Solutions",
+      "alternate_titles": [],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1598555935",
+        "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
+        "mag": "1598555935"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-642-14779-1_4",
+        "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-642-14779-1_4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210184122",
+          "display_name": "Environmental science and engineering",
+          "issn_l": "1863-5520",
+          "issn": [
+            "1863-5520",
+            "1863-5539"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Environmental Science and Engineering",
+        "raw_type": "book-chapter"
+      },
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W2505470961",
+          "display_name": "Macro-engineering Seawater in Unique Environments: Arid Lowlands and Water Bodies Rehabilitation",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
+      "lineage": [
+        "https://openalex.org/W1598555935",
+        "https://openalex.org/W2505470961"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050298293",
+            "display_name": "Shahrazad Abu Ghazleh",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-8781-7317",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8781-7317"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31512782",
+              "display_name": "Technische Universität Darmstadt",
+              "ror": "https://ror.org/05n911h24",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31512782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Shahrazad Abu Ghazleh",
+          "raw_affiliation_strings": [
+            "Darmstadt University of Technology, Darmstadt, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Darmstadt University of Technology, Darmstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I31512782"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Abdulkader M. Abed",
+          "raw_affiliation_strings": [
+            "University of Jordan, Amman, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5011018443",
+            "display_name": "Stephan Kempe",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-5122-4272",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5122-4272"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31512782",
+              "display_name": "Technische Universität Darmstadt",
+              "ror": "https://ror.org/05n911h24",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31512782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Stephan Kempe",
+          "raw_affiliation_strings": [
+            "Darmstadt University of Technology, Darmstadt, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Darmstadt University of Technology, Darmstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I31512782"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050298293"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I31512782"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.3003,
+      "is_authors_truncated": false,
+      "has_fulltext": false,
+      "cited_by_count": 14,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.91778687,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 95
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "77",
+        "last_page": "105"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11755",
+        "display_name": "Transboundary Water Resource Management",
+        "score": 0.6586999893188477,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11755",
+          "display_name": "Transboundary Water Resource Management",
+          "score": 0.6586999893188477,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12773",
+          "display_name": "Water Quality and Resources Studies",
+          "score": 0.05570000037550926,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13490",
+          "display_name": "Aquatic Ecosystems and Biodiversity",
+          "score": 0.034299999475479126,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dead-sea",
+          "display_name": "Dead Sea",
+          "score": 0.8029999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/water-level-decline",
+          "display_name": "water level decline",
+          "score": 0.7409999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/salinity",
+          "display_name": "salinity",
+          "score": 0.5260000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/epilimnion",
+          "display_name": "epilimnion",
+          "score": 0.8009999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/hypolimnion",
+          "display_name": "hypolimnion",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/pycnocline",
+          "display_name": "pycnocline",
+          "score": 0.8960000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/halite-precipitation",
+          "display_name": "halite precipitation",
+          "score": 0.6769999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/freshwater-input",
+          "display_name": "freshwater discharge",
+          "score": 0.5329999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/therapeutic-tourism",
+          "display_name": "therapeutic tourism",
+          "score": 0.6669999957084656
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C105859001",
+          "wikidata": "https://www.wikidata.org/wiki/Q932011",
+          "display_name": "Hypolimnion",
+          "level": 4,
+          "score": 0.8787484169006348
+        },
+        {
+          "id": "https://openalex.org/C115726729",
+          "wikidata": "https://www.wikidata.org/wiki/Q990066",
+          "display_name": "Epilimnion",
+          "level": 5,
+          "score": 0.8718516826629639
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.5867524743080139
+        },
+        {
+          "id": "https://openalex.org/C129513315",
+          "wikidata": "https://www.wikidata.org/wiki/Q179615",
+          "display_name": "Salinity",
+          "level": 2,
+          "score": 0.5062312483787537
+        },
+        {
+          "id": "https://openalex.org/C543218039",
+          "wikidata": "https://www.wikidata.org/wiki/Q660",
+          "display_name": "Magnesium",
+          "level": 2,
+          "score": 0.43527036905288696
+        },
+        {
+          "id": "https://openalex.org/C517785266",
+          "wikidata": "https://www.wikidata.org/wiki/Q703",
+          "display_name": "Potassium",
+          "level": 2,
+          "score": 0.4220197796821594
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0.41227617859840393
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.3615800440311432
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.24220669269561768
+        },
+        {
+          "id": "https://openalex.org/C142796444",
+          "wikidata": "https://www.wikidata.org/wiki/Q181394",
+          "display_name": "Nutrient",
+          "level": 2,
+          "score": 0.22239044308662415
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2127729058265686
+        },
+        {
+          "id": "https://openalex.org/C186699998",
+          "wikidata": "https://www.wikidata.org/wiki/Q156698",
+          "display_name": "Eutrophication",
+          "level": 3,
+          "score": 0.08441606163978577
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-642-14779-1_4",
+          "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-642-14779-1_4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210184122",
+            "display_name": "Environmental science and engineering",
+            "issn_l": "1863-5520",
+            "issn": [
+              "1863-5520",
+              "1863-5539"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Environmental Science and Engineering",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W79422033",
+        "https://openalex.org/W618473089",
+        "https://openalex.org/W625558410",
+        "https://openalex.org/W625735752",
+        "https://openalex.org/W1530414089",
+        "https://openalex.org/W1965772856",
+        "https://openalex.org/W1970971507",
+        "https://openalex.org/W1983597261",
+        "https://openalex.org/W1984512200",
+        "https://openalex.org/W1987273371",
+        "https://openalex.org/W1991411620",
+        "https://openalex.org/W1992838947",
+        "https://openalex.org/W2004246597",
+        "https://openalex.org/W2006914133",
+        "https://openalex.org/W2008225861",
+        "https://openalex.org/W2014070554",
+        "https://openalex.org/W2014208081",
+        "https://openalex.org/W2025998719",
+        "https://openalex.org/W2027692654",
+        "https://openalex.org/W2030963004",
+        "https://openalex.org/W2036943360",
+        "https://openalex.org/W2040046731",
+        "https://openalex.org/W2040272870",
+        "https://openalex.org/W2048444312",
+        "https://openalex.org/W2063501448",
+        "https://openalex.org/W2064936022",
+        "https://openalex.org/W2072416217",
+        "https://openalex.org/W2072620357",
+        "https://openalex.org/W2075186149",
+        "https://openalex.org/W2082197446",
+        "https://openalex.org/W2091435457",
+        "https://openalex.org/W2096927268",
+        "https://openalex.org/W2103386720",
+        "https://openalex.org/W2104505985",
+        "https://openalex.org/W2105180015",
+        "https://openalex.org/W2120653528",
+        "https://openalex.org/W2128069290",
+        "https://openalex.org/W2144207625",
+        "https://openalex.org/W2150581095",
+        "https://openalex.org/W2224782897",
+        "https://openalex.org/W2347012834",
+        "https://openalex.org/W2742025304",
+        "https://openalex.org/W2947307941",
+        "https://openalex.org/W4251984100",
+        "https://openalex.org/W7027696342"
+      ],
+      "related_works": [
+        "https://openalex.org/W2508337517",
+        "https://openalex.org/W2336115798",
+        "https://openalex.org/W4385310863",
+        "https://openalex.org/W2028757271",
+        "https://openalex.org/W4234008398",
+        "https://openalex.org/W4408475339",
+        "https://openalex.org/W2103521695",
+        "https://openalex.org/W2591961111",
+        "https://openalex.org/W2073937603",
+        "https://openalex.org/W2892094805"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1598555935",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-27T09:11:17.138145",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W322390929",
       "doi": "https://doi.org/10.1007/bf02537227",
       "title": "Microfacies and paleoenvironment of the Wadi Sir Formation (Upper Cretaceous), North Jordan",
@@ -32365,630 +32989,6 @@
         {
           "year": 2012,
           "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-25T09:40:18.809321",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1598555935",
-      "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
-      "title": "The Dramatic Drop of the Dead Sea: Background, Rates, Impacts and Solutions",
-      "display_name": "The Dramatic Drop of the Dead Sea: Background, Rates, Impacts and Solutions",
-      "alternate_titles": [],
-      "publication_year": 2010,
-      "publication_date": "2010-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1598555935",
-        "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
-        "mag": "1598555935"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-3-642-14779-1_4",
-        "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-3-642-14779-1_4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210184122",
-          "display_name": "Environmental science and engineering",
-          "issn_l": "1863-5520",
-          "issn": [
-            "1863-5520",
-            "1863-5539"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Environmental Science and Engineering",
-        "raw_type": "book-chapter"
-      },
-      "parent_works": [
-        {
-          "id": "https://openalex.org/W2505470961",
-          "display_name": "Macro-engineering Seawater in Unique Environments: Arid Lowlands and Water Bodies Rehabilitation",
-          "relationship": "volume",
-          "link_type": "volume"
-        }
-      ],
-      "lineage": [
-        "https://openalex.org/W1598555935",
-        "https://openalex.org/W2505470961"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5050298293",
-            "display_name": "Shahrazad Abu Ghazleh",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-8781-7317",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8781-7317"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I31512782",
-              "display_name": "Technische Universität Darmstadt",
-              "ror": "https://ror.org/05n911h24",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I31512782"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Shahrazad Abu Ghazleh",
-          "raw_affiliation_strings": [
-            "Darmstadt University of Technology, Darmstadt, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Darmstadt University of Technology, Darmstadt, Germany",
-              "institution_ids": [
-                "https://openalex.org/I31512782"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-7843-4218",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7843-4218"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Abdulkader M. Abed",
-          "raw_affiliation_strings": [
-            "University of Jordan, Amman, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5011018443",
-            "display_name": "Stephan Kempe",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-5122-4272",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5122-4272"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I31512782",
-              "display_name": "Technische Universität Darmstadt",
-              "ror": "https://ror.org/05n911h24",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I31512782"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Stephan Kempe",
-          "raw_affiliation_strings": [
-            "Darmstadt University of Technology, Darmstadt, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Darmstadt University of Technology, Darmstadt, Germany",
-              "institution_ids": [
-                "https://openalex.org/I31512782"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050298293"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I31512782"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 4.3003,
-      "is_authors_truncated": false,
-      "has_fulltext": false,
-      "cited_by_count": 13,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.91786047,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 95
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "77",
-        "last_page": "105"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11755",
-        "display_name": "Transboundary Water Resource Management",
-        "score": 0.6586999893188477,
-        "subfield": {
-          "id": "https://openalex.org/subfields/3312",
-          "display_name": "Sociology and Political Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/33",
-          "display_name": "Social Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11755",
-          "display_name": "Transboundary Water Resource Management",
-          "score": 0.6586999893188477,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3312",
-            "display_name": "Sociology and Political Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12773",
-          "display_name": "Water Quality and Resources Studies",
-          "score": 0.05570000037550926,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13490",
-          "display_name": "Aquatic Ecosystems and Biodiversity",
-          "score": 0.034299999475479126,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/dead-sea",
-          "display_name": "Dead Sea",
-          "score": 0.8029999732971191
-        },
-        {
-          "id": "https://openalex.org/keywords/water-level-decline",
-          "display_name": "water level decline",
-          "score": 0.7409999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/salinity",
-          "display_name": "salinity",
-          "score": 0.5260000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/epilimnion",
-          "display_name": "epilimnion",
-          "score": 0.8009999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/hypolimnion",
-          "display_name": "hypolimnion",
-          "score": 0.9959999918937683
-        },
-        {
-          "id": "https://openalex.org/keywords/pycnocline",
-          "display_name": "pycnocline",
-          "score": 0.8960000276565552
-        },
-        {
-          "id": "https://openalex.org/keywords/halite-precipitation",
-          "display_name": "halite precipitation",
-          "score": 0.6769999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/freshwater-input",
-          "display_name": "freshwater discharge",
-          "score": 0.5329999923706055
-        },
-        {
-          "id": "https://openalex.org/keywords/therapeutic-tourism",
-          "display_name": "therapeutic tourism",
-          "score": 0.6669999957084656
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C105859001",
-          "wikidata": "https://www.wikidata.org/wiki/Q932011",
-          "display_name": "Hypolimnion",
-          "level": 4,
-          "score": 0.8787484169006348
-        },
-        {
-          "id": "https://openalex.org/C115726729",
-          "wikidata": "https://www.wikidata.org/wiki/Q990066",
-          "display_name": "Epilimnion",
-          "level": 5,
-          "score": 0.8718516826629639
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.5867524743080139
-        },
-        {
-          "id": "https://openalex.org/C129513315",
-          "wikidata": "https://www.wikidata.org/wiki/Q179615",
-          "display_name": "Salinity",
-          "level": 2,
-          "score": 0.5062312483787537
-        },
-        {
-          "id": "https://openalex.org/C543218039",
-          "wikidata": "https://www.wikidata.org/wiki/Q660",
-          "display_name": "Magnesium",
-          "level": 2,
-          "score": 0.43527036905288696
-        },
-        {
-          "id": "https://openalex.org/C517785266",
-          "wikidata": "https://www.wikidata.org/wiki/Q703",
-          "display_name": "Potassium",
-          "level": 2,
-          "score": 0.4220197796821594
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0.41227617859840393
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.3615800440311432
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.24220669269561768
-        },
-        {
-          "id": "https://openalex.org/C142796444",
-          "wikidata": "https://www.wikidata.org/wiki/Q181394",
-          "display_name": "Nutrient",
-          "level": 2,
-          "score": 0.22239044308662415
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2127729058265686
-        },
-        {
-          "id": "https://openalex.org/C186699998",
-          "wikidata": "https://www.wikidata.org/wiki/Q156698",
-          "display_name": "Eutrophication",
-          "level": 3,
-          "score": 0.08441606163978577
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-3-642-14779-1_4",
-          "doi": "https://doi.org/10.1007/978-3-642-14779-1_4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-3-642-14779-1_4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210184122",
-            "display_name": "Environmental science and engineering",
-            "issn_l": "1863-5520",
-            "issn": [
-              "1863-5520",
-              "1863-5539"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310319965",
-            "host_organization_name": "Springer Nature",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Nature"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Environmental Science and Engineering",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 45,
-      "referenced_works": [
-        "https://openalex.org/W79422033",
-        "https://openalex.org/W618473089",
-        "https://openalex.org/W625558410",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W1530414089",
-        "https://openalex.org/W1965772856",
-        "https://openalex.org/W1970971507",
-        "https://openalex.org/W1983597261",
-        "https://openalex.org/W1984512200",
-        "https://openalex.org/W1987273371",
-        "https://openalex.org/W1991411620",
-        "https://openalex.org/W1992838947",
-        "https://openalex.org/W2004246597",
-        "https://openalex.org/W2006914133",
-        "https://openalex.org/W2008225861",
-        "https://openalex.org/W2014070554",
-        "https://openalex.org/W2014208081",
-        "https://openalex.org/W2025998719",
-        "https://openalex.org/W2027692654",
-        "https://openalex.org/W2030963004",
-        "https://openalex.org/W2036943360",
-        "https://openalex.org/W2040046731",
-        "https://openalex.org/W2040272870",
-        "https://openalex.org/W2048444312",
-        "https://openalex.org/W2063501448",
-        "https://openalex.org/W2064936022",
-        "https://openalex.org/W2072416217",
-        "https://openalex.org/W2072620357",
-        "https://openalex.org/W2075186149",
-        "https://openalex.org/W2082197446",
-        "https://openalex.org/W2091435457",
-        "https://openalex.org/W2096927268",
-        "https://openalex.org/W2103386720",
-        "https://openalex.org/W2104505985",
-        "https://openalex.org/W2105180015",
-        "https://openalex.org/W2120653528",
-        "https://openalex.org/W2128069290",
-        "https://openalex.org/W2144207625",
-        "https://openalex.org/W2150581095",
-        "https://openalex.org/W2224782897",
-        "https://openalex.org/W2347012834",
-        "https://openalex.org/W2742025304",
-        "https://openalex.org/W2947307941",
-        "https://openalex.org/W4251984100",
-        "https://openalex.org/W7027696342"
-      ],
-      "related_works": [
-        "https://openalex.org/W2508337517",
-        "https://openalex.org/W2336115798",
-        "https://openalex.org/W4385310863",
-        "https://openalex.org/W2028757271",
-        "https://openalex.org/W4234008398",
-        "https://openalex.org/W4408475339",
-        "https://openalex.org/W2103521695",
-        "https://openalex.org/W2591961111",
-        "https://openalex.org/W2073937603",
-        "https://openalex.org/W2892094805"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1598555935",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
         }
       ],
       "updated_date": "2026-11-25T09:40:18.809321",
@@ -42871,8 +42871,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 1
         }
       ],

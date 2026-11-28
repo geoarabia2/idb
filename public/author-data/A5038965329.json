@@ -14,7 +14,7 @@
     ],
     "full_name": "Vaslet, Denis",
     "works_count": 42,
-    "cited_by_count": 1797,
+    "cited_by_count": 1798,
     "summary_stats": {
       "2yr_mean_citedness": 0.5,
       "h_index": 22,
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000275,
+        "value": 0.0000276,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -448,7 +448,7 @@
         "year": 2021,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 73
+        "cited_by_count": 74
       },
       {
         "year": 2022,
@@ -492,7 +492,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5038965329",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -601,13 +601,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8583,
+      "fwci": 0.857,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 217,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66421749,
+        "value": 0.66421478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6341,13 +6341,13 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 3.0355,
+      "fwci": 3.0328,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 90,
+      "cited_by_count": 91,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91094148,
+        "value": 0.91106758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7040,7 +7040,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2020,
@@ -7079,7 +7079,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12410,13 +12410,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6018,
+      "fwci": 2.5996,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 65,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89371697,
+        "value": 0.89363369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14017,9 +14017,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7778000235557556,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -18604,13 +18604,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9998,
+      "fwci": 0.9979,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70964643,
+        "value": 0.70895091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18907,9 +18907,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -25053,13 +25053,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1998,
+      "fwci": 1.1975,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 25,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75230592,
+        "value": 0.7518768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27381,13 +27381,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2,
+      "fwci": 0.1996,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38297463,
+        "value": 0.38229066,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28255,13 +28255,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3999,
+      "fwci": 0.3992,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 10,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50787855,
+        "value": 0.50702599,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30649,13 +30649,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7998,
+      "fwci": 0.7983,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6614143,
+        "value": 0.66082772,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32739,13 +32739,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6449,
+      "fwci": 0.6424,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53331172,
+        "value": 0.53159006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

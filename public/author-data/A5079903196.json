@@ -21,7 +21,7 @@
     ],
     "full_name": "Israa S. Abu‐Mahfouz",
     "works_count": 91,
-    "cited_by_count": 933,
+    "cited_by_count": 934,
     "summary_stats": {
       "2yr_mean_citedness": 7.517241379310345,
       "h_index": 17,
@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.000181,
+        "value": 0.0001809,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -209,7 +209,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001583,
+        "value": 0.0001582,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -226,7 +226,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001452,
+        "value": 0.0001451,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -366,7 +366,7 @@
         "year": 2026,
         "works_count": 23,
         "oa_works_count": 15,
-        "cited_by_count": 312
+        "cited_by_count": 313
       }
     ],
     "display_name_alternatives": [
@@ -385,7 +385,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079903196",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5079903196",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -982,13 +982,13 @@
         "currency": "USD",
         "value_usd": 2760
       },
-      "fwci": 8.8431,
+      "fwci": 8.8161,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 128,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99226232,
+        "value": 0.99221477,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2618,13 +2618,13 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 3.9379,
+      "fwci": 3.9948,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 57,
+      "cited_by_count": 58,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95127557,
+        "value": 0.95259827,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3092,7 +3092,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2025,
@@ -3107,7 +3107,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2023-03-11T00:00:00"
     },
     {
@@ -6845,13 +6845,13 @@
         "value_usd": 3380
       },
       "apc_paid": null,
-      "fwci": 2.6781,
+      "fwci": 2.6729,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 62,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87924528,
+        "value": 0.87890517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7618,13 +7618,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1693,
+      "fwci": 3.1594,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 46,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91502553,
+        "value": 0.91463303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8860,13 +8860,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8359,
+      "fwci": 1.8329,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 42,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82331448,
+        "value": 0.82321693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10142,13 +10142,13 @@
         "currency": "USD",
         "value_usd": 1690
       },
-      "fwci": 1.0269,
+      "fwci": 1.0259,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 33,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70358595,
+        "value": 0.70338309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12804,13 +12804,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6783,
+      "fwci": 2.6721,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90955721,
+        "value": 0.9094084,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17578,13 +17578,13 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 2.9332,
+      "fwci": 2.9217,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91365777,
+        "value": 0.91330496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20567,13 +20567,13 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 3.2388,
+      "fwci": 3.228,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 19,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93762211,
+        "value": 0.93726911,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24696,13 +24696,13 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 5.6281,
+      "fwci": 5.6109,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 13,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97661169,
+        "value": 0.97629763,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26291,13 +26291,13 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 1.1343,
+      "fwci": 1.1297,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73231149,
+        "value": 0.73103379,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28946,13 +28946,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.0567,
+      "fwci": 2.0528,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 20,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85030453,
+        "value": 0.85002382,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30129,9 +30129,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240122069",
+          "display_name": "International Petroleum Technology Conference 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4213030173"
+        "https://openalex.org/W4213030173",
+        "https://openalex.org/W7240122069"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -30286,7 +30294,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.2147,
+      "fwci": 7.2108,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 15,
@@ -31601,7 +31609,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-02-24T00:00:00"
     },
     {
@@ -31817,7 +31825,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -31919,13 +31927,13 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 2.0455,
+      "fwci": 2.0388,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85939648,
+        "value": 0.85896414,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33145,7 +33153,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-05-31T00:00:00"
     },
     {
@@ -35279,13 +35287,13 @@
         "currency": "USD",
         "value_usd": 3690
       },
-      "fwci": 1.5689,
+      "fwci": 1.5636,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80171874,
+        "value": 0.80098566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42873,9 +42881,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240130602",
+          "display_name": "International Petroleum Technology Conference 2024",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4392185288"
+        "https://openalex.org/W4392185288",
+        "https://openalex.org/W7240130602"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -43155,13 +43171,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4638,
+      "fwci": 4.4521,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94886113,
+        "value": 0.94856723,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -44403,7 +44419,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -44841,13 +44857,13 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.7405,
+      "fwci": 0.7388,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 7,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59495726,
+        "value": 0.59440225,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49815,9 +49831,17 @@
         "raw_source_name": "ADIPEC",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240136494",
+          "display_name": "ADIPEC 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4307665242"
+        "https://openalex.org/W4307665242",
+        "https://openalex.org/W7240136494"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -50226,7 +50250,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3288,
+      "fwci": 4.3265,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
@@ -51213,7 +51237,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-11-04T00:00:00"
     },
     {
@@ -51258,9 +51282,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240122069",
+          "display_name": "International Petroleum Technology Conference 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4213195209"
+        "https://openalex.org/W4213195209",
+        "https://openalex.org/W7240122069"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -51715,7 +51747,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.0503,
+      "fwci": 5.0475,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 7,
@@ -53075,7 +53107,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-02-24T00:00:00"
     },
     {
@@ -58137,13 +58169,13 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.7865,
+      "fwci": 0.7814,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63925819,
+        "value": 0.63815009,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60046,13 +60078,13 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.7865,
+      "fwci": 0.7814,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63925819,
+        "value": 0.63815009,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61535,13 +61567,13 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 4.1244,
+      "fwci": 4.0877,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.90329396,
+        "value": 0.9025371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -64565,9 +64597,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240130602",
+          "display_name": "International Petroleum Technology Conference 2024",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4392187270"
+        "https://openalex.org/W4392187270",
+        "https://openalex.org/W7240130602"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -64808,13 +64848,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3246,
+      "fwci": 4.3001,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92654261,
+        "value": 0.92626427,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -65678,7 +65718,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-22T12:46:00.618207",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -65727,9 +65767,17 @@
         "raw_source_name": "ADIPEC",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240126778",
+          "display_name": "ADIPEC 2023",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4387235745"
+        "https://openalex.org/W4387235745",
+        "https://openalex.org/W7240126778"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -66013,13 +66061,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1571,
+      "fwci": 2.1521,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83760684,
+        "value": 0.83766716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66990,7 +67038,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2023-10-02T00:00:00"
     },
     {
@@ -67035,9 +67083,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240130602",
+          "display_name": "International Petroleum Technology Conference 2024",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4392187283"
+        "https://openalex.org/W4392187283",
+        "https://openalex.org/W7240130602"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -67313,13 +67369,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.05,
+      "fwci": 2.0441,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.81629644,
+        "value": 0.81584119,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68475,7 +68531,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -68965,9 +69021,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414232775"
+        "https://openalex.org/W4414232775",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -69335,13 +69399,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5555,
+      "fwci": 1.55,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71026943,
+        "value": 0.70967322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70381,7 +70445,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72812,13 +72876,13 @@
         "currency": "USD",
         "value_usd": 3360
       },
-      "fwci": 1.2422,
+      "fwci": 1.2342,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70540215,
+        "value": 0.70445868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73300,7 +73364,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 37,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W1967557681",
         "https://openalex.org/W1983800404",
@@ -73337,8 +73401,7 @@
         "https://openalex.org/W4408193068",
         "https://openalex.org/W4408485579",
         "https://openalex.org/W4409563181",
-        "https://openalex.org/W4411026345",
-        "https://openalex.org/W6939714890"
+        "https://openalex.org/W4411026345"
       ],
       "related_works": [
         "https://openalex.org/W4414232775",
@@ -73990,7 +74053,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-05-19T00:00:00"
     },
     {
@@ -74174,13 +74237,13 @@
         "currency": "USD",
         "value_usd": 5120
       },
-      "fwci": 1.9152,
+      "fwci": 1.9058,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72984262,
+        "value": 0.72862454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75318,7 +75381,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -75367,13 +75430,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3959,
+      "fwci": 5.3906,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 2,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92519207,
+        "value": 0.92487884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -76087,7 +76150,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2023-10-18T00:00:00"
     },
     {
@@ -76464,13 +76527,13 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.1371,
+      "fwci": 0.1369,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30234107,
+        "value": 0.30138161,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78083,9 +78146,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414226915"
+        "https://openalex.org/W4414226915",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -78367,13 +78438,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5029,
+      "fwci": 2.478,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78900658,
+        "value": 0.78728886,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79814,7 +79885,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -82761,9 +82832,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240130602",
+          "display_name": "International Petroleum Technology Conference 2024",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4392186289"
+        "https://openalex.org/W4392186289",
+        "https://openalex.org/W7240130602"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -83892,7 +83971,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392186289",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-02-28T00:00:00"
     },
     {
@@ -84777,9 +84856,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414226808"
+        "https://openalex.org/W4414226808",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -85969,7 +86056,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414226808",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -86018,9 +86105,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414232442"
+        "https://openalex.org/W4414232442",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -87380,7 +87475,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414232442",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -89449,7 +89544,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
+        "oa_status": "gold",
         "oa_url": "https://doi.org/10.1016/j.uncres.2026.100379",
         "any_repository_has_fulltext": false
       },
@@ -89802,11 +89897,15 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 0,
+        "value": 700,
         "currency": "USD",
-        "value_usd": 0
+        "value_usd": 700
       },
-      "apc_paid": null,
+      "apc_paid": {
+        "value": 700,
+        "currency": "USD",
+        "value_usd": 700
+      },
       "fwci": 0,
       "is_authors_truncated": false,
       "has_fulltext": false,
@@ -91227,7 +91326,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7134914146",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-03-12T00:00:00"
     },
     {
@@ -99491,7 +99590,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
+        "oa_status": "gold",
         "oa_url": "https://link.springer.com/content/pdf/10.1007/s40789-025-00839-5.pdf",
         "any_repository_has_fulltext": false
       },
@@ -99898,11 +99997,15 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 0,
+        "value": 2240,
         "currency": "USD",
-        "value_usd": 0
+        "value_usd": 2240
       },
-      "apc_paid": null,
+      "apc_paid": {
+        "value": 2240,
+        "currency": "USD",
+        "value_usd": 2240
+      },
       "fwci": 0,
       "is_authors_truncated": false,
       "has_fulltext": true,
@@ -101182,7 +101285,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7171327959",
       "counts_by_year": [],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-07-27T00:00:00"
     },
     {

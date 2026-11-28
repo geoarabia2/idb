@@ -11,7 +11,7 @@
     ],
     "full_name": "John Melvin (2)",
     "works_count": 36,
-    "cited_by_count": 830,
+    "cited_by_count": 831,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 15,
@@ -352,7 +352,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000399,
+        "value": 0.00004,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -622,7 +622,7 @@
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 30
+        "cited_by_count": 31
       }
     ],
     "display_name_alternatives": [
@@ -633,7 +633,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5103799444",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2082,13 +2082,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 17.7662,
+      "fwci": 17.7463,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 307,
       "reviewed_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.99768281,
+        "value": 0.99768149,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3165,13 +3165,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1357,
+      "fwci": 3.1296,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 74,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89216901,
+        "value": 0.89180957,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7818,10 +7818,10 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2601,
+      "fwci": 4.253,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 16,
+      "cited_by_count": 17,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
         "value": 0.93291732,
@@ -7829,7 +7829,7 @@
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 92,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -8189,6 +8189,10 @@
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2770805832",
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -8209,7 +8213,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2017-12-04T00:00:00"
     },
     {
@@ -14961,7 +14965,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1029,
+      "fwci": 1.0917,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 33,
@@ -16727,13 +16731,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0645,
+      "fwci": 1.0631,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 18,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75028431,
+        "value": 0.75,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23752,9 +23756,17 @@
         "raw_source_name": "SPE Annual Technical Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240109117",
+          "display_name": "SPE Annual Technical Conference and Exhibition 2012",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W1999115540"
+        "https://openalex.org/W1999115540",
+        "https://openalex.org/W7240109117"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -24026,13 +24038,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.403,
+      "fwci": 0.4026,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45799906,
+        "value": 0.45763512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24740,7 +24752,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26386,9 +26398,17 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240124228",
+          "display_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition 2017",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2620705869"
+        "https://openalex.org/W2620705869",
+        "https://openalex.org/W7240124228"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -26795,8 +26815,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -27540,7 +27560,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -30817,7 +30837,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5109860807",
-            "display_name": "IRVIN L. TAILLEUR",
+            "display_name": "Irvin L. Tailleur",
             "type": null,
             "orcid": null,
             "observed_orcids": []
@@ -31654,7 +31674,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2184990391",
       "counts_by_year": [],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -36117,13 +36137,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.9900000095367432,
-          "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "display_name": "Partnerships for the goals",
+          "id": "https://metadata.un.org/sdg/17"
         },
         {
           "score": 0.766700029373169,
-          "id": "https://metadata.un.org/sdg/3",
-          "display_name": "Good health and well-being"
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "study_designs": [],

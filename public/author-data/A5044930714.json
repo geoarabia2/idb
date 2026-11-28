@@ -1956,13 +1956,13 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 56.7673,
+      "fwci": 56.6402,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 212,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99912643,
+        "value": 0.99912596,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4053,13 +4053,13 @@
         "value_usd": 3920
       },
       "apc_paid": null,
-      "fwci": 14.4564,
+      "fwci": 14.434,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 51,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.98693283,
+        "value": 0.98693228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5571,13 +5571,13 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 10.1095,
+      "fwci": 10.0908,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 47,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97606745,
+        "value": 0.97602103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7841,13 +7841,13 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.139,
+      "fwci": 0.1386,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 12,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27367074,
+        "value": 0.27305065,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11616,13 +11616,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9773,
+      "fwci": 0.9743,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67129071,
+        "value": 0.67004079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13583,13 +13583,13 @@
         "currency": "CHF",
         "value_usd": 1944
       },
-      "fwci": 1.0879,
+      "fwci": 1.0856,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68515025,
+        "value": 0.68438112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16578,13 +16578,13 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 1.1782,
+      "fwci": 1.172,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70066519,
+        "value": 0.69921762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20112,7 +20112,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -20404,13 +20404,13 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 2.1646,
+      "fwci": 2.158,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84662669,
+        "value": 0.84533453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20766,7 +20766,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-04-15T00:00:00"
     },
     {
@@ -21559,7 +21559,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
+            "display_name": "John D. Humphrey",
             "type": null,
             "orcid": "https://orcid.org/0000-0002-8927-2322",
             "observed_orcids": [
@@ -21757,13 +21757,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2988,
+      "fwci": 1.2948,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7089955,
+        "value": 0.70822082,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22112,9 +22112,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -22659,7 +22659,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-16T12:05:36.265796",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-30T00:00:00"
     },
     {
@@ -23070,13 +23070,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6449,
+      "fwci": 0.6424,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53331172,
+        "value": 0.53159006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26720,9 +26720,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -27459,7 +27459,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1363,
+      "fwci": 0.1356,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
@@ -29783,13 +29783,13 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 1.408,
+      "fwci": 1.4005,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77617117,
+        "value": 0.77543022,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31166,10 +31166,8 @@
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
             "type": null,
-            "orcid": "https://orcid.org/0000-0001-8203-851X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8203-851X"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "acted_on_behalf_of": [],
           "institutions": [],
@@ -31332,13 +31330,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0605,
+      "fwci": 2.0553,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73963516,
+        "value": 0.73984143,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31679,9 +31677,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.617900013923645,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.617900013923645
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -32223,7 +32221,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-15T12:55:33.944570",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-03-03T00:00:00"
     },
     {
@@ -36864,10 +36862,8 @@
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
             "type": null,
-            "orcid": "https://orcid.org/0000-0001-8203-851X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8203-851X"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "acted_on_behalf_of": [],
           "institutions": [],
@@ -37707,7 +37703,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7160127788",
       "counts_by_year": [],
-      "updated_date": "2026-11-20T13:11:24.684918",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-05-05T00:00:00"
     }
   ]

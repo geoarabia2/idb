@@ -957,8 +957,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -2784,8 +2784,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -3643,8 +3643,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -4127,13 +4127,13 @@
         "currency": "CHF",
         "value_usd": 1722
       },
-      "fwci": 5.1739,
+      "fwci": 5.1653,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 54,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95911266,
+        "value": 0.95906993,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4520,8 +4520,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2980007598.pdf",
@@ -5842,8 +5842,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -6458,9 +6458,17 @@
         "raw_source_name": "SPE Kuwait Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240143951",
+          "display_name": "SPE Kuwait Oil & Gas Show and Conference 2017",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2761490684"
+        "https://openalex.org/W2761490684",
+        "https://openalex.org/W7240143951"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -6652,7 +6660,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5077699688",
-            "display_name": "REYAD AWWAD SHAWABKEH",
+            "display_name": "Reyad Awwad Shawabkeh",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-7463-3415",
             "observed_orcids": [
@@ -6699,13 +6707,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 12.8915,
+      "fwci": 12.8878,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 37,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9921875,
+        "value": 0.9921928,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6988,22 +6996,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -7512,7 +7520,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -7562,9 +7570,17 @@
         "raw_source_name": "SPE Kuwait Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240131679",
+          "display_name": "SPE Kuwait Oil & Gas Show and Conference 2019",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2979948665"
+        "https://openalex.org/W2979948665",
+        "https://openalex.org/W7240131679"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -7805,13 +7821,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 23.0616,
+      "fwci": 23.0211,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 30,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99753147,
+        "value": 0.99753025,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -8077,8 +8093,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -8739,7 +8755,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-10-18T00:00:00"
     },
     {
@@ -8785,9 +8801,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240120020",
+          "display_name": "International Petroleum Technology Conference 2020",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W3000577598"
+        "https://openalex.org/W3000577598",
+        "https://openalex.org/W7240120020"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -9028,13 +9052,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 18.8853,
+      "fwci": 18.8661,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.99836401,
+        "value": 0.99836468,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -9334,8 +9358,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -10007,7 +10031,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2020-01-23T00:00:00"
     },
     {
@@ -10514,13 +10538,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 3.0164,
+      "fwci": 3.0108,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 28,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91692044,
+        "value": 0.91681753,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11044,8 +11068,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4296311853.pdf",
@@ -12516,9 +12540,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.7605999708175659,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.7605999708175659
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -12536,8 +12560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -13354,13 +13378,13 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.9332,
+      "fwci": 2.9217,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 22,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91365777,
+        "value": 0.91330496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13720,8 +13744,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387404935.pdf",
@@ -14764,8 +14788,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -15468,8 +15492,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -16225,9 +16249,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -16240,8 +16264,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -16971,8 +16995,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150830456.pdf",
@@ -18277,8 +18301,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -19097,8 +19121,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -19584,7 +19608,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5077699688",
-            "display_name": "REYAD AWWAD SHAWABKEH",
+            "display_name": "Reyad Awwad Shawabkeh",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-7463-3415",
             "observed_orcids": [
@@ -19682,13 +19706,13 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.2676,
+      "fwci": 1.2652,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 31,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74416239,
+        "value": 0.74379429,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20064,9 +20088,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -20092,8 +20116,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -20195,7 +20219,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2020-01-10T00:00:00"
     },
     {
@@ -20500,13 +20524,13 @@
         "currency": "USD",
         "value_usd": 750
       },
-      "fwci": 2.4147,
+      "fwci": 2.4071,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 29,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87326769,
+        "value": 0.87295494,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21072,8 +21096,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3091516652.pdf",
@@ -22661,8 +22685,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -23408,9 +23432,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.8125,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.8125
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -23423,8 +23447,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -24174,9 +24198,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -24189,8 +24213,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -24783,8 +24807,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -25416,9 +25440,9 @@
             "id": "https://openalex.org/A5073563634",
             "display_name": "Sharif M. Hala",
             "type": null,
-            "orcid": "https://orcid.org/0009-0007-1195-014X",
+            "orcid": "https://orcid.org/0000-0001-6548-6169",
             "observed_orcids": [
-              "https://orcid.org/0009-0007-1195-014X"
+              "https://orcid.org/0000-0001-6548-6169"
             ]
           },
           "acted_on_behalf_of": [],
@@ -25496,13 +25520,13 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 1.4415,
+      "fwci": 1.4322,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.76193637,
+        "value": 0.76046782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25792,9 +25816,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.8518999814987183,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.8518999814987183
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -25807,8 +25831,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -25881,7 +25905,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26543,8 +26567,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -27134,8 +27158,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -27266,9 +27290,17 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240110222",
+          "display_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition 2018",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2896631363"
+        "https://openalex.org/W2896631363",
+        "https://openalex.org/W7240110222"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -27503,7 +27535,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5077699688",
-            "display_name": "REYAD AWWAD SHAWABKEH",
+            "display_name": "Reyad Awwad Shawabkeh",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-7463-3415",
             "observed_orcids": [
@@ -27550,7 +27582,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5273,
+      "fwci": 0.5266,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
@@ -27933,17 +27965,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -28816,7 +28848,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2018-10-26T00:00:00"
     },
     {
@@ -29152,8 +29184,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -29241,9 +29273,17 @@
         "raw_source_name": "ADIPEC",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240136494",
+          "display_name": "ADIPEC 2022",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4307665242"
+        "https://openalex.org/W4307665242",
+        "https://openalex.org/W7240136494"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -29652,7 +29692,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3288,
+      "fwci": 4.3265,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 6,
@@ -29920,8 +29960,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -30639,7 +30679,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2022-11-04T00:00:00"
     },
     {
@@ -31311,9 +31351,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -31344,8 +31384,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 120,
@@ -31549,9 +31589,17 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240124228",
+          "display_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition 2017",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2621001098"
+        "https://openalex.org/W2621001098",
+        "https://openalex.org/W7240124228"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -31657,7 +31705,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5077699688",
-            "display_name": "REYAD AWWAD SHAWABKEH",
+            "display_name": "Reyad Awwad Shawabkeh",
             "type": null,
             "orcid": "https://orcid.org/0000-0001-7463-3415",
             "observed_orcids": [
@@ -31878,13 +31926,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1486,
+      "fwci": 2.148,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 5,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.85461957,
+        "value": 0.85471826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32235,17 +32283,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -33159,7 +33207,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -33596,8 +33644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2961227834.pdf",
@@ -34511,8 +34559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35373,8 +35421,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -35491,9 +35539,17 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240133616",
+          "display_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition 2016",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2473460885"
+        "https://openalex.org/W2473460885",
+        "https://openalex.org/W7240133616"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -35726,7 +35782,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6625,
+      "fwci": 1.661,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 8,
@@ -36039,8 +36095,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -36763,7 +36819,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-07-22T00:00:00"
     },
     {
@@ -37184,8 +37240,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37805,8 +37861,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -38357,17 +38413,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39049,9 +39105,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240137922",
+          "display_name": "International Petroleum Technology Conference 2019",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2930395346"
+        "https://openalex.org/W2930395346",
+        "https://openalex.org/W7240137922"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -39247,13 +39311,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5624,
+      "fwci": 2.5579,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86003456,
+        "value": 0.85996542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39578,8 +39642,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -40429,7 +40493,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-04-11T00:00:00"
     },
     {
@@ -40930,8 +40994,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -41584,13 +41648,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9616,
+      "fwci": 0.9606,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72813338,
+        "value": 0.727768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41940,8 +42004,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2073573915.pdf",
@@ -42941,8 +43005,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -43884,8 +43948,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -44721,8 +44785,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -45484,9 +45548,9 @@
             "id": "https://openalex.org/A5073563634",
             "display_name": "Sharif M. Hala",
             "type": null,
-            "orcid": "https://orcid.org/0009-0007-1195-014X",
+            "orcid": "https://orcid.org/0000-0001-6548-6169",
             "observed_orcids": [
-              "https://orcid.org/0009-0007-1195-014X"
+              "https://orcid.org/0000-0001-6548-6169"
             ]
           },
           "acted_on_behalf_of": [],
@@ -45549,13 +45613,13 @@
         "value_usd": 2540
       },
       "apc_paid": null,
-      "fwci": 2.037,
+      "fwci": 2.0172,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77067767,
+        "value": 0.76956881,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45962,14 +46026,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "display_name": "Life below water"
         },
         {
-          "display_name": "Life on land",
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -45987,8 +46051,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -46055,7 +46119,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-01-23T00:00:00"
     },
     {
@@ -46101,9 +46165,17 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240137922",
+          "display_name": "International Petroleum Technology Conference 2019",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2923413028"
+        "https://openalex.org/W2923413028",
+        "https://openalex.org/W7240137922"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -46342,13 +46414,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8541,
+      "fwci": 0.8526,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63070847,
+        "value": 0.63027908,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46664,8 +46736,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -47471,7 +47543,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-04-01T00:00:00"
     },
     {
@@ -47956,8 +48028,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -48708,13 +48780,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.139,
+      "fwci": 0.1386,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27367074,
+        "value": 0.27305065,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48987,8 +49059,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3175054679.pdf",
@@ -50271,22 +50343,22 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.47999998927116394
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Life on land",
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51374,8 +51446,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52871,17 +52943,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54503,22 +54575,22 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.9599999785423279,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.9599999785423279
+          "display_name": "Life on land"
         },
         {
-          "display_name": "Zero hunger",
+          "score": 0.40450000762939453,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.40450000762939453
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7204596775.pdf",
@@ -55973,9 +56045,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.8518999814987183,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.8518999814987183
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -55988,8 +56060,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7223204922.pdf",
@@ -57411,19 +57483,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Life below water",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "display_name": "Life below water"
         },
         {
-          "display_name": "Life on land",
+          "score": 0.7605999708175659,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.7605999708175659
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -57436,8 +57508,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,

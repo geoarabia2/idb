@@ -9942,13 +9942,13 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.0784,
+      "fwci": 2.0699,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8539673,
+        "value": 0.85299111,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11340,13 +11340,13 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 5.1755,
+      "fwci": 5.158,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97278773,
+        "value": 0.97264644,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15154,10 +15154,8 @@
             "id": "https://openalex.org/A5122163086",
             "display_name": "Abduljamiu O. Amao",
             "type": null,
-            "orcid": "https://orcid.org/0000-0001-8203-851X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8203-851X"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -15411,13 +15409,13 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 7.2924,
+      "fwci": 7.2527,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 8,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97372658,
+        "value": 0.97354613,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15438,7 +15436,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10353",
         "display_name": "Zeolite Catalysis and Synthesis",
-        "score": 0.8202999830245972,
+        "score": 0.8213000297546387,
         "subfield": {
           "id": "https://openalex.org/subfields/1604",
           "display_name": "Inorganic Chemistry"
@@ -15456,7 +15454,7 @@
         {
           "id": "https://openalex.org/T10353",
           "display_name": "Zeolite Catalysis and Synthesis",
-          "score": 0.8202999830245972,
+          "score": 0.8213000297546387,
           "subfield": {
             "id": "https://openalex.org/subfields/1604",
             "display_name": "Inorganic Chemistry"
@@ -15473,7 +15471,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.07569999992847443,
+          "score": 0.07199999690055847,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -15490,7 +15488,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.05570000037550926,
+          "score": 0.0575999990105629,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -16534,7 +16532,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-03-06T00:00:00"
     },
     {
@@ -18271,10 +18269,8 @@
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
             "type": null,
-            "orcid": "https://orcid.org/0000-0002-4872-6201",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4872-6201"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -18386,13 +18382,13 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.1767,
+      "fwci": 1.1727,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73878793,
+        "value": 0.73808244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19579,7 +19575,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2024-08-17T00:00:00"
     },
     {
@@ -20807,13 +20803,13 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.573,
+      "fwci": 1.5628,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 4,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78694216,
+        "value": 0.78536337,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23812,9 +23808,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46149998903274536,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -28910,7 +28906,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -29215,7 +29217,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7167189447",
       "counts_by_year": [],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2026-07-03T00:00:00"
     },
     {
@@ -29875,15 +29877,15 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
           "score": 0.98580002784729,
-          "display_name": "Good health and well-being"
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "study_designs": [
         {
-          "id": "https://openalex.org/study-designs/observational-study",
-          "display_name": "Observational Study"
+          "display_name": "Observational Study",
+          "id": "https://openalex.org/study-designs/observational-study"
         }
       ],
       "awards": [],
@@ -32806,9 +32808,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.75,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -34942,9 +34944,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.878000020980835,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],

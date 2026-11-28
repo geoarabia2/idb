@@ -588,13 +588,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2626,
+      "fwci": 1.2607,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 159,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77058178,
+        "value": 0.77038014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7042,9 +7042,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7560999989509583,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7560999989509583
         }
       ],
       "study_designs": [],
@@ -10161,14 +10161,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 1
         },
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
@@ -10464,13 +10464,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1722,
+      "fwci": 0.1721,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 15,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37493792,
+        "value": 0.37479298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11308,13 +11308,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6496,
+      "fwci": 0.6481,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 27,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.5975305,
+        "value": 0.59681932,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11622,9 +11622,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -15335,9 +15335,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -15852,9 +15852,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -19222,9 +19222,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -21195,9 +21195,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 1
         }
       ],
       "study_designs": [],

@@ -1186,9 +1186,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -3841,9 +3841,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],

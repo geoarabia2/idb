@@ -22,8 +22,8 @@
       "Vecoli, Marco"
     ],
     "full_name": "Vecoli, Marco",
-    "works_count": 143,
-    "cited_by_count": 3462,
+    "works_count": 142,
+    "cited_by_count": 3470,
     "summary_stats": {
       "2yr_mean_citedness": 0.42857142857142855,
       "h_index": 36,
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 135,
+        "count": 134,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -313,7 +313,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "count": 44,
+        "count": 43,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -345,20 +345,20 @@
         }
       },
       {
-        "id": "https://openalex.org/T10385",
-        "display_name": "Plant Diversity and Evolution",
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
         "count": 28,
         "subfield": {
-          "id": "https://openalex.org/subfields/1105",
-          "display_name": "Ecology, Evolution, Behavior and Systematics"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/11",
-          "display_name": "Agricultural and Biological Sciences"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
-          "id": "https://openalex.org/domains/1",
-          "display_name": "Life Sciences"
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
         }
       }
     ],
@@ -366,7 +366,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001821,
+        "value": 0.0001808,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -383,7 +383,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001487,
+        "value": 0.0001488,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -417,7 +417,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0000885,
+        "value": 0.0000866,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -610,8 +610,8 @@
       },
       {
         "year": 2016,
-        "works_count": 7,
-        "oa_works_count": 3,
+        "works_count": 6,
+        "oa_works_count": 2,
         "cited_by_count": 166
       },
       {
@@ -624,7 +624,7 @@
         "year": 2018,
         "works_count": 7,
         "oa_works_count": 4,
-        "cited_by_count": 159
+        "cited_by_count": 160
       },
       {
         "year": 2019,
@@ -636,7 +636,7 @@
         "year": 2020,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 186
+        "cited_by_count": 189
       },
       {
         "year": 2021,
@@ -648,7 +648,7 @@
         "year": 2022,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 273
+        "cited_by_count": 275
       },
       {
         "year": 2023,
@@ -666,7 +666,7 @@
         "year": 2025,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 251
+        "cited_by_count": 253
       },
       {
         "year": 2026,
@@ -693,7 +693,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039685767",
     "awards_count": 1,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5039685767",
-    "updated_date": "2026-11-26T10:23:11",
+    "updated_date": "2026-11-27T10:00:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1478,9 +1478,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7778000235557556,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7778000235557556
         }
       ],
       "study_designs": [],
@@ -2280,13 +2280,13 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 6.4414,
+      "fwci": 6.4296,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 193,
+      "cited_by_count": 194,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9736401,
+        "value": 0.97359988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2754,7 +2754,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2024,
@@ -2809,7 +2809,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5390,8 +5390,10 @@
             "id": "https://openalex.org/A5072979531",
             "display_name": "Lauriss Ngombi‐Pemba",
             "type": null,
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0009-0005-7666-3024",
+            "observed_orcids": [
+              "https://orcid.org/0009-0005-7666-3024"
+            ]
           },
           "acted_on_behalf_of": [],
           "institutions": [
@@ -6847,13 +6849,13 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 4.8722,
+      "fwci": 4.8606,
       "is_authors_truncated": false,
       "has_fulltext": true,
-      "cited_by_count": 108,
+      "cited_by_count": 109,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96222255,
+        "value": 0.96215579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8434,7 +8436,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2021,
@@ -8469,7 +8471,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8731,13 +8733,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 3.7761,
+      "fwci": 3.7704,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 95,
+      "cited_by_count": 96,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93790547,
+        "value": 0.9376392,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9171,7 +9173,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2024,
@@ -9226,7 +9228,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9468,13 +9470,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2506,
+      "fwci": 3.2458,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 95,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92465654,
+        "value": 0.92459111,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9613,7 +9615,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1144/m38.29",
@@ -9684,6 +9686,37 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Text"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.3453524",
+          "doi": "https://doi.org/10.6084/m9.figshare.3453524",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.3453524",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "JournalArticle"
         },
         {
           "id": "doi:10.6084/m9.figshare.3453524.v1",
@@ -10190,7 +10223,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11639,13 +11672,13 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 2.2776,
+      "fwci": 2.2746,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 82,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87273064,
+        "value": 0.87258902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12629,13 +12662,13 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 2.2776,
+      "fwci": 2.2746,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 73,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.87273064,
+        "value": 0.87258902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13681,13 +13714,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.1299,
+      "fwci": 1.128,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 71,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72882214,
+        "value": 0.72833249,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14093,9 +14126,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -17309,9 +17342,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -18901,13 +18934,13 @@
         "currency": "USD",
         "value_usd": 3750
       },
-      "fwci": 4.1533,
+      "fwci": 4.1408,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 59,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.95476478,
+        "value": 0.95452485,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19367,14 +19400,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 1
         },
         {
-          "score": 0.75,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -22756,9 +22789,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -23495,1322 +23528,6 @@
       "created_date": "2017-01-06T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2792965592",
-      "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
-      "title": "Application of Palynomorph Darkness Index (PDI) to assess the thermal maturity of palynomorphs: A case study from North Africa",
-      "display_name": "Application of Palynomorph Darkness Index (PDI) to assess the thermal maturity of palynomorphs: A case study from North Africa",
-      "alternate_titles": [],
-      "publication_year": 2018,
-      "publication_date": "2018-02-06",
-      "ids": {
-        "openalex": "https://openalex.org/W2792965592",
-        "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
-        "mag": "2792965592"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.coal.2018.02.001",
-        "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.coal.2018.02.001",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S6747076",
-          "display_name": "International Journal of Coal Geology",
-          "issn_l": "0166-5162",
-          "issn": [
-            "0166-5162",
-            "1872-7840"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-a",
-            "jufo-2",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Journal of Coal Geology",
-        "raw_type": "journal-article"
-      },
-      "parent_works": [],
-      "lineage": [
-        "https://openalex.org/W2792965592"
-      ],
-      "child_works_count": 0,
-      "pull_notice_works": [],
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://hal.sorbonne-universite.fr/hal-01794245",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5019612695",
-            "display_name": "Amalia Spina",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-1284-2574",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1284-2574"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I27483092",
-              "display_name": "University of Perugia",
-              "ror": "https://ror.org/00x27da85",
-              "country_code": "IT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": true,
-          "contributor_roles": [],
-          "raw_author_name": "Amalia Spina",
-          "raw_affiliation_strings": [
-            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-1284-2574",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039685767",
-            "display_name": "Marco Vecoli",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-9203-7625",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9203-7625"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2279609970",
-              "display_name": "Université de Lille",
-              "ror": "https://ror.org/02kzqn938",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2279609970"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210148734",
-              "display_name": "Unité Évolution, Écologie et Paléontologie",
-              "ror": "https://ror.org/04y91dy23",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210137101",
-                "https://openalex.org/I4210139971",
-                "https://openalex.org/I4210148734"
-              ]
-            }
-          ],
-          "countries": [
-            "FR",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Marco Vecoli",
-          "raw_affiliation_strings": [
-            "Biostratigraphy Group, Geological Technical Services Department, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-            "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
-            "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biostratigraphy Group, Geological Technical Services Department, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210148734"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210148734"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5004160583",
-            "display_name": "Armelle Riboulleau",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-2717-8330",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2717-8330"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2279609970",
-              "display_name": "Université de Lille",
-              "ror": "https://ror.org/02kzqn938",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2279609970"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2802487185",
-              "display_name": "Université du littoral côte d'opale",
-              "ror": "https://ror.org/02gdcg342",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2802487185"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210161208",
-              "display_name": "Laboratoire d’Océanologie et de Géosciences",
-              "ror": "https://ror.org/05m14rs93",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I2802487185",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210161208",
-                "https://openalex.org/I4210166444"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Armelle Riboulleau",
-          "raw_affiliation_strings": [
-            "Laboratoire d'Océanologie et de Géosciences, UMR 8187, Université de Lille, CNRS, Université du Littoral Côte d'Opale, Villeneuve d'Ascq 59655, France",
-            "LOG - Laboratoire d’Océanologie et de Géosciences (LOG) - UMR 8187 (28 avenue Foch - BP 80 - 62930 Wimereux - France)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire d'Océanologie et de Géosciences, UMR 8187, Université de Lille, CNRS, Université du Littoral Côte d'Opale, Villeneuve d'Ascq 59655, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I2802487185",
-                "https://openalex.org/I4210161208"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LOG - Laboratoire d’Océanologie et de Géosciences (LOG) - UMR 8187 (28 avenue Foch - BP 80 - 62930 Wimereux - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210161208"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066688203",
-            "display_name": "Geoff Clayton",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-6015-1885",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6015-1885"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91136226",
-              "display_name": "University of Sheffield",
-              "ror": "https://ror.org/05krs5044",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Geoff Clayton",
-          "raw_affiliation_strings": [
-            "Department of Animal and Plant Sciences, University of Sheffield, Sheffield, UK",
-            "University of Sheffield [Sheffield] (Western Bank Sheffield S10 2TN - United Kingdom)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Animal and Plant Sciences, University of Sheffield, Sheffield, UK",
-              "institution_ids": [
-                "https://openalex.org/I91136226"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Sheffield [Sheffield] (Western Bank Sheffield S10 2TN - United Kingdom)",
-              "institution_ids": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040210942",
-            "display_name": "Simonetta Cirilli",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-4100-7404",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4100-7404"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I27483092",
-              "display_name": "University of Perugia",
-              "ror": "https://ror.org/00x27da85",
-              "country_code": "IT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Simonetta Cirilli",
-          "raw_affiliation_strings": [
-            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-4100-7404",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5023485989",
-            "display_name": "Alessandro Di Michele",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-0357-2608",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0357-2608"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I27483092",
-              "display_name": "University of Perugia",
-              "ror": "https://ror.org/00x27da85",
-              "country_code": "IT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Alessandro Di Michele",
-          "raw_affiliation_strings": [
-            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027604059",
-            "display_name": "Annunziato Marcogiuseppe",
-            "type": null,
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I27483092",
-              "display_name": "University of Perugia",
-              "ror": "https://ror.org/00x27da85",
-              "country_code": "IT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Annunziato Marcogiuseppe",
-          "raw_affiliation_strings": [
-            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5029478023",
-            "display_name": "R Rettori",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0003-0505-1280",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0505-1280"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I27483092",
-              "display_name": "University of Perugia",
-              "ror": "https://ror.org/00x27da85",
-              "country_code": "IT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Roberto Rettori",
-          "raw_affiliation_strings": [
-            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5055851912",
-            "display_name": "Paola Sassi",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-4920-2784",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4920-2784"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I27483092",
-              "display_name": "University of Perugia",
-              "ror": "https://ror.org/00x27da85",
-              "country_code": "IT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Paola Sassi",
-          "raw_affiliation_strings": [
-            "Department of Chemistry, Biology and Biotechnology, University of Perugia, Perugia, Italy",
-            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemistry, Biology and Biotechnology, University of Perugia, Perugia, Italy",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
-              "institution_ids": [
-                "https://openalex.org/I27483092"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5088719239",
-            "display_name": "Thomas Servais",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0002-4089-7874",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4089-7874"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2279609970",
-              "display_name": "Université de Lille",
-              "ror": "https://ror.org/02kzqn938",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2279609970"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210148734",
-              "display_name": "Unité Évolution, Écologie et Paléontologie",
-              "ror": "https://ror.org/04y91dy23",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210137101",
-                "https://openalex.org/I4210139971",
-                "https://openalex.org/I4210148734"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Thomas Servais",
-          "raw_affiliation_strings": [
-            "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
-            "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210148734"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210148734"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5013507683",
-            "display_name": "Laurent Riquier",
-            "type": null,
-            "orcid": "https://orcid.org/0000-0001-5510-2061",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5510-2061"
-            ]
-          },
-          "acted_on_behalf_of": [],
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39804081",
-              "display_name": "Sorbonne Université",
-              "ror": "https://ror.org/02en5vm52",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210097099",
-              "display_name": "Institut des Sciences de la Terre de Paris",
-              "ror": "https://ror.org/00xagyq07",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4210097099",
-                "https://openalex.org/I4210148025"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "contributor_roles": [],
-          "raw_author_name": "Laurent Riquier",
-          "raw_affiliation_strings": [
-            "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
-            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210097099"
-              ]
-            },
-            {
-              "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
-              ]
-            },
-            {
-              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-              "institution_ids": [
-                "https://openalex.org/I39804081"
-              ]
-            },
-            {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 10,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5019612695"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I27483092"
-      ],
-      "apc_list": {
-        "value": 4090,
-        "currency": "USD",
-        "value_usd": 4090
-      },
-      "apc_paid": null,
-      "fwci": 3.2137,
-      "is_authors_truncated": false,
-      "has_fulltext": true,
-      "cited_by_count": 41,
-      "reviewed_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.90648873,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 92,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "188",
-        "issue": null,
-        "first_page": "64",
-        "last_page": "78"
-      },
-      "is_retracted": false,
-      "is_pulled": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9961000084877014,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9961000084877014,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.0010000000474974513,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12218",
-          "display_name": "Coal and Its By-products",
-          "score": 0.0010000000474974513,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/thermal-maturity",
-          "display_name": "thermal maturity",
-          "score": 0.7760000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/palynomorphs",
-          "display_name": "palynomorphs",
-          "score": 0.9580000042915344
-        },
-        {
-          "id": "https://openalex.org/keywords/thermal-alteration-index",
-          "display_name": "thermal alteration index",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/rock-eval-pyrolysis",
-          "display_name": "Rock-Eval pyrolysis",
-          "score": 0.9520000219345093
-        },
-        {
-          "id": "https://openalex.org/keywords/thermal-alteration",
-          "display_name": "thermal alteration",
-          "score": 0.44999998807907104
-        },
-        {
-          "id": "https://openalex.org/keywords/light-microscopy",
-          "display_name": "optical microscopy",
-          "score": 0.3050000071525574
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C107832698",
-          "wikidata": "https://www.wikidata.org/wiki/Q65955",
-          "display_name": "Devonian",
-          "level": 2,
-          "score": 0.742155909538269
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7211571335792542
-        },
-        {
-          "id": "https://openalex.org/C101433766",
-          "wikidata": "https://www.wikidata.org/wiki/Q3543263",
-          "display_name": "Maturity (psychological)",
-          "level": 2,
-          "score": 0.6002700328826904
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6000496745109558
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.49172165989875793
-        },
-        {
-          "id": "https://openalex.org/C97316735",
-          "wikidata": "https://www.wikidata.org/wiki/Q342747",
-          "display_name": "Acritarch",
-          "level": 2,
-          "score": 0.47741973400115967
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.4594373106956482
-        },
-        {
-          "id": "https://openalex.org/C138496976",
-          "wikidata": "https://www.wikidata.org/wiki/Q175002",
-          "display_name": "Developmental psychology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C15744967",
-          "wikidata": "https://www.wikidata.org/wiki/Q9418",
-          "display_name": "Psychology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 6,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.coal.2018.02.001",
-          "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.coal.2018.02.001",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S6747076",
-            "display_name": "International Journal of Coal Geology",
-            "issn_l": "0166-5162",
-            "issn": [
-              "0166-5162",
-              "1872-7840"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-a",
-              "jufo-2",
-              "norway-1",
-              "poland-140",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Journal of Coal Geology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-01794245v1",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://hal.sorbonne-universite.fr/hal-01794245v1/document",
-          "pdf_url": "https://hal.sorbonne-universite.fr/hal-01794245",
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I4405252976",
-            "host_organization_name": "Centre pour la Communication Scientifique Directe",
-            "host_organization_lineage": [
-              "https://openalex.org/I4405252976"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "International Journal of Coal Geology, 2018, 188, pp.64-78. &#x27E8;10.1016/j.coal.2018.02.001&#x27E9;",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-02408726v1",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://hal.archives-ouvertes.fr/hal-02408726",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I4405252976",
-            "host_organization_name": "Centre pour la Communication Scientifique Directe",
-            "host_organization_lineage": [
-              "https://openalex.org/I4405252976"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ISSN: 0166-5162",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-04457398v1",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://hal.science/hal-04457398",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I4405252976",
-            "host_organization_name": "Centre pour la Communication Scientifique Directe",
-            "host_organization_lineage": [
-              "https://openalex.org/I4405252976"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "International Journal of Coal Geology, 2018, 188, pp.64-78. &#x27E8;10.1016/j.coal.2018.02.001&#x27E9;",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:lilloa.univ-lille.fr:20.500.12210/34502",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/20.500.12210/34502",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402203",
-            "display_name": "LillOA (Université de Lille (University Of Lille))",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I4210123514",
-            "host_organization_name": "Centre d'Études en Civilisations, Langues et Lettres Étrangères",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210123514"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:lilloa.univ-lille.fr:20.500.12210/72370",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/20.500.12210/72370",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402203",
-            "display_name": "LillOA (Université de Lille (University Of Lille))",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I4210123514",
-            "host_organization_name": "Centre d'Études en Civilisations, Langues et Lettres Étrangères",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210123514"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "pmh:oai:HAL:hal-01794245v1",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "https://hal.sorbonne-universite.fr/hal-01794245v1/document",
-        "pdf_url": "https://hal.sorbonne-universite.fr/hal-01794245",
-        "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I4405252976",
-          "host_organization_name": "Centre pour la Communication Scientifique Directe",
-          "host_organization_lineage": [
-            "https://openalex.org/I4405252976"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "International Journal of Coal Geology, 2018, 188, pp.64-78. &#x27E8;10.1016/j.coal.2018.02.001&#x27E9;",
-        "raw_type": "info:eu-repo/semantics/article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2792965592.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2792965592.grobid-xml"
-      },
-      "referenced_works_count": 35,
-      "referenced_works": [
-        "https://openalex.org/W86511457",
-        "https://openalex.org/W104761613",
-        "https://openalex.org/W144197183",
-        "https://openalex.org/W387629427",
-        "https://openalex.org/W787689512",
-        "https://openalex.org/W1896304009",
-        "https://openalex.org/W1968857409",
-        "https://openalex.org/W1972715118",
-        "https://openalex.org/W1982737699",
-        "https://openalex.org/W1983351619",
-        "https://openalex.org/W2005964557",
-        "https://openalex.org/W2008539803",
-        "https://openalex.org/W2016817170",
-        "https://openalex.org/W2051265248",
-        "https://openalex.org/W2051585725",
-        "https://openalex.org/W2056091230",
-        "https://openalex.org/W2062695488",
-        "https://openalex.org/W2068885376",
-        "https://openalex.org/W2076343412",
-        "https://openalex.org/W2077278441",
-        "https://openalex.org/W2087996039",
-        "https://openalex.org/W2091539779",
-        "https://openalex.org/W2119855749",
-        "https://openalex.org/W2135450311",
-        "https://openalex.org/W2135725060",
-        "https://openalex.org/W2170953363",
-        "https://openalex.org/W2173577344",
-        "https://openalex.org/W2181438948",
-        "https://openalex.org/W2317211914",
-        "https://openalex.org/W2751506457",
-        "https://openalex.org/W3005830087",
-        "https://openalex.org/W4242460581",
-        "https://openalex.org/W4245131553",
-        "https://openalex.org/W6683867963",
-        "https://openalex.org/W6703144788"
-      ],
-      "related_works": [
-        "https://openalex.org/W2789070351",
-        "https://openalex.org/W2170953363",
-        "https://openalex.org/W4414232083",
-        "https://openalex.org/W4390753362",
-        "https://openalex.org/W4401598947",
-        "https://openalex.org/W7057425951",
-        "https://openalex.org/W2255092855",
-        "https://openalex.org/W3042064290",
-        "https://openalex.org/W7046851739"
-      ],
-      "abstract_inverted_index": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2792965592",
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        }
-      ],
-      "updated_date": "2026-11-25T09:40:18.809321",
-      "created_date": "2018-03-29T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2791922014",
       "doi": "https://doi.org/10.1016/j.palaeo.2018.02.004",
       "title": "Organic matter deposition in the Ghadames Basin (Libya) during the Late Devonian—A multidisciplinary approach",
@@ -25472,13 +24189,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 2.3755,
+      "fwci": 2.3694,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 31,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88629608,
+        "value": 0.88596099,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26733,13 +25450,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.765,
+      "fwci": 3.7542,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 91,
+      "cited_by_count": 93,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92101896,
+        "value": 0.92076439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28323,7 +27040,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2021,
@@ -28339,7 +27056,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2017,
@@ -28366,7 +27083,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -29187,9 +27904,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -29654,13 +28371,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.9369,
+      "fwci": 1.9338,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 53,
+      "cited_by_count": 54,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84913939,
+        "value": 0.84896097,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30145,7 +28862,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2019,
@@ -30180,7 +28897,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30957,6 +29674,1322 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2792965592",
+      "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
+      "title": "Application of Palynomorph Darkness Index (PDI) to assess the thermal maturity of palynomorphs: A case study from North Africa",
+      "display_name": "Application of Palynomorph Darkness Index (PDI) to assess the thermal maturity of palynomorphs: A case study from North Africa",
+      "alternate_titles": [],
+      "publication_year": 2018,
+      "publication_date": "2018-02-06",
+      "ids": {
+        "openalex": "https://openalex.org/W2792965592",
+        "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
+        "mag": "2792965592"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.coal.2018.02.001",
+        "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.coal.2018.02.001",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S6747076",
+          "display_name": "International Journal of Coal Geology",
+          "issn_l": "0166-5162",
+          "issn": [
+            "0166-5162",
+            "1872-7840"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-a",
+            "jufo-2",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Coal Geology",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2792965592"
+      ],
+      "child_works_count": 0,
+      "pull_notice_works": [],
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hal.sorbonne-universite.fr/hal-01794245",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5019612695",
+            "display_name": "Amalia Spina",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-1284-2574",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1284-2574"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27483092",
+              "display_name": "University of Perugia",
+              "ror": "https://ror.org/00x27da85",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": true,
+          "contributor_roles": [],
+          "raw_author_name": "Amalia Spina",
+          "raw_affiliation_strings": [
+            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1284-2574",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039685767",
+            "display_name": "Marco Vecoli",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-9203-7625",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9203-7625"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2279609970",
+              "display_name": "Université de Lille",
+              "ror": "https://ror.org/02kzqn938",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2279609970"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210148734",
+              "display_name": "Unité Évolution, Écologie et Paléontologie",
+              "ror": "https://ror.org/04y91dy23",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210137101",
+                "https://openalex.org/I4210139971",
+                "https://openalex.org/I4210148734"
+              ]
+            }
+          ],
+          "countries": [
+            "FR",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Marco Vecoli",
+          "raw_affiliation_strings": [
+            "Biostratigraphy Group, Geological Technical Services Department, Saudi Aramco, Dhahran 31311, Saudi Arabia",
+            "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
+            "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biostratigraphy Group, Geological Technical Services Department, Saudi Aramco, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210148734"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210148734"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004160583",
+            "display_name": "Armelle Riboulleau",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-2717-8330",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2717-8330"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2279609970",
+              "display_name": "Université de Lille",
+              "ror": "https://ror.org/02kzqn938",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2279609970"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2802487185",
+              "display_name": "Université du littoral côte d'opale",
+              "ror": "https://ror.org/02gdcg342",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2802487185"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210161208",
+              "display_name": "Laboratoire d’Océanologie et de Géosciences",
+              "ror": "https://ror.org/05m14rs93",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I2802487185",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210161208",
+                "https://openalex.org/I4210166444"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Armelle Riboulleau",
+          "raw_affiliation_strings": [
+            "Laboratoire d'Océanologie et de Géosciences, UMR 8187, Université de Lille, CNRS, Université du Littoral Côte d'Opale, Villeneuve d'Ascq 59655, France",
+            "LOG - Laboratoire d’Océanologie et de Géosciences (LOG) - UMR 8187 (28 avenue Foch - BP 80 - 62930 Wimereux - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire d'Océanologie et de Géosciences, UMR 8187, Université de Lille, CNRS, Université du Littoral Côte d'Opale, Villeneuve d'Ascq 59655, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I2802487185",
+                "https://openalex.org/I4210161208"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LOG - Laboratoire d’Océanologie et de Géosciences (LOG) - UMR 8187 (28 avenue Foch - BP 80 - 62930 Wimereux - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210161208"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066688203",
+            "display_name": "Geoff Clayton",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-6015-1885",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6015-1885"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91136226",
+              "display_name": "University of Sheffield",
+              "ror": "https://ror.org/05krs5044",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Geoff Clayton",
+          "raw_affiliation_strings": [
+            "Department of Animal and Plant Sciences, University of Sheffield, Sheffield, UK",
+            "University of Sheffield [Sheffield] (Western Bank Sheffield S10 2TN - United Kingdom)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Animal and Plant Sciences, University of Sheffield, Sheffield, UK",
+              "institution_ids": [
+                "https://openalex.org/I91136226"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Sheffield [Sheffield] (Western Bank Sheffield S10 2TN - United Kingdom)",
+              "institution_ids": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040210942",
+            "display_name": "Simonetta Cirilli",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-4100-7404",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4100-7404"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27483092",
+              "display_name": "University of Perugia",
+              "ror": "https://ror.org/00x27da85",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Simonetta Cirilli",
+          "raw_affiliation_strings": [
+            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4100-7404",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023485989",
+            "display_name": "Alessandro Di Michele",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-0357-2608",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0357-2608"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27483092",
+              "display_name": "University of Perugia",
+              "ror": "https://ror.org/00x27da85",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Alessandro Di Michele",
+          "raw_affiliation_strings": [
+            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027604059",
+            "display_name": "Annunziato Marcogiuseppe",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27483092",
+              "display_name": "University of Perugia",
+              "ror": "https://ror.org/00x27da85",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Annunziato Marcogiuseppe",
+          "raw_affiliation_strings": [
+            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029478023",
+            "display_name": "R Rettori",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0003-0505-1280",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0505-1280"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27483092",
+              "display_name": "University of Perugia",
+              "ror": "https://ror.org/00x27da85",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Roberto Rettori",
+          "raw_affiliation_strings": [
+            "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Geology, University of Perugia, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055851912",
+            "display_name": "Paola Sassi",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-4920-2784",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4920-2784"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27483092",
+              "display_name": "University of Perugia",
+              "ror": "https://ror.org/00x27da85",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Paola Sassi",
+          "raw_affiliation_strings": [
+            "Department of Chemistry, Biology and Biotechnology, University of Perugia, Perugia, Italy",
+            "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemistry, Biology and Biotechnology, University of Perugia, Perugia, Italy",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPG - Università degli Studi di Perugia = University of Perugia (piazza Università, 1, 06123 Perugia - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I27483092"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088719239",
+            "display_name": "Thomas Servais",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-4089-7874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4089-7874"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2279609970",
+              "display_name": "Université de Lille",
+              "ror": "https://ror.org/02kzqn938",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2279609970"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210148734",
+              "display_name": "Unité Évolution, Écologie et Paléontologie",
+              "ror": "https://ror.org/04y91dy23",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210137101",
+                "https://openalex.org/I4210139971",
+                "https://openalex.org/I4210148734"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Thomas Servais",
+          "raw_affiliation_strings": [
+            "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
+            "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Evolution, Ecologie et Paléontologie - UMR CNRS 8198, Université de Lille, Villeneuve d'Ascq 59655, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210148734"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Evo-Eco-Paléo (EEP) - Évolution, Écologie et Paléontologie (Evo-Eco-Paleo) - UMR 8198 (EvoEcoPaléo - UMR 8198, CNRS et Université de Lille - Bâtiment SN2, Cité Scientifique - 59655 Villeneuve d'Ascq - France)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210148734"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013507683",
+            "display_name": "Laurent Riquier",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0001-5510-2061",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5510-2061"
+            ]
+          },
+          "acted_on_behalf_of": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210097099",
+              "display_name": "Institut des Sciences de la Terre de Paris",
+              "ror": "https://ror.org/00xagyq07",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210097099",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "contributor_roles": [],
+          "raw_author_name": "Laurent Riquier",
+          "raw_affiliation_strings": [
+            "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
+            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210097099"
+              ]
+            },
+            {
+              "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
+              ]
+            },
+            {
+              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+              "institution_ids": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 10,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5019612695"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I27483092"
+      ],
+      "apc_list": {
+        "value": 4090,
+        "currency": "USD",
+        "value_usd": 4090
+      },
+      "apc_paid": null,
+      "fwci": 3.3856,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 42,
+      "reviewed_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.9141093,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 92,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "188",
+        "issue": null,
+        "first_page": "64",
+        "last_page": "78"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9961000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9961000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.0010000000474974513,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12218",
+          "display_name": "Coal and Its By-products",
+          "score": 0.0010000000474974513,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/thermal-maturity",
+          "display_name": "thermal maturity",
+          "score": 0.7760000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/palynomorphs",
+          "display_name": "palynomorphs",
+          "score": 0.9580000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-alteration-index",
+          "display_name": "thermal alteration index",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/rock-eval-pyrolysis",
+          "display_name": "Rock-Eval pyrolysis",
+          "score": 0.9520000219345093
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-alteration",
+          "display_name": "thermal alteration",
+          "score": 0.44999998807907104
+        },
+        {
+          "id": "https://openalex.org/keywords/light-microscopy",
+          "display_name": "optical microscopy",
+          "score": 0.3050000071525574
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.742155909538269
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7211571335792542
+        },
+        {
+          "id": "https://openalex.org/C101433766",
+          "wikidata": "https://www.wikidata.org/wiki/Q3543263",
+          "display_name": "Maturity (psychological)",
+          "level": 2,
+          "score": 0.6002700328826904
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6000496745109558
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.49172165989875793
+        },
+        {
+          "id": "https://openalex.org/C97316735",
+          "wikidata": "https://www.wikidata.org/wiki/Q342747",
+          "display_name": "Acritarch",
+          "level": 2,
+          "score": 0.47741973400115967
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.4594373106956482
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 6,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.coal.2018.02.001",
+          "doi": "https://doi.org/10.1016/j.coal.2018.02.001",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.coal.2018.02.001",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S6747076",
+            "display_name": "International Journal of Coal Geology",
+            "issn_l": "0166-5162",
+            "issn": [
+              "0166-5162",
+              "1872-7840"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-a",
+              "jufo-2",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Coal Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-01794245v1",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://hal.sorbonne-universite.fr/hal-01794245v1/document",
+          "pdf_url": "https://hal.sorbonne-universite.fr/hal-01794245",
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
+            "host_organization_lineage": [
+              "https://openalex.org/I4405252976"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "International Journal of Coal Geology, 2018, 188, pp.64-78. &#x27E8;10.1016/j.coal.2018.02.001&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-02408726v1",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hal.archives-ouvertes.fr/hal-02408726",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
+            "host_organization_lineage": [
+              "https://openalex.org/I4405252976"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ISSN: 0166-5162",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-04457398v1",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://hal.science/hal-04457398",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
+            "host_organization_lineage": [
+              "https://openalex.org/I4405252976"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "International Journal of Coal Geology, 2018, 188, pp.64-78. &#x27E8;10.1016/j.coal.2018.02.001&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:lilloa.univ-lille.fr:20.500.12210/34502",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/20.500.12210/34502",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402203",
+            "display_name": "LillOA (Université de Lille (University Of Lille))",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210123514",
+            "host_organization_name": "Centre d'Études en Civilisations, Langues et Lettres Étrangères",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210123514"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:lilloa.univ-lille.fr:20.500.12210/72370",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/20.500.12210/72370",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402203",
+            "display_name": "LillOA (Université de Lille (University Of Lille))",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210123514",
+            "host_organization_name": "Centre d'Études en Civilisations, Langues et Lettres Étrangères",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210123514"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:HAL:hal-01794245v1",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://hal.sorbonne-universite.fr/hal-01794245v1/document",
+        "pdf_url": "https://hal.sorbonne-universite.fr/hal-01794245",
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
+          "host_organization_lineage": [
+            "https://openalex.org/I4405252976"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "International Journal of Coal Geology, 2018, 188, pp.64-78. &#x27E8;10.1016/j.coal.2018.02.001&#x27E9;",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2792965592.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2792965592.grobid-xml"
+      },
+      "referenced_works_count": 35,
+      "referenced_works": [
+        "https://openalex.org/W86511457",
+        "https://openalex.org/W104761613",
+        "https://openalex.org/W144197183",
+        "https://openalex.org/W387629427",
+        "https://openalex.org/W787689512",
+        "https://openalex.org/W1896304009",
+        "https://openalex.org/W1968857409",
+        "https://openalex.org/W1972715118",
+        "https://openalex.org/W1982737699",
+        "https://openalex.org/W1983351619",
+        "https://openalex.org/W2005964557",
+        "https://openalex.org/W2008539803",
+        "https://openalex.org/W2016817170",
+        "https://openalex.org/W2051265248",
+        "https://openalex.org/W2051585725",
+        "https://openalex.org/W2056091230",
+        "https://openalex.org/W2062695488",
+        "https://openalex.org/W2068885376",
+        "https://openalex.org/W2076343412",
+        "https://openalex.org/W2077278441",
+        "https://openalex.org/W2087996039",
+        "https://openalex.org/W2091539779",
+        "https://openalex.org/W2119855749",
+        "https://openalex.org/W2135450311",
+        "https://openalex.org/W2135725060",
+        "https://openalex.org/W2170953363",
+        "https://openalex.org/W2173577344",
+        "https://openalex.org/W2181438948",
+        "https://openalex.org/W2317211914",
+        "https://openalex.org/W2751506457",
+        "https://openalex.org/W3005830087",
+        "https://openalex.org/W4242460581",
+        "https://openalex.org/W4245131553",
+        "https://openalex.org/W6683867963",
+        "https://openalex.org/W6703144788"
+      ],
+      "related_works": [
+        "https://openalex.org/W2789070351",
+        "https://openalex.org/W2170953363",
+        "https://openalex.org/W4414232083",
+        "https://openalex.org/W4390753362",
+        "https://openalex.org/W4401598947",
+        "https://openalex.org/W7057425951",
+        "https://openalex.org/W2255092855",
+        "https://openalex.org/W3042064290",
+        "https://openalex.org/W7046851739"
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2792965592",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        }
+      ],
+      "updated_date": "2026-11-27T09:11:17.138145",
+      "created_date": "2018-03-29T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2761574567",
       "doi": "https://doi.org/10.1111/let.12248",
       "title": "First Appearance Datums (FADs) of selected acritarch taxa and correlation between Lower and Middle Ordovician",
@@ -31502,13 +31535,13 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.7313,
+      "fwci": 1.7263,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 39,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82061346,
+        "value": 0.82002332,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41999,13 +42032,13 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.8701,
+      "fwci": 1.8666,
       "is_authors_truncated": false,
       "has_fulltext": false,
-      "cited_by_count": 44,
+      "cited_by_count": 45,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83178425,
+        "value": 0.83152754,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42451,7 +42484,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2018,
@@ -42482,7 +42515,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-25T09:40:18.809321",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -49496,14 +49529,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927
         },
         {
-          "score": 0.7605999708175659,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.7605999708175659
         }
       ],
       "study_designs": [],
@@ -51819,9 +51852,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7605999708175659,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.7605999708175659
         }
       ],
       "study_designs": [],
@@ -60562,13 +60595,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.4329,
+      "fwci": 0.4318,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 9,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50950066,
+        "value": 0.50870977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60947,9 +60980,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4390000104904175,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],
@@ -62512,9 +62545,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5742999911308289,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5742999911308289
         }
       ],
       "study_designs": [],
@@ -69091,13 +69124,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3757,
+      "fwci": 0.3748,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 14,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49625792,
+        "value": 0.49524906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74341,13 +74374,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0254,
+      "fwci": 1.0241,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 11,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73946545,
+        "value": 0.73921427,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77070,13 +77103,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4336,
+      "fwci": 0.4333,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 6,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53376395,
+        "value": 0.53339863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77400,9 +77433,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -78584,9 +78617,17 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240145420",
+          "display_name": "SPE Middle East Oil and Gas Show and Conference 2019",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W2922199854"
+        "https://openalex.org/W2922199854",
+        "https://openalex.org/W7240145420"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -78696,13 +78737,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7759,
+      "fwci": 3.7874,
       "is_authors_truncated": false,
       "has_fulltext": false,
       "cited_by_count": 3,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84603659,
+        "value": 0.84650456,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79798,7 +79839,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-26T09:34:50.682384",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2019-03-22T00:00:00"
     },
     {
@@ -82301,13 +82342,13 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 0.1961,
+      "fwci": 0.1955,
       "is_authors_truncated": false,
       "has_fulltext": true,
       "cited_by_count": 1,
       "reviewed_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3759735,
+        "value": 0.37535842,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85199,9 +85240,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4390000104904175,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],
@@ -90341,9 +90382,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -99537,8 +99578,10 @@
             "id": "https://openalex.org/A5103551749",
             "display_name": "Anthony Butcher",
             "type": null,
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0003-4357-965X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4357-965X"
+            ]
           },
           "acted_on_behalf_of": [],
           "institutions": [],
@@ -99854,7 +99897,7 @@
       "abstract_inverted_index": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3200997594",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2021-09-27T00:00:00"
     },
     {
@@ -100396,9 +100439,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4390000104904175,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],
@@ -102834,9 +102877,17 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
-      "parent_works": [],
+      "parent_works": [
+        {
+          "id": "https://openalex.org/W7240129625",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO) 2025",
+          "relationship": "volume",
+          "link_type": "volume"
+        }
+      ],
       "lineage": [
-        "https://openalex.org/W4414232083"
+        "https://openalex.org/W4414232083",
+        "https://openalex.org/W7240129625"
       ],
       "child_works_count": 0,
       "pull_notice_works": [],
@@ -103869,7 +103920,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4414232083",
       "counts_by_year": [],
-      "updated_date": "2026-11-21T10:27:49.728292",
+      "updated_date": "2026-11-27T09:11:17.138145",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -104437,9 +104488,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 1
         }
       ],
       "study_designs": [],
